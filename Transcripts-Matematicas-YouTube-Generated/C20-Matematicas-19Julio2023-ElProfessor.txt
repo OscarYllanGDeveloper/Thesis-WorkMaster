@@ -1,0 +1,658 @@
+0:02
+Okay chavos no bueno acuérdense que ayer
+0:09
+estábamos viendo verdad lo de las proposiciones lógicas verdad Muy bien hay que acordarnos una proposición
+0:16
+lógica chavos alguien que me diga que es una
+0:22
+proposición
+0:28
+lógica
+0:43
+Es una proposición lógica chavos buen es una frase es algo que
+0:50
+solo puede tomar dos valores verdadero o falso verdad es una frase que puede
+0:56
+tomar Solo dos valores verdadero o falso muy bien ejempl es Yo me llamo Juan el
+1:01
+examen está fácil el cielo es azul La manzana es roja verdad o es verdadero o
+1:07
+es falso y ya muy bien Bueno acuérdense que también habíamos visto las operaciones lógicas que eran el ant
+1:15
+verdad en el an dijimos que todo era bueno que si tenías un solo false todo
+1:20
+terminaba siendo false verdad aquí por ejemplo en este true false verdad false
+1:27
+aquí contener un solo false es false y aquí igual muy bien en el or Bueno aquí
+1:33
+también vimos que el p p aquí lo que está en las tablas quiere decir la preposición lógica un q es la
+1:39
+proposición lógica dos por ejemplo que habíamos dicho el yo fui al cine y me comí por ejemplo aquí yo fui al cine y
+1:45
+me comí una creepa para que esto sea verdad chavos es necesario primero que
+1:50
+haya ido al cine y luego que haya comido la creepa O sea para que yo haya comido una creepa en el cine es que se cumplan
+1:57
+ambas verdad ambas tienen que ser sí chavos si lo ven eso que sí y bueno
+2:05
+en el or dijimos que era que con que tengas un solo true todo se vuelve true
+2:12
+acuérdense que vimos el ejemplo de Messi verdad Messi al entrar en en el Salón de la
+2:18
+Fama de los campeones del mundo verdad entrar en la fama en los campeones del mundo es el or verdad es con el or Qué
+2:26
+quiere decir por ejemplo Messi el 2006 fue campeón false en el 2010 fue
+2:35
+campeón tampoco perdió false en el 2014 perdió false verdad en el 2018 igual
+2:43
+pierde false Pero qué creen con que tenga un solo valor en true con que haya
+2:48
+ganado uno que en el 2022 ganó Messi entra en el Salón de la Fama de los campeones del
+2:55
+mundo Sí verdad por qué porque acuérdense que esto es operación or Okay muy bien ser
+3:03
+campeón de un torneo para ser campeón de un torneo el equipo tiene que pasar cada
+3:09
+uno de los partidos verdad Okay aquí por ejemplo este
+3:15
+Francia en el 2018 se clasificó y ganó todos verdad en este caso Francia
+3:23
+en el 2018 es cre que fue campeón en el 2022
+3:30
+gana todos pasa a todos pero tiene un solo false en la
+3:35
+final como es s verdad como es s el valor es false verdad Muy
+3:45
+bien bueno dijimos la negación chavos la negación es lo opuesto verdad si tenemos
+3:52
+true es false y si es false es true verdad Muy bien
+3:58
+bueno acuérdense que vimos que cada statement cada proposición lógica tiene
+4:05
+dos opciones verdad tiene dos valores y el número posible de combinaciones está dado por esta fórmula que es igual a 2
+4:13
+elevado al número número de proposiciones lógicas lo que quiere decir a ver chavos si yo
+4:20
+tuviera 25 proposiciones lógicas Cuántas combinaciones
+4:28
+tendría y tengo 25 proposiciones
+4:34
+lógicas Cuántas tendría alguien chavos Cuántas
+4:47
+tendría ahí está la fórmula chavos está muy sencillo
+4:53
+sustituir están viendo ahí en el en la pantalla Cuántas tendría
+4:58
+chos
+5:04
+tendría dos a la 25 verdad 2 elevado a
+5:10
+la potencia 25 dijimos que el número de combinaciones verdad el número de
+5:17
+combinaciones está dado por esta fórmula verdad
+5:28
+chavos Okay muy bien miren una proposición lógica tiene
+5:35
+dos filas no dos opciones dos proposiciones lógicas dijimos que iba a
+5:41
+ser 2 al cuadrado o sea 4 no tres proposiciones lógicas va a
+5:48
+ser 2 al cubo y así no muy bien acuérdense para construir las tablas de
+5:54
+verdad chavos lo ordenamos en orden alfabético p QR por ejemplo no Y empezamos de la
+6:02
+última columna para acá verdad Muy bien aquí vemos chavos Cada cuánto se alterna true false
+6:11
+true false true false true false true false Cada cuánto se alterna Cada cuántos
+6:21
+chavos cada uno no un 1 1 aquí chavos
+6:27
+Cada cuánto se alterna en la segunda columna Cada cuánto chavos cada dos dos
+6:35
+muy bien cada dos verdad tenemos dos true dos false dos true dos false en la
+6:42
+tercera columna Cada cuánto cuatro muy bien y si tuviéramos
+6:51
+una cuarta columna Cada
+6:58
+cuánto cada ocho perfecto cada ocho muy bien ya encado el patrón o sea se van
+7:04
+multiplicando por dos verdad aquí es uno se multiplica por dos tenemos dos aquí cuatro aquí oo y si tuvieramos otra pues
+7:11
+cada 16 no muy bien así es como se van Así es como se construyen las tabas de
+7:17
+verdad Muy bien bueno habíamos visto que
+7:22
+podemos tener operaciones compuestas verdad las operaciones compuestas son
+7:29
+como esto por ejemplo no que podemos tener varios no este
+7:36
+operaciones bien Vamos a hacer una yo creo que ya por cuestión de tiempo lo voy a hacer yo no sé si
+7:43
+[Música] practicar Mejor vamos a ver lo de
+7:49
+combinatoria ya mañana practicamos porque ya por el tiempo no creo que no vaya a dar
+7:54
+tiempo Okay miren Vámonos a luego veremos lo practicaremos no se preocupen
+8:02
+mañana Y ahorita por tiempos vamos a ver esto chavos antes de esto
+8:09
+okay se acuerdan de que habíamos dicho que era la diferencia entre combinaciones y
+8:21
+permutaciones Cuál es la diferencia
+8:28
+chavos el orden m
+8:34
+perdón el orden exactamente en
+8:41
+permutaciones sí o no importa el
+8:47
+orden en permutaciones si importa el
+8:52
+orden Aquí sí importa aquí en
+8:58
+combinaciones no importa el orden qué quiero decir con esto miren
+9:05
+chavos El ejemplo era de ser por ejemplo
+9:10
+presidente y vicepresidente No aquí importa el orden o no mir tenemos este
+9:17
+Ana y a Juan aquí importa o no importa el orden
+9:25
+de quién es presidente Y quién es vicepresidente
+9:34
+qué les dice su lógica
+9:45
+chavos importa o no importa s importa verdad no es lo mismo
+9:52
+que Ana sea presidente que Juan sea vicepresidente verdad que Juan sea el pres
+10:00
+y Ana sea la vicepresidenta Entonces en este caso esto es
+10:07
+una permutación verdad esto es permutación son permutaciones verdad
+10:14
+aquí si importa el orden chavos en dónde no importa el orden era
+10:20
+lo que decíamos por ejemplo tenemos ocho personas en un grupo
+10:28
+verdad y tenemos que hacer No sé equipos de
+10:36
+tres
+10:42
+verdad aquí importa el orden o no importa el orden
+10:52
+chavos no importa verdad porque digo es el mismo equipo que sea Juan Ana y
+11:00
+Paola que si decimos Paola Juan y Ana al final de cuentas sigue
+11:08
+siendo la misma tercia verdad sigue siendo el mismo equipo de tres entonces aquí no importa el orden
+11:15
+entonces aquí Qué sería combinaciones
+11:23
+verdad como no importa el orden verdad en equipos de tres no nos importa o sea
+11:29
+Ana y Paola Paola Juan y Ana o este Ana Paola Juan es el mismo equipo son las
+11:35
+mismas tres personas verdad entonces aquí es combinaciones en el caso en donde sí
+11:41
+importa el orden verdad Donde hay como una jerarquía no es lo mismo presidente vicepresidente verdad Esa es una
+11:48
+permutación es donde sí importa el orden muy bien miren este d habíamos visto la
+11:56
+multiplicativa y la aditiva vamos a ver ver el factorial de nuevo el factorial
+12:02
+chavos el factorial es una operación verdad que se define la definición no
+12:12
+es la multiplicación de la
+12:19
+secuencia de
+12:27
+enteros del uno hasta el
+12:33
+número no Cómo se pone el factorial chavos se
+12:39
+pone el número y el signo de exclamación el número el signo de
+12:47
+exclamación por ejemplo el factorial de 8 se escribe o y un signo de
+12:53
+exclamación el factorial de 8 no es nada más O sea que hacer esto es
+13:04
+poner 8 por 7 por 6 por 5 por 4 por 3 por 2
+13:15
+por 1 hasta llegar al 1 verdad Ese es el factorial de 8 y así es para cualquier
+13:21
+número no el factorial de Bueno un poco más chico el factorial de 5 cuál sería
+13:29
+a ver vyan dictando Cómo podría sacar el factorial de
+13:36
+5 5 * 4 por 3 por 2 y por 1 Muy bien
+13:41
+excelente también hay algo bueno en programación lo vimos aquí no que se le llama un poco como recursión en ese
+13:49
+sentido miren vamos a ver algo interesante de esto bien 8
+13:56
+factorial también se puede escribir como 8 por el factorial de 7
+14:04
+verdad por qué Qué sería el factorial de 7 7 * 6 * 5 * 4 * 3 por 2 por 1 no y qué
+14:17
+cre vamos a ver Esto no es igual a esto
+14:27
+chavos son iguales o
+14:35
+no son iguales Sí sí verdad entonces también el
+14:42
+8 factorial se podría expresar como 8 por factorial de 7 subsecuentemente
+14:47
+también el 8 factorial se podría expresar por ejemplo como 8 * 7 por el
+14:57
+factorial de 6 verdad o también No pues obviamente
+15:03
+podría ser 8o es igual a 8 * 7 * 6 por
+15:10
+el factorial de 5 no y
+15:16
+así muy bien así podíamos ir expresando esto nos sirve bueno en programación si
+15:22
+tuviéramos Por ejemplo si tuviéramos una tabla de factoriales Pues en vez de hacer toda la operación podríamos acá
+15:29
+también nos va a servir ahorita van a ver en las fórmulas de combinaciones y permutaciones para no tener que poner
+15:36
+todo porque primero hay algo muy interesante de la operación factorial es
+15:42
+que el factorial chavos crece aún más rápido que el
+15:47
+exponencial o sea el orden de crecimiento de una operación de una función factorial Es mayor que una
+15:56
+exponencial entonces es por eso eso que también es importante porque ahorita vamos a ver hay muchas veces que las
+16:03
+calculadoras pues no nos pueden dar números tan monstruosamente grandes Entonces vamos a ver cómo se pueden
+16:08
+eliminar usando matemáticas Bueno este meme nada más así que para que quede no
+16:15
+el meme dice cuánto es 716 + 4
+16:20
+chavos 720 no pero también ponen Bueno
+16:25
+este no se y el de exclamación que bueno ahorita ya saben que el se signo de
+16:31
+exclamación significa 6 factorial que miren vamos a hacerlo Cuánto es 1 * 2 2
+16:39
+2 * 3 6 verdad 6 6 * 4 cuánto nos da 24 verdad 24 * 5
+16:52
+nos da 120 y 120 * 6
+17:00
+720 verdad es por eso que van es es el meme creo que han visto muchos de estos A lo mejor en internet Pero bueno muy
+17:09
+bien Bueno lo que les decía las combinaciones y las permutaciones chavos
+17:15
+las combinaciones chavos qué dijimos no importa el orden verdad para
+17:24
+una combinación es lo mismo amarillo rojo que rojo amarillo sin embargo en permutaciones no en permutaciones sí es
+17:31
+diferente el amarillo rojo que el rojo amarillo muy bien
+17:38
+okay Bueno chavos miren El M elige n
+17:43
+aquí son fórmulas mir vamos a verlo en limpio Okay m elige n
+17:50
+chavos vamos a ver por ejemplo este ejemplo está en ing de los dadus cuántos
+17:57
+comités únicos de cinco personas se pueden formar de un grupo de 10 personas
+18:05
+Qué quiere decir miren m quiere decir la
+18:12
+población n es el
+18:18
+color es el número no de elementos a elegir de
+18:25
+la población no
+18:35
+sí lo ven o no chavos es esta fórmula mn verdad M es la
+18:43
+población y n es el número que vamos a elegir por eso se llama m de m elegimos
+18:50
+en el elementos verdad m ch n en inglés no O sea de la población m elegimos n
+19:00
+muy bien si se dan cuenta de la Fórmula qué tenemos aquí qué tenemos aquí y qué
+19:08
+tenemos aquí factoriales verdad por ejemplo en
+19:13
+este caso el problema vamos a resolver el problema que nos están diciendo aquí 10 elige 5 de 10 elige 5 cuánto es
+19:21
+nuestro m chavos en es problema 10 10 muy bien y
+19:31
+n 5 5 muy bien Vamos a hacer la operación verdad 10 5 sustituimos en la
+19:40
+fórmula no sabemos que M
+19:45
+es 10 verdad Entonces tenemos aquí el factorial de 10 dividido
+19:53
+entre m men n que va a ser en paréntesis 10
+19:58
+menos 5 verdad el factorial de esto por
+20:04
+el factorial de n que en este caso es 5
+20:09
+verdad factorial de 5 Okay miren vamos a hacer esto aquí nos sigue quedando 10
+20:17
+arriba verdad el factorial de 10 dividido
+20:26
+no okay 10 men 5 cuánto nos da
+20:33
+chavos cuánto nos da 10 men 5 chavos cco muy bien nos quedaría 5 y el factorial
+20:42
+de 5 verdad por el factorial de 5 Okay pero qué creen chavos acuérdense del 10
+20:49
+factorial el 10 factorial también se puede escribir como 10 * 9 * 8 * 7 * 6
+21:01
+por 5 factorial verdad Entonces eliminamos uno de los
+21:08
+dos c factoriales que tenemos abajo verdad eliminamos este por ejemplo con este y
+21:16
+ya nada más nos quedaría qué nos quedaría el 10 * 9 * 8 * 7 6
+21:28
+entre el factorial de 5
+21:34
+no esto ya nada más sería que lo metíamos en la calculadora mir dej se lo meto
+21:39
+[Música] rápido 10 * 9 * 8 * 7 *
+21:51
+6 todo esto entre factorial de 5 que habíamos dicho
+21:57
+que el factorial de C era 120 verdad Y esto nos queda que hay
+22:03
+252 posibles combinaciones verdad O sea podemos formar 252 diferentes
+22:13
+comités está muy padre No aquí Habíamos hecho un ejemplo verdad
+22:19
+por ejemplo de cinco personas chavos tenemos cinco personas Cuántas parejas
+22:24
+podemos formar miren vamos a hacerlo Ana puede
+22:30
+formar Cuántas parejas Cuántas
+22:39
+chavos cuatro cuatro muy bien Ana puede formar cuatro verdad que es lo que
+22:45
+tenemos aquí nos vamos a Juan Juan ya no puede hacer pareja con Ana porque dijimos que en las parejas no importa el
+22:52
+orden verdad Entonces Juan Solo puede hacer pareja con cuántas personas
+23:01
+con tres verdad con Pablo María y Paola con tres muy bien luego Pablo solo puede
+23:07
+hacer parejas con María o Paola verdad dos y al final María solo puede hacer
+23:13
+pareja con pa Paola verdad uno cuánto nos da 4 + 3 + 2 + 1 4 + 3 nos da 7 7 +
+23:24
+2 nos da 9 y 9 + 1 nos da
+23:30
+10 verdad muy bien Qué bueno si hacíamos la fórmula verdad si sustituí el m en
+23:36
+este caso El M era la población y decíamos que era 5 verdad factorial de 5 y n que es parejas no 2 teníamos el
+23:45
+factorial de 5 y bueno teníamos 5 - 2 5 - 2 Nos daba 3 verdad 3 factorial
+23:52
+dijimos que el 5 factorial también lo podíamos escribir como 5 * 4 * 3 factorial Entonces estos dos TR
+24:00
+factoriales se eliminan y nos quedaba 5 por 4 Cuánto es 5 por 4
+24:07
+chavos 20 no Cuánto es el factorial de 2 factorial de 2 va a ser 2 por 1 que esto
+24:15
+es igual a 2 verdad Entonces tenemos 20 ent
+24:21
+2 10 verdad se dan cuenta es lo mismo verdad es como si lo
+24:28
+contáramos obviamente aquí estuvo bien sencillo porque pues podíamos contarlo porque no eran muchos este por ejemplo
+24:35
+imagínense contar 252 mucho verdad ahora imagínense que
+24:41
+tuviéramos una
+24:46
+generación igual de 500
+24:52
+alumnos y el comité igual puede ser solo de
+24:58
+cco alumnos Ok cuánto sería m en este caso y
+25:07
+cuánto sería n m sería 500 y n sería 5
+25:13
+perfecto muy bien y la fórmula nos quedaría 500 5 verdad y vamos a sustituir
+25:20
+acuérdense que era m el factorial de m en este caso el factorial de 500
+25:26
+verdad entre dijimos que era m - n en paréntesis
+25:33
+500 - 5 verdad todo esto factorial por
+25:39
+el factorial de N O sea el factorial de 5 Muy bien pues vamos a hacerlo 500 men
+25:47
+5 cuánto me da chavos 95 495 verdad Muy bien es el factorial
+25:56
+de 4 95 por 5 factorial verdad 500
+26:02
+factorial arriba muy bien Hay que acordarnos chavos para no meter el 500 factorial en la en la calculadora que
+26:09
+nos va a dar un monstruo de número el 500 factorial también lo podemos escribir como 500 *
+26:17
+499 por 498 * 497 *
+26:25
+496 por el factorial de
+26:31
+495 verdad y aquí abajo qué
+26:38
+tenemos el factorial de
+26:44
+495 verdad por factorial de 5 qué le va a pasar a estos
+26:50
+dos qué le va a pasar a este y este alguien tiene cancel muy bien se
+27:00
+van a cancelar y ya evitamos poner el monstruo del 500 factorial en la
+27:06
+calculadora ya nos quedaría algo más amigable que solo sería esta multiplicación verdad Entre el factorial
+27:14
+de
+27:24
+5 Qué bueno ya si lo ponen en su calculadora
+27:31
+verdad nos da 500 * 499 *
+27:38
+498 * 497 *
+27:43
+496 verdad todo esto entre el factorial de 5 que habíamos dicho que era 120
+27:50
+verdad cómo nos queda un monstruo 3 6
+27:59
+9 porque nos queda 2.55 por 10 a la
+28:06
+11 sea todavía si nos queda un número monstruosamente grande no imagínense
+28:12
+contarlo tan toda la vida entonces es por eso que existen estas fórmulas
+28:19
+verdad estas fórmulas de combinatoria este nos permite saber el número de
+28:26
+combinaciones número de permutaciones es muy parecida a la fórmula vamos a
+28:33
+compararla creo que aquí hay una diapositiva que lo trae aquí está
+28:39
+perfecto Es casi igual nada más que no tiene este último
+28:45
+término aquí digo tiene algo de lógica porque acuérdense que dijimos que el
+28:51
+número de permutaciones no el número de
+28:56
+permutaciones y el número de combinaciones
+29:01
+chavos Qué es mayor el número de combinaciones o el número de permutaciones por lo
+29:08
+general de combinaciones no es mayor el número de
+29:16
+permutaciones es mayor o igual por qué Porque al importar el orden chavos hay
+29:22
+más posibilidades verdad miren Aquí estaba siempe vamos a
+29:27
+regresarnos la imagen de los cubitos Aquí vamos a ver cuántas combinaciones
+29:37
+hay Cuántas hay tres combinaciones verdad y para los
+29:46
+mismos elementos Cuántas permutaciones
+29:53
+hay seis verdad desde la lógica verdad que cada uno de estos se cuenta doble
+29:59
+verdad este se cuenta uno y este se cuenta dos sin embargo en la combinación solo lo contamos una vez Entonces
+30:06
+siempre es mayor o igual el número de permutaciones siempre va a haber o más o
+30:14
+igual permutaciones a las combinaciones muy bien yasta mir en la propia fórmula lo dice
+30:21
+miren acuérdense si nosotros agregamos algo aquí abajo
+30:28
+en la división estamos haciendo más grande al denominador y qué le va a
+30:34
+pasar entonces al número acuérdense que siempre decimos que cuando está arriba que está multiplicando decimos que es
+30:44
+directamente proporcional no s se acuerdan de estos chavos de los
+30:50
+directamente proporcional Qué quiere decir que cuando aumenta lo de arriba el numerador verdad
+30:57
+también aumenta este número sin embargo cuando está abajo en
+31:04
+la división se le dice como
+31:10
+indirectamente proporcional Qué quiere decir chavos cuando es indirectamente proporcional si
+31:19
+aumenta el denominador esta cosa desciende verdad
+31:25
+porque lo estás dividiendo entre un número más grande entonces mir desde la simple fórmula podemos ver
+31:32
+que las permutaciones el número de permutaciones siempre es mayor o igual al número
+31:40
+de combinaciones No si lo ven o no
+31:53
+chavos Okay miren es por ejemplo vamos a poner un ejemplo de un carro verdad un
+32:00
+equipo un equipo que se sube a un carro verdad bien así sea
+32:08
+Juan María y Omar no es el mismo equipo Cuántas
+32:17
+combinaciones hay una verdad solo hay una combinación
+32:24
+porque aunque sea en el mismo carro María Juan y Óscar o bueno Omar Perdón
+32:30
+María Juan y Omar o el orden que pongamos siguen siendo las mismas tres personas en el carro sin embargo si
+32:37
+decimos Ah pero esta es la posición uno o la posición a Vamos a ponerle Esta es la posición a esta es la posición B Y
+32:44
+esta es la posición c ahí s importa el orden verdad Ahí ya serían permutaciones
+32:51
+miren vamos a ver sí es combinaciones verdad habíamos
+32:59
+dicho m cuánto sería chavos Cuánto es la
+33:05
+población tres verdad y n en este caso como estamos eligiendo
+33:12
+tres también es Entonces miren el número de combinaciones sería TR bueno el
+33:19
+factorial de 3 entre 3 - 3
+33:25
+factorial por bueno Perdón por y factorial de 3 3 - 3 nos va a dar 0 hay
+33:33
+una demostración que está medio larga y eso de El cer factorial por
+33:39
+definición es igual a 1
+33:52
+Entonces qué nos queda esto esto nos queda que
+33:58
+daría 3 factorial entre 1 por 3
+34:05
+factorial y obviamente este 3 factorial y este 3 factorial se van a ir y qué nos va a
+34:12
+quedar uno lo cual está cierto no Cuántas combinaciones tenemos una pero
+34:18
+cuántas permutaciones tendríamos ahí sí ya es diferente
+34:25
+verdad Cuántas tendríamos
+34:53
+chavos tendríamos no las combinaciones verdad que nos daría esto vamos a hacerlo uno a uno para que se vea Aunque
+35:02
+ya no es que ya va a empezar Okay a ver déjen ver si lo hago
+35:08
+rápido ya mañana lo hacemos
+35:13
+Okay bu o también
+35:25
+tenemos muy bien Bien también
+35:41
+tendríamos okay Y qué más
+35:51
+chavos más chavos
+36:06
+Cuántas permutaciones
+36:12
+tenemos Cuántas son chavos las pueden contar
+36:22
+Cuántas seis muy bien seis verdad seis permutaciones que vamos a hacer la
+36:30
+fórmula aquí cómo sería chavos dijimos que m cuánto
+36:38
+es factorial entre qué 3 - 3 factorial o sea
+36:50
+sería 3 factorial verdad entre 0
+36:55
+factorial cuánto dijimos que era o
+37:01
+factorial cuánto dijimos uno un verdad Entonces esto sería 3 factorial entre 1
+37:09
+cuánto nos da 3 factorial o sea bueno Esto nos quedaría como 3 factorial cuánto nos da 3 factorial es igual a 3 *
+37:16
+2 * 1 Cuánto es 3 * 2 * 1
+37:25
+seis si lo vemos
+37:33
+entonces es cierta la fórmula No aquí estamos comprobando que es cierta la
+37:39
+fórmula Okay muy bien les digo esta es muy poderosa sobre todo cuando ahorita
+37:45
+que vimos este de números gigantescos Pues nos permite hacerlo así entonces
+37:51
+Esto es algo muy importante chavos por qué porque de combinatoria se
+37:58
+basa la probabilidad y de la probabilidad la estadística exactamente el número
+38:04
+posible de combinaciones imagínense pues aquí estamos asumiendo por ejemplo
+38:10
+imagínense que esto fuera en una máquina de estas aleatorias no en teoría
+38:17
+Entonces cuál sería la probabilidad de cada una de estas opciones sería un sexto verdad Muy bien Y así es como
+38:25
+nosot así como empieza probabilidad se basa en
+38:31
+combinatoria Okay entonces bueno para eso sirve chavos la combinatoria todo
+38:36
+esto que estamos viendo esta semana junto a cálculo es lo que nos va a permitir hacer las cosas de probabilidad
+38:43
+y estadística Qué probabilidad y estadística se usan en demasiadas cosas hoy en día se usan en economía en
+38:50
+finanzas en física por ejemplo también en ingeniería de materiales en ciencia
+38:56
+de datos Inteligencia artificial muchas cosas en calidad por
+39:01
+ejemplo este los que quieran estudiar ingeniería que este en calidad en ingenierías de manufactura también se
+39:07
+hace se usa la probilidad estadística en negocios igual este para predecir
+39:13
+precios de acciones etcétera este también en estudios científicos como
+39:19
+tipo por ejemplo la vacuna del coronavirus no este para saber se hacen estudios bioestadístico
+39:27
+para ver si las vacunas funcionan o no funcionan Qué efectos secundarios tienen
+39:32
+tienen ciertos límites etcétera y todo eso se basa en probabilidad y
+39:38
+probabilidad se basa en combinatorio entonces bueno tenemos que aprender muy
+39:43
+bien esto y cálculo para poder hacer bien probabilidad Pero bueno chavos ahora sí que ya llegamos al tiempo y nos
+39:50
+vemos chavos os mañana vamos a volver a repasar y vamos a hacer algunos ejercicios porque ahorita no hicimos el
+39:55
+ejercicio que quería de este lógica mañana lo hacemos chavos Okay pues Bueno nos vemos y
+40:09
+cuídense

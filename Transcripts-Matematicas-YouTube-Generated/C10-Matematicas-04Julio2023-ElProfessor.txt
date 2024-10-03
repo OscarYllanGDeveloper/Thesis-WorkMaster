@@ -1,0 +1,912 @@
+0:03
+Okay Buenas Cómo están chavos Pues bueno básicamente este vamos a ver no lo
+0:11
+que nos quedamos este acuérdense que nos quedamos en cosas de este precálculo
+0:16
+intrat trigonometría este bueno vimos o bueno vamos a ver un poco
+0:28
+este es mejor algo uno para la quee de ahorita de la
+0:34
+tarde un
+0:53
+segundo
+0:58
+matas
+1:28
+k
+1:39
+Okay habíamos visto un poco de funciones exponenciales de funciones logarítmicas
+1:45
+Okay muy bien y bueno empezamos a ver un poco de las propiedades sa ver un poco
+1:51
+de las propiedades bueno de las propiedades logarítmicas no que estas son muy útiles
+1:57
+vamos a repasarlas propiedades de los logaritmos
+2:10
+no Okay las propiedades de los logaritmos chavos las propiedades de los
+2:15
+logaritmos no la primera propiedad es la de la multiplicación por
+2:24
+ejemplo nosotros tenemos dos elementos que se están multiplicando dentro de un logaritmo es equivalente a tener el
+2:31
+logaritmo de X más el logaritmo de y Okay chavos pues miren básicamente no
+2:41
+un ejemplo Sería bueno pero también puede ser al revés acuérdense que estas propiedades van en ambas direcciones no
+2:49
+Qué quiere decir que podemos ir de acá a acá y también podemos ir de acá a acá
+2:56
+verdad Muy bien entonces
+3:04
+qui decir que si tenemos esto al principio también lo podemos pasar no a
+3:10
+esto dependiendo de qué nos convenga más un ejemplo de esto
+3:26
+sería Okay logaritmo de 5x no es igual a logaritmo de 5 + logaritmo de X
+3:34
+no Okay estos se están multiplicando verdad 5 * x Entonces lo podíamos
+3:39
+Separar en esto logaritmo de 5 má logaritmo de X no Okay muy bien este
+3:46
+pues al revés no si tuviéramos algo así como logaritmo de este no
+3:51
+sé x cuad má logaritmo x No pues también
+3:58
+podríamos juntarlo y nos saldría logaritmo de X cuada por x que sería x
+4:04
+cúbica no O sea acuérdense que puede ir de ambos sentidos muy bien esa es la
+4:10
+propiedad número uno que es la básica multiplicación de logaritmos no vamos a poner el
+4:27
+nombre muy bien chavos multiplicación de logaritmos
+4:53
+verdad Y tenemos el división
+5:03
+acuérdense chavos que hemos este Qué es la lo que eran las inversas verdad Okay
+5:11
+chavos de la inversa de la multiplicación es la de la multiplicación es la división verdad
+5:18
+Okay entonces por lógica chavos si aquí estamos sumando que se imaginen cuando pase en el de la
+5:26
+división alguien resten está muy bien verdad la lógica nos quiere decir que
+5:32
+Esto va a ser entonces logaritmo de X menos logaritmo de y verdad Esa es la
+5:39
+lógica Okay muy bien entonces este tenemos aquí no que Pero acuérdense
+5:48
+que puede ir de ambos lados no lo que dijimos Depende de qué nos convenga verdad O sea Nosotros también podríamos
+5:55
+tener que esto sea pues bueno logaritmo no no de X menos bueno perdón x menos
+6:05
+logaritmo de y no esto nos va a dar igual a logaritmo de x y acuérdense que
+6:11
+va para ambos lados no es una igualdad entonces puede ir para ambos
+6:18
+lados Okay muy bien y esto podría ser por ejemplo
+6:25
+logaritmo de no sé o ent x no esto se podría Traducir a
+6:33
+logaritmo de 8 menos logaritmo de X
+6:40
+verdad
+6:50
+Okay okay muy bien logaritmo de 8 men logaritmo de X verdad Entonces
+6:57
+este también puede ser al revés no que tengamos ahora sí que no
+7:09
+sé y esto nos daría a ver chavos qué me qué me
+7:15
+daría ahí lo están viendo de X cuad ent X muy bien logaritmo de X cuadrada ent x
+7:24
+verdad que bueno esto sería equivalente no a logaritmo de ya simplificando
+7:29
+de X no les digo o sea dependiendo de qué tengamos qué nos convenga
+7:39
+no Okay muy bien este muy bien acuérdense este Esas son
+7:47
+las este dos propiedad Bueno las dos propiedades no existe una tercera buen
+7:54
+color est es muy muy útil Cuando tenemos ecuaciones exponenciales que est es la
+8:01
+propiedad de los logaritmos no logaritmos en exponenciales buen exponenciales en logaritmos o exponentes
+8:09
+de exponentes en los
+8:14
+logaritmos miren este es muy útil en las ecuaciones
+8:25
+exponenciales muy bien los exponentes en los logaritmos en las ecuaciones
+8:31
+exponenciales no sé si acuerdan que habíamos hecho un Bueno un problema Por ejemplo del cálculo de cuánto tiempo se
+8:37
+tardaba en duplicarse un monto de interés cuando tienes una tarjeta de crédito en
+8:45
+México qua 2 años eso usamos esta propiedad vamos a ver cuál es la
+8:53
+propiedad es la siguiente chavos logaritmo
+9:00
+de X a la n sale el exponencial del
+9:06
+logaritmo como multiplicando n por logaritmo de X
+9:14
+acuérdense como dijimos puede ir de ambos lados no acuérdense ambos lados lo
+9:19
+que quiere decir que si tenemos esto
+9:25
+no n por logaritmo de X no también podemos meter el n dentro de El
+9:33
+logaritmo no y nos quedara x a la n por ejemplo un ejemplo este si tenemos
+9:39
+logaritmo de no sé 8 x cuadrada tenemos
+9:47
+algo así muy loco no está o sea esto sería equivalente a tener x cu por
+9:55
+logaritmo de 8 verdad muy
+10:00
+bien y bueno Obviamente que si fuera al revés no si tuviéramos por ejemplo nos conviene no tener
+10:07
+este x ent logaritmo de
+10:12
+X esto a Qué sería equivalente
+10:18
+chavos logaritmo de X cúbica perfecto logaritmo de X cbica no muy bien
+10:25
+entonces así es como funcionaría no okay cua que esto es muy útil en las ecuaciones exponenciales porque hay que
+10:33
+acordarnos no que lo que habíamos dicho por ejemplo
+10:39
+de los intereses no habíamos dicho que si era el 30 40% no este no sé si lo
+10:47
+puse en esta o lo puse en otra Déjenme Probablemente lo puse
+10:58
+esta aquí se acuerdan que había dicho por ejemplo cuánto tiempo nos tardaríamos
+11:04
+que con el interés de las tarjetas de crédito en México que puede ser hasta 40% no este punto 4 la fórmula es 1 o
+11:12
+sea el 100% más el 40% porque cada año aumenta 40% no es el interés anual de
+11:19
+las tarjetas de crédito en México el monto inicial se cer que era la cantidad inicial no el doble de la cantidad
+11:26
+inicial bueno esa cantidad inicial pasa midiendo y se elimina no por eso la atach dos igual a esto aquí tenemos este
+11:34
+exponente cómo lo quitamos aplicando por ejemplo logaritmo natural puede ser cualquier logaritmo pero aquí digamos
+11:39
+que logaritmo natural no Y esta t estaba como exponente cómo
+11:46
+sale multiplicando verdad y aquí es bien fácil hacerla ahora sí que el despeje no
+11:52
+este o sea este que está multiplicando pasa del otro lado Cómo alguien chavos
+12:00
+dividiendo perfecto dividiendo no Entonces esto ya nada más a meter en la calculadora logaritmo natural de 2 Entre
+12:06
+logaritmo natural de 4 y nos salía que el tiempo era igual a 2.06 años o sea
+12:11
+qui decir que la deuda este si no pagas una tarjeta de crédito en México se duplica en 2.06 años no o sea es muy
+12:19
+alto entonces este Bueno eso es lo que veíamos no muy bien
+12:27
+y Okay Mira
+12:34
+este el cuatro sería es miren básicamente es lo mismo que el exponencial porque acuérdense antes de
+12:41
+empezar con eso a ver chavos esto en exponente cómo lo
+12:51
+pondríamos eh x a la 1 bueno la 1 sobre
+12:56
+n muy bien x a la la 1 entre n verdad Muy bien 1 elevado a la 1 sobre n
+13:04
+entonces pues Cuál era la propiedad esta de los exponenciales era que el exponente lo sacábamos
+13:10
+de el logaritmo multiplicando entonces Obviamente el
+13:15
+logaritmo de una raíz n de X cómo sería
+13:20
+a ver la lógica chavos cómo sería Eh pues uno n por logaritmo de X
+13:31
+perfecto 1 de n por logaritmo de X acuérdense chavos Todo en matemáticas es
+13:36
+lógica no Entonces esto si esto es equivalente a esto y estamos diciendo que el exponencial lo sacamos
+13:43
+multiplicando No si nuestro exponencial es 1 a la n entonces este 1 a la n sale
+13:50
+multiplicando y bueno acuérdense que esto siempre va de ambos lados no Y tenemos un ent n logaritmo de X no no
+14:00
+esto sería que tuviéramos logaritmo de raíz n de X no y acuérdense que es ambos
+14:08
+lados no esta pues esta es la de Raíces Esta es la propiedad de las raíces no
+14:15
+acuérdense bueno ejemplos no sería no sé logaritmo de raíz cuarta de X lo podemos
+14:22
+sacar haciendo 1/4 de logaritmo de X no muy bien y tenemos la última
+14:31
+propiedad que era cuál era bueno era la del cambio de
+14:46
+base el cambio de base Este era muy útil antes ahorita ya no tanto porque antes
+14:52
+las calculadoras científicas por ejemplo las básic muchas no te dejan
+14:59
+cambiar la base no Por lo general las calculadoras bueno antiguas tenían solo
+15:06
+base 10 o base e que bueno acuérdense que el logaritmo base e a qu es equivalente chavos o qué es el logaritmo
+15:13
+base e alguien logaritmo logaritmo natural verdad nada
+15:21
+más que en las calculadoras no ponen logaritmo b c con el logaritmo natural no Okay este era muy útil antes ya
+15:26
+ahorita no tanto porque pues ahorita le podemos cambiar a la calculadora le podemos cambiar la base no este muchas
+15:33
+calculadoras te lo permiten entonces bueno Igual vamos a verlo que era
+15:39
+logaritmo de la base original no de X K es la nueva base
+15:47
+nueva base no Okay esto era igual al logaritmo de K
+15:55
+de x entre logaritmo de la nueva base de B
+16:02
+de la antigua base no sea bien Por ejemplo esto si tenía logaritmo de 5 de
+16:12
+8 algo así lo podía cambiar a logaritmo
+16:18
+por ejemplo la nueva base que sea 4 lo que sea logaritmo base 4 de x o
+16:27
+sea de 8 entre logaritmo lo voy a poner bien no
+16:33
+entienda que sea 5 si no bien c no logaritmo base 4 de la antigua
+16:43
+base que era 5 no esto servía para cuando nosotros no teníamos ahora s que
+16:49
+las calculadoras modernas si te permiten cambiar base le puedes poner la que quieras de todos si ustedes en algún
+16:54
+examen o lo que sea Tienen alguna vez esto pues ustedes Así pueden hacer el cambio de base de manera muy sencilla
+17:02
+como vimos no es esto Ese es el cambio de
+17:09
+base muy bien el teorema fundamental del álgebra no el teorema fundamental del
+17:15
+álgebra Bueno este lo vamos a ver después más a detalle el punto es que el teorema fundamental del álgebra dice que
+17:22
+Y tú tienes un guado de polinomio 5
+17:33
+vas a tener al menos no al menos vas a tener cinco raíces no pueden ser reales
+17:42
+o imaginarias o sea entre imaginarias y Reales tienen que ser cinco raíces
+17:48
+no Okay luego vamos a ver al detenimiento Qué significa bien eso que
+17:53
+eso sirve Exactamente para poder resolver ecuaciones polinomiales no polinómicas muy bien Bueno eso luego lo
+18:00
+vamos a ver también la división sintética ahorita la verdad me gustaría más centrarme en cosas por ejemplo este
+18:06
+de ángulos y figuras geométricas por ejemplo no buen esto básicos esto yo creo que lo hemos visto desde secundaria
+18:12
+pero igual no está de más recordarlo vamos a verlo el ángulo agudo no un
+18:18
+ángulo agudo es un ángulo que está entre cero y 90 no Okay muy bien es menor a 90
+18:27
+no es mayor a cero Ese es el ángulo agudo no un ángulo recto est es muy importante porque lo vamos a usar en
+18:33
+trigonometría para los ángulos rectos no un ángulo recto es un ángulo que es igual a 90 gr bueno acuérdense que este
+18:40
+signo significa teta es una letra y no la cual es con muchas aplicaciones en
+18:47
+matemáticas quiere decir ángulo no en geometría etcétera Okay el ángulo obtuso
+18:53
+chavos no el ángulo obtuso pues es un ángulo que está entre qué 90
+19:01
+y 180 gr no el ángulo llano pues es el ángulo que tiene igual a 180 gr y el
+19:09
+ángulo completo que es toda la circunferencia es 360 grados
+19:16
+no a ver que est es 300 muy bien okay muy bien Pues así es no vamos
+19:24
+a ver también antes de saltarnos Esto va a ser muy útil en trigonometría vamos a
+19:30
+ver qué es un triángulo chavos alguien que sepa Qué es un
+19:36
+triángulo alguien es una figura geométrica de tres
+19:42
+lados Okay es Okay tiene tres lados rectos no acuérdense que tienen que ser
+19:48
+rectos no O sea que estén unidos no y que su la
+19:54
+suma de sus ángulos Cuánto debe de ser
+20:00
+180 180 gr verdad Muy bien ese es un
+20:05
+triángulo bien hay una fórmula que nos dice cuántos grados debe tener una
+20:11
+figura Dependiendo el número de lados que es esta número de
+20:16
+lados -2 por 180 gr no bien Vamos a comparar a
+20:25
+ver si lo que estoy diciendo es cierto Okay número de lados del triángulo
+20:31
+Cuánto es TR 3
+20:37
+-2 1 verdad 1 por 180 gr Cuánto
+20:43
+es 180 muy bien Ahora vamos a dibujar un rectángulo chavos un cuadrado un
+20:50
+cuadrado un rectángulo que cuál es este ángulo chavos Cuánto
+20:56
+mide 90 90 verdad Cuánto mide este
+21:02
+ángulo igual 90 verdad Cuánto mide
+21:08
+este igual y este 90 no entonces va a ser 90 * 4 verdad 90 gr
+21:17
+por 4 Cuánto es 90 * 4 360 muy bien es 360 gr verdad Muy bien
+21:26
+Entonces vamos a aplicar esta fórmula tiene el cuadrado o rectángulo cualquier figura de cuatro lados no
+21:32
+4 menos 2 no me va a dar 2s no 2 * 180
+21:38
+gr Cuánto es cuánto es Chavo 2 *
+21:47
+180 360 360 muy bien 360 gr verdad Okay
+21:55
+entonces son iguales verdad
+22:01
+Muy bien Entonces como son iguales estos dos no este es una fórmula digo nada más
+22:06
+para que la tengan Esta es la fórmula que te permite saber cuántos grados tiene una figura depende Así que la suma
+22:15
+de sus bueno la suma suma de sus ángulos dependiendo del número de
+22:26
+lados Okay la suma de sus ángulos Dependiendo el número de sus lados no muy bien esta
+22:35
+es una fórmula que existe no nada para que la tengan y bueno vamos a seguir con lo de los triángulos porque es una
+22:41
+figura muy importante Qué es ahora un triángulo
+22:50
+rectángulo Qué es un triángulo que tiene un ángulo de 90 gr muy bien Perfecto es
+22:58
+un triángulo que al menos tiene un bueno no al menos O sea que tiene un este un
+23:04
+ángulo de 90 gr no Okay muy bien entonces no este es de 90
+23:14
+gr y es es un triángulo rectángulo el triángulo rectángulo tiene un lado una propiedad de que tiene un lado más
+23:19
+grande que los otros no cómo se llama este lado
+23:26
+chavos hipotenusa hipotenusa no hipotenusa muy bien la hipotenusa verdad
+23:33
+lec la hipotenusa es el lado más largo del triángulo
+23:39
+rectángulo lado más
+23:44
+largo del triángulo
+23:50
+rectángulo Okay muy bien y Bueno aquí tenemos Además del
+23:57
+ángulo de 90 gr no tenemos otros dos ángulos tenemos el ángulo un a llamarlo
+24:03
+ángulo un y el ángulo vamos poner color de rosa el ángulo dos no Okay el ángulo
+24:11
+un para el ángulo un vamos a ver lo que son algunas propiedades trigonométricas no el ángulo un por ejemplo bueno las
+24:20
+tres antes de eso Perdón vamos a definir este cateto es una forma de decir en
+24:27
+matemática lado de un triángulo
+24:34
+no Okay qué bueno básica definiciones
+24:39
+literalmente de del lenguaje Qué es adyacente
+24:47
+alguien eh Bueno es como el más pegado al ángulo es adyacente literalmente es
+24:54
+lo más pegado o vecino o sea eso puede ser hasta la casa adyacente cualquier cosa adyacente en general en español
+25:01
+significa el que está al lado lo más pegado lo más cercano no O sea lo más cercano más
+25:07
+pegado más pegado el vecino
+25:12
+No eso es lo que significa adyacente no Okay entonces pues obiamente vamos a ir
+25:19
+juntando y bueno opuesto es el que está o sea en sentido opuesto O al contrario
+25:25
+no es el que está pues opuesto no hasta el otro lado okay Para qué digo eso es
+25:32
+porque por ejemplo para este ángulo uno este lado que cómo lo llamarían este
+25:39
+lado del ángulo uno cómo lo llamarían
+25:45
+este adyacente el cateto adyacente
+25:52
+verdad Muy bien Y este chavos del ángulo
+25:58
+uno cómo lo
+26:07
+llamarían Okay chavos cómo llamarían este lado del ángulo uno es el opuesto
+26:13
+Claro que sí muy bien es el cateto opuesto [Música] verdad Okay ahora de este ángulo dos
+26:23
+chavos este lado cómo lo llamarían básicamente se invertiría el
+26:30
+opuesto vendría siendo el adyacente en este caso y el del lado del cateto
+26:36
+adyacente vendría siendo el opuesto muy bien exactamente pues se invertirían
+26:42
+verdad porque este bien como dijimos adyacente quiere decir el más cercano
+26:47
+Cuál es el más cercano del ángulo dos pues este verdad Entonces este sería el cateto el cateto es lado adyacente no
+26:56
+okay Y ese es el el opuesto el que está al contrario no sigue siendo un lado entonces por eso es cateto y es el
+27:02
+opuesto verdad Okay muy bien y aquí vamos a ver unas definiciones
+27:08
+trigonométricas no Okay seno del
+27:14
+ángulo el seno del ángulo es una función vamos a ver luego la yo creo que en
+27:20
+estos días este el seno y el coseno son funciones que tienen que ver con con una
+27:27
+cosa que se llama círculo unitario luego vamos a ver eso un poco más ahorita nada más para que vean las aplicaciones luego
+27:33
+vamos a ver dónde viene lo importante del del círculo unitario chavos o bueno
+27:38
+de estas funciones es que las funciones de seno coseno de un ángulo no son
+27:45
+funciones que son periódicas Qué quiere decir una función
+27:52
+periódica Alguien sabe O digo o tiene una idea se imagina por el nombre Qué significa peri periódicas que Siempre es
+27:59
+la misma Sí exactamente son como una ondita y tienen un periodo no O sea que
+28:05
+cada cierto tiempo se van a o sea van a tener la misma forma No esa es una
+28:10
+función periódica no okay Bueno luego vamos a ver un poco más de esto ahorita estamos viendolo con
+28:17
+triángulos el seno del ángulo en triángulos no es la función que
+28:24
+obtenemos cuando dividimos el cateto
+28:33
+opuesto Entre qué hipotenusa muy bien la
+28:42
+hipotenusa el cateto opuesto entre la hipotenusa muy
+28:49
+bien okay el coseno del ángulo el coseno del ángulo no es igual
+28:59
+a qué
+29:05
+chavos alguien entre hipotenusa muy bien el
+29:10
+cateto adyacente entre la hipotenusa la hipotenusa muy
+29:19
+bien y la tangente vamos a ver que la tangente relacionada a estos es igual
+29:30
+la división entre el seno y el
+29:36
+coseno que miren nosotros ya sabemos que significa el seno yif el coseno esto lo
+29:41
+vamos a sustituir acuérdense que algo muy bonito y muy padre de matemáticas es sustituir Ok Entonces miren vamos a
+29:49
+copiar esto ponerlo
+29:54
+aquí ent
+30:05
+Okay bien vamos un poco más chico Bueno mejor más para arriba más
+30:18
+chicoa okay muy bien y aquí vamos a hacer lo que conocemos coloquialmente
+30:25
+como la ley del sándwich no acuérdense bueno la ley de sandwich o la división no este de una división es lo
+30:33
+mismo No Okay muy bien acuérdense Cómo es la ley del sandwich alguien se
+30:42
+acuerda eh los extremos van a estar como
+30:48
+numeradores multiplicándose y los del centro como denominadores multiplicando
+30:54
+Exactamente esa es una definición muy formal Sí o sea de que el numerador va a
+31:00
+ser los extremos multiplicándose y la Así que y el denominador va a ser los
+31:05
+del medio multiplicándose o como yo le digo pues las orillas multiplicándose
+31:11
+entre los del centro multiplicándose no muy bien digo la tuya es más formal entonces este el cateto
+31:18
+opuesto Dj voy a hacerlo más chico vo copiar y
+31:26
+pegar Okay bien voy a hacer esto más chico
+31:32
+vamos [Música]
+31:40
+a Bien voy a agarrar Okay y voy a copiar voyar el cateto pues
+31:48
+adyacente copiar y lo voy a multiplicar Pues acá abajo no muy
+31:56
+bien
+32:03
+este se multiplica por el
+32:19
+extremo Ok Muy
+32:25
+bien eso no acuérdense que hipotenusa entre hipotenusa no se eliminarían Y qué
+32:32
+nos quedaría
+32:37
+entonces opuesto ente qué
+32:44
+chavos adyacente muy bien cateto puesto ente adyacente
+32:56
+verdad muy bien Esto es lo que es igual a la
+33:02
+tangente del ángulo
+33:08
+Noa toda la demostración Para que vean de dónde venía no se la tienen que aprender la verdad no s Para que vean
+33:15
+que no est
+33:25
+mintiendo
+33:55
+no
+34:06
+Okay muy bien entonces pues es así
+34:12
+no Estas son las fórmulas no que tenemos en trigonometría verdad el seno el
+34:18
+coseno la tangente y bueno tenemos una que nos han enseñado desde secundaria
+34:23
+chavos que tiene que ver con un con un matemático
+34:29
+griego cómo se llama ese matemático griego cre que a lo mejor pgas muy bien
+34:36
+el teorema de Pitágoras no el teorema de Pitágoras qué nos
+34:54
+dice Mira nos dice que hipotenusa al cuadrado bueno c también se le llama la
+34:59
+hipotenusa no la hipotenusa al cuadrado no es igual a la suma de los dos catetos
+35:07
+al cuadrado no Okay Muy bien Entonces nosotros queremos tener solo la hipotenusa es igual a raíz cuadrada de a
+35:15
+cuadrada más B cuadrada no hay tod una demostración a lo mejor
+35:21
+se las enseño mañana que tiene que ver con unos triángulos y un rectángulo Pero bueno este el es que esta es la fórmula
+35:32
+no Okay muy bien estas son de la que yo diría que las tres fórmulas al menos más
+35:37
+importantes de trigonometría y que se las tienen que aprender No ese es el teorema de
+35:44
+Pitágoras buen en dos dimensiones Lu vamos a ver que se puede expandir a varias dimensiones Pero bueno Ese es el
+35:49
+teorema de Pitágoras básico no este y bueno Estas son las funciones básicas el
+35:55
+seno el coseno tangente luego tenemos lo que son secante cosecante y cotangente que básicamente
+36:02
+es hacer esto no uno entre seno de ángulo uno entre coseno del ángulo no y
+36:09
+uno entre tangente del ángulo esta son las otras funciones que Déjame ver Creo
+36:14
+que este es Estoy casi seguro déjen ahor compruebo pero estoy casi seguro que este
+36:21
+es secante este es cosecante
+36:29
+creo que sí Déjenme ahita Déjenme antes de decir Seguro que sí pero
+36:35
+[Música] digo ver secante secante
+36:47
+secante Sí sí muy bien sí se la tenía bien
+36:52
+okay de la secantes del coseno un entre coseno no de este es la cosecante del
+36:58
+ángulo Y pues obviamente uno entre tangente del ángulo va a ser cotangente
+37:04
+no Okay estas son funciones la verdad no son tan útiles al menos en estas temas
+37:10
+no tanto este Pero bueno también existen y luego vamos a ver lo que
+37:15
+son inversas
+37:20
+trigonométricas las funciones inversas trigonométricas No ya las hemos visto un poco Bueno o sea en Elo de que nos
+37:27
+acordamos no de que acuérdense chavos de que todas las
+37:33
+funciones bueno todas las operaciones no funciones
+37:39
+operaciones tienen sus opuestas no bueno sus inversas de las trigonométricas son
+37:45
+sus inversas trigonométricas o sea del seno del ángulo coseno del
+37:51
+ángulo tangente del ángulo de laen cosecante del
+37:58
+ángulo de la secante del ángulo y de la cotangente del ángulo pues cuáles van a
+38:05
+ser sus inversas pues obviamente seno inverso del
+38:12
+ángulo del coseno va a ser el seno
+38:17
+inverso del ángulo y bueno si tedios m se imaginarán que Cuál es la inversa de
+38:24
+la tangente tangente inversa muy bien tangente
+38:29
+inversa del ángulo y así no con cada una obviamente eso también a veces se les
+38:34
+llama bueno se les llama arc sin el arc seno no el
+38:41
+arc coseno el arc
+38:47
+tangente el arcotangente no etcétera y así bueno igual estas ya se imaginarán o
+38:52
+sea esto es lo mismo lo mismo lo mismo lo mismo no Okay muy bien luego vamos a
+38:59
+ver qué significan estas que tienen unas sus dominios sus rangos etcétera el
+39:06
+punto es que ustedes recuerden Por ejemplo si quieren ustedes despejar y están usando calculador porque en la
+39:11
+vida real la verdad no es como que se vayan a acordar de todos los ángulos o sea Lu vamos a ver que eso se puede sacar con el ángulo círculo unitario lo
+39:17
+que sea eso es por verlo desde el punto de vista matemático pero siendo honestos en la vida real lo que vamos a hacer es
+39:23
+usar una calculadora no meterle el ángulo y meterle la inversa para poder despejar esto nos sirve mucho
+39:29
+Exactamente para poder despejar Y obtener ángulos no dependiendo de la función que tengamos etcétera y luego
+39:36
+vamos a ver Bueno no es tan útil a ve Ah bueno a veces sí este un poco en física este lo que son identidades
+39:42
+trigonométricas los cuales también nos sirven para resolver ecuaciones trigonométricas Okay muy bien esas son
+39:51
+que algunas de las estas la ver es que les digo en muchos temas no son tan útiles este Pero lo que sí es Útil es
+39:58
+esto Saber esto no sus inversas porque sí necesitamos a veces obtener ángulos y
+40:04
+para poder obtener estos ángulos pues usamos las inversas y usamos calculadoras en la vida real no Okay muy
+40:12
+bien esa es una de las cosas que íbamos a ver y bueno algo que también íbamos a ver yo creo que bueno ya adelanté ya lo
+40:20
+vimos el volumen y la superficie de áreas no vamos a ver que existen por
+40:26
+ejemplo una dimensión cuando es una dimensión estamos hablando
+40:31
+de distancias o longitudes no Bueno en este caso
+40:37
+longitudes cuando hablamos de dos dimensiones estamos hablando de
+40:47
+qué x y y bueno sí Pero en geometría nos
+40:53
+referimos a área no Ah ya okay en geometría nos referimos a área y en tres
+40:59
+dimensiones objetos de tres dimensiones Qué son qué
+41:04
+tienen volumen perfecto volumen
+41:16
+no Okay estos tienen volumen no miren para los casos sencillos de
+41:24
+figuras muy estándares que hemos definido el ser humano tenemos
+41:29
+no bueno fórmulas no para el cubo sabemos que es el lado al cubo para el
+41:34
+prisma es la multiplicación de sus tres lados por ejemplo para el cono es un tercio de la base por altura no este la
+41:43
+el volumen no de una una pirámide triangular es un tercio de base por
+41:49
+altura no este bueno el área de la base creo que no está bien definido pero es
+41:54
+el área de la base este Okay muy bien y así Eso es en los casos muy sencillos Ya
+42:01
+luego se ve universidad que para poder obtener ya cosas más difíciles se tiene que bueno
+42:09
+no derivar este integrar tres veces no
+42:14
+una función de longitud no esto nos va a dar
+42:20
+volumen Y eso todavía no son las funciones más complejas porque esas son funciones en donde dond nosotros tenemos
+42:27
+esto tenemos una función de X no y si no la tenemos Qué pasa si no la tenemos es
+42:35
+cuando se usan métodos numéricos para tratar de aproximar el volumen no como nosotros digo o sea por ejemplo nosotros
+42:41
+objetos muy irregulares no de que un celular Bueno un celular está medio regular pero pónganle que un carrón una
+42:46
+lámpara este o cosas así o personas animales etcétera se puede calcular
+42:53
+usando métodos numéricos no montañas por ejemplo que no es como que tengamos una
+42:58
+función de la montaña exactamente entonces pues se puede hacer un poco usando métodos numéricos no para hacer
+43:04
+eso luego vamos a ver acuérdense que hay dos hay como dos formas de calcular cosas una de forma analítica la forma
+43:11
+analítica es con una fórmula y te da Exacto el valor no y otra con manera
+43:16
+numérica es que nosotros usamos un algoritmo con programación Por lo general que nos va dando un valor no a
+43:24
+lo mejor perfecto pero muy cercano a lo al valor real No eso es lo que es un
+43:31
+método numérico no O calcular las cosas numéricamente analíticamente pues es
+43:37
+fórmulas no lo que hemos visto toda la vida desde kinder este Pero bueno luego vamos a ver que no todo se puede con
+43:43
+fórmulas o no todo se puede un algoritmo analítico Porque primero no todas las
+43:50
+cosas tienen solución analíticamente y segunda A lo mejor todavía no se han descubierto Enton entonces este
+43:56
+necesitamos tener los cálculos no entonces eso se hace con métodos numéricos y hasta que tenemos una cierta
+44:03
+correcto o sea con probid estadística hasta que tenemos algo que pues es lo suficientemente bueno Es como decir o
+44:10
+sea como en la vida no O sea a veces pues no puedes tener todo lo que quieres pero pues con que tengas algo bueno está
+44:16
+más que bien No ya ya con Así que con lograr lo mínimo que querías con estar dentro del Rango de lo que querías pues
+44:22
+ya con eso funciona es así es como funcionan los métodos numéricos luego vamos a ver muchas cosas de la
+44:28
+Inteligencia artificial y todo esto están hecho con métodos numéricos muchas cosas en física este por ejemplo
+44:34
+mecánica estadística y todo eso también están hecho con eso okay chavos bueno el punto es que o sea bueno hay fórmulas no
+44:42
+Y podemos sacar volúmenes podemos sacar longitudes no Y podemos sacar cosas así
+44:48
+Bueno ya vimos lo del teorema de Pitágoras acuérdense que la hipotenusa a ver qué la hipotenusa de nuevo chavos
+44:54
+alguien el lado más l muy bien el lado más largo
+45:00
+muy bien y el ángulo bueno acuérdense que un triángulo rectángulo tiene que tener 90 gr no hay una generalización
+45:09
+para el teorema de Pitágoras que funciona para todos los tipos de triángulos no alguien no sé si alguien
+45:14
+se la sabe cómo se llama
+45:24
+alguien la ley de cosenos no la ley de cosenos es como el teorema de Pitágoras
+45:30
+n más le aumentamos una cosa
+45:36
+miren bien Este funciona para todos los
+45:42
+triángulos y no importa los ángulos los lados no con que sea un triángulo
+45:48
+funciona bien este vamos a ponerlo como el lado a este lado b y este lado c en
+45:57
+minúsculas no y los ángulos Este es el ángulo c son los Opuestos el ángulo b y el
+46:05
+ángulo a Okay la ley de cosenos nos dice por ejemplo que para obtener el a cuadrada
+46:12
+es igual a b cuadrada + c cuadrada menos alguien se sabe la última parte que está
+46:24
+larga bien 2 BC sea miren básicamente
+46:32
+es los otros dos lados o sea el lado que queremos obtener al cuadrado es igual a
+46:38
+la suma de los otros dos lados al cuadrado - 2bc por
+46:44
+coseno de el ángulo a o sea del ángulo opuesto no en este
+46:53
+caso hemos puesto así no sería lo mismo para B Lo mismo para c
+46:59
+alguien a ver si es la misma lógica cómo sería B cuadrada es igual a a ver chavos
+47:05
+velo construyendo cómo sería es la misma lógica c cuad men a cuadrada no c
+47:14
+cuadrada más má a cuadrada menos qué okay V diciendo este B y C son estos dos
+47:23
+lados entonces Cuáles son los dos lados que tenemos aquí ya Ah entonces sería dos qué
+47:32
+AC por el coseno si este es el ángulo
+47:38
+A cuál se imaginan que vaya a ser el coseno de
+47:45
+aquí ángulo B perfecto ahora el c chavos la misma
+47:53
+lógica los otros dos lados que no están al cuadrado cuál Entonces cómo sería
+48:00
+este al lo V má B cuad
+48:07
+sí 2ab menos Ajá 2 por a por B muy bien por de c
+48:17
+excelente Esta es la ley de
+48:24
+cosenos muy bien con este es muy poderoso Porque con este digo por ejemplo para triángulos irregulares
+48:31
+etcétera nosotros podemos obtener o cualquier lado o cualquier ángulo
+48:39
+no solo despejando Obviamente si queremos el coseno de a vamos a hacerlo okay
+48:47
+nosotros tenemos los tres lados y queremos obtener este ángulo cómo lo
+48:54
+haríamos lo despejar no bien vamos a pasarlo lo
+48:59
+voy a copiar y pegar para no ponerlo todo amontonado poner otra
+49:07
+hoja el poder de esto es que nos permitiría cuent que todo en matemáticas es herramientas Entonces
+49:15
+Okay muy bien no bien a cuadrada bueno B cuadrada y C
+49:22
+cuadrada están sumando cómo pasan del otro lado
+49:28
+alguien Cuál es la inversa de sumar la resta muy bien entonces este B
+49:37
+cuadrada Cómo pasa menos B cu B cuadrada y el c
+49:45
+cuadrada Cómo pasa - c cu muy bien y esto sería igual
+49:52
+a -2 BC coseno de el ángulo a es el primer paso luego estos dos acuérdense
+50:00
+están multiplicando el coseno no bueno estas menos dos veces están
+50:06
+multiplicando Cómo pasan del otro lado dividiendo muy bien
+50:24
+dividiendo Okay y lo último Cómo despejar el ángulo
+50:34
+a con la con la inversa del coseno muy bien con la inversa del coseno verdad
+50:40
+acuérdense que tenemos que aplicar las inversas para poder despejar no cuando pasan del otro lado es con inversa
+50:45
+entonces a es igual al coseno inverso bueno de toda esta cosa copiar y pegar
+50:52
+hacerlo okay
+51:26
+y así es como nosotros podemos obtener ese ángulo a no Bueno ya si quisiéramos todos los
+51:33
+demás tendríamos que hacerlo por ejemplo del B lo mismo que bueno viendo la
+51:40
+similitud sería algo así Creo que no más de vista déjen ver si me sale vista B va
+51:47
+a ser igual al coseno inverso a ver inverso que y
+51:53
+bueno va ser B cu men c cu men a cuad
+52:00
+entre menos 2ac sí creo que sí eso fue de pura o sea
+52:08
+de puro de puro ver AC chavos que esto es mucho de relaciones de lógica no Okay
+52:14
+este a cuadrada era el que estaba aquí Cuál es el que está aquí en este caso el
+52:19
+B cuadrada Entonces el que va a estar positivo va a ser B cuadrada verdad los
+52:25
+que están negativos aquí son B y C que eran los que estaban aquí los que van a estar negativos para el B van a ser c y
+52:32
+a no este -2 BC fue el que pasó dividiendo aquí Qué es lo que está
+52:38
+multiplicando el coseno - 2ac y al final el coseno inverso verdad
+52:45
+dig eso así que de pura vista acuérdense chavos de verdad que si tienen que tener entre más poderosos tengan su lógica y
+52:52
+encuentren los patrones y relaciones etcétera pues más fácil va a ser aplicarla no y miren Por ejemplo si yo
+52:59
+quisiera obtener todos los ángulos pues ya con esto ya no ya no necesitaría ser c Por qué Porque el ángulo a más el
+53:06
+ángulo B me va a dar un ángulo y eso se lo resto a 180 gr y me obtendría
+53:13
+el ángulo c verdad porque acuérdense que la suma de los tres O sea la suma de a +
+53:19
+b + c de los tres ángulos tiene que ser igual a
+53:25
+180 gr no Okay chavo digo no no pido que se los
+53:33
+aprendan así de inmediato el punto es que yo más que así que memorizarse las fórmulas lo que yo quiero es que vayan
+53:39
+viendo como la lógica no O sea si tienes una fórmula Cómo puedes o sea mir yo
+53:44
+rápidamente de esta fórmula pasé a esta No no es que me la memorizar es que nás
+53:50
+vi los patrones no
+53:56
+y nada más ahora sí que cambié no sustituí por lo que era y así el punto
+54:01
+de matemáticas es también que vayan desarrollando su lógica y bueno chavos yo creo que ya se acabó la clase de hoy
+54:07
+se acabó el tiempo de todos tranquilos vamos a seguir repasando esto y etcétera
+54:13
+vamos a seguir vamos a hacer ejercicios ya más de esto para ir practicando No nada más verlo sino que también ustedes
+54:19
+lo intenten lo hagan lo practiquen lo aprendan porque es la única forma de aprender pues cualquiera de estos tres
+54:25
+son digo son las tres áreas que según yo considero y creo que son las más abstractas y más mentalmente demandantes
+54:33
+entonces este la única forma de aprenderlo es bica arrastrando el lápiz como dirían entendiéndolo primero
+54:39
+entendiendo los conceptos y luego practicando no Okay chavos Pues bueno no
+54:45
+tengan alguna última pregunta duda Ah bueno una pregunta vamos a ver
+54:53
+de estos ejercicios de de cosenos en el recall sí sí sí sí todo digo todos los
+54:59
+ejercicios vamos a verlo okay Okay gracias Sí digo tranquilos de todos modos o sea Lo que sí es que Obviamente
+55:05
+el recall funciona más entre más vayan viendo los conceptos no O
+55:10
+sea entonces si pueden echarle una revisada a los apuntes o luego volver a ver las grabaciones lo que sea
+55:16
+obviamente les va a ser más fácil el rec porque al final de cuentas enol ustedes hacen los ejercicios No yo o sea nada
+55:22
+más es para que los intenten hacer pero pues obviamente funciona má entre más ustedes tengan el concepto bien claro
+55:29
+no Okay pues bueno chavos nos vemos y cuídense mucho Gracias profe nos
+55:38
+vemos

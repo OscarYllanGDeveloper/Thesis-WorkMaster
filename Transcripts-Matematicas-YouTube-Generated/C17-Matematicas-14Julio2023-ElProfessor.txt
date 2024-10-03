@@ -1,0 +1,536 @@
+0:02
+Okay chavos bueno acuérdense que hemos estado viendo cálculo diferencial verdad
+0:08
+en estos días no y bueno vamos a ver algunas aplicaciones de cálculo
+0:13
+diferencial Pero bueno antes creo que me habían
+0:18
+mandado cierto me habían mandado la respuesta de ayer comparte vamos a ver
+0:28
+eso eh
+0:58
+buo
+1:22
+Okay chavos Bueno creo que est el ejercicio de ayer
+1:27
+y vamos a ver si está
+1:34
+bien H lo primero era sí la regla del
+1:41
+cociente verdad Muy bien sí sí sí sí fdx
+1:48
+muy bien es la que está arriba verdad en el numerador Y esta es la que está en el
+1:54
+denominador muy bien HM la derivada de esto y sería reg la cadena muy
+2:10
+bien okay el menos seno x cu + 4 Okay
+2:16
+está bien y por la derivada del seno que es coseno muy bien está muy bien Esto
+2:24
+sí okay Y la derivada del otro deje de X muy bien sería 3 muy bien x + 1 al
+2:32
+cuadrado muy bien por la derivada de muy bien de x + 1 es 1 muy bien Esto está
+2:37
+bien hasta aquí eso está
+2:46
+bien eso también porque es parte de por el de abajo muy bien menos
+2:53
+esto okay bien por la otra
+3:00
+Okay muy bien sí
+3:09
+okay No entiendo el final hasta aquí estaba
+3:16
+bien pero bueno hasta aquí está bien no sé ya
+3:24
+al final qué pasó pero lo Factor mu bien
+3:32
+[Música] pero no sé si se podía factorizar así Ah Es división
+3:44
+x lo que se podía factorizar Eso sí era un x + 1 cuadrado no de cada lado o sea
+3:50
+bueno x + 1 al cuadrado no este se hubiera quitado esto se iba y este en
+3:59
+vez de seis nos quedaba en cuatro y bueno podías haber factorizado
+4:06
+el coseno también si es lo que querías hacer Ah también pude quitar el x + 1
+4:15
+mm Sí o sea más o menos lo que podías haber hecho era lo querías factorizar si
+4:22
+coseno de X cu + 4 ira multiplicando el
+4:28
+menos seno x cu + 4 por x +
+4:35
+1 men 1 esto
+4:42
+dividido [Música] entre x + 1 por qué
+4:52
+-1 porque estás aquí no no era
+4:58
+-3 a ver Ah sí ties razón no vi el
+5:10
+tres Okay si lo querías así factorizar pues quedado algo así
+5:23
+no Okay estuvo muy cerca Bueno al menos hasta aquí esto no entiendo la verdad
+5:29
+pero hasta aquí está bien muy bien lleg al otro nada más era
+5:34
+como factorizar y quitar algunas cosas pero hasta ahí estaba muy bien
+5:40
+excelente Okay chavos entonces pues bueno eso fue un poco y vamos a ver un
+5:46
+poco de las aplicaciones de las derivadas bien esteo ya lo había hecho hace rato que que estaba buscando
+5:54
+este que aquí Cómo se hace sacar más
+5:59
+máximos y mínimos el primer paso es derivar el segundo es igualar a cero y
+6:06
+resolver eso ahí ya te da el máximo y el mínimo
+6:12
+bueno para sacar la segunda derivada es para poder checar si es un máximo o si
+6:18
+es un mínimo o sea por qué Porque si nos da
+6:25
+negativo es que es un máximo Y si nos da posito es que es un mínimo lo sustituimos el
+6:33
+original y nos da esto mir como aquí se acuerdan de cómo es vamos a verlo para
+6:41
+que veamos que no está mintiendo [Música] esto vamos a verlo en
+6:53
+desm la función puesto
+7:05
+Okay era la pongo
+7:13
+menos 2 x al
+7:22
+cubo + 3 x cuadrado
+7:48
+Okay pues bueno
+7:56
+chavos Aquí esta función va a tener un máximo y un mínimo
+8:01
+locales [Música] No digo no máximos y mínimos totales
+8:08
+porque Obviamente el máximo de esta función Cuál es total
+8:14
+global Alguien sabe digo por la forma de
+8:19
+de la figura Cuál es el máximo
+8:28
+total vamos chavos Cuál cuál
+8:34
+es el máximo total Cuál es
+8:43
+chavos Pues sería infinito No por qué porque esta función verdad
+8:49
+sube y sube se de acá sin embargo bu tiene estos tres
+8:55
+puntos que hasta si se dan cuenta este cómo se le llama
+9:07
+chavos chavos Cómo se le llama eso es el punto mínimo un mínimo
+9:14
+Este es un máximo y hay un punto que es este que se le llama el punto de
+9:19
+infección que es cuando cambia el este la
+9:25
+curvatura o sea las derivadas aquí
+9:30
+tienen una pendiente de un signno y aquí es
+9:38
+justamente cuando cambian vamos a ver Lu que significa eso
+9:45
+pero bueno también nos permite saber eso el cálculo muy bien entonces
+9:52
+este bien para hacerlo no no creo que me perm derar
+9:59
+Déjenme ver la calculadora está así y para que vean que no est mintiendo
+10:05
+está la
+10:28
+calculadora
+10:35
+bien bu esta calculadora permite hacer derivadas y voy a copiar la
+10:41
+[Música]
+10:55
+función bien
+11:27
+Ben
+11:36
+que con la
+11:44
+solucionar segú yo es copiar
+11:56
+[Música] esto
+12:09
+y lo tengo que vol
+12:24
+hacer Ah ahora sí muy bien
+12:29
+qué más bueno aquí me dan los resultados de la este de máximos y mínimos que voy
+12:37
+a sustituir después Esto fue la primera
+12:43
+derivada ahora bien yo puedo hacer la segunda
+12:50
+derivada ahorita obviamente lo hacemos con a mano nada más para que vean también en las calculadoras se puede
+12:56
+hacer algunas no
+13:02
+este Luego si quieren les enseño cómo hacerlas con python o con
+13:07
+wcam Pero bueno este mu
+13:15
+bien aprendan pod es muy útil además Pero
+13:22
+bueno también ya si les daera o son muy larg se puede usar estas cosas usar python etc
+13:34
+muy bien esta es la segunda derivada
+13:40
+y para sustituir en este sustituir expandir factor
+13:52
+completar no
+13:57
+que A lo mejor
+14:08
+Def bien Bueno más fácil es no más los dos resultados verdad que eran -1 y
+14:15
+2 nada más sería poner esto y en vez de X
+14:22
+pondría -1 no
+14:31
+y ve de men1 pongo do
+14:41
+verdad sí o no chavos Okay Qué quiere decir que cuando
+14:49
+nosotros sustituimos por -1 la regla nos dice que cuando es positivo es un
+14:59
+mínimo y cuando es negativo es un máximo yo s está un poco cont intuitivo
+15:07
+es como lo de izquierda a derecha de desplazar funciones pero así es y para
+15:12
+sustituir Y obtener el máximo Entonces sería sustituir el valor este el dos por
+15:19
+ejemplo en la función original que era esta
+15:27
+sustituir ya déjen
+15:34
+verar expandir ceros completar solución
+15:39
+numérica no
+15:57
+sustituir Bueno ni modo la la
+16:02
+antigüita voy copiar
+16:08
+esto desde x le pongo el resultado no
+16:16
+dos dos
+16:27
+dos si sí lo metió
+16:46
+bien buen mi imagen a
+16:53
+ver no es el 40 Déjenme ver aquí
+17:07
+Ah okay es esta menos no si era
+17:23
+menos Okay ya Sí perdón es que en este
+17:28
+no había puesto el menos la función originala con menos
+17:34
+no y me da aquí 40 no que Este era
+17:40
+un un
+17:45
+qué un máximo verdad y bueno el mínimo en vez de dos
+17:54
+cuál dijimos que la otra respuesta men1
+18:03
+verdad
+18:15
+men1 no los Calcula bien
+18:25
+porque luego estos a
+18:31
+no no lo calculó
+18:40
+bien Es que era
+18:49
+[Música] dentro Ahora sí para
+18:56
+asegurarme lo calcule bien la
+19:09
+calculadora okay Y es que bueno acuérdense que luego las calculadoras si no les pones bien todos los paréntesis
+19:16
+hace un estrago Okay entonces este chavos me da que el 40 es el máximo y
+19:24
+este es el mínimo bu eso fue con lado vamos a hacerlo
+19:31
+este a mano
+19:37
+no pero para que vean también lo pueden hacer con calculadora luego les enseño hacerlo con python
+19:44
+este una librería llama sinp este simbolic
+19:51
+python puede hacer derivadas sencillas como estas no son tan difíciles que
+19:58
+bueno Este era el paso a paso bien lo que les decía Aquí hay una una imagen que nos
+20:06
+dice la segunda derivada muestra si un punto con primera derivada cero es un
+20:11
+punto máximo mínimo o de infección
+20:18
+mira aquí nos dice que si la segunda derivada es menor a oer
+20:26
+no nos da para un máximo la segunda derivada es negativa la pendiente de la
+20:32
+curvatura primera derivada es el principio positiva luego va a través de cero a volverse
+20:38
+negativa muy bien para un mínimo la segunda derivada es
+20:43
+positiva la pendiente de la curva primero derivada es el principio negativa luego va a través de cer0 a
+20:50
+volverse positiva y Bueno luego está lo que les decía el punto de infección verdad
+20:56
+cuando cambia una curva verdad para un punto de infección la segunda derivada es cer0 al mismo tiempo que la primera
+21:02
+derivada es cer0 representa un punto donde la curvatura está cambiando su sentido los puntos de infección son
+21:09
+relativamente raros en la naturaleza Okay muy bien Vamos a ver un
+21:18
+poco Este ejemplo no O como ya les había dicho la de la
+21:23
+parábola se acuerdan de la parábola se acuerdan del vértice no
+21:30
+el vértice era un punto máximo mínimo en una parábola
+21:35
+verdad miren Vamos a ponerle en desmos antes de aquí ustedes díganme una
+21:41
+parábola Vamos a ponerle en
+21:53
+desmos Okay a ver vme diciendo un un
+22:00
+número un número chavos cinco cinco muy
+22:08
+bien otro número
+22:15
+cuatro muy bien otro número
+22:24
+siete Okay nos da esta parábola ahorita vamos a comprobar lo voy a poner
+22:31
+aquí ahorita comprobamos Cuál es su este máximo su mínimo
+22:37
+verdad OK Vamos a hacerla en y qui
+22:42
+anótenla ahorita la pongo Ah ve 5x cu 4x +
+22:51
+7 ahora vamos a encontrar su este máximo bueno su en este caso
+23:00
+verdad aplicando las reglas que
+23:10
+dijimos vamos a hacerlo dice que el primer paso es
+23:15
+derivar Antes que nada Hay que poner que función dijimos que la función era igual
+23:21
+a 5x cu +
+23:26
+4x s no primer paso
+23:32
+derivar vamos a derivar esto chavos a ver ustedes la van a
+23:39
+derivar sería 10x + 4 cuánto Perdón 10x
+23:44
++ 4 10x + 4 muy bien ese fue el primer
+23:49
+paso el segundo paso dice que es igualar a
+23:55
+0 y resolver
+24:02
+Ah Les explico por qué igualar a cer si hay una razón este vamos a
+24:09
+hacerla lo que no salió o sea 0 es igual a 10x +
+24:17
+4 y pues despejar x
+24:22
+no sería igual a menos cu décimos sí no
+24:32
+chavos si ven cu Sí muy bien okay el -
+24:41
+cu dé va a ser el punto que vamos a sustituir bien Vamos a hacer la tercera
+24:46
+que dice sacar la segunda
+24:56
+derivada Okay cuánto nos da la segunda derivada
+25:03
+de bueno de de la función original la segunda
+25:08
+derivada sería volver a derivar esta verdad 10 nos da 10 muy
+25:18
+bien la lo que dice el cuarto paso es
+25:23
+sustituir en la segunda derivada no los datos que sacamos en el pasado o
+25:31
+sea -4 dé es una función constante dig nada más lo estoy poniendo por ponerlo
+25:37
+pero Nosotros sabemos cuánto va a ser esto si es una función constante va a
+25:43
+seguir siendo constante muy bien V a segir siendo constante que va a ser 10 y dice sustituir y checar signos Cuál es
+25:51
+el signo de este positivo positivo y dijimos que
+25:58
+cuando era positivo era un negativo un mínimo mínimo muy bien y
+26:07
+bueno sustituir en la original o sea vamos a sustituir el -4 dé en lo
+26:13
+original que sería 5 - 4 dé al cuadrado + 4 -4
+26:25
+dé + 7 y esto nos daría la coordenada y verdad O sea nos daría
+26:33
+el mínimo no la coordenada y del
+26:38
+mínimo alguien que lo quiera hacer Bueno vamos a hacerlo aquí lo voy a poner en
+26:46
+verde 5 por -4 dé cuadrado va a ser
+26:53
+16 centésimos no más 4 por men 4 va a
+27:01
+ser -16 décimos no má 7 muy bien 5 por 16 va a ser 58 80
+27:12
+100 bueno puedo reducirlo lo voy a dejar en 8 100 para poderlo reducir más fácil con -16 Ah no es 10 verdad lo puedo
+27:21
+reducir mejor Esto me queda 8 verdad
+27:30
+- 16 décimos
+27:35
+no más bueno 70 décimos no acuérdense operaciones de fracciones
+27:44
+esto nos quedaría -8 + + 70 serían 62 dé
+27:52
+no entonces la del máximo y mínimo la coordenada x va a ser
+27:58
+- cu dé y la otra
+28:03
+sería se puede simplificar eso Ah
+28:09
+cómo poniéndolos en decimales por ejemplo Ah bueno en decimales Sí pues
+28:16
+son equivalentes no sería - 0.4 y
+28:23
+6.2 son lo mismo son lo mismo unas en fracciones otr en estas son equivalentes
+28:29
+voy a poner equivalentes y vamos a ver si es cierto
+28:37
+o si nada más les inventé vamos a verlo acuérdense grábelo anótenlo - 0.4 y 6.2
+28:46
+verdad escríbanlo en su cuaderno ya lo
+28:56
+escribieron ch ya lo escribieron sí okay Para que vean que no
+29:03
+les estoy
+29:09
+mintiendo y qué cre Ándale nada es cierto
+29:16
+verdad Así es como podemos encontrar máximos y mínimos verdad en funciones en
+29:22
+cualquiera Ya vimos o sea encontramos el máximo y el mínimo de la función esta
+29:27
+cúbica verdad ya lo habíamos encontrado pero también encontramos de
+29:34
+esa funciona para cualquier tipo de función
+29:43
+chavos en esta función en la cuadrática sí nos da un un mínimo total verdad un
+29:49
+mínimo global porque efectivamente Este es un mínimo global la mínimo global quiere
+29:55
+decir que en toda la funciónes en todo su dominio y rango Este es
+30:01
+su mínimo no en la cúbica era un máximo y un
+30:08
+mínimo local por qué porque o sea sí en esta
+30:14
+parte es el mínimo pero aquí hay más mínimos no O sea aquí hay valores más chicos que
+30:22
+es igual que acá Este es un máximo local por qué O
+30:29
+sea si es la más alta en todo esto pero después de aquí también hay
+30:34
+no muy bien Okay pues Esas son algunas de las
+30:43
+Cómo se va así podemos encontrar máximos y mínimos
+30:56
+chavos
+31:06
+Bueno vamos a ver luego esta lo que les había dicho aplicaciones ya como a un
+31:11
+área que es este en economía y en finanza yo creo que lo vemos la siguiente semana e igual que
+31:17
+aplicaciones en física porque también por ejemplo este vamos a ver también un poco de
+31:24
+relaciones con derivadas este no no no es no considera que es
+31:30
+ecuaciones diferenciales pero es como un ejemplo de ecuaciones diferenciales
+31:36
+demasiado sencillo que no necesita integrales pero vamos a ver como la razón de cambio pues chavos como definir
+31:43
+una ecuación Por ejemplo si de una esfera
+31:50
+no el volumen de una esfera Alguien sabe cuál
+31:56
+es su fórmula pi por radio al cuadrado no es 4/3 de pi por radio al cubo
+32:07
+no muy bien y nosotros podemos encontrar por ejemplo imagínense que estuviéramos
+32:12
+inflando un un globo esférico no luego podemos encontrar con esto si cambia el
+32:20
+lr no O sea cómo cambiaría el volumen En
+32:25
+qué proporción si cambia el no este Por ejemplo si r se vuelve al doble como
+32:31
+cambia este podemos encontrar una función que nos relacione ambos no o el
+32:37
+área también podemos encontrar una que nos encuentre Cómo cambia el área de la
+32:43
+esfera Si cambia el radio y si cambia el volumen Es algunas de las este
+32:49
+aplicaciones que tiene Y también vamos a ver un poco ya la siguiente semana este
+32:56
+Bueno ya siguiente semana tenemos que también meterle un poco de Turbo porque tenemos que también ver lo que es este
+33:01
+cálculo integral que es más difícil que el cálculo diferencial vamos a ver este
+33:09
+algunos métodos y terminaremos yo creo que viendo sumatorias y series este en
+33:16
+cálculo y lo vamos a de tod lo vamos a volver a ver porque después de cálculo vamos a ver la parte de un poco de
+33:22
+matemáticas discretas Entonces vamos a ver este de matemáticas discretas lo cual nos va a
+33:28
+servir para demostraciones y nos va a servir para saber notación matemática Y ustedes puedan leer luego papers de
+33:36
+matemáticas porque luego lo ponen en notación matemática que nadie entiende o los de física también o economía luego
+33:42
+les gusta ponerlo en notación que nadie entiende Pero bueno ustedes la van a entender porque se las voy a enseñar
+33:49
+Okay chavos Pues bueno Yo creo que sería todo por hoy tengan una pregunta o duda
+33:54
+de lo que vimos hoy
+34:04
+ahorita no muy bien pues sí chavos tamb bien el punto
+34:10
+es que hoy vimos que se puede sacar máximos y mínimos como ahita le subo la imagen esta pero este Este es un Así que
+34:19
+como dice by Step guide Eso lo dice como hace unos meses este el primer paso es
+34:24
+derivar el segundo es igualar a cero y resolver este el tercer paso es sacar la
+34:31
+segunda derivada el cuarto es sustituir y checar signos acuérdense que es contraintuitivo en el sentido de que si
+34:38
+es negativo es máximo si es positivo es mínimo Okay muy bien y
+34:45
+Este quinto es sustituir en la original para encontrar el punto máximo y el
+34:51
+punto mínimo bueno la coordenada y porque ya tenemos la coordenada x que lo sacamos desde paso dos
+34:59
+no Ok chavos pues Bueno nos vemos y cuídense mucho
+35:07
+chavos by by

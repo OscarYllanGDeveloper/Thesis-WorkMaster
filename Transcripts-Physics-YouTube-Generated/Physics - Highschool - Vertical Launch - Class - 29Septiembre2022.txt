@@ -1,0 +1,1488 @@
+0:12
+fore
+0:28
+foree
+0:47
+okay
+0:58
+see
+1:17
+[Music]
+1:28
+this
+2:11
+[Music]
+3:00
+[Music]
+3:28
+that
+3:43
+okay
+3:52
+Vol come
+3:58
+on
+4:10
+okay back [Music]
+4:28
+that
+4:36
+okay yeah spee
+4:58
+spe
+5:28
+okay in English perfect okay perfect then okay I
+5:34
+think that it's better yes because that
+5:40
+[Music]
+5:51
+way okay
+5:58
+okay okay okay can you see my screen yes okay perfect well basically
+6:08
+in basically in like in this partial right well not this partial but for this
+6:14
+quiz basically it was like um the project motion
+6:21
+right or before doing that maybe I don't know like did you cover free before I
+6:27
+don't know like like in the yes like in the beginning of your
+6:33
+semester in your in your other High School yes okay well yeah basically if
+6:40
+you remember Free Fall basically well just really fast remember that we always
+6:46
+are going to have G right is the acceleration of the gravity
+6:52
+right and it's always pointing downwards right yes and always remember that this
+6:58
+one is it's like the acceleration it's constant right that means that always we
+7:05
+are going to have that acceleration going down okay good it says here the
+7:10
+magnitude of this acceleration is 9.81 m/s square well negative because
+7:16
+remember like in the TR right like in
+7:21
+mathematics okay in mathematics we have X Y remember that we are going to have
+7:28
+positive right when we are talking about forward mhm and when we are talking well
+7:36
+and Y positive when we are talking about upward right okay remember Y is negative
+7:43
+when we talking downward and remember that X is negative
+7:49
+when we are talking back right okay yes that really
+7:56
+important because if you see like the theory and they are going to like the velocity is going down like of an object
+8:02
+is going down so you know like the Y component is going to be negative right
+8:08
+okay yes okay okay it says we is a motion with
+8:14
+constant acceleration the speed increases at a constant rate with respect to time right
+8:21
+okay just go okay speed and time well uh
+8:27
+okay for example if you remember when we have like if you remember like
+8:33
+acceleration the definition is Delta V over delta T and if you remember Delta V
+8:39
+is the rate of shange right V2 minus V1 T2 minus T1 that in physics generally
+8:46
+they put it like final velocity right minus initial velocity right and final
+8:55
+time minus initial time right basically that this one like the rate of change
+9:02
+right this one is the acceleration and you know that the acceleration is constant because we have that the rate
+9:10
+of change is always going to be the same right like in this in this BR okay
+9:17
+perfect let's go okay remember that when
+9:22
+we are talking about okay vertical launch right that if we send something upward right M we going to have an
+9:31
+initial velocity right yes what sign is that initial
+9:37
+velocity positive positive right the y direction it's going to be positive
+9:43
+right perfect then okay good and remember that this one is going to be
+9:50
+affected Always by let me [Music] see by G right by the gravity that this
+9:58
+one is negative so basically remember that the G is an acceleration and if it
+10:06
+is negative this means that it will reduce well it will diminish right b0 y
+10:13
+okay so for example if we have v v0 y like 50 m per second right yes positive
+10:21
+because it's going up this one is going to be affected every second you are
+10:26
+going to decrease 9 81 m per second right every second okay and if you
+10:35
+continue doing that there will be a point where this b y final velocity Y is going to be zero
+10:44
+right me per second and that's always going to be when it's at its
+10:50
+maximum height right yes because
+10:56
+instantly after that the wall will start like falling down right yes okay so remember B FY
+11:05
+like bfy at the maximum height is always going to be zero M met per
+11:12
+second okay perfect okay well the speed is zero what I told
+11:19
+you okay okay yeah well these formulas are
+11:27
+the ones we are going to use a lot in uh
+11:33
+vertical loue right uh well yes when we are talking about y uh in the projecti
+11:40
+later okay this means BF it means final
+11:46
+velocity right okay VI it means initial
+11:54
+velocity okay a it means acceleration
+12:00
+X it means okay distance
+12:06
+right well yeah because this one can be y or can it depends like when we talking about protile this
+12:14
+is going to be why but okay y this going to be H our height
+12:20
+right it's going to be G like that well yeah like this this one I didn't it but
+12:26
+basically this ones okay when we're talking about vertical okay well
+12:34
+let's see okay well maybe better projectile okay here we we have arriv
+12:41
+right to launching from projectile right that's the important because that's the one that we are going to
+12:47
+cover in this exam and well basically the only difference when we are talking
+12:53
+about projectile right is that in this time our velocity
+13:00
+right is going to have two components okay going to have the
+13:09
+component X right yes and it's going to have the component
+13:16
+y right yes okay basically like if you
+13:22
+remember uh for getting the components of any Vector we can for example for
+13:29
+getting the X component of any Vector remember okay this one is going
+13:35
+to have an angle right okay we take the
+13:41
+magnitude well of any Vector like first of any Vector this like these symbols
+13:47
+like the two like the two lines right it
+13:52
+means magude of a
+14:00
+Vector okay yes okay and what does it means magnitude of a vector okay the
+14:08
+magnitude is really related to the Pythagoras Theorem if you remember from
+14:15
+pythagora from geometry we have okay we have this one
+14:21
+is our c that is our hypotenuse right yes okay we have this that is our a that
+14:29
+basically the to this angle this is the adjacent angle well Adent side sorry
+14:37
+same side and B right is our
+14:42
+opposite yes okay the magnitude basically is just applying the
+14:48
+Pythagoras Theorem that if you remember it was c² a s plus b squ and basically
+14:55
+see getting the value of the hypotenuse we have to do this formula right yes
+15:02
+okay for uh the vectors it's kind of the same forgetting the magnitude of a
+15:08
+vector because if you remember a vector basically just a narrow right that has a
+15:16
+magnitude and a direction that basically is an angle right this is the magnitude
+15:21
+and this is the angle right the M the direction okay so basically we ENT in
+15:29
+the vectors the magnitude as the length of the vector and the angle is the
+15:37
+direction right yes okay this is important because okay this means that
+15:43
+the magnitude is going to be the two components right basically this one this
+15:51
+part is the X component right yes and this part is the Y component
+16:00
+so if we translate like the formula we see that we are going to have BX s right
+16:07
+cross B y² right and the square root of
+16:14
+that basically just applying the the Pythagoras right in physics right if you see like
+16:23
+equivalen is a is equivalent to BX b y is equivalent to B that's why we have
+16:29
+this formula and this is remember the magnitude okay then that's for the
+16:36
+magnitude but if we want to take now the components we have opposite like we have
+16:41
+the the magnitude and we want to get the components we apply the property if you
+16:48
+remember cosine of the angle because if you remember like really quick okay let
+16:54
+me put it okay cosine right of the angle
+16:59
+the definition is adjacent side right over Hoten so if
+17:08
+we want to get the Adent side that as we see here is the X component right yes we
+17:15
+have to do the algebra and we just have to get the Adent we multiply the cosine
+17:21
+of the angle times the hypotenuse and in this case hypotenuse we set sorry we
+17:28
+said that it was the magnitude of the vector right B for getting the X
+17:35
+component we do this that's why let me see we get the magnitude times the
+17:40
+cosine of the angle for getting BX right yes and for getting b y is going to be
+17:48
+almost the same but this time is the magnitude times the sign of the angle
+17:54
+right yes okay basic these two are really important because
+18:03
+okay always always always like when we are going to talk about projectile launch right we are going to
+18:11
+take because projectile launch let me see okay wa
+18:17
+projecti launch also it's called like parabolic
+18:25
+right uhhuh launch that basically these two are are two
+18:33
+Dimensions to the or well two Dimensions
+18:39
+movement why because the two Dimension it means that we are going to analyze
+18:44
+this system in the X Dimension and in the Y right in X and Y coordinates yes
+18:52
+that's why it's called two dimensions and it's also called parabolic because the figure right it's going to be
+19:00
+basically a parabola right yes M okay
+19:05
+perfect okay says a pro shot is moving in two Dimensions right that we said in
+19:11
+it f in there both vertically right you remember that Bas degree is equal to Y
+19:17
+right and horizontally it's equivalent to X yes and it's only under the influence
+19:26
+of gravity perfect okay okay yes as it says here one of the
+19:34
+easiest ways to understand this movement is to analyze each Dimension separately
+19:43
+right so that's why we are going to have formulas for
+19:49
+y right and formulas for X because they are two
+19:58
+different type of movement also why is a one with
+20:04
+constant acceleration and this is one with
+20:11
+constant velocity okay in here let me put it
+20:18
+there's going to be a shank in velocity because it has an acceleration
+20:26
+and this it that it's constant let me put there's no
+20:33
+sh in velocity because we said that this one
+20:38
+it has a constant velocity right so in next our velocity horizontal is always
+20:46
+going to be the same so okay basically BX is always going to be equal to the
+20:52
+original velocity in X right this is always going to apply for projectile
+20:59
+movement okay gravity will only affect okay Vertical
+21:04
+Velocity this means that because if you remember the G always points downwards
+21:10
+so basically this one it just affects to the white movement right
+21:17
+yes okay then let's continue okay basically
+21:24
+the there like two type of problems right like that is basically
+21:30
+the the horizontally and the vertically the
+21:35
+horizontally basically it's like if you are in a risk like I don't know you remember that I put like you are like
+21:41
+this a person right and you keep this B right and it has
+21:47
+only velocity in X right yes so if you
+21:53
+do that like okay
+21:59
+you are going to have that your original velocity in X right is some value but
+22:05
+that your original velocity Y is going to be equal to zero zero perfect why because you
+22:12
+don't have a component in y and also well if you want to make it like mathematically you remember b0 Y is
+22:19
+equal to S of the angle times the v0 okay if our b0 is something like I
+22:26
+don't know let's say 10 m per second second but the the angle in here what's
+22:31
+the angle in here if it is horizontally zero zero right so if you
+22:37
+remember from trigonometry the sign of zero is equal to zero Z so Z times
+22:43
+anything is going to be zero zero that's why in horizontal launch or when it says
+22:49
+like you kick a ball horizontally from a high whatever when it horizontally the v
+22:54
+y v0 y is going to be the original right the yes but it's going to change the
+23:01
+velocity because we have we always have the gravity right yes so basically yes
+23:07
+there will be a b y final like a BF y right final but that than to the gravity
+23:16
+okay okay that's horizontally in the parabolic is when you have let
+23:23
+me okay maybe the parab one is when you have
+23:31
+both right when you have horizontally and when you
+23:36
+have vertic velocities right original velocities
+23:41
+yes y b0 x right and then basically this
+23:46
+will have like a parabola shape right in this point is its maximum
+23:54
+height that basically this is where we are at our vertex if you remember from
+24:01
+mathematics the vertex right basically if you remember is half of the parabola
+24:08
+right in the vertex we are at the half of the parabola okay that's something really
+24:15
+important later we are going to see why but okay this says two types of
+24:20
+movements are involved urm that is um
+24:25
+uniform rinear movement yeah well that's like a definition like a book
+24:33
+uniform re okay
+24:41
+move movement right
+24:46
+okay and the other one is well this basically means that the velocity is
+24:52
+constant right BX is constant and the other one the uniform acceleration
+24:59
+recting movement right it means that the object has an acceleration that our
+25:05
+acceleration is G basically okay or everything okay velocity has two components horizontal
+25:12
+okay and vertical yeah we said that it has this to
+25:19
+okay wait let me see well yeah let me see like if the formulas if I got the
+25:26
+formula okay well these are like the importance
+25:31
+maybe basically
+25:39
+[Music]
+25:44
+okay okay well basically we are going to
+25:49
+have these formulas okay these formulas this
+25:55
+horizontal are forx and these vertical are for
+26:01
+y right okay yes also we have one that
+26:06
+is not included here but I'm going to put it here velocity final y plus
+26:12
+velocity velocity time time right yes okay we are
+26:19
+going to use these formulas for analyzing this something also really
+26:25
+important like maybe before the doing this like the concepts for example let me put it
+26:32
+reach also called range inan in Spanish alans right this
+26:41
+is the movement well the sorry the
+26:46
+distance in X right okay
+26:54
+okay one thing also really important is the H Max that basically means the
+27:04
+maximum height right yes the maximum height basically is the maximum possible
+27:13
+wi distance right like the maximum that it can take our Parabola basically the
+27:19
+top of the parabola that is our vertex right yes okay what else
+27:28
+okay if you remember what's the okay at H Max
+27:35
+right at H Max right what's the
+27:41
+okay okay put color okay what's our velocity in y when
+27:51
+we are at our maximum height zero zero perfect and well for
+27:57
+example if we had b0 X = to 10
+28:03
+m/s what value are we going to have for bfx
+28:09
+five what five no 10 okay if you remember
+28:18
+BX is always going to be constant right
+28:25
+yes our velocity next it will never shank so if your original velocity was
+28:32
+10 m/ second in all your trajectory in the X Direction your velocity is always
+28:38
+going to be constant that's something really important because even in the exam like later we are going to see it
+28:43
+like in 10 minutes but they ask you like in one question what the Velocity in the
+28:52
+top of the like the horizontal velocity in the top of the parabolic movement
+28:57
+right they ask you that in order for you to confuse because you said oh it's zero
+29:02
+because it's for y but that's for y but for X it's always going to be constant
+29:08
+right yes so it's always going to be the same value it's going to be for example for this one is going to be
+29:15
+10 okay well something also really important like in concept is like that's
+29:23
+why for example the when you have wa like a gun right M have a G right okay and you shoot to
+29:33
+the sky that's why it really dangerous you know like the Lost bullets right yes
+29:40
+the Lost bullets are really dangerous because with the same the same
+29:46
+velocity that you go down up is going to be exactly the same velocity that this
+29:52
+bullet is going to well this velocity right the original one is going to be
+29:57
+exactly the same when it falls down at the same height right yes okay that's
+30:05
+something really important so for example you can really easy know if they ask you okay for example if I shot a
+30:12
+bullet right I don't know I don't know like at 100 m per
+30:19
+second right an angle I don't know let's say of 30 right yes degrees okay if you do
+30:30
+that what's going to be the magnitude when the bullet goes back it's also
+30:37
+going to be 100 m/ second right because it's
+30:42
+going to be exactly the same magnitude of velocity the only thing that going to change is the direction because now it's
+30:49
+going to go down in the Y right yes because it's falling down but
+30:56
+basically the magnet is the same that's why the l bullets are really
+31:01
+dangerous yes okay this formula the V well this one x b IX time this time is
+31:11
+also called you know like this time of FR right basically is the time that an
+31:23
+object is in the air right
+31:28
+yes okay basically this means U yes is the time that the object is in there and
+31:35
+this one is really important because this is the one well this affect the
+31:40
+complete movement because okay for example something that is also from
+31:47
+theory is okay what do you which angle right which angle do you think that is
+31:53
+going to give you the maximum sorry the maximum possible height well the the M
+32:00
+maximum height right which one is going to give you like the best maximum
+32:07
+height 45 no well not for the best reach like
+32:14
+for the best reach yes it's 45 but for maximum height it just like
+32:21
+shooting for like up right like yes it's so this is going to be
+32:29
+90 de for getting the maximum he because well it's like logical if you shoot something up right obviously it's going
+32:35
+to travel more distance up right so basically you're going to get the best
+32:41
+possible maximum k for getting for getting the best reach right that
+32:47
+basically that's the X distance right the best is to show it at 45 because at
+32:54
+45 is like in between of x and Y right it's like in the between and doing that
+33:01
+if you see like the formula that it was x b IX times right yes you do that the
+33:10
+45 45 is going to increase well it's going to maximize the Velocity in
+33:18
+y both the the component Y is the one that affect the time of TR right yes so
+33:27
+basically 45 get you the best of both like maximizes both and if you maximize both
+33:35
+in a multiplication you're are going to get the best possible value right and in this case as
+33:42
+we are talking about the reach the range basically the best possible angle is
+33:50
+45 right yes okay perfect then okay we have here the exam
+33:58
+right that we answer with the the other version because let
+34:06
+me okay then okay Prof the formulas are
+34:11
+going to come in the exam yes like okay yeah I'm going to give you like I don't
+34:18
+know if you can see it I don't have like a digital version because they just gave it this one to me but they will give you
+34:23
+like this physical okay right okay well basically uh yeah you going to
+34:32
+have like okay maybe let me okay I don't have to look like okay
+34:40
+maybe I will I will okay wait wait me a minute yes I'm going to take a picture
+34:46
+of this and I'm going to put it like in the iPad let me
+34:55
+see do it look like
+35:16
+okay
+35:25
+way okay I'm sorry I have to answer really
+35:31
+fast yeah
+35:50
+yeah yeah sorry okay okay perfect I just have it let me share it with you you
+35:57
+[Music] again
+36:03
+[Music]
+36:14
+okay okay well basically these are going to be like your formulas right that you
+36:20
+going to have in the your exam maybe let's do some exercises I going to give you a
+36:27
+different exam so yeah you can can basically do this one like the one that we did in cast mod
+36:34
+okay let's do it okay good uh it says in parabolic
+36:41
+Lune the vertical velocity is z m per second right okay let's do it together maybe
+36:49
+okay what do you think
+36:54
+uh yes zer true true right perfect it's true because if you remember when we are
+37:02
+like in the parabola right at this maximum point the maximum height right
+37:08
+we are always going to have that the bfy is going to be Z point zero yes right
+37:14
+perfect okay next one the time that it takes to reach the maximum he in
+37:21
+parabolic parabolic Lun is half of the total time you remember we said that
+37:28
+this was the vertex right and that the vertex is always in the middle of the
+37:33
+par so basically what do you think in this one true true
+37:40
+perfect okay next one the horizontal velocity in parabolic lunch has an
+37:47
+acceleration in ofus 9.81 false false right because it says
+37:55
+horizontal velocity right yes so basically this is going to be false
+38:01
+because this will be just correct if we have vertical right yes but as we have
+38:09
+horizontal yeah it's false okay when for
+38:14
+when an object is thrown diagonally remember the diagonally means like the diagonal right M the vertical velocity
+38:23
+never changes what do you
+38:30
+think false false perfect because it says Vertical
+38:38
+Velocity remember that the vertical velocity is the one that changes yes the one that is constant
+38:45
+that never changes is the horizontal right or DX right BX is the
+38:53
+one that is constant perfect okay continue let's
+38:58
+continue the vertical velocity is negative when an object is moving
+39:03
+downward true true right because if you remember from mathematics we were saying
+39:10
+that remember that y positive up y negative down right yes so for Vertical
+39:19
+Velocity yes this will be true well okay let's continue it says during the
+39:26
+trajectory of a parabolic lunch right the horizontal velocity okay let's read them what do
+39:34
+you think a it says change its magnitude and direction we are talking about horizontal velocity does it change it
+39:42
+magnitude no no so this one cannot be okay letter B shangus is magnitude
+39:51
+but maintains its direction the horizontal velocity
+39:57
+no no perfect okay letter C changes its direction but maintains its
+40:07
+magnitude no no because if you remember if you send something like in this
+40:12
+direction it will always go forward right it will not change the direction
+40:19
+it will not go backward like suddenly no it will not do that it will always maintain the direction so this means
+40:25
+that the only possible one it says maintains the same direction and magnitude right so this is letter
+40:33
+D perfect okay number two it says the
+40:39
+following drawing shows the trajectory of a toy cannonball at which point will
+40:45
+the horizontal velocity be 0 m/ second okay seven d t d right
+40:54
+never why no t i no horizontal yes d d it's never
+41:02
+because remember that we have right an original velocity in X and if this is
+41:09
+constant right yes this will never going to be zero like in any point we will
+41:16
+have the same BX so basically this will never be zero
+41:23
+that's why it says never right yes okay
+41:30
+perfect let's continue okay a football is thrown in
+41:36
+parabolic launch right why the vertical velocity at the
+41:42
+maximum height what do you
+41:48
+zero perfect it's zero right because we said that at the top of the parabola at
+41:54
+the vertex right then velocity is going to be zero
+41:59
+perfect four in parabolic launch we can state that what do you think in that one okay
+42:07
+let's read them a acceleration changes in the first half of the P what do you
+42:13
+think in the second part yes perfect no because yeah okay first of all the
+42:20
+acceleration doesn't shange right mhm okay letter b the horizontal velocity is
+42:29
+constant yes yes perfect so this will be B
+42:37
+right perfect I don't know why it move okay five let's read the five it says
+42:44
+when an object is thrown forward right basically
+42:53
+forward I don't know like this right when thr forward
+42:59
+with a horizontal velocity right the horizontal velocity right of 24 m/
+43:08
+second from the roof of a building right imagine like you have okay like this
+43:14
+roof of a building right yes what can we say about its Vertical Velocity and
+43:20
+horizontal velocity okay let's read them it's very
+43:26
+letter a is vertical velocity and horizontal velocity are both
+43:32
+positive okay first of all BX what sign do you think that it has if it positive
+43:38
+positive right and B Y which sign negative negative perfect so we can
+43:46
+well we can say this one no but we can SK Skip and say this one it says it's Vertical Velocity it's negative remember
+43:54
+that this is vertical right why vertical and X is horizontal right yes
+44:04
+so basically will be Lea what do you think which lettera
+44:10
+c c yes yeah letter C right yes okay it's
+44:20
+Vertical Velocity is negative right but its horizontal velocity is positive
+44:25
+right right perfect okay great let's continue with
+44:32
+the progs right okay in here let's take this
+44:39
+[Music] one
+44:50
+[Music] yes
+44:56
+[Music]
+45:04
+okay right okay we have the formulas in here
+45:09
+right yes okay first of all let's see the problem well like what I told you
+45:15
+like your classmates like the like if I have to put like a step for doing a prr
+45:22
+of this type right basically something that is really useful is to
+45:28
+always get viix and VI i y right the original
+45:35
+velocities the components of these ones something really useful number two
+45:42
+it's to get the okay what are
+45:49
+they asking you
+45:54
+right okay they are asking you for example total time and range well in the
+46:00
+pr it says a speed is thrown at 15 m/ second horizontally from the roof right
+46:07
+65 M building how long will it take to reach the
+46:13
+ground and well how long basically this is the time right total time
+46:19
+and what is the range is this one right yes range was
+46:28
+the a yes also it is the X maximum right
+46:34
+the X distance yes
+46:40
+okay in the parabola let me put it in the parabola
+46:48
+right okay basically the reach the range is this distance right
+46:57
+yes okay so basically that the range
+47:02
+right in what are they asking you okay
+47:07
+well sorry step number two is what they are asking you step three it will
+47:13
+be what data do
+47:20
+you have right yes okay number four is
+47:27
+like look for an equation
+47:35
+right that has both like has two and three this means that it has what they
+47:42
+are asking you and what data do you have but remember that you can just have
+47:49
+one unknown right yes because remember in
+47:55
+mathematics they tell you like you for every equation right MH you need one
+48:04
+unknown because if not you cannot solve that equation yes okay so basically we
+48:11
+have this and okay so okay that's like the step for solving any problem of this
+48:19
+type now let's apply it to this problem okay it says I Fe is from 50 m/ second
+48:31
+horizontally okay H Fe is from 50 m horizontally right yes from the roof at
+48:41
+65 or well from a 65 M building right yes so basically what is the the 50 m/
+48:50
+second horizontally the velocity horizontal
+48:55
+horizontal the BX right yes is 50 m/ second now what's the value of b y well
+49:04
+original velocity original velocity zero perfect it's zero right because it's
+49:11
+horizontal and also like if you do it like mathematically is because the sign
+49:16
+of zero because our angle is zero when we are talking about horizontal right
+49:21
+yes is going to be zero okay perfect we have that let me
+49:30
+okay perfect and okay that's BX b y okay
+49:36
+we also have what is this value a 65 M building the height the height perfect
+49:44
+so basically this is height 65 M right yes okay so
+49:51
+basically we have okay that was like the first part that it was getting the I
+49:58
+well BX and b y right number two what are they asking you they are asking us
+50:04
+for what time and range time and range
+50:09
+perfect and number three what data do you have okay we saw that we have well
+50:15
+we could get BX b y and we also can get the age right yes okay so now number
+50:24
+four like look for like in the question that you have let's see which ones can
+50:29
+we use okay we have for example in this part let's see like this part
+50:36
+right okay we have for example okay first of all let's try to solve total
+50:42
+time the time so let's look for the question that have time okay let me okay
+50:49
+this one doesn't have time so no this one has time yes yes this this one
+50:55
+doesn't have time no this one has time yes okay this one has time yes okay so
+51:05
+we have to look in one two or three but now also we have to see what value do we
+51:12
+have like what data right yes okay we said that we have we don't have the let
+51:19
+me put it we don't have the final velocity in y no no we have the initial velocity in
+51:29
+y right yes we always have the G right
+51:36
+yes do we have the time no no so this one has two unknowns right one equation
+51:44
+so basically we cannot use this one right because we need just one
+51:50
+unnown yes okay let's go with the next one
+51:56
+okay do we have the height yes yes do we have the original
+52:02
+velocity in y yes perfect do we have the
+52:07
+G yes yes the only one that we don't have is the T
+52:14
+right okay so basically one unknown one equation so
+52:21
+basically we can use this one right yes okay just for you to see the next one we
+52:29
+cannot also use it because we don't have the final velocity and the time so it's
+52:35
+going to be two unknown so basically the one that we're going to use is this purle one right yes okay so basically H
+52:44
+equals b i y time +2 of GT s okay let's replace the
+52:54
+values okay well I will do it here and later I will make it smaller but
+53:00
+okay okay let's replace the values the value of the height what was
+53:05
+it 65 65 right
+53:10
+okay biy what do we said that it was zero zero right zero times time right
+53:21
+plus2 of G well G it was - 9.81 right
+53:28
+yes t² okay well 0 * time this is going to
+53:33
+be equal to zero right yes so basically here we are just going to do algebra the
+53:40
+65 equal to one well half of 9.81 if you do it in your calculator right is
+53:48
+4.95 t² right yes okay and now we just
+53:53
+have to do algebra we pass dividing right there well this
+53:59
+one in fact the the height is negative because if we start from zero right if
+54:05
+this is our zero if when we fall right when we fall back this distance it's negative right
+54:13
+yes so it's going to be - 65 - 65 byus
+54:20
+4.95 right and if you remember from mathematics when we have something square right how do we pass it to the
+54:27
+other side with the square root the square root perfect right so basically we are
+54:33
+going to do the square root of that okay can you tell me like do you have your calculator with
+54:39
+you yes what I did first I is it wrong if I first take out the square root of
+54:48
+4.95 and then the answer that divided yes yes it's wrong because
+54:55
+you remember from mathematics right what's the order of operations the first
+55:00
+one like the most important one see the parentheses right yes then is the power
+55:05
+and the square root well the squares the of yeah like Roots yeah like cubic
+55:12
+square whatever no okay this like the first one this is the second one the
+55:17
+third one is multiplication and division right and number four is addition and
+55:23
+subtraction right and well last one if you remember is from left to right
+55:32
+right yes that's for operations but for
+55:38
+the Spees no like for solving is the opposite way this is the last one
+55:45
+right okay okay this is important because okay
+55:53
+if you see these two well these are multiplying right yes
+56:00
+okay well this is multiplying to this one so in order to get this one we first do the
+56:08
+multiplication and then we do the square roots or the powers right yes basically
+56:15
+first we have to pass this one dividing and then we can do the square root okay
+56:22
+that's why because like for solving is the opposite way so yes like you first
+56:28
+have to divide and then the square root okay
+56:33
+okay let me do
+56:44
+it it gave me 3.64 seconds okay
+56:52
+3 64 right second yes perfect okay let me try to make this
+57:01
+one
+57:08
+[Music]
+57:19
+small okay that's good now let's
+57:25
+do we have one value now we have to go for the range how do you imagine that
+57:31
+you can solve for the range where do you see the range
+57:36
+basically well first of all why is the range it's h the distance in X the
+57:45
+distance in X right yes so we have to look remember like in
+57:50
+here what are they asking you the distance of x okay so let's look
+57:56
+equation that have the distance of X the only one that I see that it has distance of X is this one
+58:04
+right yes like if you see there is no like distance of X in any of the other
+58:09
+equations so basically is that one okay so we are going to use that one let's
+58:16
+see do we have the Velocity
+58:22
+next yes yes right do we have the time we just got it
+58:29
+right yes so basically we are just going to do algebra right the spe right and we
+58:37
+are going to get that DX is BX multiply by Delta time right so basically we are
+58:44
+just going to multiply 15 times the time that we just got 3.64 right yes so what
+58:53
+do you have what do you get you do that 54.6 okay perfect this is going to be
+59:01
+and it's in meters right yes exactly it is in meters because we are talking
+59:08
+about distance right we are talking about range yes perfect let me just
+59:16
+okay for this new [Music]
+59:23
+one
+59:37
+okay okay well good okay now let's do number two right
+59:46
+yes okay it says I stone is from
+59:51
+horizontally right yes from the roof of a 45 M building and reaches a range of
+1:00:02
+70 MERS right yes how long will it take
+1:00:08
+you remember how long basically the time right will it take to reach the ground that basically that the total
+1:00:15
+time and what is the horizontal velocity right yes okay well basically
+1:00:25
+in this one let's like do the steps that I show
+1:00:31
+you let me just copy and
+1:00:42
+paste okay the steps right MH
+1:00:48
+okay it says let me
+1:00:53
+see does it look better like that or yes it's better thank you okay let me
+1:01:02
+just bit Yeah okay it says a stone is found
+1:01:11
+horizontally right from the roof 45 Ms okay first of all what is this the 45 M
+1:01:20
+building ER the height height perfect
+1:01:25
+the height is 45 M right well in here
+1:01:31
+basically says the range right
+1:01:37
+is 70 M right
+1:01:43
+okay right okay if we try to do like the first step the B we don't know them we
+1:01:52
+don't know it right no that's why it's asking you why the horizontal velocity so we cannot get this one but can we get
+1:02:00
+the [Music]
+1:02:07
+viy what do you think yes yes perfect because here
+1:02:15
+says horizontally basically what's going to be our
+1:02:20
+angle zero zero right and if you remember the sign of zero is going to
+1:02:26
+give us zero so basically this is going to be zero zero right meters per second
+1:02:34
+okay perfect now let's look like the steps okay what are they asking you
+1:02:40
+they're asking you okay first the total time so let's go and see the formulas
+1:02:46
+that have total time remember that the total time it depends just in of Y right
+1:02:53
+it depends just of Y y yes that why we are going to look in the Y section okay
+1:03:00
+okay let's look for the one that has total time this one has total time this
+1:03:06
+one has total well time and this one has time right yes three basically you're
+1:03:13
+going to see that this really close to the last problem right it was almost
+1:03:18
+it's going to be almost exactly the same for the total time why because
+1:03:25
+same again we don't have this value and we don't have this value we have two unknown so we cannot use that one right
+1:03:33
+yes also in the last one we don't have the final and also the time so we cannot
+1:03:38
+use this one but in here we have the initial the height the G the only one
+1:03:45
+that we don't have is the time so it's one on on one equation so basically we are going to use this one yes okay H
+1:03:54
+right right it says 45 45 yes perfect
+1:03:59
+let's replace it 45 M right equals to viy VI Y what we
+1:04:07
+said that it was Zero 0 * time is going to be zero right okay cos 12 of G right
+1:04:18
+yes remember that this is negative right because we were talking that we started from zero right and when we fall like
+1:04:25
+this distance is negative okay so basically kind of the same we're going
+1:04:30
+to divide 45 divided my 4.95 right and this we are going to
+1:04:38
+get the square R right yes okay
+1:04:43
+basically we do that and what do we get it's
+1:04:50
+3.29 seconds let me check check 3 point what
+1:04:59
+029 okay perfect
+1:05:05
+329 right seconds right yes perfect now let's go for the horizontal
+1:05:16
+velocity okay now let's look horizontal it means that we are going to use this
+1:05:21
+part right yes of the
+1:05:26
+where do we have okay we have the Velocity right here and we just got the
+1:05:33
+time so basically for getting the value that they well sorry sorry no we don't
+1:05:39
+have the Velocity right is the one that we are going to get but we just got
+1:05:45
+where they give us the 70 M right basically this one right yes and we just got the time
+1:05:54
+right that is 3.29 so for getting the VX is really easy just making the division right yes
+1:06:03
+we are going to divide what between what 70 divided by
+1:06:09
+3.29 Perfect what do you get if you do
+1:06:15
+that 23 1 1 0 perfect
+1:06:22
+23.11 01 meters horizontal velocity what meters
+1:06:29
+per second meters per second perfect now okay we just solve number
+1:06:35
+two really good let's go with number three right yes the last one okay it
+1:06:46
+says a football player let me
+1:06:53
+okay
+1:07:10
+okay it says a football player throws the ball at 20 m per second at an angle
+1:07:16
+of 55 degrees right yes what is the range and what is the maximum he okay
+1:07:23
+they are go basically the range and maximum height first of all I told you like it's
+1:07:30
+really useful to get always like the components viix and
+1:07:36
+viy right okay viix basically we said that
+1:07:42
+it was cosine of the angle times the magnitude right okay give me the this
+1:07:50
+one is going to be the cosine of what
+1:07:55
+of 55 55 perfect right and times the
+1:08:03
+velocity what's the value of the Velocity 20 20 m per second perfect
+1:08:10
+right okay yes okay later we calculate how for y for y why is the
+1:08:19
+formula sin times the angle no SC of the angle times the velocity right so
+1:08:27
+basically we are going to get the sin of
+1:08:32
+what oh 55 55 right times
+1:08:38
+what 20 20 perfect okay now we get both
+1:08:43
+let
+1:08:52
+me okay let's do it can you do it withing
+1:08:58
+your calculator the first one yes I got
+1:09:03
+11472 m per second 11 4.47 right yes second and the second one
+1:09:12
+did you do it yes 16.38 meters per second perfect
+1:09:20
+16.38 m per second right yes okay that's really good okay then
+1:09:30
+okay let's see the maximum height or the
+1:09:35
+range can we get the range directly okay the range if you remember
+1:09:42
+is this one right yes okay no we cannot we cannot because we
+1:09:48
+have two unknowns right yes we don't know the range and we don't know
+1:09:54
+the time so we cannot use this one yet yet okay so maybe let's go with the
+1:10:00
+maximum height right yes okay the maximum height if you remember right
+1:10:09
+that's why is really important like the definition the concept how how do you imagine that you
+1:10:16
+can get the maximum height
+1:10:21
+with the third
+1:10:28
+formula yes no yeah you can use that one also you can use um which one the other
+1:10:36
+one that for example you can use any of these two like the one that you said
+1:10:42
+like the third formula right also you can use this
+1:10:47
+one yes okay why because okay let's
+1:10:56
+see Okay then if you remember right
+1:11:01
+then okay we don't have the height but do we have the final velocity
+1:11:08
+in y yes what is the final velocity when
+1:11:15
+it's at its maximum height zero perfect we have this one do
+1:11:21
+we have the original velocity yes we just calculated yes okay right yes
+1:11:30
+okay wait [Music]
+1:11:36
+wait yeah both okay
+1:11:41
+[Music]
+1:11:47
+wait okay wait okay no well we cannot use those yet right so sorry I make a
+1:11:54
+mistake right we cannot use this one yet right because we will have two
+1:12:00
+unknowns but yes we can use for example it was this one the one that I
+1:12:06
+tried to say yeah this one because we have the final velocity in y that is equal
+1:12:12
+to zero right zero the initial velocity that we just calculated that is this one
+1:12:19
+right and we always have G yes okay
+1:12:24
+basically we can like substitute right the final velocity in y is equal to zero
+1:12:31
+right okay the initial velocity in why we just calculated that is
+1:12:37
+16.38 right yes per second plus G G isus
+1:12:44
+9.81 m/s squar right time T so basically we do the
+1:12:51
+algebra and we pass - 16.38 right divided by -
+1:12:59
+9.81 right and we get what do we get you have your
+1:13:06
+calculator with you yes it's 1
+1:13:12
+67 perfect we have 1.67 seconds right yes okay perfect
+1:13:21
+that's the time at when we are at our maximum K
+1:13:30
+right okay now now we have the time now yes we
+1:13:37
+can use this formula the one that I was telling you yeah sorry I I like Skip One
+1:13:43
+Step but yes now we have the final the
+1:13:48
+initial and the time right so basically we can get the maximum the height is
+1:13:55
+going to be 12 of what the final velocity y zero right yes first what the
+1:14:04
+initial velocity we just calculated that it was 16.38 right yes times the time that we
+1:14:13
+just calculated that it was 1.67 right yes so basically if you put this
+1:14:21
+in your calculator you are going to
+1:14:29
+where 13.78 68
+1:14:35
+1368 what yes meters meters perfect okay
+1:14:42
+that's really good but now let's think a little bit about the parabolic movement
+1:14:48
+right yes if you remember when we are at our maximum
+1:14:53
+height right we are at half of the parabola
+1:15:00
+right yes and we said that the same time that it takes to go up is the same time
+1:15:08
+that it takes to go down right yes so basically this is just half of the time
+1:15:16
+of the compete Parabola okay what do you imagine that we have to do in order to get the
+1:15:24
+time multiply by two multiply by two perfect so the total time right total
+1:15:31
+right is going to be two times what
+1:15:36
+1.67 perfect so in that case we are going to get the total time that what is
+1:15:45
+[Music] it
+1:15:51
+it's 3.34 perfect thank you okay seconds right
+1:15:58
+okay yes now we have the time and what else do we have okay let
+1:16:05
+me see for getting the range okay we have
+1:16:12
+the time and we have the original velocity right the
+1:16:17
+VX one so basically we just have to do the algebra the spe right
+1:16:24
+and we are going to get that the range right equal to maybe another color BX
+1:16:32
+multipli by Delta time and BX is equal
+1:16:39
+to BX is 11.47 perfect and what is our
+1:16:47
+time 3.34 3.34 so can you please do it
+1:16:58
+yes 38 Point 31 perfect so we get
+1:17:06
+38 31 what unit the range meters
+1:17:14
+meters perfect then when but in I have a
+1:17:19
+question yeah yeah in the uh in the first problem why didn't we multiply the
+1:17:28
+time times two okay because okay let me see like
+1:17:35
+the figure okay here this is the perfect because if you see this is like half of
+1:17:41
+the parabola right so basically we es skip we ignore
+1:17:49
+this part because that part like never happened when when we are talking about horizontal launch we start from here we
+1:17:58
+don't start from here okay that's why we just take half
+1:18:03
+of the parabola right when we are talking about parabolic we start from here so in here
+1:18:11
+we are going to take both parts of the parabola right like the whole
+1:18:17
+Parabola yes basically it's because of that so only in parabolic launches you
+1:18:25
+double the time yes if they ask you for the the
+1:18:31
+reach right just for the reach because well like for your classmate because I
+1:18:38
+teach them like maybe more deep I teach them for example that for getting the VX
+1:18:44
+right any time is basically the b0x
+1:18:50
+multipied by the time of right how do you get the time of fact well
+1:18:56
+this like like above the I think that the level that they teach you well at Le
+1:19:01
+the exam that they put right here but for example the time of f right you get
+1:19:09
+it most of the time from this
+1:19:15
+formula there this one right yes okay
+1:19:21
+now you're going to see or you you still don't have like access to ca right yes no okay well because I left them a
+1:19:29
+homework like if you go tomorrow I'm going to solve some of the problems in the in the class right okay because
+1:19:37
+generally I I well I put like homeworks above the level of the exams right in
+1:19:42
+order that you study really hard and you get really good grades right okay but with
+1:19:51
+basically this is well this is a square right okay if you remember from
+1:19:57
+mathematics the for well the quadratic equation it has this formula right a x²
+1:20:04
++ b x + C right okay if you remember
+1:20:10
+okay a is the one that is multiplying our unknown square
+1:20:17
+right B is the constant that is multiplying our unknown to the one power
+1:20:24
+right and C basically just the constant that is not multiplying any X
+1:20:30
+right yes okay basically well the complete formula for this one will be H
+1:20:37
+equals h0 plus b0 t plus 12 G t²
+1:20:47
+right okay so let's see like the equivalences because also this is both
+1:20:52
+of them are quadratic equations right yes the equivalency okay a is the one
+1:20:58
+that is multiplying our unknown square right in here this is our unknown Square
+1:21:03
+the time right yes what is multiplying the Time
+1:21:09
+Square G one one2 g one2 g perfect so
+1:21:14
+basically our a is 12 G right yes okay
+1:21:21
+our B the is the one that is multiplying our unnown to the one basically in here
+1:21:27
+this is T right yes what is multiplying our T original velocity perfect original
+1:21:35
+velocity initial velocity right this is B
+1:21:41
+right perfect and C C well basically if you remember for well for applying
+1:21:48
+something that is called if you remember what is the general formula do you remember like the general
+1:21:54
+formula for solving quadratic equations it's the one that's negative B
+1:22:01
+plus minus the square root of b^ 2 minus 4 a
+1:22:06
+c divided by 2 a perfect the general formula well the square root of this I
+1:22:13
+forget it okay this one is going to give us two values right yes that's why the
+1:22:20
+plus minus okay
+1:22:25
+basically for doing this general formula we have to equal zero right this has to
+1:22:32
+be of this shape okay so
+1:22:38
+basically what do you think that is going to be our C it's going to be h0 minus H right we
+1:22:46
+have to pass this one to this side and if this is adding this will pass
+1:22:52
+subtracting right yes so
+1:22:58
+basically okay we get this three right and like for getting like any value
+1:23:06
+because you can get you can get the X position in any value like you don't have to limit to the to this one right
+1:23:14
+you can get the X in here you can get the X in here in whatever position you
+1:23:20
+want right MH this is really useful because for example I don't know like
+1:23:26
+for sending magees right or I don't know like whatever like a shot or something
+1:23:32
+in you can say okay at this time in in which position is going to be this
+1:23:39
+projectile right in which XY position you can get it really easy for example
+1:23:46
+the X position if you remember the formula well not just remember it's in here
+1:23:52
+right right this is the formula the v0x we get it from the
+1:23:58
+beginning because it's just calculating the magnitude right yes one what the
+1:24:03
+time of f it depends right on this stuff right yes if you want to know the EXP
+1:24:11
+position at any height like if you want to know for example I don't know let let's say this height
+1:24:17
+right this height is 20 M 12 m 12 Ms you just input this 12 Ms in here
+1:24:28
+right the h z you take it maybe a zero like that right and with that using this
+1:24:36
+the general formula you are going to get one well two times of five why do you
+1:24:43
+get two times of five because if you see these two positions right yes are
+1:24:51
+equivalent in y they have the same kind right H1 and H2 they are
+1:24:59
+equal basically they will have time one and time two right they are going to be
+1:25:06
+different the times but the heights are going to be the same that's why we get two values
+1:25:15
+we get one value that is before the parabola and we get a second value that
+1:25:20
+is after the half of the Parabola right yes okay basically that's why we can
+1:25:27
+solve well we solve this general formula and we are going to get time one or time
+1:25:34
+two yes and now like you can decide okay maybe I want the first time if you do
+1:25:40
+that right okay sorry this was a mistake this is no v x this is X right okay X right
+1:25:52
+yes okay and we depend of time like function of time okay in here we we we
+1:25:59
+had this from the beginning and we calculated this from the general formula so we input any of these two values and
+1:26:07
+will give us okay this x position right or this first point and okay a
+1:26:16
+second sorry it wasn't here okay a second X right we are going to get this
+1:26:25
+X2 this X1 right mhm yeah basically like you don't
+1:26:32
+have to limit to get the range like basically High School physics that's a typical problem that they put but in
+1:26:39
+reality with the same formulas you can get any value right you can get the X in
+1:26:46
+any position of the parabola kind of the same like the equivalent if they give you an X right you can get the height in
+1:26:55
+any point just like in substituting this formula right and getting the time of
+1:27:01
+right and then the time of right you substitut it in the same formula right
+1:27:06
+yes and you get the height like if they give you X you can get y if they gave
+1:27:12
+you y you can get X right yes
+1:27:18
+okay and basically that's like you don't have to limit yourself like
+1:27:24
+tomorrow you are going to see like we don't have time right now but tomorrow I'm going to explain a program that is
+1:27:31
+more interesting that basically let me like for you to give you like a preview
+1:27:38
+okay for example you have a gun right yes and you know that this gun for
+1:27:44
+example shoots at 100 m per second right yes and you want to hit
+1:27:51
+exactly
+1:28:02
+okay a point right like I don't know you want to hit exactly this coordinate
+1:28:08
+right that is an x y coordinate so for example you want to shoot something that
+1:28:15
+is 100 m horizontal from you right MH
+1:28:20
+and it's I don't know like a a height of 20 M right yes we are going to see
+1:28:26
+tomorrow that there is a Formula that you can see it even in Wikipedia it's like a kind of hard for but like you
+1:28:33
+don't have to learn it you just have to know how to input the value right there is a Formula that it will tell you which
+1:28:42
+angle you have to shoot that gun in order to hit exactly that point
+1:28:50
+right okay really useful because that's something that you can use like a lot in like well like in real life you are like
+1:28:57
+engineer and want to for example a projectile right you have like a gun and you say Okay I want to shoot exactly
+1:29:03
+that point right with these calculations you can know okay I have to I have this gun that
+1:29:10
+I know that it fires at 100 m per second so I know like okay with this angle I
+1:29:16
+will exactly shoot that point right yes so yeah basically we're going to do that
+1:29:21
+because like part of the homework yeah I put like in the homework like problems harder than the one that you get in the
+1:29:29
+exams know that you get good but still like well you have to upload it so
+1:29:34
+okay but yeah tomorrow we are going to see like three problems like of this
+1:29:40
+level like are a little bit above the level of the exam okay so tomorrow what we're seeing
+1:29:47
+will not come in the exam no no no no no no okay like the the thing that we saw
+1:29:53
+right now is like the perfect for the examp okay like the one that we are
+1:29:58
+going to see tomorrow are above the level okay it's for the H word because it's the H word like basically I'm going
+1:30:04
+to solve the H word yeah okay yes okay
+1:30:11
+well good okay

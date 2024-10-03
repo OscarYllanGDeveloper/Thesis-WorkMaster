@@ -1,0 +1,1108 @@
+0:02
+Okay muy bien chavos Pues bueno como les decía hay que recordar que nos quedamos en la parte de vamos a recapitular que
+0:11
+estos viendo un poco ayer este vos todo esto acuérdense que
+0:18
+estábamos viendo lo de movimiento en dos dimensiones las leyes de New bueno no llegamos las leyes de Newton pero
+0:23
+empezamos a ver a repasar no lo del desplazamiento que las unidades del
+0:28
+desplazamiento Cuáles son chavos Ahí está Cuál es alguien metros muy bien
+0:36
+la del velocidad es metros sobre segundo y la de aceleración es metros sobre segundo al cuadrado no muy bien entonces
+0:43
+estas son no así que las tres principales de cinemática y acuérdense que para el desplazamiento tenemos que
+0:50
+dividir entre tiempo para conseguir la velocidad igual velocidad entre tiempo nos da aceleración lo que estábamos
+0:57
+viendo acuérdense que la aceleración se dice que cuando cuando incrementas la velocidad es positiva cuando reduces la
+1:03
+velocidad o sea ejemplos cuando incrementas la velocidad es como cuando estás en el carro tus Papá están en el
+1:08
+carro y le pisan al acelerador al pedal del acelerador pues es incrementar tu velocidad reducir tu velocidad es cuando
+1:15
+pisan el feno y cambiar de dirección eso lo vamos a ver cuando la universidad cuando es el movimiento rotacional Okay
+1:23
+muy bien Y entonces Así es vamos a bueno
+1:28
+acuérdense que vimos que que todavía no Pero vamos a ver que las derivadas no que esto es lo que sirve no sé si se
+1:36
+acuerdan la pendiente en matemáticas que era la m no que era el cambio de yent el
+1:41
+cambio de X en Bueno vamos a ver en cálculo un poco que la derivada es la
+1:47
+pendiente para eso funciona la derivada para poder sacar pendientes la cual si nos damos cuenta se acuerdan de las
+1:53
+grafi quitas a ver dónde les puse buen esa grafiquen de el desplazamiento con
+2:01
+respecto al tiempo era la velocidad entonces pues obviamente cuando saquemos las derivadas de eso nos van a dar la
+2:08
+velocidad cuando saques la derivada de la velocidad te va a dar la aceleración y el proceso inverso se acuerdan er
+2:14
+integrar entonces va a ser algo así en la de universidad también si se acuerdan vimos
+2:20
+que la aceleración de la gravedad era muy fuerte bueno que era 9.81 Met sobre segundo cuadrado Aunque realmente es
+2:26
+negativa y alguien se acuerda por es menos la aceleración de la gravedad por
+2:33
+la dirección excelente es muy bien es porque la dirección de la afiliación de la gravedad siempre siempre la gravedad
+2:40
+va hacia abajo verdad no haí que atalla hacia el núcleo de la tierra Entonces esta siempre va hacia abajo y acuérdense
+2:47
+que dijimos no que por convención Así que lo hemos visto desde primaria que en
+2:57
+el okay Sí perdón que desde primaria hemos visto que el plano cartesiano no
+3:05
+que la y hacia abajo es negativa verdad Entonces como la
+3:12
+dirección de la aceleración de la gravedad como la dirección de la
+3:18
+aceleración de la gravedad va hacia abajo pues es negativa no dijimos también este bueno que estas sean las
+3:25
+fórmulas No si se acuerdan la primera era que velocidad es igual a desplazamiento entre tiempo que sea la
+3:32
+definición de velocidad no la definición de la velocidad es el cambio de posición
+3:38
+no entre cambio del tiempo acuérdense de la delta del triángulo no el Triángulo
+3:44
+significaba Delta que significa cambio o variación este Okay muy bien y hay que
+3:50
+acordarnos no que Este es para obtener la velocidad final luego lo vamos a ver en física de universidad que esto viene
+3:57
+de integrar Por qué porqueen cuando tú integras una cosa por ejemplo la aceleración cuando tú integras la
+4:05
+aceleración esto no la aceleración termina siendo aceleración por tiempo más una constante esta constante es la
+4:14
+velocidad inicial entonces por eso es que la fórmula es velocidad inicial no
+4:20
+más aceleración por tiempo de ahí viene bueno eso lo vamos a ver en la parte física de universidad Pero bueno para
+4:27
+que lo vayan medio viendo acuérdense que di de las notaciones que el V cer es lo
+4:33
+mismo que velocidad inicial por qué porque acuérdense que este v0 significa
+4:39
+la velocidad en el tiempo cero pues es con la que inicias no Entonces por eso
+4:44
+se llama velocidad inicial o b sub índice cer ya dijimos que el Triángulo es la Delta que es el cambio en y
+4:52
+dijimos que matemáticamente es como bf men v0 no O bueno si se acuerdan también en matemáticas no la Delta de y por
+4:59
+siempe era y2 men y1 no Y así también vamos a ver en física se usa mucho
+5:05
+también la parte termodinámica de las deltas de temperatura que es T2 la
+5:10
+temperatura 2 menos la temperatura un esto es muy útil también en los que van
+5:15
+o los que están estudiando ingeniería civil y eso este los cambios en temperatura son
+5:20
+importantes porque los metales se expanden no y pues los puentes también y todo eso Entonces es importante porque
+5:27
+generan una cosa que se llaman esfuerzos pueden hacer que las cosas se rompan Pero bueno básicamente es importante que
+5:34
+se aprendan que el Triángulo es una Delta significa cambio en Okay muy bien
+5:40
+y bueno Estuvimos viendo lo de las fórmulas a cuentas de estas
+5:47
+grafiquen tiempo no hay que acordarnos que el morado bueno perdón el primero el
+5:53
+azul el objeto uno e a ver alguien que me diga el objeto uno Cómo se le dice
+5:58
+que está constante constante verdad su
+6:04
+desplazamiento es constante lo que quiere decir que está en reposo o
+6:09
+estático esos dos son muy importantes porque reposo por ejemplo los que vayan estudar ingeniería mecánica cuando un
+6:15
+vehículo eso está en reposo es importante para eso y estático también es muy bueno es un concepto que se usa
+6:21
+mucho en ingeniería civil o en arquitectura porque lo que queremos es que las estructuras sean estáticas O sea
+6:28
+que no se estén moviendo n quiere que un puente se esté moviendo nadie quiere que una casa que un edificio lo que buscamos
+6:33
+es que se anulen las Bueno luego vamos a ver eso que se anulen las fuerzas pero el punto es que es lo que se busca vamos
+6:41
+a recordar a ver alguien chavos que el objeto dos Qué tipo de su velocidad Cuál
+6:47
+es del objeto dos es
+6:52
+lineal a ver pero su velocidad es la de
+6:58
+o2 la derivada del Sí sí eso sí pero o sea me refiero
+7:05
+si aumenta disminuye se queda estática es constante del objeto
+7:16
+dos ahí pues su velocidad es
+7:22
+este es constante no porque va subiendo Muy bien excelente perfecto
+7:28
+Alex es constante Sí porque cuando es lineal Así que luego lo vamos a ver en
+7:33
+la parte de de física de universidad pero cuando tú derivas no una función
+7:39
+lineal no que por ejemplo est fuera t pues te da una constante no te da uno
+7:44
+bueno en es caso te da uno te da una constante y esto es porque es una función lineal Esta es una función
+7:51
+lineal Entonces cuando tenemos una función lineal de desplazamiento acuérdense que este es desplazamiento no
+7:58
+ponte el tiempo cuando es una cuando es la derivada del desplazamiento y la
+8:03
+función es lineal Esta es constante porque la derivada haría que la
+8:09
+velocidad bueno la velocidad es constante entonces la velocidad es una cosa
+8:14
+así cuando es de velocidad per aquí como es desplazamiento contratiempo es así y el objeto tres podemos a ver Bueno
+8:21
+también lo vamos a ver en la parte de universidad cuando tú derivas dos veces una función cuadrática la
+8:28
+primera de T cuadrada la primera vez que la
+8:33
+derivas te da 2t que te daría una función lineal Pero si tú la vuelves a
+8:40
+derivar te da Bueno te da dos no por ejemplo te da una
+8:47
+constante Entonces eso es lo Cómo se llama lo importante así no más viéndola
+8:54
+esta Yo sé que tiene una aceleración constante el objeto tres el
+9:01
+que el objeto dos tiene una velocidad constante y el objeto uno lo que tiene es su posición
+9:10
+constante Okay muy bien Pues así es chavos este de ahí
+9:19
+viene acuer que Estuvimos viendo también lo del movimiento uniformemente acelerado que era el objeto tres que
+9:24
+dijimos que era cuando era una parábola no este muy bien y este bueno vimos lo de la aceleración
+9:33
+de la gravedad dimos Ok qué más dimos Okay empezamos a ver un poquito poquito
+9:39
+del movimiento en dos dimensiones que era este bueno sacamos esta fórmula
+9:45
+verdad la de esta fórmula que nos permite saber la
+9:50
+posición en un objeto con aceleración esa también cuando viene de cálculo lo
+9:55
+vamos a ver que esa es este cuando integas dos veces este la la aceleración
+10:03
+pues te sale eso porque si nos acordamos vamos a ver un poquito para irnos adelantando la el desplazamiento no se
+10:12
+puede convertir en velocidad no Y la velocidad se puede convertir en aceleración Okay acuérdense que para ir
+10:20
+de acá a acá es derivar no con respecto al tiempo y para acá para acá derivar
+10:26
+con respecto al tiempo el proceso eso es integrar entonces integrar dt e integrar
+10:35
+dt entonces para ir de aquí acá Bueno hasta acá es integrar dos veces integrar
+10:41
+dos veces por ejemplo vamos a integrar la aceleración rápido tiempo no esto nos va a dar
+10:48
+aceleración por tiempo más una constante que esa constante es velocidad inicial y
+10:55
+luego Si volvemos a integrar todo esto no todo esto vamos a integrarlo y nos
+11:02
+daría algo así nos daría aceleración por tiempo al cuadrado entre
+11:08
+dos más velocidad 0 por tiempo más una
+11:13
+constante que es desplazamiento inicial Entonces esta
+11:18
+fórmula viene de integrar dos veces que es esto y así es como nosotros podemos
+11:24
+saber la posición de un objeto si tiene aceleración porque F que no es tan
+11:30
+sencillo hacerlo así si nada más tienes velocidad constante si nada más tienes velocidad constante Es bien fácil sacar
+11:36
+la posición y tienes nada más así que velocidad constante no sé si se acuerdan pero por ejemplo la velocidad constante
+11:43
+no la velocidad es delta x entre Delta t no Y si esto es constante pues es tan
+11:51
+fácil sacar lo as que la posición no que es como multiplicar B por Delta tiempo
+11:59
+velocidad por tiempo no es tan sencillo como eso o sea por ejemplo si tenemos un objeto que se mueve por ejemplo ustedes
+12:05
+Que corran a 4 m por segundo no y digamos que ustedes corren durante 100
+12:10
+segundos tanto que ha educación física lo que sea y los hacen correr 100 segundos y 4 m por segundos Entonces
+12:17
+ustedes recorran qué distancia alguien que me diga así n más de bien verlo
+12:23
+Cuánto cuánto rec 400 muy bien perfecto 400 Met verdad acuérdense que también
+12:30
+bueno lo de la conversión no el segundo y el segundo se van Entonces nada más queda la unidad de metros y es 4 por 100
+12:36
+400 m muy bien Eso es bien sencillo si la velocidad es constante pero si la
+12:41
+velocidad va variando no ya no se puede aplicar esta fórmula si es si varía esto Solo es si
+12:49
+esto es para velocidad constante si nosotros queremos saber
+12:54
+ahora sí que la posición en este en aceleración no
+13:01
+aceleración Pues hay de dos Bueno hay varias pero las dos que se usan mucho es
+13:06
+la que les puse que es posición inicial más velocidad inicial por tiempo más
+13:13
+mitad de la aceleración por tiempo al cuadrado y esa es una fórmula o digo si
+13:19
+quieren la pueden integrar como ustedes prefieran sacarla pero si no aquí está la fórmula
+13:25
+este muy bien entonces Esto va básicamente Esta es como puedes tú sacar
+13:31
+la posición Realmente si pone así vamos poner xdt por qué xdt Porque aquí pueden
+13:39
+saber la posición en cualquier momento por ejemplo bien Vamos a ver qué tan rápido cae un objeto por ejemplo vamos a
+13:45
+decir que tenemos un risco un edificio no vamos a poner que estamos aquí arriba de un edificio
+13:53
+y nosotros dejamos caer una pelota no Y esta pelota este
+13:59
+Queremos saber cuánto avanzó después de 2 segundos no su posición en Queremos
+14:07
+saber así se pone la posición en los dos segundos verdad Esto es lo que queremos
+14:14
+saber okay podemos usar esa fórmula vamos a usarla la fórmula nos dice que
+14:21
+es vamos a sustituir el dos en el tiempo verdad la posición inicial vamos a decir
+14:27
+que a esta la asumimos nosotros vamos a decir que es este cero no O bueno este
+14:33
+cer0 no muy bien metros Okay entonces la
+14:38
+posición inicial es cer0 no más la velocidad inicial si nosotros dejamos caer un objeto de nuestras manos si lo
+14:46
+tenemos aquí por ejemplo esta memoria no bueno no sé si lo alcanzan a ver Okay si tengo esta memoria y la dejo caer Cuál
+14:54
+es su Cuál es su velocidad inicial chavos si tú dejas caer un objeto así de de tu
+15:00
+mano pu se imaginan que es la velocidad inicial cero Muy bien excelente es cero
+15:07
+verdad porque cuando tú dejas caer un objeto nada más dejarlo caer sin aventarlo su velocidad inicial es cero
+15:13
+entonces Bueno vamos a poner velocidad inicial por tiempo pero esto sabemos que se va a ser cero verdad se va a ser cero
+15:18
+porque la velocidad inicial es cero y acuérdense cualquier número multiplicado por cer nos da cer0 más mitad de la
+15:26
+aceleración por tiempo al cuadrado acuérdense que la aceleración es G lo que está haciendo que se caiga la
+15:32
+aceleración es G vamos un poco más chic para
+15:42
+todo muy bien Entonces miren aquí dijimos la posición en el
+15:49
+tiempo dos la mitad de la G acuérdense que G es negativo entonces va a ser -
+15:55
+9.81 m sobre segundo cuadrado el tiempo que dijimos que va a ser dos
+16:02
+verdad 2 segundos 2 segundos cuadrado verdad Muy bien
+16:09
+Entonces miren vamos a hacerlo x de 2 nos va a dar que esto es la mitad Cuánto
+16:15
+es 1 Med por 2 Bueno es es el dos no 1 Med por 2 muy bien 9.81 estos son los
+16:24
+números y unidades con unidades Met sobre segundo cuadrado multiplica este al cuadrado también afecta el segundo
+16:31
+Bueno pero aquí faltó Perdón este no es dos estea cu porque faltó el cuadrado
+16:37
+Okay esto es 4 verdad porque bueno era 2 al cuadrado verdad 1/2 por 4 nos va a
+16:44
+dar 2 y 2 por 9.81 nos va a dar cuánto
+16:52
+chavos ti su calculadora d voy sacando yo la mía vanan haciendo ustedes para
+16:57
+que cuánto nos da
+17:11
+chavos menos qué 19 punto
+17:16
+qué 62 y Bueno aquí este segundo al cuadrado
+17:22
+y este segundo al cuadrado se van a eliminar verdad y nos va a quedar metros
+17:27
+verdad sí chavos tengo una pregunta de Por qué
+17:34
+se multiplica el principio cer más y lo velocidad cer
+17:41
+Ah OK Porque la posición inicial aquí nosotros la definimos que era 0 Met No
+17:48
+aquí nosotros dijimos que como es nuestro punto de referencia nosotros decimos que es 0 Met entonces x0 vale 0
+17:56
+Met verdad la velocidad inicial como dijimos que este objeto lo lo dejamos
+18:04
+caer cuando tú dejas caer un objeto o sea sin aventarlo sin empujarlo nada más
+18:10
+tenerlo así por ejemplo en la mano y soltar una piedra o soltar un balón tú
+18:16
+tú la velocidad del objeto está en reposo verdad está en tu mano o sea no
+18:21
+se está moviendo Y si tú no le avient Si tú no la avientas nada más la dejas caer
+18:27
+en el momento que tú la dejas caer su velocidad es cero empieza a acelerar por
+18:32
+la gravedad pero en el momento que tú abres la mano y dejas caer una piedra en ese momento su velocidad sigue es cero
+18:39
+verdad entonces por eso esta parte de velocidad inicial es cero metros por
+18:45
+segundo Entonces cuando tú multiplicas Rafa cualquier cosa por cero velocidad
+18:51
+inicial por tiempo verdad esto es como 0 por 2 Bueno eran 2 segundos porque queramos a ver los 2 segundos Pero esto
+18:57
+sigue siendo cer verdad * 2 cuánto nos da cero muy
+19:04
+bien muy bien esto nos da cer0 verdad Entonces por esto estos dos términos se
+19:10
+hacen cero verdad y el único que nos queda es este el de la mitad por la
+19:15
+aceleración de la gravedad por tiempo al cuadrado Por qué 2 segundos porque nosotros dijimos a nosotros queremos
+19:21
+calcular qué tanto avanzó una piedra un balón lo que sea a los 2
+19:27
+segundos porque acuérdense que todos los objetos caen a la bueno con la misma
+19:33
+aceleración eso es debido a bueno y quieren saber la explicaciónes no se acuerdan en Secundaria A lo mejor les
+19:40
+enseñaron esta fórmula es la de G M1 por
+19:45
+m2 n t no sé si por ejemplo en Secundaria les
+19:52
+enseñaron esta Este que era masa 1 por masa 2 Entre distancia al cuadrado que
+19:58
+esta tiene que ver con la tierra no muy bien Entonces ahora sí que
+20:05
+este la pero esta Bueno luego vamos a ver la explicación que viene de la
+20:10
+Segunda ley de Newton que es masa por aceleración la explicación de Por qué la
+20:16
+gaved es la misma para todos es porque se igualan estos Esta es la fuerza que te ejerce la gaved no Y esta también
+20:23
+entonces se van a igualar entonces pone masa por aceleración no
+20:28
+este esta masa sería la masa dos porque bueno es la masa tuya que te estás
+20:35
+haciendo acelerar la masa uno por lo general es la de la tierra Esta es la masa de la tierra
+20:40
+no no Okay G M1 m2 no D al cuadrado
+20:48
+verdad Okay entonces si nos damos cuenta la masa dos que era la de nosotros la
+20:53
+del objeto se va a eliminar con esta porque esta está multiplicando pasa dividiendo Entonces no importa la masa
+21:00
+del objeto la aceleración de la gravedad solo depende Pues de la tierra no Y la
+21:06
+distancia dos cuadrado entonces Bueno ahí está la
+21:13
+explicación si querían saber de Por qué todos los objetos caen a la misma aceleración es por esto es porque la
+21:21
+tierra sí te atae más fuerte y pesas más pero también requiere más fuerza para
+21:26
+moverte no es como decí es como un camión no digos así requieres para mover un camión necesitas más fuerza verdad
+21:33
+porque está más pesado verdad Pero obviamente el motor de un camión es más fuerte entonces aquí es lo mismo No la
+21:39
+aceleración la g por eso la g la g la pueden calcular así
+21:44
+literalmente O sea la G de la gravedad la aceleración de la gravedad la g
+21:50
+minúscula porque la g mayúscula es la constante de gravitación universal que
+21:56
+es una cosa muy pequeña cre que se punto qué A ver déjen por 10 a la men1 me acuerdo que era pero
+22:03
+constante de la gravedad universal la gravitación universal es
+22:10
+6.67 por 10 a la-1 la g mayúscula que es muy diferente eh
+22:16
+6.67 * 10 a la-1 que es muy pequeña sin embargo la
+22:23
+masa de la tierra muy grande no la masa de la tierra cu er por 10 a la 24
+22:28
+masa de la
+22:35
+tierra 5.97 por 10 a la
+22:43
+24 y la distancia di radio creo que radio de la
+22:52
+tierra es 6371 km bueno para nosotros distancia sería
+22:59
+6000 qué 371 Pero bueno tenemos que por 10 a la 3 verdad porque esto AC que
+23:06
+tiene que ser en metros Okay muy bien y bueno si ustedes hicieran má que la esta
+23:11
+en teoría nos debería de salir 9.81 no Así es como se calcula la aceleración de la
+23:17
+gravedad Okay muy bien esa es la puesa es una constante porque sea obviamente sí afecta si estamos más cerca o más
+23:24
+lejos pero es mínimo Pues porque la mayoría de las cosas la mayoría hasta el
+23:29
+monte everes que es el más alto está a 7 km sobre el nivel del mar el cual 7 en
+23:34
+comparación de 6000 pues es muy poco verdad Este Entonces ahora sí que es
+23:40
+menos del 1% es como casi el punto 1% es la milésima parte entonces por eso es
+23:47
+que no afecta y por eso es que todas la todos los objetos caen con la misma aceleración porque bueno todos se asumen
+23:53
+que estamos sobre la superficie de la Tierra no no en el núcleo no nada de de eso okay muy bien entonces pues bueno
+24:01
+así es como nosotros podemos saber qué tan rápido bienen si se dan cuenta no más en 2 segundos un objeto avanzó 20 m
+24:09
+lo cual es bastante No buen 19.62 pero avanzó 19.62 no más en 2 segundos verdad
+24:16
+lo cual es bastante okay Y pues así así es como
+24:22
+nosotros podemos determinar los la que la posición de un objeto que está
+24:30
+también bueno acuérdense que ayer vimos un poco de comoo un
+24:36
+este de como un este un objeto que se dispara por
+24:42
+ejemplo una bala o un cañón lo que sea este un de americano Por ejemplo si les
+24:48
+gusta este hasta un balón de fútbol lo que sea este trae lo que es una
+24:55
+velocidad Por lo general te la dan así te van a decir la velocidad es por ejemplo 20 bueno de una bala Sería mucho
+25:03
+más alta sería por ejemplo 50 Met por segundo no con un ángulo de
+25:10
+este por segundo con un ángulo de 30 gr por ejemplo no Okay si es 50 Met por
+25:18
+segundo con un ángulo de 30 gr verdad Okay entonces acuérdense a ver
+25:25
+chavos cuando nos dan uno Qué es lo primero que tenemos que hacer para empezar a analizarlo un
+25:37
+vector alguien se acuerdan Qué es lo primero que tenemos que hacer cuando lo
+25:44
+teníamos en polar hacerlo rectangular Muy bien excelente hacerlo rectangular O
+25:50
+sea sacar sus componentes muy bien perfecto bien Vamos a verlo voy a
+25:56
+copiarlo
+26:03
+muy bien chavos Así que como dijeron No es sacar vx y vy vx cómo lo sacamos
+26:20
+chavos acuérdense Cómo sacamos el componente x de un
+26:26
+vector
+26:33
+acuérdense las propiedades trigonométricas a ver acuérdense que era el coseno que era el
+26:40
+seno el coseno es para el x y el seno es para y muy bien es coseno del ángulo y
+26:48
+seno del ángulo y aquí Qué falta porque esto está esto dos están multiplicando algo a están
+26:56
+multiplicando Cuál es la segunda
+27:02
+parte la magnitud del vector muy bien la magnitud del vector verdad acuérdense
+27:08
+que se ponía Así es la magnitud del vector verdad la
+27:14
+magnitud de la velocidad entonces a ver chavos vamos a ustedes lo están viendo ustedes díganme es coseno de qué para
+27:20
+este caso Cuál es coseno de qué Cuál es el ángulo coseno de 30 muy bien coseno de
+27:28
+30 gr perfecto multiplicado por la magnitud Cuál es la magnitud
+27:34
+chavos 50 m sobre segundo perfecto 50 m sobre segundo Muy bien excelente y Bueno
+27:42
+pues obviamente aquí sería seno de 30 gr verdad por la magnitud que sigue siendo
+27:49
+50 m sobre segundo verdad Okay cuánto nos da eso a ver quién lo
+27:57
+hago yo en la calculadora un
+28:04
+segundo voy okay
+28:16
+Chaves Okay bien dijimos que era coseno del
+28:22
+ángulo este coseno del ángulo este
+28:27
+coseno de 30 no por 50 verdad esto era para sacar el vx
+28:34
+verdad y bueno lo queremos a ver en decimales Okay
+28:41
+43.3 m por segundo Eso es en el componente x o sea quiere decir que la
+28:47
+bala Está avanzando 43 m cada segundo en
+28:52
+dirección horizontal Ese es el X acuérdense en horizontal la bal Está
+28:58
+avanzando 43.3 m cada segundo muy bien y
+29:04
+este Okay también en en el bueno en el y o sea hacia
+29:11
+arriba Está avanzando vamos a hacerlo seno de 30 por 50 verdad que nos da 25
+29:21
+verdad 25 m por o sea Está avanzando
+29:27
+cada segundo hacia arriba sin embargo acuérdense que cuando hablamos de este
+29:35
+del y la diferencia bu ahorita vamos a ver cuando estamos hablando de
+29:47
+Y es que a ver vamos a ver aquí quiero que razonemos un poco la vx y la v la v
+29:57
+y v x no velocidad en x horizontalmente esta velocidad de qué tipo es aumenta
+30:06
+disminuye es constante es cero Cuál es la velocidad en x o sea de qué tipo
+30:17
+es constante es constante
+30:22
+verdad es constante porque no hay ninguna Bueno vamos a verlo en una ley en Newton No hay ninguna fuerza que lo
+30:29
+esté deteniendo bueno porque se ASUME que no hay resistencia del aire obviamente Bueno ya en el mundo real si
+30:36
+le metemos la resistencia del aire Pues sí s hay este si hay algo que le está frenando pero como se ASUME que no hay
+30:44
+resistencia del aire la velocidad en x es constante y a
+30:49
+ver la velocidad en Y qué le pasa Esta sí es esta sí
+30:57
+cambia y cambia por qué chavos porque siempre tenemos presente la aceleración
+31:03
+de la gravedad verdad siempre tenemos G que es - 9.81 m sobre segundo cuadrado
+31:12
+verdad G siempre está rastreando o sea imagínense que es como
+31:17
+si alguien con una cuerda estuviera jalando a nuestra bala de cañón No y esa es la que hace que se caiga porque si no
+31:24
+pues la lógica nos diría que seguiría avanzando infinitamente al espacio no pero eso no pasa las balas ahora sí que
+31:31
+hacen pu eso se llama tiro parabólico acuérdense chavos por qué Porque así que tú disparas una bala
+31:41
+no y este hace la parábola verdad hace la forma de
+31:48
+parábola porque aquí iniciamos con una cierta velocidad en Y no y una velocidad
+31:56
+en x la velocidad en x siempre va a ser la misma esta flechita en x siempre va a
+32:02
+ser del mismo tamaño verdad no importa en qué posición lo tengan porque no hay
+32:08
+nada que ni le esté aumentando ni disminuyendo su velocidad O sea no tiene aceleración acuerdense que el cambio de
+32:14
+velocidad es aceleración y en x no tenemos nada ninguna aceleración sin
+32:21
+embargo en Y tenemos la g verdad
+32:30
+entonces este va siendo que nuestro
+32:36
+vector que nuestro vector de la velocidad en y se vaya haciendo más
+32:41
+chico más chico hasta que llegue en este punto en su punto más alto cuando estamos en la altura máxima se le pone H
+32:49
+Max he Max altura máxima no cuando estamos en su altura máxima es como
+32:54
+básico ustedes lo pueden comprobar y ver que no estoy mintiendo este agarren una moneda y avienten hacia
+33:00
+arriba si ustedes agarran una moneda y la avientan hacia arriba por ejemplo tener que bueno no s
+33:08
+con el fondo no sé si lo alcanzan a ver pero bueno el punto es que avientas tú un objeto esta memoria por ejemplo la
+33:13
+aviento aquí llega hasta su altura máxima y luego empieza a caer de regreso
+33:19
+verdad esto es porque la aceleración de la gravedad le quitó toda la velocidad
+33:24
+llega un momento en el que es cero pero la aceleración de la gravedad es como si fuera un lazo entonces la sigue arrastando hacia abajo entonces hay un
+33:32
+momento en el que le empieza a generar una velocidad no empieza a caer Eso es
+33:37
+porque les digo la aceleración de la gava siempre está presente entonces es por eso que el movimiento tiene forma de
+33:44
+parábola ahora la aceleración en y empieza a aumentar pero hacia abajo muy bien entonces Bueno un de los
+33:52
+conceptos importantes está la H Max que es la altura máxima
+34:04
+verdad la altura máxima es la H Max También tenemos otro que se llama
+34:12
+alcance el alcance es la distancia máxima en x ahita vamos a ver qué
+34:25
+significa bueno llegando a la misma llegando a la altura
+34:31
+inicial la y0 a la y inicial Qué quiere
+34:36
+decir miren chavos cuando decimos vamos a poner todas estos en si nosotros
+34:42
+disparamos este cañón por ejemplo su posición inicial en y es aquí y verdad
+34:48
+muy bien esta va a tener forma de parábola
+34:55
+trayectoria tener forma de parábola en este punto que es la y0 de nuevo o sea
+35:04
+volvemos a caer cuando está cayendo de vuelta estas dos y son iguales porque si
+35:10
+se acuerdan una parábola es simétrica si nos acordamos en matemáticas un poquito
+35:16
+las parábolas tienen una cosa que se llama vértice verdad el vértice es este
+35:21
+punto que esta como es una parábola negativa o sea va hacia abajo no es
+35:27
+altura máxima aquí en su altura máxima Alguien sabe recuerda Cuál es la
+35:33
+velocidad en la altura máxima Cuál es la velocidad en h+ muy bien cero verdad este es 0 Met
+35:41
+por segundo porque es como les digo es como aventar una moneda cuando llega a su altura máxima justamente
+35:46
+inmediatamente después de eso empieza a caer entonces la velocidad en este punto es
+35:54
+cero Eso es muy útil porque nos va a servir para varias fórmulas pero aquí Bueno chavos lo que les quera decir esto
+36:00
+aquí en su altura máxima es su eje de simetría de la parábola O sea que esta
+36:06
+es la mitad del recorrido verdad esto es la mitad del alcance el alcance completo
+36:13
+pues obviamente es multiplicar por dos verdad este x no uno el x2 que sería el
+36:19
+completo Este es el alcance okay O sea quiere decir aquí
+36:25
+llegar hasta la mitad es la mitad del tiempo también entonces el tiempo
+36:30
+completo verdad de esto si cae a la misma posición es
+36:35
+est verdad Okay entonces así es como se maneja acuérdense que la este el alcance
+36:45
+es la máxima distancia en x llegando sobre la misma altura no también algo
+36:50
+importante que hay que recordar Es que la velocidad final o sea llegando a la
+36:55
+misma altura o sea de yer no llegando o sea cuando vuelve a caer es la misma con
+37:03
+la que
+37:10
+salió Es por eso que las Balas Perdidas son tan peligrosas cuando tú disparas una bala al aire cae con la misma
+37:17
+velocidad con la que la disparaste por eso es que matan gente no porque exactamente este caen con la misma
+37:23
+velocidad porque la gravedad o sea va haciendo que se disminuya en y pero
+37:29
+vuelve a hacer que se o sea cuando vuelve a caer pues le vuelve a dar la velocidad que traía No eso en y y la dx
+37:35
+Pues siempre fue constante acuérdense que la velocidad este siempre fue constante verdad Muy bien Es por eso que
+37:41
+las Balas Perdidas son tan peligrosas miren vamos a hacer un ejemplo yo por ejemplo una personita no
+37:49
+aviento un balón no aviento una pelota y la velocidad es a ver Vamos a ponerle
+37:57
+que la velocidad Es de 8 m por segundo
+38:02
+con un ángulo de 45 gr de 45 gr con una
+38:11
+velocidad de 8 m por segundo y me piden miren por ejemplo van a pedir la altura
+38:21
+máxima Sí digo por eso es tan peligroso Obviamente que te en un objeto desde
+38:27
+alto por ejemplo no sé si han visto en los partidos y eso o en los conciertos en los estadios por eso están algo lejos
+38:34
+de las gadas sobre todo los de muy arriba los de muy arriba están lejos porque si llegan a aventar algo a la
+38:41
+velocidad que cae Pues sí es como para Bueno pues al menos así que descontar un
+38:46
+jugador entonces es por eso que tienen una cierta distancia porque exactamente
+38:52
+este si tú dejas caer aunque sea una miren por ejemplo al interes muy interesante es la lluvia la lluvia solo
+39:01
+Porque existe la resistencia del aire Es que no nos mata pero la verdad es que una gota de agua cayendo desde los 2 km
+39:08
+que están las nubes o lo que sea si miren vamos a hacerlo rápido
+39:14
+sea dijimos que velocidad final es igual a velocidad inicial más aceleración por
+39:19
+tiempo verdad Okay la velocidad inicial es cer0 no Okay 0 m por segundo porque
+39:25
+sale de la de la nube pero miren vamos a ver la aceleración es - 9.81 m sobre
+39:33
+segundo cuadrado verdad por el tiempo Este Bueno calcular el
+39:38
+tiempo no lo sabemos como tal Pero podemos usar otra de las fórmulas por ejemplo una de las fórmulas que
+39:45
+podríamos usar es Déjenme pensar cuál sería más la más fácil
+39:52
+usar okay Okay está por ejemplo Esta es la la
+39:59
+buena XT Okay bien acuérdense que la fórmula completa
+40:07
+y la voy a poner para ponerla pero x0 no
+40:13
+este más este mitad Bueno más velocidad inicial
+40:19
+por tiempo verdad más mitad de la aceleración por tiempo al cuadrado
+40:27
+este se hace cero este se hace cero acuérdense como dijimos y vamos a tener que estos son 2 km dijimos 2000 m verdad
+40:35
+y bueno mitad de la aceleración que dijimos - 9.81 y en la t cuadrado para sacar el
+40:43
+tiempo bueno teníamos que pasarlo al otro lado verdad tiempo al cuadrado no eso sería 2000 el 1 medio está
+40:51
+dividiendo pasa multiplicando pasa por dos dividimos ent 9.81
+40:57
+9.81 muy bien y nos daría Bueno lo aquí en la calculadora
+41:03
+2000 por 2
+41:12
+9.81 cálculo okay Y es la raíz cuadrada de eso Entonces es esto raíz
+41:22
+cuadrada nos quedaría que el tiempo es de 20 segundos
+41:28
+20.19 28 pero si nosotros lo ponemos chavos vamos a ponerlo aquí dijimos que
+41:34
+esto era 20.128 Met por segundo si lo ponemos así
+41:42
+per no por segundo eran segundos nada más segundos porque es tiempo si
+41:47
+multiplicamos 20 ya lo voy a poner en la calculadora ya está aquí pero es un
+41:55
+cco a ver
+42:02
+voy ya creo que están viendo Okay miren es multiplicar el tiempo que es este por
+42:09
+el por el - 9.81 y esta sería la velocidad final la
+42:18
+velocidad final es altísima no es 198.09 una bala más o menos va como a
+42:24
+300 m esto las gotas de lluvia Si no existiera la resistencia del aire la
+42:30
+verdad es que caerían como balazos Y probablemente her irían personas no sé si matarían Pero al menos ser irían
+42:37
+personas no cada gota de lluvia caería esa velocidad sin embargo por la
+42:42
+resistencia del aire que caen a 7 m por segundo se creo que se o si no me acuerdo O sea la verdad es que la
+42:49
+resistencia del aire Es la que nos fena las gotas de agua que parezcan balazos porque Bueno si esto lo V si lo vemos a
+42:56
+kilómet por hora no esto sería como multiplicar por
+43:01
+3.6 esto sería kilómetros por horaa serían 7 la velocidad de un avión
+43:10
+para que tengan
+43:16
+contexto O sea la velocidad de un avión como estarán viendo
+43:23
+no es de 8 950 km porh y ese era 700 o
+43:30
+sea imagínense las gotas de lluvia sin la sin la resistencia del aire irían tan rápido como un avión Pero bueno gra a la
+43:38
+resistencia del aire Es que estas no nos ahora Así que la verdad es que sí O sea la probabilidad de que exista vida en la
+43:45
+tierra y eso La verdad es que era muy baja Entonces este bueno porque se
+43:50
+necesitaban demasiadas condiciones para que pasaran y Pues bueno aquí estamos no pero este
+43:57
+Sí o sea entre una de esas es esa la resistencia del aire no porque les digo
+44:02
+esa la que fena las gotas de lluvia que caigan O sea que vayan a la velocidad de un
+44:07
+avión ni el mejor deportivo va a esa velocidad entonces bueno esa nada más
+44:13
+para que supieran vamos a seguir con el ejemplo de La bala Bueno del balón
+44:22
+este muy bien nosotros aventamos a esta velocidad cuál sería el paso número uno
+44:27
+chavos el paso número uno es convertirlo a forma rectangular no convertir la
+44:34
+velocidad rectangular o sea sus componentes
+44:39
+no FL sus componentes
+44:45
+no Por qué Porque este es un movimiento acuérdense en dos dimensiones significa
+44:51
+dos dimensiones ts dos dimensiones son en
+44:57
+x y en y verdad Entonces este movimiento lo vamos a analizar por separado vamos a
+45:04
+analizar x y vamos a analizar y pero para poder hacer eso tenemos que saber primero sus componentes Okay chavos
+45:11
+vamos rápido vx vy cuánto sería vx
+45:17
+cuánto sería coseno de qué coseno de 45 por 8 muy bien por 8 sobre segundo y
+45:27
+vy sería seno de 45 gr verdad por 8 Met
+45:34
+sobre segundo lo cual nos da Déjenme lo hag en la calculadora rápido 45 vyan metiendo ustedes en su
+45:41
+calculadora sea si pueden Sí en física tengan de que su calculador a la mano para que lo vayan
+45:47
+probando alguien que me quiera decir cuánto era Cuánto es coseno de 45
+45:53
+* 8 la primera da 5.65 muy bien y la segunda igual verdad
+46:01
+porque bueno y se acuerdan 45 es la mitad Entonces nos va a dar lo mismo
+46:06
+Okay metros sobre segundo metros sobre segundo muy bien entonces ese es vx y vy
+46:15
+ya primera parte ahora vamos a analizar la parte de las x Okay las partes de las
+46:20
+y bueno pu Aquí vamos a ver qué nos están pidiendo van vamos a decir que nos están pidiendo la altura máxima el
+46:28
+alcance no y que nos pidan Ay no
+46:35
+sé qué más me pueden pedir Ah bien el tiempo de
+46:40
+vuelo también o sea cuánto tiempo este objeto estuvo en el aire verdad hasta
+46:47
+que cayó a su misma posición o sea cuánto tiempo estuvo en el aire hasta que cayó aquí no Okay muy bien entonces
+46:56
+bien en y vamos a analizar en y primero vamos a analizar en y porque y es el que
+47:04
+nos va a determinar cuánto tiempo de vuelo tiene y van nos va a determinar
+47:09
+todo lo demás esto más chico Un
+47:18
+poco bien bien Entonces esto nos va a decir eso verdad el y dijimos que la
+47:26
+velocidad en y inicial es 5.65 Met sobre segundos Verdad Hay que
+47:33
+sacar la altura máxima chavos la altura máxima hay una ventaja que tenemos muy
+47:39
+grande Nosotros sabemos Cuál es la velocidad en la altura máxima ya de
+47:44
+ahorita acuérdense Cuál es la velocidad en la altura máxima cero cer muy bien 0 Met por
+47:52
+segundo verdad entonces podemos aplicar fórmulas que tengan la velocidad final por ejemplo la velocidad final en y es
+48:01
+igual a la velocidad inicial en y no más la aceleración por tiempo
+48:08
+verdad qué tenemos tenemos la velocidad final en Y sí la velocidad inicial en yc que es esta la determinamos la g la
+48:16
+tenemos entonces podemos sacar muy fácil el tiempo verdad ya con ese tiempo podemos
+48:22
+determinar la altura verdad y ya con la altura podemos bueno con este tiempo por
+48:28
+dos podíamos determinar el alcance por dos determinamos el tiempo de vuelo y
+48:34
+podemos determinar la altura Entonces vamos a hacerlo vamos a a sacar el tiempo en lo que el tiempo que nos toma
+48:40
+en llegar hasta arriba llegar hasta la altura máxima vamos a sustituir la velocidad final en
+48:46
+ya dijimos que era 0 m por segundo verdad lo ponemos 0 Met por segundo la velocidad
+48:53
+inicial en y cuál dijimos que era chav aquí la calculamos Cuánto
+49:01
+es cuánto es chavos 5.65 muy bien perfecto
+49:08
+5.65 verdad Okay
+49:13
+5.65 m por segundo verdad Okay más la
+49:19
+aceleración de la gravedad verdad que esta es negativa Bueno hay que acordarnos que esta es negativa verdad -
+49:26
+9.81 verdad metros sobre segundo al cuadrado por tiempo hay que despejar
+49:32
+tiempo entonces bueno chavos acuérdense Cómo es despejar este está sumando pasa
+49:39
+restando verdad vamos a ponerlo acá tiempo Este es -
+49:44
+5.65 metr sobre segundo verdad este de G esta G está
+49:52
+multiplicando al tiempo verdad Cómo pasa si este está multiplicando Cómo
+49:59
+pasa dividiendo perfecto pasa dividiendo entonces esto es entre - 9.81 m sobre
+50:06
+segundo al cuadrado verdad Entonces el tiempo va a ser Esta
+50:12
+división déjen lo voy poniendo aquí
+50:20
+5.65 muy bien entre 9.81 y no
+50:28
+5758 Okay entonces el tiempo el tiempo que nos tomó en llegar a la altura
+50:34
+máxima es 0.58 segundos
+50:41
+verdad Bien aquí está superpadre porque aquí ya casi ya aquí ya casi tenemos el
+50:46
+tiempo de vuelo el tiempo de vuelo Alguien sabe cómo lo podíamos sacar con
+50:54
+esta tenemos el tiempo que nos tomó llegar hasta acá hasta la altura máxima O sea la
+51:02
+mitad de la parábola ahora Necesitamos saber el tiempo completo de la parábola
+51:08
+si esto es la mitad multiplicar por dos Perfecto es multiplicar por dos cuando
+51:13
+nosotros multiplicamos por dos nos da la altura bueno el tiempo de vuelo verdad Entonces multiplicar por 2
+51:21
+sería 1.15 Entonces el tiempo de vuelo voy ha más
+51:32
+ch muy bien aquí ya tenemos la primera cosa que nos están pidiendo el tiempo de
+51:37
+vuelo es multiplicar por dos el tiempo de vuelo lo voy a poner tiempo de
+51:45
+vuelo el tiempo que permanece en el aire sería 1.55 verdad
+51:53
+segundos aquí ya podemos sacar el alcance de manera muy fácil acuérdense que esta velocidad es constante entonces
+52:00
+podemos usar las fórmulas de la velocidad constante que la la formaa de la velocidad constante es la sencilla no
+52:06
+que era desplazamiento no entre tiempo entonces para obtener el desplazamiento
+52:12
+el X No es igual acuérdense ese tiempo está dividiendo Cómo pasa del otro lado
+52:19
+chavos cómo pasa si el tiempo está dividiendo
+52:25
+multiplicando verdad como dijeron muy bien velocidad por tiempo Okay la velocidad en x Ya lo
+52:33
+habíamos obtenido verdad Cuál es la velocidad en
+52:41
+x 565 muy bien 5.65 Met sobre segundo verdad y por el tiempo que Lo acabamos
+52:48
+de sacar esa es una de nuestras
+52:54
+respuestas Okay
+52:59
+el es por 1.15 verdad segundos nada más
+53:05
+es multiplicar el 1.15 por la velocidad que era t 5.5 okay Y nos da Bueno si ustedes hacen
+53:14
+cuánto nos daría chavos si ustedes lo meten a su
+53:20
+calculadora nos da 6.52 met
+53:30
+verdad Y esto es
+53:36
+el alcance muy bien y ya la última nos
+53:43
+pidieron la altura máxima Okay la altura máxima la Podríamos sacar con cualquiera
+53:49
+de estas dos fórmulas bueno cont Pero bueno
+53:56
+este la aceleración también no sé si se acuerdan de esta
+54:02
+fórmula Cuál es
+54:07
+chavos Bueno a d voy poniendo aceleración con velocidad
+54:19
+promedia que no se las puse tal
+54:26
+bueno acuérdense que la aceleración era Delta V no entre Delta t no Okay
+54:33
+entonces
+54:54
+también
+55:15
+Bueno este no está aquí Internet pero bueno también una forma de calcular el desplazamiento no es si tú tienes la
+55:23
+velocidad promedio por el tiempo esto Solo funciona bueno esta Así que solo
+55:29
+funciona en física de prepa porque la este es bueno funciona cuando la aceleración es constante verdad cuando
+55:37
+la aceleración constante todas estas fórmulas funcionan cuando la velocidad es constante la velocidad promedio Cómo
+55:43
+la sacamos chavos cómo sacamos el promedio de una cosa velocidad inicial
+55:49
+velocidad final entre dos Muy bien excelente y bueno por ejemplo Aquí está
+55:55
+muy fácil esta es la más fácil Por qué Porque Bueno ya sabemos cuál es Cuál es nuestra velocidad inicial en y dijimos
+56:02
+que era 5 punto qué era 5.65 verdad Cuál es la velocidad final cuando o sea
+56:09
+cuando está en el punto más alto en la altura máxima
+56:15
+es cero verdad acuérdense que esto es cer0 porque la velocidad en el punto más
+56:23
+alto que ahorita lo que queremos acá la altura máxima no buenoo Entonces 5.65
+56:28
+en2 por el tiempo el tiempo ya lo habíamos determinado que era cuánto un
+56:34
+no era pun 58 era pun 58 porque es el de la altura máxima Entonces tenemos que
+56:40
+5.65 Met sobre segundo entre 2 por qu
+56:46
+era 0.57 a 0.58 Perdón
+56:52
+segundos y nosotros hac hacemos esto podemos calcular la altura
+56:59
+máxima y no saldría si ustedes lo hacen en su calculadora que
+57:04
+5.65 ahorita se los muestro en la pantalla en entre do
+57:12
+verdad por
+57:17
+0.58 nos da Cuál es la altura máxima alguien la
+57:22
+Pudo sacar
+57:28
+1.63 Sí 1 pun Qué
+57:35
+1.63 buen s Bueno bienales 1.64 a m me
+57:41
+dio es lo mismo los decimales mos verdad no hay que olvidarnos de las unidades
+57:47
+muy bien y ya obtuvimos los tres valores verdad que nos pedían la altura máxima
+57:52
+el tiempo de vuelo y alcance Así es como nosotros podemos
+57:58
+determinar ahora sí que lo que es este el movimiento de dos dimensiones verdad
+58:04
+Y pues ya chavos creo que ya no nos dio tiempo quería ver bueno miren vamos a empezar ya lo último último las leyes de
+58:12
+Newton las leyes de Newton son tres la primera que es la ley de la inercia nada
+58:18
+más O sea mañana la volvemos a ver pero para que lo tengan un poco en mente la ley de la inercia la primera dice que un
+58:25
+objeto no este se mantiene en
+58:31
+reposo o a la misma velocidad o a velocidad
+58:43
+constante A menos que
+58:48
+exista una fuerza resultante externa Lu vamos a ver qué
+58:55
+significa cada cosa de esto pero aquí ya empezamos con dinámica qué
+59:02
+es esto que se mantiene en reposo o a velocidad constante A menos O sea un objeto y eso lo hemos visto no un objeto
+59:08
+o sea tú un los lentes el la memoria se mantiene en reposo A menos que tú la
+59:14
+muevas verdad y lo mismo en el espacio o sea esto no lo vemos tanto porque aquí siempre hay fricción pero en el espacio
+59:21
+por eso un objeto si tú lo empujas tantito se va a mantener con esa velocidad constante verdad se va a
+59:28
+mantener con esa velocidad constante porque no hay nada que lo suene que este es la razón de Por qué en el x cuando se
+59:35
+ASUME que no hay resistencia del aire la velocidad en x es constante porque no hay nada deteniéndolo verdad Esa es la
+59:42
+inercia o también Es el cambio no O sea por ejemplo si tú estás Este manejando y cuando frenas no tú te vas para adelante
+59:49
+porque tú Ya traías una velocidad verdad y de repente o sea el la inercia es es O
+59:54
+sea que te vas para te vas para enfrente verdad Porque tú ya te habías una velocidad el carro cambia la velocidad Pero tú no tú necesitas una fuerza que
+1:00:02
+te detenga que esa la fuerza que hace que no choques por ejemplo se las bols bolsas de aire no cuando chocas y se
+1:00:08
+disparan las bolsas de aire estas ejercen una fuerza para detenerte porque necesitan una fuerza para bajarte la
+1:00:14
+velocidad eso es lo que es la inercia que es la primera ley la segunda ya para terminar la segunda ley de es una
+1:00:22
+fórmula que significa fuerza es igual a
+1:00:29
+masa por
+1:00:35
+aceleración muy bien Por eso la fuerza tiene unidades del Newton acuérdense que
+1:00:41
+el Newton es una unidad derivada acuérdense que la masa tiene kilogramos no Y la aceleración es metros sobre
+1:00:48
+segundo al cuadrado Pero bueno se usa Newton no Por lo general en la fuerza se usa Newton y y luego van a ver que es
+1:00:55
+muy útil esta fórmula demasiado este y la tercera ley de Newton es de acción y
+1:01:01
+reacción vamos a verlo una última acá la de acción y
+1:01:07
+reacción quiere decir bien esta la la están haciendo ustedes ahorita mismo
+1:01:12
+porque están sentados o parados lo que sea el suelo les está ejerciendo una fuerza este Al contrario mañana les
+1:01:20
+enseño pero por ejemplo en Los juegos del calamar no sé si han visto esa serie cuando están caminando en en los
+1:01:29
+estos vos que se rompen No eso pasa porque el videoo no tiene la suficiente
+1:01:34
+fuerza como para dar para mantener a la persona cuando tú estás parado Por eso
+1:01:39
+tienes que tener cuidado que sea un piso estable o lo que sea porque la fuerza el el piso necesita ejercer una fuerza
+1:01:46
+contraria a tu peso de la misma magnitud Y si el piso no es lo suficientemente fuerte pasa lo que en este esta serie no
+1:01:53
+se rompe vidrio no se rompe la superficie que realmente les digo eso de acción y reacción ahorita mismo la están
+1:02:00
+ejerciendo ustedes al estar sentados o parados cuando brincan que ustedes hacen una fuerza hacia abajo el suelo les hace
+1:02:06
+una fuerza hacia arriba igual los aviones los cohetes espaciales todos
+1:02:11
+funcionan cuando ustedes están nadando y se empujan de la de la pared para empezar a hacer una flechita por ejemplo
+1:02:17
+todo eso es la tercera ley de Newton luego vamos a verla pero bueno chavos yo creo que ya ahorita ya me pas mucho de
+1:02:24
+tiempo entonces bueno lo vamos a ver mañana y cuídense chavos nos
+1:02:31
+vemos adiós profe
+1:02:37
+gracias

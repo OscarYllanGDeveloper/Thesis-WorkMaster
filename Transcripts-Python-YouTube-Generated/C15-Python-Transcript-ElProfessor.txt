@@ -1,0 +1,1044 @@
+0:02
+Okay chavos matemáticas discretas
+0:22
+chavos matemáticas discretas chavos es un área que sirve mucho para desarrollar
+0:28
+la lógica en programación para bueno varios tipos de problemas que existen en
+0:34
+programación etcétera y este algunos temas que se ven o bueno que vamos a ver
+0:40
+en matemáticas discretas son los siguientes uno es lógica
+0:50
+matemática Okay lógica matemática otra
+0:56
+es combinatoria otra es teoría de los números otra es teoría
+1:04
+de grafos probabilidad y estadística y teoría de conjuntos son algunas de
+1:12
+las Así que áreas de matemáticas discretas también nota que vamos a ver
+1:17
+muy poco es teoría de la computación muy bien
+1:22
+miren vamos a empezar con el primer tema que es lógica
+1:28
+matemática lógica matemática es básicamente lo que hemos visto un poco
+1:35
+como las tabas de verdad si se acuerd no de los operadores
+1:41
+true and false no ver si es true false etcétera También sirve la lógica
+1:48
+matemática vamos a ver un poco de notación matemática esto es muy importante porque muchas veces los
+1:54
+algoritmos los papers etcétera este están pues estos como connotación
+2:00
+matemática y si no las entendemos a veces pensamos que es más difícil de lo que realmente es y no no es tan difícil
+2:07
+no más que les gusta poner su notación Así que vamos a ver también un poco de esto miren aquí Esta es la parte más
+2:14
+pesada Probablemente esta es la parte que también les puede permitir desarrollar de verdad su pensamiento su lógica que
+2:22
+son demostraciones matemáticas que sirven vamos a ver también para casos de
+2:28
+programación con estas demostraciones nosotros desarrollamos el pensamiento desarrollamos Además porque las
+2:36
+demostraciones sirven para generalizar una idea que nosotros tenemos en programación necesitamos eso para
+2:42
+nosotros generalizar si nuestra idea o sea nuestro programa Nuestro algoritmo va a funcionar en todos los casos que
+2:49
+estamos delimitando o cómo delimitar En qué casos va a funcionar nuestro programa y En cuáles No esas son es
+2:57
+parte de demostraciones y bueno lógica de argumentos también o
+3:03
+sea lo padre de esta parte de matemáticas discretas y de programación es que tiene muchas aplicaciones no solo
+3:09
+má que en programación sino en otras cosas lógica de argumentos hasta enc que
+3:15
+en debate o en este leyes y en todo esto en pensamiento crítico es para lógica de
+3:22
+argumentos muy bien existe también de los tantos temas que dijimos
+3:28
+combinatoria combinatoria es el estudio de todas las posibles combinaciones de
+3:34
+uno o más eventos miren combinatoria por ejemplo cuando tú tienes un dado de seis
+3:42
+caras verdad cuántas cuántos posibles resultados
+3:48
+tienes alguien chavos el uno seis posibles resultados muy bien león
+3:54
+excelente como lo has dicho tienes seis posibles resultados verdad porque que
+4:00
+cuando lanzas un dado puede caer solo o sea hacia arriba una sola cara entonces tien seis posibles resultados para qué
+4:07
+es importante esto la combinatoria algunos ejemplos es por ejemplo placas de automóviles para saber cuántas
+4:14
+posibles placas hay por ejemplo código de barras matrículas de alumnos para bases
+4:20
+de datos por ejemplo número de series y miren una parte muy importante de
+4:26
+programación contraseñas lo que es criptografía también Bueno también combinatoria es la
+4:33
+base de es la base de dos áreas que hoy
+4:38
+en día se usan mucho en programación para ciencia de datos que es base de
+4:44
+probabilidad y estadística Por qué miren
+4:52
+chavos la probabilidad se basa en Cuántos eventos posibles tenemos no es
+5:00
+como aquí si tenemos seis posibles resultados entonces cada uno de estos
+5:05
+resultados tiene un sexto no un sexto Sería más o menos Creo que
+5:11
+0.1666 no o 16 de
+5:18
+probabilidad de que pase este evento no y con esto es que la combinatoria es la
+5:24
+base de probabilidad y estadística la cual la probabilidad y estadística usando programación es muchos de los
+5:32
+algoritmos que hoy se usan de Inteligencia artificial entonces digo todo esto es la
+5:40
+base de ver cosas más avanzadas en programación hoy en día yo creo que todos hemos visto este que las
+5:46
+inteligencias artificiales están Así que aquí ya encima de nosotros y Es
+5:51
+importante saber cómo funcionan su lógica su bases para que nosotros
+5:57
+podamos trabajar en ello además de todo es un área muy muy bien pagada muy muy bien pagada este yo creo que ahorita es
+6:05
+la parte de software o de programación que es mejor pagada entonces este es
+6:11
+bastante interesante e importante saber de esto muy bien aquí les decía por
+6:17
+ejemplo un ejemplo de las contraseñas Por ejemplo si tu contraseña
+6:22
+es de un solo carácter No o sea puede usar cualquiera de las 26 letras de la
+6:28
+abcd y 10 dígitos el número total de opciones que
+6:36
+tiene son 36 verdad si fueran dos caracteres serían 36 al cuadrado que
+6:44
+sería el producto de 36 por 36 Por qué miren para hacerlo puse por
+6:51
+ejemplo este caso imagínense que nosotros tenemos vamos a comprar un helado verdad Y tenemos tres sabores de
+7:00
+y cuatro tamaños Cuántos posibles
+7:05
+combinaciones tenemos lo leí pero est también mand
+7:14
+Perdón lo leí pero de todas maner esto porque hay tres Sabores diferentes y
+7:21
+cuatro tamaños diferentes ent posibles de cada sabor 3 4 12 exactamente dij por
+7:29
+4 es igual a 12 exactamente el número de combinaciones bueno de opciones de uno
+7:35
+multiplicado por el número de opciones del otro nos da el número Total no de
+7:41
+estas combinaciones muy bien como dijimos Como dijo León tres Sabores
+7:47
+helados y cuatro tamaños Entonces miren viéndolo Así que muy paso a paso el de
+7:53
+chocolate puede ser mini chico mediano y grande no 1 2 3 4 el de vainilla igual 5
+8:03
+6 7 y 8 no y el de vainilla 9 10 11 y 12 que es nosotros podemos contarlo Claro
+8:12
+pero no es muy práctico ni muy viable cuando Tenemos muchos casos no vamos a estar haciendo el dibujito para ya
+8:18
+cuando son muy altos no lo que podemos hacer es esto se le llama en
+8:24
+combinatoria la regga multiplicativa lo voy a poner aquí
+8:38
+Y ustedes se preguntarán y para qué sirve programación para muchas cosas primero desde probabilidad estadística
+8:44
+pero hasta antes de eso acuérdense nosotros cuando estábamos haciendo las condicionales verdad acuérdense que
+8:50
+estábamos viendo Cuántas o sea de que los nested If las condiciones dentro de las condiciones no los ifs anidados las
+8:59
+condiciones anidadas no nosotros necesitamos saber cuántas opciones tenemos no en cada uno de estos entonces
+9:07
+para esto sirve la combinatoria chavos Para saber cuántas posibles opciones
+9:12
+tienen además Bueno ya en partes más avanzadas de programación en algoritmos
+9:18
+no necesitas por ejemplo para ordenar una lista existen
+9:25
+algoritmos y necesit saber cuántas operaciones va a realizar tu algoritmo para llegar a
+9:32
+la operación que tú quieres Dependiendo el tamaño del input que le puso el usuario que tú le pusiste para saber
+9:40
+esto la única forma de hacerlo es con combinatoria Para saber cuántas
+9:45
+exactamente combinaciones este pasos caminos tienes para poder llegar al
+9:53
+resultado que tú te planteaste y ver si hay alguna forma más efectiva de llegar
+9:59
+a él todo esto es la bases matemáticas así que prácticamente
+10:06
+programación es mucho matemática pues digo tiene la lógica porque Alguien sabe quién es Alan turing quién es qué sí no
+10:16
+Alguien vio la película por ejemplo de
+10:23
+código porque fue la máquina que podía era capaz de de codificar las los
+10:29
+mensajes de los nazis sí del Enigma muy bien exactamente este Alan turing era un
+10:36
+matemático entonces pues ya se imaginarán que toda la programación los todos los precursores de programación
+10:42
+Pues eran matemáticos Entonces sí Por eso toda la programación viene con lógica viene con el proceso de mapear
+10:49
+funciones combinatoria porque sí básicamente todo programación es como
+10:54
+matemáticas aplicadas este bueno la mayoría de de las partes obviamente no es puras
+11:01
+matemáticas hay otros conceptos pero mucha de la parte bueno lógica de algoritmos etcétera viene de las
+11:08
+Matemáticas entonces por eso que es importante ver matemáticas discretas muy bien matemáticas discretas no sé si lo
+11:16
+puse Aquí me faltó ponerlo la definición la definición de matemáticas
+11:24
+discretas Pues un hombre lo dice un poco creo que Déjenme ver creo que aquí ya
+11:31
+también les había hecho un un cuaderno en python un poco porque es lo bueno de
+11:38
+hoy en día este python tiene librerías para todo y tiene tipos de datos para
+11:46
+todos Hay algunos que nos van a ayudar para al menos ver de manera más Cómo
+11:55
+decirlo gráfica más visual todos estos conceptos miren como y se van
+12:04
+aquí compartir aquí okay Si se van aquí al
+12:15
+Drive donde está aquí Bueno aquí es el Drive donde dice semana cinco notas o
+12:21
+sea est es de la siguiente semana pero está bien que lo empecemos a ver un poco para que su cerebro se vaya pues no se
+12:28
+asuste tanto cuando veamos la siguiente semana está aquí en el semana 5 en el
+12:35
+colaboratorio de matemáticas discretas Okay miren las matemáticas discretas Qué
+12:41
+son las matemáticas discretas son un área de las Matemáticas que estudia los conjuntos
+12:46
+discretos discretos quiere decir mira aquí lo dice que son un conjunto de un
+12:53
+número finito o contablemente infinito de elementos vamos a ver qué significa eso no per básicamente es que tú los
+13:00
+puedas contar tú por ejemplo el número de opciones que tienes son puros enteros
+13:08
+básicamente es que sean enteros Qué quiere decir exactamente O sea que tú
+13:13
+puedes contar si tienes cinco opciones 1000 opciones pero lo que no cuenta como
+13:19
+discreto es lo continuo o sea los puntos decimales no los ahora Así que los no
+13:25
+enteros ya no entran como parte matemáticas discretas eso es matemática continua que es la mayoría de las
+13:30
+Matemáticas que nos han enseñado toda la vida sin embargo en programación este cada proceso cada paso es contable
+13:39
+O sea tú puedes contar Cuántos pasos Cuántas veces una computadora hace una
+13:45
+operación verdad sí o no ch
+13:51
+Okay muy bien entonces bien por contrar esta rama de las Matemáticas se ocupan de conceptos como el espacio continuo y
+13:58
+las funciones continuas aquí no es discreto las matemáticas discretas incluyen temas como la teoría de gafos
+14:04
+muy bien la teoría de números muy bien la teoría de conjuntos esa ya la hemos
+14:11
+visto un poco desde secundaria con los diagramas de benen no sé si alguien se acuerda Qué son los diagramas de
+14:19
+Ben s los circulitos que se unen no Exactamente eso es parte de la teoría de
+14:27
+conjuntos porque Estos circulitos son conjuntos y tenemos que ver en dónde interseccion Cómo se quitan y todo eso
+14:34
+es muy útil por ejemplo los que les guste todo lo de análisis de datos Y ciencias de datos no bien Déjenme
+14:41
+adelanto algo cómo lo puedo
+14:47
+poner conjuntos a ver mir las bases de datos sql
+14:54
+joins hay una t más bonita aquí están unos no son todos los joints Pero bueno
+15:00
+bien De esta manera no están todos están algunos pero por
+15:09
+ejemplo esto los que les guste los interese la parte de análisis y ciencias
+15:14
+de datos si ven son como los diagramas de Ben son los joints de las bases de
+15:20
+datos no entonces todo esto de las bases de datos las operaciones como diferencia
+15:27
+Unión viene de los principios de matemáticas discretas no este hoy en día que estamos
+15:35
+exactamente en todo lo de los datos no este cualquier programa cualquier software necesita una base de datos no
+15:42
+cualquier aplicación por ejemplo son muy necesarias para ser muy óptimos y
+15:48
+guardar los datos toda esta lógica toda esta matemática porque imagínense nosotros
+15:56
+diario por ejemplo empesa de aviones no O sea bueno una aerolínea pues este tú
+16:03
+puedes desde tu celular comprar un boleto verdad cualquier persona desde cualquier
+16:10
+parte del mundo puede comprar un boleto y cómo lo podemos í que hacer Gracias a
+16:15
+las bases de datos las bases de datos utilizan matemática exactamente utilizan
+16:21
+teoría de conjuntos utilizan álgebra de conjuntos utilizan cálculo de conjuntos
+16:26
+son temas un poco más elevados pero todos estos nos permiten al final de cuentas poder accesar a la información
+16:33
+de manera muy óptima y de manera muy segura que eso es muy importante porque
+16:39
+nosotros no queremos por ejemplo que haya un error en la base de datos al tú comprar un boleto ni ni los de la
+16:45
+aerolínea quieren ni nosotros por qué Porque la aerolínea no quiere que tú compres uno un boleto y te den dos
+16:52
+asientos ni tú quieres que un boleto te lo cobren dos veces verdad entonces es
+16:58
+por eso eso que esta lógica esto cómo diseñamos las bases de datos Cómo hasta
+17:04
+si no las diseñan pero hasta Cómo podemos extraer información de las bases de datos es muy importante toda esta
+17:11
+área de programación bueno de matemáticas no muy bien Eso fue de esto vamos a seguir Okay
+17:21
+bien y Okay bien Ajá lógica matemática
+17:26
+teoría de la computación lo que le estamos diciendo combinatoria cadena de marcoff esto es de probabilidad y
+17:32
+estadística no para simplicar un poco pensemos miren un ejemplo de combinatoria es un tema de las
+17:38
+Matemáticas discretas Bueno antes de empezar con estas cosas vamos a regresarnos un poco Ah no del
+17:51
+iPad Okay muy bien Sí aquí vamos a rastar un poco el
+17:57
+lápiz chavos en esta sección pero es parte de las Matemáticas discretas dijimos que
+18:03
+era un área de las Matemáticas
+18:15
+no de las Matemáticas
+18:20
+que trata
+18:25
+manipula conjuntos
+18:33
+discretos qué discreto quiere decir que es
+18:38
+contable contable quiere decir que puede ser
+18:44
+infinito Pero tiene que ser entero vamos a ver qué significa eso o sea que puede
+18:49
+ser finito o infinito
+18:57
+contable Esa es la parte de matemáticas discretas
+19:04
+Okay muy bien O sea que nosotros para esto utilizamos los
+19:12
+números enteros no realmente los naturales Pero bueno
+19:18
+muy bien Eso es la parte matemática discretas o sea no decimales muy bien
+19:26
+Bueno vamos a seguir en lo que estábamos las contraseñas Por ejemplo si
+19:31
+son 36 y tienen dos caracteres sería 36 al cuadrado es por eso que muchas veces
+19:38
+si se dan cuenta en las contraseñas cuando ustedes ponen hoy en día te piden
+19:43
+un mínimo número de caracteres no por loal te piden entre 8 y 10 mínimos No
+19:49
+por qué Por Por ejemplo si son 36 caracteres que pueden ser más porque realmente aquí no acuérdense que las
+19:56
+computadoras sí diferencian entre mayúsculas y minúsculas Entonces sería 26 más por eso también Aparte te piden
+20:04
+que puedas poner este bueno que pongas este letras mayúscula minúscula un
+20:11
+número y un carácter especial por qué bien Vamos a ver la diferencia entre o
+20:16
+sea haciendo eso y lo otro bien bien si son
+20:22
+26 letras minúsculas no
+20:29
+26 letras
+20:35
+mayúsculas qué más 10 dígitos Vamos a ponerle que solo 10
+20:41
+caracteres especiales
+20:47
+no Por ejemplo si tú pusieras puras minúsculas vamos a hacer la comparación
+20:53
+bueno cada carácter puede ser de estos no o sea el número total de opciones
+21:00
+para un solo carácter un carácter sería la suma de todo esto y
+21:05
+vamos a sacar la calculadora que tengo aquí en la computadora pero bueno bien
+21:11
+pueden sumarlo alguien quiere sumarlo lo pueden hacer en python lo
+21:17
+pueden hacer en Google lo pueden hacer en su calculadora 72 no no sé Déjame ver 26 +
+21:24
+26 72 bien más 10 10 okay 52 72 Sí muy
+21:30
+bien 72 no Okay cada carácter un
+21:36
+carácter tiene 72 opciones
+21:43
+no y vamos a compararlo con si solo usábamos letras minúsculas serían 26
+21:51
+verdad y solo usáramos letras minúsculas para ver para ver la
+21:57
+comparación vamos a usar la calculadora Ahora sí puedo usar python pero Miren la
+22:03
+computadora se ve bonita no le he usado aquí Así que déjen les muestro la diferencia entre
+22:13
+uno y otro buen tambén se lo puedo poner aquí en python para que lo tengan escrito Okay
+22:21
+ambas por ejemplo déjen comparto
+22:26
+pantalla la
+22:32
+calculadora bien Este por ejemplo dijimos no también en
+22:42
+python dijimos que era la opción
+22:50
+un la opción
+22:56
+opciones ca minúscula es igual solo a 26
+23:04
+verdad opciones para pura minúscula es 26 verdad
+23:09
+opciones caso real que es el que te piden por ejemplo Cuánto
+23:15
+es dijimos que 72 No sí o no
+23:22
+chavos muy bien Por ejemplo si la contraseña no
+23:29
+O sea si te piden aquí que la contraseña sea de
+23:36
+mínimo ocho
+23:41
+caracteres Okay muy
+23:48
+bien Vamos a ver la diferencia entre uno y otro no así que el número de opción bueno el
+23:55
+número de posibles combinaciones no
+24:03
+vamos a hacer una función
+24:09
+deles combinaciones y que nos den dos cosas
+24:15
+que nos den exactamente las opciones y que nos den
+24:21
+el de caracteres Por ejemplo si el de car
+24:30
+es como ponemos mínimo ocho no Okay dos
+24:37
+puntos Aquí vamos a regresar una sencilla
+24:43
+operación que va a ser las opciones
+24:48
+no elevado a el número de caracteres
+24:55
+No sí o no chavos Sí profe Okay muy bien
+25:05
+entonces Pero dónde estás definiendo
+25:11
+opciones aquí no O sea bueno
+25:19
+aquí o cuál es la pregunta era eso o sí sí sí muy bien
+25:33
+impr
+25:44
+ambas algo que también podía hac
+25:53
+p resultado ponerlo aquí pero
+26:02
+aparte Bueno si está bien así No no tengo que hacerlo por separado olv hacer
+26:07
+algo okay luego vamos a comparar Cuántas veces es más uno que otro
+26:20
+lo que python tenga los suficientes miren Cuántas veces es mayor uno que
+26:27
+otro vamos a hacerlo vamos a ponerlo
+26:33
+[Música]
+26:39
+formateado
+26:44
+el segundo caso
+26:53
+es por ejemplo sería vamos a
+27:00
+guardarlo bueno caso uno y caso
+27:05
+dos a guardar esto aquí este resultado aquí en el caso
+27:13
+dos vamos a guardarlo
+27:21
+y Okay vamos a hacer solo la división caso uno entre
+27:28
+vez caso dos caso
+27:49
+un o sea por ejemplo Que si nada más usáramos
+27:56
+este puras minúsculas verdad En comparación con lo que nos piden en el
+28:02
+caso real Por ejemplo si el que se tardaba en decifrar su contraseña se
+28:09
+tardaba un día un software maligno no este un hacker lo que sea este se
+28:15
+tardaba un día por ejemplo en hacer todas estas combinaciones porque son
+28:20
+bastantes No pues al hacerlo con más caracteres como lo hacemos en la vida
+28:26
+real no sería en vez de un día a lo mejor se tardaría
+28:33
+3458 días verdad lo cual es bastante verdad en comparación o sea necesita un software
+28:41
+maligno para que quea tu contraseña necesita
+28:46
+3458 veces más tiempo para poder exactamente que quar tu contraseña y
+28:55
+todos estos cálculos de saber cuál contraseña Cuántos etcétera se usan con
+29:03
+este matemáticas discretas y hoy en día ocho es poco en algunos casos ya hoy en
+29:09
+día te piden 10 vamos a ver Cuánta es la diferencia aquí se va ir al cielo a ver
+29:15
+miren chavos si en vez de ocho caracteres su contraseña es de 10
+29:20
+caracteres mínimo no este es el
+29:28
+o sea el tiempo mayor que tardaría o sea tardaría 26,000 veces más tiempo en que
+29:35
+a quedar una contraseña con respecto a la otra verdad del mismo número de caracteres pero solo haciendo que sean
+29:43
+de que mayúsculas minúsculas números y caracteres especiales verdad es por eso
+29:49
+que nos piden exactamente la Así que esto las las contraseñas que
+29:56
+esto es bastante alto también no sé si vamos a ver cuántos son 3 se
+30:02
+Ah nu 12
+30:08
+15 18 o sea tiene 19 dígitos Esto no es
+30:15
+altísimo 19 dígitos es muy muy alto verdad Entonces este es por eso que
+30:25
+exactamente se pide a al usuario que haga eso porque las computadoras hoy en
+30:30
+día pueden este intentar muchas combinaciones Pero si tú le pones un
+30:37
+número casi Real Como este pues se va a tardar porque por muchas combinaciones
+30:42
+Así que aunque haga un por ejemplo vamos a hacer que la computadora pueda hacer un millón de combinaciones por segundo
+30:50
+que no va hacer tantas pero digamos imagínense un millón No Okay print vamos
+30:56
+a hacer el caso dos dividirla
+31:01
+entre un millones un millón Perdón
+31:07
+10 6 bueno si entiende por qué el 10 a la
+31:13
+6 10 a la 6 es un millón notación científica okay Bueno vamos a verlo este
+31:20
+último por ejemplo digamos que esto es cada segundo o sea segundos no Entonces
+31:25
+le pondría segundos estos son los segundos que se
+31:31
+tardaría digamos que una computadora puede hacer un millón de combinaciones por segundo [Música]
+31:37
+no de todos modos Aunque hiciera un millón de combinaciones vamos a ver esto
+31:43
+en años bueno en horas al
+31:50
+menos Okay sería hacer esto y entre 3600 verdad esto entre
+32:00
+acuérdense Bueno si no saben este una hora tiene 3600 segundos verdad vamos a
+32:06
+ponerle
+32:12
+horas a unas 100 horas es un chorro bien Vamos a hacerlo ahora para saber cuánto
+32:18
+se tardaría En qué quieren en años bien ya va unos años
+32:25
+este sería poner todo esto
+32:32
+entre Cuántas horas tiene un día 24 24 por
+32:37
+365 días del año no coma
+32:47
+años miren si una computadora pudiera probar
+32:53
+un millón de de combinaciones por segundo aún así esta computadora se
+33:01
+tardaría 1 mill 187 no millón No no
+33:09
+118,71 años no O sea digo ya para ya para cuando eso
+33:15
+termine Pues a nosotros ya no nos importa verdad ya ya digo ya nos morimos Entonces este pues ya no muy bien mirene
+33:23
+Hasta Si fuera más rápido Vamos a ponerle por 10 a la nueve quisiera 1000 millones de combinaciones por
+33:29
+segundo una computadora más potente de todos modos serían 118 años
+33:38
+chavos y eso es también lo importante de algoritmos Porque si exactamente también
+33:43
+si tu algoritmo funciona pero hace muchas combinaciones innecesarias pues
+33:49
+se puede tardar 118 años en correr y nosotros no queremos eso verdad y vamos
+33:55
+a ver también bueno un poco lo muy poco que veamos algoritmos es que se dan cuenta la respuesta depende mucho del
+34:03
+valor de entrada depende mucho de si era 26 y 72
+34:08
+verdad porque aquí dijimos que este eraa 26521 y el otro o sea es o
+34:17
+sea por el 26 y el 72 cambia bastante de
+34:23
+magnitud verdad sin embargo el 26 72 no es tanta diferencia en cuanto a la
+34:29
+división no es como 2.5 veces más grande sin
+34:34
+embargo cuando ya habamos de combinaciones es 26,000 o sea es como si
+34:39
+fuera 10,000 veces más que el tamaño de diferencia es por eso es que es muy
+34:45
+importante esta parte porque nosotros al programar También tenemos que hacer algoritmos que sean decentes porque como
+34:51
+se danan cuenta por mucho poder computacional que tengas si haces un mal algoritmo
+34:57
+se puede tardar esto porque esto de hacer mil millones de combinaciones en un segundo es de una computadora muy
+35:04
+poderosa o sea hasta digamos sea la que sea imagínes to una compa más poderosa a
+35:10
+la 12 eso ya es de verdad una supercomputadora eso es una computadora que ya no tenemos acceso
+35:17
+casi de todos modos digamos que para si su programa ustedes querían que corriera
+35:23
+en un segundo pues miren no se va a tardar un segundo se va a tardar 1039 horas y así teniendo la supercomputadora
+35:31
+Obviamente con su celular ni de chiste ni con su computadora normal y con su velocidad de internet Entonces este es
+35:39
+esto chavos Por lo cual es importante y se estudia esta parte para saber si tu algoritmo si tu contraseña son seguras
+35:47
+etcétera muy
+35:53
+bien Todo esto lo vamos a ver la siguiente semana
+35:58
+y vamos a desarrollar un poco la lógica muy
+36:03
+bien también cre que no Estoy compartiendo compartir un
+36:12
+segundo a
+36:25
+ver mir combinatorias luego vamos a ver que existen dos cosas uno que se llama
+36:32
+combinaciones y otro que se llama permutaciones combinaciones no importa
+36:39
+el orden en permutaciones sí depende nuestra conveniencia por ejemplo en
+36:46
+contraseñas nosotros queremos permutaciones Por qué Porque Nosotros sabemos que en una contraseña no es lo
+36:52
+mismo a1 que 1a verdad sí o no chavos ustedes
+37:00
+inténtenlo hasta en python si ponen el If verdad y ponen a1 o 1 a les va a dar
+37:06
+diferente porque en las contraseñas en python importa tanto el orden como si
+37:13
+son mayúsculas o minúsculas etcétera no entonces son dos cosas
+37:18
+diferentes también Bueno vamos a ver un poco de teoría de conjuntos no sé si se
+37:24
+acuerdan que les había dicho no lo vimos como tal pero se acuerdan que había un tipo de dato en python que se llamaba
+37:32
+set no sé si se acuerdan bien si no se acuerdan Déjenme se los muestro porque
+37:39
+si lo vi lo vimos muy por encima está en sus notas vamos a
+37:48
+verlo bien aquí había hasta arriba en la parte de tipos de
+37:55
+datos estaba
+38:00
+miren aquí set conjuntos no
+38:06
+Okay aquí miren representa un tipo de dato sin orden
+38:13
+mutable de valores únicos estos estas tres cosas es lo que
+38:19
+define un set básicamente en python primero Aquí hay una gran diferencia con
+38:24
+todo lo que hemos visto anteriormente anteriormente tanto los topol como las
+38:30
+listas como los strings como los diccionarios tienen un orden no tienen
+38:36
+acuérdense un índice y un valor verdad o tienen una llave y un valor sin embargo
+38:44
+en los sets en los conjuntos no en los conjuntos no tienen un orden y por eso
+38:52
+les digo que esto tiene mucho que ver con bases de datos Porque si no ustedes no sabían pues se los digo las bases de
+38:59
+datos no tien los datos no los guardan con el índice uno el índice 2 el índice
+39:05
+3 porque ocuparían mucho espacio y serían muy pesados y no sé y sería por ejemplo para antes que se usaban con no
+39:13
+sé si se acuerdan que los discos Duros de antes que eran magnéticos no
+39:18
+imagínense si ustedes ponían un dato hasta el final en lo que daba toda la vuelta el disco duro Pues iba a tardar
+39:25
+verdad y aquí lo que lo que se hace Es que los datos están Random no es como el
+39:31
+Ram Ram se acuerdan que significa la memoria RAM Random Access Memory muy bien
+39:40
+perfecto Miguel muy bien Random Access Memory es lo que quiere decir esto no
+39:45
+Random Access Memory básicamente es porque no guardan un orden y exactamente
+39:52
+estos este tipo de datos no no tiene un orden muy bien y tiene valores únicos
+40:00
+vamos a ver qué significa esto no sé si lo puse aquí o en semana cuatro aquí miren
+40:06
+bien el tipo de datos set Cómo nosotros ponemos un tipo de
+40:11
+datos set aquí se los puse es como si fuera un diccionario casi pero en los
+40:17
+diccionarios tenemos los dos puntos y tenemos por pares no llave valor Aquí no
+40:23
+aquí esto es como si fuera una lista imagínate como si una lista nada más que la única cosa es que en vez de corchetes
+40:31
+le ponemos llaves verdad y le ponemos comas
+40:37
+algunos de los usos del tipo de datos set es su propiedad de que son valores
+40:43
+únicos miren aquí por ejemplo ya lo pueden ver No yo puse varios dos aquí
+40:50
+repetidos sin embargo cuando yo lo [Música] corro porque AC que le miren si se dan
+40:57
+cuenta solo pone valores únicos verdad O sea todos los
+41:03
+otros dos los manda lejos verdad muy muy bien así es como funcionan el tipo de
+41:10
+dato de set o bueno en español conjuntos no muy bien miren por ejemplo aquí puse
+41:17
+un caso este por ejemplo nos puede servir para cuando estemos haciendolo en matemáticas discretas ustedes pueden
+41:23
+comprobar sin preguntarme a mí ustedes mismos pueden comprobar con esto no este
+41:29
+si hicieron bien sus problemas que luego les voy a poner este aquí por ejemplo
+41:35
+bien este set tiene varios repetidos tiene varios dos repetidos verdad y este
+41:42
+B también tiene estos dos nueves repetidos y dos ochos repetidos verdad
+41:49
+bien si lo corremos nos va a dar esto Este es el conjunto a y me da puros
+41:54
+valores Únicos Este es el conjunto b y aquí pasa algo interesante no lo pone en el orden que
+42:02
+teníamos Por qué no lo pone en el orden que teníamos porque acuérdense que los sets python no los guarda con ningún
+42:08
+orden aquí coincidió o sea aquí es una coincidencia bonita que los haya puesto así pero realmente python no es como que
+42:15
+los guarde en este orden python solo guarda es como si fuera una bolsa de canicas o sea bolsa de canicas
+42:21
+diferentes no es básicamente eso es un conjunto o sea python carga de que sean
+42:26
+diferentes pero no les pone un orden para el final python siguen siendo las canicas no muy bien Por ejemplo luego
+42:34
+vamos a ver lo de operaciones exactamente de conjuntos que era lo que veíamos por ejemplo que servía aquí para
+42:41
+las bases de datos los joints de las bases de datos de sql verdad funcionan
+42:47
+con una lógica O sea la lógica la matemáticas viene de aquí por ejemplo
+42:52
+este el A - B Es una diferencia una sustracción de conjuntos Qué hace esto
+42:58
+bien A - B agarra todos los valores de B
+43:03
+que son estos cuatro y le vamos a quitar los que estén en B que estén en a o sea
+43:10
+los de B que estén en a el uno y el dos son los únicos que están en a verdad
+43:15
+entonces aquí python va a eliminar el uno y el dos y nada más me va a dejar el 3 4 5 y 6 verdad sí lo
+43:25
+ven sí Y aquí el B me va a agarrar ahora
+43:30
+sí que el conjunto b y le vamos a quitar los valores que estén en a de B No aquí
+43:39
+los únicos que están son el uno y el dos Entonces le vamos a quitar el uno y el dos y nos quedaría 8 y nu verdad miren
+43:47
+si lo corro me debe dar eso podemos editarlo y hacerlo para que ustedes vean que s es cierto Por ejemplo si le
+43:53
+aumento el TR aquí
+43:58
+vamos a ver qué pasa a ver antes de que yo lo corra el a cómo me
+44:07
+daría pues sigue siendo igual no no le modifiqué nada la Entonces cuál sería
+44:12
+igual no al a no le modifiqué nada el B
+44:22
+chavos cómo sería
+44:28
+Pues igual no No porque si le agregué el Ah ya Sí pues se le agregaría el tres no
+44:35
+muy bien acuérdense que lo puedo poner en el orden que quiera porque porque no tienen orden No aquí python manera así
+44:42
+que casual lo puso Pero no importa el orden muy bien Aquí vamos a ver este chavos a men
+44:50
+B Cómo cambiaría sería 4 5 y 6 muy bien Le
+44:57
+quitaríamos el tres porque ahora el tres sí está aquí el un el dos y el tres están aquí y les vamos a quitar en la
+45:04
+lista estos muy bien y cómo sería el B men a
+45:09
+igual 8,9 no vamos a ver si es cierto muy bien
+45:17
+4,56 muy bien muy bien acuérdense que esto puede estar en cualquier
+45:23
+orden Aquí esta vez lo puse así coinci entemente pero no importa el orden al final de cuentas son los cinco elementos
+45:29
+no Y estos seis muy bien chavos Pues bueno o sea Lo bueno es que python tiene
+45:36
+para ayudarnos hasta hacer este tipo de problemas Lo importante es que nosotros sepamos
+45:41
+este todo esto y por ejemplo este luego
+45:46
+vamos a ver que si ponemos listas Dentro de este tipo de datos de set nos puede
+45:52
+dar valores únicos lo cual a veces es útil por ejemplo Por ejemplo si ustedes están en un o sea
+45:59
+tienen una base de datos de una escuela no y tienen que un estudiante está metido en seis
+46:05
+clases y cada estudiante está en se 5 4 3 o sea diferentes números de queases no
+46:11
+todos llevan siempre las mismas no pero ustedes quieren sacar una lista de
+46:16
+Cuántos valores únicos Cuántos alumnos realmente hay no pues lo pueden usar
+46:22
+exactamente usando este tipo de datos luego lo vamos a ver que en sql un
+46:27
+poquito vamos a ver No más un día de sql porque la verdad es que es no es tan tampoco es tan largo Pero la verdad es
+46:33
+que también base de datos es un tema que a lo mejor para continuaciones etcétera Pero bueno vamos a ver poquito
+46:40
+poquito en análisis de datos Cómo usar al menos las más importantes de sql sql
+46:47
+no sé si lo conocen alguien conoce o sabe que significa
+46:54
+sql no Bueno es un lenguaje para bases de
+47:01
+datos que se llama dónde lo pongo buen
+47:08
+sql significa
+47:18
+structure significa lenguaje de búsqueda estructurado Eso significa sql las bases
+47:25
+de datos bueno las relacionales no los quiero marear con eso pero las bases de datos las las más comunes las que casi
+47:32
+siempre usamos usan este tipo de Este lenguaje el cual se basa mucho en
+47:39
+álgebra de conjuntos y cálculo de conjuntos luego vamos a ver también en no en esta semana a lo mejor en dos o
+47:46
+tres cuando veamos estructuras de datos exactamente todos estas cosas de gafos
+47:53
+árboles y todo eso vienen de ahí y nosotros aprovechamos eso para hacer que
+47:58
+nuestro software sea eficiente rápido y sobre todo y más importante que lleguen
+48:04
+a la solución que queremos porque también la parte de demostraciones y todo es para demostrar que nuestro
+48:11
+algoritmo que nuestro Software que nuestro programa Va a llegar al resultado deseado por el bueno por
+48:18
+nosotros o por el usuario no sin necesidad de probar todas las combinaciones nosotros podemos hacerlo
+48:24
+con esta parte de lógica y matemáticas discretas chavos además los que estaban diciendo los que querían desarrollar su
+48:31
+lógica les permite hacer la verdad una vez que aprenden esto pueden hacer la verdad los programas más rápido porque
+48:38
+pues ya desarrollaron la lógica a un nivel superior no tengan alguna última duda o pregunta
+48:49
+chavos yo tengo una pero no es de y de hecho para no molestar el tiempo de los
+48:54
+demás pueden salir o sea sí es como de esto pero es de hace unas varias
+49:00
+clases Okay yo tenía duda de igual que lo mismo
+49:06
+que preguntaron hace rato que de dónde sacabas la variable conjuntos la vari qué en el
+49:17
+ejercicio ese creo ahí opciones Ajá Ahí dice Def Def número
+49:27
+de posibles combinaciones opciones esa opciones no igual No no entiendo de
+49:32
+dónde está definido acuerda mira en las funciones estos argumentos Tú los puedes
+49:38
+llamar como quieras en las funciones los argumentos
+49:44
+son como las
+49:51
+variables aquí solo python entiende que la posición uno mira aquí yo le puse
+49:56
+opciones pero le podría poner literalmente x mir le pongo x le pongo x
+50:04
+no O sea python solo está entendiendo que en la posición uno lo que tú pongas
+50:10
+en la posición uno te lo va a mandar aquí es lo único que entiende python Como argumento lo que esté en la
+50:16
+posición uno lo mando aquí en donde lo estés llamando no y este el que está en
+50:21
+la posición dos lo mando aquí no sé si esa eso responde la pregunta
+50:29
+que python lo está tomando a mí me pasaba igual que a ti pero como que creo que primero Siempre tienes que leer el
+50:35
+print para entender o sea el print es el que le está diciendo como de lo que vas a ocupar como x y lo que vas a ocupar
+50:41
+como un caracteres Sí exactamente o sea acuérdense que esto Solo es Definir la
+50:48
+función aquí no estamos o sea ejecutándola solo la estamos creando a
+50:55
+aquí es donde nosotros estamos creando no Bueno aquí es más donde estamos llamando invocando la función también se
+51:02
+le llama este opción pura minúscula vamos a
+51:07
+reemplazar el X no el X realmente va a ser este el opción opciones pura
+51:12
+minúscula Entonces esto este toma el valor de opciones pura minúscula que
+51:19
+es 26 no lo puedes meter así no también podía
+51:25
+poner así pero no ser Dinámico o cómo más bien podrías
+51:31
+meter la opciónes pura minúscula en lugar de la X en la Sí también pero yo lo puse así yo yo
+51:38
+le había puesto opciones porque también puede ser la de opciones caso real No sí también o sea si yo le pongo opciones
+51:44
+pura minúscula Bueno o sea pueden hacerlo pues opciones pura minúscula pero nada más acuérdense que también
+51:51
+puede ser para el otro no Yo por eso la puesto opciones porque
+51:57
+al final de cuentas estos chavos lo único que python está leyendo es Ah bueno lo que me metiste en el argumento
+52:02
+uno lo que me meti es en el argumento dos tú llámalo como quieras no O sea tú
+52:08
+lo puedes llamar x y F opciones pura minúscula al final de cuenta python solo
+52:14
+Lee que este es el primer argumento y este es el segundo y Okay al primer argumento lo llamaste así entonces
+52:20
+dentro de la función vas a tener el valor del primer argumento aquí No mira
+52:28
+aquí por ejemplo si me acerco esta vez que corrí el 26 no es esto pero yo le podía haber puesto opciones como lo
+52:34
+tenía No yo le había puesto opciones para que no se confundiera que nada más era uno porque seguramente me iban a
+52:39
+ahora sí que le había puesto opciones por minúscula IB a Seguramente me iban a preguntar y el opción es caso
+52:46
+real no s bien si quieren se los dejo así pero no se olviden que python aquí
+52:52
+solo está leyendo esto y lo está insertando aquí pero nada más tú le puedes llamar como quieras ahora sí ya
+53:00
+entendí más o menos aquí describes la fórmula y hasta que pones el print estás sustituyendo valores para que hasta que
+53:07
+la llamas la función no el print el print solo es para Que aparezca en pantalla Acuérdate que esto es invocar
+53:13
+la función hasta que tú pones el nombre de la función paréntesis y los
+53:18
+argumentos ahora sí que tú vas a usar Los Reales los que estás los que tú
+53:23
+quieres saber el resultado hasta en ese momento tú estás invocando la función
+53:28
+aquí solo la estás creando no la estás
+53:33
+invocando okay duda ahí sería el Def número de posibles combinaciones y
+53:40
+en ese paréntesis que ahorita que ya pusiste opciones pura minúscula y número caracteres Ahí es donde puedes tener dos
+53:47
+o tres argumentos o los que sea pues sí puedes tener Acuérdate que
+53:52
+puedes tener 0 1 2 argumentos no los que tú quieras Obviamente que los tienes que
+53:58
+usar no O sea si los vas a pedir es para algo Ok ya entendí Gracias Ya estuvo De
+54:08
+nada profe puedo compartir pantalla para lo que le decía Pues sí rápido porque es
+54:13
+que ahorita tengo el de matemáticas pero muy bien rápido rápido rápido
+54:20
+Rápido ya pueden ver mi pantalla o sea es super antiguo esto
+54:26
+pero ni modo Ah es que vi su estoy hablando del de
+54:32
+producto punto y o sea entiendo que o sea no entiendo por qué Aquí se utiliza
+54:39
+esto en lugar de solo poner lista uno ah Por qué
+54:45
+este ah porque cómo vas a acceder a ambos Y entonces por qué uso B1 o sea
+54:54
+por qué no porque qué solo B1 porque no pongo b2 Ah porque puedes usar cualquiera Porque mira la definición de
+55:00
+un producto punto es que sean del mismo tamaño o sea y no le puse un Catch para hacerlo Pero tú no puedes hacer un
+55:07
+producto punto si no son del mismo tamaño entonces la verdad es indiferente O sea tú le puedes poner B1 o b2 y te
+55:14
+debería de dar lo mismo porque tú no puedes hacer un producto punto si son si no son del mismo tamaño no okay okay
+55:21
+okay O sea pero si pongo solo lista uno pues si pones lista
+55:27
+uno mira ahí Que estarías haciendo piénsale mira en lista
+55:33
+uno estarías agarrando la lista uno no aj aj 1 2 3 com4 sabes por qué te da el
+55:41
+error O no todavía no lo ves no No lo entiendo okay muy bien
+55:47
+rápido Te lo voy a enseñar por eso exactamente exactamente por eso está el error tú aquí el no este no está
+55:56
+agarrando cada uno de los elementos de la lista no Uno El dos okay muy bien en
+56:02
+este primero agarra uno primero ahí empezaste un poco mal porque el índice
+56:07
+uno qué te va a dar Ah te va a dar el segundo elemento
+56:13
+verdad no te va a dar el primero primero ahí está mal y el error te da Index error list Index out of Range O sea que
+56:20
+te pasaste por qué Porque el último valor es c verdad sí Entonces cuántos
+56:27
+elementos tiene esta el índice cco te ses de la lista verdad correcto entonces
+56:33
+por eso exactamente te está diciendo Index out of Range yo agarré ahora sí
+56:39
+que la la razón por la cual agarré este el lent no es porque el lent me permite
+56:45
+saber de qué tamaño es mi vector o sea de cinco entonces el rango de cinco me
+56:52
+va a quedar un vector que que sea del lo hace Dinámico primero 0 1 dos es que es
+57:00
+difícil escribir con 3 4 cco no bueno bueno cinco no
+57:09
+déjen muy bien aj Okay me va a agarrar estos no
+57:15
+elementos y estos los puedo usar como índices Pero además esto porque era uno
+57:21
+4 c pero imagínate que el vector fuera de diferentes cosas Imagínate que este fuera ocho el primero que podría ser si
+57:30
+lo haces como el código que tenía tendrías agarrarías el ocho como índice y no tiene nada que ver verdad Tú lo que
+57:37
+quieres es agarrar el índice del c0 el un el dos el TR el cuatro no hasta
+57:42
+llegar al final verdad es por eso que este índice lo
+57:48
+puse con el Range más o menos no pero si quieres
+57:54
+mejor vaya a la clase y le escribo por What después okay Sí pero más o menos Esa es la
+58:01
+explicación O sea si tú usas el índice como bueno como lo tenías en el otro
+58:06
+estás agarrando cada uno de los elementos de la lista Pero qué tal si la listas primera no te va O sea qué tal si
+58:13
+te ponen 5 5,5 o sea estarías agarrando el puro cinco y estarías agarrando el puro índice cco Entonces no tendría como
+58:21
+sentido Esto es para que te cree una lista con todos los posibles índices de tu
+58:29
+vector esa es la razón del Por qué okay Yo entiendo que esto a lo mejor
+58:35
+es un poco abstracto pero es lo que te acabo de decir literalmente es la explicación a ver si luego puedo ver una
+58:40
+manera más de explicarlo menos abstracto pero esa era más o menos sí perfecto De
+58:47
+todas formas yo le voy a estar como filosofando lo que usted dijo gracias de
+58:52
+nada y bueno chavos nos vemos y cuídense mucho Hasta
+58:58
+luego bye

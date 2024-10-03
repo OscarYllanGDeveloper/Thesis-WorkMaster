@@ -1,0 +1,1050 @@
+0:02
+Okay Muy bien pues bueno si nos acordamos ayer vimos un poco de lo que
+0:07
+es así que la funciones no empezamos bueno bu vimos más que eso La verdad es
+0:13
+que vimos este si nos acordamos vimos un poco de bueno lo que fue la división
+0:18
+polinomial bueno la división en álgebra verdad ayer vimos lo de monomio en tem
+0:24
+monomio este acuérdense que era signos con signos coeficientes con coeficientes
+0:29
+variables con variables verdad este Okay acuérdense que hicimos ese ejemplo por ejemplo este acuérdense que era como
+0:37
+dijimos signos con signos verdad este luego este frences signos con signos no luego
+0:46
+hicimos coeficientes con coeficientes no este y al final acuérdense que pues
+0:55
+bueno variables con variables verdad muy bien este eso es lo que es monomio entre
+1:01
+monomio hay que acordarnos que la de polinomio ent monomio básicamente
+1:06
+es aplicar propiedad distributiva verdad Qué quiere decir que por ejemplo
+1:12
+el 2xw como se ve ahí divide a cada uno de estos verdad qué es lo que pasa acá
+1:19
+abajo el 5x cu entre 2xw no nos da
+1:24
+acuérdense bueno signo entre signo más entre más acuérdense que esto cuando no
+1:30
+se pone por notación que si esto es más y esto es más verdad y el más entre más pues nos daba más verdad 5 / 2 nos da
+1:38
+5/2 x cuad entre x pues acuérdense que este es como si fuera x1 y acuérdense
+1:45
+que como si estuviera restando verdad porque es división entonces 2 - 1 nos queda x a la 1 que es esto verdad Muy
+1:52
+bien y bueno W 0 ent W nos queda como W a la -1 no Okay bueno así era para para
+2:00
+cada uno de estos n más recapitulando verdad y nos daba al final esta respuesta
+2:06
+verdad Okay acuérdense que hicimos todo eso este acuérdense que van haa de
+2:11
+polinomio entre polinomio este esta casi no se usa porque luego se usa la división sintética Pero bueno Esto sí es
+2:19
+muy importante acuérdense de las funciones verdad vimos que en matemáticas existe lo que se llama función y relación acuérdense que
+2:26
+función Es que para un elemento de X solo existe uno de y que eso se puede
+2:32
+hacer muy sencillo con lo de la bueno esta regla que pase de de primaria está
+2:39
+muy sencilla que es la regla de la recta vertical verdad que si tú dibujas una recta vertical este sobre una función
+2:47
+solo debe de tocar un solo punto si solo toca un solo punto Entonces si es función si toca más de un punto se le
+2:54
+llama relación como por ejemplo el círculo o la parábola horizontal no Estos no son son funciones en
+3:00
+matemáticas son relaciones que ahí dice función debe de existir un valor único de y para uno de X No Okay y bueno
+3:09
+empezamos a ver acuérdense lo de la función constante verdad que la función constante pues nbre lo dice siempre vale
+3:16
+el mismo valor que por ejemplo esa función este bien así se
+3:23
+vería FX = 5 hacía un número verdad ya este la función constante Así
+3:31
+es como se ve bueno la de arriba voy a poner de color
+3:37
+para Okay color es azul El azulito no a
+3:43
+ver Alguien me puede decir cuál sería esta función Cómo La pondríamos igual a
+3:49
+-5 Muy bien excelente este es a men 5 verdad Excelente muy bien este Así es
+3:56
+como se haría verdad Y a ver A ver vamos a seguirle Esa era la función constante
+4:03
+Ahora las funciones lineales acuérdense que la función lineal tiene pues estos
+4:08
+elementos no la pendiente verdad tiene la ordenada al origen o la intercepción
+4:15
+con el eje Y no y tiene las variables no
+4:21
+x Cómo se le llama es la variable
+4:26
+qué independiente muy bien es la variable
+4:31
+independiente y y es una variable de qué
+4:41
+tipo pues dependiente
+4:49
+no Okay muy bien Hay que acordarnos que M es la pendiente que aquí está no la pendiente
+4:58
+es el cambio de ente el cambio de X verdad
+5:06
+Okay este muy bien Este es el cambio de y el
+5:13
+cambio de X verdad acuérdense que Delta lo que habíamos dicho ya varias veces no
+5:18
+Delta El Triángulo significa Delta que significa cambio en verdad Así que esto
+5:26
+significa cambio en verdad Delta El triángulo que es una letra y verdad y
+5:33
+por ejemplo no este Bueno aquí está Delta y matemáticamente signica y2 - y1
+5:42
+verdad Entonces Bueno si esto es delta y deltax es y2 - y1 x2 - x1 verdad Muy
+5:51
+bien y Bueno luego vamos a ver ya cuando veamos lo de universidad no que la
+5:56
+pendiente verdad es igual a la derivada verdad que es d
+6:02
+no bueno eso luego lo vamos a ver no que la pendiente No es la la sacamos con la
+6:08
+derivada una pendiente pero bueno infinitesimal Porque en cada puntito te lo va sacando muy bien y bueno también
+6:16
+acuérdense que vimos que estaba las la pendiente positiva y negativa verdad
+6:22
+cuando era positiva la función se ve así O sea va en este sentido verdad o
+6:32
+sea es una función creciente es función creciente porque entre más nos movemos a la derecha su valor en y aumenta verdad
+6:40
+eso es lo que dijimos y Pues bueno entonces obviamente de crecientes del otro lado verdad va hacia abajo est es como si
+6:47
+tuvieramos si la función fuera así es el eje de las Así
+6:56
+que no Okay este es el eje y verdad el vertical
+7:05
+y este es el eje x el horizontal verdad Esta función tiene una pendiente
+7:10
+positiva verdad tiene una pendiente positiva porque el cambio no en y es
+7:16
+positivo o sea este qué hac verdad Esta es negativa Por qué Porque el cambio en
+7:22
+y es negativo verdad okay muy bien
+7:31
+este de la ecuación no sé si Lo alcanzamos a ver sí bien la ecuación
+7:38
+para la función lineal entre dos puntos verdad acuérdense que vimos que era esta que era y - y1 igual a m que es la
+7:47
+pendiente de X - x1 verdad Okay Dj la hicimos bien aquí le
+7:54
+hicimos verdad para esta hicimos no
+8:02
+este acuérdense que este y1 Bueno este y1 y y2 son estos dos puntos son las
+8:08
+coordenadas de estos dos puntos Este es el punto uno y este es el punto dos verdad Okay entonces acuérdense chavos
+8:16
+ahora sí que este era x1 Este era x2 no más es sustituir verdad x1 y1 x2 y2 Y es
+8:24
+sustituir en esta fórmula verdad estas son variables es la x y la y verdad una
+8:31
+vez que despejamos y hacemos todo el este dejando x sola Nos
+8:36
+daba esto verdad el 1/2 de x + 2 que estamos bien porque este lo mismo que
+8:43
+aquí no bueno acuérdense que 0.5 es igual a 1/2 verdad Entonces estamos bien
+8:49
+eso se puede sacar cuando tiene Solo dos puntos esa ecuación te da la función
+8:56
+lineal entre dos puntos para qué funciona acuérdense que les dijimos que
+9:01
+la función lineal es muy útil en general y yo creo que es de las más
+9:07
+útiles que sirve en física para la velocidad por ejemplo este sirve en todo
+9:13
+lo de Machine learning en economía y en finanzas Hay unos que se llaman predictores lineales que son regresión
+9:20
+lineal la regresión lineal es es con estadística tienes Mira si no saben qué
+9:26
+es regresión lineal Se los voy a explicar nada más para que tengan una idea y hoy en día en todo lo de Machine
+9:33
+learning que se usan muchas cosas en negocios en finanzas en todo no este por
+9:38
+ejemplo para un predictor de vender casas no Y tú tienes así puntos no
+9:43
+etcétera de un ejemplo es de de precio mir por ejemplo digamos que
+9:50
+este es precio de la
+9:56
+casa bueno no tendría lógica mejor esto a
+10:02
+ver a ver Dj Entonces por ejemplo algo más lógico Dj B estos puntos voy hacer
+10:08
+con precios este que sea el
+10:16
+precio y este que está el área o sea los metros cuadrados no metros cuadrados muy
+10:22
+bien a mayor metros cuadrados Pues es obvio que haya mayor pecio
+10:28
+verdad más o menos así nos daría la información lo que es regresión lineal
+10:33
+lo vamos a ver En estadística en lo de programación un poco es tratar de encontrar una función recta que trate de
+10:41
+tocar o que esté lo más cercano posible a cada uno de estos puntos no Pero bueno
+10:46
+todo esto funciona con lo de la función lineal verdad que dijimos que la función es igual a MX + b y bueno con unas cosas
+10:54
+más digo esto es muy básico pero ya con estadística y con programación por ejemplo se hacen estos predictores
+11:00
+lineales con regresión lineal Okay muy bien este Okay lo que dijimos pendiente que
+11:08
+esto también se le llama por ejemplo el coeficiente de correlación que va de menos 1 0 1 si si es uno quiere decir
+11:18
+que su pendiente eh bueno que el punto toca todos los puntos Es que la línea toca todos los puntos y quiere decir que
+11:25
+es positiva O sea si esto acá Tiene una pendiente positiva si esto de acá acá o
+11:31
+sea tiene una pendiente negativa eso se usa en regresión lineal Ok Muy bien qué
+11:38
+más bueno acuérdense que empezamos a ver lo de la función cuadrática verdad que
+11:43
+teníamos las raíces las parábolas etcétera bien hay Tres formas de
+11:49
+resolver una ecuación cuadrática hay más al menos las que se ven no así que
+11:55
+formas de resolver una ecuación cuadrática
+12:05
+la más común en la que nos han metido en
+12:11
+Secundaria bueno preparatoria también pero en Secundaria más es
+12:19
+la fórmula Cómo se le llama alguien general general Muy bien gracias
+12:28
+fómula general verdad la fórmula general acuérdense que es una fórmula Pero antes
+12:35
+de ver esta fórmula hay que ver la forma Cuál es la forma de una función
+12:41
+Line la forma de una función cuadrática la forma de una función
+12:50
+cuadrática es la de FX es igual a AX cu + BX + C que es a es
+13:00
+el coeficiente que está multiplicando a la x cuadrada que es B el coeficiente
+13:06
+que está multiplicando a la x y que c Pues un coeficiente así solo no Okay
+13:12
+esto es muy importante que lo sepamos porque así vamos a saber qué valores meter a la fórmula general a ver esta
+13:19
+Que alguien me diga Cuál es la fórmula general esta yo creo que lo hicieron aprendérsela de memoria en Secundaria
+13:26
+Así que a ver vyan la diciendo
+13:32
+alguien es - B Ajá más menos raíz cuadrada sí de B
+13:42
+cuadrado sí menos 4 AC n y todo eso entre 2 a cre muy bien
+13:51
+aquí ns est esperar a poner la raíz bien muy
+13:57
+bien bueno poner Rosa má
+14:03
+[Música] menos Ok perfecto Esta es la fórmula
+14:11
+general el más menos quiere decir que en el caso un para por ejemplo la x1 es con
+14:16
+más y el x2 es el menos verdad porque acuérdense que bueno una parábola cuas
+14:24
+Bueno hay que acordarnos antes que esto Qué significa una
+14:30
+Alguien sabe qué significa las raíces de una
+14:38
+función el número elevado al cuadrado que da el
+14:44
+resultado pue ser negativo Porque si elevas dos negativos al cuadrado pues se hace positivo más o menos pero mira las
+14:52
+raíces en las funciones son geométricamente esas veces Mira o número
+15:01
+de veces no que la
+15:09
+función toca el eje x bien Vamos a verlo si
+15:20
+quieren un poco más interactivo vamos a verlo en una cosa que se llama desmos
+15:25
+este bien Vamos a verlo para que lo vean graficador o esperen déjen lo traigo
+15:32
+aquí en la [Música] computadora
+15:43
+Okay okay miren
+15:56
+voy okay chavos este aquí miren por
+16:03
+ejemplo podemos poner por ejemplo no
+16:11
+sé miren hay Voy a
+16:16
+hacerlo okay esta función tiene dos raíces
+16:25
+verdad dos raíces una es men2 y otra es
+16:31
+2 las raíces geométricamente o visualmente
+16:37
+es o sea los lugares en donde la función toca el eje x
+16:45
+verdad es como decía si nosotros sustituimos el -2 en el cuadrado en el X
+16:51
+cuadrada aquí no si sustituimos en el -2 cuánto sería
+16:58
+men - 2 al cuadrado cuánto nos da alguien -2 al cuadrado cu cu cu muy
+17:06
+bien y 4 - 4 0 c muy bien ent es cierto
+17:11
+verdad -2,0 Muy bien y aquí de igual manera 2
+17:18
+cuad es 4 4 - 4 es 0 No geométricamente eso son las raíces el número de bueno
+17:24
+los lugares en donde la función toca el eje X en la función cuadrática podemos
+17:31
+tener tres casos pueden ser dos raíces o puede ser una sola raíz por
+17:38
+ejemplo está esto el X cu solo toca el eje X en un
+17:46
+solo lugar solo entra en un solo lugar
+17:53
+Verdad que es en el 0,0 Porque si 0 al cuadrado cuánto nos da cero verdad Okay
+18:00
+muy bien acuérdense que las raíces Aquí está 0,0 pero también puede haber no lo
+18:06
+vamos a ver tanto ahorita pero la parte de Raíces bueno los números acuérdense que Estuvimos viendo que existen los
+18:13
+números reales verdad Pero también Existen los imaginarios verdad los imaginarios acuérdense que es
+18:20
+la raíz cuadrada o bueno raíz de que la que sea par o sea cuadrada cuarta sexta
+18:27
+etcétera con que la raíz sea par no podemos este más bien si es negativo no existe
+18:35
+un número que multiplicado por sí mismo te de s entonces eso se le llaman los números
+18:41
+imaginarios cuando podemos tener raíces imaginarias en este tipo de funciones
+18:48
+miren Cómo se ven o sea geométricamente así se ven bien
+18:54
+x cuadrado más
+19:01
+4 Perdón era Ok bien voy a quitar estas
+19:07
+dos para que no haga ruido esta chavos Cuántas raíces
+19:13
+tiene reales tiene una ninguna verdad no toca
+19:22
+el eje eje x es entonces estas cuando res esta que
+19:29
+sería mir x cuad + 4 es igual bueno no voy poner pero bueno voy a ponerlo igual
+19:35
+a 0 no cuando tú resuelves esto el pasas el cu restando verdad Y cuál es la raíz
+19:42
+cuadrada de -4 no existe ningún número real que multiplicado por sí mismo te d
+19:49
+-4 Entonces ahí es cuando se ponen las raíces imaginarias es otra cosa pero bueno geométricamente así es como se ven
+19:57
+este es con raíces imaginarias Esta es una sola raíz real Y
+20:03
+esta es con dos raíces reales o sea podemos tener dos raíces reales como esta una raíz real o ninguna verdad como
+20:12
+esta última Así es como se ven las las o así que los ecuaciones que en la fórmula
+20:20
+general no sé si se acuerdan hay una cosa que se llamaba el discriminante que es la parte de la raíz
+20:27
+verdad vamos a regresar un
+20:36
+poco Okay hay que acordarnos que esto era esta parte si lo buscan en internet
+20:43
+de que el discriminante es esta parte esta parte es el discriminante Qué
+20:52
+es el que te dice exactamente lo que estábamos viendo ahorita geométricamente no bueno visualmente
+20:58
+Cuántas raíces tiene si tiene dos tiene una o tiene cer0 raíces Esa es la parte
+21:05
+del discriminante verdad que esto es Mira si esta parte del discriminante es
+21:11
+mayor a oer entonces tiene dos raíces si este es igual a o tiene una
+21:19
+raíz y si esto es menor a cer no no tiene raíces
+21:25
+reales Esa es la parte del discriminante
+21:31
+verdad okay Bueno ese es un método de resolverlo el otro método de resolverlo
+21:38
+se le llama factorización
+21:43
+no
+21:50
+Okay vamos a poner un ejemplo
+21:56
+este aquí es cuando acuérdense factorizar es que lo sacamos en sus
+22:01
+factores o sea bien Vamos a verlo ahorita está lento esto pero bueno la
+22:08
+factorización un ejemplo puede
+22:14
+ser relativamente
+22:19
+sencillo por ejemplo x cu no 6x + 8 verdad ig 0em esta
+22:28
+ecuación tenemos que encontrar bueno x y x esto sabemos que
+22:34
+son factores pero tenemos que encontrar dos números que
+22:40
+multiplicados nos den este o y que sumados nos den se Cuáles
+22:51
+serían 4 y 2 perfecto + 4 y + 2 verdad
+22:57
+Muy bien Entonces es 4 y 2 verdad Okay muy bien entonces así es
+23:05
+como se haría no + 4 y + 2 miren Así que aplicando propiedad distributiva x
+23:11
+multiplica x y x multiplica 2 verdad aquí el + 4 multiplica x y multiplica 2
+23:19
+entonces vamos a tener no que esto es x cu +
+23:25
+2x + 4x + 8 ya simplificando no reduciendo x cu
+23:33
++ 6x + 8 que es esto verdad Muy bien bueno
+23:39
+esto sirve eso nada mása la comprobación Pero bueno vamos a hacerlo un poco más chico para que nos que
+23:52
+tod Okay muy bien
+23:58
+Okay chavos miren Cuando tenemos esto verdad queda x + 4 = 0 x + 2 es igual a
+24:10
+0 verdad Muy bien Entonces esto la primera raíz x1 por
+24:16
+ejemplo sería cuánto alguien -4 muy bien porque despejamos no nada
+24:25
+más despejamos ya tenemos una función una ecuación es más fácil despejar y esta x2 cuánto nos da men2 men2 verdad
+24:35
+Muy bien Y así es la forma de sacarlo factorizando Okay muy bien y vamos a
+24:43
+seguir con nota la última la tercera se le llama completar voy a
+24:51
+ponerlo completar
+25:01
+completar el qué el tcp Alguien sabe qué significa
+25:09
+tcp trinomio cuadrado perfecto muy bien el trinomio cuadrado perfecto
+25:18
+verdad Okay muy bien entonces el trinomio cuadrado perfecto muy bien
+25:24
+completar el trinomio está desfado está empezando a
+25:32
+desfasar ver bueno este completando el trinomio
+25:39
+cuadrado perfecto verdad este hay que acordarnos
+25:44
+miren por ejemplo vamos a poner una que sea
+25:56
+fácil bien bien Por
+26:06
+[Música] ejemplo a
+26:13
+[Música] verar bien x cu -
+26:18
+8x - 9 por ejemplo no la forma de hacer cuado Perfecto es
+26:26
+nosotros vamos a sumar una cosa que es el B entre do al
+26:34
+cuadrado y lo vamos a subir sumar acuérdense si sumamos en un lado en matemáticas tenemos que hacerlo del otro
+26:41
+verdad lo que hacemos de un lado lo tenemos que hacer del otro que este es b b acuérdense de la fórmula de la
+26:49
+ecuación bueno de las funciones cuadráticas no que es AX cu + BX + c
+26:56
+este B está multiplicando x alguien me quiere decir cuánto vale B en esta
+27:05
+ocasión -8 perfecto -8 verdad Muy bien
+27:11
+Entonces esto es -8 2 al cuadrado verdad Qué nos da -8 2 Pues nos da -4 al
+27:19
+cuadrado nos da 16 verdad Entonces eso quiere decir que tenemos que sumar de cada lado 16 vamos a hacerlo x cu - 8x -
+27:30
+9 y sumamos en ambos lados + 16 bueno está el 0 + 16 verdad Muy bien y bueno
+27:38
+es 16 lo pasamos del otro lado
+27:44
+verdad sí chavos no perdón ese 16 no perdón me confundí el -9 esta parte del
+27:52
+-9 lo pasamos de este lado está restando Cómo pasa del otro otro
+27:59
+lado alguien sumando sumando sumando x cu -
+28:08
+8x se quedó con el + 16 y del otro lado se quedó 16 + 9 muy bien aquí ya esto ya
+28:16
+es un trinomio cuadrado perfecto aquí esto es sacarle raíz cuadrada a este
+28:22
+agarrar el signo del segundo y sacarle raíz cuadrada a esto vamos a hacerlo
+28:28
+Cuál es la raíz cuadrada de X cuadrada chavos x x muy bien x Cuál es el signo
+28:37
+aquí es el menos verdad Y cuál es la raíz cuadrada de 16
+28:45
+chavos cuatro cuatro Muy bien Entonces esto es como si estuviera
+28:52
+así bueno Cuánto es 16 + 9 es 25 No sí 25 muy bien
+28:59
+Okay cómo despejamos esto Cómo cómo quitamos la más bien el cuadrado cómo lo
+29:06
+quitamos pasa como raíz cuadrada muy bien Eso pasa como raíz cuadrada Entonces tenemos x - 4 es igual a raíz
+29:14
+cuadrada de 25 Cuál es la raíz cuadrada de 25 chavos c es 5 y men 5 verdad son
+29:22
+las dos Entonces vamos a tener por ejemplo bueno -4 es igual a má - 5 esto
+29:29
+por qu chavos miren Acuérdense que los está muy bien que 5 cuad es 25 verdad
+29:34
+Pero también si tenemos -5 cuad es como multiplicar -5 por -5 acuérdense leyes
+29:43
+de los signos menos por menos nos da más 5 * 5 nos da 25 verdad entonces son los
+29:50
+dos entonces para obtener x1 y x2 no x1 va a ser por ejemplo cuando valga 5
+29:57
+positivo este -4 está restando Cómo pasa del otro
+30:03
+lado manos muy bien sumando y x2 verdad
+30:08
+de el 5 verdad este es menos acuérdense que ahora es con el menos igual pasa el
+30:14
++ 4 y aquí nos va a dar que x1 es = a 9 y nos va a dar que x2 es igual a -1 no
+30:22
+Okay Ese es el tercer método de completando trinomios cu dados perfectos
+30:28
+no Okay luego vamos a ver un poco más de ejercicios de esto pero el punto es que aprendamos que existen tres métodos para
+30:34
+resolver má Así que una
+30:41
+este una función cuadrática No sí Ah una
+30:46
+pregunta usted cuál considera que es como el método más rápido o más como Exacto porque luego pasa de que en
+30:54
+algunos casos por ejemplo en la fórmula general Pues sí llegan a dar números
+31:00
+imaginarios mira en los tres te debe dar el mismo resultado porque sigue siendo
+31:05
+la misma función la fórmula general es muy útil cuando tú tienes como
+31:11
+computadoras no es muy útil la fórmula general porque pues como su nombre lo dice es una fórmula no Entonces por
+31:17
+ejemplo si tú lo estás programando la fórmula general Pues bas que es la manera más fácil no de tenerlo la
+31:23
+fórmula general se usa mucho porque no hay pierde O sea sí como te dice o sea
+31:29
+te puede dar números raros pero en las otras igual te daría lo que se ve bonito de la factorización y trinomio cuadrado
+31:34
+perfecto Es que te buscan casos donde se vean bonitos no O sea donde las soluciones son como estas exactas este
+31:42
+no imaginarias y bonitas pero realmente los tres métodos te deben de dar lo
+31:48
+mismo o sea obviamente estos estas dos las de factorización y las de nomio
+31:54
+cuadrado perfecto en los libros y en los en las que haces están hechas a modo no
+31:59
+O sea a modo en el sentido de que te ponen casos sencillos no para que los
+32:04
+practiques Y eso pero bueno la fórmula general a mí me gusta mucho porque se puede programar muy fácil entonces la
+32:11
+fórmula general Bueno o sea me gusta mucho porque es pues más fácil de programar y te digo en en las tres te
+32:18
+debe dar lo mismo nada más que obviamente en la fórmula general te ponen casos más feos porque en la fórmula general llegas porque llegas Si
+32:25
+te dan imaginarios que es lo de el discriminante eso también te daría en las otras no O sea también te daría las
+32:32
+otras ha acordarnos por ejemplo que la mir por ejemplo la raíz cuadrada de
+32:38
+-8 vamos a poner más FC -16 la raíz cuadrada -16 es como si tuviéramos
+32:46
+-1 raíz cuadrada no raíz cuadrada de 16 no y estar multiplicando la raíz
+32:53
+cuadrada de 16 cuánto sería 4 no buo más menos cu realmente pero bueno este y
+33:01
+esto es Alguien sabe cómo se le llama esto I I verdad el número imaginario
+33:09
+verdad Entonces Bueno o sea les digo tecnicamente en las tres les debe de dar lo mismo No es que la fórmula general te
+33:16
+dé imaginarios Solo que las otras están hechas a modo los ejercicios y ejemplos
+33:22
+que te ponen en los libros es porque exactamente saben que te van a dar algo bonito la fórmula general Bueno a mí me
+33:28
+gusta primero porque se puede programar y segundo porque pues es muy directa no
+33:33
+O sea en las otras en las otras se puede complicar un poco a mí me gusta la fórmula general por eso porque se puede
+33:38
+programar más que nada Okay chavos Pero bueno lo que quiero que recuerden es que
+33:44
+las tres les debe de dar lo mismo o sea si les da algo diferente Es que hay algo mal este en alguno de los de los tres
+33:51
+métodos que hicieron porque Bueno o sea sigue siendo la misma función y debe de seguir teniendo las mismas raíces
+33:58
+Okay pues muy bien Vamos a seguir y bueno no sé si se acuerdan que empezamos
+34:04
+a ver un poco lo de despejar lo de el despejar es aislar no
+34:11
+O dejar sola una
+34:20
+variable Okay es el aislar o dejar una sola variable verdad este
+34:27
+por ejemplo Aquí está muy sencillo no x + 3 = 6 Pues el Bueno antes de eso hay
+34:35
+que acordarnos de las inversas chavos miren de sumar Cuál es su operación
+34:44
+inversa de la su restar muy bien restar
+34:49
+verdad Okay vamos a ponerlo Así como nos que han llevado química o sea obviamente
+34:56
+va para los dos dos lados Qué quiere decir cuál es la inversa de la
+35:01
+resta la suma la suma verdad por eso es de que la fecha bueno va para los dos
+35:07
+lados verdad Okay muy bien esas son las inversas bien de
+35:13
+multiplicar Cuál es su inversa divir muy bien lo voy a
+35:20
+[Música] poner okay esto es dividir
+35:27
+no multiplicar dividir Okay de las potencias
+35:33
+radical los radicales no las raíces muy bien voy a poner diferentes
+35:41
+colores para que se [Música]
+35:52
+distingan Okay bien Estas son las que vamos a ver ahorita pero esto de inversas Y eso cuando despejamos no nada
+35:59
+más funciona con estas simples puede ser bien cuando ya empecemos a ver cosas más avanzadas por ejemplo vamos a ver de
+36:06
+cuáles las trigonométricas de las
+36:13
+trigonométricas cuáles son sus inversas Ándale cuáles son sus inversas
+36:21
+chavos pues cada uno tiene una individual no exactamente las inversas
+36:26
+trigonométricas no como tú dices cada un su
+36:32
+este individual verdad por ejemplo de obviamente de coseno del ángulo pues
+36:38
+inversa es coseno inverso verdad sí muy bien así esto es como se o sea para que
+36:44
+vean esto de poder despejar funciona para todo o sea funciona suma resta
+36:50
+multiplicación división potencia raíces la funciona desde lo básico hasta cosas más avanzadas como trigonométricas por
+36:57
+ejemplo de las exponenciales Cuál es la inversa de los exponenciales
+37:03
+logarítmicas logaritmos exactamente muy bien va Okay logarítmicos verdad
+37:13
+logaritmos y miren eso ya cuando veamos lo de universidad en ecuaciones
+37:18
+diferenciales y bueno toda esa partec Okay de la derivada Cuál es su inversa
+37:25
+integral muy bien es la integral verdad lo que quiero que vean chavos es
+37:33
+que colores igual estas todavía dig las que vamos a
+37:39
+ver ahorita son estas no pero bueno Próximamente vamos a ver
+37:44
+las otras lo que quiero que recuerden Es que para
+37:49
+despejar esto de despejar es siempre encontrar la inversa de la función no
+37:56
+para pasarla al otro lado bueno para poder [Música]
+38:05
+despejar okay Bueno punto es que quiero que vayan recordando eso no este O sea ahorita no no tienen que
+38:14
+saber qué es no tienen que así Pero pues al menos que lo vayan viendo que su cerebro lo vaya como empezando a
+38:20
+asimilar un poco puse color este no se nota
+38:33
+mucho miren o sea lo que quiero es que vayan viendo eso que estas son las inversas Así es como se despeja verdad
+38:42
+también miren vamos a seguirle un poco no el orden de miren si se acuerdan el
+38:49
+orden de aplicación el número uno era el paréntesis y los corchetes no
+38:57
+el número dos es exponentes y raíces Bueno aquí faltó raíces el número tres verdad es la multiplicación y la
+39:04
+división y el número cuatro era la adición y la sustracción verdad pues
+39:09
+bueno cuando despejemos despejamos es al revés el número uno es la adición y la
+39:15
+sustracción el número dos es la multiplicación y la división el número tres son las exponentes y raíces y hasta
+39:22
+el final son los paréntesis y cetes ándale ándale que FES es al revés chavos no Cuál es el nombre
+39:30
+de esto cuando queremos despejar dijo cuando tú quieres despejar se pone Este
+39:37
+es el orden de aplicación Esta es la jerarquía de aplicación no la que siempre hemos visto pirámide jerarquía
+39:44
+de aplicación de operaciones si lo quieres poner mi nombre
+39:53
+técnico y el otro es la jerarquía de despeje no que es el
+40:03
+contrario muy bien okay bien Vamos a ver un ejemplo porque
+40:09
+nada más es decirlo Hay que hacerlo okay este a ver déjen a ver si se me ocurre
+40:14
+uno que sea bueno este a ver déjen uno que se me
+40:20
+ocurra que se bueno cu okay
+40:28
+8x [Música] cu 2 x cu más
+40:36
+5 voy a ponerlo más grande por si acaso para que no me vaya dar algo un imaginario Más 25 pues Okay muy bien
+40:45
+entonces este Okay muy bien Vamos a despejar
+40:53
+verdad dijimos que era el orden al revés verdad Entonces primero vamos a tratar de
+40:58
+hacerlo de sumas y restas ent estos por ejemplo acuérdense primero despejar Qué
+41:03
+significa chavos Qué significa despejar dejar sola la variable o a la x
+41:10
+muy bien es dejar sola déjen cargo la apaga
+41:15
+cosa
+41:25
+segundo [Música]
+41:40
+sego muy bien Está
+41:45
+cargando que que Ok Muy bien Bueno vamos a seguir este Sí exactamente lo que
+41:54
+dijeron que es dejar sola la variable de interés no dejar sola o aislar a la
+42:00
+variable de interés en este caso es x no
+42:07
+Ok Muy bien Entonces bien Vamos a hacerlo para despejar quiere decir que
+42:13
+tenemos que pasar todo de un solo lado verdad Entonces 3x cu Ok men bueno como
+42:21
+hay que pasar todo de un solo lado cu y este x cu está del lado
+42:28
+derecho hay que pasarlo al lado izquierdo Cómo se pasa
+42:33
+chavos suando porque está restando sumando verdad porque está restando ent pasa como má 2x cu verdad OK Y ese -4
+42:43
+pasa como 4 verdad 4 + 25 por ejemplo no OK ahora vamos a hacer todo de este
+42:51
+lado no esto no vamos a simplificar Cuánto es 3x cu + 8x cu + 2x
+43:01
+cu 13x cu perfecto 3x cu verdad y bueno
+43:06
+del otro lado 4 + 25 cuánto nos da 29 29
+43:12
+verdad y aquí ahora sí primero hicimos las sumas si se dan cuenta no y restas
+43:19
+ahora sigue qué lo de las multiplicaciones o divisiones este 3
+43:24
+está multiplicando a cuadrada verdad Cómo pasa del otro
+43:30
+lado dividiendo diendo dividiendo verdad 29
+43:35
+13 Y por último las raíces verdad Bueno potencias este está x cuadrada Cómo pasa
+43:44
+el cuadrado del otro
+43:49
+lado como raíz cuadrada muy bien como raíz cuadrada verdad es igual a raíz
+43:56
+cuadrada de 29 muy bien a ver y Qué hubiera pasado
+44:02
+si esto en vez de X cuadrada si todo hubiera
+44:09
+sido x a la 4 X a la 4 X a la
+44:23
+4 qué es lo que bueno qué es lo que haría el índice de la raíz sería raíz
+44:31
+cuarta excelente Mónica exactamente como dijiste no lo único que cambiaría sería
+44:37
+el exponente de la raíz verdad Pero sería el mismo proceso Yo nada más para que lo vean para que no les vaya a
+44:43
+ajustar Lo único malo o sea cuando no puedes despejar es cuando tú tienes una
+44:49
+diferente variable o cuando tú tienes este una variable a una diferente
+44:54
+potencia o sea Por ejemplo si tenemos esto ahí ya valió ahí ya no se puede
+45:00
+despejar como lo hacemos ahí ahí ya se tiene que resolver
+45:06
+con los métodos que tenemos no Y aunque no lo crean no hay métodos analíticos para
+45:14
+todas o sea hay hasta potencia 4 5 pero pues hay unas potencias hay ecuaciones
+45:20
+que son hasta la potencia no sé 100 o sea esas ya no se resuelven de manera
+45:25
+analítica por lo general se resuelven con de manera cómo se llama numérica
+45:30
+luego vamos a ver qué significa eso pero se resuelven con programación básicamente se una computadora va
+45:37
+diciendo una respuesta que no es 100% cierta pero pues está muy cerca o sea es
+45:43
+lo suficientemente cerca este de la solución y ya con eso pasa No dig en la
+45:49
+vida real Pues pasas no di es como si te Dean a ti no sé sí los métodos numéricos
+45:54
+exactamente o dig imagínense que si a ustedes les dicen que les van a dar 50,000 Si te dan 50,001 o
+46:03
+49,999 si te los están regalando Pues no te quejas no digo ya o sea es lo suficientemente cerca si te dijeron eso
+46:10
+y te dan eso pues bueno o sea ya con eso confórmate no mhm Newton rapson hay
+46:15
+muchos métodos numéricos muchos este por so miren por ejemplo todo lo de Machine
+46:21
+learning que eso Muchos métodos numéricos con estadística estadística es mucho de eso estadística es ver porque
+46:28
+hay una frase que me gusta mucho que es cierta todos los métodos bueno perón
+46:33
+todos los modelos están equivocados sin embargo algunos son lo suficientemente útiles
+46:40
+porque es cierto o sea en la vida real muchas fórmulas m en la economía en la
+46:47
+economía en todo aunque tú no lo creas también por ejemplo en ingeniería este los aviones o sea todos todas las cosas
+46:54
+que se hacen tienen un porcentaje de error de fallar O sea sí Hasta los aviones y todo eso podría ser que no es
+47:01
+muy muy bajo o sea obviamente se trata de hacer lo muy bajo como tú dices en economía por ejemplo hoy en día se usa
+47:07
+mucho en los clasificadores no de Machine learning inteligencias artificiales porque no hay una fórmula
+47:13
+exacta sobre todo en el pensamiento de las personas no en el comportam behavioral economics este Economía del
+47:20
+del comportamiento O sea no hay algo que te diga que aunque haga tú todo bien
+47:26
+algo te dé algo o sea te dé algo bien no sé se acuerdan cre que eso aquí que era
+47:32
+lo que les dije que hay dos tipos de procesos hay uno que se llaman
+47:39
+determinísticos y hay otros que se llaman no sé si se acuerdan del otro
+47:45
+buen tiene un nombre muy bombante pero se llaman
+47:50
+estocásticos un proceso determinístico es un proceso que tú por ejemplo le metes a al proceso
+48:02
+determinístico no proceso Bueno más
+48:09
+chico al proceso [Música]
+48:15
+determinístico y siempre siempre Si tú le metes a te va a dar B no se acabó te
+48:23
+va a dar B pero un proceso estocástico es lo que pasa mucho en la
+48:31
+vida tú le puedes meter al o sea el a y el proceso
+48:44
+estocástico te puede dar B te puede dar c te puede dar d por
+48:53
+ejemplo no pued ser más más menos variables lo que
+49:00
+sea el mismo a te puede dar b c o d y
+49:06
+cada uno de estos tiene un porcentaje de probabilidad No eso es lo que se le
+49:11
+llama como un proceso estocástico eso nada más para que lo sepan lo tengan en mente un poco En probabilidad
+49:18
+estadística usa en mercados de valores verdad el estatístico Sí en mercados de
+49:24
+valores hasta la física misma hay una o sea se usan muchas cosas es lo bueno de aprender matemáticas y aprender todas
+49:30
+estas cosas de programación Y eso es que se usan en muchas cosas de la vida se usa exactamente en los mercados de
+49:35
+valores en lo que dije en lo de economía del comportamiento Si una persona porque por ejemplo es como las elecciones miren
+49:42
+también se usa en política o sea el el bueno el diputado el que quieran el
+49:48
+político a puede hacer todo bien y aún así puede perder o es como ustedes hacer
+49:53
+un examen ustedes pueden estudiar mucho y aún así pueden reprobar digo o sea es es una probabilidad baja a lo mejor lo
+50:00
+que se trata de hacer es que la probabilidad de lo malo sea lo más bajo pero aún existe digo o sea es como un
+50:07
+equipo de fútbol no o sea puede ser que el Real Madrid el Manchester City un equipo así fuerte no este juegue contra
+50:14
+un equipo de Tercera División de no sé de India o de algún país así de Pakistán y puese que pierdan digo sigue sigue
+50:20
+existiendo la probabilidad es baja no Pero existe es Esos son los procesos
+50:26
+estocásticos no partidos de fútbol mercado de valores hasta misma física hay una parte de física que se
+50:33
+llama mecánica estadística no Y la parte de cuántica y todo eso o sea son probabilidades no no hay algo
+50:39
+determinado hay procesos determinísticos como es por ejemplo las leyes de Newton una cosa así etcétera este y hay otros
+50:48
+que son estocásticos Okay pues bueno básicamente eso es lo que quería decir
+50:54
+un poco de esto que un poco pero bueno vamos a seguir acuérdense que también
+50:59
+habíamos visto un poco no de las ecuaciones lineales las ecuaciones lineales verdad
+51:06
+pues estas son muy sencillas estas nada más es despejar como aquí Bueno aquí ya lo habíamos hecho no qué nos daba que x
+51:12
+es = a 3 y aquí hay algo interesante
+51:17
+puede haber sistemas de ecuaciones lineales un sistema de ecuaciones
+51:24
+lineales sistema de es cuando tenemos Bueno un sistema de
+51:29
+ecuaciones así antes de empezar con los lineales es cuando tenemos más variables x y z las que ustedes quieran no y sus
+51:38
+soluciones de estos sistemas de ecuaciones si es que existen es en los puntos en los que alguien
+51:46
+sabe en los que qué intersectan los dos ees
+51:53
+exactamente muy bien uno en donde se interceptan las dos funciones verdad en
+51:58
+este caso es lineal son dos lineales entonces este sería un sistema de ecuaciones lineales de dos variables no
+52:06
+Pero puede ser de más digo en la vida real bueno bien Vamos a ver un poco
+52:12
+aquí Aquí vamos a ver ahorita dig luego vamos a ver un poco de las otras no sé si nos den en tiempo de todas Pero
+52:18
+ahorita en esta parte de álgebra se ve este el método gráfico el método de
+52:24
+sustitución el método de eliminación o adición y el método de igualación las
+52:30
+otras son más de álgebra lineal Miren la verdad es que estas cuatro se ven para
+52:36
+que ustedes sepan y entiendan y todo eso estas Por ejemplo Miren el método
+52:42
+gráfico vamos a verlo rápido Bueno antes de de hacerlo en desmos el método
+52:47
+gráfico es como lo que se ve aquí Ah lo vamos a hacer en desm para que se vea más bonito pero es donde chocan O sea tú
+52:52
+trazas las dos funciones y te fijas en el punto en el que choquen Ese es el
+52:58
+método gráfico Obviamente con graficadores como hoy en día es más fácil no antes era la antigüita Bueno yo
+53:05
+me acuerdoa en Secundaria sí me dijeron este Bueno yo creo que lo siguen haciendo que lo hagas
+53:12
+este Pero me acuerdo en Secundaria Bueno si había graficadores en ese no es hace
+53:17
+tanto o sea fue hace 10 años un poco pero bueno al menos
+53:23
+en mi secundaria me acuerdo que sí nos hacía de que dibujar las dos no y ahí ir
+53:28
+viendo en dónde chocaba no Okay muy bien entonces este Ese es el método gráfico
+53:35
+el método de sustitución se usa mucho en física bueno Cuando vean física la parte
+53:41
+de estática que es la parte que usan mucho los ingenieros civiles etcétera se usa para resolver problemas de estática
+53:48
+de eliminación o adición luego vamos a ver el punto es que les quería decir las otras que vamos a ver estas de cómo se
+53:55
+llama todas las demás todas estas se ven en algeb lineal y muchas de estas en
+54:02
+algeb lineal se ven porque Bueno necesitamos saber que son matrices No necesitamos saber que son vectores y
+54:08
+todo esto porque en la vida real chavos estos primeros cuatro métodos no son tan
+54:15
+útiles para la vida real porque en la vida real hay problemas con sistemas de
+54:20
+ecuaciones de hasta 500 800 100 variables
+54:25
+entonces la manera de fácil bueno no fácil pero al menos de hacerlo es usando
+54:32
+este métodos de álgebra lineal esto se hace con la computadora
+54:37
+porque digo una matriz de 1000 por 1000 pues no la vas a estar haciendo tú entonces lo metes en la computadora y
+54:43
+hay algoritmos que ayudan a hacer eso pero igual vamos a ver estos cuatro
+54:49
+no bueno no ahorita yo creo que no nos da tiempo pero vamos a verlos no que son
+54:54
+el método gráfico el método de sustitución el método de sustitución lo
+55:01
+había puesto en otra clase dé voy copiar y [Música]
+55:16
+pegar as [Música]
+55:22
+bien muy bien
+55:29
+Okay miren aquí lo que dice dibuja o con
+55:34
+un graficador como hoy en día no lo hag un poco más [Música]
+55:46
+bonito donde choquen ambas líneas no O sea ahorita como lo vimos no en desmos o
+55:53
+en algo así podemos poner dos funciones lineales y donde choquen es nuestra
+55:59
+solución Bueno luego yo creo que la mañana este vamos a ver que hay funciones que No necesariamente tienen
+56:06
+una solución un sistema de ecuaciones por ejemplo una forma rápido de verlo es
+56:11
+así Qué pasa si tenemos dos líneas paralelas algún día
+56:20
+se van a chocar no no Verdad Entonces ese sistema de ecuaciones no tiene
+56:25
+solución entonces Bueno vamos a ver varios casos de esto pero bueno nada más para que lo vayan viendo este Así es
+56:32
+gráficamente como dice aquí miren este despejar una de las dos variables bueno
+56:39
+para institución una de las dos variables Bueno si son más más y lo vamos haciendo para cada una pero aquí
+56:45
+por ejemplo para dos de Okay de dos variables y y sustituirla en la otra
+56:51
+ecuación encontramos la solución y sustituimos en la otra
+57:11
+ecuación [Música]
+57:22
+Okay Okay no muy bien este método de eliminación o
+57:28
+adición también se le llama como suma o resta no yo creo que eso lo vieron un
+57:33
+poco en Secundaria y el método de igualación no es este es muy parecido al
+57:39
+de sustitución luego lo vamos a ver con un poco más de detalle nada más quiero que vean Así que eso es lo que estaremos
+57:45
+viendo mañana y bueno desplazamiento de funciones y un poco más porque digo esto
+57:51
+y otras cosillas ya para tratar de si no no lo terminamos mañana al menos casi
+57:56
+terminar todo la parte de algb Okay chavos no sé si tengan alguna pregunta
+58:03
+antes de terminar todo muy bien
+58:08
+profe okay La que sea digo a tienen
+58:14
+tiempo alguna ingeniero yo sí tengo una duda este las grabaciones del recall
+58:20
+también las va a subir así como videos o van a o dónde dónde aparecería sí sí sí nada más que acuérdense que se la subo
+58:26
+los sábados para que lo tengan el fin de semana este igual mañana hay discussion si quieren que va a ser muy parecido al
+58:32
+recol pero sí sí sí eso que la subo hasta el fin de semana pero sí ahí también pues
+58:40
+por eso grabo todas las clases no para que ahí las vayan viendo en el rec si lo van a ver grabado lo que yo les digo es
+58:47
+que pues antes de ver la solución de sus compañeros o lo que sea pues inténtenlo
+58:52
+hacer ustedes noos los el archivo del recall creo que ya está arriba según yo
+58:58
+sí intenten ustedes hacer los ejercicios porque digo esto O sea yo hacerlo lo puedo hacer Está muy bonito pero pues el
+59:06
+punto es que ustedes practiquen
+59:12
+no Okay pues acuérdate Rafa que o sea la parte de universidad que es lo de
+59:19
+cálculo empezamos como la siguiente semana terminamos todo lo de prepa es
+59:25
+sería después de la esta o sea bueno si quieres una fecha más o menos digo puede ser que nos tardemos dos tres días más
+59:30
+depende de cómo avancemos Pues si quieres una fecha más o menos Ponle que como por el 12 de julio ya vamos a
+59:37
+empezar con lo de este mate de
+59:42
+universidad Pues bueno es lo mismo mira o sea el cálculo el cálculo de Prepa y el cálculo de universidad nada más es
+59:48
+que el cálculo de prepa les ponen ejemplos más sencillos más bonitos y un poquito de menos temas pero la verdad es
+59:55
+que en mate en universidad vuelves a verlo muchas cosas de lo mismo nada más
+1:00:01
+ya con un poco de problemas más difíciles con aplicaciones y un poco más
+1:00:06
+de temas como series y cosas así okay Muy bien pues vamos a empezar y sí
+1:00:14
+digo acuérdense que este curso sea empezamos con lo de pero vamos a terminar con cosas de universidad medio
+1:00:19
+avanzadas como es lo de probabilidad estadística como es lo de argeb alineal
+1:00:25
+este y bueno acuérdense que al final vamos a ver cómo se aplica un poco a
+1:00:31
+Excel a finanzas y negocios Ok chavos pues Bueno nos vemos y cuídense
+1:00:39
+mucho gracias

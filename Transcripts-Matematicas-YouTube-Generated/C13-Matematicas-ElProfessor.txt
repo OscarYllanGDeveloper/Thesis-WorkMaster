@@ -1,0 +1,826 @@
+0:02
+okay Bueno acuérdense de todo lo que vimos ayer vamos a dar un
+0:07
+repaso para Bueno antes de empezar de nuevo acuérdense que vamos a estar viendo lo que es cálculo diferencial
+0:14
+este vamos estar viendo cálculo integral AC las dos primeras matemáticas que vemos en universidad este muy bien
+0:22
+cálculo diferencial chavos antes de eso AC queos un repaso que habíamos visto
+0:27
+anteriormente como suma resta multiplicación división en aritmética jerarquía de signos propiedad
+0:33
+distributiva leyes de los signos leyes de los exponentes no también vimos en
+0:38
+álgebra pues todas las operaciones algebraicas despejar función lineal función cuadrática y bueno vimos en
+0:45
+precálculo exponenciales funciones exponenciales acuérdense que tiene una base y la incógnita o la x está en el
+0:52
+exponente tenemos la logarítmicas que acuérdense que son inversas verdad Muy bien propiedades de los logaritmos
+1:00
+ecuaciones acuérdense que dijimos que para nosotros poder despejar tenemos que aplicar la inversa de las funciones no
+1:07
+acuérdense que de logaritmo su inversa Cuál es a ver la inversa de logaritmo cuál es
+1:14
+chavos siempre que tenerlo bien presente Cuál es la inversa de
+1:22
+logaritmo vamos chavos Cuál es la
+1:28
+inversa el exponente no sería el exponente chavos acuérdense
+1:33
+que este logaritmos así la por ejemplo de la derivada su inversa es la integral
+1:40
+verdad de la multiplicación la división de las funciones trigonométricas pu sus funciones trigonométricas inversas
+1:47
+etcétera muy bien este bueno acuérdense que dijimos que diferencial es lo que se
+1:53
+le conoce como un cambio infinitesimal Okay muy bien un cambio
+1:59
+infinitesimal lo dice infinitamente pequeño O sea que tiende a cero el
+2:06
+cambio muy bien chavos pues esto digo es Lógico es obvio pero es muy importante y
+2:12
+que lo tengamos bien presente porque la verdad es que esto se aplica en todo
+2:17
+cálculo muy bien el concepto de la función acuérdense que dijimos lo que
+2:23
+era El dominio el rango El dominio qué era chavos alguien que me diga
+2:32
+El
+2:38
+dominio bueno acuérdense que El dominio es todos los valores que x puede tomar y
+2:48
+el rango todos los valores que y puede tomar muy bien Vamos a seguirle El dominio y el rango acu que vimos ayer en
+2:58
+desun iones y teníamos que caracterizar su dominio y su Rango no más de verlos
+3:04
+no como el de coseno su dominio era de menos infinito a infinito o sea todos los números reales pero su Rango era de
+3:11
+-1 a 1 verdad porque acuérdense que las funciones trigonométricas hacen esto y
+3:17
+van de menos un a uno a menos que se multipliquen por algo o se resten o etcétera ahí tendríamos que analizarlo
+3:23
+muy bien okay acuérdense que vios también lo de los límites no
+3:30
+los límites acuérdense chavos que vimos que es irnos acercando de por izquierda
+3:36
+por la derecha un número c no y este número c sustituido en la función nos da
+3:43
+el límite l Esto es lo que es un límite no que se lee esto el límite de x cuando
+3:52
+tiende a c de F dex es igual al límite l
+4:01
+no muy bien así es como se
+4:06
+le y miren vimos algunas propiedades de los límites vimos estas cinco vamos a
+4:13
+ponerlas en verde para identificarlas en un cuadro abo
+4:22
+vamos dice límite de x cuando tiende a un número k de una constante acuérdense
+4:27
+que dijimos que los es casi en muchas funciones como substituir Qué quiere
+4:34
+decir aquí por ejemplo en la explicación dijimos no que el límite de x cuando tiende a 2 del si de la función
+4:42
+constante 7 que es como siamos la función constante 7 no Y la sustituyamos
+4:47
+aquí es irnos acercando izquierda derecha izquierda derecha izquierda
+4:53
+derecha hasta llegar a este punto chavos a este punto en este punto cuánto vale
+4:59
+nuest esta función pues siete verdad Qué es aquí lo que dice el límite de x cuando tiende acá de una función
+5:06
+constante es igual a la constante muy bien muy
+5:14
+sencillo Okay número dos que es como el número tres en el sentido de
+5:24
+[Música] que
+5:36
+Okay muy bien el límite de x cuando tiende acá de F dex no básicamente es
+5:44
+sustituir lo que está diciendo es que sustituyamos
+5:53
+no Okay quiere decir que sustituyamos y hagamos esto fdk por ejemplo aquí el límite de x
+6:00
+cuando tiende a 2 x cuadrada es como si fuéramos dos bueno 2 al cuadrado 4 otro ejemplo podría ser imagínense límite de
+6:07
+x cuando tiende a 5 de
+6:14
+X cuart sería como sustituir 5 a la 4 no
+6:19
+Cuánto es 5 a la 4 es 25 por 25 que creo si no estoy mal es
+6:24
+625 básicamente solo se sustituir sería como tener 5 a la 4 no muy
+6:31
+bien otra propiedad de los límites dice que la si una constante está
+6:37
+multiplicando a la función dentro del límite nosotros podemos sacar a la constante multiplicando del límite no
+6:44
+podemos sacar a la constante de Límite es lo que nos dice esto okay muy
+6:53
+bien esta es aplicar propiedad distributiva en la suma muy bien aquí
+7:00
+hay varias vamos a seguir viéndolas que
+7:05
+miren otras propiedades de los límites van a ser las
+7:12
+siguientes por ejemplo la propiedad número 6 de los límites nos dice lo siguiente
+7:20
+es lo mismo que la de la suma que dice que el límite de x cuando tiende acá
+7:26
+de tienes una resta F dex - GX es igual al límite de x cuando
+7:35
+tiende acá de F dex
+7:48
+menos el límite de x cuando tiende acá
+7:55
+de GX no chavos es aplicar propiedad distributiva
+8:01
+igual como era en la suma ahora es en la
+8:08
+resta vamos a ponerlo [Música]
+8:17
+azul okay el número siete es aplicar la misma
+8:25
+propiedad distributiva pero en la multiplicación este resto es la
+8:32
+multiplicación límite de x cuando tiende acá no de tenemos multiplicadas F dex
+8:42
+por G dex lo cual es igual al límite de
+8:50
+x cuando tiende acá de F dex por el límite de x cuando tiende acá
+9:01
+de GX básicamente es lo que nos está queriendo decir es aplicar propiedad
+9:08
+distributiva vamos a hacer o no
+9:14
+Okay el o será la división límite de x cuando tiende acá de una división de F
+9:23
+dex ent GX
+9:32
+es igual al límite de x cuando tiende
+9:38
+acá de F
+9:44
+dex al límite de x cuando tiende
+9:51
+acá de
+9:56
+GX Okay pues muy bien chavos básicamente es aplicar propiedad distributiva en
+10:01
+suma resta multiplicación y división nada más elevado que
+10:28
+es
+10:34
+muy bien Pues así es chavos es no bien Vamos a
+10:52
+ver muy bien Pues bueno estas son chavos las propiedades no de este de los
+10:59
+límites verdad que tenemos algunas nos faltan
+11:05
+unas dos o tres más no se preocupen las vamos a volver a ver un poco Okay muy
+11:10
+bien Y pues así chavos no Estos son las de los límites habíamos visto un ejemplo
+11:16
+ayer por ejemplo que el límite de x + 4 acuérdense que la propiedad distributiva
+11:22
+es igual a límite de x cuando tiende a 2 x más el límite de 4 cuando bueno de x
+11:27
+cuando tiende a 2 de 4 verdad dijimos que esto pues se queda igual Verdad que es 4 y este se sustituye que es 2 nos
+11:34
+queda que 2 + 4 es igual a 6 otra por ejemplo con las nuevas que hemos visto
+11:39
+vamos a hacer bien límite de que quieren
+11:46
+este no sé 8x
+11:53
+por el límite de x cuando tiende a 10 por ejemplo de 8x logaritmo multiplicado
+12:01
+por logaritmo base 10 de X no
+12:07
+okay Bueno a lo mejor logaritmo es más elevado vamos a poner otra cosa qué
+12:13
+puede ser Ah no sé H podría ser coseno de
+12:22
+X Ya vamos a poner la p entonces para que nos vea algo bonito okay
+12:29
+límite de x cuando tiende a pi de esta multiplicación dijimos que era serc el límite de ambas no de x cuando tiende a
+12:38
+pi de 8 de X por límite de x cuando tiende a pi de
+12:49
+coseno de X no Okay muy bien esto sería el límite de x cuando tiende acuérdense
+12:56
+que el oo otra propiedad acuérdense que que la constante sale verdad Entonces sería 8 * límite de x cuando tiende a pi
+13:07
+no muy bien de X por el límite de x
+13:14
+cuando tiende a pi de coseno de X ha coseno p me adelante de coseno de X no
+13:23
+[Música] este muy feo Okay muy bien
+13:31
+Okay entonces aquí pues es sencillo chavos 8 por límite de x cuando tiende a
+13:37
+pi va a ser pi 8 pi multiplicado por coseno de bueno x cuando tiende a pi
+13:44
+sería coseno de X coseno de pi es -1 o sea esto por -1 nos terminaría dando -8
+13:52
+pi es tan sencillo como eso chavos muy bien
+14:00
+qué más chavos Bueno vamos a seguirle acuérdense que vimos un poco de
+14:08
+las derivadas no vimos que la derivada era qué
+14:18
+chavos vimos que la derivada no era la pendiente acuérdense que vimos que este
+14:24
+FX + H que el H es el diferencial O sea no la diferencial pero la diferencia en
+14:31
+la el cambio de x2 - x1 verdad se vuelve diferencial cuando le
+14:38
+aplicamos el límite cuando x Bueno cuando h tiende a cer cuando el cambio en x tiende a cer hacemos tan pequeñito
+14:46
+tan pequeñito que ahí podemos encontrar la este la pendiente en cualquier punto No
+14:53
+casi de que le estamos aplicando Punto por punto entonces podemos encontrar la pendiente esto es muy conveniente cuando
+14:59
+la pendiente cambia no porque es muy fácil por ejemplo cuando es una función lineal que es una constante Ya lo
+15:05
+habíamos dicho pero cuando cambia como x cuada x cúbica o lo que sea que sea
+15:11
+diferente a la constante o a la x sí tenemos Ah sí que complicaciones y cómo se hace aplicando el límite verdad para
+15:18
+poder sacar la pendiente que es la derivada Okay muy bien acuérdense que dijimos que el d dy y dx significan
+15:26
+diferencial y diferencial x Y qué habíamos dicho del diferencial que significa un cambio
+15:33
+infinitesimal infinito y decimal o sea infinitamente pequeño o sea cuando
+15:38
+tiende a cero todo eso nos lo está diciendo aquí esta formulita digo es muy sencillo este muy
+15:45
+bien acuérdense que dijimos que este era y2 verdad por qué porque acuérdense que
+15:51
+esto F dex Bueno Este es como si fuera x1 verdad Entonces F de x1 es igual a y1
+15:58
+Verdad que es esto muy bien obvio lógico y el H acuérdense que dijimos que nosotros queríamos sacar por ejemplo el
+16:05
+x2 es como si nosotros hiciéramos esto x2 pues despejando es H +
+16:14
+x1 es obvio no h + x1 o sea x1 + H es x2
+16:21
+sustituyendo x2 aquí o sea en vez de esto que pemos x2 pues sabemos que x2 en
+16:26
+la funciones y2 verdad Entonces esto es y2 - y1 entre el cambio de x2 - x1 que
+16:34
+si recordamos esto es la pendiente solo es la pendiente cuando el límite cuando esto se tiende a cero verdad Muy bien
+16:41
+chavos eso básicamente es lo que es la
+16:46
+derivada Okay acuérdense que vios un poco que tenía funciones como optimización que era derivar la función
+16:53
+igualar a cero resolver muy bien
+16:59
+vimos algunas propiedades básicas vamos a seguir con esto Esto es muy importante okay Bueno eso ya lo vimos
+17:06
+ahora vamos a ver las siguientes acuérdense que por algo por una razón vimos muchísimo lo que es todo lo de
+17:16
+este acuérdense mejor aquí aquí mismo bien por una razón vimos
+17:23
+todo lo de la aritmética vimos todo lo de las leyes de los exponentes les dije que lo íbamos a seguir usando en en
+17:31
+cálculo no muy bien si lo seguimos usando en cálculo A qué voy acuérdense
+17:37
+que dijimos esto que la derivada de una
+17:44
+potencia x a la n era igual a la potencia multiplicada a XN - 1 Nosotros
+17:53
+sabemos que cualquier bueno que acuérdense que miren
+18:00
+x a la 1 cu4 Qué es chavos Cómo se
+18:06
+escribe en raíz
+18:15
+alguien vamos chavos Cómo se
+18:21
+escribe raíz cuarta verdad sí o no chavos muy bien entonces Esto si es x a
+18:30
+la 1 ent n verdad si le aplicamos la derivada pues la lógica que nos
+18:37
+dice muy bien la lógica nos dice lo siguiente verdad que esto la Bueno nos
+18:45
+dice que el exponente pasa multiplicando entonces sería todo el exponente es un
+18:52
+ent n por x a la 1 n - 1 que si hacemos
+19:01
+la est es 1 n Por qué nos daría esto acuérdense operación por eso vimos todo
+19:07
+lo de aritmética esto es una resta de fracciones que nos queda 1 - n entre n Y
+19:17
+qué habíamos dicho chavos vamos a regresarnos a aritmética que habíamos dicho que la
+19:24
+parte de El exponente que es el numerador es la potencia y esta es la
+19:30
+raíz o sea tenemos 1 enn por no
+19:36
+x elevado a la 1 - n raíz
+19:43
+cuadrada d n verdad que esto bueno se vería como estamos viéndolo
+19:50
+aquí se iría abajo no y se vería de la siguiente manera
+19:58
+1 ent n raíz n
+20:06
+de XN - 1 sí o no
+20:14
+chavos Okay muy
+20:20
+bien así es como se ve por eso les decía esto es muy
+20:25
+importante lo de aritmética lo de ley exponentes porque miren ya es cálculo y lo seguimos viendo o sea no no le
+20:33
+cambiamos seguimos viendo las mismas cosas que vimos en aritmética lo estamos viendo ahora en cálculo muy bien Ahora
+20:41
+vamos a ver algunas de las funciones no importantes por ejemplo
+20:46
+derivadas de
+20:56
+exponenciales una una que bueno no sé si han visto por ejemplo memes o eso que
+21:02
+ponen la derivada de edx la derivada de e
+21:08
+dex es igual a qué AX no cambia no sé si han visto esos
+21:15
+memes que ponen de que ay yo lo voy a cambiar una cosa así de que la derivada
+21:20
+y ponen de que el novio o la novia lo que sea este e dex verdad O sea pues Por
+21:26
+más que lo derives lo puedes derivar 100 ve y pues te va a seguir saliendo e dex no
+21:32
+no cambia muy bien Ahora vamos a hacerlo más general este viene de esta cosa que
+21:39
+es más general bien aquí está la fórmula yo no se la estoy mitiendo derivada de a
+21:45
+dex a es cualquier base Entonces vamos a hacerlo derivada de AX lo
+21:52
+pongo derivada de AX es igual a qué chavos Y decía que era Y decía que es a
+22:03
+la x por logaritmo natural de
+22:08
+a que Es lógico miren chavos aquí está la explicación este edx Esta es la
+22:15
+general esta Aplica para cualquier base vamos a aplicarla en edx Por qué Porque
+22:22
+miren d dx d e a la x Cuál es su base
+22:28
+chavos Aquí de este exponencial de este exponencial Cuál es su
+22:35
+base Cuál es
+22:43
+chavos es c no Okay lo que nos dice la fórmula que va a ser la base elevada a
+22:50
+la X por el logaritmo natural de la base es e a ver chavos díganme cuánto da el
+22:59
+logaritmo natural de e chavos esto es como acuérdense que el
+23:06
+logaritmo natural es logaritmo base e de e cuánto da el logaritmo base muy bien
+23:12
+uno verdad Entonces técnicamente esto es como si estuviéramos multiplicando e a
+23:17
+la x por 1 entonces es por eso que esta Sí está bien Por eso no se pone obviamente porque en matemáticas no
+23:23
+ponemos el por uno verdad entonces bueno Esto está correcto
+23:29
+la derivada de los exponenciales ahora vamos a sacar las derivadas de los
+23:49
+logaritmos Okay derivadas de los logaritmos voy a poner estas verde para
+23:56
+se son las
+24:05
+fórmulas Okay miren podemos tener la derivada del logaritmo
+24:15
+natural del logaritmo natural de X no lo
+24:21
+cual nos da según la fórmula es 1 / x
+24:33
+1 ent x No aquí está la Tab Para que vean que no estoy
+24:43
+mintiendo sí chavos Pues muy bien la derivada verdad del logaritmo natural de
+24:50
+x ig 1 x y la más general que es la bueno logaritmo de cualquier
+24:56
+base logaritmo AX OK Vamos a sacar derivada del
+25:05
+logaritmo natural no no logaritmo natural del
+25:11
+logaritmo de la base a de X es igual a qué dijimos vamos a
+25:19
+verlo vamos a verlo de nuevo dice X por logaritmo natural de la base x por lmo
+25:28
+natural de la base a lo cual es obvio chavos por eso también la de arriba
+25:34
+logaritmo natural de X derivada es 1 a la x Por qué vamos a hacerlo derivada no
+25:40
+de la general que esto es acuérdense logaritmo base
+25:45
+e x no Ok nos dice la fórmula que es 1
+25:53
+entre x por logaritmo natural bueno
+25:58
+logaritmo natural de la base que la base es e logaritmo natural de e cuánto nos
+26:04
+da ya habíamos dicho que logaritmo natural de e es 1 verdad Entonces esto es comoas 1 ent x por 1 lo cual solo se
+26:12
+pone como 1 ent x verdad aquí está la explicación de porque este derivada de
+26:17
+logaritmo natural solo es 1 x ese número exactamente tiene muchas cosas que ver con cálculo tanto diferencial e integral
+26:25
+es por eso que existe el número de Okay luego vamos a ver a lo mejor un
+26:30
+poco de la demostración de Por qué es todos estos si tienen demostraciones digo no en la vida real no es importante
+26:36
+que se las aprendan dig nada más para que lo vean si quieren Este pero realmente en la vida real lo que ustedes
+26:42
+tienen que aprender es si pueden memorizar selas que bien sobre todo para matemáticas porque matemáticas Seguro sí
+26:48
+se las van a pedir en los exámenes Pero en la vida real es más que ustedes vean
+26:54
+la Table y sepan aplicarla no o se ya en ingeniería en física en química en
+27:00
+economía etcétera es que ustedes sepan aplicar las fórmulas pero sí en sus
+27:06
+clases de matemáticas seguramente les van a pedir que se las machetean y que se las memoricen algunas Okay muy
+27:17
+bien Ahora vamos a ver las derivadas Ya vimos acuérdense que todo esto era
+27:23
+precálculo ya habíamos visto de las polinomiales que las de las de Raíces que también es las de
+27:30
+potencias aplicando las propiedades de los este de los exponentes ahora chavos
+27:37
+vimos también lo que era de precálculo exponenciales y logaritmos no qué nos
+27:44
+falta Pues todo trigonometría verdad hay derivadas de las funciones
+27:49
+trigonométricas muy
+27:56
+bien
+28:18
+derivadas de funciones trigonométricas
+28:23
+chavos Okay algunas funciones métricas miren
+28:28
+vamos a ponerlas derivada del seno de
+28:36
+X es igual al seno de
+28:41
+X la derivada de
+28:46
+el coseno de X igual al men seno de
+28:53
+x y la derivada
+28:59
+de de la tangente de X miren chavos la
+29:04
+explicación la demostración la podríamos hacer si nos tendríamos que adelantar y tendríamos que ver lo que es la regga de
+29:13
+cocientes que está aquí al
+29:24
+lado la regla del producto y la reg del cociente mir Esta es la regga del
+29:30
+cociente tendríamos que aplicar esta para poder demostrar la de la tangente
+29:35
+porque Bueno mir aquí está la rega del cociente vamos a ver pronto Luego hasta
+29:43
+que volvamos a ver eso podamos hacer porque acuérdense que la tangente también era igual a qué acuérdense que
+29:50
+esto es como si fuera la tangente es igual al seno de x entre el coseno de X
+29:58
+que si nosotros aplicáramos la regla del cociente Podríamos sacar lo que vamos a sacar Pero bueno hasta que sepamos esto
+30:04
+no nos vamos a adelantar y vamos a ver que en la tabla decía que era igual a 1
+30:11
+entre coseno cuadrado de X Aquí está bien que no est
+30:22
+mintiendo Okay 1 entre coseno cuadrado de X o uno miren ahita vamos a ver La
+30:30
+otra dice 1 entre coseno cuadrado de x y
+30:35
+nos da una segunda opción nos dice que también es igual a 1
+30:42
+más tangente cuadrada de X esto De dónde viene esto miren sí lo podemos ver y sin
+30:48
+adelantarnos vamos a verlo un poco acuerdense que nosotros teníamos la función del
+30:54
+seno del coseno de X y de la tangente de x y tenemos algo que no sé si se
+31:01
+acuerdan pero se le llama recíprocos saben qué es un recíproco
+31:11
+chavos alguien saben que es un recíproco de una función o de un número lo que
+31:20
+sea vamos chavos que es un recíproco bueno es dividir uno entre la
+31:30
+función 1 entre seno de
+31:37
+x 1 entre coseno de
+31:43
+x y 1
+31:50
+entre tangente de X no estos en trigonometría tienen nombres
+31:58
+que se les han asignado que esto es igual a la cosecante de X esto es igual
+32:06
+a la secante de X Y esto es igual a la cotangente de X chavos hay que saber que
+32:14
+estos son recíprocos y no no sus inversas no son sus inversas las
+32:21
+inversas se ponen de una de estas dos formas se ponen por ejemplo no debería
+32:27
+yo lo sé pero se le pone con seno a la men1 de X la manera más correcta es
+32:33
+poner ar de X esto se ponen Pues por las calculadoras hay muchas calculadoras que
+32:40
+están así ahorita si quieren les muestro una Para que vean que estoy mintiendo Estas son las inversas que son muy
+32:45
+diferentes son completa cosas completamente diferentes no Okay bueno
+32:51
+el punto es que si se dan cuenta este ver
+32:57
+voy a volver a poner coseno cuadrado de X es como si tuviéramos
+33:04
+1 entre coseno de X por 1 ent coseno de X este 1 entre coseno de X Qué es
+33:11
+secante entonces secante de X por secante de X sec dicho que era
+33:18
+incorrecta la equivalencia m Es que ayer cuando estábamos haciendo
+33:23
+los ejercicios me dijo que estaba mal sí yí Porque qué les dije que una cosa es la
+33:30
+inversa y otra cosa es el recíproco no o sea esto es una cosa completamente
+33:38
+diferente a las inversas uno es el recíproco y otro es la inversa sí o no
+33:45
+sé cuál era la pregunta sí era esa sí son completamente
+33:52
+diferentes o sea por eso los estoy poniendo uno se le llama recíproco eso
+33:58
+hasta tienen diferente nombre el recíproco es cuando tú tienes el uno entre la función por ejemplo el
+34:05
+recíproco de X cuadrada mir lo voy a poner aquí el recíproco de X cuadrada es
+34:10
+que 1 x cuadrada sin embargo cuál sería su inversa raíz cuadrada de X No si son
+34:19
+completamente diferentes chavos el recíproco es poner uno ent y la función
+34:25
+y esto es la inversa sí son completamente diferentes chavos no sé si se acuerdan Exactamente Bueno
+34:31
+ayer ahorita lo pongo hasta las gráficas son diferentes son completamente diferentes de los recíprocos que de las
+34:39
+inversas ahorita vamos a verlo no se preocupen bueno el punto es que a lo que
+34:45
+iba ahorita les enseño esto un entre coseno de X es igual a la secante
+34:53
+entonces secante bueno secante de x y aquí y tenemos que se está multiplicando
+34:58
+por si misma o sea tendríamos secante cuadrada de X hay una identidad trigonométrica no la vimos Pero hay una
+35:05
+identidad trigonométrica que nos dice que la secante cuadrada de X es igual
+35:10
+a 1 + tangente cuadrada de x o también
+35:16
+es 1 es igual a la secante cuadrada de X menos tangente cuadrada de X Esta es
+35:25
+una identidad trigonométrica qu Por eso digo nada más es para que ustedes sepan
+35:31
+es por eso que en la tabla nos pone cualquiera de estas dos opciones verdad porque estas son iguales son
+35:38
+equivalentes Y eso nada más es para que supieran De dónde viene aquí lo verdad Lo importante es que se aprendan la la
+35:45
+fórmula digo no es luego vamos a ver la demostración acuérdense que la
+35:50
+demostración la vamos a ver cuando veamos la de los cocientes muy bien
+35:59
+Sí pero los recíprocos y las inversas son cosas completamente diferentes bien Vamos a ver en desm para que ustedes
+36:05
+vean que no lo estoy mintiendo
+36:15
+este miren vamos a ver que son cosas completamente diferentes una de otras
+36:22
+vamos a ponerlo
+36:28
+Miren el recíproco de una función por ejemplo sería 1 en
+36:40
+x al cuadrado esto es completamente diferente
+36:49
+a bien de X No si se dan cuenta son cosas completamente
+36:55
+diferentes es como nosotros poner 1 entre coseno de
+37:02
+X bien 1 entre coseno de X es igual a qué habíamos dicho a la
+37:10
+secante Y sí no mir se interlap verde morado verde morado son
+37:18
+lo mismo Esto es lo mismo que esto sin
+37:25
+embargo
+37:32
+vean qué tan diferente es la secante de la del coseno
+37:39
+inverso vean la función la función del coseno inverso por ejemplo solo tiene
+37:45
+este dominio tiene El dominio desde
+37:51
+-1 -1 a 1 y de Rango tiene desde
+38:00
+I hasta cer completamente diferente les
+38:05
+dije que sí efectivamente no se debería de poner por notación así porque
+38:10
+nosotros sabemos que el -1 en muchas funciones es el recíproco yo lo sé pero
+38:15
+se pone porque en las calculadoras está así Otra forma de ponerlo es el ar cosj
+38:21
+ver porque me dejó Miren el ar
+38:31
+si es lo mismo que el coseno inverso Este es el coseno inverso yo lo sé no se
+38:36
+debería de poner así pero pues ya se puso así porque bien Vamos a ver la calculadora si yo saco la
+38:46
+calculadora yo lo sé no debería pero pues bueno ya no vamos a cambiar todas
+38:53
+las calculadoras que hay que lo ponen así
+38:59
+bien lent okay
+39:05
+miren si yo pongo en trigonométricas hasta son diferentes chavos miren
+39:11
+secante coseno inverso miren hasta la secante tiene su propia
+39:17
+inverso Entonces sí son cosas completamente diferentes chavos miren yo
+39:22
+sé no se debería de poner así yo lo sé pero pues bueno así ya está las calculadoras Así que no lo vamos a
+39:29
+cambiar mir Es como si aquí vamos a poner secante inverso se puede Bueno
+39:36
+creo que sí eso que s tenga el
+39:41
+miren son cosas completamente diferentes
+39:49
+chavos digo para que lo vean y no se confundan la secante y la secante
+39:55
+inversa coseno inverso no con la secant son completamente diferentes Miren el
+40:01
+negro Miren el azul y miren el morado Son taas son gráficas completamente
+40:06
+diferentes porque son funciones completamente diferentes Okay muy
+40:13
+bien Bueno vamos a seguir un
+40:20
+poco Okay no perdón chavos d me ponga de nuevo okay muy
+40:30
+bien okay Bueno chavos y para terminar Me gustaría ver la primer bueno esta
+40:38
+esta ya la vimos la de potencias vamos a ver la del producto la
+40:43
+de producto es muy importante y es muy fácil vamos a ver la regla del
+40:52
+producto ya la rega de el producto no nos dice lo
+41:02
+siguiente nos dice que si nosotros
+41:07
+tenemos la derivada de un producto de funciones o
+41:13
+sea F dex multiplicado por GX esto es igual a la derivada de la
+41:22
+primera función o sea de FX
+41:29
+no lo voy poner así para que se vea que esto es la derivada solo de esto
+41:36
+por
+41:42
+GX GX no
+41:47
+más la derivada de
+41:55
+gdx por F
+42:02
+dex sí chavos es bastante sencillo vamos a verlo en un
+42:08
+caso acuérdense en matemáticas es decir juntando lo pasado con el presente
+42:14
+etcétera vamos a hacerlo por ejemplo Qué pasaría si fuera 5x
+42:20
+cu por logaritmo de X nosotros queremos
+42:26
+todo esto sí o no
+42:35
+chavos esto pues es un producto alguien que me diga qué sería F dex alguien que
+42:41
+me diga cuál sería fdx sería 5x cu perfecto Muy bien mir
+42:48
+gracias FX es igual a 5x cu verdad y GX
+42:54
+cuál sería
+42:59
+eso es base 10 no para que lo sepan eso es base 10 Pero cuál sería
+43:09
+gdx cuál sería gdx chavos sería logaritmo de 10 a muy bien logaritmo
+43:18
+base 10 dex perfecto nada más sería sustituir en la fórmula no dice que
+43:24
+vamos a obtener la derivada de FX vamos a ponerlo 5x
+43:31
+cu multiplicado multiplicado por GX Cuánto
+43:42
+es bien ok por GX que dijimos que era logaritmo base 10 dx no muy bien más la
+43:52
+derivada No ahora de GX que dijimos que era logaritmo base 10 de X por F dex que
+44:02
+sería 5x cuadrada muy bien Esto lo voy Aon voy poner AC lo
+44:10
+subo
+44:19
+bien okay miren pues vamos a seguir
+44:24
+Cuánto es la 5x cu bueno acuérdense que las derivadas son límites entonces qu quiere decir que
+44:32
+el 5 la constante sale de la derivada como un límite verdad 5 por tenemos la
+44:39
+derivada de X
+44:45
+cuada mulado por el logaritmo base 10 dx má la derivada del logaritmo base 10x
+44:54
+vamos a las tablas la derivada del logaritmo teníamos aquí de cualquier
+45:01
+base que es 1 ent x por logaritmo natural de a 1 ent x 1 entre x por
+45:11
+logaritmo natural de la base que en este caso es 10 verdad Muy bien y esto se
+45:17
+multiplica por 5x cuadrada verdad Muy bien nos falta ahora aplicar
+45:24
+derivada de esto Cuánto es la derivada de X cuadrada
+45:31
+chavos acuérdense la sería 2x muy bien 2x verdad Viene de
+45:40
+2x acuérdense por acuérdense la regla de los exponentes nos decía que es agarrar
+45:45
+el exponente por x a la n - 1 en este caso era
+45:52
+2x 2 a la-1 lo cual nos queda queda 2 x a la 1 y acuérdense que el X no se bueno
+45:59
+se pone nada más así 2 a la x verdad aquí está toda la explicación para que no nos saltemos ningún paso lo voy a
+46:05
+poner aquí chiquito pero esto es la explicación No muy
+46:11
+bien por logaritmo base 10 de X no muy
+46:17
+bien más bueno 5x cu pasa acá entre x
+46:24
+por logaritmo natural de 10 aquí x y x cuadrada este x se puede ir y
+46:30
+se puede ir el exponente y nos quedaría solo 5x nos va a quedar lo siguiente
+46:37
+chavos 5 * 2x van a sera 10x logaritmo base 10 de X más
+46:46
+qué 5x entre logaritmo
+46:54
+natural a Por qué puse de X era 10 perdón aquí no sé qué hice logaritmo natural de
+47:03
+10 sí chavos y esta sería la respuesta
+47:09
+final voy a poner así voy a poner est acá y voy a copiar y
+47:16
+pegar
+47:24
+esto sí o no
+47:37
+chavos aquí ya aplicamos la regla del producto y ya lo
+47:42
+hicimos bastante sencillo digo no es cosa del otro mundo bastante
+47:52
+sencillo No si tengan alguna pregunta o
+48:05
+duda alguna duda o pregunta chavos digo lo vamos a seguir viendo lo
+48:13
+vamos a seguir repitiendo hasta que nos quede bien claro hasta que lo tengamos bien en el cerebro bien en la
+48:20
+memoria pero s es muy importante que ahí vayan viéndolo vayan repasando vayan
+48:26
+practicando porque les digo lo más importante es que ustedes la habilidad que sí tienen que desarrollar más que
+48:32
+aprendérselas es ver una tabla y saber aplicar una fórmula aquí pues esto son fórmulas
+48:39
+chavos la mayoría de las derivadas pues son fórmulas Entonces nada más es ir ver
+48:45
+qué tienes y ver qué fórmula puedes hacer y no olvidarnos nunca de las
+48:51
+propiedades de aritmética es por eso que nosotros vimos aritmética es por eso que vimos álgebra
+48:58
+no vimos ese repaso vimos todos esos temas para que lo tengamos bien sólidos
+49:04
+en cálculo porque al final de cuentas este pues cálculo se construye sobre
+49:09
+todo eso AC cuente que dijimos que las propiedades de aritmética esas que hemos visto desde primaria secundaria pues se
+49:17
+siguen aplicando en cálculo digo no son cosas nuevas son cosas que ya nos han enseñado desde hace años ent nada más es
+49:25
+ir viendo cómo se aplica con el cálculo chavos tengan alguna última pregunta o
+49:40
+duda si no pues Bueno nos vemos y cuídense mucho
+49:51
+chavos

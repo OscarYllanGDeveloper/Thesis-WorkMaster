@@ -1,0 +1,1162 @@
+0:02
+muy bien chavos pues vamos a seguirle con lo que estábamos no este vamos a ver un poco ahora sí que el movimiento 2D y
+0:09
+ley de Newton este también a no acuerdan En qué nos quedamos la última que hace s
+0:18
+ya los están ya en el perdón se me hizo tarde los Acabo de subir como hace 20
+0:24
+minutos pero ya ya está segú yo segú yo estoy
+0:34
+9% estábamos viendo cinemáticas sí no estoy comprobando
+0:45
+que están 100% Okay están en el este
+0:50
+okay Estamos viendo exactamente cinemática un poco no sé si se acuerdan de qué eran así
+0:58
+que el tema no acuérdense que cinemática es la parte de
+1:07
+física estudia el movimiento sin fuerzas o sea nos centramos en tres cosas
+1:13
+principalmente que es la número uno desplazamiento
+1:21
+no se acuerdan del
+1:27
+desplazamiento Cuál eran las unidades del camiento metros Muy bien excelente
+1:33
+eran metros verdad y este Ese es en el sistema internacional de unidades
+1:39
+acuérdense este después estaba la velocidad no que
+1:45
+la velocidad este o qu Cuál eran sus unidades también el sistema
+1:51
+internacional metros entre segundos muy bien metros entre segundo muy bien y
+1:58
+este este a ver y ya para terminar Cuál era la última a ver alguien que me
+2:05
+diga Met por segundo cuadrado aceleración excelente aceleración y
+2:12
+bueno est se lo digo acuérdense que la unidad Era metr sobre segundo al cuadrado no muy bien
+2:20
+acuérdense que des desplazamiento o sea para obtener velocidad qué es lo que hacíamos dividir Entre
+2:28
+qué de desplazamiento a velocidad dividir
+2:35
+Entre qué entre tiempo no acuérdense que mir por ejemplo las
+2:41
+unidades lo dice no este es metros metros es de distancia no para obtener
+2:47
+velocidad de distancia entre tiempo no
+2:53
+bien Esto es para la velocidad no sé si bueno acordarán y después pues lo mismo
+2:59
+no no la velocidad para llegar a aceleración es igual dividir entre tiempo no porque miren nada más lo
+3:07
+voy Pon así como d tiempo esto es velocidad No ahora qué pasa si la velocidad la dividimos entre tiempo la
+3:14
+distancia Bueno este acuérdense que está hace la ley del sándwich no t 1
+3:20
+acuérdense la ley del sándwich en medios con el medio y orillas con orillas
+3:25
+Entonces nos queda distancia por uno es distancia y tiempo por tiempo es tiempo
+3:32
+al cuadrado no entonces por eso la unidad de la aceleración es distancia entre tiempo al cuadrado que en unidades de sistema internacional es metros sobre
+3:39
+segundo al cuadrado y ya saben chavos o sea si tienen desplazamiento para obtener velocidad es dividida entre
+3:45
+tiempo y tiene velocidad para obtener aceleración divid tiempo Eso sin Bueno ya después vamos a ver en cuando ya
+3:50
+vamos lo de universidad un poquillo o la otra ya física bien realmente vamos a
+3:56
+ver mat para física universidad entre estas mande mande creo n más tengo aquí una
+4:04
+algo que quería recargar No más por si acaso si es posible que entonces se puede hacer la aceleración también es
+4:11
+velocidad entre tiempo sí sí aceleración en la fórmula Bueno hay
+4:17
+varias luego vamos a ver porque hay varias es igual la velocidad entre tiempo
+4:23
+o Bueno luego vamos a ver en la parte de universidad no que es
+4:30
+realmente o bueno también no es la derivada veamos derivadas Y eso del la
+4:37
+velocidad con respecto al tiempo y sí así vamos a o también lo
+4:44
+vamos a ver que la aceleración puede ser igual a la doble derivada así se le pone
+4:50
+Bueno vamos a ver la anotación que se le pone Es que la verad en matemáticas les gusta poner diferentes notaciones para
+4:57
+derivadas o sea son equivalent es son equivalentes poner los dos
+5:02
+puntitos o poner Okay luego vamos a ver eso no se
+5:09
+preocupen pero básicamente aceleración este en física de dividid entre tiempo y
+5:15
+luego volver a dividente tiempo porque la primera división te da velocidad y la segunda te da aceleración acuérdense que
+5:21
+teníamos rápido así que para recordar un poco las las tres cosas que en física
+5:28
+llevamos aceleración cuáles eran bueno incrementar la velocidad
+5:39
+No ese era aceleración se acuerdan cómo se
+5:45
+llamaba pregunta que este cuando incrementamos
+5:51
+nuestra nuestra velocidad no s se acuerdan que se le llamaba aceleración positiva no Ah cambio de
+5:58
+dirección también ese era otro es el último sí cambio de dirección muy bien
+6:05
+reducir la veloc Ah no Exacto sí la velocidad y cómo se le llamaba
+6:12
+ese solamente puse un negativo negativa excelente es la negativa no aceleración
+6:19
+negativa bueno chavos imagínense ustedes están manejando no eso yo creo que la aceleración la experimentan todos los
+6:25
+días de verdad O sea cuando sus papás llevan o ustedes cualquiera de las dos
+6:31
+este que cuando pisan el acelerador
+6:37
+imagínense sea ejemplo sería cuando ustedes pisan el el
+6:44
+acelerador es aceleración positiva los ejemplos en la vida real
+6:52
+les digo que eso lo hacen todos los días Este como pisar el
+6:58
+acelerador el otro sería como pisar el
+7:08
+freno y el otro sería tomar una
+7:16
+curva Así es chavos bueno pisar la acelerador es este
+7:25
+es aceleración positiva no no es reducir la velocidad no este es
+7:32
+aceleración negativa y pues cambiar de dirección también lo hacen cuando toman una curva no tienen que mover el volante
+7:39
+para que las llantas vayan cambiando dirección etcétera entonces Bueno eso es lo que en física se le llama aceleración
+7:45
+acuérdense que tenemos el desplazamiento velocidad aceleración muy bien Ah qué más Vamos a ver bueno de
+7:53
+cinemática era un poquito de eso y vamos a ver un poquito un poquito ya más aplicado por ejemplo antes de pasar al
+8:01
+otro vamos a verlo un poco más aplicado este como Bueno antes de eso no sé si se
+8:09
+acuerdan que bueno en la tierra no existe lo que es la aceleración de la
+8:14
+gravedad no muy op Perdón Ah no que que da miedo la
+8:21
+forma en la que aument Ah ya me AC pues te acuerdas que dijimos
+8:27
+exactamente que acelera oa que el cambio de velocidad es muy alto que es lo que estás diciendo que sí es muy muy alto
+8:34
+porque exactamente cada segundo acuérdense que la velocidad aumenta 9.81
+8:39
+m sobre segundo no bueno AC que al cuadrado o quiere decir que cada segundo aumenta 9.81 lo cual es bastante
+8:47
+Entonces sí es bastante bien antes de empezar vamos a ver las fórmulas Sí pues
+8:52
+hay que un poco de fórmulas no fórmulas las de por
+8:58
+ejemplo este vamos aer la intersecciones
+9:08
+desplazamiento velocidad y
+9:16
+aceleración muy bien este velocidad
+9:26
+aceleración Okay muy bien desplazamiento velocidad y aceleración se acuerdan la
+9:31
+fórmula de la velocidad era distancia bueno desplazamiento entre
+9:36
+tiempo no también por ejemplo existe esta que
+9:42
+es la de velocidad final es igual a velocidad inicial más desplazamiento
+9:49
+entre tiempo Órale es Sí porque esa por ejemplo nosotros
+9:55
+podemos empezar con una velocidad no se Imagínate que cuando Tú empiezas a medir algo ya tiene una cierta velocidad por
+10:03
+ejemplo este tú estás manejando estás
+10:10
+manejando está manejando Es que la verdad me gusta mucho los ejemplos de
+10:15
+manejar porquees son de masa todos los días y todo el tiempo lo hacemos con nuestros papás así nosotros estamos
+10:23
+manejando no y cuando empezamos a medir las cosas imagínense que ya estamos a una velocidad de 20 km porh Y tenemos
+10:31
+una aceleración no sé de este de 2 m por segundo al cuadrado o sea nuestra
+10:39
+velocidad no empieza de cero Entonces esta esta cómo se llama fórmula
+10:45
+realmente o sea para obtener la velocidad final no nos serviría porque
+10:50
+nada más tendría Así que en consideración la distancia entre el tiempo que tomamos pero no tendría en
+10:56
+cuenta este la velocidad final no Entonces este pues sí también hay que
+11:03
+agregarle eso no esen Déjenme Se los voy a poner aquí a ver si los
+11:20
+tengo Bueno realmente que me es aceleración por tiempo ya ya se perdón
+11:29
+Okay bien luego vamos a ver en la parte de física de de universidad de dónde vienen todas estas porque la verdad es
+11:36
+que todas estas vienen de integrar de de cómo se llama de derivar y todo eso
+11:42
+también Vamos a ver otra que este es muy importante bien bueno este no sé si se
+11:49
+acuerdan o han llevado algunos estadística o algo pero bueno básicamente muchas veces en matemáticas
+11:56
+cuando tú pones cualquier cosa con con una raya arriba significa promedio
+12:03
+no entonces este significa velocidad
+12:12
+promedio no se se acuerdan chavos cómo cómo hacemos el promedio de dos
+12:17
+cantidades tomándolas y luego dividiendo la cantidad de lo que se puso
+12:22
+exactamente exactamente muy bien ra exactamente maestro por qué está promedio y velocidad promedio como si
+12:28
+fueran iguales Ah no O sea nada más quería decirles Pues que cuando nosotros tenemos cualquier cosa que le pongan
+12:34
+como la rayita si quiere decir promedio este porque es velocidad más bien Era la rayita más que la velocidad es que en
+12:42
+matemáticas cuando te ponen arriba una letra y bueno la rayita arriba quiere
+12:47
+decir promedio no no más era para decir eso se acordaran un poco luego vamos a
+12:53
+ver estadístic matemátic y todo eso bueno significa promedio
+12:59
+este aj bueno en velocidad promedio Bueno entonces velocidad promedio Pues
+13:05
+si tenemos la velocidad inicial mir la velocidad inicial voy a poner voy
+13:11
+poniendo la anotación velocidad inicial se puede poner de dos maneras por lo
+13:16
+general se pone como v0 o vi que ambas
+13:21
+quieren decir velocidad
+13:27
+inicial no ambas son lo mismo pero pues B Así que Dependiendo el Lio de física o
+13:34
+ingeniería lo que sea este se las pueden poner como v0 o vi entonces digo si así
+13:39
+la ven no se espanten no se confundan acuérdense que todas estas son vectores no a veces los ponen a veces no deberían
+13:47
+de ponérselos pues pero este si no pues igual acuérdense que siempre la velocidad es vectorial igual la
+13:52
+aceleración ent Bueno luego vamos a ver acuérdense que la aceleración también igual que el desplazamiento no es
+13:59
+este m b0 refiere que b0 es igual a b Sí es que
+14:07
+o sea son formas de como lo ponen o sea es la notación no V es 0 y v significa
+14:15
+lo mismo velocidad inicial ambas son o sea te la pueden poner de cualquiera de las dos maneras en libros de física este
+14:23
+algunos les gusta más ponerlo como v0 otros les gusta más como vi V porque imagínate que es la
+14:29
+velocidad en el segundo cero no por eso también se le llamael o sea por eso también es la velocidad inicial porque
+14:35
+es la v en el momento cero que es lo mismo No que es la velocidad con la que inicias entonces por eso son
+14:42
+equivalentes o sea representan lo mismo nada más es notación para que si lo vean en las fórmulas y eso porque muchas
+14:48
+veces en física este en sus exámenes o lo que sea no les ponen este todo pues o sea esperan los
+14:56
+profesores y lo que sea que este que ustedes Recuerden basi que los símbolos
+15:02
+no Y estos son los símbolos o sea v0 vi no Y sí s van a ver que si lo hacen
+15:09
+demasiado entonces este cuál más a ver otra anotación que les puede servir
+15:14
+dejen pienso bueno acuérdense no sé si se acuerdan eso ya lo hemos visto desde matemáticas pero Qué significa el
+15:21
+Triángulo la Delta bueno Delta significa Delta acuérdense Qué significa el Delta
+15:26
+El Triángulo eso lo vimos desde matemá pero pues a recordarlo porque eso lo vamos a ver bastante también aquí a ver
+15:33
+vamos a ver desplazamiento no es el cambio no no se
+15:38
+acuerdan que por ejemplo en matemáticas Cuando tenemos lo de la pendiente No se acuerdo del taller entre Delta x no que
+15:47
+significa el cambio en y entre el cambio en x para para la pendiente No acuérdense que el Triángulo así bueno
+15:54
+triángulo con algo más O sea obviamente triángulo V o triángulo x el Triángulo significa Delta
+16:02
+significa voy a poner cambio chavos si ustedes ven el
+16:09
+triángulo con algo más significa cambio en por ejemplo aquí sería cambio en
+16:17
+velocidad
+16:24
+no acuérdense que eso significa el cambio en sería el cambio en velocidad y
+16:31
+eso sí es importante que se lo que lo recuerden que se lo memoricen porque es lo del Triángulo del cambio en también
+16:37
+es en termodinámica que puede ser cambio en temperatura o ahorita vamos a ver en este que es cambio de velocidad ent
+16:43
+cambio del tiempo este hay muchos no cambio de temperaturas cambio de corriente cambio de o sea El delta s lo
+16:51
+van a ver mucho en todo lo aplicado a ingeniería porque pues digo en generales
+16:56
+si se dan cuenta en toda la física en general toda la vida todo en la vida está cambiando no este aumenta disminuye
+17:04
+este las fuerzas lo que sea este está en constante cambio entonces significa el
+17:10
+cambio que matemáticamente lo vemos así por ejemplo esto significa V final menos
+17:20
+V inicial o es equivalente también a poner
+17:27
+este lo ponen así pues V final menos v0 no o sea acuérdense que el v0 queé
+17:34
+dijimos que era que era el equivalente No nada más el el en v también vamos a
+17:40
+ver en física en general que el cero el subíndice cero significa inicial igual
+17:46
+que el I porque también vamos a ver luego termodinámica y cosas así que también se le pone temperatura cero no O
+17:54
+sea temperatura inicial porque por ejemplo cambian las temperaturas en los procesos termodinámicos eso luego lo
+17:59
+vamos a ver por ejemplo en sus en los motores no en los motores de combustión interna antes de que explote má así que
+18:06
+dentro de este los cilindros y eso pues tiene una temperatura y ese cambio de temperatura es el que genera una presión
+18:13
+que es el que genera como la fuerza es el que mueve el carro entonces este bueno lo vamos a ver pero lo importante
+18:18
+chavos Es que ahorita vayan acordándose que el subíndice cero significa
+18:25
+inicial igual que el subíndice y o sea son equivalentes que es
+18:32
+inicial eso para que vayan viendo porque luego O sea al final en física no te acuerdas nunca de todas las fórmulas
+18:38
+porque son bastantes o sea de cada cada tema han de ser como 8 o 10 fórmulas y t temas hay demasiados entonces nadie
+18:45
+nadie nadie nadie se acuerda de todas las fórmulas las puedes ir derivando Claro que sí este para eso sirve la
+18:50
+parte de de física de de universidad etcétera Pero este También muchas veces
+18:57
+pues si no te las acuerdas pues nada más ves a una tabla un software que te lo de etcétera y pues ya la apas No pero si
+19:06
+muchas veces no más te lo dan con símbolos no te van a decir esto es la velocidad inicial no más te van a dar la
+19:12
+los símbolos entonces ahí si tú tienes que acordarte de ellos Entonces bueno Eso era lo quea
+19:20
+decir qué más Qué más chavos lo voy a poner acá para poner todavía más porque
+19:26
+esas no son todas las no pero Okay
+19:35
+entonces Okay entonces dijimos que la velocidad por ejemplo era desplazamiento entre tiempo no Okay muchas veces
+19:43
+también la d la ponen así como x t Por qué XD t porque esto eses es una
+19:51
+función del tiempo no sé si se acuerdan de la clase pasada que las grafias no de
+19:58
+velcidad desplazamiento y aceleración Por ejemplo si tenemos una gráfica de
+20:06
+desplazamiento desplazamiento versus
+20:16
+tiempo o sea acuérdense Cuál es la cómo se
+20:21
+llama Cuál es la el eje x Qué unidad
+20:27
+era es el tiempo no y el desplazamiento el eje Y entonces si ven
+20:35
+ustedes porque luego les preguntan por ejemplo una gráfica así no este miren
+20:41
+Aquí vamos a ver sirve que veamos eso hay por ejemplo tres tipos
+20:49
+de lo voy a poner la desplazamiento contratiempo voy a poner desplazamiento Okay
+20:57
+miren hay tres tipos de gráficas que podrían ver en este caso
+21:06
+vamos a verlas las tres movimiento uno el movimiento dos
+21:15
+y vamos a ponerle el objeto uno por ejemplo el
+21:21
+objeto un chavos vo a poner así obo un este va a ser el objeto dos
+21:29
+y el objeto 3 nosotros podemos no ver y eso que
+21:36
+imagínense que son tres objetos diferentes no y cada uno tiene un tipo
+21:41
+de movimiento este tipo de movimiento miren acuérdense en matemáticas no se
+21:47
+acuerdan en matemáticas de las funciones este este c per acuérdense que las había
+21:57
+funciones bien las tres tipos que son estas la primera la o1 que en
+22:02
+Matemáticas Cómo se llamaba No si se acuerdan constante constante perfecto
+22:07
+muy bien constante Por qué Porque a lo largo de todo el eje siempre va a ser
+22:12
+constante es el mismo valor no se mueve es cinco por ejemplo en este caso Okay
+22:17
+muy bien número dos La número dos el objeto dos
+22:23
+qué Qué tipo de de función es
+22:29
+esent lineal verdad no se acuerdan de la función lineal en matemáticas no se
+22:35
+acuerdan de la función lineal la que era pues la que siempre hemos visto no la de la recta Pues que es MX + B no Y la
+22:44
+tercera pues no se acuerdan la de la parábola que es
+22:50
+la cuadrática no Okay muy bien por qué porque esto también que lo vieron en
+22:57
+matemáticas má quisieron no lo vieron porque funciona también para física la
+23:02
+o1 no que es el objeto un tiene este tipo de este y en física mir vamos a ver
+23:09
+equivalente ahora en física si nosotros tenemos una gráfica de desplazamiento contra tiempo no tiempo contra no me
+23:16
+acuerdo como bueno x el punto es que este para
+23:21
+el objeto uno no se le llama que está en No si alguien
+23:27
+sabe o en reposo
+23:36
+Slash estático el objeto uno está estático o
+23:44
+en reposo Qué significa en reposo o estático qu deir que no se está moviendo verdad no se está moviendo Por qué
+23:51
+Porque el desplazamiento el desplazamiento no se acuerda que es por
+23:56
+ejemplo estar aquí y estar en la posición tú Imagínate que tu desplazamiento estás en la posición
+24:03
+cinco no bueno para ser más exacto tendría que ser algo
+24:09
+así imagínense que este es el en este caso en este caso Este es el eje y este
+24:16
+es el eje x esta vez estamos hablando de desplazamientos no Y si tú estás en este
+24:21
+punto toda la vida sincom No tú no te estás moviendo no Si tú no te estás
+24:27
+moviendo Entonces estás en reposo o estático no por ejemplo esto es muy
+24:33
+importante todos los conceptos de reposo y estático porque por ejemplo para ingeniería civil y todo eso y
+24:38
+arquitectura se busca mucho exactamente que las partes no se muevan verdad porque digo nadie quiere que su casa se
+24:43
+caiga y menos estás dentro entonces este básicamente el objeto uno está en
+24:50
+reposo verdad estático no se mueve es lo que quiere decir y lo podemos saber Pues
+24:55
+porque su función de desplazamiento es constante verdad el objeto uno no se
+25:01
+está moviendo es como más imagínense un cubito
+25:09
+no y estuviera í existiendo nada más O sea un cubo el objeto uno es un Así que
+25:17
+es un cubo que nás está ahí no está en la posición cco digamos que nosotros
+25:22
+empezamos a contar de aquí estamos aquí y está esto a 5 met de nosotros
+25:29
+no pero no se mueve Ahí está no más existiendo entonces ese es el reposo o
+25:35
+estático No ese sería el objeto uno el objeto dos queé se imaginan que en qué
+25:43
+cómo creen que se llama se le
+25:48
+llama comoo no se acuerdan bueno tiene
+25:56
+velocidad
+26:01
+constante velocidad constante Por qué chavos miren lo voy a
+26:08
+pasar para
+26:15
+acá Okay no vo a borrar los más
+26:24
+caro Okay no sé si se acuerdan matemáticas la bueno la función que ya
+26:32
+se las había puesto de una función lineal
+26:37
+es F dex Eso es en matemáticas no m dex
+26:43
++ b El M acuérdense la m significa la pendiente
+26:51
+No y acuérdense que significaba Delta y Delta x si lo pasamos a física
+26:58
+Cuál es el que tenemos en El delta y el desplazamiento no Entonces esto sería desplazamiento y cuál es el que
+27:05
+tenemos en el eje x tiempo no pero bueno acuérdense que están con los deltas
+27:11
+acuérdense que El delta dijimos que era el Delta de cualquier
+27:18
+cosa Delta de XT es la posición final menos la posición
+27:28
+inicial verdad posición final menos posición inicial entonces chavos por
+27:34
+ejemplo Aquí vamos a verlo Cuál es la posición inicial
+27:39
+aquí alguien no se acuerdan es la posición original ahí origen el origen y
+27:46
+cuál es 0 no es OK esto es cer
+27:52
+No y por ejemplo aquí Bueno aquí es cinco vamos a ponerlo
+28:00
+aquí okay Imagínate que aquí sea
+28:05
+cinco cinco no entonces la posición final no es cco el Delta tiempo digamos
+28:16
+que vamos a poner que el tiempo aquí sea 2 segundos
+28:23
+2s entonces la fórmula nos decía que entonces para poder encontrar la
+28:29
+pendiente No la pendiente es igual a dividir el xf - xi Entre
+28:39
+qué tiempo final menos tiempo inicial verdad en este caso vamos a
+28:47
+hacerlo okay vamos a hacerlo la posición final dijimos que era cco la posición inicial dijimos que
+28:54
+era cer0 el tiempo final dijimos que es 2 segundos dos y el tiempo inicial Pues
+29:01
+igual no empezamos en el origen Entonces cer0 entonces nos queda 5 / 2 que la m
+29:06
+sería 2.5 en acuérdense que dijimos buen si no lo dijimos lo vamos a decir la
+29:13
+velocidad no es igual a la
+29:19
+pendiente de El
+29:26
+desplazamiento con respecto al
+29:34
+tiempo o sea que ustedes cuando tengan una gráfica no de desplazamiento
+29:41
+contratiempo la pendiente es igual a la velocidad
+29:49
+no Okay acuérdense eso eso es muy importante porque vamos a ver en este la
+29:55
+parte de universidad no que esto es la derivada la derivada en matemáticas se
+30:02
+usa para calcular las pendientes entonces este por eso la
+30:08
+velocidad es igual a la derivada con respecto al tiempo bueno eso vamos la parte de universidad el punto es que
+30:15
+ahorita tienen que acordarse que la velocidad es la pendiente acuérdense que la pendiente es igual a esto no es el
+30:22
+cambio el final menos el inicial entre la otra cantidad final menos el inicial
+30:28
+o sea los deltas Acuérdense que los deltas dijimos que el triangulito el Triángulo es una letra
+30:34
+gga implica Delta y Delta en física y en muchos la verad en muchos lados también
+30:40
+en economía y todo eso lo usan como para poner el cambio y el cambio que es el
+30:46
+final menos el inicial no Okay se acuérdense Eso es así como se como se va
+30:54
+haciendo chavos este Ok entonces el objeto dos tiene una
+30:59
+velocidad constante Qué quiere decir imagínense que ustedes están manejando ahorita lo pongo este pues sí ustedes
+31:07
+están Así que con el velocímetro constante no le mueven no le aceleran por ejemplo en algunas partes no que hay
+31:13
+fotomultas o lo que sea en la Ciudad de México por ejemplo y también en algunas partes de Monterrey este que tienes una
+31:20
+como Sí pues oa si te pasas del límite de velocidad te infraccionan no entonces pues hay mucha gente que está 80 km H
+31:28
+que es la Ahí casi Lo tratan de mantener todo el tiempo constante porque quieren avanzar rápido pero no quieren tener las
+31:33
+multas no entonces pues bueno básicamente es es tener una velocidad constante no de que por ejemplo el
+31:39
+velocímetro siempre está en 80 o en 50 la velocidad que quieran este durante
+31:45
+vari rato eso es lo que se le llama velocidad constante este que es avanzar
+31:50
+la misma cantidad de distancia en la misma cantidad de tiempo o sea 20 Met por segundo bastante Imagínate que 20
+31:58
+Met por segundo es Está avanzando cada segundo 20 Met de manera constante O sea si nosotros Así que queremos saber no
+32:06
+después de rápido si nosotros queremos saber cuánto
+32:12
+avanzamos no este nuestra velocidad es constante no
+32:18
+constante A veces lo ponen así también para que lo vayan Sabiendo cte por lo significa
+32:23
+constante constante no nuestra velocidad es constante de 5 m por segundo es fácil
+32:30
+saber por ejemplo el desplazamiento es por lógica a ver chavos si la velocidad
+32:35
+con Cuál es la fórmula de la velocidad dijimos que era desplazamiento
+32:40
+entre tiempo no Entonces si nosotros queremos saber el desplazamiento qué tenemos que hacer es
+32:47
+álgebra no despejar entonces xdt ser igual a
+32:53
+velocidad por tiempo no
+33:03
+mm Pues sería lo mismo no no entiendo o sea es que Miren la verdad casi todas
+33:09
+estas ecuaciones se ignora la o sea todavía no se toman en cuenta porque
+33:15
+vamos construyendo de pasito a pasito se ignora a veces este lo que es la
+33:20
+resistencia del aire y todo eso porque en el espacio lo que pasa es eso lo que pasa en el espacio es que como no tienes
+33:26
+gravedad se dice no que si tú empujas un objeto se continúa con luego lo vamos a
+33:31
+ver mejor eso nos esperamos un poquito porque lo vamos a ver en dinámica qué es lo que quiere decir que cuando tú empujas algo con un Newton va a tener
+33:37
+una aceleración constante Pero qué es aceleración luego vamos a ver qué significa eso Este porque no hay nada
+33:43
+que lo fene Pero bueno eso es hasta que veamos lo de Newton Mejor vamos a ver tantito esto ahorita este Okay velocidad
+33:50
+por tiempo este a Entonces nosotros si
+33:55
+Queremos saber cuánto tiempo avanzó este objeto en 10 segundos Pues si la
+34:00
+velocidad es constante Entonces nada más sería multiplicar 5 m por segundo por 10 segundos hasta miren las propias
+34:07
+unidades les dicen acuérdense las unidades del desplazamiento son metros Entonces nosotros queremos tener metros
+34:13
+al final si multiplicamos 5 m por segundo por 10 segundos este bct
+34:19
+acuérdense que el subíndice acuérdense que estos son subíndices el subíndice cte es una abreviación de decir
+34:27
+constante eso lo pueden poner en cualquiera o sea podrían ponerlo como aceleración constante este temperatura
+34:34
+ese raro que lo pongan pero imagínense o sea constante aceleración constante el cte si ustedes lo ven así lo usan en
+34:42
+algunos libros para decir constante O sea que se mantiene igual no Okay 5 m
+34:47
+por segundo esto seráa 5 * 10 y las unidades también se multiplican metros
+34:53
+sobre segundos por segundos no Entonces se eliminan y nos queda 50 metros no muy
+35:02
+bien Pues así es como se hace esta parte este Okay bien esta fue una de las
+35:08
+fórmulas de velocidad la primera o est es otra de las fórmulas de velocidad no
+35:15
+este Déjenme ver otras okay Bueno no bien esta s es
+35:23
+importante la de velocidad promedio dijimos también que era velocidad promedio es igual a
+35:32
+velocidad final más velocidad inicial en T2 no acuérdense que cuando nosotros
+35:38
+hacemos promedio es sumar todas es sumar todas y dividirlo ante el número de
+35:43
+ellas esta vez pues solo son dos velocidad final más velocidad inicial entre dos entonces Esta es otra fórmula
+35:50
+que esta significa velocidad promedio acuérdense que por eso Estuvimos viendo un poco la anotación es una raya no es
+35:56
+un vector vector Bueno también es vector pero por ejemplo estas no son promedio estas quieren decir vectores acu la
+36:03
+flechita no este Ok qué más
+36:10
+de no me gustaría ver la fórmula de la que está haciendo
+36:16
+cuál la última de 5 Met Ah mira esta
+36:21
+está en la parte de desplazamiento es esta realmente es lo mismo que esta
+36:26
+fórmula Rafa nada más que es despejarla no para tener esta acuérdense que esta es la parte de desplazamiento no es
+36:34
+despejar XT Entonces nos queda que velocidad por tiempo no velocidad por
+36:40
+tiempo nos da el desplazamiento es lo mismo que la sí que la de la velocidad
+36:46
+no más es despejada no más es despejar Ah así que es aplicar un poco el álgebra no y
+36:52
+calcular que bueno velocidad por tiempo nos da des a amiento este cuáles más
+36:59
+Déjenme recordar si hay otra Hay Bueno si hay una última Pero bueno este
+37:06
+Déjenme vamos a ver un poquito mejor las de aceleración entonces la de aceleración no dijimos que la
+37:13
+aceleración la definición de la aceleración si se acuerdan era el cambio en velocidad entonces la aceleración Es
+37:20
+el cambio en v el cambio en t no acuérdense que eso la aceleración
+37:27
+no dividir velocidad entre tiempo
+37:33
+Okay muy bien y qué más chavos Déjenme
+37:39
+verl bueno Está también este bueno eso luego lo vamos a ver en mejor me espero
+37:46
+al cálculo Okay pero también puede haber unas un poco más complejas que involucran el desplazamiento y la
+37:55
+aceleración acá Por ejemplo si a nosotros también existe
+38:01
+ya no lo vi el último tipo de movimiento ya no déjen lo voy a copiar lo voy a caer el de la parábola el de la
+38:10
+parábola es el tipo de
+38:20
+movimiento el tipo de movimiento de Alien Cómo se le llama este al del
+38:28
+objeto
+38:34
+tres es bueno el mua le llaman en física
+38:40
+significa movimiento
+38:50
+uniformemente acelerado
+38:57
+Okay el movimiento uniformemente acelerado cuando ustedes vean una parábola en una desplazamiento
+39:03
+contratiempo quiere decir que este objeto tiene una
+39:09
+aceleración constante imagínense que ustedes cuando están que pisando el acelerador lo dejan
+39:18
+en un cierto ángulo o sea porque si le pisan a todo o sea también cambia la aceleración pero imagínense si ustedes
+39:23
+lo dejan en un ángulo constante ustedes tendrían una aceleración constante como
+39:29
+la gravedad de la bueno aceleración de la gravedad es constante es alta porque AC podemos
+39:37
+tener sea constante no quiere decir que sea baja o sea podemos tener por ejemplo
+39:42
+valores así no altos y bajos de cosas constantes pero siguen siendo constantes
+39:48
+no Pues básicamente eso es como la aceleración de la tierra la aceleración de la tierra es constante o sea por
+39:55
+ejemplo la G no es igual a 9.81 Met sobre segundo al cuadrado pero pues es
+40:01
+una de las constantes más conocidas en física porque exactamente no cambia la
+40:07
+aceleración de la gravedad no cambia en la tierra
+40:14
+este por bueno básicamente eso es lo que quiere decir luego lo vamos a ver en la
+40:20
+parte de física de universidad que esto viene de las integrales no porque Bueno
+40:25
+cuando tú tienes una constante por ejemplo un integral de una
+40:31
+constante de c por ejemplo con matemática lo Pon c integral de
+40:37
+c x no más otra c pero bueno este mientras hay que ponerlo así este la
+40:43
+integral de x no es igual a x cu 2 si se
+40:51
+dan cuenta este x no de ser un valor constante pasó a
+40:59
+tener una x y de ser x pasó a x cuadrada acuérdense que las funciones que tienen
+41:06
+solo x son lineales no y las que tienen
+41:11
+cuadrado x al cuadrado que son cuadráticas las cuadráticas Cuál es su
+41:18
+forma es una parábola por eso miran ahí
+41:23
+va la lógica no si en el objeto TR yo n más de ver lo que es un objeto este con
+41:29
+aceleración uniforme porque tiene forma de parábola no muy bien entonces
+41:37
+este Así es como se sabe si tiene forma de parábola es que es aceleración
+41:44
+constante ya si tiene otras formas o sea cúbica y eso ya ya no es aceleración
+41:49
+constante pues ahí se ve no pero este si ven así de forma parabólica
+41:56
+quiere decir que su aceleración es constante O sea que no cambia no este
+42:02
+como la aceleración de la tierra ya les dije chavos este esa no cambia por eso es una constante por eso llama la
+42:07
+constante de la aceleración gravitacional de la tierra es 9.81 m segundo cuadrado est es
+42:14
+constante constante les digo es el equivalente
+42:20
+ustedes a tener el acelerador en sus carros este y ponerlo a cierto ángulo si
+42:25
+lo mantienes cierto ángulo digo en teoría porque obviamente es O sea no se
+42:30
+contempla lo de las fuerzas eso ya es otra historia pero en teoría lo que trata de hacer el carro es tener una
+42:36
+aceleración constante cuando lo dejas así este muy bien Qué más okay vamos a
+42:44
+seguir un poco para tratar de ver un poco más Okay pues bueno eso era también existen
+42:52
+unas fórmulas del desplazamiento y aceleración que lo vo a poner aquí qu
+42:57
+tienen que ver con bien este bien eso viene de cálculo integral
+43:05
+n más se lo voy a enseñar o sea viene de integrar dos veces la aceleración porque bueno así como
+43:12
+dijimos XT vt aceleración del tiempo si
+43:18
+nosotros derivamos una vez nos da la velocidad si derivamos dos veces nos da la aceleración el proceso inverso de
+43:25
+derivar es integrar Entonces si nosotros integramos una vez nos da velocidad y si integramos dos veces nos da
+43:32
+desplazamiento eso para qué sirve porque por ejemplo vamos a hacerlo inte
+43:39
+la No si si lo Perdón Esta es la
+43:45
+aceleración est Es la aceleración Okay si integras la aceleración no una vez te
+43:50
+va a dar aceleración por tiempo más una constante es Esta es la de b0 Bueno
+43:57
+luego vamos a ver por eso esa la fórmula pasada era así con el v0 y Si volvemos a integrar una segunda vez todo
+44:05
+esto nos va a dar lo siguiente que esta fórmula es muy útil para el tiro
+44:11
+parabólico de ahí viene digo no se tienen que acordar todavía el Por qué de ahí dónde viene pero nos va a dar
+44:17
+el desplazamiento inicial x0 + v0 * t
+44:24
+más mitad de la aceleración por tiempo al cuadrado esa fórmula es muy
+44:30
+importante Ay ay ay en todo lo que es este Esta es el
+44:37
+desplazamiento esta función es muy importante porque esta está padre porque con esta nosotros podemos saber el
+44:44
+desplazamiento de un objeto que tiene aceleración uniforme
+44:50
+okay Voy poner Okay bien
+44:57
+esto ustedes pueden determinar el desplazamiento la posición como quieran decirle desplazamiento
+45:04
+no de un objeto con aceleración
+45:16
+constante es es muy poderosa porque por ejemplo esta luego vamos a ver en el
+45:22
+tiro parabólico cuando nosotros aventamos algo un balón de fútbol o Cuando se dispara una bala un cohete lo
+45:28
+que sea este ya ven que si se acuerdan Bueno
+45:33
+vamos a Para que vean la lógica cuando nosotros disparamos algo por ejemplo o aventamos algo un
+45:42
+cañón no Okay este cañón dispara una
+45:47
+bala La bala Y ustedes lo pueden probar creo que lo han visto toda su vida va a
+45:53
+ser como una curva no maestro Sí vale Ahí dice xdf o qué dice ahí lo que está
+45:59
+como trabados Ahí Ah mir lo voy a borrar me lo voy a poner bien era xdt pero déjelo Ahí está
+46:09
+bien Mira es acuérdense que este es nada más es para poner que es desplazamiento
+46:15
+pero nada más se pone así para saber que el desplazamiento está en función del tiempo acuérdense como en matemáticas no
+46:22
+el F dex que la función está su variable
+46:27
+independiente es el X en este caso la variable independiente es el tiempo
+46:33
+no es para que nos acordemos es desplazamiento acuérdense que est es
+46:39
+final de cuentas por lo puse desplazamiento de un objeto con aceleración constante Entonces no se
+46:46
+acuerdan chavos que cu cuando ustedes tien un objeto tiene la forma como de una curva no que realmente es una
+46:53
+parábola de ahí viene no digo exactamente por eso este tiene el
+46:58
+término al cuadrado no este es el que le va a dar la forma Este es el que le da
+47:04
+la forma No este cuadrada no acuérdense que en cuando nosotros tiramos un objeto
+47:11
+no este su desplazamiento es así no este muy bien Eso lo vamos a ver
+47:19
+pronto este mañana este y este okay nada más para que se vayan
+47:26
+viendo a ver este esto que bueno el v0 que
+47:33
+significaba alguien que me recuerde velocidad inicial muy bien a ver qué
+47:39
+significa la a aquí aceleración excelente eso qué
+47:48
+significa desplazamiento inicial perfecto muy bien y bueno acuérdense que
+47:53
+las variables independientes el tiempo no el T acu que t
+48:00
+minúscula si son variables independientes Esas son las que pueden cambiar Mira vamos a ver realmente en
+48:06
+física te pueden pedir cualquiera de estas pero sí O sea se refiere más como variable independiente porque son las
+48:13
+que s bu técnicamente sí son las que están cambiando las otras son
+48:20
+constantes te pueden pedir lasas te pueden pedir a que las encuentres pero siempre son constantes menos en física
+48:26
+de prepa eh la velocidad inicial pues es una no la velocidad inicial obviamente no puede
+48:31
+cambiar porque solo tienes una que es la velocidad en el momento cero O sea ya cualquier otra velocidad fuera de esa ya
+48:38
+no es la velocidad inicial entonces esa es constante o sea lo voy a poner Voy a
+48:43
+poner el mismo color voy a poner las tres moradas Son constantes en física de
+48:48
+Peppa dig en universidad se puede cambiar sí que no pero las Así que las
+48:54
+que están demorado no está demorado son constantes Y sí tienes razón Rafa la O
+49:02
+sea el tiempo es la única que cambia en estas fórmulas No esa si es una
+49:10
+variable acuérdense como dijimos
+49:16
+independiente la variable dependiente es el desplazamiento porque esta depende de
+49:22
+todo lo demás no Okay muy bien así es como se hace esto
+49:29
+de este esa fórmula es muy importante luego la vamos a traducir a movimiento
+49:35
+de dos dimensiones porque miren nada más rápido para verlo un poco cuando nosotros tenemos tiro parabólico
+49:44
+no nosotros disparamos una bala por ejemplo no Y esta bala se mueve
+49:51
+en dos dimensiones
+49:57
+se mueve en y se mueve en x no Okay se mueve en y y
+50:04
+en x Entonces esta bala va a tener vamos a
+50:11
+ponerlas cómo lo puedo poner muchas veces en física se pone y así al
+50:16
+desplazamiento se le pone y y bueno desplazamiento en y o altura
+50:23
+también se le pone bien Vamos a ponerle tod not Es que luego el problema de física no es que sea tan difícil es que nadie se pone
+50:29
+de acuerdo y hay muchas notaciones este el desplazamiento es en y no en el
+50:35
+componente y pero también lo ponen como altura no también lo pueden poner como H hdt porque esto es height no bueno
+50:42
+acuérdense en inglés Esto es height no altura Esas son las coordenadas y o sea
+50:49
+y el X es Sí pues es desplazamiento en x no en el eje
+50:57
+x pero también miren esto sale con una velocidad
+51:04
+no así se pone la velocidad pero esta velocidad acuérdense por eso vimos lo de
+51:09
+los vectores tiene una velocidad en x y
+51:15
+una velocidad en Y entonces también existe
+51:22
+velocidad en y y velocidad en x y
+51:28
+acuérdense por eso vimos tanto los de vectores por eso me tardé tanto en eso
+51:33
+por qué porque nosotros para analizar movimiento en
+51:39
+2D dos dimensiones dos dimensiones quiere decir el eje x y eje y para analizar un
+51:45
+movimiento en dos dimensiones tenemos que convertirlos a sus componentes y vamos a analizar se analiza se lo voy a
+51:53
+adelantar se analiza por separado cada
+52:00
+dimensión Qué quiere decir sí lo que lo que suena este vamos a sacar sus componentes
+52:11
+no este se analiza por separado la velocidad las velocidades las vamos a
+52:17
+analizar en x las velocidades las vamos a analizar en y en dos procesos diferentes Porque además son dos tipos
+52:24
+de movimientos diferentes lo vamos a ver esto viene de las leyes de Newton Pero
+52:30
+bueno este miren en la bala no cuando avan en x
+52:35
+chavos cuando Está avanzando en x que hay algo que lo
+52:42
+detenga bueno ignorando el aire este cuando tú lanzas una bala en
+52:49
+x tú no tienes nada que lo detenga lo único que está haciendo que esta bala se
+52:55
+detenga O sea no detenga pero que vaya Es la aceleración de la gravedad
+53:02
+no acuérdense que siempre está presente la aceleración de la gravedad y
+53:07
+acuérdense que la aceleración de la gravedad siempre apunta Hacia
+53:16
+dónde hacia abajo no acuérdense que por eso es negativa era negativa Por qué
+53:22
+acuérdense que en el no no cartesiano la y negativa Perdón la y
+53:31
+hacia abajo es negativa verdad pues la aceleración de la gravedad siempre
+53:37
+siempre apunta hacia y y hacia abajo no siempre está siempre es vertical y
+53:42
+siempre es hacia abajo entonces esta bala Aunque tenía una velocidad inicial en y se va
+53:50
+disminuyendo no entonces por eso exactamente por lo mismo que miren así
+53:56
+se dibuja a veces cuando disparan una bala se pone los vectores no se pone así de que este es el vector de la velocidad
+54:03
+en y Y ese es el vector de la velocidad en x por
+54:10
+ejemplo eso es exageración pero Okay el punto es que
+54:17
+va esta bala cuando está aquí
+54:22
+igualita Okay cuando está aquí esta velocidad ya no es tan alta la
+54:28
+velocidad en y ya se hizo más chica se hizo más chica por
+54:34
+qué porque tenemos algo que nos está jalando hacia abajo qué es lo que nos está jalando hacia
+54:41
+abajo la aceleración de la gravedad acuérdense si nosotros estábamos en cero
+54:48
+no si nuestra velocidad inicial Ahí va chavos acuérdense Cuál era la fórmula que habíamos visto apenas ahorita de la
+54:54
+velocidad final final es velocidad inicial más aceleración por tiempo no
+55:00
+vamos a sustituirla ahora con esto de y la velocidad final en y no va a ser
+55:06
+igual a la velocidad inicial en y más Cuál es la aceleración gravedad no la aceleración
+55:13
+de la gravedad por el tiempo Okay vamos a ver chavos en dos casos diferentes Si
+55:18
+la velocidad la velocidad inicial en y fuera cer0 y si la velocidad inicial en
+55:24
+y fuera 10 bueno 20 20 Met por segundo
+55:29
+Okay en la primera es que tú dejas caer un objeto así la palma de tu mano y lo dejas caer
+55:36
+el otro es que tú aventastes algo hacia arriba a 20 Met por segundo digo es muy
+55:41
+rápido pero imagínate agarras un así un balón y lo avientas hacia arriba este la
+55:48
+este Okay sí esto es como aventar una moneda hacia arriba super rápido aventar algo hacia arriba
+55:58
+Ok Muy bien algo hacia arriba con esto Cuál es
+56:03
+la diferencia Si Tú empiezas en cero vamos a ver los dos casos para el caso
+56:08
+uno vo poner demorado caso dos el caso un que la velocidad final en y no si tú
+56:16
+empezas cuál es tu velocidad inicial chavos cer no vamos a sustituir 0 Met
+56:22
+por segundo más acuérdense que esto es negativo esto -
+56:28
+9.81 por ejemplo después de 2 segundos no de 2 segundos Entonces cuál es la
+56:34
+velocidad final en y
+56:39
+alguien 2 por 9.81 Cuánto es a ver sería
+56:45
+menos a ver sería menos menos 19 - 19.62
+56:52
+no muy bien excelente
+56:57
+esto para el caso un no este es el caso un el caso dos morado es la velocidad
+57:07
+final en Y si aventamos algo Cuál es nuestra velocidad
+57:12
+inicial alguien 20 no 20 Met por
+57:21
+segundo más lo mismo -
+57:26
+9.81 por 2 esto sería -
+57:32
+19.62 no y bueno el 20
+57:37
+no Y la velocidad final en y pues es nada más hacer esto no 20 men 19.62 que
+57:44
+nos da
+57:50
+alguien prof perdón porque es por dos Ah nada más porque que le puse yo por
+57:55
+ejemplo en el tiempo dos Eso es porque eso yo lo puse tiempo 2s segundos o sea porque yo quiero saber este la velocidad
+58:04
+de de esos dos objetos O sea la comparación de esos dos objetos por dos digo no no no no es una cosa que no o
+58:11
+sea es porque yo lo puse no este nada más porque quiero saber la comparación
+58:16
+no entre esos dos objetos a los a los 2 segundos en el mismo tiempo pues O sea
+58:21
+imagínate que estamos midiendo alguien eh este por ejemplo Rafa dejó caer algo
+58:27
+este de un risco de este y 2 segundos después queremos medir su velocidad final y otra persona imagínense no se
+58:34
+Mario que agarra y avienta una cosa hacia arriba con esa velocidad de 20 m por segundo y Queremos saber su
+58:40
+velocidad después de 2 segundos entonces la velocidad alguien la puso era 3.38 no
+58:45
+Okay 0.38 m sobre segundo muy bien si se dan
+58:52
+cuenta la velocidad casi si se hizo cero sea bien más o menos sería algo así la
+59:00
+de la azul iría rápido ya para terminar Ya me pasé
+59:06
+este la velocidad azul sería así -
+59:11
+19.62 la velocidad final en y y el otro Sería bueno más chiquita mucho más
+59:18
+chiquito algo así chiquitito Pero sería todavía hacia arriba no
+59:23
+0.38 a lo que voy es que si se dan cuenta si tú avientas algo hacia arriba por eso
+59:30
+cuando ustedes avientan algo hacia arriba llegas hasta una cierta altura y luego empieza a caer Por qué Porque la
+59:36
+gravedad siempre está presente la gravedad es imagínate que es como si lo estuvieran Jalando No de una manera
+59:42
+constante pero te están jalando todo el tiempo hacia abajo eso es lo que es la gravedad en el movimiento de dos
+59:48
+dimensiones Pero bueno chavos ya no nos Ya fue todo porque ya me pasé mucho el tiempo no sé si tengan alguna pregunta
+59:54
+Ah en el recall vamos a ver lo de la semana esto Cómo subía una
+1:00:00
+grafi pues depende hay varias gráficas pero a ver déjame pensará es que lo
+1:00:08
+tenemos que poner como en dos probablemente porque acuérdate Rafa que hay varias gráficas no está la
+1:00:15
+desplazamiento contratiempo está la de velocidad contratiempo este la
+1:00:20
+de desplazamiento contratiempo tiempo velocidad contratiempo tiempo acuérdense
+1:00:27
+que había tres tipos de gráficas no y aceleración
+1:00:34
+contratiempo Okay muy bien la de desplazamiento contratiempo no este Pues
+1:00:40
+básicamente para el objeto uno no Cómo se vería a ver alguien
+1:00:48
+chavos Es que esto es un poco más univers pero bueno este
+1:00:55
+velocidad aceleración no o qué se refiere no O sea bueno no bien mejor lo
+1:01:03
+vemos después un poco porque esto sería de que una parábola negativa sería una parábola negativa porque sería el el
+1:01:10
+movimiento acuérdense que cuando hay aceleración y es constante acuérdense cuando hay aceleración constante Cómo se
+1:01:17
+le llama el movimiento alguien no se acuerdan que lo vimos
+1:01:23
+rápido Ah aceleración constante Sí pero bueno en física si lo buscas así de que
+1:01:29
+el mua se llama movimiento uniformemente
+1:01:35
+acelerado eso que si lo buscas en cualquier libro te va a salir esto que
+1:01:41
+cuando hay aceleración o sea cuando estamos hablando de la gravedad es un movimiento uniformemente acelerado que
+1:01:47
+puede ser positivo negativo por eso les decía que eso mejor vamos a ver un poquillo cuando sea lo de universidad para ver eso pero básicamente este el
+1:01:55
+movimiento uniformemente acelerado no Entonces si depende eso también depende
+1:02:00
+de nuestro eje de referencia por eso se los Decía si nosotros ponemos que la altura cer por ejemplo en vez de X bueno
+1:02:07
+podíamos ponerlo como y esto sea la o la altura no velocidad en y y aceleración en y
+1:02:15
+bien la aceleración en Y cómo cómo se vería la aceleración de la gravedad en y
+1:02:20
+si lo pusieramos así la Gráfica si este es cer y si es negativa sería constante
+1:02:26
+Cómo sería la const una función constante una raya no sería men 9.81
+1:02:33
+acuérdense las unidades metros sobre segundo al cuadrado no Por qué Porque la aceleración es constante verdad la
+1:02:40
+velocidad iría cambiando si miren para el caso uno que la velocidad era cero
+1:02:45
+acuérdense que esto es cero por eso les decía que esto la verad es una pregunta más universidad Pero bueno este si
+1:02:51
+empieza en cero la velocidad va hacia abajo no no O sea va aumentando en
+1:02:56
+magnitud Pero es en posición negativa por eso les decía Y pues obviamente
+1:03:02
+acuérdense chavos de aceleración a velocidad es integrar una vez ahora de
+1:03:10
+velocidad a desplazamientos integral otra vez la doble integral no acuérdense
+1:03:16
+si nosotros integramos una función lineal Bueno luego lo vamos a ver por eso no me quer adelantar Pero bueno si
+1:03:23
+integramos esto nos va a dar una parábola no acuérdense que ya
+1:03:28
+habíamos visto exactamente da una cuadrática entonces da una parábola una
+1:03:33
+cuadrática entonces Y como la función era negativa pues entonces nos va dar una parábola Pero bueno este por eso no
+1:03:39
+me quería adelantar tanto en esto pero luego lo vamos a ver chavos no se preocupen ya me pasé un montón del tiempo y pues bueno este los veo a las 4
+1:03:47
+los que puedan y los que quieran no no mejor los que puedan porque la verdad es que sí es muy bueno que se metan encol
+1:03:53
+para que veamos los ejercicios ahí ya los tienen si quieren y tienen tiempo Pues vyan losos viendo traten de hacer
+1:03:59
+algunos yo voy a hacer la mitad la otra mitad oí que está de tarea Bueno o sea
+1:04:05
+ustedes lo tienen que hacer lo hacen para practicar este igual en la que en
+1:04:10
+pues yo voy a dejar eh si pueden irlo haciendo Sería muy bueno que alguien tenga y mande una foto y pues veamos las
+1:04:18
+cosas Pero bueno Nos vemos chavos nos vemos a las 4 bueno los que vayan a rec
+1:04:28
+Bye profe gracias

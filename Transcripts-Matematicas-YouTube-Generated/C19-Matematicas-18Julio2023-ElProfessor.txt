@@ -1,0 +1,570 @@
+0:01
+Okay chavos Pues bueno habíamos dicho que esta semana vamos a ver lo que es matemáticas discretas verdad y entre las
+0:07
+áreas de matemáticas discretas ayer vimos hay que acordarnos que vimos lo de
+0:15
+conjuntos verdad tea de conjuntos vimos operaciones de conjuntos en esta cuenta
+0:20
+que vimos lo que eran a ver nada más para recapitular Cuáles son
+0:27
+las operaciones de con a Prim Antes que nada alguien se acuerda de la definición
+0:32
+del de un
+0:39
+conjunto no chavos que qué Dios que un
+0:47
+conjunto conjunto es como de sumar dos ecuaciones
+0:53
+no acuérdense chavos lo que vios aller que es una lista de elementos Únicos
+1:00
+verdad acuérdense lo vimos ayer una lista de
+1:07
+elementos únicos sí o
+1:13
+no Okay acuérdense que era lo que habíamos visto verdad que eran por
+1:20
+ejemplo 54,8 Y si ponía dos veces o al final
+1:25
+tenía que quitar la segunda vez verdad solo puede haber Element los únicos se
+1:34
+acuerdan acuérdense de lo que Estuvimos viendo ayer chavos para recapitular
+1:40
+no Okay acuérdense todo lo que Estuvimos viendo
+1:48
+ayer acuérdense que ya empezamos no con que era matemática discreta dijimos que
+1:53
+era hoy vamos a ver estas dos un poco Este creo que está muy muy lentas está
+2:03
+medio a ver
+2:25
+ver problemas un segundo
+2:58
+n
+3:28
+es
+4:13
+aplicación
+4:28
+Fire
+4:52
+Okay okay Bueno ya muy bien ya funcionó de nuevo vamos a bueno acuérdense que
+4:58
+hoy vamos a ver un poco de de esto este de lógica matemática y combinatoria Ahí
+5:03
+vimos de teoría de conjuntos chavos este Okay muy bien miren acuérdense que ayer
+5:10
+Estuvimos viendo lo que era Ah sí que la parte esta de acuérdense de los diagramas de Ben que esto lo hemos visto
+5:18
+desde secundaria chavos acuérdense que bueno en Secundaria nos enseñan esto los diagramas de Ben verdad de los conjuntos
+5:24
+Este es el conjunto a este es el conjunto B verdad y vimos cuatro operaciones ch Cuáles son esas cuatro
+5:31
+operaciones a ver sin ver bueno moviendo sus notas mejor si quieren Ah Cuáles son
+5:39
+las cuatro operaciones que tenemos chenas
+5:49
+chenas all se refiere a Unión Unión Es una muy bien intersección muy
+5:58
+bien complemento de conjuntos muy bien y
+6:04
+diferencia de conjuntos excelente no Okay acuérdense Por ejemplo
+6:12
+si este era el conjunto a poner conjunto B
+6:18
+verdad conjunto B sea 02 46 una cosa
+6:28
+así Okay bien la unión de conjuntos sería lo
+6:34
+siguiente se pone bueno el conjunto un conjunto una u de Unión verdad u así y
+6:46
+el otro conjunto la unión de conjuntos dijimos que era juntar todos los
+6:52
+elementos verdad Pero acuérdense que dijimos que los conjuntos Son elementos Únicos
+7:00
+entonces a ver para practicar díganme a unión b Cuáles serían cuál sería a unión
+7:08
+b son todas juntas Okay velos dictando por favor c conjun muy bien dos muy bien
+7:19
+Cuatro Sí cco sí se
+7:25
+sí o muy bien y así verdad acuérdense que bueno tenemos esto es repetido
+7:32
+verdad Pero nada más se ponen una sola vez porque son elementos únicos muy bien
+7:38
+perfecto ahora vamos a hacer la intersección chavos la
+7:44
+intersección a ver era los elementos que
+7:49
+están en ambos conjuntos verdad Cuál sería la intersección a
+7:55
+intersección B
+8:01
+a intersección B es
+8:06
+4 y o muy bien Perfecto esa sería
+8:12
+intersección B acuérdense la unión se pone con una u y la intersección se pone con una u
+8:18
+volteada Ok el complemento se pone acuérdense como si fuera potencia ponemos el
+8:24
+conjunto y como si fuera potencia acuérdense que cómo se pone lo pondría así AC c y b c
+8:34
+okay Bueno en este caso no les puse el universo digamos buen déjen le pongo el
+8:41
+universo el universo van a ser los números del 0 al 10 bueno
+8:51
+enteros enteros del 0o al
+8:58
+10 Okay Cuál sería el a complemento
+9:05
+entonces a complemento es igual a c s
+9:14
+1 2 3
+9:21
+6 y s qué más y creo que ya no 9 y 10 no Ah
+9:30
+hasta el 10 Sí porque aquí dice enteros del o al 10 el universo enteros del o al
+9:37
+10 Entonces si nos faltaban esos dos muy bien Ahora el complemento de B chavos
+9:44
+cuál
+9:54
+sería ya se lo voy poniendo uno no coma 3 coma 5
+10:00
+com7 coma 9 coma 10 no muy bien Ahora las diferencias chavos
+10:10
+el A menos
+10:16
+b y el B menos
+10:23
+a que son diferentes okay A - B con sería acuérdense que la diferencia
+10:31
+es sustraer de o sea le quitamos Al conjunto del lado izquierdo los que
+10:38
+también están en el derecho Qué quiere decir por ejemplo aquí y nos va a ayudar con el primero el cu está aquí entonces
+10:46
+lo quitamos del a el oo está en el B lo quitamos de acá cuánto sería entonces la
+10:53
+diferencia de a - b
+11:00
+cuánto sería chavos a men B a men
+11:12
+[Música]
+11:21
+B creo que ya s a ver sería en la de A
+11:26
+Men B a men B sería entonces a le borró los
+11:34
+números no no los puedo ver pues por eso es una
+11:40
+ayudad muy bien no exactamente sería c ya me acuerdo
+11:46
+gracias acuérdense que es lo que decíamos no del conjunto de la izquierda
+11:52
+este le quitamos los elementos que están de la derecha verdad los que están en la
+11:58
+derecha que están en a también son el cuatro el cuatro lo quitamos el oo lo
+12:05
+quitamos aquí Entonces qué nos queda nada más cinco verdad sí quitamos
+12:13
+los elementos de intersección también si lo quieres ver así Exactamente esa es otra definición muy bien
+12:20
+Este sí pues también otra definición Es que le quitemos Exactamente esa parte no
+12:28
+muy bien y ahora al revés chavos ahora B men a es al revés no
+12:39
+cu el o el o sería entonces 0 2 y
+12:46
+6 muy
+12:52
+bien exactamente muy bien Bueno eso es lo que vimos ayer
+12:57
+chavos para lo que vamos a ver ahorita okay muy bien Bueno ahorita vamos a ver
+13:03
+lo que son lógica matemática proposiciones lógicas eso a
+13:08
+lo mejor lo han visto en s pensamiento crítico con si esto lo usan los abogados
+13:14
+pero también lo usan mucho los matemáticos en general este pues en la vida no Qué es una proposición chavos
+13:21
+una proposición lógica en inglés es como lo que se llama
+13:26
+statement o sea una fe que tú dices o algo que tú dices que puede ser cierto o
+13:32
+sea verdadero o falso Como qué Por ejemplo no sé el
+13:39
+examen está
+13:45
+fácil este puede ser solo puede tener dos resultados
+13:55
+verdad o es verdadero o es falso
+14:03
+no cualquier cosa así tipo Yo me llamo Óscar no Bueno yo me
+14:11
+llamo bien Por ejemplo yo me llamo Juan que no es cierto yo me llamo Juan No
+14:16
+aquí igual puede ser que esto sea o verdadero o falso No eso es una
+14:25
+proposición lógica es una en una frase que tú dices que solo puede ser o
+14:31
+verdadero o falso muy bien Es como es no
+14:37
+sé este el carro es azul o puede ser verdadero o puede ser falso verdad O sea
+14:44
+tienes que esa es una proposición chavos básicamente todo lo que puede que tú
+14:49
+dices que solo tiene una de las dos resultados o verdadero o falso muy
+14:57
+bien Okay bien Vamos a ver operaciones
+15:06
+lógicas Okay miren las operaciones lógicas chavos es
+15:12
+algo que es esto se le llama No sé si lo haban visto antes pero se les llama
+15:19
+taba de verdad una taba de
+15:26
+verdad Okay muy bien
+15:31
+miren este se le conoce como el en inglés el
+15:38
+an y este se le conoce como el or el I y el o Okay muy bien Vamos a ver
+15:49
+qué significa en las tablas de verdad p y q son proposiciones lógicas lo que
+15:56
+estamos viendo ahorita p es la una proposición
+16:06
+lógica y q es otra proposición
+16:11
+lógica Vamos a ponerle nombre si quieren
+16:18
+número dos y un no muy bien bien voy a hacer como les pongo
+16:28
+bien puede ser cosas así como
+16:35
+p bien yo fui al
+16:41
+cine y el Q es me
+16:47
+comí una creepa Okay
+16:53
+Igual Esta es una proposición Por qué Porque puede ser verdadero o falso o yo
+16:59
+fui o no fui al cine verdadero o falso igual aquí me comí una quepa puede ser verdadero o puede ser falso no muy bien
+17:07
+entonces hay varios resultados no el p y el Q sería por ejemplo O sea que yo sí fui al cine y yo
+17:15
+sí me comí una creepa o puede ser que yo fui al cine verdad Yo fui al cine pero
+17:22
+no me comí una creepa o puede ser que yo no fui al cine y me comí una creepa o yo
+17:30
+no fui al cine y no me cop no me comí una creepa verdad eso es lo que diríamos
+17:37
+con el I verdad Okay muy
+17:42
+bien aquí en las tabas de verdad chavos
+17:50
+este no el an funciona de la siguiente manera tenemos un true y un true verdad
+17:58
+el true y el true nos da true o sea el verdadero y verdadero nos da verdadero pero todos los demás verdadero y falso
+18:06
+nos da falso falso y verdadero nos da falso falso y falso nos da falso es como
+18:11
+bueno la analogía que yo siempre digo es como agua y veneno siempre que tú tengas
+18:16
+o sea bueno si tú mecas aunque tengas ahora sí que 100 vasos de agua pero si
+18:22
+con que tú tengas uno de veneno pues ya es veneno verdad no necesita los otros Okay muy bien es lo mismo aquí chavos
+18:31
+Okay Qué quiere decir que con que tú tengas un false todo se vuelve false
+18:37
+verdad la única forma de que tú tengas true es que todo sea true que todo sea
+18:42
+verdadero Ese es en el an en el or es al contrario en el or con que tú tengas un
+18:50
+true todo se vuelve true todo se vuelve verdadero tienes que tener todo falso
+18:57
+para que seas Sí muy bien
+19:05
+este bien Es como se lo puedo poner como el imagínense como no sé
+19:11
+Messi imagínense a Messi Messi ha jugado s Cuántos
+19:17
+mundiales a ver el del 2006 el del 2000 del
+19:24
+2014 el del 2018 el del 202
+19:30
+no por ejemplo sería campeón del mundo no si Messi es
+19:37
+campeón del mundo no O sea que entre en la categoría campeón del
+19:42
+mundo aquí para ser campeón del mundo son puros
+19:48
+or puros or no que bueno en lógica bueno
+19:54
+en matemática se pone con este signo como uno
+20:00
+V Okay
+20:06
+Messi perdió el Mundial del 2006 y perdió el del 2010 perdió el del 2014
+20:14
+perdió el del 2018 pero ganó el del 2022 el or funciona así
+20:24
+este puede o sea este es fs
+20:29
+false false false y un solo
+20:36
+true Cuál va a ser el resultado de esto chavos si tengo false exactamente el
+20:43
+resultado final es por qué Porque el or funciona así el
+20:52
+or funciona exactamente con que tú tengas un solo true ya
+20:58
+el resultado final va a ser true muy
+21:04
+bien así es es un ejemplo Messi es campeón del mundo si es un campeón del
+21:10
+mundo a pesar de que haya perdido cuatro de cinco No aquí solo importa con que lo hayas ganar una vez ya con eso basta
+21:18
+no muy bien el
+21:23
+false por ejemplo lo que les decía del veneno Déjenme pensar en qué otra cosa
+21:28
+una situación que lo
+21:39
+real buen pue ser ejemplo también para ser campeón del mundo no pero aquí en el
+21:44
+mundial imagínense una selección Francia por ejemplo en
+21:57
+2018 para que Francia ganara o fuera campeón
+22:02
+tenía que haber pasado el primer partido el segundo el tercero el cuarto El
+22:07
+quinto El sexto y El séptimo bueno primero clasificarse vamos a poner el C el
+22:16
+clasificarse No aquí Francia para ser campeón del mundo tuvo que tener
+22:22
+[Música] true y bueno el
+22:30
+ant voy a poner ant en matemáticas se pone al revés se pone así se pone como
+22:36
+al revés una V volteada una V volteada una V volteada una V volteada una V
+22:42
+volteada una V volteada and and and no O sea Francia para ser
+22:51
+campeón tenía que haber ganado todo no O sea tuvo que haber pasado todos clasificarse pasar partido uno el dos el
+22:58
+TR el cuat el 5 el 6 El si no O sea seguir vivo Pues en el mundial y así es
+23:04
+la única forma de que fuera true verdad sea de que fuera campeón Qué pasó con Francia en
+23:11
+2000
+23:16
+22 f en 2022 chavos estuvo casi
+23:26
+todos es
+23:33
+true no en 2022 acuérdense que perdió la final
+23:38
+no Entonces cuál es el resultado final false false verdad acuérdense con
+23:46
+que haya un solo false todo se vuelve false o sea aquí es
+23:52
+como decíamos la aquí en este es la pregunta no de
+23:59
+Francia fue campeón en el 2018 Sí fue
+24:05
+campeón porque pasó todos sus partidos aquí Francia fue campeón no Por
+24:16
+qué Pues porque no ganó la final verdad se así pasó todo s se clasificó al
+24:24
+mundial sí pasó el primer partido pasó el segundo pasó el tercero cuar quinto El sexto llegó al séptimo y El séptimo
+24:30
+lo perdió Francia es campeón no no verdad false porque
+24:37
+exactamente así es como funciona chavos Así es como funciona el true o sea bueno en los Ans y el or
+24:46
+el or aquí es la pregunta si Messi es campeón del mundo como les decía en este
+24:52
+caso es porque no importa que Messi haya perdido cu mundiales con que haya ganado
+24:58
+uno en su o sea se le puede decir se le dice y es es un campeón del mundo no muy
+25:05
+bien este pues así es chavos eso es una aplicación muy Pues bueno a los que les
+25:12
+gusta el fútbol este Pero bueno tiene varias
+25:19
+aplicaciones en la en matemáticas en la vida real y bueno tenemos la negación
+25:24
+chavos la negación es lo contrario O sea que si nosotros tenemos
+25:30
+true es false Y tenemos false es true y
+25:35
+cómo se pone con el signo este este signo significa
+25:44
+negación Okay que es el opuesto como el antónimo no muy
+25:51
+bien Bueno luego vamos a ver que puede
+25:57
+haber operaciones compuestas podemos combinar el and el or
+26:03
+y El bueno la negación por ejemplo y se puede poner así como lo tenemos
+26:10
+aquí Bueno una forma de poner las tablas de verdad que se los enseño Déjenme
+26:17
+veo okay bien una forma de poner tablas de verdad imagínense que nos dieran
+26:23
+cuatro statements o sea bueno cuatro proposiciones lógicas p q r
+26:30
+s Okay Cuántas combinaciones posibles
+26:37
+habría A ver primero antes de iniciar con tantas Si nada más tuviéramos p y q
+26:43
+chavos Cuántas combinaciones posibles tenemos bien Vamos a
+26:51
+verlas puede ser true false true
+26:58
+false aquí este va a ser true true false false bien tenemos estas
+27:06
+posibles combinaciones verdad que los dos sean verdaderos que el p sea
+27:12
+verdadero y el Q falso que el p sea falso y el Q verdadero o que los dos
+27:17
+sean falsos Cuántos tenemos Cuántas combinaciones cuatro muy
+27:26
+bien Generalmente son permutaciones Pero bueno vamos a cu muy
+27:33
+bien Ahora vamos a ver chavos para que ustedes encuentren la lógica Qué pasa si
+27:39
+tengo p q r a
+27:45
+poner false
+27:56
+false
+28:13
+luego tengo luego
+28:24
+tenemos bien tenemos iones que todos sean verdaderos que aquí el p y el Q
+28:31
+sean verdaderos el r falso que este sea verdadero falso verdadero verdadero
+28:39
+falso y falso falso verdadero y verdadero falso verdadero y falso falso
+28:47
+falso verdadero y los tres falsos se dan
+28:53
+Cuántos cuenten las chavos Cuántas filas tenemos ocho ocho muy bien entonces las
+29:00
+combinaciones son ocho ya van encontrando el patrón
+29:05
+sí okay se dan cuenta Cuál es la formulita si le hicieran Cuál es la
+29:11
+fórmula Por ejemplo si tenemos nada más uno el p y el Q Perdón nada más p
+29:17
+tenemos Solo dos opciones verdadero y falso verdad O sea para un statement se
+29:24
+una propuesta lógica voy a poner como una propuesta
+29:30
+lógica para una tenemos que esto es igual a bueno tenemos dos posibles
+29:36
+resultados verdad Entonces esto sería 2 a la un
+29:43
+verdad cuando tenemos dos propuestas lógicas sería dos
+29:50
+al cuadrado verdad 2 al cuadrado cuánto nos da cu cu aquí son tres propuestas
+29:57
+lóg Cuánto es 2 al cubo o mu bien y las combinaciones son
+30:04
+oo entonces aquí chavos Cuántas propuestas lógicas Ah voy a
+30:13
+tener dos a la 2 a la cu muy bien 2 a la 4 es igual a 16 Perfecto entonces el
+30:20
+número de propuestas lógicas es la fórmula es 2 igual al número de
+30:28
+propuestas lógicas No eso es potencia muy bien entonces es 2 a la n
+30:36
+verdad si tengo cinco propuestas lógicas cuánto sería 2 a la 5 si tengo 10 dos a la 10
+30:46
+verdad Y así okay esa es una forma porque
+30:52
+exactamente nos pueden dar varias propuestas lógicas y nos pueden poner varias operaciones
+30:58
+muy bien este Bueno yo creo que lo vamos a volver a
+31:05
+ver mañana nada más para que sigan viendo este miren por ejemplo aquí lo que les decía Aquí les ponen cuatro
+31:12
+propuestas lógicas p q rw no y miren nos pueden poner estas cosas o sea pueden
+31:19
+poner esto y esto y esto no etcétera y o sea por ejemplo tendríamos que hacer
+31:25
+Primero este como se ve aquí no está no es que son diferentes esto es
+31:31
+diferente ejercicio a esto s con razón este ejercicio verdad aquí por
+31:38
+ejemplo hacen el negación de q no luego se hace lo del
+31:44
+paréntesis y al final se hace el an verdad También hay una jerarquía luego
+31:51
+la veremos pero bueno el punto es que así se haría no íamos el Q el Q son
+31:59
+todas estas la negación es el opuesto verdadero falso verdadero falso falso
+32:04
+verdadero falso verdadero verdadero falso verdadero falso falso verdadero
+32:10
+falso verdadero son el opuesto verdad la
+32:15
+negación este tendríamos que ver acuérdense acordarnos de las tabas de
+32:20
+verdad Este es un or un or nos dice que siempre que hay un true verdad o sea por
+32:27
+ejemplo aquí y aquí true true y true nos da true true y false nos sigue dando true acuérdense que la única forma en
+32:34
+que sea false como en este caso por ejemplo es que estos dos son false los
+32:39
+dos son false Entonces es false verdad y este y este son false Entonces nos da false muy bien y al final pues este el L
+32:48
+tendríamos que hacer false y true nos da false acuérdense que es al revés del l con que hay un false verdad Y así y
+32:55
+bueno este sería el resultado final de la tabla de
+33:01
+verdad OK
+33:07
+Así para que vean que vamos a vamos a volver a ver mañana tranquilos per este
+33:12
+luego vamos a tener este el p implica qu el implicar el si esto pasa entonces lo
+33:19
+otro Ok también hay otro que no s si nos da tiempo que el solo lógicamente se p
+33:27
+Así cuando ustedes ven en que les dicen Sí y solo Sí en lógica en matemática se
+33:32
+pone así con una fechita así como para los dos lados no es es en lógica bueno Y
+33:41
+también lo que vamos a ver un poco mañana que quería verlo hoy ya no dio tiempo es lo de combinatoria chavos
+33:47
+combinatoria acuérdense que les dije que de las combinaciones existen n más Vamos a ver combinaciones y permutaciones no
+33:53
+no vamos a meternos en variaciones pero muy bien por ejemplo estas
+34:00
+cosas Según esto dice que sex Prim eso yo no me acuerdo haberlo visto el texto
+34:05
+de primaria pero ahí dice ha ser cierto este Okay entonces
+34:11
+este vamos a ver qué significa el principio de adición El de
+34:17
+multiplicación este Bueno luego vamos a ver que es un factorial
+34:24
+chiste este bueno la diferencia entre combinaciones y
+34:31
+permutaciones chavos mig n Está interesante lo que es uno para
+34:38
+permutaciones otro para combinaciones y pues ya eso sería pues todo lo que vamos
+34:45
+a ver eso lo vamos a ver mañana n más para que lo vayan como viendo este muy
+34:50
+bien Bueno espero que s lo podamos cubrir mañana si no máximo el jueves bu
+34:57
+este Okay chavos Pues bueno Espero que estén aprendiendo estén entendiéndolo
+35:03
+que este caso de Messi les haya servido para Messi la selección francesa les
+35:08
+haya servido para tenerlo un poco más claro too lo vamos a volver a ver mañana pero bueno Okay chavos pues Bueno nos
+35:15
+vemos y cuídense mucho Bye

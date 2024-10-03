@@ -1,0 +1,1200 @@
+0:02
+muy bueno Buenos días ahora sí que esta es la primera clase de python no de
+0:07
+programación vamos a ver ahora sí que pues las bases de programación con python vamos a ver por qué python la
+0:14
+verdad es que python es un lenguaje muy poderoso diría yo que hoy en día a lo mejor es el más poderoso que hay este
+0:21
+porque al frente de otros lenguajes de programación python la verdad es que o sea también los otros pero la verdad es
+0:26
+que python tiene muchas librerías no vamos a ver qué significa eso pero nos
+0:31
+permiten hacer de todo o sea la verdad es que vamos a ver que python te permite hacer digo no se va a cubrir todo eso
+0:37
+obviamente en el curso porque sería demasiado O sea la verdad es que yo no podemos también en dos meses esperar que vamos a hacer este
+0:45
+algo así Omar no O sea digo no pero sí va a haber unas muy buenas bases y van a
+0:51
+ver por qué python la verdad es que python este les permite hacer desde páginas web ciencia de datos lo que se
+0:57
+llama internet que básicamente es este pues todo lo de Alexa las etcétera
+1:03
+inteligentes artificiales les permite este mucho finanzas economía la verdad
+1:09
+es que python la verdad tiene librerías para todo este numéricas este para ingeniería todo la verdad este ya se ha
+1:17
+trabajado tanto en python que hay librerías para todo entonces pues van a ver que aprender python no es o sea les
+1:24
+permite hacer software les permite hacer muchas cosas hay bueno backent que es la parte de programación detrás de las
+1:31
+páginas digo no no O sea no se va a cubrir eso en el curso porque no daría tiempo pero sí van a ver o sea las
+1:36
+aplicaciones y por qué python es un muy buen lenguaje para empezar este porque la verdad además de todo es más sencillo
+1:43
+que otros y es muy o sea y rápido la agarras la onda y rápido puedes usar este sus librerías que eso es lo mejor
+1:49
+este pero sí vamos a ver las bases bien porque la verdad es que es importante ver las bases bien porque una vez que
+1:55
+tienes las bases bien pues es lo más bases en temas más en James en el
+2:01
+lenguaje que sea Este Entonces es muy importante sí tener las bases por eso sí las vamos a ver este que es la parte de
+2:08
+lógica y de matemáticas dijimos que estamos haciendo un video güey
+2:13
+mexicana este Bueno vamos a seguir vamos
+2:18
+a empezar ahora sí a ver lo que es la este introducción python no Okay muy
+2:25
+bien Pues bueno este digo no sé si lo conozcan Quién es
+2:30
+él este él es así que Alan turing
+2:38
+no no este bueno el punto es que a lo mejor han
+2:46
+visto su película este [Música]
+2:52
+es básicamente el que hizo lo del código Enigma no bueno que descifró el código Enigma que básicamente hizo la primera
+2:58
+computadora y hay muchas cosas que se llaman por ejemplo máquina de turing
+3:05
+no vamos a ver las bases Estas son las bases de programación banda en distintas computacionales y este el examen de
+3:14
+turing o prueba de turing y miren eso ahorita
+3:20
+que está de moda lo de las inteligencias artificiales este el examen de turing por ejemplo es Si una persona puede
+3:28
+reconocer si estás hablando con una persona o con una Inteligencia artificial Ese es el examen de turing
+3:33
+este pues hoy en día lo de todas estas Este bar etcétera este
+3:42
+están basadas en el examen turing les digo Alan turing Pues sí fue el de la Segunda Guerra Mundial el que descifró
+3:48
+el código Enigma de que tenía los alemanes Alemania nace en este momento Este
+3:53
+Entonces él fue el que hizo la máquina esta era matemático porque bueno van a ver luego van a ir luego el descuento un
+4:00
+meme pero sí programación computación en matemáticas básicamente o sea por eso tantos matemáticos por ejemplo una de
+4:07
+las que inventó unos o sea como el primer lenguaje de programación diríamos yo este
+4:14
+fue Adams es una mujer lo vamos a ver pero bueno el punto es que Alan turing
+4:20
+que fue el primero en inventarlas como una computadora por allá de 1940 y algo
+4:25
+en la Segunda Guerra Mundial este Pero bueno ustedes saben desde que se inventó no tiene tanto
+4:32
+tiempo que se inventó tendrá ochenta años esto y sin embargo pues ustedes han visto qué tanto ha avanzado y sobre todo
+4:38
+en los últimos diez años veinte en los últimos 20 años la verdad digo yo
+4:43
+todavía o sea me acuerdo que no pues el iPhone ni siquiera existía o sea cuando yo nací no inventó en el 2005 este bueno
+4:51
+salió al público etcétera Este sí el primer código era este con No ni
+4:57
+siquiera era todavía peor era con este estos cómo se llaman estos
+5:03
+bueno los transistores Sí pero eran este con estos las lámparas estas eran muy
+5:09
+eran analógico era digital era con circuitos de los Así que los
+5:16
+estos eran muy arcaicos hoy en día Pues ya hay millones billones de transistores
+5:21
+dentro de una tarjetita que estas son las bases de toda la programación digo
+5:27
+no vamos a ver aquí como tal pero pues es la base este vamos a ver eso sí es
+5:33
+importante ver las bases Pues bueno aquí los bootcamps Bueno ahí si quieren seguir en Instagram y Pero bueno el de programación que es
+5:41
+este de ahorita el de paito No pues bueno vamos a ver todos estos temas que
+5:46
+básicamente es empezar con python básico luego vamos a ver lo que es lógica de
+5:52
+programación eso es muy importante porque les dije la base la base de programación es la lógica Entonces sí es
+5:58
+muy importante que lo tengamos vamos a ver lo que Son estructuras de datos vamos a ver para qué Hay un por
+6:07
+ejemplo el creador de Linux Linux Tovar que es uno de los más grandes que ha hecho Bueno cosas por programación
+6:13
+etcétera este dice que un buen programador no se sienta tanto en el código o en los lenguajes y no se centra
+6:19
+más en las estructuras de datos y su relación entre ellos sus relaciones algoritmos básicamente estructuras de
+6:25
+datos Y algoritmos es muy importante saberlos porque estos pues lo padres que lo puedes traducir a paytona ya va
+6:32
+escrita ya va hace más masa bueno el que se te ocurra o sea las bases no es muy
+6:38
+fácil ya transferirlo a los otros una vez que lo tienen lo importante y lo más este primordiales aprenderse las bases
+6:44
+luego vamos a ver un poco de ya python un poco más avanzado intermedio vamos a
+6:49
+ver un poco de python aplicado análisis de datos no este que te den un archivo
+6:54
+de Excel o de csv vamos a ver qué significa ese el csv significa coma se
+7:00
+para ir en values en inglés valor por comas este que es una bueno van a ver
+7:06
+que mucha información muchos datos se manejan así o se manejan vía texto o
+7:11
+documentos punto txt o los de documentos lo de archivos de Excel puntos xlsx
+7:18
+etcétera estas extensiones son muy usadas python te permite trabajar con
+7:23
+cualquiera de esas hasta python te permita hacer una cosa muy interesante que se llama No sé si tengamos tiempo A
+7:29
+lo mejor lo vamos a ver muy por encima de una cosa que se llama webs
+7:35
+es básicamente tú le metes un link de una página web y python te agarra la
+7:40
+información de esa página web no este tú ahí ya librerías que te facilitan eso
+7:45
+obviamente no se pueden todas porque hay unas que están restringidas etcétera este Pero algunas de acceso abierto tipo
+7:52
+Wikipedia y eso si te sirve bastante webcaping porque puedes obtener la información de la web nomás pegando el
+7:59
+link no y lo padre de python es que te permite automatizar muchas cosas no eso
+8:04
+lo vamos a ver en lo de python intermedio análisis de datos pero vamos a ver un poco de probabilidad de
+8:10
+estadística porque bueno probabilidad de estadística funciona para aplicaciones de Inteligencia artificial así que todo
+8:17
+lo que ustedes ven los los filtros que tienen los filtros en Facebook de Whatsapp lo que sea eso es Inteligencia
+8:24
+artificial este inteligente artificial también está en Google Cuando haces una búsqueda e Inteligencia artificial ya
+8:30
+están aplicando en todo este en energía para ver este qué este
+8:37
+Qué tipo de energía es mejor usar A qué hora se usa también este la este
+8:43
+Inteligencia artificial este también se usa este
+8:49
+Sí también este con Yahoo final por ejemplo o blomberg la terminal de
+8:56
+bloomberg etcétera Este pero como grado en verano güey
+9:05
+Este Se va se puede ver este básicamente este muchas cosas con python
+9:13
+vamos a ver aplicaciones a leyes medicina negocios finanzas este
+9:18
+ingeniería ciencias es muy interesante de python van a ver que hay librerías que literalmente nos permiten hacer eso
+9:26
+de leyes aplicaciones por ejemplo una aplicación que se me ocurre que bueno ya la he hecho es bueno un contrato no un
+9:34
+contrato Pues puede ser de veinte páginas pueden ser de más por ejemplo los de compraventa los que son abogados
+9:39
+etcétera pues Cuánto son 20 páginas Imagínate que tienen que leerlo de 50 clientes No pues Cuántas hojas serían 20
+9:46
+por 50 son mil Ah que o sea leerse mil páginas digo no es una cosa de al menos
+9:53
+se tardas un día no imagínate que nomás te están pidiendo realmente el nombre del cliente los nombres de los clientes
+9:59
+este cuánto tienen que pagar y cosas así O sea no necesitas toda la información nomás necesitas cosas específicas Pues
+10:06
+bueno con python Por ejemplo si tienes estos archivos en un Word los puedes transformar a tipo texto y con python
+10:15
+puedes agarrar este tipo texto y puedes localizar hay unas quince veinte líneas de código que por ejemplo yo ya he
+10:21
+implementado y te saca a mirar en el archivo llamado este en la línea esta está lo que estás buscando no está esta
+10:28
+palabra Y en vez de tenerte que poner a buscar en los veinte archivos python te lo puede dar en un segundo entonces O
+10:35
+sea la verdad es que python tiene aplicaciones para automatizar cosas en leyes en medicina por ejemplo hay
+10:41
+librerías este por ejemplo en hay un estudio que en Estados Unidos los
+10:46
+doctores por ejemplo para detectar cáncer no este [Música]
+10:52
+una de cada diez predicciones del cáncer son erróneas en Estados Unidos
+10:57
+pues la Inteligencia artificial es una de cada cincuenta o sea el 10% de error
+11:03
+del humano contra el dos por ciento de una de las inteligencias artificiales entonces digo es bastante poderoso les
+11:10
+digo que la verdad es que programación se puede usar en imagenología o sea las
+11:16
+imágenes médicas no los rayos x este los ultrasonidos todo esto este lo puedes
+11:23
+hacer con programación ya está muy padre python tiene librerías que les digo lo padre de python es que con quince veinte
+11:30
+líneas de código pueden hacer cosas que otros lenguajes pues mejor serían siendo fientas línea entonces este python está
+11:36
+muy compacto en ese sentido entonces en python Tiene bastantes aplicaciones digo
+11:41
+de negocios por ejemplo pues toda la información no como decían de Yahoo finance o de las mismas nosotros de los
+11:49
+libros de contabilidad que tengamos de No que los tenemos Pues con python los
+11:54
+podemos analizar podemos analizar varios archivos de Excel al mismo tiempo que eso es lo poderoso se Imagínate que te
+12:01
+dan un archivo de Excel por cada bueno los que trabajen en esto de renta no inmobiliarias etcétera este y
+12:10
+tiene esa compañía este cincuenta este fraccionamientos o edificios etcétera
+12:16
+pues digo O sea si lo haces en Excel tendrías que hacer 50 veces y sin embargo comparto pues puedes hacer todo
+12:22
+de una entonces este eso es lo muy poderoso de python también en negocios también en ciencias en ingeniería en
+12:30
+ciencias Tiene muchas aplicaciones este porque a diferencia o sea por ejemplo python Lo bueno es que es gratis
+12:37
+entonces pues eso es muy es gratis y es muy poderoso Porque por ejemplo Sí en
+12:43
+ingeniería se puede usar más claro que sí sin embargo pues Marla apuesta Si usas todos los paquetes creo que cuesta
+12:49
+hasta Diez mil pesos al mes entonces digo Este y python pues entonces este además python tiene las
+12:56
+ventajas de que se puede usar en muchas cosas le digo se puede usar en páginas web se puede usar este
+13:01
+digo no deberían pero en hacking gético este también en ciberseguridad etcétera
+13:07
+este la verdad es que python tiene aplicaciones en Top este les digo
+13:13
+medicina leyes negocios este aquí como dice vamos a ver un poco de aplicaciones
+13:19
+de en Inteligencia artificial vamos a ver un poco de aplicaciones en videojuegos no este también tiene
+13:26
+librería por ejemplo la que vamos a buscar Bueno una de las que vamos a usar no sé si vayamos
+13:31
+es una librería de videojuegos inteligente artificial pues se puede usar de muchas muchas bandas
+13:49
+vamos a verlo vamos a ver luego que es una librería una librería básicamente este
+13:54
+es como decir son paquetes módulos es como conducir un
+14:00
+carro por ejemplo ustedes para conducir un carro no necesitan saber toda la física no necesitan saber Ah que este el
+14:07
+árbol de levas este para lo que se le conoce como redes neuronales lo vamos a ver qué significa
+14:12
+eso vamos a ver muy por encima la verdad es que digo ya si quisieran verlo más así pues si Dios quiere luego Habrá más
+14:19
+cursos de esto pero este básicamente Por ejemplo ahorita que está de moda chachi
+14:27
+es lo que son 96 capas de redes neuronales
+14:32
+al menos en tres punto cinco el que es gratis este Ese es chachipitivo luego vamos a
+14:39
+ver qué significa eso pero bueno python el punto es que este tiene aplicaciones le digo en Inteligencia artificial
+14:46
+inteligente artificial está en todo este en recomendadores en medicina en todo ya
+14:51
+lo están usando en todo eso es importante que lo veamos un poco les dije y bueno al final vamos a estar
+14:57
+haciendo lo que son los proyectos proyectos en cualquiera de estos temas no sé cuál les interese más diseño
+15:02
+también se usa o sea les digo todos los filtros de que ustedes tienen Snapchat en instagram en Facebook en WhatsApp lo
+15:09
+que sea este pues es Inteligencia artificial es programación y se puede hacer con python no vas a ver cómo
+15:15
+ustedes pueden hacer sus imágenes con python Sí por ejemplo los códigos
+15:21
+QR que están viendo aquí yo los hice con python Porque por ejemplo así hay páginas web que te pueden generar QR
+15:27
+Pero qué creen cuestan o tienen unas tienes un limitante por mes y ya después cuestan pues qué
+15:33
+creen con python con diez quince líneas de código ustedes lo pueden hacer Pues el número de veces que ustedes quieran
+15:39
+no Así pueden hacer códigos QR para este tener sus páginas web para etcétera Okay
+15:45
+muy bien esto OK Bueno mi CV mi currículum
+15:52
+mecánico eléctrico este ingeniero mecánico eléctrico en el Tec de Monterrey Campos Monterrey este también
+15:59
+tuve la oportunidad de ir a usi berkin que es esta universidad que ven aquí que es una de las mejores universidades del
+16:04
+mundo en programación y está al lado de silicon Valley que es donde está todas las compañías de estar en Facebook
+16:09
+Google este
+16:15
+todas estas Este Netflix etcétera están aquí y bueno este tuve la oportunidad de
+16:21
+estar ahí también fui este trabajé en una empresa energética
+16:29
+también este también fue ingeniero de materiales una compañía de Estados
+16:35
+Unidos que hacen este interior de automóviles ahorita estoy estudiando
+16:41
+computacionales este Muy bien Entonces
+16:47
+eso es lo que estoy haciendo es mi currículum etcétera les digo entonces pues vamos a ver muy muy aplicado esto O
+16:56
+sea python les digo que tiene muchas aplicaciones porque le digo tiene mucha librerías que son poderosos Okay y bueno
+17:03
+eso es este los horarios para que entendamos
+17:08
+bien cómo funcionan las clases ahorita por ejemplo estamos en Héctor no
+17:17
+en esta la de las once a las doce y aquí hubo un error de dedo
+17:23
+Okay este hay clases en la mañana y en la
+17:29
+tarde Qué quiere decir eso se ve lo mismo No si ustedes ahorita entraron a esto ya no tienen la necesidad de entrar
+17:34
+a la de la tarde se va a ver lo mismo cada día esta tiene lo mismo contenido que es eso
+17:41
+es para que si ustedes no pueden entrar en la mañana se metan a la de la tarde o si no pueden entrar la de la tarde
+17:46
+mañana no el punto es que tomen una al menos al día este digo si no se puede
+17:52
+pues de todos modos estoy grabando las clases digo lo mejor que se metan este y bueno el bitcoin es ver los temas de la
+18:01
+semana pasada con ejercicios no porque van algo muy malo en todo el mundo es que se se
+18:07
+avientan o sea el tema y se piensa que ya pues el alumno no más de verlo una vez ya lo va a entender No la verdad es
+18:13
+que no que como o sea yo creo que uno de cada Diez mil o cada cien mil quién sabe este
+18:19
+puede nomás verlo tienen memoria fotográfica y lo entiende así pero no la verdad es que el mayor a la gente del mundo no Entonces pues por eso vamos a
+18:26
+tener ritual que es ver lo de la semana previa con ejercicio obviamente en estas primeras semanas Pues no hay Rincón
+18:32
+porque pues porque no hay semana previa no entonces o sea empiezan a partir de la segunda semana y ahí ya vamos a ver
+18:39
+lo más aplicado con ejercicios este pues aquí este como es de programación pues obviamente vamos a verlo programando no
+18:45
+este y también bueno la parte teórica de matemáticas discretas que sí es muy útil
+18:52
+porque les digo programación es lógica y necesitan desarrollar su lógica para poder programar bien este Okay entonces
+19:01
+este también las partes del iPad que hagamos de matemáticas discretas y muy
+19:07
+aplicados me voy a tratar de hacerlo lo más aplicado programación pero sí se necesitan las bases la verdad es que sí
+19:12
+se necesitan porque pues bien desde las condiciones me voy a adelantar un poco pero por ejemplo todo lo que es las
+19:19
+condiciones y es el lo que son las condiciones White
+19:25
+etcétera pues se necesita la matemática de izquierdas que es la lógica no porque son las conocidas de verdad
+19:34
+que es lo de los
+19:39
+operadores ya saben no básicamente son los que no
+19:48
+Okay estos operadores los vamos a ver sí Y sí son muy necesarios Por qué este
+19:56
+bueno los proyectos entregables que harán básicamente Bueno ahorita
+20:05
+Bueno este van a ver este
+20:10
+que para obtener su diploma va a haber set de ejercicios no y un proyecto final
+20:18
+el proyecto final Como dicen bueno como dice va a ser el o sea ustedes van a
+20:24
+elegir uno de los temas no y les voy a dar el cincuenta sesenta por ciento van a va a ser que nos va a pedir cosas por
+20:31
+ejemplo de Medicina no y le va a decir incrementa esta librería este usando
+20:36
+medicina para esto y así no sí también los también todos
+20:42
+discossion todo todo todas la que hace de la mañana y de la tarde Aunque va a ser lo mismo también se hallaba este lo
+20:48
+van a tener o sea literalmente todo hace que todo lo que den esta que salga por sumen de estos cursos este segaba no y
+20:55
+los van a tener ustedes para que lo vean no después etcétera bueno decían hacer de ejercicios ahí les
+21:02
+voy a poner de acá Mira por ejemplo un ejercicio que se me ocurre de que escríbeme o sea usando cada tema no el
+21:10
+Eli el White le voy a poner un ejercicio de cada cosa en un set de ejercicios eso
+21:17
+hacer ejercicios van a ser o sea en la tercera semana les voy a dejar este en la sexta semana les voy a dejar este y
+21:25
+en la séptima semana les voy a dejar esto okay ustedes van a elegir el acuérdense en el proyecto final de cada
+21:31
+área no y lo va a poner unos ejercicios y va a haber una una parte libre en el proyecto final este los seis ejercicios
+21:38
+no O sea va a ser más que yo les diga por ejemplo Hazme uno de contraseñas y
+21:44
+por ejemplo usando el elipse no Y ustedes lo van a tener que poner lo van a hacer en un Jeep hop van a ver
+21:52
+bueno no se preocupen les dije todo el software y todo lo que ya vayamos a hacer les voy a enseñar Cómo cómo
+21:59
+descargarlo Cómo implementarlo todo es gratis este digo lo único que necesitan es internet y una computadora donde
+22:05
+instalarlos Aunque la verdad es que el código como tal ni siquiera van a entrar descargar nada porque lo van a hacer en
+22:11
+para que todo el mundo pueda hacerlo y no haya pretexto este está lo que se
+22:17
+llama Google colaboratorio Google
+22:29
+no entendí esa pregunta estados de A qué te refieres Bueno
+22:35
+ahorita este bueno Google colaboratorio
+22:41
+Ah no Bueno no tanto como tal o sea es más un sistema de este muy sencillo pues
+22:47
+o sea de que tú que el usuario defina por ejemplo su usuario y contraseña no y
+22:52
+que ahí mismo este te saque este si la contraseña que
+22:58
+pusiste es la correcta etcétera nada más es muy sencillo va a ser con elif no va
+23:04
+a ser tan avanzado como encriptación Y eso no a lo mejor lo podemos ver o sea pero lo veríamos por encimita la verdad
+23:10
+es que no da el tiempo suficiente como para ver todo eso porque Bueno ahorita vamos a ver este qué vamos a ver los
+23:17
+temas como tal bueno les decía el Google colaboratorio Es una herramienta que tiene Google donde tú puedes usar python
+23:23
+no este en cuadernos este de Júpiter Júpiter bien Júpiter es como Word
+23:33
+lo que Google colaborador es de dos los dos en Google Pues es lo mismo No o sea
+23:39
+Google colaboradores que tú puedes poner código en línea y puedes trabajar en conjunto este con más personas puedes
+23:47
+poner texto puedes poner imágenes puedes poner código que lo importante de python tiene una interpretador este de python
+23:55
+Entonces no necesitan de verdad descargar nada o sea ustedes la verdad es que necesitan nada más tener Así que
+24:01
+saber usar Google Drive les voy a enseñar Cómo generar Google colaboratorio no se preocupen también les voy a enseñar a usar este
+24:11
+okay Bueno antes de eso vamos a ver el día 27 de junio no hay clase porque
+24:18
+tengo que ir a hacer unas cosas en México este unos trámites Y probablemente o este viernes o el lunes
+24:24
+yo les digo le voy a avisar no va a ver porque también necesitas
+24:30
+eso Pero bueno todo lo demás siempre va a ver qué hace así que va a ser acuérdense que empezamos el 20 de junio
+24:37
+hoy termina al 20 de agosto no Okay del
+24:43
+20 de junio al veinte de agosto básicamente es lo que vamos a estar viendo no este pues acuérdense entre
+24:50
+semana diario este qué muy bien bueno les decía al gixco punto com una
+24:58
+página que pueden no vamos a verla vamos a quedarnos es como está tipo una red
+25:03
+social para programadores etcétera dónde vamos a tener ahí nuestros portafolios ahí los ejercicios los van a subir ahí o
+25:11
+sea ustedes van a subir su cuaderno de Júpiter o su python etcétera lo van a subir a este a este
+25:19
+y ahí Eso sirve porque así todo el mundo puede ver sus códigos No usted no nada
+25:25
+más van a decir Ah yo sé hacerlo no pues van a tener ahí el código no al final de cuentas es lo que yo voy a revisar yo
+25:30
+voy a revisar que esté ahí y que hayan hecho los dos ejes bueno las set de dos ejercicios y el proyecto no es lo que
+25:36
+voy a revisar eso es muy útil porque les digo o sea así ustedes van a poderlo poner en su currículum de acá Mira no
+25:42
+nada más eh o sea no nada más digo que lo sea hacer lo sé hacer porque aquí está la prueba física entonces
+25:48
+básicamente pareces El hip hop para que ustedes lo tengan así okay muy bien este
+25:55
+al final le voy a dar un diploma etcétera les digo que va a ser en un PDF
+26:02
+ahorita es introducción este les estoy diciendo que van a ver cada cosa que
+26:08
+veamos desde Cómo descargar Cómo hacer El hip hop Cómo hacer este el Google
+26:13
+colaboratorio que está todo muy sencillo pero igual lo vamos a ver aquí en la clase de verdad no se preocupen les dije
+26:19
+la única requisitos que supieron usar el zoom para meterse a la que hace este vamos a verlo así que todo como hacerse
+26:27
+un perfil de hip hop que es muy sencillo es casi igual que hacerse un perfil de Instagram o de Facebook este entonces
+26:33
+este vamos a ver eso Este bueno les decía el diploma les va a dar el PDF y también les voy a dar como tipo pulsera
+26:40
+no sé si algunos alguna vez han hecho pulsera que tienes un link donde se ve tu
+26:46
+diploma en línea para comprobar que sí es cierto que no elegiste Google este
+26:51
+pues bueno también va a estar así este les digo este también van a tener ustedes su portafolio en YouTube que es
+26:58
+lo importante para que todo el mundo vea que es de verdad sí aprendieron si hicieron las cosas
+27:04
+okay algo que se fue el temario
+27:13
+Okay es esto okay Por qué son importantes los temas miren vamos a ver
+27:18
+qué es cada tema en python básico pues vamos a ver un poco rápido se nos adelanto vamos a ver desde
+27:26
+cero no vamos a ver en python básico lo que son variables
+27:31
+lo que es asignar valores vamos a ver funciones
+27:38
+vamos a ver este Qué haces vamos a ver lo que es el sitio While
+27:45
+van a empezar de cero aquí no se ASUME literalmente nada de psicofort vamos a
+27:52
+ver también este programación orientada a objetos no vamos a ver qué significa
+27:59
+cada cosa no se preocupen ahorita nada más para que vayan oyendo los términos y nunca
+28:05
+los han oído vamos a ver también este pues sí métodos de las clases vamos a
+28:12
+ver pues bueno en estructuras de datos
+28:18
+vamos a ver en python hay unas que ya están hechas que son como los strings los diccionarios
+28:26
+vamos a ver lo que significa cada uno no se preocupen nada más es para que los vayan viendo así O sea para que vayan
+28:32
+oyéndolos listas
+28:38
+este y Bueno hay otras que están más avanzadas también las vamos a ver que
+28:44
+son cajas este árboles
+28:51
+y más no estas son en todos los lenguajes de programación y todas los
+28:56
+tienen les digo es importante saber las bases para que estas bases las puedan
+29:01
+aplicar en todo o sea pueden aplicar luego en lo que sea en lo que les pidan Pero bueno estas nos permiten manejar
+29:09
+los datos Porque como les dije Bueno linus cobal que es el el creador de
+29:15
+Linux No él dice que él un buen programador no se sienta tanto en el lenguaje sino sesenta en lo que son las
+29:22
+estructuras de datos y en su relación entre ellas su relación
+29:29
+entre ellas es algoritmo básicamente ustedes aprenden bien estas dos
+29:35
+básicamente ya aprendieron bien todos los lenguajes de programación por qué porque todas tienen digo con diferentes
+29:42
+comodidad sintaxis o sea con diferentes palabras y la mayoría Tienen las mismas palabras pero bueno este con diferentes
+29:48
+pero básicamente es lo mismo o sea los conceptos son los mismos este
+29:57
+Cuáles dos no entiendo bueno esa Estructura de datos y
+30:02
+algoritmos lo lo más importante de este programación este Linux tobal luego
+30:08
+vamos a ver quién es el hombre Pero bueno listo
+30:14
+es el que hizo Linux por ejemplo y es una de las mejores programadores etcétera y él dice que Y sí lo más
+30:19
+importante en programación esta son estas dos estructuras de datos y algoritmos no porque esta se traducen a
+30:26
+todos los lenguajes de programación con lo mismo entonces este lo vamos a ver en
+30:31
+python porque python es muy amigable A diferencia de otros pero digo la base es la misma en todos entonces bueno les
+30:39
+decía otros sistemas Okay pues bueno en análisis de datos
+30:45
+vamos a ver un poco algunas librerías no librerías útiles como es
+30:53
+numérica python yo la verdad es que aquí lo vamos a ver
+31:01
+en español pero si pueden y si no saben si es bueno que le metan al inglés porque la verdad es que programación hay
+31:08
+muchos recursos para la mayoría están en inglés entonces este si es bueno la verdad que vendan inglés este digo Aquí
+31:16
+no es obligatorio porque pues yo les voy a enseñar en español pero la verdad es que
+31:21
+sí o sea porque pues Por más que quiera y además programación es un área que se cambia cada día diario día con día están
+31:29
+creando cosas este habrán visto chachi los creadores de imágenes etcétera pues
+31:36
+o sea salieron hace tres cuatro meses y se han estado actualizando y se actualiza todo diario no
+31:42
+entonces pues y todo en la mayoría está en inglés entonces si es bueno que si ahí puedan ustedes aprendan inglés los
+31:49
+que no sepan porque la verdad es que programación Sí sí es muy muy de inglés Muchas de sus librerías O sea pues las
+31:56
+palabras en general en los lenguajes están en inglés entonces pues bueno vamos a ver nunca y vamos a ver otra que
+32:01
+se llama pandas vamos a ver otra que se llama
+32:09
+vamos a ver tensor y vamos a ver Marcos por ejemplo Estas
+32:16
+son las que se me ocurren sirven para analizar datos este sirven
+32:22
+para analizar cfvs txt León es una librería que te permite
+32:28
+hacer lo que se le conoce como Machine learning que si no lo han oído significa
+32:33
+en español aprendizaje automático
+32:38
+Okay el aprendizaje automático es que tú no no vamos a ver este qué significar
+32:46
+bien pero que tú no lo tengas que programar al 100% que vaya como
+32:51
+Aprendiendo la computadora la lógica es como nosotros nadie a todos
+32:57
+nosotros como aprendemos a hablar o cómo aprendemos a caminar Pues viendo y comprueba
+33:04
+Okay perdón Creo que se desconectó el internet
+33:09
+muy bien No sé si me oyen ya Ah perdón sí es que no se quiere
+33:16
+problema Hugo Al haber estuvo raro Okay muy bien muchas gracias este okay Bueno lo que les decía lo que les decía el
+33:22
+aprendizaje automático digo no lo vamos eh Porque le digo eso son temas enteros de materias enteras se lo vamos a ver
+33:28
+por encima Pero bueno básicamente les decía las inteligencias artificiales si quieren saber cómo funcionan básicamente
+33:35
+aprenden muy parecido a nosotros nosotros cuando aprendemos a caminar
+33:40
+hacer un deporte lo que sea este primero vemos y luego lo intentamos y
+33:48
+prueba y error O sea no nos sale la primera este si no sale a la primera a lo mejor fue así que comían un churro y
+33:54
+ya no lo puedes volver a hacer Entonces tienes que estarlo practicando no entonces básicamente es lo mismo que
+34:00
+hace el Machine learning le metes muchos datos y los algoritmos van aprendiendo
+34:05
+con probabilidad y estadística van haciendo algunos trucos etcétera entonces pues bueno esa es una de las
+34:12
+librerías que nos facilita eso les digo python lo bueno que tiene es que ya tiene muchas cosas en librerías nos
+34:19
+evita mucha lógica nos evita mucho esto pero sí es importante que sepamos un poco de la lógica para saber cómo
+34:25
+funciona y Cómo podemos implementarlos luego están unas cosas que se llama tensor esto es para redes neuronales
+34:35
+por ejemplo redes neuronales se usa mucho en por ejemplo la tres punto cinco
+34:40
+entonces se lo han usado Pero bueno no lo vamos a ver está chiquitita es punto cinco tiene noventa y seis este layers
+34:50
+de redes neuronales por ejemplo hoy en día están usando este
+34:57
+todo lo que es este inteligente artificial para todo por ejemplo ustedes cuando van al banco no este firman de
+35:04
+que una firma así de este con lápices Bueno ahí en el este para ver que si es
+35:10
+su firma pues usa la Inteligencia artificial las huellas digitales igual este les dije los filtros también este
+35:17
+hoy en día también ya se está usando en todo hasta en la energía Inteligencia artificial le están diciendo qué energía
+35:22
+es más útil a esta hora en la otra este la vez que ya lo están usando en todo
+35:28
+pues obviamente los autos autónomos como tipo tesla etcétera También usan
+35:33
+inteligencias artificiales este todo la verdad es que ya ya todo generadores de
+35:38
+imágenes este editores de video este todo todo se está gustando eso Entonces
+35:44
+vamos a ver muy por encima le digo más que nada vamos a hacer más que inteligentes de análisis de datos este
+35:51
+Okay bueno y les dije Vamos a ver un poco pero ya te estadística para entender un poco de
+35:58
+esto y este vamos a ver también aplicaciones no
+36:03
+como les dije medicina negocios ingeniería ciencias vamos a verlo O sea
+36:08
+casi de que un día cada uno para que todos vean que si hay aplicaciones que les digo que hay aplicaciones para cada
+36:15
+una de estas áreas y tú tiene muchas que tiene muchas librerías librerías son le
+36:21
+dije es Cómo manejar un carro tú para manejar un carro no necesitas saber toda la física detrás no necesitas saber la O
+36:28
+sea que el árbol de leva no necesita saber que el motor de combustión interna no necesita saber este toda la química
+36:33
+que necesitaron hacer para hacer el como O sea tú nada más necesitas saber ahora sí que sí es automático por ejemplo como
+36:39
+manejar el volante ponerlo en ponerlo en reversa con apagarlo no este pisar el
+36:45
+acelerador el freno y ya bueno saberlo usar los retrovisores no y ya pero
+36:52
+ustedes no necesitan saber todo la magia toda la física detrás este
+36:57
+químicas de hacer un carro no es lo mismo con las librerías en python las
+37:02
+librerías nos facilitan que nosotros no Necesitamos saber todo lo que está detrás para usarlas mamá necesitas saber
+37:08
+cómo usarlas pero sí es muy importante las bases para que tengas una idea una lógica De a cómo está funcionando no
+37:14
+etcétera entonces este para eso es lo importante que aprendamos las bases las
+37:21
+cuales las vamos a ver partir de mañana vamos a ver bien los temas ahorita nada más es como leer un
+37:27
+poco también vamos a ver una unas cosas de las bases es cómo funciona una computadora no
+37:33
+porque sí este cómo funciona por ejemplo el internet
+37:39
+todas las computadoras por ejemplo tienen lo que son la memoria principal
+37:45
+estamos a ver qué significa eso
+37:50
+una memoria secundaria
+37:56
+dispositivos de entrada
+38:04
+el cpu no este también está el procesador
+38:15
+y bueno obviamente de salida o de
+38:23
+básicamente estos son los elementos que definen una computadora
+38:29
+vamos a ver por ejemplo la memoria principal se refiere a la ram por ejemplo no sé si
+38:36
+han oído su computadoras que les dicen de que ya tiene ocho gigabytes de ram 16 etcétera que la ram significa random
+38:46
+Access Memory No sí Exacto muy bien implica exactamente hace Random Access
+38:53
+Memory que básicamente Esta es la memoria principal y esto es lo que quiere decir este componente básicamente
+39:02
+es esta memoria principal la ram es la que tú apagas cuando cuando si no guardas un archivo y tú lo apagas pues
+39:08
+no se guardan no Esa es la ram es cuando no guardamos en Word hoy en día ya se
+39:13
+tiene de que se guarden automático muchos lados pero si no lo guardas no O sea se queda o sea una vez que apaga la
+39:18
+computadora se muere este la memoria secundaria es la que tenemos el disco duro no
+39:25
+Sí bueno se quedan los temporales del caché Sí pero bueno si no lo sabemos guardar se puede así que se puede perder
+39:32
+Y entonces es por eso que es importante la memoria secundaria no es la que
+39:37
+tenemos como el disco duro es la que tiene en terabytes por ejemplo
+39:42
+no O quinientos doce gigabytes etcétera dependiendo de la computadora Esta es
+39:48
+una memoria más permanente digo no nada es permanente salida pero bueno Esta sí se queda guardado no es lo que guardamos
+39:55
+así los dispositivos de entrada o input pueden ser muchos pueden ser por ejemplo
+40:00
+pues el no puede ser el teclado este decir la pantalla es táctil pues la
+40:06
+pantalla etcétera este puede ser así que ya saben el mouse puede ser este teclado
+40:13
+no puede ser así que en la pantalla si es táctil este muy bien bueno el cpu
+40:21
+vamos a ver rápido el cpu es como el que controla todo imagínense que es como el Pues el organizador imagínense que es el
+40:28
+que dice como el project manager digámoslo así también el gerente del proyecto así los que trabajan en eso
+40:36
+básicamente es el que tú dices Mira tú haces esto tú haces esto y es el que tiene como organizado todo ese es el cpu
+40:42
+los procesadores es donde pasa la magia el procesador
+40:47
+son por ejemplo no sé si han visto en tus computadoras que dice Intel por ejemplo no Intel por i7
+40:54
+hoy nueve hoy cinco no exactamente donde están los transistores por ejemplo Qué
+41:02
+son los transistores les decía la magia la O sea viene de unos componentes
+41:07
+electrónicos que se llaman transistores que antes eran muy grandes por eso antes las computadoras eran enormes y no
+41:13
+tenían tanta capacidad ya Obviamente con la tecnología la física y eso han hecho
+41:18
+cada vez los transistores más pequeños Y estos ahora hoy en día pues caben muchos
+41:24
+en un chip muy chiquito entonces este el procesador es donde están estos y es
+41:29
+donde se hacen cada una de las operaciones Estos son así que para que lo vean aplicado los Intel que dicen su
+41:37
+computadora Intel core i7 o en las Mac nuevas las hoy en día las caras estas son m uno m dos es donde está el
+41:45
+procesador Ese es donde pasa la magia Ahí es donde se hacen todas las operaciones que hace la computadora
+41:51
+porque Bueno vamos a ver rápido eso es teoría pero es muy importante porque ustedes miren algo muy poderoso de
+41:58
+programación por eso tan es tan poderoso hoy en día y por eso se está usando tanto es porque si tú puedes abstraerlo
+42:12
+en números este en números
+42:19
+tú puedes procesarlo con la computadora
+42:25
+exactamente porque miren básicamente una computadora no te entiende letras no
+42:34
+te entiende imágenes no te entiende número realmente o sea bueno sí números ahí voy ahí voy este o sea no te
+42:40
+entiende de que tú pones por ejemplo Mi nombre es por ejemplo no no te entiendes
+42:46
+o sea pero lo que hacen las computadoras vamos a ver es una cosa que por ejemplo
+42:52
+en matemáticas no hemos visto no sé si han visto se acuerdan de esto por ejemplo
+42:57
+de x y fdx no aquí Tenemos uno dos tres
+43:03
+cuatro por ejemplo al cuadrado sería uno cuatro nueve y dieciséis no Okay esta a
+43:13
+este no Aquí está este está este y este a este no este
+43:22
+procesamiento este proceso se le llama mapear O sea que tú tienes una cosa es
+43:29
+equivalente a la otra no en el otro dominio dominio de Rango no bueno Esto lo hemos visto Así que en preparatoria
+43:36
+un poco en Secundaria creo que también este en toda la vida hemos visto esto no x y pues bueno las computadoras hacen lo
+43:43
+mismo las computadoras no entienden ahora sí que pero sí podemos mapearlo
+43:49
+Qué quiere decir por ejemplo hay un código que se llama aski
+43:54
+que es América estándar
+44:01
+no me acuerdo déjeme les digo para no decirles el nombre completo aski esto es muy
+44:09
+importante porque implica
+44:15
+[Música] American estándar
+44:27
+en American estándar coach por information
+44:33
+por information
+44:44
+significa este así que están código de estándar para el intercambio de la
+44:50
+información americano bueno estadounidense no okay Bueno básicamente las computadoras hacen eso tienen tablas
+44:56
+no este por ejemplo digo no O sea qué voy a inventar pues exactamente ese pero
+45:02
+este la lógica de esto es que la computadora cada letra cada carácter
+45:09
+cada símbolo por ejemplo la a mayúscula la mayúscula
+45:16
+en aski es el 65 digo no se tienen que memorizar esto Jamás nadie pero bueno o
+45:22
+sea para que entienda la lógica la computadora no entiende una letra la computadora asigna la a como un 65 y
+45:30
+realmente las computadoras ni siquiera tienen los números tienen lo que se le llama el código binario
+45:37
+el punto es que nosotros la letra decimos Ah la letra representa
+45:43
+el 65 la letra b creo que mayúscula es 66 y así no básicamente es lo que está
+45:49
+haciendo la la computadora todo el tiempo tú le metes una letra y lo traduce a números porque es muy
+45:56
+importante eso porque básicamente No nada más funciona con letras también funciona con imágenes por ejemplo cuando
+46:02
+vemos Nosotros una imagen no que dice los píxeles yo creo que todos cuando
+46:08
+oímos de las cámaras Y eso los píxeles no una cámara por ejemplo una imagen de veinte por veinte píxeles
+46:16
+es que tiene así que
+46:22
+no o sea son cuadros no y son 20 por 20
+46:27
+no 20 y 20 Ok la computadora realmente no entiende la imagen la computadora lo
+46:33
+que tiene cada Pixel tiene los colores también por ejemplo
+46:39
+nos representamos con números bueno la computadora lo representa con números por ejemplo el cero es el negro
+46:46
+creo que el 255 es el banco seguro pero creo que sí okay Y todos los colores así
+46:52
+que están se le asigna un color Bueno un número no entonces básicamente lo que hace la computadora es una serie de
+46:59
+números no es ese número
+47:05
+OK Bueno este básicamente es este una serie de números no Y para eso se ve un
+47:13
+matemática les digo porque por ejemplo esto es como si fuera un vector de cuatrocientos elementos no tú puedes
+47:21
+representar una imagen con un vector de cuatrocientos elementos y si tú les cambias las tonalidades a blanco y negro
+47:27
+Ah pues que hay que así es como funcionan los filtros de blanco y negro los que tienen en Instagram y eso básicamente lo que hace la computadora
+47:35
+el programa es muy sencillo vamos a ver vamos a hacer Aquí vamos a hacer un ejemplo de eso Tú tienes cualquier
+47:41
+imagen y hay librerías que te transforman cada uno de estos valores a
+47:47
+blanco y negro no entonces así es como nosotros podemos hacer filtros los filtros son eso
+47:54
+básicamente nomás le cambiamos los números este que es cada Pixel eso es le
+48:01
+digo o sea lo padre de programación de las computadoras es que si abstraer así se le llama lo que sea
+48:08
+imágenes imágenes les digo esas son serias de número la los Así que el
+48:15
+volumen ahorita que estoy hablando y eso es lo mismo las tonalidades frecuencias
+48:20
+etcétera son números o sea la computadora solo entiende Ah Bueno Eso está hablando con tantos hertz con tanto
+48:25
+volumen con tanto esto y nada más lo guarda como números eso es lo que le
+48:31
+entiende la cultura lo guarda todo como números y procesa los números Entonces con eso
+48:37
+gracias a eso nosotros podemos hacer así que de todo podemos hacer o sea imágenes filtros no
+48:45
+videos Por qué videos pues Qué es que es un video un video es una sucesión de
+48:52
+imágenes no por ejemplo es veinticuatro imágenes por segundo
+48:57
+O sea tú pones 24 imágenes en un segundo y cada imagen les dije que por ejemplo
+49:03
+aquí con una serie de cuatrocientos números entonces básicamente por segundo
+49:08
+lo único que estás haciendo es poner 24 imágenes o veinticuatro series de
+49:13
+números de cuatrocientos dígitos Y eso no lo tienen que saber eso lo hace la computadora pero esa es la lógica que
+49:19
+está detrás de los videos de las imágenes digitales del sonido de todo
+49:24
+por eso con las computadoras nosotros podemos procesar imágenes videos sonidos este también hoy en día con todo lo los
+49:33
+avances que ha habido del internet o finx podemos hacer también python te permita hacer hasta robótica
+49:39
+y lo que es internet por finx yo no sé si sepan que es internet o finx que
+49:46
+significa el internet de las cosas Qué quiere decir por ejemplo que tú puedas controlar desde la computadora motores
+49:53
+este aire acondicionado este puertas etcétera básicamente el automóvil
+50:01
+etcétera este todo eso se puede hacer con programación porque les digo
+50:07
+básicamente la computadora agarra una señal y da una señal de regreso y los
+50:13
+componentes son los que hacen de Que suba o baje los motores Pero todo es lo mismo básicamente al final la
+50:19
+computadora lo único que está recibiendo es una serie de números y si nosotros los No eso es un miren les voy a enseñar
+50:27
+rápido está en python por ejemplo que es lo que vamos a
+50:32
+estar viendo eso o sea estas bases es para que ustedes sepan porque sí son importantes
+50:38
+Bueno python es un tipo de lenguaje que se llama interpretado
+50:45
+y es un High Level
+50:50
+Language que significa un lenguaje de alto nivel
+50:58
+Qué quiere decir alto nivel Jessie que está hecho para el Humano o sea eso está hecho para
+51:04
+el Humano Qué quiere decir O sea que sea fácil programarlo y leerlo
+51:10
+él por ejemplo Este lenguaje de máquina
+51:18
+lenguaje de máquina por ejemplo los ceros y uno no aquí Ese
+51:25
+es el binario por ejemplo no el binario que eso nadie ningún programador lo hace así pero bueno o sea este es para las
+51:33
+computadoras Esto es lo que entiende la computadora Y esto es lo que entiende el Humano
+51:40
+un interpretador básicamente es un traductor es como si fuera un diccionario porque les dije es el
+51:48
+diccionario en sí es el proceso de mapear y básicamente un interpretador eso no nos vamos a meter a eso pero un
+51:55
+interpretador tú le metes código de python y lo transforma esto al lenguaje de máquina ese es un interpretador
+52:02
+también existen otros tipos de lenguaje digo nomás para que tengan la cultura general como sé más
+52:10
+ya va No etcétera Sé que estos no son interpretados se le llama compilados
+52:18
+que el compilado es en vez de usar un interpretador uso un compilador python
+52:24
+no python es más sencillo que eso python es muy sencillo en el sentido de que nomás lo lo pones corre y corre
+52:30
+en temas más ya tienes que compilarlo luego correrlo Nomás es lo poderoso del interpretador
+52:38
+no lee y lo traduce al lenguaje de máquina entonces este
+52:43
+también estos hasta temas más y todos estos también son de alto nivel Qué
+52:49
+quiere decir que están hechos para el Humano no es para las computadoras por eso el compilador lo que hace lo mismo
+52:55
+que el interpretador lo traduce al lenguaje de máquina python solo Vamos o
+53:00
+sea python es más sencillo y no necesitamos saberlo de interpretar este
+53:07
+eso es lo muy poderoso de python y ya para terminar lo que le decía las clases
+53:14
+se ve el contenido No sí en San Salvador también es de bajo nivel o sea es para
+53:20
+lo que puede entender la computadora este eso La verdad no no lo vamos a ver
+53:25
+porque les digo eso ya es más y te quieren meter a cosas de cargo y eso La verdad es que ni siquiera un programador normal lo ve este entonces este Okay les
+53:36
+dije las que haces es lo que sabe el contenido que es como esto es rico la acuérdense que es para donde vamos a ver
+53:42
+los temas de la semana previa con ejercicios este como es de programación Pues aquí vamos a programar
+53:48
+ejercicios de programación para que veamos y cada uno de ustedes acuérdense digo es como matemáticas la única forma
+53:54
+de aprender bien es haciéndolo ustedes mismos entonces pues sí les va a estar dejando ejercicios y van a estar
+54:00
+haciéndolos porque pues digo Por más que quieran no no pueden aprenderlo nomás de verlo tienen que hacerlo las discusión
+54:07
+también es un resumen de la semana y pues dudas que tengamos de esta semana
+54:12
+etcétera este bueno las clases voy a tratar de subirlas cada sábado
+54:22
+no entiendo como que martes y jueves Las clases son diarias no este
+54:28
+pues como habían visto no el horario este son diarias no pero vamos rápido
+54:36
+Ajá pues ya no sé si se acuerda que les he compartido el horario básicamente son
+54:41
+estas no tienen que ir a una de la mañana o de la tarde y lo preferentes que vayan al récord porque en el alcohol
+54:48
+es donde se ven los ejercicios no me van a estar practicando igual en la discotion okay Digo ya nada más para
+54:55
+terminar este [Música] la disposición es esto bueno las
+55:01
+grabaciones se las voy a subir voy a tratar que los jueves pero mínimo o sea seguro los sábados de toda la semana
+55:06
+para que ustedes lo tengan el fin de semana digo no puedo hacerlo más rápido porque como son muchas que hacen que la computadora tienen límites No digo no es
+55:13
+magia este entonces Este voy a subirlos voy a intentar que sean los jueves pero también los sábados seguro van a tenerlo
+55:19
+de cada semana el contenido del día a día Pues sí sí va a estar digo si ustedes se hubieran metido desde ayer en
+55:25
+la noche ya estaban las diapositivas aunque también voy a subir todo lo que hagamos los códigos de python y etcétera
+55:31
+los voy a subir el día con día no este mande Cristofer qué pregunta tienes
+55:39
+Perdón por interrumpir vamos a ver este métodos de predicción como regresión
+55:45
+lineal o simulaciones nos vamos a ver muy por encima como o sea como te dije lo vamos a usar con O sea sí lo vamos a
+55:53
+ver no vamos a ver toda la lógica en matemáticas detrás de eso no no da tiempo pero sí lo vamos a ver con eso
+56:01
+son las librerías como les dije las librerías es como manejar tú no necesitas saber ni este la combustión ni
+56:08
+cómo se manufacturó ni siquiera el peso ni el centro de gravedad de un vehículo o sea los diseñadores y obviamente pero
+56:16
+tú como usuario pues nada más necesitas saber usar el volante necesitas saber usarlo Así que la palanca de velocidades
+56:23
+y necesitas usar el freno el clutch Bueno si es así es manual y este el
+56:28
+acelerador no es lo mismo aquí así lo vamos a ver en análisis de datos pero lo
+56:33
+vamos a ver nada más aplicado O sea vamos a ver las librerías y ya no va a
+56:39
+dar tiempo de ver toda la matemáticas detrás este aunque quiera la verdad es que no da tiempo o es uno o es el otro
+56:44
+entonces este les voy a enseñar o sea lo mejor sí conceptualmente pero que ustedes lo puedan hacer así no tanto la
+56:51
+verdad O sea pero si van a saber usar al menos en las librerías para hacer esto de predicción de predicción lineal que
+56:58
+es el más sencillo es muy sencillo van a ver que nada más es crear una clase es poner un los datos y se acabó python te
+57:06
+da este una revisión lineal que básicamente es una línea recta que trate de
+57:11
+de ajustarse a los mayor número de valores posibles eso se usa mucho en
+57:17
+algunos predictores muy sencillos la verdad es que ya los más complejos usan redes neuronales pero para cosas
+57:24
+sencillas sí se puede usar eso este les digo más que nada vamos a ver cómo usarlo no cómo diseñarlo porque eso ya
+57:30
+serían otros cursos más adelante Ok este bueno Y bueno ya para acabar
+57:36
+como les dije Vamos a ver este cómo procesar datos de Excel obviamente
+57:41
+python Eso sí vamos a ver un poco de Cómo usar la terminal cada computadora tiene una terminal y es importante
+57:48
+saberlo usar porque la verdad es que les da más poder van a ver por qué luego les
+57:55
+dije Vamos a usar el código lo vamos a hacer en Google colap no necesitan descargar nada Para eso ya este
+58:01
+necesitan saber yo les voy a enseñar Cómo abrir el Google etcétera tranquilo digo Oye nada más introducción este pues
+58:08
+bueno este con esto les voy a estar ayudando qué es lo que tengo bien Esto les voy a enseñar Cómo usarlo pero no lo
+58:14
+vamos a usar como tal O sea no vamos a programar en visual Studio code visual Studio code es una cosa que se le llama
+58:20
+ID que es donde se usan para programar este visual Studio code puedes programar en
+58:27
+todos los lenguajes bueno Muchos en temas más javas ya va en python nada más
+58:32
+les voy a enseñar una que hace A lo mejor tantito Cómo usarlo pero no lo vamos a estar usando más Google colap
+58:38
+porque Google colap tiene la ventaja de que no estás descargar nada también igual es este es
+58:45
+específico para python tiene muchas funciones el Júpiter Notebook es lo que les dije Júpiter Notebook es el
+58:51
+equivalente al Word y el Google colap es el equivalente al dos o sea una es una versión de Google
+58:59
+Drive y el otro es como el en tu computadora se corre el Júpiter Notebook es el que se corre en tu computadora les
+59:06
+voy a enseñar muy poco de esto O sea también va a ser un Cash delaytec por ejemplo esta para que se
+59:12
+vean bonitos su sus apuntes leytec es una
+59:18
+no lo vamos a ver pero es para que puedan poner fórmulas y cosas así se vea estructurado porque por ejemplo el
+59:24
+Google colap te permite usar latex para poner fórmulas etcétera y bueno vamos a
+59:29
+estar usando librerías en python digo todos estos gratis o sea hacerte tu
+59:35
+cuentas gratis este A lo mejor lo único que puede costar es el Excel no
+59:40
+mucho pero sí pero todo lo demás pues digo la terminal todas las computadoras lo tienen entonces gratis no ya lo
+59:47
+tienes eso ya lo tienes ni siquiera lo tienes que instalar python algunas computadoras no lo tienes y lo tienes que instalar les voy a enseñar cómo
+59:54
+hacerlo Aunque no es necesario porque les digo que van a estar haciendo en Google colap pues Google colap también es gratis no este pues también Descargar
+1:00:02
+y descargar visual Studio code gratis también Descargar Júpiter es gratis usar
+1:00:08
+over gratis y usar las librerías de python son ya no entonces realmente todo
+1:00:13
+lo que vas a estar usando pues es gratis a lo mejor Excel les digo quieren usarlo en Excel este pues ese sí en costo por
+1:00:20
+ustedes pero todo lo demás pues es gratis no que es lo muy poderoso y es lo que les digo python es tan poderoso y es
+1:00:26
+gratis Así que es muy buena opción para empezar y bueno chavos ya es la hora este no sé si tengan alguna duda o
+1:00:33
+pregunta
+1:00:40
+que me quieran hacer del contenido de los temas de lo que sea si tienen alguna
+1:00:45
+pregunta por favor okay
+1:00:52
+muy bien No sé de verdad Si tienen una pregunta más un minuto más yo sí tengo
+1:00:57
+una pregunta los días que no van a haber clase es que sería que las grabaría o de plano ese
+1:01:04
+día no ese día no va a ver qué hacen ese día no va a ver qué hace este solo son dos les digo en todo el curso o sea es
+1:01:11
+porque tengo que hacer cosas este en México pero este aceptación de eso todo lo demás días
+1:01:18
+toda la semana siempre va a haber clase Okay de nada No sé de verdad si tienen
+1:01:25
+alguna otra pregunta Déjenme [Música] cursos de conceptos más avanzados sí en
+1:01:31
+este no O sea este primero pues es introducción no digo vamos a ver bastante o sea vamos a ver las bases que
+1:01:37
+es muy fuerte les dije Vamos a ver lo que es matemáticas discretas digo O sea no están Vial como ustedes Pensarán No
+1:01:42
+de verdad que no este y las bases las estructuras de datos también son muy innecesarias porque la verdad es que
+1:01:48
+muchas personas desde desgraciadamente se lanzan luego luego a querer aventarse Ah yo quiero ya nomás no me interesa eso
+1:01:53
+no quiero las bases pero no es bueno hacer eso porque es como querer aprender cálculo diferencial o integral sin saber
+1:01:59
+aritmética o sea digo lo puedes intentar luego te vas a tardar más tiempo y no
+1:02:05
+vas a aprenderlo también entonces lo importante es aprender como las bases por eso vamos a ver desde variables No
+1:02:12
+desde mañana vamos a empezar de verdad desde lo básico lo básico lo vamos a terminar Ya teniendo conceptos sólidos
+1:02:17
+porque los digo una vez que ya tienen los conceptos sólidos Ya pues agarrar cualquier o sea puedes agarrar cualquier
+1:02:24
+librería y puedes verlo de que más fácil o sea una vez que sabes los conceptos ya
+1:02:30
+puedes ver y Ah mira aprendo redes neuronales en un mes y si no tienes bien los conceptos te tardarías aprender
+1:02:36
+redes neuronales un año entonces o sea lo importante es que tengas bien las bases para que ya después puedas
+1:02:41
+aprender las cosas rápido o sea sí puedes o sea Es como ir al gimnasio o
+1:02:47
+sea yo lo veo así primero aprendes Cómo hacer bien los ejercicios y ya después les metes peso es lo mismo aquí o sea no
+1:02:54
+llegas al gimnasio queriendo agarrar cargarla de cien kilos o sea si haces eso te bajas lastimar y este así que te
+1:03:00
+vas a romper algo y vas a terminar un año sin poder ir al gimnasio lo mismo es aquí aquí primero aprendes ahora sí que
+1:03:07
+sin peso O sea ya después Nomás es meterle peso después ya no más es usar librerías pero ya es o sea lo importante
+1:03:15
+es las bases lo demás lo puedes aprender la verdad muy rápido siempre y cuando tengas las bases muy sólidas es por eso
+1:03:21
+vamos a ver todo lo que son bases digo Sí es bastante contenido porque les digo o sea básicamente fueron temas de
+1:03:28
+universidad son varias materias la de Estructura de datos es toda una materia la de este python básico python
+1:03:34
+intermedio análisis de datos Todas estas son materias completas de universidad Entonces digo si es bastante contenido no se quedan que si es bastante pero les
+1:03:43
+digo O sea ya aprender lo demás es muy rápido si tienen las bases fuertes Okay
+1:03:48
+chavos no sé si tengan alguna otra pregunta para ya terminar la sección de hoy
+1:03:59
+Sí muy bien Este no sé si alguna otras preguntas le digo o sea este tema o sea
+1:04:06
+no es tan no son tan básicos porque básicamente se ven los primeros dos años de universidad de programación estaré
+1:04:12
+usado con python entonces este muy bien alguna otra pregunta que tengan
+1:04:18
+no sé
+1:04:27
+pues si no bueno chavos nos vemos mañana y ya mañana Así que vas a empezar un
+1:04:32
+poco con variables con lo básico porque les dije o sea este este curso Es asumiendo que de verdad no saben o sea
+1:04:39
+nada empezamos de cero a cero pero si vamos a ir rápido la verdad ustedes como habrán visto si vamos a ver estructuras
+1:04:45
+de datos vamos a ver el hashtables vamos a ver todo esto vamos a ver un poquito un poquito de algoritmos vamos a ver la
+1:04:51
+base matemática discretas vamos a ver estadística todo esto Entonces sí es muchos temas pero empezamos Así que
+1:04:58
+mañana de cero porque les dije este curso es como cualquier alumno de primero de preparatoria Debería ser
+1:05:04
+capaz de poder empezar este con esto O sea sin nada de conocimientos de programación
+1:05:10
+Ok chavos pues Bueno nos vemos y Cuídense Nos vemos mañana
+1:05:16
+Muchas gracias profe Buen día hasta [Música]

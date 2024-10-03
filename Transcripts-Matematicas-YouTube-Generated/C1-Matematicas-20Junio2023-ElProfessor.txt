@@ -1,0 +1,886 @@
+0:02
+Okay muy bien Pues bueno básicamente los que ya estuvieron en la mañana pues bueno vamos a volver a ver lo mismo
+0:08
+porque acuérdense que el tanto la mañana como en la tarde es el mismo contenido exactamente de las quees entonces digo
+0:15
+los que hacen en la mañana si quieren quedarse está muy bien si no pues bueno como ustedes gusten la verdad espero que
+0:22
+que sí sepan que van a volver a ver lo mismo que vimos en la mañana entonces bueno los que no pues bienvenidos este
+0:29
+que esta es la primera que hace este que tenemos de matemáticas de y bueno vamos
+0:35
+a ver Esta es introducción o sea realmente no vamos a ver a lo mejor vamos a ver poquito pero casi no vamos a
+0:41
+ver tema ya a partir de mañana ya vemos bien tema no entonces bueno bienvenidos
+0:47
+y Okay por ejemplo no se actualiza la pantalla Ahí
+0:54
+va Okay muy bien Este por ejemplo no sé si sepan Quién es este señor es un de
+1:00
+los más grandes científicos que ha habido yo no sé si han visto la película
+1:07
+a lo mejor maana se las pongo este bueno no obviamente no aplic per los 5 minutos de este este hay una escena muy famosa
+1:15
+que cuando él era niño este supo lo que era la progresión aritmética y bueno
+1:20
+gracias a gaus la verdad es que tenemos muchas cosas de la hoy en día del mundo moderno entonces bueno este en teoría
+1:27
+Fed gaus este Okay pues bueno este este es así que los bootcamps
+1:36
+que estamos bueno están dando no este mu bien Creo que nos actualizas
+1:43
+está Okay muy bien Bueno básicamente este es así que
+1:49
+los bocam no este es el Instagram básicamente y bueno este que es el de
+1:55
+matemáticas nos vamos a sentrar en el de matemáticas que es el que estamos viendo
+2:01
+ahorita okay muy bien este que es el de matemáticas vamos a ver qué contiene no
+2:09
+contiene lo que es precálculo trigonometría
+2:14
+álgebra cálculo diferencial cálculo integral matemáticas creo que está medio
+2:22
+desfasado Perdón es que el Internet ahorita Siempre esta hora Como es que
+2:28
+ahora pico de todo el mundo pues bueno menos de toda esta sección del del mundo
+2:35
+pues este Okay muy bien
+2:40
+y está ahora sí que matemáticas discretas está álgebra
+2:48
+lineal está lo que es probabilidad y estadística esto es muy importante
+2:53
+lógica y demostraciones etcétera Okay muy bien aquí pues como les había dicho
+2:59
+es este curso empieza Pues de cero Bueno o sea en teoría cualquier estudiante de primero de preparatoria para arriba
+3:06
+debería de poder tomar este curso yo si empezamos de cero pero la verdad es que va muy rápido todos los cursos van
+3:12
+rápidos entonces este vamos a empezar Así que desde Así que desde el principio
+3:20
+aritmética aritmética no vamos a ir con todo lo de cálculo que sal que
+3:26
+vean lo que es trigonometría
+3:32
+vamos a ver cálculo [Música] diferencial
+3:40
+integral qué más dijimos era Okay matemáticas discretas esta a lo mejor no
+3:46
+la han oído es muy útil vamos a ver Por
+3:53
+qué este álgebra lineal
+4:04
+probabilidad y estadística y al final bueno lógica
+4:12
+Bueno también vamos a ver también eso me faltó ponerlo pero también vamos a ver con Excel y python
+4:21
+aplicaciones a finanzas
+4:28
+negocios Okay muy bien así que empezamos desde lo
+4:36
+básico básico básico Así que aritmética No pues aritmética básicamente es lo que
+4:42
+hemos estado viendo desde primaria secundaria no que es con los números no
+4:47
+los signos más el positivo el negativo este
+4:52
+las operaciones ya saben más menos bueno sumar
+4:58
+suma la suma se representa con la cruz no menos resta no este pues ya saben
+5:07
+multiplicación acuérdense una multiplicación queé es básicamente es una suma compacta no Qué quiere decir
+5:15
+mira por 5 + 8 no 5 + 8 es = 2 3 este 5
+5:24
+- 8 es igual a -3 por ejemplo no Okay multiplicación
+5:30
+el poner 5 por 7 esto es equivalente a si tuviéramos
+5:37
+7 + 7 + 7 7 + 7 no igual a que 35 no O
+5:47
+es equivalente si tuviéramos 5 + 5 y así bueno así no hasta llegar acá y también
+5:54
+nos daría 35 básicamente la multiplicación es una suma comprimida no no O abreviar este la división no mir la
+6:04
+multiplicación Cómo se representa esta diferencia de la suma y la resta que nada más tienen esos Cuáles son los
+6:10
+signos con los que pueden poner una multiplicación pues está el paréntesis está la x está el punto y
+6:18
+está el asterisco es el asterisco se usa en las computadoras mucho en las calculadoras no computadoras
+6:23
+calculadoras el punto también se usa la x los paréntesis
+6:30
+este por ejemplo también está la división no la
+6:36
+división este también se usan Qué signos pues se usa el signo de división normal
+6:42
+se usa poner aquí un número entre el otro número y se usa también la diagonal
+6:48
+no la diagonal también igual en las computadoras se usa mucho este okay Y pues bueno es a ver
+6:56
+acuérdense eso vamos a ver ya mañana más a detalle ahora sí que el orden la jerarquía de operaciones es muy
+7:03
+importante esto porque la verdad es que la aritmética las reglas de la aritmética son las reglas igual en
+7:09
+álgebra igual en trigonometría igual en cálculo diferencial integral en
+7:14
+matemáticas o sea en todo todo viene de las bases de la aritmética y las mismas
+7:20
+bases de aritmética son las que nos permiten Así que hacer lo mismo en diferencial en integral en álgebra
+7:26
+lineal En probabilidad estadística entonces la verdad es que sí es muy importante y como les dije o sea pues
+7:32
+vamos a empezar las primeras Dos clases probablemente vamos a ver esto y ya luego vamos a saltar ya a cosas más
+7:38
+avanzadas Pero sí es muy importante que sí lo veamos Con lujo de detalle para
+7:43
+recordarles que en teoría digo esto ya lo debimos haber visto en Secundaria y en primaria
+7:50
+este Pero bueno básicamente este vamos a volverlo a ver no hay problema rápido
+7:56
+este Okay como les decía este también existe que en parte de
+8:03
+aritmética no lo que son los signos este pues positivo no y el menos es el
+8:10
+negativo Qué quiere decir miren si se acuerdan de la recta de los números que hemos visto desde primaria
+8:19
+este Okay aquí en medio qué va el cero verdad aquí el infinito y el menos
+8:28
+infinito verdad y los números pueden ser positivos o negativos por ejemplo el 1
+8:35
+-1 -2 y un dos y también puede haber
+8:40
+números negativos decimales -0.5 0.5 -
+8:47
+1.5 1.5 no los positivos son los que están a la derecha del cero y los
+8:54
+negativos son los que están a la izquierda del cero no Okay esto es muy importante porque matemáticas vamos a
+8:59
+ver sus propiedades acuérdense por ejemplo multiplicar positivos con negativos positivo con positivo
+9:07
+etcétera nos sirve bastante porque pues es lo mismo en cálculo no en esta
+9:12
+probabilidad en todo son las mismas reglas también una parte de la aritmética y eso que no s hemos visto ya
+9:20
+desde hace rato y si no lo van a ver de nuevo en pra seguramente y en universidad también aunque no lo quieran
+9:26
+se vuelve a ver cuando empiezan a explicar cálculo diferencial integral lo que son los conjuntos de números
+9:34
+no no sé si se acuerdan o si no han visto lo vamos a ver están los
+9:41
+enteros están los positivos los
+9:46
+negativos Así que este los negativos los positivos están qué más los
+9:58
+racionales irracionales bueno
+10:06
+reales imaginarios
+10:13
+complejos no Okay por ejemplo números enteros Pues
+10:19
+el 1 el 2 el -8 el -10 no Okay muy bien
+10:25
+así son los números enteros verdad O sea mismo no me lo dice quiere decir que no tienen decimales verdad por los
+10:33
+positivos es cualquier número que esté a la derecha del cero Qué quiere decir aquí puede ser el 0.001 o puede ser 10 o
+10:39
+puede ser 500 lo que sea los positivos básicamente poner
+10:48
+alternado okay los negativos pues son los que están a la al izquierda no por
+10:54
+[Música] ejemplo
+11:00
+por ejemplo los que están a la izquierda pueden ser igual negativos como -5 puede
+11:07
+ser -1 Med - 0.8 -1 etcétera no los negativos sono
+11:14
+necesitan estar a la izquierda del cero Okay los racionales miren los
+11:23
+racionales básicamente lo vamos a ver más a detalle mañana pero rápido es cualquier número que tú puedas expresar
+11:31
+en una división pente q el número pente q por ejemplo pues puede ser enteros o sea puede ser
+11:38
+10 / 10 que esto es igual a 1 todos estos son racionales que tú puedes poner
+11:44
+número pente número q y te dé un racional porque tiene una razón sin
+11:50
+embargo los irracionales no los irracionales vienen por ejemplo Bueno aquí ya no lo vimos Pero bueno vamos a
+11:56
+realizarnos un poquitito a aquí lo que decíamos multiplicación división y vamos
+12:02
+a recordar también cosas como potencias no las
+12:12
+potencias potencias no una potencia es también es como una
+12:18
+multiplicación Pero comprimida no por ejemplo 5 cub 5 al cubo es equivalente
+12:26
+si tuviéramos 5 * 5 c acuérdense que puede ser con el punto acuérdense que
+12:31
+puede ser con el paréntesis acuérdense que puede ser con
+12:37
+el asterisco y el normal no el que siempre hemos puesto el X
+12:43
+no son equivalentes No eso solo es forma de expresarlo Pero al final todo es 5
+12:49
+por 5 por 5 no y acuérdense en la
+12:54
+multiplicación el orden de los
+13:06
+factores no altera el
+13:13
+producto verdad Okay ubicación el orden de los
+13:19
+factores no altera el producto Okay muy bien Qué quiere decir que por ejemplo podemos empezar con esta con estos
+13:26
+etcétera no importa este eso es una propiedad de la multiplicación verdad
+13:32
+igual de la suma este no altera el producto sumas multiplicación este
+13:42
+okay Y esto es importante porque bueno de la potencia nos brincamos a algo que se
+13:49
+llaman raíces no una raíz por ejemplo la raíz y por
+13:56
+ejemplo 100 okay muy bien cuando la raíz se expresa con esa casita y el
+14:03
+triangulito no así esa expresión qui decir raíz miren también existen
+14:23
+estas e4 mir básic
+14:30
+cuando nosotros no le ponemos número esto es equivalente también se podía
+14:35
+poner así Eso es la raíz cuadrada de 100 por convención No se le pone digo le puedes
+14:43
+poner O sea al final de cuentas se lo puedes poner pero si ustedes ven solo la raíz quiere decir que es una raíz
+14:48
+cuadrada si ven La casita de la raíz en el número quiere decir que es una raíz cuadrada si le ponen el número es raíz
+14:55
+cúbica Qué es una raíz Pues básicamente una raíz es ahora sí que voy a poner Voy
+15:02
+a poner difente color para que se
+15:08
+vea color verde Okay
+15:16
+miren este azul Así que lo que está este la potencia no es este básicamente la
+15:24
+raíz es qué número
+15:31
+elevado a la potencia n en este caso n est
+15:41
+es otro verde Okay sí Okay nos
+15:47
+da el número dentro de la casa
+15:56
+no por ejemplo Estos son sencillos obviamente yo les puse sencillos porque
+16:01
+este obviamente en matemáticas es cuando estamos Empezando este pues se ponen
+16:06
+números sencillos de 100 pues es 10 no 10 al cuadrado nos da 100 verdad porque esto
+16:15
+es equivalente a tener 10 * 10 10 * 10 es 100 acuérdense de las tablas de multiplicar eso lo hemos visto desde
+16:21
+primaria entonces este 10 * 10 es = a 100 verdad okay muy
+16:32
+bien y Okay y aquí pues raíz cúbica de 8
+16:39
+es igual a 2 al cubo verdad 2 al cubo es tener 2 * 2 * 2 2 * 2 es 4 y 4 * 2 es 8
+16:52
+verdad estos son sencillos no igual aquí de raíz cúbica de 64 Pues que sería 4 no
+16:59
+4 * 4 * 4 16 y 16 * 4
+17:05
+64 muy bien okay A qué I va miren estas son sencillas pero hay unas que no O sea
+17:13
+hay unas raíces por ejemplo raíz cuadrada de 2 la raíz cuadrada de 2 te
+17:18
+da 1.4 y así te da no y no es infinito o sea los números que salen pueden siguen
+17:25
+y siguen y siguen y siguen y no tienen una razón o sea no no hay una forma
+17:32
+razón se le llama en matemáticas también a una división O sea no existe irracionales acuérdense como en
+17:38
+matemáticas este posible bueno más bien en el lenguaje posible imposible cuando
+17:43
+tiene la i quiere decir que es lo contrario si la racional quiere decir que tú puedes expresarlo en una división
+17:49
+de pente q irracional quiere decir que no lo puedes expresar en una división de o sea de dos números algunos ejemplos
+17:56
+digo hay muchos pero es raíz cuadrada de dos pi el número e pi es uno muy famoso
+18:03
+que ese yo creo que lo conocemos todos que es para calcular el área o el perímetro de un círculo no este es lo
+18:11
+mismo o sea es un número irracional Este los decimales siguen y
+18:16
+siguen y siguen y siguen este esto se hacen con calculador bueno con calculadoras con computadoras los
+18:23
+irracionales este los números reales Pues en todos
+18:30
+estos los números reales engloban todos estos los imaginarios Pues no son los
+18:38
+que no son reales se expresan con la letra i y los complejos es la suma de
+18:45
+una parte real con una parte
+18:54
+imaginaria Okay estos son los números no vamos a ver que todas estas cosas tienen
+19:01
+aplicaciones este entonces este Esto bueno Esto es un
+19:07
+minir repaso pero ya mañana vamos a verlo bien este esto nada más era para ver algunos temas y conceptos les dije o
+19:14
+sea lo convertido deuda o sea vamos a empezar de Cero y eso literalmente es empezar Pues de cero no digo rápido pero
+19:21
+sí vamos a empezar este con aritmética luego nos vamos a lincar álgebra luego
+19:27
+trigonometría cálculo
+19:33
+este es muy importante estas reglas porque estas reglas de sumas de restas
+19:39
+se siguen aplicando en integrales siguen aplicando en derivadas se siguen aplicando en todas Entonces es muy
+19:46
+importante que lo tengamos bien sólido porque lo vamos a usar en álgebra en cálculo enbra lineal en todas entonces
+19:53
+este muy bien este pues bueno vamos a seguir poco con lo que hay Bueno mi
+20:00
+currículum así que por qué bueno qué soy Y qué le estoy dando queé hace bien Pues bueno Yo estudié
+20:07
+ingeniero mecánico eléctrico en el Tec en Monterrey y también Bueno tuve la oportunidad de estar en una muy buena
+20:13
+universidad en Estados Unidos Durante un año de intercambio este en uc vercy por
+20:19
+ejemplo uc vercy es en el top 5 del mundo en Pues en en el área de los tres
+20:25
+botc básicamente no que es este pues en programación en física y en matemáticas
+20:31
+y ya tomé cursos también de eso Entonces pues bueno básicamente este este también
+20:37
+estuve Bueno yo trabajando en una empresa
+20:44
+energética y también estuve como ingeniero de materiales este para una compañía que
+20:52
+hace interiores de vehículos y ahorita pues estoy estudiando La maestría en
+20:58
+ciencias
+21:05
+computacionales Okay muy bien bu eso es como mi información lo que he hecho y así este la verdad es que también el
+21:11
+punto de este curso es como verlo en cosas aplicadas no Para que vean o sea la verdad es que matemáticas Así que lo
+21:18
+bueno de matemáticas es que es probablement la ciencia que más aplicaciones tiene bueno el área que más aplicaciones tiene porque la verdad es
+21:24
+que matemáticas tiene aplicaciones hasta en ciencias sociales en economía y literalmente en relaciones humanas este
+21:32
+vamos a ver un poco okay Bueno vamos a seguir muy bien entonces bien vamos a
+21:41
+seguir estos son los horarios no ahorita estamos en este en la tarde También hay
+21:49
+en la mañana pero como les dije es lo mismo o sea lo que vemos en la mañana es lo mismo que vamos a ver en las tardes
+21:55
+todos los días Este y Bueno A partir de la siguiente semana esta no empieza el
+22:02
+recall en esta no p python perón este este el
+22:08
+recall básicamente es ver los temas de
+22:14
+la semana
+22:21
+previa con ejercicios no porque la verdad bu una cosa que se
+22:28
+comete de error en todo el mundo es que te avientan la que hace y esperan que n
+22:33
+más viéndola una vez ya asir que tú sepas No la verdad es que no la verdad es que el cerebro humano no es así el
+22:40
+cerebro humano tienes que estar practicándolo tienes que estar viéndolo etcétera para estar aprendiendo y pues
+22:46
+bueno Eso es así que es como y yo siempre he dicho que aprendes como ir al gimnasio en sentido de que mira si tú
+22:53
+vas al gimnasio 20 horas en un día o 20 horas durante 7 días durante toda la
+22:59
+semana vas 20 horas cada día no te va a hacer el efecto como si hubieras mejor distribuido esa 140 horas en 140 días No
+23:09
+este no O sea no te va no te va a sentir el mismo efecto entonces básicamente
+23:14
+puedes aquí aprender es lo mismo no entonces por eso las que haces son de
+23:20
+una hora y por eso también es de estar practicando
+23:29
+muy bien Y pues así está está bien Vamos a ver que es muchos temas Pero está bien
+23:35
+vamos a tener muchos ejercicios repaso etcétera okay Bueno aquí no lo puse Pero
+23:42
+bueno básicamente el 27 de junio no va a
+23:47
+ver qué
+23:53
+hacen y no sé si este viernes
+24:05
+23 23 de junio y o Perdón o el
+24:13
+lunes sería 26 uno de estos dos no los dos uno de
+24:19
+estos dos tampoco ver qu hace porque Bueno tengo que ir a México hacer unos trámites Pero tod los demás del de junio
+24:28
+que hoy empieza del 20 de junio al 20 de agosto
+24:33
+Pues si que haces acuérdense todos los días de semana Entonces Bueno nada más
+24:39
+estos días no va a haber qu haces esteo porque tengo que hacer unos pero todos
+24:45
+lo demás sí este muy bien el 20 de junio al 20 de agosto acuérdense que es el
+24:51
+curso Ok Muy bien bueno trabajos integrables bien van a ser usted
+24:59
+ejercicios un un ejercicios dos y un proyecto final Okay básicamente lo van a
+25:07
+subir primero antes que nada esto lo van a hacer en la semana tres igual en la tercera semana
+25:16
+y la tercera perd en la sexta semana y aquí en la séptima semana Se
+25:22
+los voy a dejar para cada uno de estos van a tener tres semanas para hacer las cosas y van a subirlo a esta plataforma
+25:31
+que es una página en línea que ustedes pueden buscar que se llama jop.com que
+25:36
+sirve para tener como portafolios lo usan mucho en programación pero también lo vamos a usar aquí en matemáticas aquí
+25:42
+ustedes lo van a usar para es básicamente va a ser su portafolio en línea Es como si fuera una red social
+25:47
+bien para quear es como si hicieran un perfil de Facebook o Instagram no es nada del otro mundo y es gratis siempre
+25:53
+y cuando es gratis siempre y cuando sus proyectos sean públicos qué quieren decir o sea ustedes pueden tener
+26:01
+proyectos privados pero pues Microsoft te vaa esta empresa esta página la compró Microsoft entonces tú lo puedes
+26:07
+tener si es como dian de código abierto o sea que todo cualquier persona lo pueda ver no este esto sirve porque por
+26:14
+ejemplo para que cualquier persona pueda checar que de verdad ustedes saben pues está ahí no es un portafolio en línea
+26:21
+que es gratis este Okay básicamente este
+26:26
+ustedes van a subir sus trabajos ahí y yo nada más voy a checar en el link me van a mandar el link y voy a checar Ah
+26:31
+así que el link de sus trabajos y voy a checar que estén Y ya y los tienen pues ya van a ganar un bonito diploma no este
+26:39
+en PDF y también va a estar en línea por ejemplo no sé si alguno de ustedes ha hecho algún curso en curseria Pues bueno
+26:47
+curseria te da un link para corroborar que efectivamente ya
+26:54
+estoy este básicamente es corroborar que tienen este pues que sí lo hicieron No
+27:01
+que no lo hicieron ustedes en Paint o en Powerpoint o lo que sea es que efectivamente si lo hicieron pues así va
+27:06
+a ser para tenerlo van a tener que tener su portafolio y esto eso del portafolio es muy bueno porque a ver que hoy en día
+27:14
+los empleadores Y eso la gente les interesa más ver una prueba física de que de verdad saben hacerlo y no tanto
+27:19
+tener un diploma que no no tiene más peso ver como que de verdad sepan hacer
+27:24
+las cosas okay muy bien OK Bueno los temas a
+27:30
+cubrir aquí está ya ya los vimos no cálculo trigonometría acuérdense de trigonometría pues es vamos un repas
+27:39
+acuérdense trigonometría es por ejemplo el teorema de Pitágoras
+27:46
+no la ley de cosenos eso lo vamos a ver por enci no se usa tanto este así que
+27:54
+determinar senos cosenos etcétera tangente etcétera V a ver un
+28:01
+poco de trigonometría este pues bueno la parte de álgebra pues ya saben de las
+28:07
+cosas que vamos a ver son polinomios funciones primer grado sego
+28:16
+grado ecuaciones no Okay cosas así vamos a ver en álgebra
+28:23
+en cálculo diferencial este pues ya saben lo que es derivadas límites
+28:28
+optimización este integral pues es las integrales el área bajo la curva algunas
+28:36
+aplicaciones matemáticas discretas esa es muy buena y esta es muy a lo mejor no
+28:41
+la han oído la parte de matemáticas discretas
+28:46
+es está dividida lo vamos a ver rápido por encima porque no da tiempo demás
+28:52
+pero vamos a ver combinatoria qué combinatoria pues un nombre lo dice el
+28:58
+estudio de las combinaciones no dónde se aplica por ejemplo cuando
+29:03
+las placas no sé si han visto las placas de los automóviles Pero bueno el punto es que tienen letras y números no a 5 8
+29:12
+p W r o lo que sea p 9 No sé algo así no Okay muy bien
+29:20
+entonces aquí es ver por ejemplo Cuántas combinaciones posibles es no que tenga una Paca etcétera esa es una de las
+29:28
+aplicaciones de combinaciones por ejemplo para contraseñas esa es otra para eventos por ejemplo los que no
+29:34
+estén en cosas que no les interesa tanto lo de programación o ingeniería o lo que sea para logística también se usa Qué es
+29:42
+logística y en logística se usa en los negocios en los
+29:48
+aeropuertos en los almacenes tipo Amazon etcétera
+29:56
+almacenes Uber bueno aplicaciones así como Uber etcétera es ver cuántos
+30:02
+elementos tienes y cuántas combinaciones posibles hay que sea óptimo por ejemplo las mismas escuelas
+30:10
+este acomodar alumnos en
+30:16
+escuelas bueno en salones no Okay muy bien porque hay limitant no tiene
+30:22
+limitante de ciertos alumnos de cierto salón y cierta hora
+30:28
+En dónde encontramos lo del portafolio digo lo van a generar Ustedes todavía no lo o sea cálmense o sea hoy es la
+30:35
+primera que hace o sea hoy es introducción luego les voy a enseñar Cómo generar su perfil de giop jop les
+30:43
+digo es una página web que les permite a ustedes ahora sí que generar su propio
+30:49
+portafolio no este eso lo vamos a ver tranquilos este la verdad es que es una cosa muy rápida básicamente es como si
+30:55
+ustedes subieran una foto a a Facebook no O a Instagram o a Whatsapp o sea no
+31:00
+es cosa del otro mundo porque este sí Bueno hablando de le digo lo del
+31:08
+jop este eso Este cómo lo comienzan eso
+31:14
+lo vamos a ver posteriormente digo si quieren les puedo ir mandando en la O sea más a rato un un tutorial de cómo
+31:20
+hacerlo este así que hay muchos en internet nosotros lo vamos a ver un poquito más al rato ya que estemos más
+31:26
+cerca de las actividades para pero así lo vamos a ver así que cómo generarse su
+31:31
+perfil les digo que es muy fácil es una cosa de 5 minutos es una cosa de literalmente pues como Facebook no
+31:37
+hacerse un perfil y subir una foto en Facebook si saben subir una foto en Facebook y se quedan un perfil en Facebook saben usar jcop es hasta más
+31:44
+sencillo Porque te pide menos cosas entonces este Bueno muy bien así es como
+31:50
+vamos a tener nuestros portafolios al final del curso vamos a tener un
+31:55
+portafolio con la las tres actividades no muy bien entonces okay Bueno lo que
+32:03
+Perdón lo que estaba en la logística es algo que se usa en las matemáticas discretas las combinaciones los cuántos
+32:10
+vuelos hay no porque por ejemplo obviamente no puede haber un vuelo de despegar y uno de aterrizaje en la misma
+32:16
+pista porque si no choca No entonces Esta es una de las partes que utiliza las matemáticas discretas la
+32:23
+combinatoria existe otra cosa también aquí que se llama la teoría de gafos gf
+32:29
+Theory este que sirve para unas cosas de algoritmos también en logística sirve
+32:34
+mucho también vamos a ver muy por encima la teoría de números teoría de números
+32:42
+sirve para sus contraseñas Ah así que dos creo que tenemos contraseñas de
+32:47
+alguna cosa al menos del Facebook del Instagram del celular de lo que ustedes
+32:52
+quieran y pues toda la parte de encriptación Fun funa con teoría de
+32:58
+números este lo vamos a ver muy por encima también este pero pues para que
+33:03
+al menos tengan una idea de qué es este maestro dice teoría gratos de gafos
+33:10
+perdón F teoría de
+33:16
+gafos inglés suena raro en español en
+33:23
+inglés este s la verdad es que oírlo en español suena un poco raro pero bueno
+33:29
+teoría de gaus este vamos a ver luego qué significa eso
+33:35
+Este pero básicamente sirve mucho para poder hacer algoritmos este y le digo este la teoría de número
+33:43
+sirve para las cosas de para las cosas de
+33:50
+encriptación o sea contraseña
+33:55
+contraseña Ok Muy bien Y por último Bueno vamos a
+34:02
+ver la parte de álgebra lineal áb lineal van a ver que es muy útil lineal tiene
+34:09
+que ver con cosas de
+34:18
+este Ok bienb lineal es muy útil si
+34:23
+piensan estudiar cosas de negocios o ya lo est en cosas de negocios finanzas
+34:29
+programación ingeniería Por qué Porque el álgebra lineal nos permite trabajar con algo que se llaman mates y
+34:36
+vectores Okay Esto es para el álgebra
+34:44
+lineal van a ver la verdad es que tiene muchas aplicaciones al lineal en todo esto que les dije en negocios en
+34:50
+economía en finanzas en programación en ingeniería mecánica Por ejemplo yo que estud ingeniería mecánica se usa mucho
+34:56
+mucho en mecánica de fluidos se usa mucho en este es en todo no en sí
+35:03
+mecánica de fluidos en transferencia de calor en Materiales etcétera el álgebra
+35:09
+lineal sí lo tienen que tener muy fuerte este también en negocios porque puedes almacenar muchos datos etcétera en
+35:15
+economía también este Okay eso es álgebra lineal vamos a verlo y vamos a
+35:22
+ver también queé es probabilidad y estadística Okay proba y estadística bien Por ejemplo probabilidad
+35:28
+estadística se usa en todos lados este se usa en todos
+35:33
+lados porque no hay Cómo decirlo hay procesos que son vamos a ver acá
+35:48
+determinísticos y
+35:53
+est estocásticos no sé si estas palabras les suenan
+36:03
+nuevas bien muy bien los determinísticos un proceso
+36:09
+determinístico es que tú tienes a lo metes a un
+36:16
+proceso bonito este un
+36:23
+proceso y te da B siemp O sea tú haces
+36:29
+Tú metes a este lo haces metes a un proceso y te da B un estocástico No
+36:40
+necesariamente un estocástico tú lo puedes meter a un
+36:45
+proceso s bien okay miren un o sea ustedes lo
+36:54
+pueden meter a un proceso
+37:00
+puede dar c d etcétera cuas variables pero digamos que en este caso tres no Tú
+37:07
+metes la misma cosa a este proceso
+37:14
+estocástico y este es determinístico Okay muy bien Por ejemplo
+37:22
+Qué es un ejemplo de un proceso determinístico por ejemplo las leyes de Newton no de física fuerza es igual a
+37:28
+masa por aceleración si tú pones una fuerza a una masa siempre te va a dar
+37:34
+una aceleración no este en química no sé si tú metes dos compuestos siempre te
+37:40
+van a dar otro o sea de reacción te va a dar otro no ese es un determinístico O
+37:45
+sea tú le metes dos cosas o Bueno nada más una variable pueden ser más variables Pero el punto es que tú le
+37:51
+metes ese input y te da un output siempre o sea tú le metes varias cosas y
+37:56
+te da un solo resultado no un solo valor eso es un proceso determinístico sin
+38:02
+embargo no todo en la vida es determinístico hay procesos estocásticos Como qué Por ejemplo dio suena feo pero
+38:08
+es es como estudiar para un examen tú puedes a puede ser estudiar para un
+38:13
+examen y sin embargo puedes sacar menos de 70 o sea puedes reprobar puedes sacar
+38:20
+70 pues sacar 100 no por ejemplo y cada uno de estos tienes un porcentaje
+38:27
+de probabilidad no este no es 100% seguro Obviamente si
+38:34
+estudias mucho tienes más probabilidad de sacar esto pero no digo nada te aseguro que entonces este muchos
+38:42
+procesos en la vida por ejemplo en redes sociales o cosas así en algoritmos de estos no hay nada seguro y por decir que
+38:50
+no también es como esto de las finanzas y eso los mercados de valores no hay
+38:55
+ningún algoritmo ni proceso seguro que te de 100% de eficiencia no no hay
+39:01
+entonces este obviamente se trata de buscar el mejor porcentaje tampoco es como que tomen decisiones así no más a
+39:08
+la buena de Dios no O sea también se usan Así que porcentajes para tratar de tener la mejor posibilidades sin embargo
+39:15
+Pues en los procesos estocásticos no hay nada que o sea que lo puedas determinar
+39:20
+al 100% y bueno para esto sirve para esto I no crean que todo este choro fue
+39:26
+para este es porque se usa probabilidad y estadística para esto no y aparte hoy en
+39:33
+día ya que está muy de moda todo lo de redes neuronal lo de inteligencias
+39:39
+artificiales básicamente usan esto de probabilidad y estadística para poder hacer muchas predicciones Este Entonces
+39:46
+ahora sí que pues todo esto que ya está no que viene que ya está este se usa con
+39:52
+probabilidad y estadística entonces también es es una de las aplicaciones para negocios para
+39:59
+determinar Qué acciones comprar o si el negocio es posible que tenga que
+40:04
+sea rable etcétera usa probabilidad estadística y bueno la parte de lógica y
+40:11
+demostraciones la final bueno eso lo vamos a ver también en conjunto con este
+40:17
+con mares discretas porque también es parte de esto es para desarrollar la parte pues de lógica no este matemática
+40:26
+que es muy útil y también es para ver un poco de la notación de matemáticas
+40:31
+porque luego bueno Lu van a ver que hay libros de matemáticas que les gusta a los matemáticos poner notación que nadie
+40:36
+entiende Pero bueno el punto es que también vamos a ver un poco de esta notación para que ustedes puedan medio
+40:42
+entender estos textos no y pues al final como les dije también vamos a ver
+40:48
+Excel y muy poco de python o sea eso va a ser un Cash course como una que hace
+40:53
+de Excel y de python para aplicarlo a final porque al final de cuentas finanzas es número no entonces
+41:00
+matemáticas muy bien Pues bueno vamos a seguir este dónde se aplican estos
+41:07
+temas pues les dije este se usa en programación en redes sociales
+41:14
+este solución de problemas etcétera este modelación de sistemas
+41:20
+físicos pues ustedes saben digo lo hemos visto en los que todos los que hemos llevado química física biología
+41:26
+sabemos que muchos sistemas en la vida los podemos modelar con las matemáticas
+41:32
+y por ejemplo también podemos modelar sistemas financieros como est no
+41:38
+este ustedes Ah sí que el dólar el peso cuánto va a valer de petróleo etcétera
+41:44
+También matemáticas pues sirve para eso no también contabilidad pues para ver cuánto dinero estamos ganando perdiendo
+41:51
+porque también es importante ver si estamos si el negocio es conveniente o no Si estás ganando o estás perdiendo y
+41:56
+también bueno la Inteligencia artificial no también como les dije esto es muchas matemáticas y es probabilidad
+42:03
+estadística también bueno combinado con programación muy bien Bueno las clases
+42:09
+como les decía es ahorita como estas se van a ver el contenido como les dije en la mañana y en la tarde es exactamente
+42:15
+lo mismo el mismo contenido es para que ustedes tengan la libertad de meterse en la mañana o en la tarde muy bien el
+42:23
+recall pues como les había dicho es revisar los temas de la semana pasada con ejercicios no este muy bien
+42:31
+y bueno les decía la disc es hacer el resumen de la semana y dudas este muy
+42:39
+bien Bueno las grabaciones van a estar seguro cada sábado o jueves no cada cada
+42:47
+sábado o jueves se van a subir ahorita ya están algunas o sea voy a tratar de que sean en el día pero la verdad es que
+42:52
+pues primera YouTube o todavía no estoy seguro Cuál de los dos por ahorita lo subí a YouTube el de la mañana pero no
+42:59
+sé voy a analizarlo en porque digo unos tienen unas ventajas sobre el otro que voy a analizar cuál pero de que van a
+43:05
+tener las grabaciones sí no voy a digo seguro van a estar el sábado pu este les digo porque digo No se tarda un tiempo
+43:12
+en subir además son ahorita son 6 horas pero de grabación y luego van a ser Eve
+43:17
+por día entonces Pues digo ni el internet ni la computadora ni las plataformas este son tan rápidas
+43:24
+entonces este ti límite no entonces bueno seguro el sábado para que tengan así que todo el fin de semana para
+43:29
+estudiarlo este digo si quieren Este ahí lo van a tener este lo ideal es que
+43:35
+vengan a las cases este al recol y a todo que aprovechen el máximo Pero bueno ahí también van a tener las grabaciones
+43:40
+digo se vale porque yo entiendo vamos a ver Muchos temas muy rápido entonces entre más puedan repasar mejor este el
+43:47
+material pues día a día digo est este diapositiva ya estan desde ayer ahorita obviamente todo esto de los apuntes que
+43:53
+hemos que hemos estado haciendo pues lo voy a subir eh este lo voy siempre voy a tratar de subirlo de que en el día si no
+43:59
+máximo un día después Este digo esto del contenido las diapositivas si las voy a subir de que antes de la cas etcétera
+44:06
+este y Okay muy bien Bueno software y herramientas que estaremos usando verdad
+44:13
+es este Excel python Wolf Alpha simuladores iPad
+44:21
+okay Y por ejemplo digo los únicos que sí cuestan
+44:28
+es Excel y Wolf Alfa no este bueno algunos emuladores también depende Pero
+44:34
+bueno el punto es que voy a estar yo usándolos para que ustedes los vean ustedes obviamente pueden descargar
+44:39
+python digo Excel tiene un costo no muy alto pero igual si tiene o sea digo si ya ustedes lo quieren Descargar Ya es
+44:46
+este más de ustedes y no igual pueden usar Google sheets que es Es gratis es mejor Excel la verdad siend honesto es
+44:53
+mejor Excel pero pues a lo mejor para lo básico que va vamos a estar haciendo es suficientemente decente el Google sheets
+45:00
+este python es gratis Esa sí es gratis este Okay muy bien desmos es pues miren
+45:08
+es una graficadora calculadora que esa también es gratis este Bueno al menos
+45:14
+las aplicaciones normales este y sirve para estar graficando
+45:19
+viendo etcétera lo vamos a estar usando para que ustedes lo vean no así que pues muy gráfico no así que lo vean visual y
+45:26
+puedan entenderlo de la mejor manera posible y bueno eso yo creo que es todo
+45:33
+lo que vamos a ver ahorita por hoy ya mañana ya empezamos bien con aritmética que les digo o sea vamos a empezar con
+45:40
+aritmética pero s vamos a ir rápido este es importante verlo porque de verdad O
+45:45
+sea si no aprenden esta parte se les va a complicar álgebra se les va a complicar cálculo se les va a compar
+45:50
+álgebra lineal se les va a complicar probabilidad estadística porque la verdad estas de los números y estas
+45:57
+reglas de las operaciones son las mismas en todas las áreas de matemáticas por
+46:03
+eso S es muy muy muy importante que las veamos y que las aprendamos Así que muy
+46:09
+sólido okay Bueno no sé si tengan alguna pregunta ahorita creo que sí ya vimos
+46:15
+todo lo que íbamos a ver por hoy este no sé si tengan alguna pregunta o
+46:22
+duda hablando del python como es gratis Entonces ya lo podemos ver desde ahorita
+46:29
+no sí pero la verdad es que lo vamos a ver más al final porque son las aplicaciones de finanzas O sea no tiene
+46:34
+caso que lo veamos ahorita porque el punto de esto no es que tú puedas poner el código Claro que sí pero pues tienes
+46:42
+que saber cómo no O sea primero tienes que saber Así que como dian tienes que primero aprender a caminar para después
+46:47
+correr no lo mismo aquí este eso ya lo veremos más al final para ya no más ver
+46:53
+las aplicaciones pero pues Si antes necesitamos como saber los principios de
+46:58
+matemáticas y todo eso muy sólido No ya la verdad es que python y Excel la parte de python Excel la veremos ya más al
+47:05
+final Aunque Bueno si ustedes quieren irse adelantando o si están en el curso obviamente de python en wcam de python
+47:11
+bueno obviamente ahí el de python ya mañana empezamos con el de python este
+47:16
+sí O sea digo si están en el de python pues ya mañana empezamos con eso en este de matemáticas lo vamos a ver más al
+47:23
+final porque les digo es más las aplicaciones que tiene finanzas este qué
+47:28
+otra cosa más que ver el lenguaje como tal realmente va a ser una sola que hace va a ser una hora de python porque la
+47:35
+verdad es que el curso está más orientado Pues a este el de matemáticas a ver lo de matemáticas el de python
+47:40
+pues está más orientado aprender a programar Okay no sé si tengan otras
+47:54
+preguntas Muy bien gracias de nada igual si tienen cualquier otra pregunta si no
+48:01
+un minuto más ahorita ya termino la sesión ya mañana ahora s que ya mañana ya empezamos bien vamos a empezar con
+48:08
+aritmética este les digo pu vamos a ir bastante rápido ustedes ya haban visto o
+48:13
+sea vamos desde cero pero vamos rápido y vamos a llegar lejos Este pero mañana
+48:20
+empezamos con aritmética luego álgebra metría este cálculo diferencial materal
+48:26
+este matemáticas discretas este probabilidad
+48:31
+estadística lal y al final pues aplicaciones no las aplicaciones porque como les digo rápido para terminar es
+48:38
+que o sea s se necesita en la vida real este usar pues software no usar Excel o
+48:45
+python porque al final de cuentas vamos a tener muchos datos y vamos a tener muchas operaciones y vas a tener que
+48:52
+comunicarte con personas del otro Bueno del otro lado del mundo etcétera y no lo vas a hacer en papel o sea Está muy
+48:58
+bonito hacerlo en papel o sea saberlo Pero al final de cuentas Sí necesitas también saber cómo implementarlo pero
+49:04
+para saber cómo implementarlo tienes que tener la lógica tienes que entender los conceptos entonces por eso primero Se ve
+49:10
+así y ya después una vez que va a manejar los conceptos ahora sí ya es n más de aplicarlos digo Bueno este en el curso de matemáticas Obviamente que si
+49:17
+están en programación pues desde mañana empezamos Okay no sé si tengan alguna
+49:22
+otra pregunta si no pues ahora sí voy a terminar la
+49:30
+sesión y nos vemos mañana
+49:36
+gracias gracias gracias
+49:44
+gracias Nos vemos mañana

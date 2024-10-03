@@ -1,0 +1,708 @@
+0:02
+Okay chavos Pues bueno acuérdense que ayer que rá vamos a ver qué Estuvimos viendo verdad Nos para que se acuerden
+0:09
+verdad este bueno vimos cálculo integral que era acuérdense que el integral es lo
+0:14
+que nos da el área bajo la curva no Okay dijimos que este la integral por ejemplo
+0:20
+hicimos de las dos más sencillas que es de una función constante y de una función lineal de una función ahora sí
+0:27
+que constante era no más sacar el área de rectángulo no que era base por altura
+0:32
+y esta base por altura pues la sacábamos no con la base que era el Delta x no O sea x2 - x1 por la altura que era FX no
+0:41
+esto nos va a servir para que después Este nosotros podamos hacer lo de las integrales con los rectángulos no muy
+0:48
+bien Bueno luego la función lineal podíamos decir Ah bueno lo podemos partir en un triángulo y un rectángulo muy bien sumamos las áreas sin embargo
+0:55
+ya cuando tenemos funciones más complejas chavos como parábolas como función cúbica lo vamos a ver por
+1:02
+ejemplo si tuviéramos logaritmos o tuviéramos una exponencial etcétera ya calcular el área de estas cosas ya no
+1:08
+son figuras geométricas que tengamos fórmulas Pero cómo lo podemos hacer Pues bueno acuérdense que vimos que qué tal
+1:15
+si lo dividimos en rectángulos no por ejemplo aquí teníamos siete rectángulos con la misma longitud entonces dijimos
+1:22
+que el área verdad va a ser igual a la multiplicación de la base esto es la base por la altura no de este rectángulo
+1:28
+bueno de luego más el del otro más el del otro sin embargo aquí hay un error
+1:34
+Por qué Porque no estamos contando todo el área no y cómo lo podemos hacer chavos para que
+1:41
+este Bueno aquí era sumar hasta el siete Pero cómo lo podíamos hacer ahora sí exacto no nada más una aproximación pues
+1:49
+lo podemos hacer con un límite verdad cuando este Delta x Qué pasa cuando
+1:54
+Delta x tiende a cer0 no cuando Delta x tiende a cer se va a hacer un un número
+2:00
+infinito de rectángulos y eso haría que básicamente colorem todo el área No eso
+2:06
+haría que tengamos ya toda el área perfectamente no muy bien y bueno eso era con el signo de las sumatorias
+2:13
+acuérdense que vimos Sigma verdad Sigma mayúscula es este signo la sumatoria
+2:18
+Okay la sumatoria es una fórmula que nos expresa la regla de una suma con un patrón no muy bien y bueno acuérdense
+2:27
+que vimos esto que este bueno el video que les puse de gaus no que él descubrió que bueno cuando era niño se dio cuenta
+2:33
+de esta relación Verdad que es bueno vamos a ver ahorita fórmulas que nos que
+2:38
+ya tenemos para hacer esto no y bueno acuérdense que en una sumatoria tenemos
+2:44
+lo de abajo que es el límite inferior lo de arriba que es el límite superior no Y esta es la fórmula lo que vamos a estar
+2:51
+sustituyendo en cada suma no muy bien Bueno eso es importante porque así nosotros podemos definir Qué es una
+2:57
+integral en la integral dijimos que es el área bajo una curva no bajo una
+3:02
+función Okay y acuérdense que se expresa así este signo es el de la integral que
+3:08
+es como si fuera una s no Así es una integral indefinida Qué significa
+3:13
+indefinida que no tiene el límite superior y el límite inferior No Okay y
+3:19
+tenemos que vamos a integrar esta función F dex y qu era de X chavos
+3:24
+acuérdense que era de X Aquí está el diferencial de X no sí y qué era el
+3:31
+diferencial de X chavos a ver díganme era el diferencial de
+3:37
+X x2 Men x1 sí no no no ese es eso es el
+3:43
+Delta x no el diferencial el
+3:54
+diferencial Qué es el diferencial de X chavos
+4:01
+que Delta x tiende a cer muy bien exactamente es cuando el Delta x tiende
+4:06
+a cer cuando se hace infinitesimal no infinitamente pequeño Okay es cuando
+4:12
+Delta x tiende a cer no muy bien Bueno acuérdense que dijimos que esto del integral es como el resumen de esto no
+4:20
+esto de fdx es esto y el D x es esto no
+4:25
+muy bien que vimos no que esto es la altura del rectángulo esto es la base
+4:32
+base por altura es la fórmula de el área del rectángulo No y solo es sumar cada
+4:38
+uno de estos muy bien Eso es la integral dijimos que la integral es para
+4:45
+funciones continuas no las que se incluyen puntos decimales Okay muy bien
+4:51
+y como dijimos que se llamaban estas Este tipo de integrales a ver estas Cómo se llaman las que tienen el límite
+4:58
+superior y el inferior discretas no cómo se
+5:07
+llaman algunos chavos cómo se llaman oh
+5:13
+oh cómo se llaman chavos alguno lo vimos ayer la misma lógica
+5:20
+palabra que les dice definidas
+5:26
+no esa es una integral definida es no tenemos el límite superior superior e
+5:33
+inferior no y estas Entonces cómo se llamarían por
+5:41
+lógica Qué tipo de integral
+5:46
+es indefinidas indefinidas no muy bien Estas son las indefinidas
+5:54
+chavos ay creo que no estoy grabando ah no sí estoy grabando Okay bien bien
+6:01
+este Okay definidas indefinidas muy bien y bueno acuérdense que como en la como
+6:08
+en la sumatoria lo de abajo es el límite inferior límite inferior y lo de arriba es el límite superior no muy bien
+6:15
+chavos y Estuvimos viendo algunas fórmulas Bueno antes de eso vamos a ver
+6:22
+el teorema fundamental del cálculo el teorema fundamental del cálculo es para lo que son las integrales definidas no
+6:29
+qu dijimos que las integrales definidas Qué son chavo que tienen un límite superior o
+6:36
+inferior muy bien y el límite superior inferior se manifiesta de la siguiente manera este FX es la integral la
+6:46
+antiderivada no Entonces cuando tenemos el B quiere
+6:53
+decir que vamos a sustituir no el resultado de la antiderivada con b y
+6:58
+este con verdad fb men fa Bueno qué habíamos dicho de las integrales
+7:03
+definidas la integral definida no para la integral indefinida Perdón para la
+7:12
+indefinida nos da el resultado no da la antiderivada más constante se acuerdan
+7:18
+Por qué más constante Ay ya lo vimos hasta con
+7:24
+desmos Y eso chavos por qu era
+7:33
+acuerdan ch mandé por qué es más constante porque las integrales
+7:40
+indefinidas le tenemos que poner el más
+7:47
+constante para que tenga un valor acuérdense no que
+7:53
+vimos por ejemplo acuérdense cómo desplazamos las funciones chavos en
+7:58
+general Cómo desplazamos una función hacia arriba y le sumas le sumas una constante
+8:07
+verdad le sumas un número muy bien Eso es lo que quiere decir porque nosotros sabemos que por varios
+8:15
+ejemplos tenemos vamos a poner f dex ig x G dex es ig x-
+8:25
+5 hx es ig x 10 cuál es la derivada de
+8:31
+la primera
+8:37
+chavos es la derivada del primero
+8:44
+un Ok la derivada primero es un Cuánto es la derivada de
+8:56
+GX es la derivada de estos chavos un uno muy bien Y cuánto es la derivada de
+9:05
+hdx uno muy bien los tres tienen la misma derivada no por eso es que se pone
+9:13
+que el + c porque no sabemos Realmente si solo en las integrales estábamos Ah
+9:20
+sí que estábamos aquí y al integrar nos da esto pero no sabemos si tenían una
+9:26
+constante verdad no sabemos porque pues si se hizo la derivada se eliminó
+9:31
+entonces por eso es que siempre se pone el + c cuando es
+9:40
+indefinida Por qué cuando es definida no ya lo demostramos ayer que es eliminan
+9:45
+verdad por qué Porque se sustituye verdad en esta cosa se sustituye el b y
+9:51
+luego se sustituye el a pero se resta Entonces nos queda esto + c y - C verdad
+9:57
++ c y men c cuánto nos da má c y - c C
+10:02
+No aquí decimos no que 5 y - 5 0 10 y - 10 0 x cu y - x cu 0 no Esto es lo que
+10:14
+se le llama como el teorema fundamental del cálculo chavos que eso nos permite saber el área en cierta
+10:21
+región sí
+10:26
+chavos Okay bueno eso nos permite saber el el área de cierta región muy
+10:34
+bien Y empezamos a ver algunas tablas no estas tablas de integrales básicas
+10:41
+chavos nos permiten no poder sacar ahora sí que antiderivadas de las fáciles de
+10:48
+las comunes no cóm esta la derivada de ddx es igual a x + c Bueno acuérdense
+10:57
+que todas estas De qué tipo de integrales son definidas o
+11:04
+indefinidas indefinidas exactamente verdad son indefinidas Porque no tenemos el límite
+11:10
+a y b nada más nos están dando así es por eso que si se dan cuenta en todas todas todas tienen el má c verdad sí lo
+11:18
+ven o no chavos Okay sí todas tienen el má
+11:27
+C Ok y Bueno aquí hay varias fórmulas no por ejemplo aquí la integral Esta es
+11:36
+importante la integral de x - 1 dx es igual a logaritmo natural de X no
+11:46
+má c buen AC que siempre má c sí o no
+11:53
+chavos Oh lo podemos comprobar haciendo pues acuérdense como siempre lo compramos
+11:59
+haciendo la derivada Cuál era la derivada de logaritmo natural de
+12:05
+X era 1 en x si se acuerdan eso lo vimos en cálculo
+12:13
+diferencial por ejemplo antes de ver esto que sin que vean Cuál es la
+12:18
+derivada de el seno de X coseno de
+12:25
+xo de X Entonces cuál imaginan qué base es la integral de coseno de
+12:33
+X seno de X mm más qué más c excelente no seno de X + c o
+12:45
+muy bien Cuál es la derivada vamos a hacer varias de estas
+12:51
+HM Cuál es la derivada del coseno de X menos seno de X muy bien
+13:01
+sí o no mir Aquí vamos a ver que la derivada
+13:09
+no Cuál va a ser la integral Entonces vamos a ponerlo
+13:18
+Aquí Cuál va a ser la integral ahora entonces de seno de X
+13:25
+chavos coseno de X + C te faltó
+13:31
+algo aquí hay un signo negativo no Entonces cuál sería Entonces sería menos
+13:37
+coseno de X + c no muy bien
+13:46
+Sí porque miren si nosotros derivamos coseno qué nos daría menos seno de X
+13:52
+menos por menos nos daría más verdad Nos daría el seno de x y bueno la derivada de la constante se daría cero noces por
+14:00
+eso es que la integral de seno de X es igual a coseno de X no muy
+14:10
+bien bueno y por ejemplo habíamos visto la de la
+14:19
+tangente la habíamos visto que la derivada de la tangente era
+14:24
+qué 1 entre coseno cuadrado de X no
+14:31
+que acuérdense que habíamos dicho que era 1 entre coseno de X
+14:36
+a Qué función otra trigonométrica habíamos dicho que era
+14:42
+Oh uno más tangente me acuerdo no sé si era eso no
+14:50
+un ante coseno de X así sencillito Cuál es secante muy bien secante de X
+14:58
+Entonces esto también es equivalente a secante cuadrada de X no entonces la integral de secante cuadrada de X cuál
+15:08
+sería sería entonces un entre coseno
+15:14
+no cuál sería tangente tangente de X no
+15:20
+bueno acuérdense con el má e
+15:26
+sipr hay varias no vamos a ver este por ejemplo de las otras de las
+15:31
+exponenciales no habemos dicho por ejemplo de Cuál es la derivada de e
+15:47
+dex Cuál es chavos tenos visto hasta memes de este
+15:55
+Cuál es chavos Ah no cambia no cambia verdad es
+16:00
+e de X no muy bien y bueno entonces cuál se imaginan
+16:07
+que va a ser la integral de e
+16:17
+dex va a ser e e de X verdad + e no
+16:22
+acuérdense nunca se les olvid más eh vamos a ver si es cierto en las tablas la
+16:29
+pusieron no la pusieron H Cuál era la otra la de antes porque no la copié
+16:35
+bien Cuáles estas la otra del secante Esa
+16:48
+esa Okay ya
+16:54
+entendí Okay H Qué más Qué más
+17:04
+chos
+17:10
+okay Entonces est es Z no también teníamos por ejemplo la
+17:19
+derivada no teníamos la derivada de ahora de cualquier base de a la X
+17:26
+cuál era su derivada chavos
+17:33
+verdad eso sí acuérdense todo eso lo vimos en
+17:39
+cálculo diferencial por eso es cadena d cadena no no no acuérdense esta era
+17:46
+una fórmula chavos cuál era de bajar la la potencia
+17:52
+no era AX por logaritmo natural de la base en este caso o sea por eso
+17:59
+acuérdense que exactamente esta no era eso porque Cuál es la base aquí
+18:07
+chavos Cuál es la base en esta exponencial de a la X cuál
+18:13
+es la base e no muy bien entonces es por eso
+18:20
+que si sustituimos en esta fórmula que nos daba e a la x por logaritmo natural
+18:27
+de la base que di Dios que era e Cuánto es el logaritmo natural de e uno uno verdad es por eso que nada más
+18:35
+nos quedaba e a la x por 1 y acuérdense que en matemática nunca ponemos el por un entonces por eso nos quedaba e a la x
+18:41
+no muy bien bueno Esto si es así Ahora la
+18:47
+integral bien aquí lo vamos a ver aquí
+18:54
+está Cuál es la integral de a a la x chavos
+19:13
+s Entonces sería em uno
+19:21
+entre Ah
+19:26
+no cuál sería aquí lo tenemos
+19:34
+no se se a la x entre logaritmo natural de
+19:43
+a Por qué podemos siempre que tenga la duda pues podemos derivar no cuánto nos
+19:49
+saldría la derivada de est y vamos a derivarla para
+19:57
+regresar Qué es el uno entre logaritmo natural de
+20:02
+a chavos Qué
+20:08
+es una constante no s se acuerdan de eso
+20:15
+chavos porque lo a es un número es una base no puede ser 5 10 20 500 1000 lo
+20:22
+que quieran Entonces esto al final de cuentas es un número y acuérdense que habíamos dicho qu habíamos dicho en las
+20:28
+derivadas y en las integrales cuando están multiplicando una constante que estas pueden salir de la derivada o de
+20:35
+la de la integral Ah sí sí entonces la derivada de a dex ya dijimos vamos a
+20:42
+copiar y pegar dijimos que era esto verdad
+20:51
+Entonces
+20:57
+no
+21:05
+ent logar natural de a y pues estos se cancelarían no y por eso nos quedaría a la x no que
+21:15
+era el resultado que queríamos sí o no chavos muy
+21:23
+bien Bueno estas son algunas no de las integrales que estaban en la tabla Ya
+21:30
+vimos ya habíamos visto esta esta ahorita esta ahorita ahorita Bueno
+21:36
+habíamos visto también la del seno la del coseno la de la secante cuadrada no
+21:41
+estas pues no habíamos visto las derivadas no vimos todas las tabas de las derivadas Entonces no habíamos visto
+21:46
+estas pero estas son igual o sea bueno eran de las tabas de las derivadas no
+21:52
+más es así hay que aprenderse algunas de estas
+21:58
+porque bueno en su curso de cálculo sí se los van a pedir no
+22:04
+este bueno estas son algunas no vamos a ver por ejemplo que la
+22:11
+integral de la cotangente es igual al logaritmo natural de seno no la integral
+22:17
+de la tangente es igual a menos logaritmo natural de coseno de u y todo
+22:23
+con la cuen el más c no + c+ c+ C
+22:30
+Okay y bueno chavos aparte de estas aparte de aprenderse eso lo feo lo malo
+22:36
+de las integrales es que hay varios métodos para poder
+22:44
+resolverlas bu están estas no no son todos Déjenme mejor les pongo ya todos
+22:51
+aunque no los veamos hoy pero bien Cuántos métodos hay hay como seis o
+22:56
+siete déjen copio todos
+23:05
+hoy Espero todavía nos da tiempo de verd son varios así que no se van a aburrirme
+23:11
+que
+23:17
+no bueno los dos primeros los que espero que no
+23:26
+de
+23:40
+Okay dentro de los métodos de
+23:48
+integración bueno está los más el más
+23:56
+básico
+24:09
+el de por sustitución luego
+24:16
+tenemos integración por
+24:26
+partes
+24:37
+tenemos este no sé si en este orden las vamos a ver porque esta por está más difícil este
+24:45
+bueno
+24:54
+integas acciones parciales vamos a verla mejor en este
+25:09
+orden Está
+25:26
+también
+25:56
+este
+26:25
+es inación por este sustitución
+26:43
+trigonométrica colores tengo Okay
+26:54
+integración con
+27:01
+la rever r cómo se lama en español de la reversa de la rea de la
+27:07
+cadena creo que
+27:24
+sí muy bien
+27:29
+También
+27:56
+tenemos
+28:08
+Estas son las que vamos a ver hay otras un poco más por ejemplo otras que
+28:13
+también podemos ver a lo mejor es este no pu necesitamos series Okay
+28:20
+mientras vamos a ver estas luego vamos a ver lo de series hay otras formas de integraciones numéricas y otras formas
+28:27
+no Mientras vamos a ver estas que es por sustitución por partes por fracciones
+28:35
+parciales por sustitución trigonométrica y reversa de la rega de la cadena no muy
+28:42
+bien substitución chavos es la primera que vamos a
+28:47
+ver la de
+28:56
+substitución es que dentro de una integral es como su nombre lo dice
+29:04
+vamos a cambiar las variables la sustitución es cambiar la variable para
+29:10
+hacerlo de una manera más amigable y que podamos resolverlo con las tabas que ya
+29:15
+tenemos no muy bien pongo un
+29:26
+ejemplo por
+29:44
+ejemplo Okay muy bien puede ser esta Déjenme
+29:52
+ve con las integres tien que que ser cuidadoso porque si no te sale una cosa
+29:58
+no muy amigable para
+30:04
+enseñar d un
+30:26
+segundo
+30:54
+Okay chavos perdón y Bueno es es un ejemplo otro ejemplo vamos a empezar con
+30:59
+estos sencillos este puede ser integral
+31:08
+de Okay chavos miren aquí nosotros tenemos que elegir una u así se le llama
+31:14
+el primer paso para estos de sustitución
+31:21
+es elegir una variable
+31:26
+u en una función Mejor dicho una u esa u
+31:32
+por ejemplo puede ser nosotros tenemos que elegir cuidadosamente esto este no
+31:39
+hay una forma exacta que ahí vamos a estar viendo como algunas maneras de agarrar una buena u
+31:46
+pero si es muy importante esto por ejemplo en este en el dec no verdad
+31:52
+podemos elegir u como x cuadrada y y lo
+31:57
+podemos sustituir bu no
+32:02
+Okay pero para poder hacer esto hay que eliminar las x que están aquí cómo lo
+32:11
+podemos hacer Bueno u si u la elegimos como x cuadrada cuál sería su
+32:20
+derivada Cuál sería la derivada de X cuadrada 2x
+32:29
+bien miren chavos si nosotros pasamos el dx para está digamos que es como fue una
+32:37
+división No si esta lo pasamos para acá y el 2x para el otro lado qué nos
+32:50
+queda s lo ven o no lo ven chavos lo ven o no
+32:58
+sí lo veo Okay acu este pasa para acá multiplicando y este pasa dividiendo no
+33:05
+muy bien y qué creen chavos este dx qué le podemos
+33:16
+hacer lo podemos sustituir no exactamente por eso se llama
+33:21
+substitución porque nosotros podemos exactamente cambiar de variable sustitución básicamente que estamos
+33:28
+haciendo es cambiar de variable estamos cambiando lo de variable para hacerlo de
+33:33
+una manera más amigable sea de una manera en el cual si nosotros si tengamos este pues fórmulas no para
+33:40
+poderlo resolver muy bien No sé si vaya a caber Déjenme A ver vamos a hacerlo aquí más
+33:48
+en limpio poro se llama sustitución
+34:02
+Okay bien entonces como dijimos que vamos a sustituir dx vamos a sustituir por D1 Entre qué
+34:11
+entre 2x no muy bien y esto está multiplicando al
+34:21
+2x verdad y dijimos que u igual x cuad lo podemos sustituir por
+34:28
+u no esto seno de u no y bueno Esto es
+34:34
+la integral no muy bien y aquí Qué pasa
+34:41
+chavos qué pasa con el 2x Se va se elimina no muy bien Y entonces qué nos
+34:54
+queda Solo queda seno u por du muy
+34:59
+bien Y cuánto es la integral de seno
+35:07
+chavos Oh habíamos
+35:12
+visto es coseno menos coseno no
+35:18
+bueno menos coseno esto nos queda menos coseno de u
+35:27
+má c y bueno ya para devolverlo porque tenemos que expresarlo en x que habíamos
+35:32
+dicho que era u x cuadrado Entonces nada más
+35:39
+sustituimos y nos
+35:46
+queda Y esto es el resultado
+35:54
+Okay y lo ven
+36:01
+es increíble me llama mucho la atención está poderosa les digo
+36:08
+desamente no todos se pueden resolver por sustitución Y si eliges mal te puede
+36:13
+salir un monstruo y a lo mejor de una manera que no lo puedes resolver tan fácil o no lo puedes resolver Tan
+36:20
+sencillo entonces este por eso vamos a ver todos los métodos más adelante sea
+36:26
+pu son cinco métodos y buen hay otros realmente Hay unos que realmente cuando las regales son muy pesadas las puedes
+36:32
+integrar numéricamente no este consumatori y todo eso para eso se hace
+36:38
+con computadoras no muy bien Bueno okay chavos
+36:46
+sí Ay no sé por
+36:53
+qué Oh no s Sí sí está bien okay Bueno esto
+37:00
+era para el primero No todo esto era
+37:05
+para este el
+37:22
+oficio Okay s lo ven chavos
+37:31
+Okay vamos a ver más otro ejemplo el primero es elegir la u no el
+37:38
+número dos es derivar la
+37:48
+u Cuál es el cuál el paso número tres chavos primero elegimos la u luego la
+37:57
+derivamos y luego sustituimos despejamos Y sustituimos
+38:06
+qué u bueno sustituimos la u y
+38:13
+la no bueno la dx no que nos mete exactamente este de du
+38:19
+verdad la cuarta es integrar no con las
+38:25
+fórmulas ya el número cinco es sustituir de
+38:32
+vuelta
+38:39
+no Esos son los cinco pasos chavos para poder Nosotros integrar con
+38:51
+sustitución no se preocupen to lo vamos a ver más veces
+38:57
+n más para que lo vean tantito la siguiente forma de integración es la
+39:04
+integración por partes este tiene hasta una Bueno una cancioncita pero una
+39:12
+frase para que se acuerden Porque esa es una
+39:18
+fórmula Alguien sabe está
+39:25
+y significa bueno es que hasta hay memes
+39:33
+de este que significa bueno la gente se lo aprende así
+39:39
+una
+39:44
+vaca vestida yo yo me la prendí de otra
+39:50
+manera a m me gusta más ahorita voy a poner vestida
+39:58
+de uniforme y se agarran cada una de las
+40:04
+letras no lo
+40:10
+ven las iniciales qué nos da
+40:18
+u u v
+40:24
+no B d u no nos da esta fórmula que es la de
+40:31
+integración por partes mir para que
+40:37
+vean hay muchos yo me la aprendí de otra manera se les enseño la que yo me la
+40:45
+[Música]
+40:55
+aprendí
+41:15
+bro eso no un día vi una vaca vestida de
+41:20
+uniforme Okay bueno esa es una manera que se la prenden así como aprenderse la fórmula general no
+41:30
+este yo me lo aprendí como un vino sin vino de uva no sé cuál se les haga más
+41:38
+me gusta más la que yo les digo por qué Porque incluye la integral o sea te
+41:43
+acuerdas del integral porque dicen que la integral se parece a una s
+41:50
+noen tiene como forma de eso yo como me la prendí es un
+42:01
+vino sin
+42:09
+vino de
+42:15
+uva es igual no est me gusta más porque se incluye la integral dijimos que bueno
+42:22
+la s no parece un integral
+42:30
+la que como prefieran aprend que que aprender la f la manera que ustedes les
+42:35
+guste a me gusta más la segunda Esta es la mía es la que me gusta
+42:42
+yo la que me gusta de un vino sin vino de uva porque esta incluye la s no incluye
+42:51
+la integral muy bienen
+42:56
+aquí nosotros tenemos que elegir u y
+43:04
+dv ahorita vamos a ver ejemplos ya no nos va a dar tiempo Pero bueno vamos
+43:13
+[Música]
+43:25
+aar
+43:32
+Okay aquí chavos uno tiene que ser o sea una de las dos funciones no tiene que
+43:38
+ser u y la otra va a ser
+43:50
+dv y tenemos que conseguir también du y
+43:57
+[Música] V para poder conseguir V qué tendríamos
+44:02
+que
+44:08
+hacer integrar No tendríamos que integrar esta de V porque acuérdense
+44:13
+como integral dx Cuando tenemos nada más integral de dx Qué es igual al integral
+44:19
+de dx x no de misma manera la integral de
+44:25
+dv es igual a V entonces hay que integrar el que digamos que es dv aquí
+44:32
+hay que elegir uno como u y otro como dv Okay sí o no
+44:44
+chavos bueno eso ya lo vamos a ver mañana estos ya tubimos 1 y medio de las
+44:51
+técnicas de integración vamos a ver estas cinco Porque las tenemos que ver
+44:57
+el punto es que quiero que se vayan aprendiendo una de estas dos no sé cuál les guste
+45:05
+más Okay pues bueno chavos ya nos vemos mañana este el punto es que se tien que
+45:12
+ir aprendiendo una de estas dos la que se les facilite el punto que tienen que aprender la fó vamos a ver mañana cómo
+45:18
+se aplica pero esta es la fórmula de integración por partes Okay pues bueno
+45:24
+chavos nos vemos mañana
+45:30
+Cuídense

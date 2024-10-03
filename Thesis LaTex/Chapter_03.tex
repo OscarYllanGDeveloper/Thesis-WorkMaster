@@ -1,0 +1,289 @@
+
+
+
+\chapter{Thesis Work}
+\label{chapter:chapter03}
+
+
+\section{Methodology}
+
+
+This research encompasses the systematic implementation and assessment of three distinct algorithmic-architectural combinations, specifically tailored for Topic Segmentation in Educational Videos. The methodology involves the following stages:
+
+\begin{enumerate}
+
+    \item \textbf{Videos Recording and Transcript Generation}: During 2023 Summer the author of this Thesis Oscar with his company ElProfessor Bootcamps generated 3 live courses related to Physics, Mathematics and Python programming for students from High school and Freshman College level.
+
+
+
+    \item \textbf{Implementation Phase}: Three unique combinations of algorithms and architectures are developed and integrated. Each combination is designed with the objective of optimizing the efficiency and accuracy of topic segmentation within educational video content.
+
+    \item \textbf{Evaluation and Comparative Analysis}: The performance of these algorithmic models is rigorously evaluated against a set of predefined standard metrics. This assessment focuses on determining the accuracy and coherence of each model in segmenting topics. Additionally, user opinions are solicited to provide qualitative insights into the effectiveness and user-friendliness of each model.
+
+    \item \textbf{Field Application and Impact Assessment}: The final phase of this research involves an empirical study conducted with two distinct student groups. This fieldwork aims to evaluate the practical utility of the implemented system in an educational context. The primary focus here is to quantify the impact of this tool on enhancing students' learning experience and outcomes. Various quantitative and qualitative measures will be employed to ascertain the effectiveness of the system in a real-world educational setting.
+\end{enumerate}
+
+This methodology is designed to ensure a comprehensive understanding of the effectiveness of different algorithmic approaches in educational video segmentation and their practical implications in enhancing learning experiences.
+
+\subsection{Functionality of the Program}
+
+\begin{enumerate}
+    \item Video Content Creation
+    \item FrontEnd Design and User Interface
+    \item Database of Transcripts
+    \item User Input Inside a textbox
+    \item Connection with ChatGPT API for making prompt Engineering.
+    \item Search in the database of Topics Generation Previous
+    \item Detection of time period
+    \item Detection in time of the Topic
+    \item Display of Video Segment related to the Topic
+    \item Text Summary generated with Generatevive AI
+    
+\end{enumerate}
+
+
+
+\subsubsection{Video Content Creation} 
+
+
+The videos that were used along the Thesis Project are from the Library of educational videos made from the author of this thesis Professor Oscar Yllan Garza. Along Summer 2023 the Videos recordered from the Zoom platform included topics of the three courses offered:
+
+\begin{enumerate}
+    \item Python (Introductory and Intermediate Levels)
+    \item Physics (Highschool and First Semester College Level)
+    \item Mathematics (Highschool and First Semester College Level)
+\end{enumerate}
+
+
+
+\subsubsection{FrontEnd Design and User Interface}
+
+
+The program will be a program where the user will have a Search Textbox where it will enter its prompt. The prompt will have a  maximum of 500 characters. Where the user can introduce the Topic that is looking, then when the user presses enter the program will send the prompt written by the user to Chat GPT API for reading,processing and understanding the user prompt. 
+
+\subsubsection{Database of Transcripts}
+
+There were selected 20 videos from each of the 3 courses. They were uploaded to YouTube in order to get the Transcripts from each video.
+The process was a simple upload to the ElProfessorBootcamps in Private Mode and there were generated each Transcript for each Video.
+
+
+YouTube was selected after taking into consideration the following 5 tools in order to get the transcripts
+
+
+
+
+
+
+After a careful analysis of the technology, prices and scalability it was chosen that YouTube transcripts were the best option thanks to the amount of video that could be processed.
+
+
+
+
+
+
+\subsubsection{User Input Inside a text-box}
+
+
+Inside the Front-End and User Interface of the program will be included the Text-Box that will be the way of the program to receive the prompt from the user.
+
+
+\subsubsection{Connection with ChatGPT AI}
+
+
+Users generally do not know how to express their ideas in a consistent or understandable way not for humans nor computers. The input part can be challenging if not addressed correctly. 
+
+ChatGPT 4.0 is a Large Language Model that excels at receiving prompts from users and understanding the context and what the user 
+
+
+\subsubsection{Search in the database of Topics Generation Previous}
+
+There is a database that was generated thanks to an algorithm that detects and asses the contents of each script to some topics having a list from 1 to 10 topics that are inside the videos. This will be useful for scalability due that will be really cost expensive to look and apply the algorithm to all the scripts and instead of that the search will be just of these Topics Words that will map the User Input Prompt Search with 1-5 scripts from all the database.
+
+
+\subsubsection{Detection of Topics joined with their time periods}
+
+The Topic Segementtion Algorithm will be applied to the Top Videos selected in the previous step. Then it will give us 1 to 10 sections where the Topic is more related to the user prompt. Giving us the Time Stamp from the beginning of the Segment to the end of the segment. 
+
+
+
+
+\subsubsection{Display of Video Segment related to the Topic}
+
+From the previous step the Time Lower Limit and Time Upper Limit will be retrieved and will interact with the User giving and displaying that Time Interval inside the video. That Time Interval of the Video will be the more precise prediction that the algorithm can generate.
+
+\subsubsection{Text Summary generated with Generative AI}
+
+Inside the Time Preiod Interval that is selected will be extracted that part of the transcript.txt file and will be send to a Large Language Model. For this project would be ChatGPT API that will allow to send it to ChatGPT and make a Summary of the content inside that part of the transcript. Also will be use the Dall-3 Generative AI Model for  showing a generated image from  that content.
+
+
+
+\subsection{Field Study.}
+
+Field experiments have been conducted involving a diverse group of participants, which include high school students from Tecnologico de Monterrey, alongside current college and graduate students. The research encompasses three key areas of study:
+
+\begin{enumerate}
+    \item Physics I at the High School Level
+    \item Mathematics III at the High School Level
+    \item Introduction to Programming with Python at the College Level
+\end{enumerate}
+
+The objective is to engage at least 50 unique students in each study segment to facilitate comprehensive data collection, which will be instrumental for the thesis. Moreover, during the forthcoming summer period, live courses covering these specified areas will commence. The courses are designed to track participant responses and interactions systematically. This data will be diligently archived with the intent to leverage it in the development and enhancement of models for future Artificial Intelligence-based educational tools.
+
+
+\section{Software Architecture Plan and Technologies (Alpha)}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{appdesign.png}
+    \caption{Visualization Conceptualization of the Look of the Working Software (Alpha Version).}
+    \label{fig:my_label}
+\end{figure}
+
+
+
+
+
+
+\subsection{Online live classes.}
+I have already conducted during a week to more than 150 students for the basics of programming and Python. This was the first intent for dividing the data. The next step is developing a 15 hours program of each course to record all the classes as video sessions and all the interactions.
+I plan to have at least 1000 hours of video recording of this thesis and all the exercises I plan to do as the Artificial Intelligence Models.
+
+
+
+
+
+
+\subsection{Software Development Using State-of-the Art technologies}
+
+
+
+I am developing a platform that will include the following parts.
+
+Web platform
+Android Application
+
+These platforms are going to be with the purpose of having a better education experience for the students. Also, it is going to be useful for me in order to keep track of the students data and record it in a more systematic and automatic way taking into account a personalized education experience for each student.
+
+
+ 
+\section{Evaluation of the Models}
+
+
+This research seeks to rigorously evaluate the accuracy and coherence of algorithms designed for Topic Segmentation and Summary Generation using Large Language Models within the domain of Generative AI. The methodology is structured as follows:
+
+\begin{enumerate}
+    \item \textbf{Algorithmic Assessment}: The core focus is to examine the precision and contextual relevance of algorithms in accurately segmenting topics and generating coherent summaries. This involves an in-depth analysis of the underlying mechanisms and the output quality of these algorithms.
+    
+    \item \textbf{Evaluation Criteria}: Key performance indicators, including accuracy and coherence, will be established to quantitatively and qualitatively measure the efficacy of the algorithms. These criteria will assess how well the algorithms can identify and delineate topics in a dataset, as well as the quality and relevance of the generated summaries.
+    
+    \item \textbf{Expert Review Panel}: The evaluation process will involve a panel of at least three individuals, each with relevant expertise in the field of Generative AI and natural language processing. These experts will independently review the output of the algorithms, providing critical assessments based on predefined evaluation criteria.
+    
+    \item \textbf{Comparative Analysis}: The assessments from the expert panel will be compiled and analyzed to draw comparative insights. This analysis will focus on identifying strengths, weaknesses, and areas for improvement in the algorithms under study.
+    
+    \item \textbf{Data Collection and Synthesis}: The feedback and data collected from the expert reviews will be synthesized to formulate a comprehensive understanding of the algorithms’ performance. This synthesis will include both qualitative and quantitative data to provide a holistic view of the effectiveness of the algorithms.
+\end{enumerate}
+
+
+
+
+
+
+\subsection{Data and Result Analysis}
+This research aims to generate and analyze the generated data to evaluate the performance of algorithms for Topic Segmentation and AI-Generated Summaries. The scope of data collection includes, but is not limited to, the following parameters:
+
+\begin{enumerate}
+    \item \textbf{Accuracy of Topic Segmentation Prediction}: This metric assesses the precision with which the algorithms can correctly identify and segment topics within the given data. Statistical measures such as precision, recall, and F1-score will be used for a detailed accuracy assessment.
+
+    \item \textbf{Process Efficiency}: The speed or computational efficiency of the topic segmentation process will be evaluated. This involves measuring the time taken by each algorithm to complete the segmentation task, providing insights into their operational efficiency.
+
+    \item \textbf{Scalability Potential}: Future scalability of the algorithms will be examined, considering factors like algorithm performance under varying data volumes and complexities. This analysis aims to predict the algorithms' adaptability and efficiency in larger or more complex datasets.
+
+    \item \textbf{Quality Assessment of AI-Generated Summaries}: The qualitative aspect of summaries generated by AI algorithms will be evaluated. This includes assessing coherence, relevance, and comprehensiveness of the summaries in relation to the original content.
+\end{enumerate}
+
+In order to present the findings, a dedicated section of the thesis will include various forms of data visualization:
+
+\begin{itemize}
+    \item \textbf{Figures and Plots}: These will be used to illustrate the performance metrics, such as accuracy and processing time, in a visually comprehensible manner. Comparative plots will highlight the performance differences among the algorithms.
+
+    \item \textbf{Tables}: Detailed tabular data will provide a clear, quantitative view of the results, allowing for easy comparison across different performance metrics for each algorithm.
+\end{itemize}
+
+This methodology ensures a comprehensive evaluation of the proposed algorithms, facilitating a deep understanding of their strengths and weaknesses in the context of Topic Segmentation and AI-Generated Summaries.
+
+\section{Work Plan}
+
+The work plan for this thesis on e-learning state-of-the-art technologies shaping the future of tertiary and higher education is structured as follows: In the following infographic it is presented the timeline that shows an approximated estimation of how I plan to develop all the processes in order to develop my work in the Thesis.
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{timeline1.jpeg}
+    \caption{Diagram with the steps by steps of the First Part for the Thesis Work Plan Part 1}
+    \label{fig:my_label}
+\end{figure}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{timeline2.jpeg}
+    \caption{Diagram with the steps by steps of the First Part for the Thesis Work Plan Part 2}
+    \label{fig:my_label}
+\end{figure}
+
+
+
+
+
+
+The previous figure shows the timeline in an schematic way, nevertheless the explanation of each step is shown next in this section. The process of a Thesis can vary mostly talking about the duration of each step, due to the fact that in research the advances sometimes may be unpredictable mostly when administrative reasons come into play, but in fact is necessary a work plan because helps to have a structured and realistic research for a Thesis.
+
+
+
+\subsection{1. Preliminary Research (Month 1-2):}
+   a. Define research objectives and questions.
+   b. Develop a theoretical framework.
+   c. Conduct a preliminary literature review to identify relevant studies and resources.
+
+\subsection{2. Systematic Literature Review (Months 3-4):}
+   a. Develop search strategy and criteria for inclusion and exclusion of studies.
+   b. Conduct database searches and screen identified articles for relevance.
+   c. Extract data and synthesize findings to address research questions.
+
+\subsection{3. Case Study Selection and Data Collection (Months 4-5):}
+   a. Identify tertiary and higher education institutions with successful implementations of state-of-the-art e-learning technologies.
+   b. Collect data through document analysis, interviews, and site visits (if applicable).
+
+\subsection{4.- Field Study}
+Online Classes (Months 6-14)
+I plan to offer the previously mentioned three courses to students of levels from High-school to college students.
+
+\subsubsection{section{Video and Content  & Development Software Design (Months 6-12)}
+
+The software Development will be by the tools incorporated as 
+
+Wordpress, Django, Android Studio and more in order to offer amazing experiences and interactive learning.
+The development and testing of the path learning recommender system would be used with actual real students.
+
+
+5. Surveys and Interviews (Months 6-14):
+   a. Design and pilot survey instruments for educators, students, and administrators.
+   b. Administer surveys and conduct interviews to gather perspectives on the adoption and use of state-of-the-art e-learning technologies.
+   c. Analyze survey and interview data.
+
+6. Data Analysis and Synthesis (Months 10-16):
+   a. Analyze data from the literature review, case studies, and surveys/interviews using appropriate quantitative and qualitative data analysis techniques.
+   b. Synthesize findings to address research questions and objectives.
+
+7. Writing and Revision (Months 13-15):
+   a. Draft thesis chapters, including introduction, literature review, methodology, results, discussion, and conclusion.
+   b. Revise thesis chapters based on feedback from the thesis committee.
+
+8. Thesis Submission and Defense (Month 15-18):
+   a. Submit the final draft of the thesis for review and approval by the thesis committee.
+   b. Prepare and deliver a presentation for the thesis defense.
+
+9. Dissemination and Future Research (After Month 18):
+   a. Submit research findings to relevant academic conferences and journals for publication.
+   b. Explore opportunities for future research and collaboration in the field of e-learning and tertiary/higher education.

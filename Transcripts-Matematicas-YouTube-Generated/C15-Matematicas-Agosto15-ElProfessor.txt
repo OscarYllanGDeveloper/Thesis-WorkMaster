@@ -1,0 +1,532 @@
+0:02
+Okay bien muy bien chavos miren Bueno una parte de este que muy
+0:10
+importante de matemáticas sobre todo hoy en día este digo sobre todo hoy en día porque hoy en día este ya las
+0:17
+computadoras no gra a todo lo de programación además de todos los datos
+0:25
+que generamos no y que además hoy ya las compañías están así
+0:32
+que todo el tiempo están agarrando esta información no este porque Bueno vamos a
+0:37
+ver un poquito de Por qué es tan importante esta parte de probabilidad estadística digo desde siempre lo ha
+0:43
+sido Pero ahorita que tenemos así que todo lo de las computadoras y que tenemos todo lo de poder almacenar
+0:49
+información en bases de datos pues lo es aún más no O se Si antes antes era muy
+0:55
+importante ahorita pues ya s este se elevó demasiado Porque existe hoy en día
+1:03
+no existe lo que se conoce como Data Science no ciencia de
+1:08
+datos que básicamente es aplicar mucho
+1:14
+lo que es probabilidad y
+1:22
+estadística a los
+1:28
+datos Porque con podemos hacer lo que es análisis de datos pero también podemos
+1:33
+hacer predicción de cosas con todo esto también Bueno vamos a ver que desde
+1:39
+siempre la estadística por ejemplo se ha usado para poder determinar este
+1:44
+estudios científicos No desde ahora sí que este si una hipótesis no está
+1:52
+correcta o no está correcta este si nuestras ideas no tienen un cierto porcentaje de error no este también nos
+2:01
+permiten describir bastantes cosas eso así que la verdad es que probabilidad
+2:06
+estadística se puede usar en muchas cosas se puede usar en negocios se puede usar en ciencias se usa mucho en estas no que
+2:14
+acabo de decir como en ciencias como en negocios [Música]
+2:19
+este Porque además existe bien Vamos a ver
+2:25
+rápido Bueno antes o sea estadística se va basa mucho en probabilidad Okay luego
+2:32
+vamos a ver un poquito de probabilidad probabilidad también se basaba un poquito Si se acuerdan en lo que habíamos dicho de combinatoria no
+2:39
+acuérdense lo que habíamos visto de combinatoria que era el estudio de Cuántas combinaciones podíamos tener no
+2:45
+que había combinaciones permutaciones y todo esto y bueno dentro de esto ahita nada más para
+2:53
+que lo vean rápido este probabilidad no es ahora sí que la probabilidad de que
+3:00
+un evento pase no siempre va a estar entre cero no la probabilidad de que el
+3:08
+suceso suceda siempre va a
+3:15
+estar este entre cero y un no
+3:21
+Ok O sea que quiere decir que un evento pase siempre puede ser que no tenga nada
+3:30
+de probabilidad de que pase que sea cero verdad o puede ser que tenga el 100% de probabilidad de que pase pero va a vivir
+3:38
+entre esos dos no O sea no existen probabilidades ni negativas ni mayores a
+3:43
+uno no es este como si fuera un porcentaje es una razón por qué Porque
+3:48
+es una razón es una división no entonces este miren vamos a ver que aquí dice la
+3:54
+formulita esta que la probabilidad de que el evento a suceda no aquí a es un
+4:03
+este que algo suceda no este bueno es que aquí Se confunde porque aquí of ev
+4:09
+pero o sea que pase algo No una acción que suceda
+4:16
+algo okay la probabilidad de que suceda algo es igual a lo que dice ahí el
+4:23
+número no el número de eventos deseados
+4:34
+no entre el número total de eventos
+4:47
+no bueno Esto siempre y cuando todos los eventos tengan la misma Cómo se LL
+4:55
+distribución este etcétera Este sí O sea
+5:01
+que no sean más unos que otros es por ejemplo de un dado No ese es el común o
+5:07
+una moneda más fácil una moneda no cuando nosotros lanzamos una moneda al
+5:12
+aire solo tenemos dos posibilidades Verdad que es Águila o sol
+5:21
+no sí o no oa solo tenemos dos posibles
+5:26
+resultados no y por ejemplo entonces Este es un evento favorable y
+5:34
+Este es otro evento favorable Cuántos son el número total de eventos chavos dos verdad Muy bien Entonces la
+5:43
+probabilidad como aquí vemos en la fórmula no de que pase esto
+5:50
+no la probabilidad del evento a es igual a el número de eventos uno verdad Entre
+5:57
+dos o sea la probabilidad de que pase águila Y esa es la probabilidad de que pase sol por ejemplo no ambas en estos
+6:04
+casos es un medio y un medio verdad 1 entre dos como vemos aquí en la fórmula
+6:11
+no el número de eventos favorables a Águila es un verdad el número total de
+6:18
+eventos es dos verdad sí muy bien es lo
+6:24
+que vemos aquí por ejemplo no es también esto muy bien okay
+6:33
+Este existen por ejemplo también
+6:39
+este así que esto también se representa mucho con lo que son
+6:45
+[Música] este vamos a
+6:56
+verlo esto se representa mucho con lo que son
+7:04
+se acuerdan de los conjuntos de los de gamas de v y todo eso de los conjuntos que vimos un poco en este matemáticas
+7:14
+discretas Okay posibilidad y probabilidad posibilidad Es como
+7:22
+decir es exactamente mira mira la posibilidad de que te ganes la lotería
+7:29
+una una pregunta la O sea ganarse la lotería no que tú te ganes la
+7:36
+lotería las posibilidades Cuáles son solo hay dos no O sea Cuáles son los
+7:42
+posibles resultados que hay ganarla o perderla
+7:52
+no que básicamente si lo vemos no son los son
+7:57
+los posibles eventos que hay no como estábamos viendo aquí no como dice aquí
+8:04
+no es el número total de eventos no Bueno o sea el número de o sea los
+8:10
+eventos que hay mejor dicho no el número el los eventos que hay no posibilidades
+8:15
+es que tú ganar la lotería Solo tienes dos no ganarla o perderla sin embargo digo siendo
+8:23
+realistas No eso es la posibilidad o sea es 50 50
+8:28
+no más tiene dos verdad Pero cuál es la probabilidad de
+8:37
+ganarle uno entre la cantidad de tickets que se hayan hecho de la lotería
+8:43
+Exactamente no sería uno ent digamos que tuvieras número de boletos
+8:52
+no totales bueno Esto si solo compras un
+8:57
+boleto si compras más es el número de boletos comprados
+9:07
+No Okay y perderla sería acuérdense que
+9:12
+dijimos que las probabilidades solo pueden ir de de qué al qué del o al un no Entonces ahora así
+9:23
+que bueno vamos a ver después Ahorita hoy no pero vamos a ver que la suma de
+9:28
+las idades Bueno ahor se lo puedo poner no está tan difícil podemos ver este la suma de todos los probabilidades de cada
+9:36
+evento la suma total de todo tiene que ser igual a uno verdad porque el Ah sí
+9:43
+que el resultado total tiene que ser el 100% no podemos tener más que el 100% no
+9:50
+Entonces qué quiere decir si dijimos que por ejemplo la sumatoria
+10:00
+de las probabilidades no de todos los eventos x y d x son los eventos no la
+10:09
+sumatoria de todos los eventos no tiene que ser igual a
+10:16
+qué a uno
+10:21
+no okay Porque este pues obviamente tiene que ser igual a uno porque la suma
+10:28
+total de todos los boletos no de todos los boletos comprados Imagínate que se compran todos los boletos No pues la
+10:34
+suma total de boletos comprados si se vendieron todos no entre el número total
+10:40
+de boletos No pues tiene que ser igual a uno no porque se dividirían Por ejemplo
+10:46
+si son 100 entre 100 boletos No pues nos
+10:52
+daría uno no muy bien okay Digo A qué voy con esto es porque que entonces la
+11:00
+probabilidad de perder No pues va a ser igual
+11:06
+a bueno si esto sabemos que más la probabilidad
+11:12
+de perder voy a ponerlo así como p per no tiene que ser igual a un No pues pues
+11:21
+como se imaginarán no es nada más
+11:27
+despejar Okay es no más despejar
+11:36
+no muy bien Vamos a hacer
+11:41
+esto es solamente despejar Qué quiere decir que la probabilidad de perder
+11:49
+no tiene que ser igual a hacer
+11:56
+esto 1 menos
+12:04
+muy bien sí o no chavos sí lo ven yo sí lo
+12:12
+ven literal porque estén viendo
+12:17
+este completa creo que
+12:24
+sí sí okay
+12:30
+bien Así que esos de por ejemplo ganar la lotería no sería así o tienes dos o
+12:37
+sea posibilidades tienes dos que las posibilidades son los eventos posibles que hay no los eventos posibles es
+12:44
+ganarla o perderla no no puedes empatar este puedes no más ganar o perder
+12:49
+Entonces el cómo ganarla pues depende del número de boletos que hayas comprado
+12:55
+entre el número de boletos total digo bueno Esto siempre asumiendo que no haya nada chueco no O sea que como les dije o
+13:02
+sea que cada boleto valga igual y Que obviamente no esté sesgado no
+13:08
+este Okay entonces así es como se maneja y dijimos no que más la probabilidad de
+13:14
+perder tiene que ser igual a uno entonces un menos el número de boletos comprados entre el número de boletos
+13:21
+totales es la probabilidad de perder Y así tenemos las dos muy bien Bueno
+13:26
+este también teníamos este por ejemplo la probabilidad de que dos eventos este
+13:33
+pasen no que un evento pase y otro si se acuerdan que estábamos viendo un poco
+13:40
+que en conjuntos si se acuerdan en conjuntos esto de
+13:46
+a intersección se acuerdan que esto es intersección no de B esto es como que
+13:53
+quiere decir así que en palabras más mundanas es que que pase a y base B No
+14:00
+hasta que suceda a y b no O sea que ambos sucedan no uno o
+14:10
+sea tiene que ser uno y el otro no se puede no así que acuérdense que era el an era como el true bueno con los TR O
+14:16
+sea que ambos tienen que suceder para que sea así no muy bien y aquí vamos a ver que la
+14:24
+probabilidad de que eso pase no que más o menos pu sería esta área no la
+14:31
+probabilidad de que esto pase no es como se ve aquí es la
+14:41
+multiplicación de ambos eventos no de las probabilidad de cada evento no por
+14:48
+ejemplo es la probabilidad no sé de
+14:55
+que este por ejemplo HM dej el
+15:05
+pensado miren esto este no sé si han visto luego que hacen
+15:12
+este algunos videos algo así en YouTube y todo eso que graban a hombres y mujeres como diciendo este sus
+15:20
+expectativas de su pareja ideal no y les preguntan no Pues de que qué esperas que
+15:26
+sea de tal altura de tal este belleza lo que sea no este
+15:32
+y les dan como la probabilidad de Cuál es la probabilidad de que una persona sí
+15:38
+exista no O sea o sea de todo el mundo pues bueno de todo México lo que sea
+15:44
+este la probabilidad de que esta O sea sí pues Cuántas personas así hay por
+15:49
+ejemplo no muy bien Si queremos hacer algo así no es lo que hacen muchas veces
+15:54
+en estos es una calculador cita muy simple lo único que hacen es agarrar es esas estadísticas y multiplicarlas no s
+16:03
+vamos a ver no sé por ejemplo según yo o lo que
+16:09
+me acuerdo la estatura promedio en México
+16:14
+no
+16:20
+Okay okay mir la estatura promedio en México no es de mujeres es
+16:27
+158 Ok y de omb es
+16:36
+167 Ok y según yo la desviación estándar era en 7 cm para
+16:43
+ambos Ok la standar deviation vamos a verica
+16:52
+eso okay Y según yo sumarle cím ambos que sería una
+17:00
+desviación estándar es está arriba del 85 por ent vamos a decir que si las una
+17:07
+mujer que mide 1665 y un hombre que mide 174 o más pues
+17:14
+un s la altura que sea no de la mujer y
+17:21
+de El hombre no
+17:26
+esto Solo el 15 por C de todo México no en ambos casos cumplen con estas
+17:33
+condiciones bueno cada uno uno para mujeres para hombres no muy bien y no sé
+17:40
+una cosa bien estricta no sé ojos verdes creo que los ojos verdes son como en
+17:46
+México como el 2% una cosa
+17:51
+así okay miren ojos verdes según yo es el 2% para ambos
+18:00
+casos no Okay bueno el dos la probabilidad por ejemplo de que un hombre diga Ah pues yo
+18:08
+quiero una chava que mida más de unos 65 y que este este tenga ojos verdes no
+18:14
+pues sería por ejemplo la altura de la
+18:20
+mujer multiplicada no a la probabilidad de los ojos verdes no
+18:27
+poner no sería igual a ese 15% se pone como
+18:33
+0.15 verdad Y esto se pone como 0.02 no déjen la calculadora cuánto
+18:42
+sería un cálculo rápido no sería multiplicar punto 15 por pun 02 que
+18:51
+sería 0.03 no
+18:56
+y pues muy bien bueno igual para los hombes verdad Pues sería lo mismo bueno porque estamos agarrando este esto no
+19:03
+del 15% sea la probabilidad de que encontremos una mujer no que mida más de
+19:09
+1 65 y tenga ojos verdes no es tres de cada 1000 en México no y de los hombres
+19:17
+igual Bueno más de 174 que tenga ojos verdes no este es de cada 1000 por
+19:22
+ejemplo haciendo la multiplicación con el número de mujeres en México que según yo son 65 millones 65 millones por pun
+19:33
+003 no más o menos hay bueno de ambos
+19:40
+lados va a haber 195,000 personas así no muy bien o sea
+19:48
+bueno eso puede ser un digo nada más eso lo dije porque la otra vez me salió un video de eso de este YouTube y pues lo
+19:55
+único que hacen es eso no multiplicar las estas pero miren Realmente si
+20:01
+quisieran hacer las cosas más reales Esto no es tan cierto porque o sea
+20:07
+también es cierto que hay unas características que están más asociadas a otras por la genética no pero bueno
+20:13
+sea haciendo lo que ven en YouTube no más hacen Esto no se complican y no no lo hacen más este elevado que hacer esta
+20:20
+multiplicación no que es lo que vemos aquí esta regla no que nos dice que es
+20:26
+multiplicar la probabilidad de a con la probabilidad de B también otra forma de verlo en otro ejemplo muy normal que
+20:32
+ponen en probabilidad estadística es por ejemplo que avientes una moneda y un
+20:39
+dado al mismo tiempo no y que te caiga uno y que te caiga sol no la
+20:44
+probabilidad del primero Cuánto es 1 medio no la probabilidad del
+20:51
+segundo Cuánto es un sexto no la probabilidad de que los tengas ambos no
+20:59
+O sea de que te caiga un uno y un sol en la primera es uno por uno verdad entre 2
+21:07
+* 6 un 12avo no la probabilidad de que te caiga sol y el uno no es un
+21:14
+Doo Okay muy bien
+21:19
+este así que esto es para esto Muy bien buen ahorita luego vamos a segir un
+21:25
+poquito con probabilidad vamos a ver tantito porque sí quería ver un poco de lo de estadística no Okay chavos Bueno
+21:33
+al menos vamos a ver qué significan existe lo que es estadística
+21:38
+descriptiva no y estadística inferencial Okay la
+21:44
+estadística descriptiva me dice se encarga de recoger almacenar ordenar realizar tabas o gráficos y calcular
+21:51
+parámetros básicos sobre el conjunto de datos bien pues Como dice el nombre ya les he dicho que las este en la mayoría
+21:58
+de la vida este muchas veces el nombre te dice la mitad de la respuesta Qué
+22:04
+hace esta parte de la estadística describe los datos la información que
+22:09
+tenemos no se almacena ordena no también podemos realizar tablas no
+22:17
+esto de visualización de datos es muy útil porque nos permite exactamente ver
+22:23
+cómo están distribuidos los datos Y nosotros además como todos los seres humanos somos muy visuales y sobre todo
+22:29
+para las personas que no están tan adentro del en el tema o que no conocen tanto de probabilidad estadística es más
+22:36
+fácil ponerles una imagen no con un gráfico y así lo puedan entender Y como dice es junto a la
+22:43
+inferencia o sea las dos grandes ramas de estadística la descriptiva y la inferencial no su propio nombre lo
+22:49
+indica trata de describir algo no pero no describirlo De cualquier forma sino de manera cuantitativa pues o qu estamos
+22:56
+en matemáticas entonces pues con números no este muy bien mir respond a preguntas
+23:02
+Como por ejemplo esto el Mira más que la altura o sea el promedio no es una de
+23:07
+las cosas que nos sirven la de las Así que medidas de este de la estadística
+23:14
+descriptiva es el promedio la moda y la mediana por ejemplo Bueno muy bien y la estadística inferencial chavos Okay qué
+23:22
+Qué es hacer una inferencia es como hacer una predicción juzgar no algo así
+23:27
+dicen la estadística inferencial se estudian técnicas y procedimientos con el objetivo de extender o generalizar
+23:33
+información una muestra población bien Esto pasa mucho porque a veces es muy
+23:40
+costoso si no imposible recolectar datos de toda una población vamos a ver que
+23:47
+existe dos conceptos uno que se llama población y otro que se llama muestra no
+23:53
+muy bien la la muestra no bueno la población es
+24:00
+el total no es el universo entero de lo que estamos evaluando por ejemplo En
+24:06
+México sería la población total no pero podríamos agarrar una muestra las muestras se pueden hacer de muchas
+24:12
+maneras no este la muestra básicamente es agarrar un subconjunto la muestra es
+24:19
+un subconjunto de la población o sea son menos siempre son menos individuos que
+24:25
+la población no hay técnicas y depende de qué tan grande qué tan chicas Y bueno
+24:31
+ya vamos a ver no que hay varias formas de agarrar muestras sin embargo lo importante que el concepto importante es
+24:37
+que la muestra es un subconjunto de la población no la población es el total a
+24:44
+veces por qué se hace eso sobre todo mucho en negocios este también en física
+24:50
+en en ingeniería en negocios por ejemplo si queremos hacer una campaña de marketing no y Queremos saber Así es
+24:56
+imposible preguntar prle a todo el mundo digo O sea no no lo van a rogar este entonces este como es imposible
+25:03
+preguntarle a todo el mundo pues eligen este muestras representativas le llaman
+25:08
+hay varias técnicas hay varias formas de hacerlo no el punto es que con un un subgrupo de la
+25:16
+población se trata de hacer lo mejor posible y bueno se analizan los datos
+25:21
+para poder hacer inferencias o sea para poder decir Ah este la población es muy
+25:28
+probable que se tiendan a comportar Así es como en las elecciones ya estamos como un año de eso Entonces este que
+25:35
+empiezan a llamar y todos los sondeos no exactamente un sondeo es agarrar una
+25:40
+muestra de la población Y tratar de hacerlo este para para toda la población
+25:46
+no para verlas este cómo se está comportando los bueno las personas los votos etcétera no Entonces como dice No
+25:54
+aquí esta parte no con los datos se trata de hacer predicciones no
+25:59
+inferencias sobre la población no muy bien es lo que tratamos de hacer con la
+26:06
+inferencial no lo que les decía la población dice en estadísticas el término de la población es sinónimo de
+26:12
+un universo lo que les decía no y se acuerdan en conjuntos verdad se acuerdan
+26:17
+en conjuntos que teníamos Así que el cuadro grande era el universo no en este
+26:22
+caso sería la población dice este por ejemplo todos los elefantes en África
+26:30
+los elementos que conforman una población reciben el nombre de individuos
+26:36
+no puede ser cualquier cosa animales fenómenos objetos entre otros no existe lo que es población finita
+26:43
+dice es aquella población que está conformada por una cantidad limitada de individuos por ejemplo todos los estudiantes de una universidad no Ok y
+26:51
+también existen lo que son poblaciones infinitas pobla que está conformada por una cantidad ilimitada de individuos o
+26:56
+cuyos elementos son finitos pero imposibles de contar no por ejemplo las hormigas que hay en un estado O sea digo
+27:04
+se puede hacer aproximaciones por ejemplo del número de átomos que hay en el universo pero así contarlos decirles
+27:11
+un número Exacto es imposible No este lo mismo No sé el número de seres vivos que
+27:18
+hay en el planeta tierra también es imposible el número de estrellas o sea
+27:25
+cosas así no este también digo como les dije en muchas
+27:32
+cosas estadísticas es imposible por ejemplo saber todos los gustos de todo
+27:37
+el mundo o los tipos de sangre lo que se hace Es con muestras se hacen este
+27:43
+inferencias verdad sobre la población es lo que se puede hacer porque exactamente
+27:48
+hay veces que las poblaciones son infinitas cuando son por ejemplo aquí como el número de estudiantes de una universidad digo puede costar trabajo
+27:55
+pero es posible no es posible no es una locura intentarlo este sin embargo este
+28:01
+pues las poblaciones infinitas que sería como les dije preguntarle a todo el mundo contar el número de hormigas el
+28:08
+número de seres vivos etcétera Pues si es prácticamente imposible okay en lo
+28:14
+que les decía la muestra estadística verdad este lo que les decía es una parte de la población es como el nu de
+28:22
+cada 10 doctores recomiendan tal medicina no Exactamente eso digo obviamente no le preguntaron a toda la
+28:28
+población no O sea obviamente no fueron a preguntarle a todos los doctores de México a todos los doctores del mundo no
+28:34
+O peor aún los whiskas no este dicen que ocho de cada 10 gatos prefieren whiskas no obviamente O sea no no se pusieron a
+28:40
+ver todos los gatos no este Cuáles hacen lo que hacen exactamente es agarran una muesta de gatos Por ejemplo no para los
+28:47
+whiskas no este y les ponen ahí de que las coquetas No Y ahí ya ven Cuántos
+28:54
+agarran no y ya de ahí dicen sus estadísticas que bueno muchas veces eso es marketing y a veces mienten Pero
+29:00
+bueno este el punto es que en teoría sí lo deberían de hacer no Porque obviamente
+29:06
+es imposible que vean a todos los gatos Entonces este pues muy bien entonces así es como
+29:12
+lo de las muestras también lo de los doctores no y todo esto es así de una
+29:18
+población entera no agarran una parte no es como que tengamos este en una
+29:24
+universidad no sé con 15,000 alumnos no y que le pregunte nom más a 1000 no una
+29:29
+cosa o le hagan un estudio a 1000 y ya con eso las distribuciones de probabilidad que cada uno de no de estos
+29:37
+1000 los subgrupos No pues podamos decir Ah bueno ahí Aplica para los 15,000
+29:43
+también no muy bien Hay gados de confianza para eso y todo eso ya es un
+29:49
+poco más profundo pero bueno esa es la lógica Esa es la la base de lo que vamos
+29:54
+a hacer chavos Pero bueno este yo creo que ya sería todo por hoy vamos a seguir viendo esto de todos modos y Bueno nos
+29:59
+vemos chavos y cuídense mucho

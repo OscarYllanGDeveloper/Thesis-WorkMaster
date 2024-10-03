@@ -1,0 +1,910 @@
+0:03
+Okay pues bueno este muy bien chavos entonces este Bueno vamos a ver no este
+0:11
+acuérdense que vamos a ver toda esta semana matemáticas discretas y hay que recordar ahora sí que lo que vimos ayer
+0:18
+ayer Bueno antes que
+0:24
+nada vimos bueno teoría de conjuntos verdad y todo eso y hay que recordar a
+0:33
+ver chavos Qué es un
+0:42
+conjunto es una colección de elementos sí qué
+0:53
+más Cuál es su principal
+0:58
+característica
+1:05
+únicos No muy bien si es una colección de
+1:10
+elementos pero su principal característica es que son únicos verdad si nos acordamos verdad que hasta en
+1:15
+python acuérdense que cuando nosotros poníamos por ejemplo de que
+1:21
+8885 pues python nos regresaba verdad el conjunto el set solo de
+1:28
+8,5 verdad los conjuntos solo son valores únicos
+1:34
+muy bien y ayer vimos tres operaciones de conjuntos chavos cuáles
+1:47
+eran muy bien Unión intersección muy
+1:54
+bien diferencia muy bien intersección diferencia y cuál nos
+2:02
+falta complemento perfecto complemento verdad Muy bien Entonces esos fueran las
+2:09
+cuatro operaciones de conjuntos que vimos ayer Okay hay que acordarnos Cómo
+2:15
+se escribe en cada una por ejemplo mir vamos a poner que tenemos el conjunto a
+2:20
+y el conjunto B muy bien que el conjunto a sea no
+2:28
+sé el a voy a poner que sea 2 4 com6
+2:35
+com8 muy bien coma 10 por e y el conjunto B a ponerlo aquí
+2:44
+conjunto B que sea 1 com 2 com 3
+2:53
+coma 6 101 muy bien
+3:01
+y digamos que el universo del universo el universo es igual de enteros son
+3:10
+todos los enteros del cero al
+3:16
+12 muy bien es la unión por ejemplo la unión de a y b
+3:22
+verdad a a Unión se pone con una u así verdad a
+3:32
+unión b y hay que acordarnos a ver chavos cómo qué me daría qué conjunto me
+3:40
+daría en a unión b cuál sera un conjunto
+3:52
+resultante 1 2 3
+3:58
+4 seis 8 10 y 11 muy
+4:04
+bien perfecto así sería Cómo se vería la unión verdad la intersección chavo se
+4:11
+pone con una u volteada así muy bien y Bueno aquí acuérdense que
+4:21
+la intersección quiere se refiere a los elementos que están en ambos conjuntos
+4:27
+entonces la intersección son elementos que están en ambos conjuntos Cuáles serían chavos Cuál sería la intersección
+4:35
+2 6 y 10 2 6 y 10 muy
+4:45
+bien muy bien el complemento bien acuérdense que el
+4:51
+complemento era lo que nos faltaba verdad chavos el complemento es lo que
+4:57
+nos faltaba entonces este muy
+5:04
+bien el complemento era lo que le faltaba Al conjunto miren acuérdense que
+5:12
+se ponía como si fuera potencia y acuérdense como si fuera potencia muy
+5:19
+bien cuál sería acuérdense que el complemento de a son todos los elementos
+5:24
+del universo menos los de a verdad okay
+5:30
+Entonces cuál sería el complemento de
+5:45
+hachos Sí muy bien Sería más o menos serían los el cero verdad Bueno
+5:52
+empezamos desde el cero verdad el un el tres el C el si el 9 el 11 y el 12
+6:04
+verdad son todos los que no estánen todos los del universo menos los de
+6:11
+a sí lo vieron chavos ahora díganme el complemento de
+6:20
+B que son todos los que no están en B 0 4 5 muy bien C 4
+6:31
+5 7 8 9 y
+6:36
+12 muy bien perfecto exactamente verdad son todos los que del universo os B
+6:44
+verdad y bueno la diferencia acuérdense que bueno podría ser por ejemplo a - b y
+6:50
+b - a acuérdense que como en matemáticas en aritmética así no es lo mismo A - B
+6:58
+que b - a Okay muy bien
+7:04
+chavos a men b y b- a muy
+7:14
+bien okay A Men B chavos acuérdense les
+7:19
+va a ayudar con el primero el a men B acuérdense que es ver los elementos quitarle a a los elementos que
+7:27
+estén en b quiere decir por ejemplo aquí el dos está en el b y está en el a
+7:36
+Entonces le quito el dos a a verdad este el se el se está en el B se lo quito al
+7:46
+a el 10 está en el b y se lo quito a a
+7:51
+Cuáles son los elementos que me queda
+7:58
+nena Cuál es
+8:05
+chos el 4 y el 8 no Okay entonces la a men B es 4 y 8
+8:15
+ahora al revés chavos eso yo ya no se lo voy aar cuánto sería B men
+8:21
+a 1 3 y 11
+8:28
+1 10 y 11 Muy
+8:34
+bien excelente no miren Pues cómo sería tu compañero es así verdad este el dos
+8:41
+está aquí verdad hay que quitarle el dos el se está aquí quitamos el 6 el 10 está
+8:49
+aquí le quitamos el 10 y nos quedan solamente 1 3 y 11 1 3 y 11 muy bien
+8:56
+Pues bueno eso fue lo que vimos ayer nada más Así que quería que no se les olvidara y hoy vamos a ver un poco más
+9:05
+de bueno de lógica matemática esto sirve mucho para cuando estén haciendo los If
+9:11
+los el los While verdad en general saber si su programa
+9:18
+Va a ser lo que ustedes quieren para eso es la lógica matemática que tenemos unas
+9:25
+cosas que se llaman proposiciones lógicas chavos una propos o en inglés un
+9:30
+statement una frase verdad este una proposición es algo que puede
+9:37
+ser solo puede ser o verdadero o falso por ejemplo el decir yo me llamo Juan o
+9:43
+es verdadero que me llamo Juan o es falso muy bien decir por ejemplo el
+9:50
+examen está fácil o es verdadero o es falso Es como decir está lloviendo está
+9:56
+lloviendo o es verdadero o es falso verdad esos son las proposiciones lógicas frases que tú dices que pueden
+10:04
+ser o verdaderas o falsas muy bien
+10:11
+este Okay acuérdense que vimos las existen las operaciones lógicas en
+10:17
+python acuérdense que vimos los operadores lógicos chavos que acuérdense bueno que veíamos lo que eran las tabas
+10:24
+de verdad Okay aquí por ejemplo tenemos la
+10:30
+proposición lógica p que es la proposición lógica uno y la Q que es la
+10:36
+proposición lógica dos por ejemplo puede ser frases así como yo fui al cine el
+10:44
+decir yo fui al cine o es verdadero que fui al cine o Es falso que fui al cine
+10:50
+me comí una crepa no es verdadero o es
+10:56
+falso Por ejemplo si AC F que de dentro de las operaciones que Vimos una de
+11:02
+ellas es el ant se acuerdan el operador lógico ant
+11:07
+en matemáticas en lógica matemática se pone con este signo como si fuera el de
+11:13
+la potencia un poco pero no tanto es más bien como una V invertida veanlo más como una V invertida porque la potencia
+11:20
+está como arriba este es así no este es el L el I y el or es una V
+11:29
+normal y el p Este es el or acuérdense que dijimos
+11:35
+del and si se dan cuenta aquí en la tabla de verdad Todo es falso solo es
+11:42
+verdadero cuando todo es verdadero acuérdense que habíamos dicho Verdad que
+11:47
+con que tengamos un solo false verdad Todo se hace false en el L verdad
+11:54
+acuérdense que dijimos que era como el agua y veneno verdad que tú puedes tener 100 jarros de agua pero aunque tú le
+12:01
+llenes uno de veneno verdad pues va a ser veneno lo mismo que dijimos que multiplicar por cero verdad Aunque tú
+12:07
+tengas 550 millones por 10000 millones conque tú tengas un por cero todo va a
+12:13
+ser cero verdad lo mismo aquí con que tú tengas un solo false
+12:19
+verdad va a ser todo false muy bien así
+12:25
+es como funciona el an verdad y el or es al revés si se dan cuenta
+12:34
+todos verdad Así que todo es true verdad a
+12:41
+excepción de que sean los dos false Qué quiere decir con que tú tengas un solo true ya estás de gane ya es true chavos
+12:48
+bien un ejemplo que les dije la mañana que me gustó es este miren Messi verdad
+12:57
+campeón del mundo o sea para decir por ejemplo que Messi es campeón del mundo
+13:02
+esto es con el operador lógico or Por qué miren Messi jugó el Mundial del
+13:10
+2006 ganó el mundial no lo perdió es fals verdad el Mundial del 2010 lo jugó
+13:19
+lo ganó tampoco es false verdad el Mundial del 2014 lo jugó lo perdió igual false
+13:27
+verdad el 2018 Okay lo jugó perdió false pero el
+13:35
+último verdad el 2022 el valor fue true verdad lo ganó Entonces si la pregunta
+13:42
+es Messi es campeón del mundo o ha sido campeón del mundo está en la lista de
+13:47
+los campeones del mundo Cuál sería la respuesta true true true verdad Muy bien
+13:56
+exactamente o sea aquí es lo que quiere demostrar el or verdad puedes tener
+14:01
+miren todos los demás false pero con que tú tengas un solo valor true el
+14:07
+resultado final es true así como Messi siendo campeón del mundo no no importa
+14:12
+que haya perdido cuatro verdad con que haya tenido uno ya entra en la lista de
+14:18
+los campeones del mundo de los que han sido campeones Ok Muy bien Así es como
+14:23
+funciona el o mir otro ejemplo de fútbol el verdad por ejemplo Francia en
+14:32
+2018 Francia se clasificó al mundial sí verdadero en el bueno sobrevivió el
+14:38
+primer partido Sí avanzó el segundo Sí avanzó el tercero sí avanzó el cuarto
+14:44
+también avanzó el quinto también avanzó el sexto también y ganó la
+14:49
+final aquí para ser campeón en un mundial o lo que sea en un torneo Así es
+14:56
+puro an o sea tienes que tener todo true true true true verdad para que el
+15:02
+resultado final sea true verdad Francia fue campeón del mundo en el
+15:08
+2018 Sí verdad Por qué Porque todos los valores fueron true Okay Francia en
+15:16
+2022 se clasificó Claro que sí pasó el primer partido pasó el segundo pasó el
+15:22
+tercero pasó el cuarto pasó el quinto pasó el sexto pero tuvo un false en la
+15:27
+final dio la final Francia fue campeón del
+15:34
+mundo Francia fue campeón del mundo
+15:40
+chavos no Verdad qué país era Messi Messi era Argentina Oh Pensé que estaba
+15:48
+preguntando de qué país fue el fue el campeón del mundo 201 Dios Ah no no no O
+15:55
+sea estoy preguntando si Francia o sea Francia hizo todo bien ganó Bueno pasó todos los
+16:00
+partidos sin embargo uno lo perdió Entonces ya no fue campeón verdad Porque
+16:08
+para ser campeón es puras condiciones ant o sea todos tienen que ser and Como
+16:15
+por ejemplo en el 2018 sí ganó todo entonces fue campeón verdad aquí en 2022
+16:21
+como tuvo un solo false el resultado final fue false
+16:26
+verdad sí Okay Así es como funciona chav nada más
+16:32
+más incluye las Alex así es Es con si incluyes todo
+16:37
+ego de mundiales Entonces es con Ans verdad sí sí sí O sea para ser campeón
+16:43
+es con Ans porque imagínense bien Por ejemplo si hubiera perdido aquí pues también ya no pasas a estos Entonces
+16:49
+tampoco eres campeón verdad la única forma de que seas campeón en un torneo verdad es que todos tus valores
+16:56
+sean true verdad que hayas pasado al rival o lo que sea en cada partido ese
+17:04
+es la única forma de ser campeón entonces por eso Francia no fue campeón porque tuvo un false verdad Nos es una
+17:13
+analogía para que vean el ant y el or verdad Cómo funcionan muy bien Pues bueno Y tenemos
+17:23
+el otro operador lógico que era el negación en matemática se pone con este
+17:28
+no y el statement acuérdense que en python le poníamos la palabra reservada
+17:34
+not verdad muy bien Qué hace el not o la negación pues es el contrario O sea si
+17:41
+tenemos true nos da false y tenemos false nos da true así tan sencillo como
+17:47
+eso chavos n más es negación verdad es como el antónimo verdad el contrario el
+17:54
+opuesto eso es la negación chavos muy bien miren vamos a ver que hay
+18:00
+operaciones compuestas podemos tener más de un statement y podemos tener
+18:05
+combinaciones de las operaciones que les dije ahorita okay miren vamos a ver por
+18:14
+ejemplo cuando tenemos un solo statement un solo una sola proposición lógica solo
+18:20
+tenemos dos posibles opciones verdad o es verdadero o es falso para una sola
+18:27
+proposición lógica vamos a ver que la fórmula es 2 elevado
+18:33
+al número de proposiciones
+18:42
+lógicas Qué quiere decir aquí tenemos una sola proposición lógica Entonces es
+18:48
+2 a la 1 2 a la 1 es igual a 2 no muy
+18:54
+bien Qué pasaría chavos si ahora tengo p y q Cuántas proposiciones lógicas tendría
+19:01
+Cuántas combinaciones tendría Cuántas combinaciones tendría combinaciones cuatro y
+19:08
+proposiciones dos muy bien exactamente tendríamos cuatro combinaciones verdad y
+19:14
+dos proposiciones no muy bien como aquí mir p y q
+19:20
+tengo el false el false y el false fse verdad
+19:28
+Okay Qué pasaría si tengo tres proposiciones lógicas Cuántas combinaciones
+19:36
+tendría o o verdad porque Serían dos al cubo dos a la TR serían estos muy bien
+19:46
+tendría por ejemplo que false
+19:51
+false false fse
+19:57
+fse vol Okay así no O sea si tuviera cuatro Pues sería 2 a la cu verdad si
+20:04
+tuviera 5 2 a la 5a 10 proposiciones 2 a la 10 okay miren si se van dando cuenta
+20:12
+cómo va el patrón para nosotros poner una tbla de verdad Miren el primero
+20:18
+bueno la primera columna esta la de acá es se alternan se va alternando true
+20:23
+false two false true false false false false o sea el cambio es cada un aquí
+20:30
+son dos TR dos false dos true dos false no O sea aquí en vez de estar cambi
+20:37
+alternándose cada uno aquí se alterna cada dos verdad y en la última columna Cada
+20:48
+cuánto cuatro cuatro verdad cada cuatro se alterna ch Entonces que se imaginan
+20:56
+Si tuviera cuatro este proposiciones lógicas la
+21:04
+última columna cada cuanto sería el cambio 16 combinaciones y 64 proposiciones
+21:10
+lógicas serían 16 combinaciones verdad dos a la cu verdad 16 combinaciones
+21:17
+verdad y muy bien y Cada cuánto cambiaríamos
+21:23
+de o sea todos estos que sean true Y estos sean false cuánt serían ocho ocho
+21:31
+y ocho verdad muy bien cada ocho estaríamos cambiando miren aquí ya lo hice aquí sería bien 1 2 3 4 5 6 7 y 8
+21:40
+ocho TR y
+21:45
+ocho muy bien si ustedes lo hacen así jamás se les va a pasar una
+21:51
+opción o sea siempre van a tener todas las posibles combinaciones aquí son cuatro entonces aquí tenemos Cuántas
+21:58
+combinaciones 2 a la 4 que es igual a 16 combinaciones
+22:05
+verdad Muy bien y miren tenemos lo que se le llaman estas que son combinadas
+22:12
+operaciones combinadas Cómo se llamaban operaciones
+22:19
+compuestas como esta miren vamos a hacerla antes de
+22:26
+copiar vamos a hacerla
+22:38
+ch nos dan esta esta compuesta no operación
+22:47
+compuesta muy bien nos dan esta operación
+22:55
+compuesta antes de empezar lo primero que tenemos que hacer es dibujar la
+23:00
+tabla de verdad vamos a hacerla a ver de cero
+23:06
+tenemos pqr por lo general se ponen en el orden alfabético p q r
+23:14
+Okay muy
+23:26
+bien Okay
+23:38
+pqr okay acuérdense empezamos que se alternaban cóm al
+23:45
+principio cada uno cada uno verdad Enton Y cuántas combinaciones vamos a tener
+23:50
+Antes que nada Cuántas vamos a tener dos a la TR ver o muy bien true false true
+23:59
+fse ya le da voy copiar y pegar
+24:08
+Okay muy bien Okay luego dijimos que se
+24:15
+alternaban Cada cuánto cada dos muy bien
+24:21
+chuchu false
+24:26
+false
+24:40
+muy bien y el último Cada cuánto cuatro muy
+24:51
+bien perfecto muy bien entonces así sería chavos bueno as dice Ya y miren vamos a
+24:59
+empezar a hacer las operaciones vamos a hacer los que están en paréntesis no Okay bien pues la verdad como está en
+25:07
+paréntesis no importa pero pues digo vamos a seguir como en matemáticas la jerarquía de izquierda a derecha vamos a
+25:13
+empezar Nada más por eso que la verdad en este caso no no es muy relevante Pero
+25:18
+bueno aquí tenemos un po vamos a aplicarle el or verdad a
+25:25
+estos true true qué me
+25:31
+da muy
+25:37
+bien false verd acuérdense
+25:43
+que siempre nos da a menos que los dos
+25:48
+sean es
+25:55
+que entiendo muy Sí el and es exactamente al revés con que tú tengas
+26:01
+un solo false todo se hace false el or es al revés todo es true A menos que
+26:07
+todas te den false verdad Muy bien bien Vamos a seguirle true or
+26:14
+true true true muy bien okay true or
+26:19
+false true verdad sí muy bien false or true me da
+26:25
+true verdad no a ver false false muy bien tengan cuidado
+26:31
+porque exactamente lo único que es false verdad es cuando ambos son false Ok
+26:37
+false true
+26:42
+false muy bien sería true y el último chavos false or
+26:51
+false muy bien verdad OK Vamos a seguirle
+26:58
+Ahora hay que hacer el otro que está en paréntesis la negación de q la negación
+27:04
+de q va a ser todos los Opuestos verdad por ejemplo si este era true este es
+27:09
+false false verdad este es true para estos dos false pues va a ser dos true
+27:17
+verdad true true la negación de este true el false verdad del otro true es
+27:26
+false est es true true verdad
+27:33
+hay son las negaciones los Opuestos verdad muy bien así es como nosotros
+27:39
+pondríamos negación de q y ahora el último chavos el último es hacer el
+27:47
+an a estos dos verdad vamos a hacer el
+27:53
+vamos a poner toda la operación esta
+27:59
+muy bien bien Vamos a hacer la operación del vamos a ver
+28:09
+el and false qué me da muy bien el true and
+28:18
+false muy
+28:26
+bien and muy bien true and
+28:34
+false muy bien false and false false muy bien el
+28:42
+two and muy bien y el último false and
+28:52
+true Muy bien excelente pues ese sería el resultado final por ejemplo bien creo
+29:00
+que los había puesto aquí en la clase de la mañana había dicho por ejemplo aplicado
+29:06
+a python cómo se vería por ejemplo una proposición Imagínate que la proposición p Verdad
+29:13
+que es lo que habíamos dicho una proposición es algo que puede ser verdadero o falso es como aquí la edad o
+29:20
+es mayor de 18 o es menor o es true o es false verdad Esto entonces sería un
+29:26
+statement el State p verdad Bueno la proposición lógica p por ejemplo el
+29:31
+r altura mayor a 170 verdad o es true o
+29:37
+es false por ejemplo este era una les decía una condición por ejemplo para subirse una montaña
+29:44
+rusa o sea imagínense que te piden una de dos o debes de ser mayor de 18 o
+29:51
+debes medir más de unos 70 para subirte verdad pero aparte y forzosamente
+29:58
+not enfermo o sea no debes de estar enfermo verdad qué es lo que estábamos
+30:04
+viendo aquí bien Este es un or verdad de dos statements del P y el r verdad con
+30:11
+un an verdad un de un not q si lo ven se
+30:18
+aplicado a python aplicado as que la vida real no en programación no sirve
+30:24
+para esto chavos para que nosotros exactamente podamos ver y saber no este
+30:31
+las tabas de verdad de estos digo Aquí son todos los resultados
+30:36
+posibles no ya para analizar uno en específico Pues sería que viéramos los
+30:42
+de una sola columna pero aquí esto Esta columna nos
+30:48
+da una sola fila una sola fila y esta columna nos da todos los posibles
+30:55
+resultados no que tiene esa combinación verdad Esa
+31:03
+operación compuesta de lógica muy bien Pues bueno eso luego vamos a seguir
+31:09
+viendo más de estos bien les voy a enseñar esto Aunque lo vamos a volver a ver mañana porque la verdad es que casi
+31:16
+nadie lo entiende a la primera este que es la operación condicional el implica
+31:26
+qu también se dice en español por lo tanto Ok este pues se usa mucho en pues
+31:34
+como en leyes no para decir Ah bueno si pasó esto Entonces por lo tanto este en
+31:39
+hipótesis verdad cuando están haciendo tesis verdad cuando están haciendo tesis o sea p por lo tanto
+31:47
+q okay Que bien aquí están inglés
+31:53
+condition se pone con el símbolo de una fecha verdad que la proposición p q Y si
+32:01
+p entonces q O sea si p sucede entonces q va a pasar la proposición p entonces q
+32:09
+es falta es falsa sí p es true y q es false Okay mir ahorita vamos a ver qué
+32:17
+significa ahorita vamos a verlo de todos modos lo vamos a volver a ver mañana porque casi nadie lo entiende a la primera Okay muy bien
+32:26
+Ajá Bueno aquí está diciendo que una proposición que se usa este compuesta
+32:32
+verdad es una condición este proposición condicional
+32:38
+verdad una condición proposicional expresa en inglés algunas veces para referirse a un statement condicional
+32:46
+statement no bien como esto si hay tráfico hoy
+32:53
+llegarían tarde al trabajo bien Vamos a ver la tabla de verdad este Está interesante Porque el único valor en el
+33:00
+que es false es solo si el primero es true y el segundo es false es como aquí miren vamos a ver los
+33:08
+dos ejemplos el que está ahí Y el que a mí se me ocurrió miren vamos a ver el del tráfico miren p es
+33:16
+tráfico y el Q es llegar tarde okay Nada va a poner tráfico y
+33:24
+tarde verdad okay Qué quiere decir miren vamos a ver todas
+33:31
+las opciones
+33:37
+Okay si hay tráfico entonces voy a llegar tarde
+33:42
+verdad Es lógico Entonces si hay tráfico Entonces llegaré tarde
+33:50
+verdad Muy bien bien Es que este no está tan bueno la
+33:55
+verdad me gusta más el de de la deuda miren Mejor vamos a decir el de la deuda creo que se explica un poco mejor Miren
+34:01
+el de la deuda imagínense que ustedes
+34:08
+este a ver bien esto sería pagué la deuda como dice
+34:17
+aquí si es un valor true quiere decir que si pagué la deuda si es false Es que
+34:23
+soy un deudor verdad que no he pagado la deuda muy bien miren si yo pido un
+34:28
+préstamo verdad se si yo pido un préstamo pero lo
+34:35
+pago soy un deudor no verdad O sea sí pagué la deuda
+34:40
+aquí me están preguntando pagaste la deuda si pido un préstamo y lo pago
+34:45
+entonces es verdadero que pagué la deuda verdad muy bien Vamos a saltarnos este
+34:51
+ahorita vamos con este si yo nunca pido un préstamo sin embargo le le pago a la
+34:57
+persona pues también o sea no es como que estuviera pagando la deuda pero
+35:03
+estoy como regalando dinero estoy donando Entonces no soy un deudor muy
+35:08
+bien aquí si nunca pedí un préstamo Pues tampoco pagué nada pues tampoco soy un
+35:14
+deudor verdad cómo voy a ser un deudor si nunca pedí prestado el único caso en el que tú te
+35:21
+convertirías en un deudor verdad es que tú pidas un préstamo y no No lo pagues
+35:27
+verdad en ese caso tú si eres un deudor verdad es la única forma en que tú seas
+35:35
+un deudor Okay yo sé que esta no está tan sencilla de entender pero bueno lo vamos
+35:43
+a volver a ver mañana Sin embargo quiero que se acuerden un poco Eso significa p
+35:48
+entonces q muy bien y uno de los casos será el ser deudor verdad el único caso
+35:54
+en el que yo sea deudor es que pida un préstamo y no lo pague muy
+36:00
+bien Bueno vamos a verlo má después y bueno también en esta parte de
+36:07
+matemáticas discretas vamos a ver lo que se llama combinatoria combinatoria en esta parte
+36:13
+bueno en este curso eso vamos a ver nada más estas dos combinaciones y permutaciones las
+36:20
+combinaciones es cuando sí importa el perdón es cuando no importa el orden
+36:25
+este es cuando no no importa el orden las permutaciones sí
+36:31
+importa el
+36:37
+orden O sea que casi siempre va a haber más permutaciones que combinaciones
+36:44
+verdad Porque si sí importa el orden Pues hay más posibilidades verdad esto
+36:50
+sirve mucho para Exactamente para ver todos los posibles escenarios que un software puede hacer verdad este
+36:57
+Cuántas por ejemplo operaciones va a ser nuestro algoritmo verdad
+37:03
+este qué más pues para las contraseñas Cuántas posibles contraseñas puede haber
+37:09
+[Música] Este sí en muchos casos vamos a ver que
+37:14
+las combinaciones y permutaciones cuántos posibles combinaciones de lado hay etcétera no es así que lo que
+37:23
+estudia combinaciones y permutaciones combinatoria y aparte todo esto es base
+37:28
+para probabilidad y estadística que bueno a los que les interese todo lo de Data Science análisis de datos etcétera
+37:36
+pues tiene que ver mucho con probabilidad y estadística y para hacer eso de probabilidad estadística pues su
+37:42
+base es la combinatoria porque era lo que les decía por ejemplo un dado un dado tiene seis caras verdad entonces
+37:49
+cada cara tiene un sexto de probabilidad verdad En porcentaje
+37:54
+16.66 por Okay muy
+38:00
+bien Vamos a ver bien vamos a empezar con lo más básico yo no sabía la verad
+38:07
+No creo pero según esto que viene internet dicen que en sexto de primaria enseñan Esto del principio de adición yo
+38:13
+no me acuerdo pero bueno dicen entonces bueno el principio de adición chavos eran se acuerdan lo que habíamos dicho
+38:19
+de las pacas que habíamos dicho por ejemplo las placas pueden ser las letras del
+38:27
+abecedario y los dígitos Cuántas letras tenemos bueno en inglés tenemos 26
+38:33
+verdad porque bueno Yo nunca he visto que le pongan una ñ en una p aca Así que digamos que tenemos 26 no cuántos
+38:42
+dígitos tenemos 10
+38:49
+verdad acuérdense que tenemos 10 dígitos no entonces
+38:55
+Cuántas posibilidades tenemos por caráter 26 + 10 verdad Esto es lo que se
+39:04
+le conoce como el principio de adición o el principio aditivo para un caráter tenemos
+39:12
+36 no opciones imagínense Bueno en vez de C
+39:19
+las pacas por lo general Cuántos caracteres tienen seis
+39:25
+verdad y esto aquí sería el principio
+39:32
+multiplicativo o sea vamos a multiplicar 36 por 36 por 36 por 36 por 36 por 36
+39:40
+que nosotros lo podemos resumir acu en matemáticas esto se expresa como
+39:46
+36 a la 6 verdad Entonces una p aca puede tener 36 a la 6 posibles no
+39:56
+naciones que en este caso serían 2176 millones no de
+40:06
+posibilidades Cuántas personas hay en México chavos Cuál es la población de
+40:16
+México Alguien sabe como 120 millones más o menos 130
+40:25
+por ahí 130 millones de todos modos 126 creo sí más o menos entre 126 y 130
+40:32
+varía ya no me acuerdo Creo que ya llegamos casi al 128 punto y algo pero bueno digamos que está por ahí no de
+40:38
+todos modos mínimo es como 15 veces más
+40:44
+el número de placas posibles que tenemos en México verdad que personas en México
+40:50
+y además de que digo no todo o sea no es como que haya 130 millones de carros creo que el único municipio en México
+40:57
+que tenía más carros que personas es allá en Nuevo León en San Pedro Garza García que creo que la estadística hace
+41:03
+6 años era que tenían 105 carros por cada 100 personas Pero aún así ni ellos
+41:09
+no tienen lo suficiente como para estos no carros
+41:14
+Entonces el punto es que así podemos nosotros saber con combinatoria verdad cuántas combinaciones hay es como los
+41:24
+números bueno como las tarjetas por ejemplo de crédito y de débito no
+41:29
+Alguien sabe Cuántos números tiene una tarjeta
+41:36
+16 muy bien 16 verdad entonces quiere decir que tenemos 10 a la 16 posibles
+41:45
+números de tarjeta verdad bien obviamente como en las pacas como en los
+41:51
+números tienen unos limitantes y para poder calcular más con esos limitantes
+41:56
+tenemos que adentrarnos un poco más a combinatoria luego lo vamos a ver en la semana pero o sea por qué porque no sé
+42:03
+si se han dado cuenta o si ustedes sabían qué dicen Qué significan los primeros cuatro números de una tarjeta
+42:10
+Alguien
+42:16
+sabe alguien sabe chavos no sé si ustedes se han metido por ejemplo a pagar algo en línea con una tarjeta en
+42:25
+las páginas modernas cuando tú ingresas los primeros cuatro dígitos te aparece algo Alguien
+42:34
+sabe bueno los primeros cuatro es una combinación un código de si es Visa O
+42:41
+mastercard entonces Bueno no es tan Libre como que sean los 16 posibles verdad O sea ya te quedarías como con 12
+42:50
+verdad O sea no está tan libre para poder determinar ya con esas limitantes nos tenemos que y un poco más adentro
+42:57
+verdad de combinatoria Pero bueno en teoría pues o sea si no existían estos limitantes de
+43:03
+estos cuatro y los siguientes cuatro te dicen el banco ya los otros ocho te dicen ahora
+43:10
+Así que los números posibles en cada banco no Okay Más o menos así así es
+43:16
+este Bueno necesitamos obviamente más reglas para poder poner esas condiciones Ahorita tenemos las básicas que es el de
+43:22
+adición y multiplicación verdad muy bien
+43:27
+Es como por ejemplo ustedes si hacen un examen chavos bien y ustedes contestan
+43:32
+del Team mar de doping We tenemos por ejemplo la opción a opción B opción c y
+43:40
+la opción d tenemos un solo reactivo
+43:46
+no la posibilidad de tener todo bien en este caso es cuánto 1 entre 4 a la n n
+43:57
+siendo el número de reactivos verdad esto es probabilidad no es tanto
+44:03
+combinatoria probabilidad muchas veces es que si son iguales nada más es dividir uno entre el número de
+44:09
+combinaciones el número de combinaciones sería 4 a la n Okay en este tenemos un
+44:15
+reactivo entonces Cuántas combinaciones tenemos o cuántos posibles
+44:25
+resultados un cuatro no 4 a la 1 cuatro
+44:30
+verdad porque o sea puede ser que la primera respuesta sea a o que la primera
+44:39
+sea b o que la primera sea c o que la
+44:46
+primera sea d verdad muy
+44:53
+bien Qué pasa si tenemos dos preguntas
+44:59
+chavos sería 4 a la qué la dos verdad O sea 16 posibles
+45:06
+resultados verdad Entonces si nosotros queremos tener por ejemplo el examen
+45:13
+completamente bien el 100% verdad si tenemos dos incisos con cuatro
+45:20
+reactivos cada uno verdad sería un 16
+45:26
+Qué pasa si nosotros nos la volamos no estudiamos nada y queremos sacar el 100
+45:32
+de 100 preguntas chavos sería un
+45:39
+un4 a la 100 lo cual es un número extremadamente pequeño verdad porque el
+45:46
+número posible de combinaciones es altísimo verdad Entonces
+45:52
+este pues no verdad o sea las PR probabilidades serían muy bajas verdad
+45:58
+entonces por eso estudien chavos para que para que vean o sea si ustedes hacen un examen del Team de doping y quieren
+46:04
+sacar 100% verdad así pues su posibilidad de hacerlo así al azar sería
+46:13
+esto que sería extremadamente baja no que aquí es el principio sigue siendo el
+46:19
+principio multiplicativo chavos porque por cada inciso o el inciso uno tengo cu
+46:27
+verdad para el inciso dos Ah pues lo multiplico por cu verdad para el inciso
+46:33
+TR lo multiplico otra vez por 4 y así Este es el principio multiplicativo
+46:39
+chavos tenemos 100 Pues bueno acuérdense en vez de poner 4 por 4 por 4 así 100
+46:44
+veces verdad pues nada más ponemos 4 a la 100
+46:50
+verdad s lo ven chavos más o menos Cómo funciona el principio multiplicativo
+47:01
+Bueno luego vamos a ver más de esto cómo lo vamos a volver a ver mañana nada más
+47:07
+para adelantarles por ejemplo Bueno vamos a volver a ver un poco queé es el factorial porque en este tipo de
+47:13
+operaciones se usa mucho el factorial este bueno el chiste no de este verdad
+47:21
+716 más Cuánto cuánto nos da
+47:26
+320 verdad y bueno si nos acordamos esto es igual al 6 factorial verdad ser 6 * 5
+47:34
+* 4 * 3 * 2 * 1 verdad 1 * 2 2 2 * 3 nos da 6 verdad 6 *
+47:44
+4 nos da 12 24 24 * 5 nos da 120 y 120 *
+47:50
+6 nos da Okay bu el chiste
+47:56
+muy bien Vamos a volver a ver factorial verdad luego vamos a ver lo que son
+48:02
+permutaciones y combinaciones verdad chavos las combinaciones como les dije
+48:08
+no importa el orden en las permutaciones Sí muy bien y miren luego vamos a ver
+48:17
+eso que se llama m elige n por ejemplo es que miren aquí
+48:24
+imagínense que tuviéramos no aquí est es combinación y no
+48:32
+este y no permutación Por qué Porque miren nos están preguntando Cuántos
+48:38
+comités únicos podemos hacer de cinco personas en un grupo de 10 verdad aquí
+48:44
+no importa o sea si nosotros elegimos bien la lógica no
+48:49
+Ana Juan
+48:54
+Pablo vamos a hacerlo más chico para que no tardar noos tantos
+49:00
+Paola imagínense que necesitamos hacer parejas chavos Cuántas posibles parejas
+49:07
+haría Bueno aquí hay una fórmula que la vamos a ver más a detalle mañana qué diría no Cuánto es el número total cinco
+49:15
+verdad nos dice que es el factorial de cco verdad y el m men n Sería el 5 no
+49:26
+menos 2 factorial no vamos a ver queé significa todo esto pero 2 factorial y
+49:34
+bueno Esto nos quedaría 5 factorial vamos a ver más a detalle mañana y esto sería 5 - 2 3 3 factorial
+49:44
+por 2 factorial aquí este 5 bueno se sin hacer la calculadora el 5 factorial AC cu que
+49:51
+podría ser como siamos 5 por 4 por 3 factorial verdad este 3 factorial
+49:59
+y este 3 factorial se irían verdad este y este se van y nos queda el
+50:07
+2 factorial bueno el 2 factorial sería 2 por 1 2 no ent nos quedaría 5 * 4 entre
+50:14
+2 lo cual nos quedaría 20 entre 2 lo cual nos tocaría 10 Cuántas posibles
+50:21
+parejas habría 10
+50:26
+más o menos bueno lo vamos a ver más a detalle imagínense en un grupo de cinco personas el número posible de de parejas
+50:33
+es 10 nos sirve por ejemplo para eso exactamente si nos están pidiendo así de que vamos a formar grupos de personas
+50:39
+verdad así este ustedes por ejemplo fueran maestros Y eso podrían saber Ah
+50:45
+Cuántas posibles combinaciones de alumnos hay verdad este si tienen que hacer parejas pues este es el número
+50:51
+posible verdad Muy bien Okay bueno lo vamos a ver de todos
+50:57
+modos mañana no se preocupen Este pero nada más para que vayan viéndolo tantito
+51:02
+su cere vaya permeando de Estas ideas vamos a volver a ver mañana y en la
+51:08
+semana vamos a ver cosas un poco más de combinatoria Y de igual de seguir viendo cosas de matemáticas discretas ya que
+51:14
+todo esto como les dije nos sirve tanto para algoritmos como para este la lógica
+51:20
+verdad para saber si el If el els el Wild verdad este anticipar qué va a ser
+51:25
+nuestros algoritmos esto de combinatoria nos permite para saber este qué
+51:32
+tantas operaciones va a requerir nuestro código verdad cuánto tiempo se tardaría
+51:38
+etcétera o sea esto la verdad es teórico pero es muy muy útil la verdad en programación porque era como lo que
+51:45
+acuérdense lo que les había dicho de las contraseñas verdad O sea si ustedes ponen por ejemplo 10 caracteres con
+51:52
+todas las posibles opciones aunque tengas una super computadora se tardaría al menos 2 semanas verdad en poder
+51:58
+romper la la contraseña entonces es por eso que te piden tanto y obviamente que
+52:05
+si son computadoras normales pues se tardarían No nada más este seman se tardarían a lo mejor hasta ciclos
+52:12
+Entonces es lo mismo con los algoritmos También tenemos que tener cuidado de no hacer operaciones de más porque si
+52:19
+hacemos un algoritmo que tarde mucho también puede ser que en vez de dártelo en 12 segundos se tarde toda la vida no
+52:27
+100 años 1000 años entonces también es importante para esto combinatoria para
+52:33
+ver qué tantas veces nuestro algoritmo no va a hacer esas combinaciones Okay
+52:41
+chavos pues Bueno nada más que agregar nos vemos no lo vamos a volver a ver en
+52:47
+toda la semana chavos hoy es martes Así que nos faltan TR días de estar viendo esto Okay pues bueno Cuídense chavos
+52:55
+Gracias profe nos vemos

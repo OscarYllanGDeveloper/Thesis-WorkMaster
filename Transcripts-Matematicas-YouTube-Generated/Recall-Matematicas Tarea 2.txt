@@ -1,0 +1,1042 @@
+0:02
+Okay pues bueno Lo prometido es deuda
+0:04
+Entonces este ya les Subí ahorita les
+0:07
+muestro Dónde está en este en el Drive
+0:09
+no este su actividad número dos este Qué
+0:14
+es la que van a tener que hacer según yo
+0:16
+está más corta que la de la vez pasada
+0:19
+este por ejemplo pues bueno volvemos a
+0:21
+ver un poquito de cálculo diferencial
+0:23
+solo son dos problemas este son de la
+0:27
+rega de la cadena ambos no
+0:30
+este para que lo
+0:31
+practiquen este pues sí es de la rega de
+0:36
+la cadena estos dos este y bueno este es
+0:41
+de cálculo integral no de lo que vimos
+0:43
+Este es un integral sencilla bueno
+0:45
+sencilla porque es de propiedad
+0:47
+distributiva vamos a integrar esto esto
+0:49
+y esto se puede hacer los este se puede
+0:52
+hacer con fórmulas no est dig no son
+0:54
+nada complicados pueden agarrar la
+0:56
+tablas y hacerlo con fórmulas nada más
+0:59
+es aplicarle propiedad distributiva
+1:01
+bueno no se olviden que esta como no es
+1:03
+una Def es una indefinida se le agga la
+1:05
+constante al final muy bien Por ejemplo
+1:08
+este dos de
+1:11
+sustitución bien para que no se tarden
+1:14
+tantos A lo mejor o sea pueden elegir
+1:17
+luego Se los voy a modificar elijan
+1:21
+uno porque si no así va a estar la no me
+1:24
+la volé otra vez Perdón este elegir uno
+1:28
+aquí igual van elegir
+1:32
+uno que ustedes les
+1:35
+guste Okay muy bien este de sumatorias
+1:39
+Pues bueno también infecciones parciales
+1:41
+elijan
+1:42
+uno
+1:46
+Ahá bueno Esto digo nada les puse un
+1:50
+problema de cada uno Este ahorita Vamos
+1:52
+a repasar todo esto para que no se les
+1:54
+olvide nada más les quier enseñar pues
+1:57
+este acuérdense bueno Esto de
+2:00
+combinatorio de pensamiento lógico este
+2:02
+de que tienen cuatro proposiciones
+2:04
+lógicas pq r y s muestra la tabla de
+2:07
+verdad de estos no acuérdense Bueno
+2:09
+ahorita vamos a repasarlo y todo eso
+2:12
+Este pero bueno el punto es que son
+2:14
+cuatro tablas de verdad no este bueno má
+2:18
+en cuatro statements cuatro
+2:19
+proposiciones lógicas y nos están
+2:22
+pidiendo estas operaciones vamos a
+2:23
+recordar Cuál es cada una no est es
+2:26
+negación Este es un or Este es un n este
+2:29
+es Y esta es un entonces bu indica que
+2:33
+If then Este Entonces si esto pasa
+2:37
+entonces If Ajá este muy bien Ahorita
+2:41
+vamos a recordarlo un poquito este de
+2:43
+combinaciones no por ejemplo mir vamos a
+2:46
+leerlo en un partido político con 150
+2:50
+miembros se debe elegir un gabinete de
+2:52
+cinco personas Cuántos posibles
+2:55
+gabinetes hay digo Aquí se nos están
+2:58
+pidiendo un grupo de solo cinco personas
+3:00
+y no importa el orden acuérdense que
+3:02
+nosotros vimos que cuando no importa el
+3:05
+orden se le llama combinaciones no y
+3:07
+tiene una fórmula diferente al de
+3:09
+permutaciones este acuérdense que
+3:12
+permutaciones es cuando se importa el
+3:13
+orden un problemita puese ser como es en
+3:16
+el mundial del 2026 Estados Unidos
+3:18
+México Canadá Hay 40 equipos creo que sí
+3:22
+son 40 creo que sí son 40 normalmente
+3:24
+eran 32 ahorita van a ser 40 Cuántos
+3:27
+posibles podios hay acuérdense un podio
+3:30
+no es el
+3:32
+primero el segundo y el tercero no muy
+3:38
+bien ent solo son tres lugares No aquí
+3:40
+sí importa el orden digo Nosotros
+3:42
+sabemos que no es lo mismo quedar
+3:44
+campeón que quedar segundo que quedar
+3:45
+tercero no Entonces como sí importa el
+3:48
+orden este acuérdense que vamos a hacer
+3:50
+el de
+3:52
+este se llam el de combinaciones no El M
+3:56
+el igk este igual este pero ahora
+4:00
+permutaciones donde se importa el orden
+4:02
+hay que acordarnos chavos las el número
+4:05
+de
+4:07
+combinaciones y el número de
+4:10
+permutaciones no Cuál es más grande el
+4:13
+número de permutaciones o el de
+4:20
+combinaciones Cuál es más grande chavos
+4:24
+el de combinaciones No porque no
+4:26
+importaba el orden al contrario no de
+4:29
+permutación mayor porque exactamente si
+4:32
+importa el orden no acuérdense que es
+4:35
+como si tuviéramos nos piden elegir tres
+4:38
+colores no tenemos el amarillo el rosa y
+4:42
+el verde no Cuántas combinaciones hay si
+4:45
+no importa el orden Pues solo es una No
+4:48
+ya elegimos esos tres colores y ya sin
+4:51
+embargo Esta es una combinación donde no
+4:54
+importa el orden no sin embargo una
+4:57
+permutación puede ser amarillo rojo
+4:59
+verde amarillo verde rojo no y así cada
+5:04
+uno no bueno van a ser como seis no o
+5:06
+más bueno vamos a ver no verde amarillo
+5:09
+rojo no verde rojo amarillo No este
+5:14
+ahora sí que faltaba rojo verde amarillo
+5:18
+y rojo amarillo verde no cuántos hay de
+5:21
+uno y cuántos hay de otro de uno hay
+5:23
+seis no el número de permutaciones y el
+5:26
+número de combinaciones es uno verdad
+5:30
+acuérdense Entonces el número de
+5:31
+permutaciones es mayor porque al
+5:34
+importar el orden somos más piqui pues
+5:36
+al ser más piqui entonces hay más O sea
+5:39
+hay más opciones pues o sea de cómo
+5:42
+hacer las permutaciones No Okay y eso
+5:45
+nada más para que recuerden chavos este
+5:48
+siempre el número de permutaciones va a
+5:50
+ser más grande No que el de
+5:52
+combinaciones
+5:53
+este muy bien y nada mása recordar eso
+5:57
+vamos a ver un poquito acordar bueno
+5:59
+acuérdense ya estamos viendo un poquito
+6:02
+de la regla del producto acuérdense que
+6:04
+dijimos que como las muñecas rusas no O
+6:06
+como shk de que por capas no el punto es
+6:10
+que hacemos bien
+6:12
+Aquí hacemos la derivada de lo de afuera
+6:15
+de u no este la derivada de coseno de
+6:19
+coseno pues ya saben Cuál sería la
+6:20
+derivada y sería luego por la derivada
+6:23
+de lo de adentro no muy bien este luego
+6:27
+la derivada de lo de adentro no este y
+6:30
+luego la por la derivada de lo de
+6:34
+adentro no porque es una función es como
+6:37
+si fuera una composición de funciones de
+6:39
+tres niveles muy bien Y pues bueno aquí
+6:42
+muy parecido primero hacemos la derivada
+6:45
+de
+6:46
+esto luego haríamos la derivada de
+6:50
+esto y bueno este coseno cuadrado se va
+6:54
+haer distributiva va a ser este por esto
+6:57
+la derivada de coseno cuadrado pues
+6:59
+también se le hace de la cadena que es
+7:02
+como si estamos coseno de X al cuadrado
+7:04
+no fuera u cuadrada se hace la derivada
+7:07
+de esto no y luego de lo de adentro que
+7:10
+bueno ya saben Cuál sería la derivada de
+7:11
+x y ya Así es como se hace la de la
+7:16
+regga de la
+7:20
+[Música]
+7:28
+cadena
+7:34
+[Música]
+7:52
+[Música]
+7:58
+ya
+8:11
+este Bueno lo que les decía No aquí van
+8:15
+a elegir uno verdad que puede ser
+8:20
+[Música]
+8:28
+Uy
+8:32
+van a elegir uno de estos verdad
+8:40
+este van a elegir uno de estos
+8:44
+este el cual
+8:47
+este el método de sustitución que era
+8:50
+elegir una u verdad y derivar el punto
+8:53
+de hacerle sustitución es que sepan
+8:55
+elegir correctamente la u que tienen que
+8:58
+eliminar la la otra parte o sea
+9:00
+acuérdense que para nosotros poder
+9:02
+sustituir en U todo tiene que quedar en
+9:04
+términos de
+9:06
+u acuérdense que tangente si no se
+9:09
+acuerdan es igual a seno de
+9:13
+X acuérdense como lo habíamos visto con
+9:16
+la derivadas que para eso servía Aquí
+9:19
+también con esto podemos hacer este en
+9:22
+la integral ahí van a elegir uno
+9:24
+acuérdense que cuando tenemos aquí los
+9:26
+límites hacemos el teorema fundamental
+9:28
+del cálculo el teorema fundamental del
+9:31
+cálculo chavos acuérdense que es
+9:33
+nosotros Ah sí que ponerle integral
+9:36
+bueno sustituir no vamos a sustituir
+9:38
+límite superior límite inferior
+9:40
+acuérdense que va a ser
+9:41
+este bueno el resultado de la integral
+9:45
+de a o en este caso bueno de B en este
+9:49
+caso es el límite superior no F de cer
+9:53
+no este F mayúscula es el resultado de
+9:57
+la antiderivada de esto no o sea del
+9:59
+integral de esto y lo vamos a sustituir
+10:01
+con pi y menos F de0 No aquí acuérdense
+10:05
+que ya no ponemos la constante muy bien
+10:08
+acuérdense del por partes acuérdense que
+10:10
+aquí tienen que elegir con el criterio
+10:12
+dilate no muy bien y late inversas
+10:16
+logarítmicas algebraicas trigonométricas
+10:18
+y exponenciales esta por alica y esta
+10:21
+por ejemplo es exponencial no esta por
+10:24
+ejemplo es este exponencial Y esta es
+10:27
+trigonométrica no
+10:31
+entonces van a tener que ver cuál
+10:33
+primero no muy
+10:36
+bien Bueno de sumatorias acuérdense que
+10:40
+vimos las fórmulas no para estas
+10:43
+sencillas al menos acuérdense que cuando
+10:46
+estamos multiplicando una constante por
+10:49
+una variable en la sumatoria pasa lo
+10:51
+mismo que en los límites pasa lo mismo
+10:52
+que en las sumatorias en las derivadas
+10:54
+en las integrales se sale no
+10:57
+multiplicando muy bien acuérdense cuánto
+11:00
+nos daba la sumatoria de una constante
+11:03
+Bueno aquí fracciones parciales no en
+11:06
+fracciones parciales lo que vamos a
+11:09
+agarrar no acuérdense este bueno
+11:13
+dependía no este era factorizar esto no
+11:17
+acuérdense había tres casos de los que
+11:20
+vimos este al menos este uno era cuando
+11:23
+tenían este diferentes factores no y
+11:26
+otros cuando era el mismo no entonces
+11:29
+Esos son los que vimos no y pues con eso
+11:32
+tienen que resolver igual aquí solo van
+11:34
+a elegir
+11:36
+uno muy bien Bueno acuérdense aquí de
+11:39
+est del
+11:41
+pqrs no
+11:43
+pqrs acuérdense que se ordena así en
+11:46
+orden alfabético acuérdense que son
+11:49
+verdaderos falsos no true false este por
+11:51
+ejemplo true false no acuérdense que al
+11:54
+principio vamos true false true false
+11:56
+luego acuérdense que luego vamos a ir de
+11:58
+dos dos en dos no luego vamos a ir de
+12:01
+cuatro en
+12:02
+cuatro vamos a ir de
+12:05
+och alterándolo no cambiándolo Y acu
+12:09
+cuántas posibles va a ser pues es 2 a la
+12:11
+4 no porque tenemos cuatro AC que sea la
+12:14
+Fórmula 2 a la n este número de
+12:17
+proposiciones lógicas el número de
+12:19
+proposiciones lógicas esta vez es cuatro
+12:20
+entonces 2 a la 4 2 a la 4 es igual a 16
+12:23
+no entonces van a ser ocho de este por
+12:25
+ejemplo y ocho falsos no muy bien y
+12:28
+acuérdense las
+12:29
+operaciones Este
+12:32
+era
+12:35
+negación Este era un
+12:38
+or Este era un
+12:42
+an y este es un If then Bueno si
+12:47
+Entonces si esto pasa entonces no muy
+12:50
+bien acuérdense que la negación era este
+12:54
+negación del true es este false no ación
+12:59
+del false true no bien acuérdense lo del
+13:04
+an y el or el an este acuérdense que
+13:07
+nada más nos da true si los dos son true
+13:10
+acuérdense O sea que todos lo demás nos
+13:13
+va a dar false acuérdense que conc haa
+13:14
+un false verdad se hace false de un hor
+13:18
+es al revés todo nos da TR A menos que
+13:20
+los dos sean false no y el th solo es
+13:24
+falso si el primero es true y el
+13:27
+siguiente déjen me
+13:35
+[Música]
+13:42
+acuerdo estaba bien
+13:45
+okay Si el primero es true y el segundo
+13:48
+es false es la única forma posible en el
+13:51
+que este sea false todos los demás son
+13:55
+siempre
+13:57
+no
+14:01
+[Música]
+14:03
+esto pasa con
+14:06
+el o sea cuando tienes un argumento así
+14:09
+no este siempre que
+14:12
+él este siempre que él segundo bueno que
+14:15
+el primero sea true y el segundo false
+14:17
+esa lo que dijimos como de prometer algo
+14:19
+no O sea si tú prometes una cosa y la
+14:22
+cumples pues estás bien si tú nunca
+14:24
+Prometiste algo y de todos modos lo
+14:26
+hiciste estás bien si tú nunca
+14:28
+prometiste nada Y de todos modos tampoco
+14:29
+lo hiciste Pues bueno dentro de lo que
+14:31
+cabe Estás bien Lo único malo es cuando
+14:33
+tú prometes algo y no lo cumples no
+14:35
+Entonces ahí es F no así como les decía
+14:38
+no la forma de asociarlo entonces pues
+14:41
+van a tener que hacerlo así con las
+14:42
+operaciones lógicas no muy bien digo tod
+14:46
+est parte de matemáticas discretas este
+14:48
+que es una matemática muy útil este digo
+14:52
+primo le desarrolla la lógica el
+14:53
+pensamiento lógico pero aparte este se
+14:57
+usa mucho en cosas de programación y
+14:59
+cosas así este y para también para saber
+15:02
+que los argumentos sean correctos No si
+15:05
+una cosa implica que la otra si es si
+15:07
+esto y esto pasa entonces debe de pasar
+15:10
+lo otro Entonces les ayuda también hasta
+15:12
+para leer cosas en física y en
+15:14
+matemáticas o sea saber los statements y
+15:17
+todo eso leyes y reglas y todo eso y
+15:19
+saber cómo seguirlas de manera
+15:22
+lógica O sea pues sí básicamente Estas
+15:26
+son las funciones Pues también
+15:27
+combinaciones era TD este permutaciones
+15:31
+también
+15:33
+este qué más Qué más acuérdense que
+15:36
+combinaciones era pues parte de usar los
+15:39
+factoriales no este Acuérdense que los
+15:42
+factoriales no este Pues a lo mejor si
+15:46
+lo ponen en la calculadora les va a
+15:47
+salir cosas muy monstruosas pero pues
+15:49
+acuérdense que nosotros podemos ir
+15:51
+eliminando factoriales no este nosotros
+15:54
+acuérdense que si nosotros por ejemplo
+15:55
+tenemos 150 factoriales tenemos no sé
+15:59
+145 factorial acuérdense que el 150
+16:02
+factorial también es igual a qué 150 por
+16:09
+1498 por 147 por
+16:13
+146 por 145 factorial entonces podíamos
+16:17
+eliminar esto y esto verdad y ya nada
+16:20
+más nos quedaría el 150 * 149 por 14 y
+16:25
+esto le serviría porque sobre todo este
+16:28
+digo no todas las calculadoras este
+16:30
+pueden dar factoriales muy altos porque
+16:32
+a veces los factoriales como este cre
+16:35
+muy loca No es todavía mayor es más
+16:38
+fuerte que las exponenciales Entonces
+16:42
+este pues sí chavos entonces o sea lo
+16:45
+pueden hacer así para que no tengan
+16:47
+problemas con sus calculadoras etcétera
+16:50
+lo pueden hacer de esa manera en cuencia
+16:53
+eliminando este como si fueran factores
+16:55
+no
+16:57
+este
+16:59
+y así qué más más no puse Ah creo que s
+17:04
+Ah bueno Y esta última
+17:07
+parte eso lo pueden sacar si quieren de
+17:09
+bueno d quieran Pues el punto es que
+17:12
+nada más me definen
+17:14
+no lo vimos en la que hace
+17:17
+Pero bueno se pone la definición queos
+17:19
+en la que hace Este pero si no pues
+17:21
+bueno que definan es una población
+17:24
+estadística una muestra estadística es
+17:27
+el promedio la y la moda y que es la
+17:30
+desviación estándar no
+17:33
+este yo pues la población acuérdense que
+17:36
+lo habíamos dicho no que era
+17:39
+básicamente Pues todo no todo el
+17:42
+universo no O sea por ejemplo la
+17:45
+población de México o no sé todas las
+17:47
+hormigas todo eso acente que hmos
+17:49
+diferentes tipos de poblaciones algunas
+17:51
+que son inf bueno infinitas pero
+17:53
+realmente O sea no las podemos contar o
+17:56
+sea imposible de contar es como decíamos
+17:58
+el número de hormigas en México o no sé
+18:01
+el número de ratas o cosas así o el
+18:04
+número de ganos de arena o el número
+18:07
+de cosas así o no sé cosas así este que
+18:12
+son imposibles de contabilizar Entonces
+18:14
+este ya son poblaciones infinitas hay
+18:17
+poblaciones finitas por ejemplo si es
+18:19
+una escuela no s una
+18:24
+universidad Entonces este podemos
+18:28
+podemos sacar la población no está tan
+18:30
+difícil no es tan imposible acuérdense
+18:32
+que habíamos dicho que En estadística a
+18:34
+veces pues digo se toman las muestras
+18:37
+porque a veces es muy difícil no O no
+18:39
+hay dinero suficiente no hay tiempo o no
+18:42
+hay ganas También este de de agarrar y
+18:45
+preguntarle o hacer el estudio con toda
+18:47
+la población Entonces se toman muestras
+18:49
+no acuérdense que había varias
+18:52
+formas había aleatorias había no
+18:54
+aleatorias sistemáticas etcétera no este
+18:58
+bueno acuérdense del promedio verdad eso
+19:01
+lo hemos visto desde que es agarrar la
+19:04
+suma de todos no entre el número de
+19:07
+elementos Ese es el
+19:09
+promedio la mediana acuérdense que era
+19:12
+Bueno también el promedio acu que Vimos
+19:14
+una
+19:17
+grafiquen promedio es como si
+19:19
+agarrábamos y pusiéramos un balancín en
+19:21
+su centro de gravedad no la mediana es
+19:26
+la mitad del área cu una probabilidad
+19:28
+una distribución de probabilidad no
+19:30
+sería la mitad del área en donde se
+19:32
+encuentra la mitad del área es la
+19:33
+mediana y la moda Pues sería el pico no
+19:36
+O sea por ejemplo aquí este punto es la
+19:40
+moda este punto donde es la mitad del
+19:42
+área el 50% de esta el 50% del otro es
+19:46
+la mediana y donde se encuentra como el
+19:49
+centro de gravedad así se le llama es el
+19:52
+promedio no su centroide es el promedio
+19:56
+de esta distribución de probabilidad y
+19:59
+eso si lo quieren ver con distribuciones
+20:00
+de probabilidad si no pues nada más es
+20:02
+este pues como lo saban no este ya saben
+20:05
+Cómo calcular el promedio no y no no les
+20:07
+pido nada calcul Ustedes saben cómo no
+20:10
+ya lo acabo de decir la mediana
+20:11
+acuérdense que es agarrar el valor del
+20:13
+medio si hay dos pues se hace el
+20:14
+promedio de esos dos valores no y bueno
+20:17
+este la moda pues es va a ser el valor
+20:21
+más repetido de este del set de datos
+20:27
+no por ejemplo sirve por ejemplo en la
+20:30
+distribución normal no la distribución
+20:33
+la desviación estándar sirve para saber
+20:35
+qué tan lejos estamos del promedio no de
+20:38
+la mitad no acuérdense que había varias
+20:41
+reglas acuérdense que habíamos dicho por
+20:43
+ejemplo en en la altura en México eran 6
+20:47
+7 cm la deviación estándar este y ver
+20:50
+qué tan altos somos o qué tan chapada
+20:52
+Ros no sé o también hay algo que hoy en
+20:54
+día se usa mucho en no llama
+20:58
+Sigma Sigma también es una letra Que
+21:03
+bueno lo usan para representar la
+21:06
+desviación estándar no Y para este la
+21:10
+Sigma quiere decir que nosotros sea tan
+21:14
+buena la producción que aú así poniendo
+21:17
+seis bueno la distribución normal que
+21:21
+aún así usando seis este distribuciones
+21:25
+bueno perones estándar y seis
+21:28
+desviaciones estándar más menos no o sea
+21:30
+tanto para la derecha como para la
+21:32
+izquierda sean porque miren en la
+21:35
+industria a veces no ponen como
+21:37
+estándares que les dicen no sé este esta
+21:40
+parte de este carro solo puede ser que
+21:43
+te equivoques que sea más menos punto 1
+21:47
+mm no Entonces nosotros tenemos el ese
+21:51
+margen se supone que nosotros el c Sigma
+21:54
+es tratar de hacerlo tan bueno que ese
+21:58
+punto 1 mm esté dentro de esto que digo
+22:02
+es imposible hacer una producción
+22:03
+siempre perfecta va a haber desviaciones
+22:06
+pero el punto es hac tan bueno que creo
+22:08
+que estos no me acuerdo Cuántos son si
+22:09
+son decenas de millones quiere decir O
+22:12
+sea que va a haber un error cada 10 o 20
+22:15
+millones ya no me acuerdo cuánto era
+22:17
+pero este cada muchos ahora sí que va a
+22:20
+haber un solo error este qué es lo que
+22:22
+se trata de hacer porque pues primero
+22:25
+para no perder dinero para sobre todo
+22:27
+para también mucho para seguridad de los
+22:29
+usuarios no digo nosotros nadie quiere
+22:32
+que nuestra parte sea la que falla
+22:34
+entonces este se trata de hacer eso para
+22:36
+que también sea mayor seguridad del
+22:38
+usuario y pues para que no pierdan
+22:40
+dinero porque este en la industria no
+22:42
+hay veces en las que les hacen pruebas a
+22:45
+un lote y si este lote con Bueno A veces
+22:48
+Si no cumple uno o dos de estos tienen
+22:52
+que tirar todo el lote no Entonces es
+22:54
+mucho dinero o si no los tieran al menos
+22:57
+tienen que ponerse a hacer pruebas
+22:59
+individualmente cada uno imagínense un
+23:02
+lote de 1000 y no más hacían pruebas
+23:04
+cinco por ejemplo y sale Uno malo pues
+23:07
+entonces dicen Ching Bueno ya no podemos
+23:09
+asumir que los mil están bien que esa
+23:11
+producción que ese lote salió bien hay
+23:13
+que hacerle pruebas individuales a cada
+23:16
+uno no hay unas estándares que dicen así
+23:18
+hay otros que dicen que tira todo no
+23:21
+este entonces
+23:24
+este de los estándares de la industria
+23:26
+que est no O sea pues sí
+23:30
+depende son medicinas muy delicadas pues
+23:33
+tienen que tear todo este si son también
+23:37
+este cosas así como de alimentos no tien
+23:40
+quear todos en bueno en cosas así como
+23:43
+tornillos es a lo mejor pueden hacerle
+23:44
+tienen que hacer el test uno por uno de
+23:47
+todos no este y ya digo ahí a veces sale
+23:52
+más caro Bueno o sea pues dig sale caro
+23:55
+pues o sea hacer estar haciendo el
+23:57
+examen todos No y esa es una parte no
+24:00
+bueno algún día a lo mejor escuchan o
+24:02
+han escuchado los ingenieros de control
+24:04
+de calidad no los ingenieros de control
+24:06
+de calidad en teoría tienen que hacer
+24:07
+eso no y bueno a veces es el mismo
+24:10
+gobierno o institutos internacionales
+24:14
+que van y hacen esos exámenes no les
+24:17
+hacen auditorías y no nada más existen
+24:19
+auditorías de finanzas
+24:22
+de y auditorías técnicas que son esas al
+24:26
+auditar o sea checan que todo esté bien
+24:28
+y todo eso este y Bueno hay multas no
+24:33
+muy altas A veces y tienen errores no
+24:36
+Entonces este pues digo lo que se trata
+24:38
+de hacer es que est eso y bueno una de
+24:41
+las cosas con las que checan eso el
+24:43
+control de calidad es con la desviación
+24:44
+estándar y el promedio no este tratan de
+24:47
+ver este Cuántos este qué tan probable
+24:52
+es que salga un malo en sus lotes
+24:56
+no Pues bueno chavos eso sería todo por
+25:01
+hoy van a tener dos semanas para hacer
+25:04
+esta actividad cita y bueno ya mañana
+25:07
+empezamos a ha un poco del proyecto
+25:10
+final bueno chavos Todo por hoy nos
+25:13
+vemos y cuídense mucho
+25:15
+chavos
+25:18
+gracias

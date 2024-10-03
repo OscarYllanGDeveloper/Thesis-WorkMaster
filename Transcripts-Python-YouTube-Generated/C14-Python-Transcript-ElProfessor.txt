@@ -1,0 +1,1116 @@
+0:10
+pantalla okay Bueno hay que acordarnos no que entre las cosas que hemos estado
+0:16
+viendo verdad de todo en general es este es más avanzado p
+0:25
+intermedio okay Bueno acuérdense que hemos visto lo de programación orientada
+0:31
+objetos hemos visto este algunos listas ayer vimos un poquito de sets acuérdense
+0:38
+que vimos que otra Estructura de datos o tipo de datos que tiene python acuérdense que un tipo de datos una
+0:45
+estructura de dato no es una que hace que ya los programadores de python lo
+0:51
+hicieron antes de nosotros no Y cuando importamos librerías acuérdense que la función es que nosotros así podemos
+0:57
+crear librerías verdad creando cl haes creando funciones guardándolos luego vamos a ver cómo se puede hacer eso el
+1:04
+punto es que este ya lo hemos la verdad es que esto de programación inventada objetos lo hemos estado viendo de manera
+1:10
+aplicada sin saberlo desde el día uno porque como dijimos en python todo es un
+1:16
+objeto es como y algo muy útil y muy beneficioso de esto es que estos
+1:22
+conceptos aplican para todos los lenguajes de programación ya sea javascript Java c+ má c este python
+1:30
+todos tienen lo que es programación orientada a objetos muy bien lo que
+1:35
+tienen que es por ejemplo las clases verdad que nosotros creamos una quease como con la palabra reservada queas el
+1:42
+nombre de la queas dos puntos no este init acuérdense que es uno de los métodos especiales que tenemos que
+1:49
+significa initialize inicializa no y acuérdense que este si yo le pongo
+1:54
+argumentos forzosamente yo al momento de crear el objeto tengo que ponerle estos argumentos verdad Muy bien acuérdense
+2:01
+que este es un argumento el cual se va aquí y luego este cuando le ponemos el self punto y cualquier cosa bueno el
+2:09
+nombre del Ah así que el nombre del no es del argumento sino de cómo se le llamaba estos chavos alguien que me diga
+2:16
+cómo se llama esto atributo muy bien perfecto Melina muy bien es un atributo
+2:21
+acuérdense que las variables mande Perdón atributo no sí sí atributo este
+2:29
+acuer fense que los atributos verdad son como las variables que están dentro de las clases verdad que se ponen con s
+2:37
+punto y bueno el nombre del atributo que le que vamos poner muy bien acuérdense
+2:43
+que estos son los métodos verdad estos métodos chavos acuérdense que son funciones que están dentro de las clases
+2:50
+no y le tenemos que poner el self Por qué Porque estos métodos afectan al
+2:56
+objeto muy bien entonces para que agarren al objeto tenemos que ponerle
+3:02
+self muy bien así es así básicamente es lo que hicieron detrás de cámaras para
+3:08
+programar todas las clases de String de sets de listas de topos de dictionaries
+3:15
+por eso tienen métodos imagínense O sea no imagínense es lo que está detrás del código no es este que ponen por ejemplo
+3:22
+Def el reverse y ponen est Aquí por ejemplo imagínense cas list y uno de sus
+3:28
+métodos debe decir reverse no sales y ya le ponen más cosas Bueno aquí está todo el código de lo que haría
+3:35
+este Pero bueno así es también los que crearon npa y todas estas funci bueno
+3:41
+estas librerías no que nos permiten usar métodos este también este hicieron el
+3:47
+mismo principio acuérdense que aquí es cuando aquí no más es la que hace pero
+3:53
+que el objeto es cuando lo ponemos aquí cuando lo asignamos al nombre del objeto
+3:58
+no y y ponemos la que hace y sus atributos sus atributos son los que estén en init verdad en este caso serían
+4:06
+marca modelo y color por eso la marca no Toyota modelo Corola y color rojo no muy
+4:13
+bien o este Volkswagen Jetta y azul no muy bien este qué más Qué más bueno
+4:21
+acuérdense para llamar nosotros un atributo es sin paréntesis no más es es
+4:27
+el nombre del objeto punto el nombre del atributo no Esto es para
+4:33
+llamar llamar un qué un atributo cómo lo
+4:39
+hacemos Nombre nombre del
+4:49
+objeto punto nombre
+4:54
+del tributo así a
+5:00
+cuando nosotros queremos llamar un método exactamente así es llamar un
+5:06
+método como dice ahí para llamar un método es nombre del
+5:13
+objeto punto nombre del método
+5:21
+paréntesis muy bien así es como python identifica que este es un método y no es
+5:26
+un atributo con el paréntesis es como Nosotros llamamos una función se acuerdan cuando invocamos o llamamos una
+5:36
+función que teníamos que ponerle el nombre de la función y paréntesis verdad después de haberla definido pues es muy
+5:43
+parecido aquí primero definimos la que hace no bueno definimos el objeto no O
+5:48
+sea definimos la que hace lo asignamos a un objeto No aquí que veamos el objeto y
+5:54
+ya luego podemos ahora sí que llamar o invocar los métodos no o los atributos
+6:00
+atributos acuérdense sin paréntesis métodos con paréntesis muy
+6:05
+bien chavos OK mir Por ejemplo aquí no esto para que corra tendría que correr la que
+6:12
+no porque me va decir estoy sacando muy bien vo a tener que correr este muy bien
+6:18
+y aquí los atributos
+6:23
+no muy bien métodos pues acuérdense con
+6:29
+paréntesis no Okay aquí el self acuérdense la
+6:36
+herencia chavos no acuérdense de la herencia no que nosotros podíamos
+6:43
+heredar no las características de ahora así que de El de una que hace previa
+6:50
+verdad la que hace padre s se acuerdan cómo se
+6:58
+hacía sí simplemente creab la clase y entre los eh paréntesis metías la clase
+7:05
+padre bueno el nombre de la clase padre muy bien y al hacer eso qué pasa adquiere todos los
+7:12
+eh atributos y métodos de la clase padre no exactamente perfecto Sí exactamente
+7:19
+es lo que hace nosotros al poner esto hereda pues esama herencia no hereda
+7:25
+todos los atributos y todas las bueno todos los métodos no esto es muy útil
+7:31
+por ejemplo les decía las aplicaciones en la vida real es que nosotros si tenemos este una calculadora no y les
+7:38
+decía por ejemplo Wolf Alpha o alguna de estas marcas No que te venden Ah okay Esta es la versión normal pero si
+7:44
+quieres la Premium toma esto obviamente los de Wolf Alpha no van a volver a hacer toda la parte de la calculadora
+7:50
+básica de cero no más van a bueno van a heredar no las este pues los métodos
+7:57
+este los atributos de de la calculadora normal y le van a agregar acuérdense que
+8:02
+le Podemos agregar dentro de la nueva que hace le Podemos agregar métodos le Podemos agregar cosas no este y así es
+8:08
+como funciona en la vida real es una de las aplicaciones también les decía de los botones no de los botones también se
+8:15
+hacía eso ahorita vamos a ver más ejemplos de esto
+8:22
+pero Okay muy bien muy bien haí la herencia no okay
+8:32
+acuérdense que podíamos tener herencias de herencias no muy bien acuérdense que
+8:38
+esta de animal aquí este el perro daba de animal no
+8:48
+este mu
+8:56
+lent Bueno este bien acuérdense que aquí podíamos heredar no de este las cosas
+9:06
+y bueno podíamos heredar no de aquí de perro animal y de por ejemplo Chihuahua
+9:12
+es perro no O sea bueno por ejemplo el Chihuahua tiene todas las características de un perro y el perro
+9:18
+tiene todas las características de un animal pero no todos los animales tienen las características de un perro verdad y
+9:23
+no todas las estas tienen así Eso sirve para que nosotros veamos
+9:30
+lo siguiente esta parte ya vamos a avanzarle un poco las cuatro principales
+9:36
+características de programación orientada a objetos es la herencia
+9:42
+número uno pero también es una cosa que se llama polimorfismo Alguien sabe que la raíz
+9:48
+Qué significa polimorfismo qué significa poli muchas muchas muy bien y morfo morf
+9:57
+cosas forma formas muy bien exactamente perfecto Rafa muchas formas no es lo que
+10:03
+quiere decir la palabra acuérdense que mucha o sea toda la lógica viene de las de las palabras no y más en inglés
+10:09
+polimorfismo Así es como se dice el polimorfismo se refiere a la capacidad de adoptar múltiples formas en
+10:17
+programación orientada a objetos una interfaz puede ser adoptada por múltiples clases Dos clases podrían
+10:24
+tener el mismo método pero comportarse de manera diferente a veces El ejemplo dicen de que cómo
+10:31
+ya sí pues o sea dos personas este por ejemplo el hacer una fiesta
+10:38
+chavos la idea que ustedes tienen de hacer una fiesta es muy diferente a la idea que puede tener su hermano sus
+10:45
+hermanos no Aunque es el mismo la misma acción de hacer una fiesta los dos
+10:52
+pueden tener una idea completamente diferente de esto no eso es lo que es el polimorfismo bien aquí un ejemplo
+11:00
+básicamente es que las que haces per los métodos se pueden llamar igual o los atributos pueden ser igual pero si son
+11:05
+de diferentes que haes pueden hacer diferentes cosas es lo que les decía la
+11:11
+idea de la analogía es es ustedes y sus hermanos hacer una fiesta o no sé
+11:17
+trabajar este hacer ejercicio Aunque es la misma acción como son dos clases
+11:24
+diferentes no pueden tener diferentes este iones de lo que es trabajar de lo
+11:30
+que es hacer ejercicio de lo que es hacer una fiesta básicamente es lo que
+11:35
+nos está queriendo decir aquí el polimorfismo chavos miren como aquí aquí
+11:41
+definimos la que hace perro aquí definimos la que hace gato y los dos van
+11:46
+a tener un mismo método llamado sonido verdad sin embargo el
+11:53
+perro pues Nosotros sabemos Cuál es el sonido que hace el perro pues la da no Cuál es el sonido que hace un gato Mau
+11:59
+ya entonces Pues bueno aquí nada más el polimorfismo es ver que aunque el método
+12:06
+se llama igual verdad va a ser diferente no las cosas sí o no
+12:14
+chavos sí Okay como aquí Esta es una función
+12:21
+que puede agarrar como argumento un objeto no su argumento es el objeto si
+12:29
+esa la pregunta que van a hacer esta función Agarra un objeto aquí se ve no
+12:35
+aquí nosotros estamos creando el objeto de mi perro con la que hace perro no y
+12:40
+aquí Qué hace ese animal lo sustituye la palabra que le pongamos aquí no substituye el mi perro Entonces sería
+12:47
+como si esto sería como si pusieran mi perro punto sonido print mi perro punto
+12:52
+sonido o bueno en el caso de gato no en el caso de mi gato va a ser gato no
+12:58
+Bueno mi gato punto sonido entonces pues bueno vamos a ver qué
+13:04
+hacen como verán no Aunque los dos tienen la misma función de emitir mi
+13:10
+sonido emitir sonido verdad es diferente el sonido que va a ejercer mi perro Ah
+13:16
+Es diferente el este sonido que va a ejercer mi gato
+13:23
+no Eso es para que no se confundan bien eso lo vemos por ejemplo en los
+13:29
+y en las listas y se acuerdan hay muchos métodos vamos a ver si se acuerdan se
+13:36
+acuerdan que este en las listas y los top tenían muchos métodos con los mismos nombres
+13:42
+verdad se acuerdan de eso bueno Si no vamos a verlo los to por
+13:50
+ejemplo el count punto count chavos Este es un método de un top no que está
+13:57
+acuérdense que es como si estuviera en la quease no acuérdense bueno alún es
+14:04
+como si alguien en python no hubiera puesto de que lo voy a
+14:10
+poner es como si alguien en python hubiera puesto
+14:15
+que cple no así cle no etcétera y hubieran puesto un
+14:23
+método no Def count no self
+14:30
+dos puntos ya ponen Aquí lo que sea el código La La La La La no Para
+14:35
+contar Okay muy bien y si alguien más hubiera hecho
+14:42
+que la otra este lista no list dos puntos
+14:49
+no count no los dos tienen el mismo nombre del método no y
+14:58
+Bueno aquí básicamente hacen la misma función pero podrían hacer diferente no el punto es que esto de todos modos
+15:04
+sigue siendo polimorfismo porque son métodos de diferentes clases no aunque
+15:09
+se llamen igual básicamente son métodos o atributos que tengan el mismo nombre
+15:15
+no pero sean de diferentes cl haes en este caso hacen lo mismo pero podrían hacer diferente
+15:21
+No sí o no chavos más o menos sí okay
+15:27
+muy bien Es es una de las aplicaciones ahora sí que que tiene bueno los cuatro Pilares de programación orientada
+15:33
+objetos ya hemos visto dos hasta ahorita uno es la herencia otro es el
+15:39
+polimorfismo vamos a ver los
+15:44
+otros eh profe m tengo una pequeña
+15:51
+duda en el ejemplo que estamos viendo anteriormente del perro y del gato Ajá eh Cuando puso lo de animal si no
+15:59
+habíamos declarado lo que era animal este Cómo fue que reconoció que era o
+16:05
+perro o gato Pues porque eso es un método aquí no estamos Este invocándose
+16:22
+va a necesitar un argumento no y ya o sea aquí
+16:29
+básicamente es lo que hace python con las funciones python agarra y dice mira aquí yo estoy creando la función de
+16:34
+emitir Sonido el cual va a tener un argumento no tú lo puedes llamar como
+16:40
+quieras lo puedes llamar animal no este y aquí Bueno puedes ejecutar lo
+16:47
+que el usuario te meta aquí lo va a guardar en animal y lo va a poner dentro de la función más o
+16:56
+menos Entonces en esa misma función declaramos que si da perro Pues que
+17:02
+ladre Y si da gato muy bien Mira lo voy a comentar y
+17:08
+lo voy a poner que es lo que está haciendo la función en python Mira tú al poner la función de emitir sonido al
+17:14
+invocarla porque esto no es crearla aquí tú la estás invocando No invocando
+17:19
+llamando como quieras decirle lo que hace la lógica de python
+17:26
+es la siguiente python va a agarrar y va a decir
+17:32
+este a
+17:42
+ver sí más o menos aquí por ejemplo en la función de emitir sonido No lo que va
+17:48
+a hacer python va a llamar a la función de emitir sonido no va a decir Ah Okay
+17:54
+Cuál es tu argumento Ah bueno mi argumento es mi perro no aquí nada más
+18:00
+te está pidiendo Ah tiene un argumento el cual es como si hiciera esto el argumento animal
+18:06
+no el argumento animal va a tomar el valor
+18:14
+de lo que yo le estoy poniendo ahí que es mi perro no muy bien acuérdense
+18:21
+entonces aquí dentro de la función lo va a sustituir no el animal este este de
+18:29
+animal lo va a sustituir por mi perro sí o no sí no acuérdense En python qué hace
+18:38
+el igual chavos es asignación o guardar vamos a guardar mi perro en animal
+18:43
+verdad Entonces este animal lo sustituimos no por mi perro punto y ya
+18:50
+el sonido no y qué es esto chavos el mi perro punto
+18:56
+sonido quién me dice qué es esto es
+19:01
+un Ah atributo método no Acuérdate método
+19:10
+Por qué lleva los par exactamente porque tiene los paréntesis verdad aquí estamos
+19:18
+Llamando al objeto mi perro no estamos invocando Bueno estamos llamando el objeto a mi perro y estamos invocando su
+19:26
+atributo sonido verdad verdad Entonces nos vamos aquí la que hace python Ah mira este es el atributo sonido y queé
+19:33
+me regresa la debido por eso aquí La respuesta es la
+19:39
+debido más o menos chavos Ah okay Yo sí entiendo eso pero
+19:46
+por ejemplo en en situaciones como reales eh Por qué estarías definiendo
+19:51
+una o sea definiendo una función si ya tienes las clases O sea que no se supone
+19:57
+que las podrías usar sin necesidad de definir una función Sí pero por ejemplo Imagínate
+20:04
+que tuvieras una lista de muchos objetos no O sea tú o sea si tuvieras una lista
+20:10
+de muchos objetos Tú nada más podrías usar esta función y correrla no podrías
+20:16
+de ir por ejemplo con un for Loop o sea una aplicación no con un for Loop de una
+20:21
+lista de nombres de de objetos no y podrías estar aplicando la función de manera dinámica muchas de las aplic O
+20:28
+sea tú lo puedes hacer como tú dices por ejemplo pero es una cosa que se le llama hard code o sea de que programarlo como
+20:35
+medio a la fuerza no es como por ejemplo con Cenicienta no de que meter las O sea la zapatilla la fuerza de que Claro que
+20:42
+sí la puedes meter pero en programación mucho de lo que se trata de hacer es que sea Dinámico no que sea más fácil tú
+20:50
+poder cambiar las cosas Si tú lo pones dentro de una función mira aquí nada más es cambiarle un argumento no es más
+20:57
+fácil por Por ejemplo yo podía hacer una lista no O sea lo voy a poner aquí o sea
+21:02
+podría hacer un for Loop no con una lista mir item in lista de este objetos
+21:11
+no por ejemplo aquí puede ser que antes de esto Obviamente que yo haya definido una lista de objetos no lista de objetos
+21:20
+no imagínate aquí que yo tuviera una lista de verdad de muchos objetos No mi
+21:25
+perro o que tuviera otros mi perro uno no oa varios no así de mi gato etcétera
+21:34
+no imagina que fue una lista larga Ajá pues nada más sería No aquí el for
+21:43
+agarraría cada uno de estos elementos verdad y los metería dentro de la
+21:49
+función verdad por ejemplo aquí si pusiera de que dentro del for no no voy a poner
+21:55
+dentro del for que pusiera el de emitir sonido
+22:02
+no en vez de o aquí lo podría hacer Dinámico si yo quiero que me corra todos
+22:07
+una parte lo hago aquí y el for me estaría dando de manera dinámica todos
+22:13
+esos no pero mi lista de objetos o sea cada uno de esos objetos
+22:19
+tendría que tener como esto de mi perro igual a perro con par tendrías que ha
+22:25
+creado el objeto pero imagínate que eran creados o sea por ejemplo para los
+22:31
+personajes de Fifa lo que les decía no sé uno de sus compañeros dijo que eran 17,000 jugadores no O sea si necesitaras
+22:38
+por ejemplo a veces no de que le puedes poner en el FIFA que te dé una tabia de todos los jugadores no de todos sus
+22:45
+atributos por ejemplo con una función así te pod o sea podrías iterar con un for Loop y te daría todos no al mismo
+22:54
+tiempo más o menos Sí sí sí ya en en algún punto vamos a hacer este tipo de
+22:59
+ejercicios para ponerlo en práctica como tal pues depende de qué tanto avancemos de qué tan rápido Ojalá este este porque
+23:06
+bueno es que como les digo chavos más importante que hacer esos ejercicios Yo creo que vayan aprendiendo los conceptos
+23:13
+este también lo vamos a intentar hacer a lo mejor en sus proyectos No tan avanzados pero algo porque aunque no lo
+23:20
+crean Esto no es ni la punta del light chavos o sea Oh no programación es muy
+23:25
+grande o sea No por nada chavos programación es una carrera de 4 o 5 años es muy bien pagada y no por nada se
+23:32
+inventó en mit varias cosas Y en arpanet yo le O sea no crean que todos estos
+23:37
+genios matemáticos Y eso que lo hicieron en uno dos meses digo Ahorita estamos intentando hacerlo de siete materias lo
+23:44
+de 2s años en dos meses Pero la verdad es que programación es un área que nunca dejas de aprender de verdad O sea si
+23:51
+creen o si esperan de que aprender un año o 2 años y hasta ahí dejar de
+23:57
+programar o aprender programación no es así chavos programación probablemente es el área más dinámica que hay Porque como
+24:04
+les digo cada día están inventando nuevas librerías cada día están inventando nuevas cosas o sea con lo que
+24:10
+ustedes ya saben ya pueden intentar hacer estos ejercicios Claro que sí pero como les digo más que esto más que hacer
+24:17
+los ejercicios más complicados lo que necesitan es de verdad tener bien las bases para que luego se les haga más
+24:23
+fácil aprender porque aquí o sea el objetivo del curso más que nada es que tengan tan fuertes las bases que después
+24:30
+puedan aprender porque se los juro o sea en Do años lo más probable es que vaya a haber un montón de funciones que no
+24:36
+existen ahorita entonces o sea van a existir muchas cosas por ejemplo ahorita yo estoy enseñando python pero antes se
+24:43
+enseñaba mucho c+ más y todo eso porque todo el tiempo se van actualizando las cosas chavos programación es el área más
+24:49
+cambiante más dinámica que hay entonces lo más importante es que aprenden ahora Así que las bases la lógica y estos
+24:56
+conceptos por ejemplo más que aprender el código de que está haciendo esto es más que aprendan Ah Qué es la Qué es el
+25:03
+polimorfismo Qué es la herencia Cómo se hace en python sí está También bien pero
+25:11
+lo importante mucho es que sepan a herencia polimorfismo y ahorita los otros dos Pilares Por qué Porque estos
+25:19
+chavos estos cuatro Pilares de programación orientado objetos son los mismos cuatro Pilares en todos los
+25:25
+lenguajes de programación de orientados objetos como c+ má c C sharp javascript
+25:30
+Java entonces digo lo más importante es que de verdad tengan bien sólidos los
+25:36
+conceptos también cuando veamos la siguiente semana lo de matemáticas discretas que desarrollen ese pensamiento porque se los digo chavos en
+25:43
+dos años en 3 años lo más probable es que por mucho que les enseñe vayan a existir cosas que ahorita no existen No
+25:49
+es que no se las enseñes que de verdad no existen ahorita entonces pues bueno chavos el punto es que vayan aprendiendo
+25:55
+más o menos Qué es Pol morfismo que es ahora sí
+26:02
+que herencia métodos qu es un método Qué es un este un atributo Cómo se crean las
+26:11
+clases Qué es una clase Qué es el self Qué es el init Porque todos los lenguajes de
+26:18
+programación no más cambian las palabras reservadas pero son lo mismo
+26:23
+chavo son los mismos conceptos maestro mande dónde se le puso el valor animal
+26:30
+porque ahorita puso animal y creo que ya tenía un valor animal Cuál cuál parte cuando puso hay
+26:38
+animal pues parece como que es el mismo animal de arriba no O es distinto Mira
+26:45
+tú podrías tener aquí uno que se llame animal por ejemplo podíamos definir animal aquí no ponerle no sé araña bueno
+26:54
+águila vamos a poner águila no python no hace esto python cuando tú
+27:01
+estás definiendo una función Rafa python no agarra el valor este de animal y lo
+27:06
+mete aquí python solo lo pone Alguien sabe que es un p holder en
+27:15
+inglés Alguien sabe chavos es
+27:21
+uner bueno es como lo que nosotros hacemos cuando estamos modificando archivos en un Word por ejemplo un
+27:27
+ensayo ensayo uno y al final le cambiamos el nombre a lo verdadero no pero le ponemos un nombre Porque nos
+27:34
+está pidiendo Word a fuerza que lo guardemos con un nombre verdad y al final ya le cambiamos al nombre que nos
+27:40
+sirve esto de los argumentos aquí chavos en python son placeholders o sea aquí
+27:47
+nada más le estás diciendo cuando tú creas eso bueno eso cuando tú creas la función ya cuando le estás invocando si
+27:54
+tienes que poner el verdadero no lo que quieres que tuya pero este animal es
+27:59
+básicamente lo que se le conoce en inglés como un placeholder o sea como un nombre de mientras Pues en el Word no
+28:06
+nosotros de que ensayo uno ensayo final ensayo así ya ya al final le ponemos No pues el nombre que el maestro quería que
+28:12
+le pusiéramos al ensayo verdad básicamente es lo que hace esto de las funciones los argumentos chavos son
+28:20
+placeholders o sea nada más aquí le estás indicando a python realmente Ah Ese es el primer argumento y ya Cómo se
+28:28
+va a llamar o cuando lo invoques a cuando lo invoques le cambias el placeholder por el nombre verdadero No
+28:35
+sí o no Entonces si le ponemos animal igual a Águila no funciona no Sí o sea
+28:43
+me refiero que no le hace caso Ah no le va a hacer caso Sí porque aquí solo estás definiéndola Rafa aquí le estás
+28:49
+diciendo a python aquí tú le estás Es como en las que haces aquí solo tú estás creando el plano le estás dando las
+28:55
+instrucciones pero no estás ut and nada o sea es como si te dan un peano Rafa que te den los panos para hacer un carro
+29:01
+no quiere decir que ya tengas el carro verdad Ah básicamente cuando tú creas una
+29:07
+función o cuando tú creas una clas solo te están dando los planos O sea tú solo estás creando el plano y ya ag muy
+29:13
+bonito tienes el plano pero realmente no has creado el carro hasta que tú haces esto aquí Esta es la acción cuando tú ya
+29:21
+estás creando el carro aquí es cuando tú creas el carro aquí nada más es crear el
+29:27
+peano No aquí Es igual quear el peano profe Yo creo que Bueno o sea si puedo
+29:34
+opinar porque a mí también me pasa creo que lo que nos serviría a todos es que justamente cuando tengamos que usar eso
+29:41
+o sea en lugar de poner animal o x o y palabra justo podríamos nombrarlo como placeholder no y así como que nuestra
+29:48
+cabeza siento que va ir asimilando que o sea que no que no es una palabra en particular o que no es algo que que se
+29:54
+defina sino que más bien está guardando a que tú le digas si va a ir mi perro si
+29:59
+va a ir mi gato o no sé Bueno a mí me serviría pero no sé los demás como como ya de placeholder como que ya se guarda
+30:06
+en mi cerebro y entiendo que que no es algo que se tenga que definir Muy bien pues sí está bien si a
+30:13
+ustedes les funciona a mí por ejemplo me funciona mucho porque Bueno a mí me funciona saber qué es lo que el
+30:19
+argumento va a hacer o qué es lo que la función O qué es lo que la variable pero si a ustedes les funciona está bien
+30:25
+chavos yo lo puedo poner así no hay problema Por ejemplo miren si yo lo pongo
+30:32
+así sigue dando lo mismo verdad no me afectó absolutamente nada o puede ser
+30:40
+animal lo único que tienen que tener cuidado chavos es que si ustedes modifican esto tengo que modificar lo
+30:47
+que esté dentro de la función no O dentro de la que hace para que
+30:52
+funcione O sea si yo modifico el argumento Aquí lo tengo modificar todas
+30:57
+las veces que usé el argumento dentro de la función y sigue corriendo
+31:06
+igual Sí o sea básicamente es lo que hacen las o sea esto es de que así que
+31:13
+en el momento acuérdense esto Cómo se le llama crear o definir una función no la
+31:21
+estamos invocando solo estamos creando como los panos esto es como si estuviéramos creando los panos igual
+31:26
+aquí aquí nosotros estamos no
+31:31
+creando o definiendo una que que es el
+31:37
+equivalente no de realizar
+31:45
+unos aquí no estamos haciendo el carro No estamos ejecutando ni la que hace ni la
+31:50
+función este animal no va o sea en ningún O sea no va a servir para nada
+31:55
+por qué nada guardando el águila Pero en ningún momento aquí en emitir sonido
+32:00
+tendría que ponerle animal Aquí sí cuando lo estamos invocando tendría que ponerle animal el cual no me funcionaría
+32:07
+porque no hay ningún objeto este esto verdad no hay ningún objeto
+32:14
+así más o menos chavos Pues sí sí sí chavos tranquilos
+32:22
+les digo que este es un tema de todo un semestre Así que es como a
+32:28
+eler es es un huequito como para abierto a la variable que vayas a crear en el
+32:33
+futuro no como el self ahí tú pones self pero no estás definiendo nada y cuando lo invocas no es diferente no no no no
+32:41
+hay que confundir eso porque el self O sea sí pero el self está agarrando al
+32:46
+objeto el self si tiene un valor muy particular no el self no es uner el te
+32:52
+está diciendo que vas a agarrar el valor de mi perro para ejecutar este método
+33:00
+No aquí si es un Place holder porque aquí lo puedes cambiar el self no el s
+33:06
+se asigna al objeto no son parecidos nada más que no no no
+33:12
+el self Sí si quiere o sea el self no lo puedes cambiar y ese es un pa holder el
+33:18
+p holder El self escribe al objeto creí que escribí a la clase Cómo que había
+33:26
+entendido que el self era como para describir a la clase como de este sonido es propio de esta clase no de este
+33:32
+objeto es propio de este objeto Okay okay el cels es propio de este objeto
+33:38
+exactamente acuérdense que self significa propio no o sí mismo Entonces
+33:43
+el el valor propio de ese objeto Okay tengo otra duda más abajito
+33:53
+e Por qué pones cuando llamas cuando estás en invocando mi
+33:58
+perro puedes poner en vez de mi perro puedes poner perro como si estuvieras
+34:04
+invocando la clase del perro esta en esta línea o cuál donde abajo dice emiti
+34:10
+sonido mi perro Ahí está invocando no Sí ahí en vez de poner mi perro Podrías
+34:16
+poner perro nada más no Por qué Porque aquí Acuérdate que los métodos no
+34:23
+exactamente ya lo que decíamos los métodos se refieren al objeto
+34:28
+verdad sí o no sí sí Okay entonces como
+34:33
+se refieren al objeto y no a la que hace si yo le pusiera perro estaría esto es
+34:39
+como si pusiera perro este paréntesis dos puntos este el emitir sonido me daba
+34:46
+este el punto sonido no tendría caso porque les digo el self no hace referencia la que hace hace referencia
+34:53
+al objeto de mi perro no Y ese mi perro no estaba creado Ahí
+34:58
+estás creando ese objeto mi perro a en este aquí en este lugar Sí aquí es donde yo creo el mi
+35:06
+perro y luego Aquí lo invoco Aquí invoco esta función no de emitir sonido Esta es
+35:12
+una función de emitir sonido No el placeholder animal aquí lo estoy definiendo como mi perro este toma el
+35:20
+valor de mi perro aquí se aquí se cambiaría a lo que decía aquí Este dónde
+35:25
+está aquí a lo de mi perro punto sonido esto es este de emitir sonido mi perro es
+35:33
+equivalente a esto lo voy a poner son
+35:49
+equivalentes más o menos chos por qué
+35:55
+print Ah porque la función Mira qué es lo que hace la función de emitir
+36:01
+sonidoa pues hace un sonido PR print No pues por eso está aquí el print
+36:08
+no O sea esta función de emitir sonido mi perro lo que va a hacer es va a ser
+36:15
+print el método bueno el método de mi perro punto sonido
+36:22
+no o sea esto está haciendo
+36:32
+esto más o menos chavos Sí sabes también Creo que estaría
+36:39
+padre que nos pusieras tú un código que hayas hecho y que nos pongas a a
+36:44
+describir qué es lo que va a suceder que nos digas a ver esto qué es y nosotros digamos Ah Esa es la variable est es la
+36:50
+clase esta clase está definiendo esto y aquí me está diciendo que va está creando este objeto y y Esto va está Ya
+36:57
+invocando esta función y y o sea es una forma de No sí está muy bien mir si si
+37:03
+quieren la siguiente semana para practicar podemos hacer eso Déjenme les voy a hacer un código medio largo este y
+37:10
+les puedo ir preguntando así parte por parte que hace porque eso es muy importante y como dices Carlos algo que
+37:17
+sí es muy importante que aprendan y que desarrollen es que vean el código de otros y entiendan Qué está haciendo
+37:24
+porque pues en la vida real no miren en la vida real o les van a O sea si si de
+37:30
+verdad se dedican a programación pues van a tener que trabajar con código de otros y aunque no se dedicaran ustedes
+37:37
+nada más a hacer código para ustedes de todos modos siendo honestos hay muchas cosas en programación que ya están
+37:43
+hechas Para qué vas a inventar el hilo negro no O sea para qué vas a reinventar la rueda si ya existe entonces Muchas
+37:51
+veces en programación puedes irte a giop O puedes irte a stack overflow preguntar por código pues como dicen los chistes y
+37:58
+es cierto copiar y pegarlo Pero tú tienes que ser capaz de entender Qué está haciendo ese código para que lo
+38:05
+puedas modificar porque muy probablemente existe un código que te sirve en el 80% de lo que necesitas pero
+38:12
+tú necesitas entender completamente el código para poder adaptarlo a lo que tú
+38:17
+necesitas Entonces sí eso es muy buena idea Yo creo que la siguiente semana podemos hacer eso porque algo que es muy
+38:24
+importante ustedes no van a trabajar solos ni van a reinventar la rueda y para qué digo Y además o sea aunque
+38:30
+pudieran para qué si ya existe no entonces este algo que sí es muy importante es que aprendan a leer código
+38:38
+muy bien sobre todo porque entiendo que si Queremos cubrir muchos temas la
+38:44
+verdad es que creo que m tenía razón o sea mientras no tenemos el ejercicio para aplicar el concepto va va a ser más
+38:51
+difícil que lo retengamos Pero antes que eso vamos a ver Es que mira lo vamos a volver a ver la programación orientada
+38:57
+objetos está todo diseñado con algo lo vamos a volver a ver no es como que en
+39:02
+un les digo en una semana no van a poder aprender lo que estudiantes universitarios este llevan en en 16
+39:09
+semanas no lo tenemos que el cerebro aprende cuando lo vuelves a ver y lo vuelves a ver aplicándolo y aplicándolo
+39:16
+ahorita solo estamos viendo la teoría la aplicación Todavía falta chavos porque las así que todo lo demás de análisis de
+39:23
+datos lo de hacer videojuegos hacer todo eso pues tiene que ver con programación orientada objetos todo va a ser
+39:29
+programación orientada objetos entonces que lo vamos a volver a ver aplicado lo vamos a volver a ver ahorita por eso les
+39:34
+estaba manden está muy bien lo menciono porque bueno en en mi caso Este siento
+39:41
+que vimos temas muy rápido y cuando nos pides ahora genera esta función de punto
+39:47
+producto y tienes 4 segundos para hacerlo yo no tenía ni ni idea de por dónde empezar porque no he empezado a
+39:55
+ailar como como y me sentía nervioso porque digo No manches ya vamos bien rápido y yo todavía no le entiendo a
+40:00
+esto pero si dices que todavía lo vamos a dar una dos no lo vamos a volver a ver chavos acuérdense que miren pues al
+40:06
+final de cuentas el curso dura nu semanas entonces ahorita Vamos apenas en la 3 y3 Todavía nos falta Pues el 60 7%
+40:14
+del curso entonces pues sí lo o sea estos temas que son la base lo que yo
+40:20
+quiero más que se aprendan es queé hace cada cosa que ustedes lo tengan en la mente Porque todavía por ejemplo falta
+40:27
+lo de la lógica lo que les decía lo que vimos ayer un poco es lo que les va a permitir ustedes desarrollar su
+40:33
+verdadera lógica es lo que les va a permitir desarrollarlo Entonces pues no
+40:39
+vamos a volver a verlo porque lo tenemos que volver a ver cuando veamos estructuras de datos Porque para poder
+40:44
+usar estructuras de datos tenemos que volver a programación orientada objetos Entonces lo vamos a volver a ver chavos
+40:51
+no se preocupen va va al final de cuentas eso es un ciclo O sea tú no puedes no puedes usar análisis de datos
+40:58
+no puedes hacer estructuras de datos si no vuelves a usar los conceptos de aquí aquí lo más importante es que se
+41:04
+aprendan los conceptos que tu cerebro se comoan se empape tantito de cómo es las
+41:10
+que haces o sea por ejemplo ya he visto ya saben hacer Qué haces No me preocuparía si no supieran hacer Qué
+41:16
+haces si no supieran si no supieran que es un atributo me preocuparía por ejemplo o sea algo que sí sería malo es
+41:23
+que no sepan por ejemplo Okay bien Por ejemplo les voy a poner aquí abajo bien les puedo poner
+41:32
+una esta pregunta por ejemplo esto sí me preocuparía que por ejemplo les pongo
+41:55
+mir es un diccionario es un diccionario
+42:01
+verdad Muy bien okay otra cosa por ejemplo
+42:09
+[Música] este esto Qué es la lista lista no muy
+42:18
+bien Vamos a seguir o sea lo importante es esto que vayan Sabiendo Qué es cómo
+42:24
+crearlos cómo definirlos no Este es un diccionario un diccionario qué
+42:29
+tiene es el el valor ya
+42:35
+valor muy bien Eso es a lo que me refería Yo también en un principio no no
+42:41
+es no tienes un glosario específico como de esto O sea lo has ido viendo Sí pero
+42:47
+por ejemplo hace rato pusiste una una algo bien chingón que fue las atributos
+42:54
+tienen tienen el paréntesis y los los otros no tienen el
+42:59
+paréntesis así así es Es un glosario donde definen sus características ahorita por ejemplo tú puedes poner las
+43:06
+listas las listas tienen corchetes y y y sus valores en medio se llaman lo puede
+43:11
+hacer más estructurado técnicamente está todo Dentro de este no sí sí lo hemos
+43:17
+visto solo digo que que digo siguiendo la lógica mejor lo puedo hacer el orden
+43:22
+ha estado medio variado pero s lo Sí muy bien sí o sea la verdad es que lo voy a
+43:28
+hacer Si quieren lo hago la verdad es que me estaba esperando porque tengo que copiar y pegar de la manera que se los
+43:34
+expliqué porque yo digo yo lo sé de una manera pero y luego se los pongo de otra manera que no se los había explicado
+43:40
+pero sí les puedo hacer un glosario al final de cada uno de estos que sería como un resumen de ese archivo gigante
+43:47
+no Exacto Exacto Sí sí sí miren a ver otro que me
+43:52
+V vayan diciendo díganme este
+43:57
+este Qué es String verdad Muy bien
+44:03
+okay Por ejemplo este qué haría lo convierte todo
+44:11
+minúsculos muy bien convertiría tod minúsculas O sea me
+44:17
+daría Okay muy bien Qué más Qué más qué más puede ser por
+44:25
+ejemplo un
+44:39
+forl este bueno a ver
+44:50
+bien aquí qué estoy haciendo a ver en esta parte eso Exactamente eso está buenísimo
+44:57
+porque es lo que por ejemplo para estás definiendo una lista que vas
+45:03
+a utilizar para el tu ciclo for no estamos haciendo una lista vacía no O
+45:08
+sea que no tiene elementos una lista vacía que usaré en el c for no Y eso lo
+45:15
+estoy deduciendo ahorita antes yo no sabía que o sea para poner Ford tenía que primero definir una lista aunque
+45:21
+esté vacía como la pones ahorita pero es es un de lo que te de
+45:27
+dónde sacaste las cosas a ver y qué hace el item
+45:33
+aquí es como la ranura en la que va ir ciclando cada uno de los componentes de
+45:38
+la lista exactamente o sea por ejemplo miren voy a ponerlo primero antes que
+45:44
+nada alguien que me diga lo voy a poner aquí Esta es una
+45:50
+pregunta Cuántas veces o bueno Cuántos cicos Mejor
+45:57
+dicho ciclos iteraciones lo mismo Cuántos ciclos
+46:03
+iteraciones voy a tener en este
+46:09
+foro según el cantid de component en lista no en este caso cuál
+46:16
+sería muy bien en este
+46:22
+caso es 4 porque es el número de
+46:28
+elementos en la lista y
+46:35
+no sí sí s agarrar un por qué Sí muy bien porque es por cada uno
+46:43
+de los el exactamente acuérdense que el item Cómo se le llamaba a esto que está entre
+46:50
+El for y el in es la variable de iteración bien la
+46:55
+variable de iteración muy bien chavos pero ahí toma
+47:03
+el valor del índex o toma el valor como tal o sea tomaría valor uno o tomaría el
+47:09
+valor cero a ver no no no Acuérdate que la variable de iteración va agarrando
+47:14
+cada uno de los elementos de la lista elementos no índices o sea agarraría 1
+47:20
+dos 3es cu la variable de iteración mir
+47:28
+Toma este los valores no toma Bueno cómo
+47:33
+ponerlo cada valor de una lista no para cada ciclo o
+47:44
+iteración qué quiere decir bien Vamos a ver en este caso chavos para el c
+47:54
+un cuanto va a valer
+48:00
+uno para el ciclo dos
+48:09
+dos y así no miren le voy a cambiar para que se vea si en este caso en vez de TR
+48:14
+sea 10 cuánto valdría podríamos entonces revisar el de
+48:20
+ayer el que te comentaba ayer ahorita Déjame ver es que ya se acabó el tiempo Bueno déjame ver Sí muy bien okay el p 3
+48:29
+a ver Cuánto valía menina antes de para que tú le entiendas En qué está mal mandastes cuánto Val día 10 es que lo
+48:37
+que lo que yo me perdí es en la definición del de que fue Rango Range
+48:43
+est son los Mira por eso vamos a hacer Mira vamos a hacer este ejercicio ahorita que tú misma dime en qué está
+48:48
+mal es más importante que yo te diga es que tú veas por ejemplo aquí el cico 4 cuánto valió el
+48:54
+aire cu cuatro muy bien eso así es como
+48:59
+funcionaría miren si tenemos un for con un Range
+49:07
+no acuérdense que este es un folder mir si quieren también o sea aquí le puedo poner el nombre que quiera no folder
+49:14
+este variable de iteración también si quieren así se los pongo demasiado específico no
+49:24
+okay muy bien y ahí también va un Place holder no en Range Ah bueno aquí sí me
+49:31
+faltó en Range le voy poniendo Por ejemplo si yo quiero lo que se hace mucho es este Por ejemplo si tengo dos
+49:39
+listas que me acuerdo que era del producto punto No vector un igual a
+49:44
+Bueno ahí una lista no de 1
+49:51
+[Música] 46,8 en el rango sí se toma el el índice verdad porque es el rango de tal Ahí
+49:58
+vamos mir Ahí vamos Ahí vamos tranquilos no se adelanten es que eso es un mir este
+50:05
+279 10 por ejemplo tiene cuatro y cuatro elementos no una forma de iterar sobre
+50:12
+ambos elementos al mismo tiempo es que hagamos lo siguiente le ponga
+50:18
+len y puede ser cualquiera de los dos aquí porque el producto punto tienen que
+50:24
+ser del mismo tamaño no los vectores no Ah okay O sea
+50:30
+solamente puedes usar esto si ambos vectores son del mismo tamaño
+50:36
+sí Okay okay Si ambos vectores son del mismo
+50:43
+tamaño en el producto punto es la definición tiene que ser del mismo tamaño las operaciones en matrices o
+50:50
+vectores tienen que ser así Eso es de matemática digo este muy bien este qué
+50:57
+más Qué más bien aquí qué va a darme el Range chavos antes de empezar qué me va
+51:05
+a dar el Range este qué me da primero antes que nada qué me da el len vector un eso ya lo habíamos visto pero vamos a
+51:11
+volverlo a ver qué me va a dar esto cuatro me da el número igual a sí
+51:19
+correcto me da el número me da un número qué me da un número me da el
+51:26
+número de elementos el total de elementos
+51:31
+no de elementos profe de no de elementos elementos elementos elementos el total
+51:38
+de elementos o sea cuántos elementos tienes adentro exactamente o sea sería como hacer la pregunta cuántos elementos
+51:44
+tiene tu lista bueno puede ser que este puede funcionar para lista String etcétera
+51:52
+No creo que también para diccionari no estoy seguro Pero bueno este es como si estuvieras haciendo esta
+51:58
+pregunta no Cuántos elementos tiene tu lista
+52:04
+elementos elementos elementos no índice chos Okay okay Range hace una Range o es
+52:13
+ya rápido Range me da un vector acuérdense ya lo habíamos dicho esto sí ya lo hemos dicho 20 veces hay tres
+52:20
+tipos de Range no con los tres argumentos No eso sí de
+52:26
+verdad Ya lo hemos visto como 20 veces digo lo volvemos a ver pero sí es muy importante que no se les olvide Qué pasa
+52:33
+si yo pongo el Range por ejemplo así este qué me va a
+52:39
+dar un límite superior sí no pero qué me va a dar el Range chavos acuérdense
+52:45
+Range 4 qué me daría c al 3 no una lista exactamente me da
+52:52
+una lista 0,12 coma tres tres muy bien Ahora chavos dos
+53:01
+argumentos bien vamos a poner 2 coma 7 qué me daría
+53:11
+chavos 2 3 4 5 6 Muy bien excelente
+53:16
+perfecto acuérdense que este es el límite inferior Este es el límite superior y nunca incluye el límite
+53:22
+superior siempre es el límite superior -1 o sea 6 no bien y qué pasa si yo
+53:27
+pongo esto 3 10
+53:34
+4 Ah va a contar de cuatro en cuat a ver Denme la lista por favor 3
+53:42
+7 y ya y ya no entonces Range vector un técnicamente
+53:50
+está diciendo como Range y entre paréntesis sería cu no exactamente en
+53:56
+este caso Range No si pongo yo el Range del
+54:03
+len del vector uno ese len vector un vale el número de
+54:10
+elementos aquí dice cuántos elementos técnicamente me está dando Range qué me
+54:16
+va a dar me va a dar este Range 4 que me daría esto y esto convenientemente Bueno
+54:24
+más bien yo lo que para que sean los índices de esta lista no Cuál es el índice de uno bueno del
+54:31
+primer elemento cero Cuál es el índice de este un un dos dos TR y así es como
+54:39
+yo puedo estar usando ambos al mismo tiempo miren por ejemplo este el
+54:44
+producto punto punto No es igual a la multiplicación de cada uno de los
+54:50
+elementos acuérdense Cómo accedo a cada uno de los a un elemento pongo el nombre
+54:55
+de la lista corchetes y su índice que su índice en
+55:00
+este caso sería bueno toda esta cosa p folder variable de iteración no por el
+55:09
+bueno el producto punto es multiplicar así no de
+55:16
+nuevo muy bien y bueno
+55:22
+más lo del valor anterior no acuérdense que esto era con lo del valor
+55:27
+anterior Bueno cuánto aquí va a haber un problema porque no había definido este
+55:33
+lo que yo puedo hacer lo defino aquí con qu cero por qué
+55:39
+lo le Bueno lo defino con el valor inicial de cer0 Por qué por qué con el valor
+55:46
+inicial de cer0 a ver chavos por qué Punto de
+55:54
+partida exactamente es su Punto de partida verdad O sea aquí el producto
+56:00
+punto antes de iniciar vale cer0 o sea no sabemos cuá o sea más bien vale cero
+56:05
+Entonces sí esta primera vez la primera vez va a ser cer más y todo
+56:11
+esto aquí qué va a pasar el resultado de todo esto acuérdense que en programación
+56:17
+el igual es asignación o es guardar lo que está del lado derecho se va a guardar en el lado y izquierdo Entonces
+56:26
+miren chavos por ejemplo en la primera iteración vamos a hacerlo en la iteración uno en el ciclo
+56:31
+uno cuánto va a valer el producto
+56:37
+punto bueno no esta sería antes de iniciar para que valga cer0 sería antes
+56:43
+de iniciar cuánto va a valer cero cero muy
+56:49
+bien antes de iniciar el producto punto va a ser voy a copiar y pegar
+56:55
+con este dos puntos bien antes de iniciar dos okay el producto punto vale
+57:03
+cero antes de iniciar ya en el for en el primer ciclo
+57:09
+va a tomar el valor aquí qué va a ha ser vector uno Ah bueno python se va a vector uno aquí Ah mira con el índice el
+57:17
+Place holder iteración que dijimos que en la en el primero va a valer cero ent
+57:23
+esto es como si fuera no el vector un
+57:29
+no con c verdad por
+57:36
+vector dos con c más lo que valía el producto punto
+57:43
+antes de iniciar o sea cero muy bien Eso es lo que haría y el resultado en el
+57:50
+ciclo un pues me daría Cuánto ya que no no que lo calculen con
+57:56
+matemáticas sería bien Vamos a sustituir algo que siempre me pasa Chavo con mis
+58:02
+alumnos de Peppa es que muchas veces se quieren adelantar antes de hacer la operación Eso es muy mala idea chavos
+58:09
+nunca se adelanten antes de hacer la operación antes de hacer las cosas no se adelanten es muy mala idea en general en
+58:15
+la vida no nada más en programación Okay vector 1 C cuánto me va a dar uno uno
+58:22
+verdad un por Cuánto es vector dos cero
+58:27
+Cuánto es dos dos muy bien Más C no
+58:33
+entonces en el ciclo un mi producto punto se va a guardar con el valor
+58:44
+de dos dos no muy bien chavos 1 por 2 do no Okay ahora en el ciclo dos chavos
+58:53
+vamos a volver a hacerlo eso para y ya con esto Terminamos el producto punto va
+58:58
+a ser lo siguiente en el ciclo dos voy a copiar
+59:07
+y aquí nada más que en este caso es la segunda iteración cuánto va a valer la
+59:12
+variable esta placeholder dos uno no ah no sí uno y la
+59:20
+otra tres un y este cero lo cambiamos por lo que vale el producto punto en el
+59:26
+ciclo pasado qu era dos dos no Okay en este caso mir ahorita vamos a
+59:35
+sustituirlo c dos dos puntos no
+59:42
+volver Okay vector un un cuánto vale cuatro muy bien
+59:49
+cu cuánto vale Este vector 2 1 s s
+59:55
+siete no y Cuánto valía el producto punto en el pasado
+1:00:02
+doss Entonces esto es lo que va a hacer y al final del ciclo dos nos va a dar
+1:00:09
+qué el resultado de esto cuánto da el resultado de esto chavos a con
+1:00:15
+mat 30 no Ah okay Si quiere ya puede parar ahí
+1:00:21
+profe ya ya entendí la verdad es que creo que así hacía falta como a mí una
+1:00:26
+explicación así porque a veces entiendo las cosas como así literal sí chavos bien Yo entiendo es que así que
+1:00:33
+desgraciadamente por la velocidad los temas del curso porque es que también a mí no me gustaría enseñarles tampoco
+1:00:39
+Porque siendo honestos si no si no cubrimos lo del curso lo que aprendan de
+1:00:44
+programación no les va a servir para nada profesional o sea si terminamos los
+1:00:50
+temas que incluye el curso ya podrían hacer cosas poco profesionales pero ya
+1:00:56
+algo No porque si no la verdad es como un Bueno yo lo vería como un curso como el que les enseñan a los niños o como
+1:01:02
+los a veces los de curseria que está bonito para que lo tengas ahí pero la verdad es que no puedes hacer nada
+1:01:08
+profesional no o sea es Pues sí es como el nivel de inglés
+1:01:13
+a1 el nivel de inglés de a1 no te sirve de nada si te vas a Estados Unidos O te vas a Inglaterra no terminar con esto es
+1:01:20
+como si terminamos en un nivel a dos A lo mejor pegándole
+1:01:28
+rozándolas no sé si tengan una Ay Ay Ay Ay Ay ni modo chavos Así es programación
+1:01:35
+es todao una carrera chavos no esperen Así que este curso es muy intensivo peroo de dónde salió el cuatro no no veo
+1:01:42
+el cuatro cuál el de 4 por 7 vector 1
+1:01:48
+Ajá vector 1 1 acuérdate Rafa Ah Cuál es el índice uno este verdad del vector uno
+1:01:57
+entonces vamos a agarrar el valor cu cu Sí sí okay chavos Pues bueno ahí
+1:02:11
+inténtenlo aprender sí le tienen que dedicar mucho tiempo extra porque sobre todo si no tienen experiencia con esto
+1:02:18
+ni modo no hay otra forma No hay camino fácil en la vida chavos Pero bueno nos
+1:02:23
+vemos y cuídense mucho Gracias profe Bye bye

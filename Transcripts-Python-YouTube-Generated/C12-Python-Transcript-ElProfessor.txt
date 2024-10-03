@@ -1,0 +1,670 @@
+0:02
+Okay chavos pues hay que seguir practicando lo que hemos visto ya la próxima semana les voy a dejar los
+0:08
+ejercicios Pues básicamente van a ser de todo lo que hemos visto hasta ahorita a
+0:15
+ver bueno bien Vamos a hacer la lista alguien que me que me vayan diciendo Cuáles son los temas que hemos visto a
+0:23
+ver con qué empezamos V de que hayamos
+0:32
+visto sepan
+0:39
+ustedes como lo de las operaciones con el problema ese de los salones donde
+0:45
+utilizamos los módulos y así muy bien las variables también operadores
+0:50
+matemáticos en python muy bien ya me acaba de decir dos operadores
+0:55
+matemáticos variables no todo todo vamos va a incluir todo variables qué más
+1:03
+chavos tipos de dato muy bien tipos de
+1:10
+datos para que vayan tener idea de qué va a venir en la actividad qué más funciones muy bien
+1:18
+funciones qué más chavos é todo todo lo que hemos visto
+1:27
+recursiones recursión muy bien factoriales sí parte de recursión no
+1:35
+factorial mu bien qué más el W look W lo
+1:41
+muy bien Qué más in muy bien for no el for
+1:47
+Loop muy bien Qué más chavos Qué más Qué más Qué [Música]
+1:55
+más eh ciclos ya lo di no pas estos dos
+2:02
+for Loop qué más más más condicionales como el
+2:10
+perfecto y elé más ch
+2:21
+másss faltan Ya s Cuáles faltan pero más chos a ver recuerden qué más hemos
+2:28
+visto listas no muy bien Qué más Qué más Qué más un compañero dijo input input y la
+2:37
+función de input muy bien Qué más Qué más las tuplas
+2:43
+excelente los top muy bien Qué más Qué
+2:49
+más diccionarios Excelente muy
+2:55
+bien Qué más ya enseñ Us librería
+3:00
+no O sí pues nada más importarlas o sea puede ser importar una librería muy sencillo pero técnicamente
+3:07
+sí qué más Qué más faltan muchos no como tres cosas
+3:15
+nada más según yo lo que se puede hacer con los Spring métodos Bueno muy bien
+3:20
+métodos no de todo no de listas este diccionarios no este qué más de de todo
+3:29
+no de strings de qué más era top bien pues obviamente ya lo dijimos
+3:36
+al decir esto también nos faltaba strings y bueno muy muy muy básico pero empezamos con programación orientada
+3:42
+objetos no O sea al menos definir una Case no O sea de que hace no también
+3:51
+vimos lo de este creación de un objeto no también vimos lo de
+3:58
+atributos métodos en herencia no es todo lo queos ahorita
+4:06
+Ok Pues bien chavos Pues no sé pero si hemos Yo creo que es bastano porque esto va a ser lo que va a venir en la
+4:12
+actividad noid un Okay la doy la siguiente semana
+4:22
+pero entonces lo que quiere decir que tenemos que practicar todo esto digo espero que se pueda practicar
+4:29
+hoy muy ambicioso igual todo este curso es muy ambicioso así que pues esperemos que sí okay operadores matemáticos
+4:38
+chavos vamos a hacer ejercicios de eso vamos a
+4:49
+empezar Okay operadores [Música]
+4:58
+matemáticos
+5:08
+bien Pues
+5:19
+bueno vimos tamb aquí funciones
+5:24
+var matemáticos di
+5:30
+[Música]
+5:36
+[Música]
+5:44
+okay uno sencillo nada más este utiliza todos los
+5:56
+operadores una función no no funcionó más así uti todos los
+6:04
+operadores matemáticos de p a ver tienen 2 minutos para esto está
+6:10
+muy sencillo Así que como como quieran digo utilícelos
+6:15
+como quieran nada más quiero ver todos los que vimos en 2
+6:28
+minutos
+7:56
+Okay cómo vamos alguien creo que está muy sencillo Así
+8:02
+que
+8:09
+alguien profe se los puede decir es
+8:15
+que
+8:21
+V no no perdón Qué
+8:28
+cosa
+8:35
+a ver chavos alguien que
+8:49
+comparta alguien no lo hago yo pero la verdad es que mejor hg
+8:57
+ustedes tan fácil como hac 2 + 3 - 1 Qué
+9:03
+otros tenemos por 5 por 5 qué otro tenemos división de dos
+9:13
+no este potencia Okay este qué
+9:20
+más el residuo el del porcentaje que da el
+9:28
+residuo el residuo no muy bien y división entera
+9:34
+no y ya digo no hacer esto
+9:42
+no que esto depende de y ya Aunque Hubieran hecho algo así una cosa que
+9:48
+utilizar todos los operadores matemáticos acuérdense suma resta multiplicación división potencia residuo
+9:56
+y división entera cha voz
+10:03
+Ok el siguiente tema cuál dijimos que era
+10:08
+variables Ok
+10:15
+Okay poner
+10:25
+variables variable
+10:58
+al
+11:27
+echa voz hagan esto igual tienen 2 minutos también está
+11:35
+muy fácil así que bueno 2
+11:57
+minutos
+12:44
+porque ahí está B1 igual a b2 cuando B1 es diferente a
+12:53
+b2 mandé Ya acabaste Sí pero es que puso ahí que ve un igual la b2 cuando B1 es
+13:00
+10 y b2 es 20 tú ponlo digo Tú inténtale poner el código y ya lo hiciste este
+13:06
+puedes compartir pantalla Sí
+13:13
+gracias
+13:27
+bu
+13:34
+el error es al revés no por
+13:42
+Perdón no no es que
+13:47
+dec a ver cómo está ah en el
+13:55
+ejercicio Le falta
+14:04
+okay Bueno esta equivalencia nunca puede darse no te falta
+14:10
+uno por eso te da error
+14:18
+B3 no me
+14:27
+acuerdo a ver ponlo ponlo puedes o copia y pega si quieres literalmente o no es
+14:34
+que no no lo vi la B3 iga era equiv B3
+14:39
+es ig a b2 [Música]
+14:47
+no interesante Okay va muy bien
+14:54
+gracias puedes compartir
+15:05
+mu
+15:14
+bien
+15:27
+okay [Música] muy
+15:33
+bien ya multiplicándose v4 no Bueno tú
+15:39
+lo pusiste otro porque quisiste Está bien sí es al cubo no que el equivalente
+15:44
+porque valeen lo mismo muy bien ya ya te entendí Okay muy bien okay pero muy bien
+15:49
+excelente así era ese ejercicio no lo pusiste en una función estaba de
+15:57
+más pero va también se vale está muy bien bien chavos
+16:05
+Pues ahora qué más sigue Déjenme comparto pantalla ir siguiendo haciendo
+16:12
+ejercicios tienen que manejar todos los temas ya chavos para que podamos poner
+16:17
+el ejercicio la actividad que les voy a poner porque va a incluir todo
+16:25
+okay tipos de datos vamos a ponerla [Música]
+16:40
+bien tipos de datos chavos
+16:47
+[Música]
+16:54
+Okay guarda
+17:02
+ocho variables diferentes ocho diferentes tipos de
+17:12
+dat y
+17:18
+que python me
+17:24
+diga Bueno muestres en pantalla que me muestres en pantalla
+17:33
+tipo de dato de cada
+17:41
+variable Okay chavos hagan
+17:51
+[Música]
+17:56
+esto okay está ah no está fácil pero 4 minutos chavos vamos vamos si ustedes
+18:03
+pueden inténtenlo
+23:46
+Okay chavos cómo
+23:54
+vamos faltan dos Okay va le doy un minuto
+24:01
+más también me al tanto arios y no recuerdo
+24:10
+cuál Bueno si quieren les ayudo Listo ya terminé ya Ah pues va si quieres
+24:17
+comparte
+24:26
+okay
+24:37
+Okay aquí
+24:43
+Empezamos el primero es un flat un entero un
+24:49
+String una to una list un
+24:56
+diccionario un buano un set muy
+25:05
+bien sí Okay perfecto lo Guardaste en variables no y así y loiste muy bien
+25:14
+tipo de dato muy bien okay muy
+25:21
+bien alguien más o un minuto más y
+25:26
+intente Yo también ya Ah va si puedes compártelo
+25:50
+por Okay muy bien muy muy
+25:56
+bien alguien más un último o ya pasamos al siguiente
+26:19
+ejercicio Ah Bueno en realidad me faltaron tres es que tuve
+26:26
+dos compártelo a ver lo que
+26:34
+tengas es que se olvid
+26:39
+como y tambi
+26:53
+[Música] juler no tipo diccionario o eso es lo
+27:01
+que alcancé a hacer Sí está bien no te preocupes nada más no estaba ahí se puso
+27:08
+soloo Bueno ahorita prob mayúscula así Creo que se puso por esto
+27:22
+Esto Ah pues está bien digo dig puedes ahí ponerlo después pero
+27:28
+ya viste no hay otros este como sets este las listas diccionarios este top
+27:34
+strings este FR no muy bien está bien
+27:44
+graci okay chavos Pues bien V a seguir V haciendo más
+27:50
+ejercicios hasta que nos cansemos Okay miren
+27:56
+funciones van a
+28:03
+quedar
+28:08
+Okay van a quedar este que será bueno
+28:15
+Okay bien aquí
+28:21
+ya Ah sí olvida
+28:30
+Okay que vea
+28:35
+eh cinco funciones que sean una
+28:47
+de
+28:56
+sumar
+29:05
+ar
+29:13
+dividir potencia y una
+29:22
+función que pregunte al usuario
+29:28
+Qué operación
+29:35
+usar Y pregunta al
+29:44
+usuario dos números y aplique esa
+29:50
+operación bueno está operación usando las funciones
+29:56
+previas aquí Bueno básicamente además de usar funciones Pues también tienen que
+30:01
+usar el eels no condicionales funciones y condicionales y es usar funciones dentro
+30:09
+de estas funciones Okay esta está un poquillo más
+30:14
+pesada Así que igual 5 minutos
+30:26
+chavos
+35:33
+Okay chos cómo
+35:48
+van cómo vamos jm
+35:55
+ch ya casi prof Okay va no preocupen le doy
+36:02
+dos minutos
+36:25
+más y ya acabé muy bien Le puedes comparte
+36:33
+pantalla
+36:40
+Porfa me ahorita que pasen los 2
+36:48
+minutos para que los demás tengan tiempo para escribir su propio
+36:55
+código Gracias Enton en 2 minutos
+37:25
+chavos
+39:35
+Okay
+39:50
+chavos también ya acabe va comparta ning uno de los que ya
+39:57
+lo tengan Ya terminé va muy bien perfecto vayan
+40:03
+compartiendo un de los que ya lo tengan por favor si quieres
+40:25
+tú
+40:53
+Okay alguno alguno comparto chavos que sea pero alguno Bueno si no yo comparto va muy
+41:01
+bien por
+41:11
+[Música]
+41:20
+favor muy bien muy bien
+41:30
+excelente alguien más
+41:36
+chavos yo okay que está compartiendo vas León
+41:42
+va muy bien a [Música] ver pero no es una función
+41:50
+no era en funciones diferentes Tiene razón
+41:58
+si no más es corregir eso tien que ser diferentes funciones no eran cinco
+42:03
+funciones y una última función en la cual integrar todas las funciones y hubiera If dentro de esa función
+42:11
+última Okay bien este León creo que querías compartir
+42:17
+No sí comparte por
+42:25
+favor
+42:38
+Okay muy bien tú hiciste las preguntas en el otro
+42:44
+Okay muy bien Sí sí es es otra forma eso me gustó o sea son diferentes uno de sus
+42:52
+compañeros lo hizo dentro de la función última y tú León le hiciste dentro de
+42:57
+cada función lo de preguntar los dos números muy bien son dos formas de hacerlo diferente Okay perfecto
+43:08
+Gracias eh Muy bien me gustó que fueran dos formas diferentes de hacerlo este
+43:15
+los dos estaban bien muy bien este Okay vamos a hacer un ejercicio más para
+43:22
+tratar de ver más temas de lo que va a venir la actividad Okay
+43:27
+HM que está [Música]
+43:52
+bueno Está difícil okay Está buena pero está
+43:58
+difícil es Creo que no va tiempo de
+44:11
+terminarlo se Pero bueno este más los condicionales también se usarían la
+44:20
+sentencia este qué más listas
+44:28
+y este okay Y ya
+44:44
+okay buo funciones también básicamente sería
+44:53
+Este sí
+45:05
+muy bien este qué más voy
+45:10
+hacer
+45:19
+Okay una
+45:24
+función que le pregunte al
+45:32
+usuario algo así mir este vector
+45:38
+un igual a y que le vaya preguntando número por número
+45:47
+sea lo guarde dentro del vector
+45:54
+un hasta que ponga la
+46:03
+letra [Música]
+46:14
+este este la letra no s
+46:22
+f después de esto que haga lo
+46:31
+mismo y pregunte por
+46:37
+este números y que no se
+46:44
+detenga hasta llegue al número de números del vector
+46:57
+uno y al final
+47:03
+me imprima en pantalla dos
+47:13
+[Música] cosas
+47:19
+La el producto punto ambos
+47:24
+vectores
+47:30
+Okay
+47:36
+[Música] y un vector
+47:42
+con la suma con un vector una lista AC bueno
+47:49
+por lista la suma de
+48:04
+cada elemento con los
+48:09
+mismos
+48:20
+índices o sea básicamente la función les va a preguntar ente al usuario así algo
+48:28
+tipo Dame un número Dame un número Dame un número Dame un número no y le van a ingresar y le van a ingresar en el
+48:35
+momento en que el usuario mande f en vez de un número ahí se detiene de guardar
+48:40
+el primer o sea números en el vector uno y empieza ahora a preguntar para el
+48:46
+vector dos si no se detiene hasta llegar al número de elementos que tenga el vector uno y después de eso
+48:54
+este como que el producto punto Ah bueno a lo mejor es que el producto punto
+49:01
+chavos imagínense que si ustedes tienen un vector así miren vector uno Imagínate que el usuario haya puesto
+49:07
+34,5 no y en el vector dos tengamos no sé 1 com2 coma este 10 por
+49:18
+ejemplo no el producto punto de un vector con otro
+49:24
+vector este miramos que así no el
+49:30
+producto punto es hacer lo siguiente tú sumas los que tienen el mismo índice
+49:36
+estos dos vectores por ejemplo de estos dos datos no el tres Perdón los multiplicas 3 * 1 no 3 *
+49:47
+1 más 4 * 2
+49:52
+no más 5 por
+50:03
+10 para que tengas algo así por noan todos Dj ponerlo a lo
+50:13
+[Música]
+50:18
+mejor el producto punto es igual a multiplicar no cada elemento con el
+50:24
+mismo índice elementos con el mismo índice y se suman todos al
+50:31
+final esto te daría la sumatoria de ese es el producto punto es una cosa de física de
+50:38
+matemáticas de ciencia de datos y todo eso Pero bueno es a lo mejor no todos lo sabían y no es
+50:45
+así yo creo que ya no les da tiempo está bien digo para que si den ni idea yo
+50:50
+creo este va a ser seguramente un ejercicio Así que vayan haciéndolo de los de la actividad Así que está muy
+50:57
+bueno Y si está difícil porque tienen que usar While for If bre
+51:05
+este listas imprimir funciones básicamente
+51:10
+usas como ocho temas de los que vimos acuérdense como les dije no este primero
+51:17
+es ir aprendiendo los conceptos y ya después ir metiéndole peso aquí imagínense que usted ya le están
+51:23
+empezando a meter peso están empezando terminar como siete ocho temas digo ya no nos dio tiempo pero sí
+51:31
+vayan y pensando cómo se hace y tienen un tiempo libre váyanse haciendo porque pues ya se lo digo este va a ser un
+51:37
+problema de la actividad así que pues vayan pensándolo cómo cómo lo
+51:46
+harían ya Bueno a lo mejor en noric pues podemos ver tantito una ayudita Pero el
+51:53
+punto es que lo intenten hacer chavos porque al final de cuentas en todos estos temas uno tiene que intentarlo
+52:00
+para aprenderlo Okay chavos tengan una pregunta duda antes de
+52:09
+irnos si tengo una duda en las funciones cuando estn haciendo el return es el que
+52:16
+imprime el valor o tenemos que poner que print si te dice si te dice si te dice
+52:23
+imprime en pantalla Cuál crees que sea
+52:28
+Ah no es que habl del anterior o sea aparte de que tienes tu función y tienes el
+52:37
+return que Ah pues mira en esta tamb es Es que
+52:45
+te regresa un resultado ahí debes de combinar no dos no pones print y la
+52:50
+función que hace la calculadora no tú pondrías print calculadora
+52:56
+y los estos y obviamente para que te salga algo en el print en esa función tienes que ponerlo con return retón es
+53:03
+para que ese valor Mira imagínate print Solo te lo muestra en pantalla pero si tú necesitas guardar ese valor print No
+53:10
+te lo va a guardar o sea la diferencia Esa es la diferencia entre el return y el Mira por ejemplo si tú
+53:18
+pones t igual a V a poner una función
+53:24
+no sumar no este x1
+53:31
+x2 bien dos puntos el return no va a ser igual
+53:37
+a este sumar resultado igual a
+53:45
+x1 + x2 no y que esto lo reos cuando tú aplicas el return no tú
+53:53
+si puedes guardar Por ejemplo yo pusiera esto no sé 23 si lo podrías guardar en
+54:00
+un valor no O sea en t por ejemplo t luego lo podías
+54:09
+usar Dj para que se muestre en
+54:16
+pantalla Sí pero mira Entonces algo
+54:24
+parecido con en vez de sumar
+54:31
+restar y vamos a poner menos poner
+54:39
+restar resultado No Okay y aquí en vez de return no pones
+54:46
+return solo
+54:54
+pones va a ser algo
+55:02
+diferente otro valor mira aquí tú sí guardas el valor
+55:10
+porque por ejemplo No aquí cuánto te da la función de dos y 3 lo sumas no cuánto
+55:16
+te da 2 + 3 Cuánto cuánto cinco cinco no y 5 * 2 nos da 10
+55:26
+no Okay per bien edes hacen esto primero
+55:31
+me va a decir esto porque aquí al tú no regresar nada
+55:37
+en la función la función te regresa un valor de tipo n no te regresa el
+55:43
+resultado no te regresa eso te regresa un n Porque si tú no le pones return
+55:51
+algo la función automáticamente en python te regresa un tipo de dato noun no entonces aquí te lo va a poner como
+55:58
+error porque aquí lo que guarda en vez del resultado te lo guarda como noun miren Para que vean antes de print B
+56:07
+vamos a ver qué nos da antes de que colapse miren me regresa un n y no te
+56:14
+regresa el valor como aquí por ejemplo si aquí yo pongo PR
+56:21
+t aquí me regresa el valor c no el return sirve para que te regrese un
+56:26
+valor si no no te regresa nada y hasta suena acuérdense la lógica en inglés return regresar qué me regresa este
+56:34
+resultado esta función de sumar cuando yo la llamo me va a regresar el sumar
+56:41
+resultado verdad si yo no le pongo que me regrese nada pues no me va a regresar nada es el noun acuérdense noun es nada
+56:48
+no entonces aquí esto me regresa nada B guarda el tipo de dato nada y nada por
+56:54
+dos Pues hay un error porque python no aguanta que multipliques un type por un
+57:00
+número no más o menos quedó claro o
+57:07
+no vale No no una pregunta y
+57:15
+después el return se guarda como una variable que después pued cualquier momento te guarda Mira el te regresa un
+57:23
+valor aquí no te está guardando o sea te regresa el c no es el resultado Perdón
+57:30
+en este te regresa el c no es el resultado y ya esto se convierte en un
+57:36
+valor llamado 5 y te lo imprime Mira acuérdense si no están seguro
+57:43
+pregúntele a python
+57:49
+type te regresa que es un int verdad un entero
+57:55
+o sea esto básicamente python agarra llama la función es esto ejecuta el
+58:01
+código no queera sumarlo te regresa el resultado de la suma y ya el resultado
+58:07
+de la suma es un cco y el cco se guarda Aquí sí o no No sé si
+58:16
+sí okay Muy bien pues sí chavos o sea s es diferente el y el print el acuérdense
+58:23
+mucho es la lógica en inglés chavos rón regresar me regresa este valor la
+58:28
+función el otro no más me lo muestra en pantalla pero si tú no le pones que te
+58:33
+regrese algo acuérdense que python tienes que ser muy específico es como es como los que estudian leyes o los que
+58:39
+conocen los abogados los contratos no tienes que ser bien específico En qué
+58:45
+quieres y en qué necesitas y cómo puedes cobrarle a alguien porque si no pues de
+58:51
+eso viven los abogados Bueno o sea le agarran los hoyos legales No pues aquí igual python o sea tienes que ser bien
+58:57
+específico Con qué quieres Si tú quieres que la función te regrese algo le tienes
+59:02
+que poner si no te va a regresar el tipo de dato nada en know
+59:08
+no Okay chavos Pues bueno vayan practicando vayan viendo y vayan
+59:14
+pensándolo Cómo harían este porque este va a venir en la actividad así van a venir algunos van a haer como 8 10
+59:20
+ejercicios Okay chavos pues van a tener tres cu cuatro semanas para hacerlo pero
+59:25
+igual vayan pensando cómo hacerlo vayan viendo los videos vayan pensándolo cómo
+59:30
+lo harían y así chavos pues Bueno nos vemos y cuídense
+59:38
+mucho disponible o

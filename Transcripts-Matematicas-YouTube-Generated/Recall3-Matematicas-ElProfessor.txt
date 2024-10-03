@@ -1,0 +1,510 @@
+0:02
+Okay pues va Mira vamos a hacer tantito y tantito este por ejemplo de la semana
+0:08
+pasada vimos acuérdate lo que eran propiedades trigonométricas el círculo unitario el
+0:15
+teorema de Pitágoras ecuaciones exponenciales y
+0:20
+logarítmicas este división sintética ley de cosenos área y volumen
+0:27
+Mira ley de cosenos podría ser buena la practicamos te acuer la ley de coseno
+0:35
+raa como recíprocas no tanto acuérdate te
+0:41
+acuerdas del teorema de Pitágoras no bien Mira el teorema de Pitágoras es
+0:50
+solo para los triángulos rectángulos verdad si te
+0:56
+acuerdas teorema de Pitágoras es que nosotros podemos aplicar sus
+1:05
+fórmulas en un triángulo rectángulo sin embargo no todos los
+1:10
+triángulos son rectángulos verdad la mayoría no entonces ley de cosenos nos permite o
+1:18
+sea es como una generalización del teorema de Pitágoras
+1:23
+aquí con esta Rafa tú ahora sí puedes sacar lados y
+1:31
+ángulos de cualquier triángulo No importa que no sea un
+1:38
+triángulo rectángulo Cómo es la fórmula mira Son tres Mira las vamos a te voy a dar la
+1:45
+primera y tú vas a ir construyendo las otras a cuadrada es igual a b cuadrada
+1:51
+má c cuadrada menos dos vec coseno de a
+1:58
+ya te voy a explicar acá antes de empezar Mira tenemos por ejemplo este
+2:04
+triángulo el que sea voy a ponerle tres colores diferentes su lados para que
+2:10
+podamos identificar muy
+2:16
+bien muy bien tenemos este triángulo No
+2:21
+Rafa vamos a llamarle al lado Rosa el a al lado verde el b y al lado negro El c
+2:30
+no y Mira vamos a hacerlo aquí para que se vea muy gráfico el B dijimos que era
+2:38
+verde el B dijimos que era
+2:47
+verde Okay el c dijimos que era negro
+2:57
+Sí muy bien y bueno el a dijimos que era Rosa mira estos los lados se ponen con
+3:04
+minúscula y los ángulos se ponen con mayúscula tú el ángulo a en esta ley de
+3:11
+coseno se pone el ángulo que está como contrario o opuesto al lado a
+3:18
+si lo ves No s este a pues su lado opu su ángulo opuesto es este Entonces el B
+3:26
+estaría aquí verdad el ángulo B estaría aquí porque es el opuesto del B verdad
+3:33
+sí sí y el c estaría en el último ángulo no que
+3:39
+sería este muy bien Qué quiere decir a cuadrada quiere decir acuérdate
+3:45
+minúsculas son lados entonces este lado al cuadrado es igual a este lado al
+3:51
+cuadrado B cuadrada más c cuad - 2 * b *
+3:58
+c o sea estos dos lados por el coseno de a este a lo voy a poner rosa para que
+4:06
+tenga tod [Música]
+4:16
+importancia más o menos déjame
+4:21
+ver sí sí veo í
+4:27
+letras vio las letras pero si entiendes no que el lado a es el
+4:35
+rosa y el ángulo a es el ángulo que está opuesto al lado a verdad sí acuérdate si
+4:43
+te lo pongo aquí minúsculas son lados
+4:51
+no y mayúsculas son ángulos
+4:58
+no Sí muy bien Pues mira eso es para el a
+5:05
+te voy a dar ahora la fórmula del b y tú me vas a dar la del C Mira el B vamos a
+5:12
+seguir concordancia es verde no B cuadrado es igual
+5:18
+a al cuadrado más Ay aquí no le puse cuadrado
+5:25
+má c cu no menos
+5:30
+2 a c por
+5:36
+coseno D B sí encuentras más o menos la forma de la Fórmula no O sea sí el lado
+5:45
+los dos lados que nos faltan los elevamos al cuadrado no los dos lados que nos faltan los elevamos al cuadrado
+5:51
+y le le restamos menos estos dos lados el a y el c 2 AC por el coseno del
+5:58
+ángulo que está opuesto verdad Así es como se construye la ley de cosenos nos falta un
+6:05
+último lado Rafa a ver demelo diciendo cómo tú construirías la fórmula de El
+6:12
+c cuadrado ig al
+6:19
+cuadrado má cuadrado muy bien
+6:25
+-2ab muy bien déjame Perdón me pasó el
+6:34
+dos sí coseno c excelente Rafa muy
+6:42
+bien esta es la ley de cosenos así se llama es una generalización del teorema
+6:48
+de Pitágoras quiere decir que este funciona para cualquier triángulo
+6:56
+No sí A diferencia del teorema de Pitágoras que sola para los rectángulos
+7:01
+Okay muy bien ra te acuerdas de por
+7:07
+ejemplo te acuerdas de cómo despejar Sí en general Acuérdate que
+7:15
+tenemos acuer te acuerdas de la jerarquía de operaciones antes de pasar con eso te acuerdas de la jerarquía de
+7:27
+operaciones paréntesis Cuántos niveles muy bien paréntesis Cuál es el segundo nivel
+7:35
+seis exponentes raíz
+7:41
+potencias Cuál es el tercero multiplicación división perfecto
+7:48
+y el último suma y resta muy bien esta
+7:53
+acuérdate que es de aplicar las operaciones no de aplicación
+7:59
+te acuerdas Cómo era en
+8:07
+despejar te acuerdas que quiero sacar Pues mira Sí pero realmente es al
+8:16
+revés el orden de despeje va al revés es como si volteamos
+8:21
+lo pongo así para que veas es como si volteamos la pirámide Qué quiere decir mira tú quieres despejar por ejemplo
+8:27
+aquí el a si te Endo el ángulo a no tienes que
+8:34
+ver todo este cuadro bueno con A qué es lo que está pasando estos están sumando
+8:41
+verdad Ah bueno están tratando de sumarse con este no Entonces si es al
+8:47
+revés quiere decir que lo primero que tenemos que despejar son esos esas verdad y están sumando
+8:55
+Acuérdate cómo pasamos del otro lado con su inversa Qué es lo inverso de
+9:01
+sumar Rest muy bien entonces Mira vamos a hacerlo voy a copiar pegar voy a hacer
+9:08
+todo más chico Chico Ándale y vamos a despejar se refiere a
+9:17
+dejar como una al cuadrado o que se igual a algo final Mira despejar aquí
+9:22
+por ejemplo te piden imagínate en el ejercicio no te dan un triángulo lo vamos a hacer con números te piden
+9:33
+encontrar el ángulo a no te piden encontrar este
+9:42
+ángulo Rafa y te dan imagínate ahorita le ponemos números pero imagínate que te dan los lados A B y C te dan estos tres
+9:51
+lados y tú tienes que encontrar el ángulo a te lo están pidiendo Entonces
+9:57
+vas a tener que despejar no vas a tener hay que dejar solita el ángulo a
+10:02
+verdad Okay cómo lo harías Rafa Mira vamos a
+10:07
+hacerlo vamos a hacerlo uno por uno yo te ayudo con este primero y luego tú vas
+10:13
+a darme los otros Okay muy bien Mira vamos a hacerlo Rafa Mira aquí el al
+10:21
+Mira estoy aquí Eso dijimos que si es el orden al revés primero tenemos que
+10:27
+despejar estos dos verdad y dijimos cómo los pasarías del otro
+10:32
+lado Rafa el B cu ser a cuadr men B cuad muy
+10:44
+bien y qué más el c Cómo pasa menos muy
+10:50
+bien men c cuad muy bien y esto nos queda igual a -2 BC coseno de a no
+11:01
+Okay qué sigue multiplicaciones y divisiones este -2 BC Qué está haciendo
+11:08
+con el coseno de a está multiplicándose entonces cómo lo
+11:15
+pasarías del otro lado
+11:22
+Dj estaría
+11:27
+dividiendo
+11:40
+Perdón muy bien dividiendo No perfecto
+11:46
+entonces sería esto no dividido entre -2 vec sí o no
+11:55
+r sí -2 muy bien vamos a pasarlo
+12:02
+[Música]
+12:08
+acá
+12:15
+Okay okay muy bien Y ahora cómo
+12:20
+despejara a coseno de a Ajá cómo cómo de cómo
+12:28
+despejar a sea porque el a está dentro mande mande Cómo despejo a a al
+12:36
+cuadrado no esta pues o sea el ángulo a poniendo valores a b
+12:42
+c no tanto no Acuérdate Rafa cómo puedes tú despejar Acuérdate que para tú pasar
+12:50
+del otro lado las cosas le aplicas las inversas Cuál es el inverso del coseno
+12:56
+Oh eh del coseno de la men1 exactamente el coseno inverso
+13:02
+verdad no es coseno a la -1 Yo sé que eso está mal que no deberían de ponerlo
+13:07
+pero realmente es el coseno inverso verdad ar Cos el ar Cos
+13:13
+exactamente Entonces nosotros para despejar a no sería que
+13:20
+pusiéramos a es igual el ángulo a pues es arc
+13:25
+Ah Cos claro de todo esto
+13:33
+verdad claro s y así es como tú podrías sacar
+13:40
+cualquier ángulo Si te dan tres lados no O sea si te dan los tres lados del
+13:45
+triángulo tú ya puedes sacar el lado el ángulo a aquí yo ya te ayudé con este primero r
+13:52
+ahora tú vas a Mira te lo voy a dejar de ejercicio
+14:00
+despéjate y déjamelo así como te lo dejé expresado ahora para
+14:05
+el para el ángulo B y C no voy a poner aquí para que los
+14:13
+tengas ahora Rafa por favor okay O sea déjame
+14:24
+expresado el ángulo B no ángulo b y el
+14:30
+ángulo c sí o no Rafa ya te ya te ayudé con el
+14:36
+primero Mira te lo puedo poner aquí no mejor no Inténtalo hacer Inténtalo hacer
+14:41
+sin ver lo otro este Te doy 5 minutos y ahorita me lo envías a WhatsApp
+14:48
+va tú puedes Rafa Inténtalo ya ya hicimos uno es casi lo mismo doy 5
+14:57
+minutos
+18:47
+ya
+18:57
+acabé bien raaste va perfecto
+19:04
+déjame
+19:11
+aquí
+19:27
+mando
+19:38
+bien vamos a
+19:57
+vernos
+20:23
+con la pantalla a veré
+20:35
+[Música]
+20:46
+pues lo que vamos a
+20:53
+ver B cu bien men a cu c cuadrada entre -2 AC
+21:00
+muy bien está perfecto no okay Y cómo harías el del C así
+21:09
+rápido Cómo que el C el ángulo c es que no
+21:18
+piste Ya encontraste Imagínate que ya hayas Ya encontraste el ángulo a en el
+21:25
+pasado aquí pues ya lo tenemos no no Sí Rafa sí tenemos el ángulo a y el
+21:34
+ángulo B porque aquí tú lo sacaste Cómo sacarías el ángulo c el tercer
+21:41
+ángulo c pues haciendo lo mismo pero los dígitos poniéndolo de un lado al otro y
+21:49
+luego después poniéndolo en División y Lu haciéndolo con el Arcos y Lu pues B
+21:54
+es igual a arco Sí pero mira una forma si ya tienes dos ángulos qué es lo que podrías hacer
+22:01
+acuérdate Cuál es la suma de los tres ángulos del
+22:11
+triángulo acu cuando la suma de los tres ángulos de un triángulo O sea a más b +
+22:18
+c los tres ángulos a A cuánto te debe muy bien y si ya tienes a y b yí O
+22:28
+sea sí podrías hacerlo como tú dijiste Obvio o sea si tú usas el esta fórmula y la despejas a fuerza te va a dar el
+22:35
+ángulo c pero pues a veces si ya tienes el ángulo a y el B que es más fácil
+22:40
+despejar todo esto o hacer una resta
+22:45
+ah O sea tú podrías sacar el
+22:51
+c si ya tengo el a y el B puedo hacer eso sí sí Rafa exactamente digo o sea Claro
+22:59
+que sí lo que tú dices también está muy bien O sea tú puedes hacer el c es igual al arc Cos va a ser probablemente de c
+23:08
+cuadrada menos a cuadrada men B cuadrada
+23:15
+entre menos 2 AB Claro que sí y O sea tú
+23:21
+puedes hacer esta sí forma completa pero digo a veces Pues si ya tienes esto no
+23:26
+si ya tienes dos ángulos pues para qué hacer todo este despeje digo lo puedes hacer Claro que sí yo lo que haría ser r
+23:34
+no muy bien Rafa Pues muy bien es ley de cosenos qué podemos repasar mejor Vamos
+23:42
+a repasar la semana pasada antes de empezar con cálculo vamos a mira un
+23:49
+problemita ya okay
+23:55
+Mira digamos que por ejemplo Juan
+24:03
+Pérez
+24:09
+este a Juan pé Juan Pérez
+24:15
+Ah Tengo la letra Ah lo pongo mejor Juan Pérez este qué puede
+24:23
+[Música] ser le dan tres
+24:32
+opciones no para que no nos tardamos tanto nada más dos dos opciones de
+24:38
+tarjeta de
+24:45
+crédito no Okay la primera opción es
+24:56
+este si no paga
+25:02
+en 12 años la deuda
+25:11
+inicial se y otra es dos si
+25:23
+no paga la
+25:29
+deuda inicial
+25:36
+en 10 en 15 años
+25:46
+se quintuplica
+25:52
+and Okay dime qué
+25:59
+tarjeta tiene
+26:05
+menor aquí est lo que tú vas a buscar tasa de
+26:11
+interés Y cuánto tiene cada una y cuánto es la tasa de cada
+26:21
+una Mira esta te puedo ayudar a Cómo iniciar el problema mira
+26:28
+yo así que cuando seas adulto y eso etcétera que tengas que elegir entre
+26:34
+tarjetas de crédito pues digo estas cosas te pueden ayudar de verdad a ahorrarte mucho dinero Ok
+26:42
+Mira Juan le dan dos opciones verdad si no paga en 12 años vamos a construir la
+26:47
+ecuación un y la ecuación dos de los dos casos verdad la ecuación
+26:54
+un acuérdate el interés compuesto verdad te acuerdas el
+27:00
+interés compuesto bajo Qué tipo de ecuación de función se
+27:07
+rige F funciones dije cuadráticas no
+27:16
+exponencial no exponencial Acuérdate cuando tú vas y pides Así que este un préstamo Si tú no
+27:23
+lo pagas se pone exponencial por ejemplo Hay una que se llama prama no sé si alguna vez has visto esta serie
+27:31
+poquísimo pero sí sé un como Cómo sean los personajes bueno es que exactamente
+27:37
+hay un caso o sea por eso te decía porque según uno se queda como congelado 1000 años una cosa así y no le debía al
+27:44
+banco como 5 una cosa así y pues porque la deuda es
+27:49
+exponencial y fueron 1000 años una cosa así que ya debía como 1000 millones de dólares una cosa así
+27:55
+no Qué es lo que pasa digo sí puede pasar una cosa así Si tú no pagas una deuda en mucho tiempo si es interés
+28:03
+compuesto que todos los intereses casi no vas a encontrar un interés simple
+28:09
+casi todos son interés compuesto interés compuesto Qué es el
+28:15
+interés compuesto el interés compuesto Mira es que por ejemplo tú le pides al
+28:22
+banco Mira sabes más o menos Cuál es el porcentaje de las tarjetas de crédito en México
+28:29
+e 20% Ojalá no es más este entre el 35 y
+28:35
+el 40% las tarjetas de crédito en México
+28:40
+están entre el 35 el 40% anual esto es anual Okay Qué quiere decir Rafa Mira
+28:46
+vamos a hacerlo imagínate que tú en tu tarjeta de crédito pediste 1000 pesos no
+28:52
+gestados después de un año Ya esto es 1000 lo vas a multiplicar por uno más el
+29:01
+la tasa no O sea el porcentaje o sea cómo lo hacemos Es el porcentaje que te
+29:07
+dan entre 100 no para sacarlo en decimal lo tenemos que hacer en decimal mir esto
+29:13
+es 1000 los 1000 pesos que pediste no por 1.35 verdad elevado Mira el primer año
+29:23
+Rafa Si tú no pagas nada el primer año no
+29:28
+Qué le pasa esto es como si multiplicaras 1000 por 1.35 verdad y nos
+29:34
+daría 1350 tu deuda ya no es de 1000 tu deuda es de 1350 verdad Rafa
+29:42
+Oh ahora el segundo año Rafa tú un vuelves a pagar y ahora debes lo de 2
+29:49
+años ya no sería 1000 por 1.85 sería 1000 por
+29:56
+1.35 ad porque eso es exponencial Mira la fórmula en este caso sería 1000 por
+30:05
+1.35 a la x no por eso es exponencial tu
+30:11
+base es 1.35 y se está multiplicando por 1000 Qué quiere decir que cada año mande
+30:18
+Perdón Qué bien que no era 1350 por 1.35 cu Ah sí te digo Aquí por eso Hay que
+30:27
+ser bien cuidadoso la verdad cuando pedas préstamos si es interés compuesto y digo Si no tienes para pagar este ten
+30:33
+cuidado porque pues las esto se hacen altísimos entonces a veces terminas pagando exactamente mucho más de lo que
+30:39
+pediste prestado igual si pagas a meses por eso todos los chistes y todos los memes de Electra no de Banco Azteca y
+30:47
+todo eso que piden una cuna pagos y termina pagándola el nieto no
+30:53
+este pues bueno es por eso no porque exactamente los intereses se van muy
+30:59
+altos primero porque la gente no paga y segunda porque están altos o sea entonces este pues como dicen la termina
+31:06
+pagando el nieto muy bien Mira Pobrecito exactamente mira aquí Juan Pérez le dan
+31:13
+dos opciones vamos a armar la primera ecuación dice que si no paga en 12 años
+31:19
+la deuda bueno la deuda inicial se triplica mira deuda inicial vamos a
+31:26
+ponerla como d no se multiplica por el uno más la tasa
+31:32
+Esto es lo que nosotros queremos encontrar la tasa no elevado al t el T es los años Cuántos
+31:43
+años nos dice que son 12 12 no muy bien y esto es igual a
+31:51
+qué dice si no pagas en Do años la deuda inicial se o sea se hace por TR Entonces sería
+31:59
+esto es igual a 3 por deuda inicial verdad Esta es la primera ecuación Rafa
+32:06
+Ya te la di ahora Tú ayúdame a sacar la
+32:14
+segunda Okay la otra sería
+32:22
+sería no pagé significa punto do deuda
+32:29
+inicial deuda inicial d0 significa deuda
+32:35
+inicial y el tres es es el número no Por qué Porque qué dice aquí Rafa si no paga
+32:42
+en 12 años la deuda inicial se Ah okay okay O sea se hace tres veces
+32:50
+la deuda inicial verdad sí Okay entonces 5 deuda inicial
+33:02
+Perfecto es igual a un a la deuda
+33:08
+inicial Ajá más Sí más es igual a deuda
+33:13
+inicial por un por tasa un más tasa
+33:22
+Perdón un más tasa a la 15 excelente
+33:28
+perfecto Rafa aquí ya tienes tú las dos ecuaciones No digo no son sistemas de
+33:33
+ecuaciones no O sea tú tienes que resolver Esta es la tasa uno mira lo voy
+33:38
+a poner diferente color Esta es la tasa uno y esta es la tasa de la opción dos lo voy a poner de diferente color para
+33:44
+que no se confunda son diferentes cantidades no porque son diferentes variables exactamente lo que tú quieres
+33:51
+encontrar Tú lo que quieres encontrar si tasa uno es mayor que
+33:57
+tasa dos no Esa es la pregunta uno que te dice Dime qué tarjeta tiene menor
+34:05
+tasa de interés y la segunda es nada más O sea que me des las dos
+34:10
+no sí Okay Rafa muy bien si quieres verla Inténtalo hacer
+34:20
+ahorita ya se queda poco tiempo 6 minutos pero intenta
+34:28
+Dale Así que Turbo y ahorita vemos en 6 minutos si no pues a lo mejor mañana te
+34:33
+lo resuelvo Okay está
+34:40
+bien

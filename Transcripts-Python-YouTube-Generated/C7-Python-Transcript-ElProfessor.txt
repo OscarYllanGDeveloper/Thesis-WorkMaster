@@ -1,0 +1,804 @@
+0:02
+Okay okay acuérdense no que esto de las funciones tiene los argumentos Eso es
+0:08
+para poner valores por default en los argumentos por si el usuario no los pusiera y para que no explote el código
+0:15
+muy bien acuérdense de importar las librerías import con el nombre de la librería acuérdense que el As significa
+0:22
+que le cambiamos el nombre en vez de n le ponemos np por ejemplo estas son
+0:27
+convencionalismos okay acuérdense en los vectores por ejemplo esta función de numpy np pun arrange nos da un vector
+0:36
+acuérdense que en python empezamos a contar desde el cer0 y nos quedamos hasta n - 1 que en este caso n es 10
+0:43
+verdad Okay aquí el límite inferior 10 aquí no el límite superior que es este
+0:50
+es este bueno -1 verdad en vez de ser 20 es 16 lo que estábamos diciendo acuérdense que también podemos poner el
+0:57
+límite inferior el límite superior Y de cuánto en cuánto lo queremos Con esta
+1:03
+función de np pun arrange antes de obviamente de poder usar las funciones de numpy tenemos que importar las
+1:10
+librerías porque no están por default los tenemos que importar acuérdense que el c for tiene
+1:18
+esto que se llama variable de iteración la variable de iteración va a tomar cada uno de los valores del arrego este Range
+1:26
+nos da un vector desde el uno hasta el número de pisos hasta el número de pisos
+1:32
+porque acuérdense que es -1 pero -1 y +1 nos da c no Entonces desde el 1 hasta el
+1:37
+número de pisos que aquí el usuario Define verdad con la función acuérdense que ya lo hemos visto muchas veces el
+1:43
+input y acuérdense el in es para convertir este número porque acuérdense que la función de input nos da letras
+1:51
+nos da strings tipos de dato String y este lo convierte a enteros porque lo
+1:56
+necesitamos en enteros para que la función de Range lo reconozca como bien acuérdense del del print con formato que
+2:04
+es poner F luego las comillas no y acuérdense que para poner las variables
+2:09
+dentro del print bueno de las letras Perdón es con las
+2:15
+llaves ponemos el nombre de la variable Okay acuérdense que así lo hacemos Okay
+2:22
+miren este por ejemplo este Ah bueno este era un caso que les demuestro por ejemplo el
+2:30
+También sirve para agarrar cada uno de los elementos de un de una rey por
+2:37
+ejemplo aquí si tú pones este una palabra por ejemplo la palabra te la va
+2:43
+a ir dividiendo Letra por letra Ok Muy bien eso es muy interesante
+2:51
+python porque acuérdense que dijimos que si no lo hemos dicho lo digo ahorita las palabras son una
+2:58
+lista entonces lo que hace el es ir por cada elemento de la
+3:04
+lista o sea este Lena es equivalente lo vo a poner pero es como si tuviéramos
+3:10
+esto tuviéramos una lista que dijera e l e n a es equivalente o sea nosotros
+3:19
+escribir el Elena no
+3:25
+es son equivalentes porque python maneja los
+3:30
+como listas entonces es por eso que cuando tú pones un nombre aquí te lo va
+3:35
+a ir Cómo se llama Letra por letra te lo va a ir imprimiendo Letra por letra est es conveniente Cuando tenemos archivos
+3:41
+de tipo texto en vez de ir Letra por letra te puede ir palabra por palabra y
+3:47
+est es conveniente porque podemos así analizar textos por ejemplo un libro podemos contar Cuántas veces aparece un
+3:54
+personaje o en un contrato exactamente podemos contar Cuántas veces y en dónde
+3:59
+se encuentra ciertas palabras el poder de python también es eso analizar textos
+4:04
+podemos analizar textos desde muy grandes lo cual es muy interesante por ejemplo transcripciones de películas una
+4:11
+o sea las las películas No si tenemos el scpt de una película este o de un video
+4:18
+con esto podemos localizar En qué minuto Cuántas palabras en qué parte está
+4:23
+abando de qué en vez de ver toda la película A lo mejor si tenemos el transcript de la película con esto el
+4:29
+cic for Se puede localizar En qué minuto este Qué palabra es lo que estamos
+4:35
+buscando no en vez de chutar noos 2s horas pues python lo puede hacer en segundos Okay muy bien
+4:44
+este Okay muy bien Por ejemplo acuérdense que vimos lo de las tablas no
+4:50
+Okay acuérdense que hicimos lo de n no
+4:55
+etcétera no las tabas este todo hacerlo cambiante etcétera y Okay bien chavos
+5:04
+este vamos a ver tantito el tema y ahorita vamos a practicar hay que acordarnos que vimos lo de recursión
+5:11
+este no sé si a ver alguien que me quiera definir Qué es recursión que me diga que que se acuerda de que que es
+5:18
+recursión
+5:25
+es cuando se multiplicaban todos los números previos verdad ent sí o sea Ahí
+5:30
+vas de un hacia atrás Ese es factorial no eh Acuérdate que recursión o sea
+5:36
+recursión sirve para hacer un factorial pero acuérdate que el recursión es usar
+5:42
+Mira esto te das cuenta de esto que es igual a esto no nada más es el os1 es
+5:49
+Llamar a la función o sea Llamar a sí misma la función se llama a sí misma
+5:55
+pero con un problema Un poco menor porque acuérdense mira acuérdense que el factorial Por ejemplo si empezábamos con
+6:02
+ocho no factorial de 8o la primera vez lo que hace es factorial de 8o después
+6:09
+la llamamos a sí misma para que nos dé el factorial de si porque acuérdate que
+6:15
+vimos no por ejemplo para factorial 8 por factorial de 7 es igual al factorial
+6:22
+de 8 no si se acuerdan de eso
+6:28
+no sí chavos sí o si no lo volvemos a ver pero
+6:35
+díganme si se acuerdan
+6:41
+o acuérdense que era esto no 8 * 7 * 6 *
+6:48
+5 * 4 * 3 * 2 y por un
+6:53
+no acuérdense que el factorial de 7 Pues sería todo esto verdad entonces
+6:59
+acuérdense que el recursión es irlo haciendo más chico no sea es ir resolviendo el problema ahora el
+7:05
+factorial de 7 no factorial de 7 es igual 7 por el
+7:16
+factorial de 6 no y así lo vamos haciendo O sea esta
+7:23
+función se llama aí misma pero vamos disminuyendo el número empezamos con 8 8
+7:30
+un 7 no luego se luego 5 así hasta llegar al caso base o caso de salida la
+7:37
+condición de salida que es esta no que es con un If se hace por lo general con un If No cuando el número llegue igual a
+7:44
+un que nos regrese la función un Bueno aquí ya sabemos o
+7:51
+sea punto punto punto hasta que llegamos al factorial de un
+7:58
+no no el factorial un esto por definición
+8:04
+es uno entonces o sea nosotros fuimos bajando la escalerita hasta abajo una
+8:10
+vez que ya encontramos esto Ahora vamos hacia arriba no hasta que encontramos el factorial de 8 Así es como se resuelve
+8:18
+lo que se le llama recursión también lo podemos hacer para otros casos como la ha ser de fibonacci por
+8:24
+ejemplo no que es ir sumando estos dos están por definición y ya después Este
+8:30
+es la suma de estos dos no Ok Muy bien Y así lo vamos
+8:38
+haciendo estas dos son las condiciones base no el c y el un Cuando tenemos esto
+8:45
+quitamos los dos porque aquí la llamamos dos veces con n - 1 y con n - 2 no
+8:52
+Okay entonces esto también se va haciendo así de manera recursiva No se
+8:58
+preocupen Así que recursión es una cosa que tarda tiempo en que lo entiendan pero nada más para que lo vayan viendo
+9:04
+vayan viendo el código traten de entenderlo Qué hace cada cosa aquí ya dijimos que son las condiciones de
+9:10
+salida o las condiciones también base también se le llama condición base
+9:15
+este Okay muy bien acuérdense Cómo llamamos
+9:22
+funciones Cómo llamamos funciones con el nombre de la función con paréntesis y los
+9:27
+argumentos muy bien la función lambda miren Esto sí ya es un poquito nueve Este lambda es un tipo de
+9:36
+función bien Es una función de una sola línea nos permite esta función por
+9:42
+ejemplo de multiplicar a por B lo podemos hacer con lambda lambda nos
+9:48
+permite hacer una función de una sola línea y como dice Aquí mir vamos a ver lo que dice lambda Esta es una palabra
+9:56
+clave no de las palabras reservadas lambda los argumentos dice One or multiple arguments no separados por
+10:04
+coma dos puntos y la expresión o sea lo que va a ser nuestra función en python
+10:12
+eso es lo que va a hac no o sea esto es equivalente esta línea
+10:18
+es equivalente a esta a estas dos líneas dig no es muy necesario ustedes
+10:24
+siempre pueden usar funciones pero si se les ocurre usar lambda pues es ahí para que sepan que es este pero son
+10:31
+equivalentes no este Bueno aquí 5 * 8 40 4 * 5 20
+10:38
+verdad Okay lo coren acuérdense que esto depende de la velocidad de su internet y
+10:45
+de Google los servidores Okay por ejemplo no si nos da 40 muy bien Vamos a
+10:51
+ver un poco de algo muy importante que se llaman estructuras de datos las estructuras de datos acuérdense que
+10:56
+dijimos lo que eran las listas las listas se empiezan con qué con corchetes
+11:03
+no acuérdense que es con corchetes y sus
+11:09
+elementos y sus elementos separados por coma
+11:18
+no Así es chavos corchetes y sus elementos separados por comas
+11:25
+no acuérdense que en una lista puede tener diferentes tipos de datos en python a ver alguien que me diga qué
+11:32
+tipo de dato es este
+11:40
+alguien in muy bien in verdad este ro Road
+11:49
+perfecto este String y booleano no y booleano a
+11:56
+muy bien esos son verdad Okay entonces acuérdense Esta es una lista que
+12:02
+contiene estos cuatro elementos hay métodos en las listas y hay funciones por ejemplo una función
+12:09
+que es muy útil en python Bueno voy a correrla es si nosotros queremos saber
+12:16
+cuántos elementos tiene una lista o un topol o un diccionario etcétera o una
+12:22
+palabra también Cuántas letras tiene se puede usar con la función len y miren
+12:27
+aquí dice n regresa el número de elementos en un
+12:34
+contenedor por ejemplo un contenedor es una lista si nosotros ponemos esto nos
+12:39
+va a salir cuatro no tiene cuatro elementos
+12:45
+verdad Ok y las listas Miren esta es una
+12:50
+lista de números que se llama my que este 1
+12:57
+no existen lo que se le llaman métodos un método lo vamos a ver más cuando
+13:03
+veamos lo de programación orent objetos pero un método es una
+13:09
+función aplicada para
+13:14
+un un cierto tipo de que hace luego vamos a ver qué signica eso cuando nosotros definimos que haces
+13:22
+si ponemos una función dentro de una quease se le llama método los métodos se
+13:28
+ponen con el nombre del objeto o sea un puede ser una lista una palabra un
+13:33
+número dependiendo punto y se pone se escribe como la
+13:38
+función no el nombre del método paréntesis y sus argumentos Aquí está
+13:45
+por ejemplo este agrega un elemento al final de la lista o sea por ejemplo si
+13:50
+aquí le pongo dos me va a mandar dos no al final bueno acuérdense 3 4 1 59 y
+13:56
+aquí me pone el dos okay remove me quita en la primera vez que aparece un
+14:02
+elemento no aparece el elemento uno por ejemplo Aquí está dos veces no más me va
+14:08
+a quitar este primer uno el otro no este es el método remove el método
+14:16
+apent Okay el método Index me va a regresar el índice del del primer
+14:23
+elemento si hubiera más cinco nada más me regresaría este que a ver qué índice tiene el que estoy subrayando
+14:32
+chavos
+14:38
+alguien Cuál es el índice chavos Ya lo hemos dicho cómo contamos en los
+14:44
+arrays en las listas Cómo contamos los vectores en python
+14:49
+eh el índice tres el tres verdad sería tres TR y el
+14:57
+tres Y el dos y el TR y el tres y el número tres es el índice cero Sí muy
+15:04
+bien perfecto y este cuál sería por ejemplo chavos cinco cinco verdad Muy bien
+15:12
+cuatro cinco verdad Muy bien Carlos muy bien sería el cinco verdad porque acuérdense que empezamos del 0 1 2 3 4 5
+15:20
+no muy bien Esto es lo que hace la el método de índice esto nos va a servir
+15:26
+para luego vamos a ver por ejemplo para localizar números en una lista para poder localizar palabras para poder
+15:33
+localizar cosas así nos va a servir mucho para eso okay el count nos cuenta
+15:40
+cuántas veces aparece por ejemplo un número no si tenemos una lista de muchos
+15:46
+números este me va a contar Cuántas veces aparece este elemento en la lista
+15:52
+sort Pues bueno acuérdense que muchos de estos les dije que entre más sepan inglés es mejor porque el s lo que hace
+16:00
+es ordenar va a ordenar los valores verdad las los números empezamos No
+16:07
+desde el menor hasta el mayor muy bien y la bueno reverse que significa reversa
+16:14
+no te va a invertir los el orden si tu primer número Era uno y el último eraa
+16:20
+nueve pues mir o sea se pone al revés esto sirve por ejemplo para encontrar palomos para encontrar este varias cosas
+16:26
+si son la misma lista más que al revés etcétera Okay y bueno eso estuvo bien
+16:33
+pero vamos a empezar a practicar un poco no este
+16:41
+Okay por ejemplo Déjenme ver que estará bueno que
+16:48
+practiquemos bueno no hemos practicado mucho el ciclo cor
+16:54
+este Okay vamos a hacerlo aquí un poco el p for tiene varios usos
+17:04
+no Okay este por
+17:11
+ejemplo este no sé si Bueno si algunos han llevado física
+17:16
+no vamos a hacer el producto punto el producto punto sirve por ejemplo para
+17:24
+aplicar el cic for el producto es cuando tú tienes por ejemplo así una
+17:32
+lista de valores no numéricos que son dos
+17:37
+vectores y el producto punto No ahí no me salió como punto el producto punto
+17:44
+sería como lo que hace el producto punto es multiplicar cada elemento por ejemplo el
+17:51
+primer elemento con el primer elemento no y se suman el primero con el segundo
+17:57
+con el segundo y sí bien gráficamente esto se vería así 1 * 5 + 2 por este 6
+18:08
+no más 3 * 7 +
+18:15
+4 * 8 okay antes de empezar miren saben
+18:23
+ustedes por ejemplo si tengo una lista Así esta lista la de 1 com 2 3 4
+18:29
+Cómo podríamos acceder vamos a llamarla lista
+18:34
+uno Alguien sabe o bueno bien si no saben ahorita se los enseño Cómo podemos
+18:40
+acceder a los elementos se puede acceder de la siguiente manera nosotros ponemos
+18:47
+corchetes y dentro de los corchetes nosotros ponemos el índice del elemento que queremos Por ejemplo si queremos
+18:54
+este si quiero el último cuál pondría
+19:03
+índice pondría alguien
+19:13
+chavos el tres cuál el tres muy bien el tres
+19:20
+verdad mir vamos a comprobarlo a ver si es cierto que esto depende internet
+19:29
+muy bien Mira si tú le pones el índice TR te regresa el número cuatro verdad muy bien
+19:38
+lo podemos cambiar para que vean que o sea este si queremos sacar el Juan pu
+19:46
+Entonces sería el cu no por ejemplo un tuco en python
+19:52
+también si Queremos saber el último elemento de una lista también se puede poner despés sol lo funciona para el
+19:59
+último -1 porque Bueno si este era el cer0 el os1 Entonces se regresa y es el
+20:05
+último elemento de la lista no miren este es un truco también de python
+20:13
+si tú pones men1 te va a dar el último elemento de la lista Okay eso recuérdenlo son trucos
+20:21
+acuérdense que todo en python y todo en programación son herramientas entonces tienen que ir aprendiendo no trucos
+20:28
+etcétera como lo que dijimos si Queremos saber el tamaño de una lista ponemos len
+20:34
+que pues significa len no el tamaño de una lista de un topol aquí dice r n of
+20:40
+item sin a container no a veces python te ayuda Pero acuérdense que todo esto está en inglés entonces sí es importante
+20:46
+que sepan inglés okay Por ejemplo aquí me va a
+20:52
+decir el número de elementos de la lista no que tendría que ser cinco muy bien okay AC bien este me da el último
+21:02
+elemento en un contenedor un contenedor puede ser
+21:10
+lista to no set strings
+21:19
+etcétera Ok Muy bien Y este es una
+21:24
+función no en python predeterminada O sea que ya está que me
+21:33
+dice el tamaño igual de un contenedor no o el número de elementos el número de
+21:41
+elementos de un
+21:47
+contenedor Okay Estos son cosas que tienen que ir aprendiendo no Para que vean este para que sepan ustedes Cómo
+21:55
+manejar listas también esto puede ser muy útil este para manejar matrices
+22:01
+porque una matriz Cómo se vería este por ejemplo Miren la forma más recomendable de hacer matrices es con npai Pero bueno
+22:10
+igual este como npai etcétera se vería algo así bien matriz
+22:16
+uno bueno matriz vo a poner así si quieren una
+22:22
+cuadrada una de 2 por 3 no coma
+22:31
+45,6 okay Y si
+22:36
+queremos imprimirla por ejemplo no a ver qué dice Ah le puse dos comas
+22:45
+Perdón acuérdense que cada elemento tiene que estar separado por una sola coma bien bueno Esto realmente es una
+22:52
+matriz aquí no te lo pone muy O sea no te lo muestra bien python pero realmente esto es una matriz es ser una matriz de
+22:59
+2 por TR o sea dos filas y tres columnas Okay muy bien Por ejemplo creo
+23:06
+que a lo mejor enp si lo pones enp Déjenme ver si si jala y así s lo
+23:17
+pone python como debería Ah bueno es que no bien cuando pasa esto a veces es
+23:22
+porque ustedes todavía no han importado la librería o sea acuérdense que tienen que ponerle al código correro o sea
+23:28
+import npai as np por ejemplo Okay mira aquí ya me lo muestra
+23:34
+como realmente es en el otro también era pero no me lo mostraba Cómo era o sea aquí me está mostrando una matriz de dos
+23:42
+filas por tres columnas muy bien Estas son las listas etcétera Okay a ver
+23:50
+chavos sin ver el previo traten de hacer ustedes lo que habíamos hecho de las tablas de
+23:56
+multiplicar acuérdense les va a dar 5 minutos para que lo intenten hacer no un
+24:03
+Bueno un programa no que le voy a poner un
+24:09
+texto Okay le pregunte al
+24:18
+usuario que
+24:24
+este t de multiplicar quier
+24:31
+y me la rev
+24:37
+Noa imprima por ejemplo no tipo 1 por 1
+24:43
+es ig 1 y así no vaya 2 por bueno 1 por
+24:50
+2 ig a 2 y así
+24:56
+no intenten hacerlo chavos les doy 5 minutos acuérdense que esto se hace con
+25:02
+el psio for intenten hacerlo
+25:26
+chavos
+30:35
+e chavos este alguien que lo haya terminado que quiera compartir su
+30:42
+pantalla yo he terminado a ver por favor [Música]
+30:49
+muéstralo pero Okay
+30:56
+ya
+31:05
+tamb me inclu del Pero bueno as es como
+31:12
+funciona por ejemplo cómo quitarías el cero se te ocurre de alguna manera Cómo quitar
+31:20
+eler Acuérdate que si pones solo un argumento en el r te da el límite
+31:26
+superior pones el primero ponle en donde tienes del R por ejemplo Es
+31:33
+que es que ya vi que se quit
+31:38
+el estoy
+31:44
+marcando hasta el no hasta el 10 No mira este aquí en donde está el
+31:53
+Range vete ahí pon ahí por favor en el 10 ahí o sea atrás del 10 aquí
+32:03
+justo aquí Ok ponle este
+32:09
+uno Pon uno coma OK ahora Inténtalo
+32:17
+no pero no deja el 10 porque la competas muy
+32:26
+bien ya no te das
+32:32
+cuenta es que es que primero el código el código de
+32:39
+acá AC
+32:49
+para muy bien muy bien Te salió muy bieno va Gracias Ah alguien que también
+32:57
+haya este hecho o intentado hacer aunque no le haya salido pero que quiera corregir su
+33:12
+código si quieres muéstralo por favor O sea lo importante es que si no le salió Pues ahorita lo arreglamos pero que sí
+33:20
+vayamos avanzando Solo que le puse este en lugar
+33:26
+de de 1,10 + 1 1,1 es lo mismo No Ah sí Este sí es lo mismo
+33:34
+No muy bien O sea pues se le pone el número de
+33:44
+la Ponle el que quieras perfecto Muy bien excelente muy
+33:51
+bien sago muy bien Santi Okay perfecto Gracias alguien más que quiera enseñar o
+33:58
+compartir el código de verdad chavos los que no han participado Pues inténtenlo sí yo yo no sé en quén me equivoqué
+34:06
+ahorita puedo compartir pantalla para que sí por favor [Música]
+34:18
+s se ahí se ve profe sí okay Bueno aquí tengo el ejemplo a la izquierda en el
+34:25
+que me basé el que tenemos en en el chich puse pues el texto de usuario que
+34:31
+es lo que pondría que es que qué tabla de multiplicar que realizar le puse el
+34:37
+for del número dentro del Rango Ah mira Esto es lo que te faltó el print
+34:45
+debe de estar dentro del for está dentro del for Ah no no tiene la entación no
+34:51
+tiene la entación verdad era con Cómo se dice con este
+34:59
+verdad con t Sí ahí está Muchas gracias prof de nada
+35:06
+sí acuérdense que es muy importante lo de la entación porque si no python no lo toma como que está dentro del código
+35:12
+entonces este o sea lo toma como que está fuera del for y no más lo va a correr una sola vez porque solo una vez
+35:17
+lo estás llamando Acuérdense que los picos sirve Exactamente para llamar funciones o para llamar cosas muchas
+35:23
+veces para que no tengas que hacer lo que se llama hard code de poner un por 2s por TR o sea el c for lo hace
+35:31
+automáticamente Pues muy bien chavos Déjenme ver otro ejemplo otro ejercicio
+35:36
+que puede ser mir está un poco más difícil pero
+35:42
+Vamos a intentarlo este
+35:48
+bueno por ejemplo vamos a hacer el factorial
+35:55
+ahora pero con un for en vez de con recursión
+36:06
+Ok V a hacer el factorial con un for ch aquí no la instrucción es es
+36:15
+este el
+36:21
+usuario el programa le preguntará al usuario
+36:32
+el factorial de un qué factorial quieres
+36:42
+acar Okay y pues bueno va a mostrar en
+36:54
+pantalla tutorial no resultado
+37:05
+del Okay chavos tienen 4 minutos para este me creo que no Estoy compartiendo
+37:10
+pantalla Okay este muy bien tienen 4 minutos para
+37:25
+este
+41:05
+Okay chavos cómo
+41:12
+van acuérdense que el factorial no es multiplicar todos los números previos n
+41:21
+no hacer el n por n men 1 no
+41:29
+por n - 2 y
+41:37
+así hasta llegar hasta llegar a un
+41:49
+no okay quién lo pudo hacer chavos o a ver cómo lo intentaron aunque sea
+42:14
+alguien chavos que ha intentado lo está intentando con el c
+42:25
+for
+42:42
+no chavos aunque sean equivocados no hay problema digo aunque lo hayan intentado está bien alguien que muestre su
+42:55
+código
+43:09
+no lo empiezo a hacer pero más importante es que ustedes
+43:22
+practiquen si quiere Comparto el mío para que vean yo me equivoqué mientras
+43:27
+muy bien por Está bien a ver todavía no lo acababa el s ya
+43:37
+tenía lo estaba corrigiendo la indentación Y eso pero mientras para que pues vean vea más o menos lo que
+43:43
+llevo Mira aquí el error que veo rápido es
+43:52
+esto este porque bueno acuérdense O sea no no no traten de copiar chavos no o sea esto Más que nada porque acuérdense
+44:00
+que estaba pidiendo el factorial pero con un for Loop no con recursión esto es
+44:06
+con recursión y era usar los cicos no se acuerdan el cic for no es bueno Esto es
+44:14
+el ahora sí que recursión era más usar este el
+44:25
+p
+44:42
+muy bien Por ejemplo Cómo a ver cómo iniciarías con el for no quies verlo poniendo voy guiando
+44:51
+luego sigue la variable de recursión que tú le puedes poner Cualquier nombre ponle número si
+44:57
+quieres in acuérdate luego del for variable de recursión luego sigue
+45:03
+espacio después del número después del número sigue espacio in in
+45:11
+no no in nada más in in muy bien espacio
+45:16
+y ahí pondrías el la función Range No la que se usa en el for Loop no okay Y pues
+45:25
+el que sería no sería el número del factorial no el que te puso el
+45:42
+usuario Okay más uno no porque acuérdate para que llegue hasta el factorial Y eso
+45:49
+está muy bien Nada más que aquí Me faltó antes del número del factorial aquí tienes que poner el límite inferior que
+45:56
+sería uno verdad por ejemplo uno coma a muy bien y aquí en el for qué sigue
+46:01
+exactamente qué sigue ahí no no no ve como en el for que qué
+46:07
+es lo que siempre ponemos muy bien los dos puntos verdad
+46:13
+acuérdense que indica entonces okay Y ahí cómo lo haríamos chavos por
+46:22
+ejemplo acuérdate que el número lo que va a hacer Es que este número va a
+46:27
+agarrar cada uno de los valores de aquí el Range lo que va a hacer por ejemplo si le Pon cinco va a ser uno luego va a
+46:35
+ser dos luego va a ser tres no luego va a ser cuatro etcétera cco hasta llegar
+46:41
+el cco por ejemplo no eso es lo que va a hacer entonces tú lo que necesitas es
+46:47
+multiplicar no lo que vas a hacer es multiplicar cada uno de estos este con este este con este este con este y este
+46:54
+con esto e ir guardando los valores no este número se va a convertir en cada uno de estos pero necesitas irlos
+47:01
+guardando cómo lo puedes ir guardando por ejemplo aquí no no en esta parte
+47:09
+este puedes poner por ejemplo factorial no si Pon si quieres factorial muy bien
+47:16
+Igual ponle igual no y ahí puedes hacer la
+47:22
+multiplicación que básicamente es multiplicar el anterior que era el factorial un no O sea vuélvelo a poner
+47:28
+así como factorial un por el número no que es el
+47:39
+actual Okay esto nada más que la única cosa antes de empezar el for por ejemplo
+47:46
+ponte aquí ponte aquí Pon enter Okay muy bien Ahí vas a tener que
+47:54
+definir factorial
+48:00
+1 igual a uno por
+48:06
+ejemplo empezamos porque acuérdense empezamos del uno para que no caiga ruido porque si no va va a ver el ruido
+48:12
+de que que o sea que no lo has definido te va a decir okay muy
+48:19
+bien muy bien y bueno te va a faltar al
+48:27
+final de aquí hasta el final no pues nada más imprime imprime el factorial
+48:41
+no muy bien a ver corro el código a ver si no
+48:47
+nos [Música] equivocamos ahí pone el factorial que
+48:52
+quieras Ah mir muy bien j aquí escala otro
+49:03
+número muy bien perfecto ya funciona muy bien bien la lógica mir quieres déjalo
+49:10
+tantito n más para que explique la la lógica no es que este número va
+49:16
+agarrando acuérdense cada uno de los valores no que dijimos por ejemplo que era 1 2 3 4 5 no
+49:27
+aquí python va a agarrar por ejemplo la primera vez el número uno va a valer uno y ya habíamos dicho que el factorial
+49:33
+valía un entonces lo que va a hacer aquí python en esta línea lo que hace es 1 por 1 nos da 1 y este uno se guarda en
+49:44
+el factorial no y vuelve el ciclo Okay vuelve el cico verdad pero
+49:51
+este factorial ya vale uno pero ahora el número este número va al segundo elemento acuérdense que dijimos que era
+49:56
+1 com 2 com3 el segundo elemento es 2 no Ahora va a ser 1 por 2 nos va a dar dos
+50:06
+verdad Okay de nuevo el dos va para acá verdad Okay entonces este el factorial
+50:14
+de un va a valer 2 ahora ahora vamos de Nuevo 2 por el número ahora se va al
+50:20
+tercer elemento Verdad que es TR entonces va a ser 2 * 3 igual a 6 y así
+50:27
+va a ir haciendo en cada una de las repeticiones chavos eso es lo que va
+50:32
+haciendo el factorial este bueno con el for Loop es un poco más sencillo Miren
+50:39
+la verdad es que es más eficiente Hacerlo con un for Loop que hacerlo con una recursión cuando veamos un poco de
+50:45
+eficiencia en los algoritmos o sea se enseña es o sea el factorial se usa
+50:52
+en recursión porque es una manera fácil de enseñarlo pero realmente Por ejemplo si tienen que hacerlo es mejor usar el
+50:59
+for Loop y todavía hay otra forma mejor que es usando numpy porque npai es una
+51:04
+librería no que está más optimizada pero esto es para que vayan aprendiendo más o
+51:10
+menos como algunas funciones Y cómo pueden usar el for etcétera más o menos s están entendiendo Cómo funciona el for
+51:16
+Loop en python o no digo si no díganme para ver
+51:23
+si lo puedo explicar de otra manera Pues ahorita lo que yo entendí Es que
+51:30
+cuando le ponemos el for que pues es un Loop se va repitiendo esa acción hasta
+51:36
+que llega como se dice pues hasta como que se va guardando la información Se va
+51:43
+repitiendo hasta Digamos como que el número que nosotros le dimos que en este caso era el
+51:49
+o mira este for Loop lo que hace lo voy a mostrar este for Loop
+51:55
+este Range el Range no te va a dar por ejemplo si es oo si quies hasta el
+52:11
+8o Okay te va a dar esta lista el Range es
+52:17
+equivalente a esta lista no Okay la variable de iteración que es la que está
+52:23
+justo después del no el
+52:29
+número va a ir cada en cada iteración va a cambiar de valor la primera iteración
+52:35
+va a valer uno luego va a valer dos luego va a valer tres luego va a valer
+52:41
+cuatro luego va a valer cinco y así hasta llegar al ocho no Y cuántas veces va a repetirse el ciclo Pues en la
+52:48
+longitud de este vector que son ocho elementos Entonces el for Loop se va a
+52:54
+repetir ocho veces verdad Y esta variable de iteración nos sirve porque
+53:00
+va cambiando bueno va agarrando cada uno de los valores en la lista no entonces
+53:06
+por eso te decía la primera vez en la iteración uno iteración significa número de vuelas lo quieres oír en en algo muy
+53:13
+común en palabras muy mundanas iteración es como la vuelta no O la ves la vuelta
+53:20
+no la iteración Okay entonces en la iteración número uno verdad el número
+53:26
+cuánto vale a ver quién me dice en la interacción número en la uno cuánto vale
+53:33
+número alguien chavos no cuánto
+53:41
+vale Uno no Uno no es el primer elemento acuérdense en la primera iteración
+53:48
+agarra el primer elemento en la segunda iteración agarra el segundo elemento en
+53:53
+la tercera el tercer elemento y así entonces en la primera iteración número que es la variable este de iteración así
+54:00
+se llama variable de
+54:08
+iteración iteración acuérdense iteración es como
+54:13
+decir número de vuelta no Okay la variable de iteración entonces
+54:19
+acuérdense para la primera vez vale el primer valor para la segunda vez vale el segundo para el tercero el tercero el
+54:24
+cuarto el cuarto no este etcétera Y entonces este nos sirve porque el
+54:31
+factorial de uno primero dijimos que valía 1 se multiplica por el número no
+54:36
+que en este caso es 1 1 * 1 nos da 1 en la segunda Esa es la primera iteración en la segunda iteración lo que hace
+54:44
+es ya vale Bueno ya vale uno y el número vale 2 entonces es 1 * 2
+54:53
+2 en la tercera iteración me lo voy a poner para acá Porque lo voy a poner acá
+54:58
+la tercera iteración es vale dos y el
+55:03
+número la variable de iteración vale tres verdad Entonces esto nos da 2 * 3 6
+55:11
+no y así nos va dando cada uno de
+55:16
+estos Okay muy bien Pues así es chavos o sea es
+55:24
+cuestión de practicar un poco el for Loop no este los cicos este el punto es
+55:31
+que entiendan que el for las cuatro partes de la primera línea es for que es la palabra reservada
+55:38
+luego la variable de iteración luego sigue el In N no Range o sea te da un
+55:46
+Rango de números que tú lo defines no acuérdense que el primer elemento si pone los tres elementos que puede tener
+55:52
+los tres argumentos el primero es el límite anterior el segundo es el límite superior y el tercero es el Step no Okay
+56:01
+muy bien así es como pueden hacer este factoriales acuérdense es ir agarrando
+56:07
+la lógica es ir practicando es ir leyendo también Ah tienen la oportunidad de picarle de que el for Loop en
+56:13
+internet también les puede dar muchas guías etcétera chavos pues bueno ya bí
+56:20
+que se acabó la clase y nos vemos el lunes chavos Ahí si pueden vayan
+56:28
+practicando el fin de semana los ejercicios que están ahí en discussion y en recall traten de entenderlos o traten
+56:33
+de ver el código si todavía no lo entienden vean las grabaciones de las que haces traten de hacer notas traten
+56:40
+de practicar ustedes a escribir el código al menos transcribirlo lo que sea y traten de ver traten de agarrarle
+56:47
+sentido al código chavos Okay pues Bueno nos vemos y
+56:55
+tengan buen fin de semana chavos Gracias
+57:01
+igualmente

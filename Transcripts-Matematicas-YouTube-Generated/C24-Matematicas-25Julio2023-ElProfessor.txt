@@ -1,0 +1,532 @@
+0:02
+Okay chavos pues acuérdense que hemos estado viendo verdad lo de cálculo diferencial y ahora bueno pase dos
+0:07
+semanas ahora vamos a ver lo de cálculo integral que es la continuación muy bien Hay que acordarnos antes de empezar
+0:14
+rápido con cálculo integral vamos a ver un poquito de lo que vimos de cálculo diferencial para aplicarnos acordarnos de todo esto
+0:20
+verdad vamos a verlo rápido acuérdense todo lo que vimos hace dos semanas
+0:26
+acuérdense Bueno ya habíamos visto antes no todo lo de este precálculo verdad
+0:32
+exponenciales logarítmicas prop de los logaritmos acu que habíamos visto en aritmética leyes de los exponentes que
+0:37
+lo seguimos viendo en cálculo diferencial e integral aunque no lo crean álgebra verdad muy bien este okay
+0:43
+Bueno habíamos visto los con el concepto de función que era El dominio y el rango que era El dominio chavos acuérdense
+0:50
+todos los valores que x puede tomar x es la variable independiente chavos f dex o
+0:57
+y también confa como y es el rango no los Rango es todos los valores que F dex
+1:02
+puede tomar muy bien okay acuérdense que habíamos visto lo de los límites verdad
+1:08
+que era irnos acercando cuando x tiende a un número este número sustituido en la
+1:13
+función es igual al límite verdad este cómo se leía el límite de x cuando tiende a c de la función F dex es igual
+1:21
+al límite l chavos muy bien Bueno acuérdense que vemos algunas propiedades de los límites verdad el límite de una
+1:28
+constante es la misma constante acuérdense que dijimos que hacer límites prácticamente es como sustituir no
+1:34
+Entonces cuál es el la sustitución en una función constante la misma constante verdad luego dijimos que en una función
+1:40
+pues nada más es sustituir verdad por ejemplo x cuada x cuando tiende a dos es como si decíamos 2 al cuadrado no Y esto
+1:47
+es igual a 4 acuérdense que habíamos dicho que si una constante está multiplicando a la función en la
+1:52
+constante puede salir del límite no muy bien habíamos dicho que los límites tienen propiedad distributiva O sea que
+1:58
+el límite de una suma es igual al límite de F dex más el límite de GX muy bien
+2:03
+también habíamos visto chavos acuérdense que da lo mismo con la resta con la multiplicación y con la división chavos
+2:11
+muy bien también vimos este bueno la definición de la derivada
+2:17
+acuérdense que es acuérdense que la derivada es la pendiente verdad de la recta tangente de una función acuérdense
+2:25
+que cuando tenemos ya funciones O sea que no sean la lineal o la constante pues es más difícil saber y es y además
+2:32
+va cambiando su pendiente Cómo podemos determinarla Pues imagínate si lo decíamos Punto por punto cómo lo podemos
+2:38
+hacer Punto por punto Pues bueno cuando H que H es equivalente a Delta x no es
+2:44
+delta x básicamente tiende a cero o sea cuando el cambio es tan pequeño tan pequeño tan pequeño infinitesimal
+2:50
+diferencial acuérdense que aquí dijimos que diferencial es cuando el Delta no El
+2:57
+delta X o el Delta y El delta y obviamente para el diferencial de y y El delta x para el diferencial de X es
+3:03
+cuando tienden a cero chavos el cambio es tan pequeño tan diminuto que es prácticamente como si lo decíamos Punto
+3:08
+por punto por eso podemos sacar así una fórmula para sacar las este pendientes no de la derivada muy bien acuérdense
+3:15
+que también vimos que una de las funciones es optimización de la derivada muy bien okay algunas propiedades acente
+3:22
+que vimos esta tabla la cual Nos daba las derivadas de las funciones básicas como la derivada de una constante chavos
+3:28
+Cuál es la derivada de una constante la derivada de 80 Cuánto es la derivada de 80
+3:36
+ch así si les digo la derivada de 80 Cuánto es chavos cero muy bien Alfredo
+3:44
+muy bien exactamente la derivada de cualquier constante es cero acuérdense que ya habíamos visto el Por qué Porque
+3:49
+aquí Cuál es su cambio en y es cer0 verdad Muy bien cer0 entre cualquier número nos da cer0 muy bien entonces es
+3:56
+por eso que la derivada de una constante es cer0 acuérdense que habíamos visto que las igual que en los límites como al
+4:03
+final de cuentas la i es un límite las constantes salen no del de la derivada
+4:09
+entonces la constante sale multiplicando muy bien acuérdense que habíamos visto esta la de las potencias que es muy
+4:14
+importante y dijimos que la derivada de X a la n es igual a n por x a la n - 1
+4:22
+muy bien y bueno acuérdense que empezamos a ver también las exponenciales que vimos que la derivada
+4:29
+de e a la x es e a la x verdad y este es para más general para cualquier base que
+4:34
+es a a la x o sea la base a la x por logaritmo natural de a luego vimos derivadas de logaritmo chavos acuérdense
+4:41
+que vimos que la derivada del logaritmo natural de X es igual a 1 / x verdad y la derivada de logaritmo base a de X es
+4:48
+igual a 1 ent x por logaritmo natural de A muy bien luego vimos un poco de las
+4:54
+funciones trigonométricas vimos que la derivada de seno es coseno la derivada de coseno es menos seno y la derivada de
+5:02
+este esto verdad chavos que es la derivada de tangente acuérdense que tangente también lo escribíamos como
+5:08
+seno entre coseno y Bueno antes de eso acuérdense que vimos que es diferente los recíprocos a las inversas no es lo
+5:15
+mismo son diferentes no Okay recíprocos es uno entre la función y las inversas
+5:21
+es otra cosa acuérdense que vimos hasta que tenía dominios y rangos diferentes y hasta las formas diferentes la vimos en
+5:26
+desmos muy bien bueno este luego vimos estas cuatro reglas de la derivación que
+5:33
+son muy importantes esta ya la habíamos visto que es la de las potencias verdad y luego vimos la del producto chavos la
+5:39
+regla del producto es muy sencilla es la derivada de un producto de dos funciones
+5:45
+por ejemplo FX * GX es igual a la derivada de la primera función más
+5:53
+Perdón por la segunda función más la derivada de la segunda función
+6:00
+por la primera función aquí como es el producto no importa el orden F dex puede
+6:05
+ser una o GX puede ser la otra Okay luego teníamos la del cociente cociente
+6:11
+acuérdense que cociente también significa división chavos O sea qué quiere decir
+6:18
+eso okay muy bien y así ve chavos la del
+6:23
+cociente es la derivada del numerador por la función del denominador menos la
+6:32
+función del numerador por la derivada del denominador y todo esto entre el
+6:38
+denominador al cuadrado chavos muy bien acuérdense que habíamos visto esto aplicado en para demostrar que la del
+6:46
+tangente si era un entre coseno cuadrado de X acuérdense que hicimos por ejemplo el numerador es seno de X la derivada
+6:51
+del numerador no por la función del denominador menos la menos la derivada
+6:57
+del denominador verdad por la la función del numerador no aquí lo tenemos FX GX
+7:03
+entre este al cuadrado la del denominador al cuadrado acuérdense coseno cuadrado de X + seno cuadrado de
+7:10
+X acuérdense que vimos que esto era una identidad trigonométrica hasta demostramos como verdad del círculo unitario con es el círculo unitario
+7:16
+radio 1 vimos la del teorema de Pitágoras no que dijimos que a es igual
+7:22
+al eje x que es coseno de x y b es el eje y seno de x y nada más sustituimos no que 1 cuadrado es igual a coseno
+7:29
+cuadrado má sen cuado x Entonces esto chavos es igual a 1 y entonces esto es
+7:34
+igual a uno verdad Muy bien okay Y luego vimos si no una de las más importantes o
+7:42
+la más la regla de la cadena chavos acuérdense que vimos que era lo de composición de funciones composición de
+7:47
+funciones que tienes una función dentro de otra No muy bien entonces esta regla de la cadena funciona para que tenemos
+7:53
+que hacer derivada de eso por qué estamos recordando todo eso porque cuando veamos integración por partes vamos a ver que la regla de la cadena
+7:58
+integración por partes son equivalentes este Okay muy bien y bueno es todo lo
+8:04
+que vimos de cálculo este bueno algunos ejercicios practicamos no vimos de
+8:10
+aplicaciones acuérdense que aplicaciones vimos este un poco de esto verdad de
+8:16
+cómo optimizar acuérdense que era derivar igualar a cero resolver no sacar
+8:21
+la segunda derivada sustituir y checar signos acuérdense que si era negativo es máximo y si era positivo era mínimo no y
+8:30
+sustituir en la original para obtener el punto y ya teníamos el X no muy bien así
+8:35
+es como se hacía y ahora vamos a ver cálculo integral
+8:42
+chavos Okay cálculo integral chavos la integral básicamente es nos
+8:50
+funciona para poder nosotros saber el área bajo la curva chavos la derivada es
+8:57
+la pendiente y este la integral es el área bajo la
+9:02
+curva muy bien miren Aquí está por ejemplo de un segmento el área bajo la
+9:08
+curva es la integral chavos muy bien de una función tiene muchas aplicaciones la
+9:15
+verdad la integral en física en matemáticas Perdón en economía en
+9:21
+finanzas en química en programación tiene muchas aplicaciones chavos okay alotas por
+9:30
+ejemplo para poder sacar áreas para poder sacar volúmenes etcétera se puede
+9:36
+hacer con integrales también esa es otra centros de masa inercias en física este
+9:43
+en termodinámica también saber este el trabajo que realiza algo las potencias
+9:48
+este para poder resolver ecuaciones diferenciales Pues tienes que integrar para poder despejar
+9:55
+este por ejemplo para poder despejar de no hay que integrar para que te dé y no
+10:04
+integral de de y no muy bien y bueno también parte de cálculo integral es
+10:09
+este hacer lo de sumatorias hay sumatorias infinitas series no vamos a
+10:15
+ver todo eso no se preocupen este es muy útil la verdad series es muy útil en
+10:21
+todo lo de programación por ejemplo porque las series son discretas las integrales son continuas luego vamos a
+10:27
+ver exactamente qu significa todo esto bueno bueno chavos Miren la integral la
+10:35
+integral acuérdense que vimos que existe la derivada y la antiderivada acuérdense
+10:41
+que qué dijimos que para poder despejar de un lado a otro tenemos que aplicarle
+10:46
+la función inversa la inversa de la derivada es la antiderivada O sea la integral chavos muy bien y dijimos que
+10:53
+el integral es igual al área bajo la curva el área de la función
+10:59
+aquí por ejemplo puse la más sencilla de todas que es la función constante no
+11:05
+Denme un segundo chavos Ahorita vengo Denme un
+11:27
+segundo
+12:40
+Okay muy bien chavos Bueno lo que decíamos no es el área bajo la curva
+12:46
+Cuál es el área de un rectángulo chavos Cuál es la fórmula del área de un
+12:53
+rectángulo Cuál es chavos
+13:03
+vamos AC eso creo que lo hemos visto desde primaria Cuál es el área de un rectángulo
+13:16
+chavos Cuál es la fórmula chavo de la base Bueno del área de un
+13:22
+rectángulo muy bien base por altura no excelente base por altura muy bien
+13:28
+alfedo acuérdense que es base por altura y Cómo podemos sacar base y
+13:34
+altura bueno la base mide esto no de este rectángulo que también es igual si
+13:42
+x2 está hasta acá le tenemos que quitar esta parte verdad para nada más quedarnos con esto cómo lo hacemos pues
+13:49
+x2 - x1 esto es igual a la base no muy bien la altura es que sustituyamos no
+13:58
+cualquiera de estos dos puntos es lo mismo verdad F de x1 F de x2 nos va a
+14:04
+dar la altura entonces la el área del rectángulo es multiplicar base por
+14:09
+altura o sustituyendo con esto x2 - x1 por fx2 o fx1 dijimos que es lo mismo No
+14:17
+muy bien en este caso para este ejercicio es 10 - 2 es 8 y bueno la
+14:23
+altura es sustituir en esta 8 8 * 88 nos da
+14:30
+64 muy bien y bueno chavos eso es de una
+14:36
+función constante está sencillo Qué pasa si tenemos una función lineal también
+14:44
+está sencillo lo podemos hacer todavía no necesitamos cálculo para poder hacerlo como lo podríamos hacer de nuevo
+14:50
+es la es el área bajo la curva aquí el área de esto de dos 2 a 10
+14:59
+de la función x + 2 nos da un triángulo y un rectángulo No un triángulo y un
+15:07
+rectángulo muy bien Cuál es la fórmula del área del triángulo chavos aquí la
+15:12
+tenemos acuérdense esa también nos las han enseñado desde primaria base por altura entre dos no muy
+15:20
+bien base por altura en dos y la de rectángulo pues sigue siendo igual base
+15:26
+por altura este es la base los dos tienen la misma base no el Triángulo y
+15:31
+rectángulo sin embargo tienen diferentes alturas uno tiene h1 que es esta altura
+15:36
+y el otro tiene el h2 no que son dos diferentes cosas okay vamos a hacer cada
+15:43
+uno base sigue siendo igual x2 - x1 y aquí como le dejé los mismos números
+15:49
+pues sigue siendo 8 no muy bien h1 va a ser igual que
+15:57
+si sustituimos aquí x1 verdad lo ponemos aquí en la función lineal va a ser fx1
+16:04
+entonces sustituimos F de x1 verdad f o sea en y verdad en esta función
+16:11
+sustituimos cuánto vale x1 2 entonces sustituimos 2 aquí sería 2
+16:18
++ 2 nos da 4 no 2 + 2 4 muy bien ese es
+16:24
+h1 h2 chavos pues viene de aquí a hasta acá entonces va a ser igual al resultado
+16:31
+de fx2 no men
+16:36
+fx1 aquí lo tenemos muy bien F de x2 no
+16:42
+esto es sustituir cuánto vale x2 10 10
+16:47
+aquí + 2 nos da 12 Entonces esto es 12
+16:53
+menos la altura 1 que era 4 verdad 12 - 4 nos da 8
+16:59
+Okay hacemos no del área rectángulo es 8 * 4 32 del triángulo es 8 * 8 64 32 32
+17:07
+el área total Entonces sería 32 + 32
+17:13
+64 muy bien aquí todavía lo podemos hacer con figuras geométricas No necesitamos cálculo la verz que hasta
+17:20
+con matemáticas de primaria y secundaria podríamos
+17:25
+hacerlo pero ahora toca hacer lo ya general para cualquier
+17:31
+función miren cómo lo hacemos aquí por ejemplo
+17:36
+de esta parábola sigue siendo el área bajo la curva eso pero cómo calculamos eso Si no es ninguna figura geométrica O
+17:44
+sea no podemos hacer o sea podemos hacer un rectángulo hasta aquí pero cómo determinamos todo lo demás podemos hacer
+17:50
+un rectángulo aquí pero esto no es un triángulo por qué porque tiene una curva Acuérdense que los triángulos los tres
+17:56
+lados son rectos verdad son este línea recta eso no es un triángulo qué rayos
+18:04
+es eso pues bueno Miren la forma de hacerlo para cualquier para generalizar
+18:10
+es qué pasaría chavos si hacemos rectángulos si hacemos
+18:17
+pequeñitos rectángulos ahora sí que sabemos no sabemos de memoria de machete no sabemos este Cuánto mide el área de
+18:24
+un rectángulo que es base por altura no Qué pasaría si hacemos por ejemplo aquí son 1 2s 3 4 5 6 siete rectángulos
+18:33
+chavos okay Aquí el único inconveniente es que va a haber un área que no estamos
+18:39
+contemplando hay dos formas aquí empezamos con el punto de la izquierda se le dice altura rectángulos bueno
+18:46
+tomados por la izquierda y Estos son tomados por la derecha muy bien en estos
+18:53
+de la derecha tenemos áreas de más en estos de la izquierda tenemos área de menos no muy
+19:00
+bien aquí para calcular el área aproximada Pues sería multiplicar si tenemos la misma la misma base de cada
+19:08
+rectángulo dividimos el intervalo a b en si por ejemplo No pues nada más sería
+19:14
+multiplicar por si la base bueno la base por la altura de uno no muy bien Bueno
+19:20
+no se a multiplicar por siete realmente nada más sería que Perdón que
+19:27
+sumárraga no Delta de x1 por
+19:33
+fx1 no más Delta de x2 por F de x2 no
+19:39
+más Delta de X3 * F dex3 y así hasta llegar a siete no muy bien chavos es
+19:47
+sumar los siete rectángulos Pero eso nos da una aproximación A lo mejor decente
+19:52
+pero Cómo podemos hacerlo real o sea Cómo podemos hacerlo exacto Mejor
+19:59
+dicho la manera de hacerlo Exacto es muy parecido al approach a la forma de
+20:05
+hacerlo con las derivadas como nosotros lo hacíamos Exacto lo hacíamos Punto por
+20:10
+punto cuando nuestro Delta x tendía qué cómo lo hacemos Punto por punto
+20:19
+chavos alguien cuando nuestro Delta x tiende A
+20:25
+qué chos
+20:31
+o sea cuando la base no de estos rectángulos qué tan chica tiene que ser
+20:36
+para que se vea algo así al hacer puras
+20:45
+rayas estaríamos coloreando todo no al colorear todo estaríamos sacando el área
+20:51
+ya exacta Cómo se hace cuando nuestro Delta
+20:57
+x de cada rectángulo tiende a cero no cuando tiende a cero Qué quiere decir
+21:02
+que el número de rectángulos va a ser técnicamente infinito no Cuando hacemos esto como decimos están diminutos son
+21:10
+raya por Raya que estamos agarrando todo el área chavos muy bien así es como
+21:18
+funcionan las integrales ya mañana vamos a ver cómo es con el límite la
+21:23
+definición formal matemática pero ahorita digo lo que quiero que vean es que eso es la integral chavos es
+21:29
+básicamente estar haciendo rayita por rayita coloreando esto no y sacar el área muy
+21:37
+bien Esto se puede escribir con sumatorias bueno las sumatorias chavos
+21:44
+este signo de sumatoria no sé si lo hayan visto antes este es el signo de la
+21:50
+sumatoria que es la letra y Sigma mayúscula es una letra yega y esto
+21:57
+repres sumatoria Miren la sumatoria tiene varias
+22:03
+partes Miren la sumatoria básicamente es una fórmula nos expresa la regla de una suma
+22:09
+con un patrón es por ejemplo Aquí bien rápido les pongo Este ejemplo Déjenme se
+22:16
+los pongo rápido No sé si han visto esta película está muy
+22:23
+[Música] buena
+22:54
+voy larga esa [Música]
+23:02
+m funciones de seguridad activada sí listo para
+23:11
+iniciar un segundo
+23:26
+rápido 1 más
+23:32
+2 [Música] más [Música]
+23:40
+3 más
+23:47
+4 más
+23:52
+5 más 6
+24:05
+más s y siguiendo de esta forma
+24:14
+hasta llegar a y del quee antes de tener
+24:26
+lación
+24:56
+H
+25:56
+gauster cl esto Bueno nos ha pedido que
+26:13
+[Música]
+26:25
+[Música] sumárraga básicamente no Esta es así que
+26:30
+la fórmula de lación no de la simple entonces Bueno nada más para que vean
+26:36
+esa escena este Está buena gaus exactamente descubrió el patrón no
+26:42
+este
+26:48
+bien descubrió ese patrón no cuando era niño este fue cuando lo descubrieron que era
+26:55
+muy bueno para matemáticas este bueno que básicamente es esto no lo que hace
+27:01
+es si tienes que sumar del un al 100 verdad cuánto da 1 y
+27:06
+100 101 no 2 + 99 101 3 + 98 101 no y
+27:15
+así es hasta llegar Bueno al al Cent no 50 + 51 nos da igual 101 no muy bien
+27:23
+aquí lo tenía este 50 por 101 chavos nos
+27:30
+da 5050 básicamente fórmula sería buo antes de empezar con
+27:37
+esto hay que ver la sumatoria chavos de cómo está compuesta está compuesta de
+27:44
+una un números que están abajo que se le llama el límite inferior no muy bien el
+27:51
+límite inferior es desde dónde empieza chavos desde dónde empieza nuestra
+27:57
+sumatoria o bueno si tuviéramos un conjunto desde dónde empieza nuestro conjunto una secuencia de dónde empieza
+28:03
+nuestra secuencia límite inferiores desde dónde empieza no muy bien el límite superior se pone arriba chavos
+28:10
+hasta dónde termina muy bien Okay entonces aquí por ejemplo la fórmula
+28:17
+bueno la forma es esta empezamos En qué número empezamos chavos para esta En qué
+28:24
+número empezamos en uno entonces se pone I = a 1 No qué pondríamos acá arriba
+28:30
+chavo si es el límite superior Cuál es el límite superior Cuál es el último número que va a aparecer en nuestra
+28:37
+sumatoria Cuál es chavos vamos si lo están
+28:44
+viendo Cuál es chavos 100
+28:50
+excelente por y es ir sustituyendo y como dice Aquí empieza en uno y va a
+28:56
+terminar en 100 es la forma de expresarlo no hay algunas fórmulas como la que él pone aquí que es n * n + 1 ent
+29:05
+2 miren aquí está la lógica De dónde viene esta sumatoria miren n es hasta
+29:11
+qué número llegamos o sea hasta el límite superior el 100 no Okay 100 vamos
+29:17
+a sustituir vamos a ponerlo en azul not 100 por 100 +
+29:26
+1 ent dos por qué es así chavos miren
+29:32
+vemos que siempre el resultado no es el es uno no más
+29:42
+que el límite superior no el límite
+29:47
+superior en este caso es 100 entonces este 100 + 1
+29:53
+verdad nos da el resultado este 101 cha muy bien Y por qué el 100 en T2
+29:59
+realmente el 1002 es Cuántas veces lo voy a hacer no acuérdense que dijimos que esto era hasta llegar al centro que
+30:05
+era hasta llegar al 50 + 51 Cuántas veces Cuántos números fui haciendo pues
+30:12
+fui haciendo el límite superior que era 100 en T2 No porque no lo puedo contar dos veces nada más hay que contarlo una
+30:18
+vez esta suma aquí estoy haciendo una suma que incluye ambos no el superior el inferior y así entonces es por eso que
+30:26
+esta fórmula es así chavos lo importante aquí más que aprender esa sumatoria luego vamos a ver las series etcétera
+30:33
+aquí Lo importante es que sepan que este es el límite inferior Este es el límite superior Y esta es la fórmula Esta es la
+30:39
+cosa que vamos a sustituir en este caso fue I porque I se va cambiando no 1 2 3
+30:44
+4 5 6 7 8 9 98 99 y 100 no muy bien bueno Esto es importante porque vamos a
+30:50
+ver no después mañana o sea la sumatoria no de todos los
+30:56
+rectángulos
+31:05
+bien básicamente esto es la integral la sumatoria este fdx es la altura chavos
+31:10
+no altura esto es la base sí o no chavos
+31:15
+base por altura no estamos sacando estamos sumando el área de todos los rectangulos qué tan pequeños Pues aquí
+31:22
+dice cuando x tiende a cero no x sí tiende a cero no es la sumatoria chavos
+31:28
+no empezamos desde el rectángulo un y pues llegamos hasta n que en este caso n
+31:34
+va a ser infinito no muy bien o sea el número de rectángulos va a ser infinito esto es la integral chavos la for la
+31:42
+definción lo vamos a ver mañana más claro pero bueno Eso es para que veamos la integral vamos a ver que pues la
+31:50
+integral es la antiderivada no entonces va a haber tablas no no más para que vean estas son algunas de las integrales
+31:57
+básicas Aunque vamos a ver que no es tan directo algunas integrales como las derivadas hay como cuatro o cinco
+32:04
+métodos no de integrales cuando no Son de estas sencillas vamos a ver que integral es un poco más difícil que
+32:11
+diferencial Pero bueno chavos Esto es lo que quiero que se queden un poco y bueno
+32:17
+chavos no tengan Una última pregunta o duda có vamos a seguir viendo esto Esto
+32:24
+no más sea para que su cerebro se perme un un poco de cálculo integral de lo que vamos a estar viendo y cálculo integral
+32:31
+tiene muchas aplicaciones les dije que luego vamos a ver no sé si aquí lo puse áreas volúmenes no cre que no lo puse
+32:40
+Pero bueno vamos a ver no que tiene áreas volúmenes esas son propiedades de las sumatorias vamos a verlas mañana y
+32:47
+así chavos pues Bueno nos vemos y cuídense mucho

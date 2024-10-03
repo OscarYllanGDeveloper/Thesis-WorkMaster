@@ -1,0 +1,640 @@
+0:22
+okay okay okay good um okay let's see we continue with what
+0:31
+we are seeing well we are going to make a review so you have it also like all the week all the review of the week so
+0:38
+let's see it okay remember that we were seeing right the three Newton loss right the three Newton loss were really easy
+0:45
+remember that the three Newton laws were about well the first one is the inertia law right the inertia law is about the
+0:53
+inertia right n remember that the video that I put you right where um okay where
+1:00
+remember that basically says that an object is going to maintain its velocity
+1:06
+unless there is a resulting Force different from zero right acting to the
+1:11
+object this means for example some examples is when we are driving right when we put the breake right the car
+1:19
+stops but we don't have any for that is stopping us that's why like we need the
+1:24
+seat Bel right that's why we need the airbags in order to stop us right from going out from the car right that's
+1:31
+thanks to well that's the force that we need in order to stop our velocity also the ntia is the one that allow us for
+1:37
+example to walk inside um a bus right remember that that is the one that allow
+1:44
+us also the same in the airplane right as I have put you like a lot of time let's put it again but the malcol in
+1:53
+right do you remember that for example Malon it says about the velocity of the
+1:58
+air right that that's why we see that a three uh I don't know a building
+2:03
+something like that is like at rest the velocity is equal to zero but that's for
+2:08
+us because if someone see us from Mars right they are going to say that it's moving because remember that we already
+2:15
+have the same velocity of the Earth that's why we don't feel it but like if it accelerating we will feel it right
+2:22
+remember that what we feel is basically the acceleration that TS also to the inertial low okay let's see now okay
+2:38
+okay just for you to remember really fast
+2:45
+[Music]
+2:50
+okay okay right remember
+2:58
+yes
+3:21
+okay right okay basically is that that the that the first Newton Law inertia
+3:27
+right okay say have show you right some example like the right when we stop when
+3:34
+we are walking inside a bus or an airplan right that's the inertia right
+3:39
+the first Newton Law okay the second Newton Law is reallyy yeah
+3:49
+Mar yes yes
+3:56
+yes well yeah yeah okay
+4:19
+[Music]
+4:27
+okay graas
+4:58
+spee
+5:12
+[Music]
+5:26
+foron okay Second newon Law right okay good the second Newton Law right it
+5:34
+says that what is what yeah yeah uh the second Newton Law guys says that the
+5:42
+it's just a formula right the force is equal to mass times acceleration right the a is the acceleration right and the
+5:50
+M right is the mass good that's uh really important right and remember that
+5:56
+the force the the unit is the Newton right of acceleration is met per second
+6:01
+square right okay good and mass is kilogram right okay remember that I told
+6:08
+you that people for architecture mechanic engineer and Robotics and physics really important this remember
+6:15
+that we have the equilibrium right the equilibrium is when we have a static that is when the velocity is equal to
+6:21
+zero right and dynamic when the velocity is constant right good okay then this is
+6:28
+right remember that well I'm talking about the rain right that's why we are not in the classroom right that's the
+6:35
+dynamic equilibrium guys remember that this drop of water right it has the weight right that the weight is the
+6:42
+force due to the gravity to any object right inside there okay in here this is falling but remember that there is an
+6:49
+air resistance right okay so these ones make equal to zero right this the sum of
+6:56
+these two forces is equal to zero right so it will continue with the same velocity because that's from the first
+7:02
+Newton Law right the that is going to continue with the same velocity so
+7:07
+um okay going to continue with the same velocity right that is 7 m/ second
+7:13
+that's because that process of stopping the drop of water is not like instantly right it has like some time really small
+7:21
+but it still has time right in order to get that velocity but that's is going to be a constant velocity of 7 m per second
+7:28
+until it falls right that's what what happens with rain like yesterday right
+7:33
+that it rain a lot so basically that's what happens that's the first and second NE law com combined right and well
+7:40
+remember that we have right the equilibrium equilibrium with the sum of
+7:46
+the forces is equal to zero right is where the form of the forces is equal to
+7:52
+zero so we have that Force One Plus Force two plus Force three right and plus Force n it means that you can have
+7:59
+n forces that means that you can have one two 3 1 million 100 million
+8:05
+whichever number of forces that the system has right the important thing is that for something to be in equilibrium
+8:11
+it should be equal to zero right okay good equilibrium remember that we are in
+8:17
+a three dimensional universe so this means that in order to be something in equilibrium we need that the three
+8:22
+dimensions are in equilibrium right x y and C right good okay and well we also
+8:30
+have some things that are Dynamic right yes in fact they have an acceleration
+8:35
+that basically is the sum of all the forces right the sum of all the forces is equal to the total mass the total
+8:42
+mass basically masses okay good and the sum of all the masses right and the
+8:49
+acceleration right of the system that I told you that a system should have always the same acceleration right
+8:55
+because they are joined together okay good so right that's basically the second NE
+9:03
+mass or acceleration mass times acceleration right one of the most important and most famous formulas like
+9:10
+like in everything is the second Newton Law okay good okay and well we also have
+9:16
+the third Newton Law right the third Newton Law it says to any action there is an reaction right so some example
+9:23
+remember that swimming for example Alo right like when he jumps
+9:31
+right and scores the goals right or the goals right he um he uses a lot the
+9:38
+Newton Law right because exactly like he uses right the power of his feet right
+9:44
+in order to okay
+9:52
+good okay good okay remember
+10:27
+Newton low right
+10:42
+okay that's the thir Newton Law
+10:52
+guys that is a third Newton Law guys like when he jumps right he uses a lot
+10:59
+that right okay that's perfect example of the
+11:06
+turn commandante right good so
+11:12
+okay good
+11:19
+good okay well like swimming also Michael F right like pushing a wall like be
+11:27
+remember that also that's really important that's going to be really important for our programs right in this
+11:33
+subject because we have the normal force remember that the normal force for example right it was like the squid game
+11:39
+right remember the squid game the scene right let's put it this just in here so
+11:47
+okay okay wait remember from a squid game right
+11:53
+like if the FL it doesn't have the enough mechanical resistance to generate
+11:58
+then normal force that's what's going to happen
+12:04
+right okay in there yes remember that the um well the gas right the bridge it
+12:09
+has the the force right enough to make it to well yes no not to fall right it
+12:17
+can generate the normal normal force remember in the in there the gas right
+12:26
+it was not tempered it was normal gas then have the enough Force right to
+12:31
+generate the normal force that it will cancel its weight right his weight and that's why he start falling right
+12:38
+because there is no equilibrium okay remember that when there is no equilibrium guys is when it happen the
+12:45
+acceleration okay [Music] good let's continue let's
+12:56
+continue okay right okay the turbine that take off of an spaceship swiming like that right okay
+13:04
+remember that the 10 Newton Law basically says that always that you apply a force right to an object this object will return you right the the
+13:13
+force right with the same magnitude but opposite direction right okay basically
+13:19
+that's why it says that Newton Law we have many examples okay right let's continue okay the weight guys the weight
+13:28
+basically is the force due to the gravity it has a name right this is going to be for sure a question in your
+13:33
+exams right they are going to ask you like if you have the same weight here and in Mars something like that or in
+13:39
+the moon right if you remember the video right of the girl that she said she said
+13:45
+that there was no um what well there was no gravity on Earth right that's not
+13:52
+true sorry in the moon she said that that there is no gravity in the moon that's false right this gravity is lower
+13:58
+than in here but uh you still have it right that's why in the moon you wait less right okay good what else what else
+14:07
+guys uh okay good good good okay what
+14:13
+else what else guys okay yeah um remember the weight right the weight
+14:20
+is different in every planet but the mass is universal right it's a universal
+14:26
+property of the matter right then mass of the object is the same in any part of
+14:32
+the universe right the mass the weight no the weight is a force the mass is a
+14:37
+property of the matter right okay remember that there are two type of forces right the contact and the
+14:43
+distance the contact forcer remember that when the the two objects are like in contact right the distance is when
+14:51
+they are not for example distance forces it can be like gravity it can be like magnetism if you remember also from what
+14:59
+let me put it [Music] okaying
+15:04
+back okay good
+15:13
+right
+15:19
+okay let me put
+15:27
+it okay good
+15:37
+right okay right remember this is like a
+15:44
+distance Force right the magnetism is an example of that right that basically the
+15:51
+things are moving right and they are not like touching the magnet so basically it's like that it's like the gravity we
+15:58
+are not in contact with the with the center of there right so but still it
+16:04
+attracts okay good uh okay guys so the
+16:10
+three body diagram right the normal force right the remember well that in
+16:16
+all these problems right of forces right we are going to have something that is called the free body diagram as I have
+16:22
+told you before right the um the forces right the yeah when we have problem of
+16:30
+for we have to dra body diagram and the same name says half of the answer body
+16:36
+di di is Right
+16:41
+body it means that if we have five bodies we need to draw five diagrams for
+16:47
+each body we need to draw all the forces that are affecting this object right
+16:52
+good for example remember that always that we are on the earth and this is in the ground right we are going to have
+16:59
+the weight right and this as this object is not falling as it is not fing right
+17:05
+as it is not falling is because this weight should be right equal well there
+17:11
+should be another Force right that cancels the weight that force is called the normal force that remember the
+17:18
+normal force is the force that is generated by the ground is the one that stop us right now if just see right in
+17:25
+the share then you the Share is resisting the way of you that's why I
+17:30
+don't know if you have seen like all the Spider-Man movies when this do o right
+17:36
+this octopus right when him like that's something really funny because when he
+17:43
+like carries like something with like his four arms right his four mechanical
+17:49
+arms right and he leave a car or he live an structure right of metal that will be
+17:55
+not possible because if you do that all the weight that he
+18:05
+lifting like he all his spine right all his legs will have to resist like Tes so
+18:12
+it will have to resist a l wake and that will well kill him right so that's not
+18:18
+true the only way that he could do that is like if two of his arms are like in the ground
+18:25
+right are his mechanical arms and not his legs because if he uses four of his
+18:30
+legs or if he uses like if there is not the force made by the arms and is made
+18:36
+by his legs or his spine he will die but okay basically that's something that is
+18:41
+not realistic well Spiderman not realistic but that thing of physics is definitely not realistic
+18:49
+so if you sometime some day invent some mechanical arms remember don't don't use
+18:56
+the force to try to LIF something because at the end you will have to lift all that weight in your spine okay good
+19:05
+okay so right the um and the example number
+19:12
+two remember that we had for example this Mass right that is being well is
+19:18
+receiving a force of 10 Newtons to the right okay remember guys always the first step is to do the fre diagram the
+19:24
+fre diagram is just to do all the forces that are affecting the system this system is affected by three forces the
+19:30
+normal force the weight and the this Force okay remember that okay here we
+19:35
+have a two dimensional problem because we have in X and in y y and x the sum of
+19:41
+the forces in X we just have one force so it's going to be 10 Newton remember the second Newton Law guys this one
+19:49
+right the second Newton Law one of the most important most famous formulas like in all the world right is this one force
+19:57
+is equal mass time acceleration right okay we have a force of 10 Newtons a force of 10 Newton right we have a mass
+20:04
+of 10 kilg a mass of 10 kilogram right so in order for us to get the acceleration right of the system is
+20:11
+going to be really easy we just have to isolate this 10 kilogram go to the other
+20:17
+side this one is multiplying we pass it to the other side dividing so we have 10 Newton divided by 10 kilogram that's
+20:22
+going to give us 1 m/ second squar right good okay and that's acceleration in X
+20:30
+they are also asking what the normal force is releasing the normal force minus the weight should be equal to zero
+20:37
+the weight is just the formula right mass time G right okay 10 * 9.81
+20:44
+98.1 Newtons right this one is subtracting we have it minus
+20:49
+98.1 we pass it to the other side how adding right that's why the normal force
+20:56
+is like this and it's positive and it's l right because the normal force always always points down sorry always points
+21:03
+with a 90 degrees right of the ground right good okay so basically it's
+21:13
+like that let's see the example number three right example number three guys basically it says the following right
+21:21
+the okay yeah the normal force right we have this object that is being right p
+21:28
+but this person right with 100 Newtons with an angle of 35° and this generates
+21:34
+an acceleration of 1 m/ second squar to the right in the X direction right good
+21:41
+so we have three forces this one this one and this one this Force has an angle
+21:46
+so we can translate it to its components right the force in X and the force in y
+21:54
+right okay good so we next remember the first step is to dra the fre diagram the
+22:00
+second step is to put the equations of the forces as we have two Dimensions
+22:07
+guys we are going to use right and two equations the force of the X right and
+22:13
+the forces in y right as this object is not fing and as it is not falling
+22:26
+right right good in why in X it is moving because they are telling us that
+22:32
+we have an acceleration of M second square right okay good so let's see inex
+22:38
+we have right that is going to be dynamic dynamic remember is the second LW Su of the forces should be equal to
+22:46
+mass times acceleration in X right because this is in X okay the force of
+22:51
+the person in X right that is the only force that we have in X that is the component of this Force right we can get
+22:58
+releasing is just the cosine of 35 multiply right by 100 we have it that
+23:08
+where good yes uhuh we have it there right and here we have it here
+23:15
+okay right okay the force of the person in X is 100 Newton mtip by the cosine
+23:22
+right of 35 right this is this part of the equation the mass right we don't
+23:29
+have it yet but we have the acceleration in X because they gave it right we have
+23:36
+the acceleration okay we want to get the mass of the object we need to isolate
+23:41
+guys okay this one is multiplying how do we pass it to the other side dividing so
+23:47
+we have that 100 Newton mtip by cosine of 35 is 8192 Newtons 8192 nton divided
+23:55
+by 1 right is going to be equal to 8192 kilg 819 8192 divid 1 is the same
+24:06
+but okay Newton divided by m/s square is going to give us kilogram right because
+24:11
+that's the unit for mass good okay now that we have the mass of the object now
+24:18
+that we calculate we can get the weight okay the mass of the object is
+24:23
+8192 right multiply by G right by the gravity and that's going to give us if you do it
+24:29
+in your calculator is going to give us this okay this right and the way well
+24:36
+the force of the person in y is really easy to calculate the force of the person in y is equal to the magnitude
+24:43
+100 Newtons multip by the sign of the angle 35° right 35° good okay so we do it right and we
+24:52
+get that that's going to be 57.36 this 57.36 we added to the weight remember
+24:59
+that the weight is pointing down so should be negative right and that's going to give us like - 7 46.
+25:07
+231 normal force equal to zero this one is subtracting we pass it to other side
+25:14
+adding right so we pass this one and this one finishes being positive and that's what we have here and we solve
+25:20
+our problem good okay let's continue you have everything like recorded you can
+25:26
+see it later like slower right but so you can have everything recorded how do you do each
+25:34
+right each problem in here really easy guys you have like these two right these
+25:40
+two
+25:50
+ropes attention to right in here they are not giving us the angle that we are
+25:56
+used to use right the one so we need to get them right in order to get them we
+26:01
+have to remember something about math 4 or like in secondary school also that is
+26:07
+right the Ang internos external good so okay guys because in here if you see
+26:14
+this is parallel lines parallel lines right and this angle is equal to this it's equal to this equal to this
+26:20
+remember that the sum of this angle should be equal to 1 this important because so the sum of this should be
+26:26
+equal to 1 180 18 180- 130 is going to be 50 so this angle is going to be 50
+26:34
+right and this angle is the same as this one that is one of the one that we are looking so the angle of T2 is going to
+26:41
+be 50 and we put it like that right good okay the second angle this angle that we
+26:47
+want to know right is going to be equal to this the same 180 minus 40 right that
+26:54
+they telling This is 40 that's going to be 140 40 140 is same is the same that
+27:01
+in here that the angle for T1 that is this okay good the angle of T3 is the
+27:08
+angle that it gets this this is 90 this is 180 this is 270 good we have the
+27:15
+three angles excellent now remember that we have to do like the both equations
+27:23
+okay remember that the sum of the forces in X is equal to zero the sum of the forces in is equal to zero right good
+27:29
+okay then remember that okay for getting the X component right we can get it like
+27:37
+multiply the magnitude multiply by the cosine right okay we use it for each of
+27:42
+the forces right you have three forces and each force it has its X and Y components
+27:50
+right good so we do it right we start calculating the cosine of angle T1 angle
+27:58
+of T2 angle T1 is 140 that's why we have cosine of 140 right okay the cosine of
+28:05
+angle to cosine of 50 that this is 50 right and we do it for each of them
+28:10
+right and okay then the T3 remember this
+28:16
+T3 we can see that is going to be equal to the weight of this mass is going to
+28:21
+be 10 kilog right 10 kilog m remember the formula of the weight is mass G
+28:27
+right mass times acceleration right 10 * 9.81
+28:32
+right that's going to be 98.1 Newtons guys right good okay and when we
+28:39
+substitute everything we are going to finish having this pair of equation
+28:46
+these two equation right okay these two equations guys remember that what is
+28:52
+that it's a system of linear equations we have two equations
+28:58
+right equation number one equation number two right and we have two
+29:03
+unknowns unnown one unnown two right we want to determine them so we use any of
+29:10
+the four method that you have already seen right in secondary school and in math to right that is basically
+29:17
+substitution elimination evalation or graphical we use in here substitution
+29:24
+substitution guys is really simple you for example choose the first equation
+29:29
+okay and you choose that you want to determine well you want to isolate T1 we are going to isolate T1 okay this one is
+29:37
+adding guys how do we pass it to the other side subtracting right like this
+29:42
+okay this one is multiplying how do we pass it to the side dividing as simple as that okay this one divided by this
+29:50
+one is going to give us T1 is equal to that okay good okay this one right we
+29:56
+know that T1 is equivalent to that so we can do the following right this T1 right
+30:02
+we are going to substitute it remember that's why it's the name right
+30:08
+substitution right in here so we are going to replace the T1 right for this
+30:14
+okay that is what we are doing in here this one is multiplying this and if you
+30:19
+put it in your calculator this multiply by this is going to give you this okay
+30:25
+this and plus this right we are in the same
+30:32
+variable just one variable right here we have it right is the same variable so we can add them we can add the coefficients
+30:39
+we add the coefficients in the calculator okay and we have that that's equal to 98.1 right because well same
+30:48
+this was subtracting how do we pass it to other side adding right good okay
+30:53
+this 1.35 right is multiplying the t2 how do we pass it to the other side dividing
+31:00
+okay you have this divided by this right and you are going to get that T2 is equal to that guys okay this guys okay
+31:10
+the same that's why it's called substitution right you are going to replace it right for example in here you
+31:17
+replace it in here and this T2 is equal to this and it's going to be just multiplying the 0 point well 0. 8391 m
+31:27
+by the 75149 and that's going to give us that the T1 is equal to
+31:33
+this right good okay let's see okay then
+31:39
+panado right okay let's see it again right okay remember that in here okay
+31:46
+they are going to let's see the system before okay we have a mass of 20 kilog on the right that it has a velocity of 0
+31:54
+m/ second so it's static okay we have a tension of a rope that is stopping right
+31:59
+that object from moving okay good so let's see we are going to have as always the weight right let always Point down
+32:07
+we're going to have the normal force that always always remember is perpendicular right so this is going to
+32:13
+be perpendicular and we have the tension right good we have these two forces in
+32:18
+plan what we do is to rotate our axis right we're going to rotate it and
+32:24
+remember that this is important because we are not going to use this angle right okay we can use that angle but if we use
+32:31
+that angle remember that we have to invert so if we use the 50 right we
+32:37
+instead of using um for instead of using for X the cosine we are going to use
+32:43
+sign right and instead of why using the sign we are going to use cosine that if
+32:50
+we use the 50 guys okay we use the angle that they giving us right why because
+32:57
+remember that that's the angle and the one that we normally use
+33:03
+is the ones that are go to the XIs right
+33:16
+so but in order not to do that right we can have another method right that is
+33:23
+basically the 90 minus this angle this because okay okay guys the logic is like
+33:28
+this this is 90 right this is 50 and that the sum of the should be 180 the
+33:33
+sum of this angle and this angle should be equal to 90 so if we get 90 minus 50
+33:39
+we're going to use
+33:44
+40 right so this one right we can use it and if we use this one we can use the
+33:51
+normal on yes as always right business as usual
+34:00
+right X for cosine and Y for sign right we use it like this I use it like this
+34:06
+in here remember that the weight is equal to mass time G the mass is 20 kilog the G is 9.81 we get that the
+34:13
+weight is this and we are going to get the X and Y component right of the weight as we have it in here okay this
+34:20
+is the X component right that is going to be multiply the cosine of the 40 not 50 not 50 40 right that we got it here
+34:28
+okay multiply by the weight and that's going to give us the WX w y the component y of the weight
+34:35
+right is going to be equal to the sign of 40 mtip by the W right and okay guys
+34:41
+in here right it will be just really
+34:48
+simple and we going to isolate and we are going to get this values right okay
+34:55
+and well just to see the last last one right of Dynamics right remember all
+35:02
+that previous it was when we have that it was static that the acceleration it was equal to zero in Dynamics is the
+35:09
+opposite we have to have that the acceleration is different from zero right okay for example in here we have a
+35:15
+problem where we have three person three people right in an elevator right and
+35:21
+this has a motor right that has a rope that is generating a force right that it
+35:26
+make that this elevator has an acceleration of 2 m/ second square right
+35:31
+okay so in order to do that right we need to calculate how many forces we have we have the three weights right and
+35:40
+we have right the weight of the elevator and we have the force of the motor right
+35:46
+okay so we add right the weight of these three people right plus the weight of
+35:51
+the elevator and we have to these ones are pointing down right the the force of
+35:57
+the motor is pointing off the forth of the motor should be greater than the force well the weights right because it
+36:04
+wins them and it also generates this acceleration so we have that the force of some of the forces in y is equal to
+36:11
+the mass total mass times acceleration this is just a second Newton LW the total mass is just adding all the masses
+36:16
+we have three people that has a mass of 70 so it's 70 plus 70 plus 70 because
+36:22
+the elevator has a mass of 1.5 T 1,500 kg right so we have that the total mass
+36:28
+is going to be this you put in your calculator right good okay we have this one the sum of the forces in y the sum
+36:35
+of the forces in y is going to be all the three weights of the people the weight of the elevator they are pointing
+36:40
+down that's why this is negative right plus the force of the motor the force of the motor is going up that's why this
+36:47
+one is positive okay we want to isolate this so we pass all of this to the other
+36:52
+side adding because it was subtracting like this right and times the mass of
+36:58
+total and time acceleration we have the acceleration is two we have that the total mass is 100 17 well
+37:06
+1,710 right kilogram and okay if you do this multiplication right and you add
+37:12
+this ones right you're going to get this that the force of the motor is this if you don't believe me you give me one
+37:18
+minute I did it in the calculator already and okay let me just show you really fast really fast so you can go
+37:25
+okay [Music]
+37:33
+good okay well this was the calculation it was this right okay this and you get
+37:40
+this okay this is the masses right this is the acceleration this is the weights
+37:46
+right okay and that's it when you do it that's going to be the total for that it needs the motor in order to get that
+37:52
+movement okay guys well I think that's it for today and okay
+37:57
+good okay okay thank
+38:13
+you

@@ -1,0 +1,1140 @@
+0:02
+okay Bueno Buenos días chavos ahora sí que hoy ya vamos a empezar a ver temas no este pues como les había dicho les
+0:10
+había mencionado y vamos a empezar con física de preparatoria este introducción
+0:16
+entonces pues bueno vamos a empezar con
+0:22
+esto así que okay Bueno este física tenemos algo que se
+0:31
+llama el sistema internacional de unidades el sii este y el sistema internacional de
+0:37
+unidades básicamente nos dice que existen siete unidades fundamentales quiere decir qué quiere decir con esto
+0:44
+bueno física tiene muchas unidades no sé si bueno se acordarán de secundaria el
+0:50
+Newton para la fuerza el jle para la energía este la presión pascales
+0:56
+etcétera Así que cuando y Bueno hay más obviamente en sistema inges etcétera
+1:01
+Pero bueno el sistema internacional es el que nosotros usamos también algunos lo conocen como el sistema métrico no
+1:08
+este que es el que usan casi todos los países del Mundo solo realmente Estados Unidos y a lo mejor dos o tres países no
+1:15
+pero todos los demás pues usamos lo que es el meto etcétera este entonces bueno
+1:23
+básicamente las siete unidades fundamentales que son las que vemos aquí Este son las
+1:28
+siguientes voy a poner y bueno es importante porque todas
+1:36
+las demás unidades en físicas se derivan de estas Estas son las únicas realmente
+1:41
+las que existen las otras son como combinaciones de Entonces por ejemplo la primera Sería bueno masa
+1:50
+no masa y su unidad es el
+1:55
+kilogramo después está en distancia
+2:02
+y su unidad en el sistema internacional es el métro
+2:07
+el luego está el tiempo y su
+2:15
+unidad su unidad fundamental es
+2:20
+el segundo el segundo luego está lo que
+2:30
+es intensidad eléctrica bueno corriente la
+2:37
+corriente
+2:43
+eléctrica la corriente eléctrica su unidad es el amper que se escribe con
+2:50
+una a y este Okay muy bien luego está lo que es la
+2:56
+temperatura Así que ahorita que en verano no que está demasiado caliente
+3:01
+Pues bueno este A diferencia de lo que nosotros estamos acostumbrados pues la mayoría cre que
+3:08
+usamos los gados centígrados fenit lo usan los de Estados Unidos Pero lo
+3:13
+normal es que usamos centígrados pero la temperatura en física Es otra unidad que
+3:19
+se llama Kelvin este la cantidad de materia este es más usado en química
+3:27
+pero también se usa en física que es el
+3:32
+mol este y la intensidad
+3:43
+lumínica es la candela se llama Candela Okay muy bien Pues bueno
+3:51
+básicamente
+3:58
+este muy bien Bueno Estas son las siete
+4:04
+unidades fundamentales y estas son muy importantes porque por ejemplo les voy a dar un ejemplo Ah vamos a ver
+4:11
+este realmente pueden pensar en la que quieran Ah lo vamos a ver por ejemplo en
+4:17
+las las unidades derivadas es lo que sigue si se dan
+4:23
+cuenta la superficie es el metro cuadrado Qué quiere decir que es así
+4:36
+[Música]
+4:42
+que esto okay bienen si
+4:49
+ven las unidades
+4:58
+fundamentales Okay bien Vamos a compararlas no muy
+5:06
+bien okay bien el metro cuadrado
+5:16
+no la distancia y el metro cuadrado no es es derivada de esa
+5:24
+unidad Okay muy bien el volumen que es el metro cúbico también es derivada de
+5:30
+la distancia metros sobre segundo que es la velocidad es también derivada de la
+5:35
+distancia con el tiempo no la aceleración que su unidad de la
+5:40
+aceleración aquí nos dice que es metro sobre segundo al
+5:46
+cuadrado también es derivada no es de la distancia y del tiempo dos veces
+5:51
+entonces este de la densidad que nos dice que la densidad es igual a kil gr
+6:00
+entre metro cúbico lo mismo no la masa entre la distancia este volumen
+6:07
+específico que es al revés metro cúbico entre kilogramo es básicamente dividir entre
+6:16
+un la densidad no este metro cúbico entre kilogramo Pues igual no es
+6:23
+derivada este Newton por ejemplo bueno lo vamos a ver más adelante hoy pero
+6:28
+bueno Newton no la unidad que es la fuerza Este es de fuerza no y Bueno
+6:34
+ahorita lo vamos a ver pero por ejemplo su unidad el Newton es igual
+6:39
+a kilogramo por metro sobre segundo al cuadrado si nos damos cuenta son tres
+6:47
+unidades fundamentales no entonces bueno el punto es que todas las unidades en
+6:53
+física se derivan de estas siete solo son siete unidades las reales en física
+6:59
+las demás son combinación de al cuadrado multiplicadas divididas este etcétera
+7:06
+elevadas lo que sea este pero este el punto es que solo existen siete unidades
+7:13
+que son las fundamentales como les decía esto es en el sistema internacional de unidades
+7:21
+no Okay muy bien sistema internacional unidades es el que nosotros usamos y son
+7:27
+esas siete por ejemplo Bueno antes de pasar a algo el
+7:33
+Kelvin Cuál es la diferencia Bueno si quieren alguien participe yo lo digo pero Cuál es la diferencia entre el
+7:39
+Kelvin y un gr cintado por ejemplo [Música] este yo creo que s puedo
+7:48
+decir en el grado centígrado el cero es el punto para hacer solidificar el agua
+7:55
+y el Kelvin el cero es el cer absoluto exactamente muy bien Rafa Mira como dice
+8:02
+Rafa tiene razón el mir luego vamos a ver que es un poquito más complejo pero a cierta presión que es una atmósfera a
+8:10
+Una atmósfera de presión porque esto de este que esté en un estado la materia
+8:16
+depende también de la presión pero bueno a Una atmósfera de presión exactamente a
+8:22
+0 gr en hígados el agua se congela exactamente Ese es nuestro punto de
+8:27
+referencia el cero grados Cent hígados es esto el Kelvin como también dijo Rafa el cero Kelvin es el cero absoluto Qué
+8:35
+es la temperatura antes de empezar Pues bueno todo está hecho de átomos no de partículas etcétera y estas están
+8:42
+vibrando porque tienen energía cinética el cero absoluto es cuando no hay
+8:50
+energía cinética en las en los
+8:55
+átomos las partículas bueno las moléculas o se es cuando están totalmente detenidos en vez de estar
+9:02
+vivando están así estáticos completamente digo eso La verdad es teórico porque hasta en el espacio en
+9:09
+las partes más fidas y lo más que lo hemos podido enfiar es cerca del cero pero pues no no se ha podido porque pues
+9:15
+cualquier cualquier perturbación y cambia la temperatura No la verdad es que es casi imposible pero bueno el
+9:22
+punto es que ese es el Kelvin y por ejemplo el en Kelvin nuestros ceros
+9:27
+gados en hígado es 173.15 Kelvin esto es equivalente a 0 gr
+9:34
+cg y bueno en el en el sistema inglés en el sistema de Estados Unidos es 32 gr
+9:40
+fen No eso es básicamente el cer este
+9:46
+eh gros centígrados en Kelvin es 273.15 y en gados Fahrenheit es 32 gr
+9:54
+Fahrenheit Okay muy bien Esto es importante que lo sepamos porque pues bueno las temperaturas es es muy
+9:59
+importante en física sobre todo cuando veamos termodinámica Okay muy bien Pues bueno eso es básicamente algo que quería
+10:06
+decirles este pues Bueno nada más para repasar entonces las unidades fundamentales pues
+10:13
+acuérdense es el kilogramo el metro
+10:18
+segundo el ampere el en siqu se lo voy a escribir
+10:24
+ento segundo el metro
+10:31
+kilogramo este el Kelvin mol así se escribe y en la
+10:40
+candela Okay muy bien Estas son las unidades fundamentales y vamos a pasar a
+10:45
+lo siguiente que bueno bien en física se usa mucho lo que es prefijos y notación
+10:52
+científica si aquí la tengo la calculadora debo tener okay Okay muy
+10:59
+bien Ahorita vamos a verlo pero bueno básicamente este en física nos gusta
+11:05
+mucho usar este la anotación científica por qué Porque hay valores excesivamente
+11:11
+grandes y hay valores excesivamente pequeños entonces Pues necesitamos poner ahora sí que para que sea fácil de leer
+11:19
+y no nos equivoquemos no nos tardemos etcétera este se usa lo que es notación
+11:25
+científica Okay por ejemplo vamos a ver la básicos de aquí voy a poner Voy a
+11:32
+poner aquí okay Por ejemplo empezamos con buen aquí No pusieron la unidad
+11:38
+Pero bueno la unidad no bien vamos a poner una unidad la que
+11:43
+sea vamos a poner segundos miren segundos no Okay Por ejemplo si nosotros
+11:53
+tenemos un segundo no esto por ejemplo milisegundos
+12:01
+un milisegundo aquí hay un truco Bueno antes de empezar con esto Bueno aquí no
+12:08
+lo pusieron muy bien pero bueno Okay bien aquí les voy a decir el truco Okay si
+12:15
+este la el prefijo Okay y el prefijo es
+12:21
+pieza con
+12:26
+mayúscula y Si el prefijo bueno la otra parte Si el prefijo empieza con minúscula las dosas de la
+12:43
+moneda si esto empieza con minúscula o si empieza con mayúscula Okay por
+12:49
+ejemplo no sé si alguien sepa si empieza con mayúscula es más grande o más chica la el perfo hace más grande o más chica
+12:56
+la unidad el es con
+13:02
+icular es más grande muy bien excelente Gracias Rafa más grande este hace más
+13:09
+grande la unidad cuando es con mayúscula cuando es con minúscula pues la hace más
+13:15
+chica bien ejemplo de este Para que vean que es cierto kilo es multiplicar por 10
+13:22
+a la 3 o por es equivalente a 1000 no 10 al cubo acuérdense bueno este las
+13:29
+potencias de 10 no cada potencia O sea si el número n es el número de
+13:36
+ceros que le que va a tener bueno de
+13:42
+ceros o de cómo de veces que que mueves el punto
+13:57
+decimal a
+14:03
+la de
+14:09
+noo es muy importante O sea si tienes el punto decimal lo vas a mover tantas
+14:14
+veces este a la derecha como el número N O sea como la potencia n de por 10 no
+14:21
+Okay por ejemplo aquí el 1 estaba aquí nuestro punto 1 2
+14:27
+3 por eso es por 10 a la 1000 no por eso 1000 este por
+14:38
+ejemplo otro kilo por ejemplo algo que también estamos muy acostumbrados es el
+14:44
+Mega el giga en las computadoras no por ejemplo mega es por 10 a la 6 o
+14:53
+equivalente a un millón este giga
+14:59
+es 10 a la 9 que es igual a 1000
+15:04
+millones
+15:12
+no no Okay básicamente Así es mega giga
+15:19
+este hay más y aquí está la tabla por ejemplo están
+15:25
+mega giga tera terabytes por ejemplo las computadoras este Peta es ya no es tan
+15:32
+común exas Z jota este el punto es que si se dan cuenta todos los que hacen más
+15:37
+grande a la unidad es con mayúscula kilogramos también por qué me lo pusieron Y estos también deberían de ser
+15:43
+sí H bueno H dk no Okay muy bien Este electo por
+15:53
+ejemplo una hectárea no sé si saben por ejemplo cuando dicen Qué es una hectárea es 100% 100 Met no es un cuadrado de
+16:00
+100% 100 Met es se usa mucho en los terrenos no Okay este el kilo pues es
+16:07
+por 10 a la 1 Yo creo que es el más común etcétera y como habíamos dicho
+16:12
+cuando se hace más chico la unidad pues es con minúsculas verdad dci centi Mili
+16:20
+el mililitro no quiere decir el mililitro es la milésima parte de un
+16:28
+litro no el micro también es pues el microscopio un micrómetro etcétera es el
+16:34
+único que tiene algo diferente el micro Y si se dan cuenta es con la letra yga Mi todos los demás nada más es la
+16:43
+primera letra si se dan cuenta en todos los demás es la primera letra La primera letra La primera letra Bueno sí
+16:50
+excepción del micro pero todos es la primera letra en minúscula o en mayúscula Dependiendo el caso no
+16:59
+si es para más grande es por eso G giga se pone como G mayúscula verdad la tera
+17:06
+se pone como t mayúscula solo la primera letra en mayúscula si se hace más grande
+17:11
+en minúscula si se hace más chico entonces así es como se distingue no las
+17:17
+unidades este en esto algo que es muy común es
+17:23
+usar la calculadora Este sí ya ya está en el no este creo
+17:29
+que ya según yo ya estaba en el Drive este desde ayer este igual acuérdense
+17:34
+que este yo creo que entre hoy y mañana subo los apuntes porque digo obviamente está la presentación pero en blanco no
+17:42
+tiene estos apuntes Este Entonces los apuntes también Se los voy a subir este
+17:47
+para que los tengan este muy bien entonces Qué más decir Ah este en la
+17:54
+calculadora déjame voy a compartir rápido por ejemplo este es muy común que lo
+18:00
+hagamos en la calculadora no es tan común que lo hagamos así de que nosotros mano pero bueno
+18:10
+déjen Ok miren por ejemplo aquí está la calculadora no s si ya se
+18:17
+ve ya muy bien esta es una calculadora ti por ejemplo es un software este
+18:23
+cuesta no está tan barato pero bueno el punto es que aquí por ejemplo la
+18:28
+calculadora lo que se hace no es 10 y miren este signo del sombrerito es como
+18:35
+se ponen las potencias en las calculadoras y aquí por ejemplo ponemos
+18:40
+menos ves enter No aquí nos da que es 1 / 1000 No si lo queremos en decimal pun
+18:49
+001 qué es lo que les dije no es mover el decimal cuando es negativo en vez de
+18:55
+a la derecha se mueve tres lugares a la izquierda verdad si fuera positivo
+19:02
+10 al cubo Pues nos da 1000 no que es mover
+19:09
+el decimal el uno o sea si aquí estaba El decimal en el uno es moverlo tres veces 1 2s 3 Sí muy bien y eso Mira
+19:18
+funciona para cualquiera no para por ejemplo Nano nanotecnología y todo eso Por ejemplo 10
+19:25
+elevado a la 9 es el de Nano y
+19:32
+Bueno les dije o sea es mover nueve lugares a la izquierda el punto
+19:40
+decimal aquí Bueno si vamos a recordar un poco de matemáticas de suma de
+19:46
+potencias no este creo que eso lo vimos desde secundaria un poco lo vuelven a ver en prepa pero este acuérdense Por
+19:53
+ejemplo si tenemos 10 elevado a la 5
+19:58
+a se a las 6 por
+20:05
+10 elevado a la menos men 3 qué nos va a
+20:11
+dar aquí a ver ustedes antes de que yo lo 10 10 a la 3 muy bien exactamente 10
+20:18
+a la 3 porque acuérdense que cuando estamos multiplicando potencias del
+20:23
+mismo la misma base la base es el numerito 10 pues es el que está aquí abajo lo único que se hace es sumar las
+20:30
+potencias 6 + -3 es 6 - 3 6 - 3 nos da
+20:37
+verdad Entonces nos queda que esto es igual a 10 tengo una pregunta de
+20:43
+10 mande Perdón Tengo una pregunta de porque es 1 e a la men Ah bueno es que
+20:50
+las calculadoras no lo ponen como el e significa exponencial el exponencial es
+20:55
+una batura de 10 elevado a es una abreviatura es por convención eso el le
+21:04
+así como lo ves En las calculadoras significa exponencial y es una abreviación de 10 y el sombrerito 10
+21:10
+elevado a la es una abreviación de la calculadora pero no es nada de cómo seama de física ni de matemáticas es más
+21:18
+de la calculadora esta parte este es significa 10 y el elevado
+21:25
+no Okay muy bien bien Sí buena pregunta porque exactamente las calculadoras Así
+21:31
+es como lo manejan cuando es muy grande las calculadoras lo ponen así cuando Mira si te das cuenta en el 10 a la os3
+21:38
+te lo puso completo pero cuando es muchos decimales y sobre todo porque aquí estáa calculada Tú la puedes
+21:44
+programar Cuántos decimales te de pero por ejemplo las calculadoras normales y eso o cuando ya son muchos cuando ya te
+21:50
+pasas también de que 10 a la menos 20 y algo como el mol por ejemplo no bueno o al revés 10 a la 23 etcétera bien Por
+21:57
+ejemplo vamos a ponerlo este Cuál es el por ejemplo el número de abogado ya no me acuerdo 6.022 10 a la 23 creo no
+22:07
+20 es 6 punto 022 * 10 a la 23 Okay muy bien
+22:13
+bien Por ejemplo si ponemos el número de abogado 6 pun 022
+22:19
+este por 10 a la 23
+22:26
+no déjame ver est A lo mejor es que aquí en esta calculadora es
+22:34
+con el punto no es con el este para la multiplicación mira lo mismo este e
+22:40
+significa 10 elevado a la es una viación de las calculadoras no es nada de física
+22:46
+ni de matemáticas Pero bueno hay que seguir eso nada más era para demostrarles esto por lo general se hace
+22:52
+en las calculadoras Esto no se hace en nosotros pero si es importante que
+22:57
+recordemos un poco las reglas de los exponentes A lo mejor Bueno si da tiempo mañana lo volvemos a ver damos un repaso
+23:04
+de esto pero sí las reglas de los exponentes son importantes en notación
+23:09
+científica Okay muy bien Vamos a seguir Este pero les digo esto se hace casi en
+23:14
+la calculadora nada más es que lo sepan poner aquí es por eso que sí es importante lo de aritmética Así que
+23:21
+hayan aprendido bien aritmética este secundaria A lo mejor mañana vemos un
+23:28
+repasito rápido pero bueno básicamente Esta es la anotación científica y bueno
+23:35
+vamos a seguir un poco con lo que son conversiones conversiones Pues bueno las
+23:41
+conversiones son muy importantes porque como estamos viendo hay unidades este prefijos y todo eso y Necesitamos saber
+23:47
+convertir H es por ejemplo la velocidad que nosotros
+23:54
+estamos acostumbrados cuando manejamos cuál es Cuál es la que está en el velocímetro
+24:00
+qué unidades son no lo de mn c Bueno esa es la la de Física Pero cuando tú estás
+24:07
+manejando o cuando tus papás están manejando Cuál es la unidad que
+24:13
+kilómetros por hora exactamente Perfecto es kilómetros por hora Como dijo también
+24:18
+Rafa la unidad que nosotros tenemos que manejar para hacer nuestros cálculos en física Es metro por segundo Entonces
+24:26
+tenemos que hacer una conversión porque por ejemplo si te dicen Ah pues voy a 60 km
+24:33
+porh para calcular la energía cinética por ejemplo se necesita calcular ahora sí que en metros
+24:41
+por segundo este 60 km por hora okay miren aquí hay hay tabas ahorita no las
+24:49
+tengo pero por ejemplo 1 km es igual a
+24:54
+qué a 1000 Met 1000 met perfecto exactamente porque acuérdense que
+25:00
+dijimos que el kilo está acá significa por 10 a la 3 entonces bueno Tenemos
+25:06
+aquí que este para poder hacer la transformación yo lo llamo así miren
+25:12
+vamos a poner nada más la afinidad del kilm por h y este 1 km entre 1000 m
+25:18
+tenemos que ver qué es lo que queremos eliminar queremos eliminar el kilómetro
+25:23
+y queremos eliminar la hora no Okay primero vamos a eliminar el kilómetro para eliminar una unidad tiene que estar
+25:30
+en el lado contrario o sea multiplicándose en el lado contrario qué voy por ejemplo si tengo el kilómetro
+25:36
+para eliminarlo tiene que haber ser uno entre kilómetro no Para qué Porque
+25:41
+cuando así que por matemáticas si se acuerdan iguales va que terminar como kilómetro entre kilómetro y esto se
+25:49
+anulan verdad porque kilómetro entre kilómetro es igual a 1 verdad la misma
+25:55
+unidad es como si tuviéramos x ent x si nos acordamos de matemáticas no en de secundaria x ent x Cuánto
+26:02
+es uno verdad es lo mismo aquí kilómetro entre kilómetro se anulan verdad se hace
+26:09
+uno no se hace cero no O sea se hace uno porque es es el equivalente a dividir 5
+26:15
+/ 5 cuánto nos da 5 / 5 un uno verdad uno así es cuando tú
+26:24
+divides por puso maestro m Perdón por qué puso uno entre kilómetro Ah bueno
+26:31
+esto porque ahí va Mira Cuando haces Déjame Si lo pongo acá más claro mira
+26:37
+cuando tú tienes kilómetro no tienes que encontrar una conversión
+26:44
+Mira o sea Mira vamos a poner aquí tiene 5 km No si tú lo quieres convertir a
+26:50
+metros por ejemplo la conversión dijimos que 1 km es igual a 1000 m verdad
+26:58
+si tú quieres eliminar el kilómetro tendrías que pasar este kilómetro abajo
+27:04
+verdad tendrías que pasarlo dividiendo a esta parte quedaría así 1000
+27:10
+Met entre salud 1 km y esto lo pondríamos
+27:21
+acá y aquí ahora sí ya podríamos eliminar verdad Lo importante es
+27:26
+eliminar la unidad del elimina el kilómetro con el kilómetro y qué nos queda nos queda 5 por
+27:34
+1000 entre un verdad Bueno nos queda la
+27:40
+unidad del metro obviamente esa no se fue esa sigue aquí ent Cuánto es 5 por
+27:46
+1000 5000 5000 verdad 5000 Met Qué quiere decir que 5 km es equivalente
+27:56
+a 5000 m verdad lo que puse Aquí del lente un es no sé si se acuerdan en
+28:03
+matemáticas de algo llamado El
+28:08
+recíproco el recíproco en matemáticas quiere decir el recíproco de X por
+28:14
+ejemplo sería 1 ent x verdad multiplicar por el
+28:19
+recíproco es multiplicar entre el número que te dé igual a 1 d x por ejemplo es 1
+28:26
+entre x igual aquí de kilómetro Cuál es su
+28:33
+recíproco uno entre kilómetro verdad es para que se elimine y nos de
+28:41
+uno okay muy bien Pues básicamente ahora que bueno lo que teníamos 60 km
+28:50
+porh tenemos que eliminar el kilómetro y tenemos que eliminar la hora dijimos por ejemplo que 1 kilómetro
+28:58
+es igual a 1000 m y una hora okay
+29:04
+bien aquí lo podemos hacer directo o en dos pasos bien podemos hacer una hora
+29:12
+Cuántos minutos tien 60 60 muy bien 60 minutos verdad y
+29:20
+un minuto Cuántos segundos tiene 60 60
+29:26
+60 verdad Okay bien aquí podemos hacerlo en dos pasos o podemos hacerlo directo
+29:32
+podemos calcular Cuántos segundos tiene una hora voy a poner má allá [Música]
+29:40
+esto okay Cuántos segundos tiene una hora lo podemos calcular o lo podemos
+29:45
+calcular en dos pasos bien una hora pues bueno si dijimos que tiene 60
+29:53
+minutos y para convertir los minutos hace segundos cómo sería este minuto
+30:00
+pasa dividiendo verdad Entonces sería 60
+30:06
+Segundos por un minuto verdad sí entienden un poco la lógica de
+30:12
+cómo es esto ya lo estoy entendiendo más creo
+30:18
+muy bien Mira básicamente Es que esto lo pasemos acá abajo verdad inamos
+30:24
+pasarlo abajo ustedes vean si la unidad que tenemos que queremos Eliminar esta arriba Entonces tenemos que pasar de las
+30:32
+tabas su conversión esta misma unidad pero abajo y al revés ahorita vamos a ver con la hora la hora está abajo
+30:39
+entonces tenemos que encontrar una conversión que la donde la hora esté
+30:44
+arriba verdad Para que se eliminen tenemos que buscar que sea el recíproco acuérdense lo que dije del recíproco el
+30:51
+recíproco al revés Miren el recíproco de 1 en X cuál sería x no porque 1 ent x
+30:59
+por x nos quedaría x ent x y x x es igual
+31:05
+a un verdad es como el recíproco el recíproco de un cuarto Cuál
+31:11
+es 4 verdad porque 4 Bueno este 4 ent 4 nos da 1 verdad es
+31:22
+encontrar el recíproco y cómo lo hacemos Bueno nos van a dar tablas o nos las podemos saber
+31:28
+como esta por ejemplo lo encontramos así Ahora vamos a hacerlo para este para el kilómetro por
+31:33
+h ya dijimos que esa conversión 1 km es igual a 1000 Met el kilómetro Aquí está
+31:40
+arriba Entonces este kilómetro tiene que pasar abajo verdad la lógica nos dice
+31:48
+que si está arriba tenemos que encontrar el contrario ponemos los 1000 Met entre
+31:56
+un kilómetro verdad
+32:02
+sí Y aquí ponemos la una hora no al
+32:10
+revés ahora la hora dijimos bien Vamos a hacer aquí 60 minutos por 60 Segundos
+32:16
+cuánto nos da 60 por
+32:22
+60 nos da 3600 verdad en una hora hay
+32:32
+3600 segundos entonces así lo podemos hacer acuérdense aquí la hora está abajo
+32:42
+entonces el que tiene que pasar dividiendo es el segundos verdad Porque necesitamos que la hora esté arriba
+32:49
+Entonces es por eso que este 3600 pasa dividiendo verdad
+32:57
+Muy bien Entonces tenemos 60 por 1000 entre 3600 verdad esa va a
+33:06
+ser la operación
+33:17
+final chavos tranquilo mano para ver esto pero bueno
+33:23
+bien Vamos a eliminar las unidades no kilómetro se va con kilómetro verdad Ese
+33:30
+está arriba y es está abajo que es lo que estamos buscando no eliminar los kilómetros y las horas luego vamos a
+33:36
+eliminar esta hora con esta hora verdad Y qué unidades nos quedaron voy a poner
+33:41
+en verde bien qué unidades nos quedaron metro entre segundo que es lo que
+33:48
+buscábamos no metro entre segundo ya nada más queda hacer las
+33:53
+multiplicaciones no esto es está bien poner para acá Okay bien nos queda 60
+34:02
+multiplicando a 1000 entre 1 y 1 entre
+34:10
+3600 y ya simplificando esto es 60 por 1000 Cuánto es 60 por 1000
+34:19
+chavos 600,000 muy bien dividido entre
+34:25
+3600 ya si quieren hag la calculadora yo lo voy en la calculadora este así que
+34:32
+60,000 entre 3600 Déjenme Ahorita lo
+34:38
+hago u Ah se lo muestro en la calculadora bien okay Déjenme se los
+34:45
+muestro rápido voy Pues sí no chavos bien
+34:53
+60,000 ya okay Ya 60,000 entre 3600 nos da Bueno ya en
+35:00
+decimales 16.66 no entonces 60 km porh es
+35:08
+equivalente a 16.66 Met por
+35:18
+segundo vamos a volver al iPad Okay pu así chavos o sea no es tan
+35:27
+tampoco es tan fácil pero este ahí vamos este el punto es este no el
+35:34
+resultado final 60 km por h a metros por segundo sea
+35:40
+16.66 eso es cuestión de meterlo en la calculadora Pero acuérdense lo importante se le llama la reg H creo que
+35:46
+sí para unidades que el punto es que haces como una H si se dan cuenta Esta H
+35:53
+no el punto es que tenemos que tener a acuérdense como les dije para eliminar la unidad que está
+36:00
+arriba Tenemos que tener su recíproco O sea la unidad abajo verdad y lo mismo si
+36:06
+la tenemos aquí abajo tenemos que tener la otra unidad aquí arriba y eso se ha
+36:11
+se hace con taba de conversiones o sea ahí te van a dar por ejemplo aquí en una tabla era lo que les decía eran los
+36:18
+valores de este que 1 kilm es igual a 1000 m y una hora es igual a
+36:27
+3600 segundos aquí el chiste es que si el kilómetro está arriba Entonces o sea
+36:34
+en la unidad esta y la queremos eliminar entonces este kilómetro debe de ir
+36:40
+abajo y aquí al revés si la hora está arriba Entonces esta parte tiene que
+36:45
+irse abajo el punto es encontrar el recíproco o sea eliminar las unidades si
+36:52
+está arriba se encuentra el que está abajo y el que si está abajo el que está arriba Así es como funcionan las
+36:58
+conversiones y puede ser para cualquiera ahorita lo hicimos en metros por segundo km por Pero la verdad es que esta rega
+37:04
+del h se puede hacer con cualquier Lu vamos a ver más ejercicios de esto no se preocupen y bueno vamos a ver un poco de
+37:12
+trigonometría a repasar un poco porque si se necesita para para física miren lo
+37:19
+que veíamos ayer un triángulo rectángulo alguien me quiere decir por ejemplo Cuál es la el
+37:27
+único requisito para que sea un triángulo rectángulo que tenga un ángulo de 90 gr exactamente muy bien
+37:34
+este con un ángulo de 90 gr Ya la armamos ya es un triángulo
+37:39
+rectángulo y bueno Todos los triángulos Así que las propes de los triángulos en
+37:44
+todos cualquier triángulo tiene tres lados no
+37:54
+rectos no curvos ni nada y Cuál es la otra propiedad que es la suma
+37:59
+de sus ángulos tiene que ser igual
+38:07
+a 180 gr los únicos dos requisitos para un triángulo para un triángulo rectángulo
+38:14
+como dijimos pues obviamente las mismas
+38:20
+propiedades de un triángulo estas dos pero aparte tiene que
+38:27
+un ángulo recto o sea
+38:33
+de 90 gr verdad aquí decir que los otros dos ángulos se van a dividir los otros
+38:39
+90 ese es un triángulo rectángulo y todo triángulo rectángulo
+38:44
+bueno tiene por convención el lado más
+38:50
+largo es la hipotenusa Qué es la hipotenusa es el lado más largo verdad
+39:00
+Okay es el lado más largo y bueno este es el ángulo y este
+39:07
+es el lado más largo la hipotenusa no y aquí está el a y el B si estamos tomando
+39:15
+este ángulo vamos a llamarlo el ángulo uno o el ángulo a quien y también se lo
+39:20
+pone por ejemplo el ángulo a no este símbolo llama tet la cual es una
+39:28
+letra yga no y por lo general dig no a fuerza pero casi siempre se pone para poner ángulos
+39:36
+no es así que es una convención es notación este Okay el ángulo a cuando el
+39:44
+por ejemplo este ángulo a el lado que está aquí al lado a sería nuestro
+39:51
+lado bueno también se llama catetos les gusta decirle catetos pero cateto es lo mismo que el lado cateto o
+40:00
+lado adyacente adyacente el significado en
+40:06
+español quiere decir el que está próximo al lado el vecino No ese es el adyacente
+40:11
+y el B que es el
+40:18
+cateto opuesto o sea el que está del otro lado no el B aquí este ángulo
+40:25
+opuesto el B verdad Muy bien Y pues ya habíamos dicho ayer un poco que el
+40:33
+teorema de Pitágoras el teorema de Pitágoras
+40:40
+hay una demostración la verdad es que no nos da tiempo si quieren Les envío el videíto este déjame ver No aquí no está
+40:48
+Okay el teorema de Pitágoras nos dice que el c cuadrada es igual a a cuadrada
+40:55
+B cu creo que esto lo hemos visto desde secundaria entonces este este es el teorema de Pitágoras Y si queremos tener
+41:02
+nada más el valor de la hipotenusa pues es así que sacar la raíz cuadrada no en
+41:07
+ambos lados acuérdense si hacemos raíz cuadrada de esto pues se anula no el cuadrado y el este y
+41:15
+nos queda esto no este es el teorema de
+41:20
+Pitágoras Okay muy bien Vamos a repasar un poco
+41:28
+también Qué significan el
+41:33
+seno seno el
+41:39
+coseno la
+41:45
+tangente existen las otras no los Bueno la verdad es que no se usan tanto pero me está la secante la
+41:52
+cosecante al menos en física lo que vamos a ver no tanto Pero y la cotangente
+41:58
+no Okay muy bien el seno el seno Miren
+42:05
+el seno si se acuerdan Cuál es la definición es
+42:12
+adyacente entre
+42:19
+hipotenusa mu
+42:25
+bien no lo voy a poner de Rosa Okay adyacente entre hipotenusa verdad
+42:33
+Muy bien el del coseno cuál se imaginan que es no sé alguien que quiera decir el
+42:40
+del
+42:46
+coseno cateto opuesto entre hipotenusa perfecto muy bien es el
+42:54
+opuesto entre la hipotenusa el cateto opuesto entre la
+43:01
+hipotenusa muy bien y la tangente Miren la tangente Cuál es su
+43:08
+definición la tangente es igual a qué entre qué es es la división
+43:17
+de El opuesto entre
+43:22
+at Sí pero realmente Bueno o sea en lo que yo quería decir a ver Dj aquí
+43:31
+[Música]
+43:37
+es es la tangente es el seno del ángulo entre el coseno
+43:46
+verdad Okay miren por qué voy porque aquí aquí viene la lógica de Por qué es así vamos a copiar y pegar para que
+43:53
+veamos la división no sé si se acuerdan de la ley del sandwich de matemáticas de
+43:58
+las divisiones si no pu bueno ahita la vamos a ver
+44:04
+preocupen Okay Miren el seno ya dijimos que era esto
+44:11
+verdad y el coseno dijimos que era esteo Entonces
+44:18
+Okay haciendo la ley del sandwich es la división de una
+44:25
+división Okay bien la ley del swich nos dice que
+44:31
+este se va aquí y este se va acá verdad Ok vamos a tener lo siguiente adyacente
+44:49
+noac Ok Muy bien
+44:54
+hipotenusa no ent igual
+45:11
+hipotenusa hipotenusa por opuesto
+45:21
+verdad quedó así y qué dijimos de la ve pasada el recíproco no O la división
+45:28
+cuando uno está arriba y el otro está abajo Qué pasa elimina verdad Entonces hipotenusa
+45:35
+se elimina con hipotenusa Entonces qué nos
+45:40
+queda es el adyacente
+45:46
+ente
+45:53
+verdad Okay muy bien básicamente es lo que este nos queda no este muy bien
+46:01
+Vamos a seguir este Bueno lo que les decía del teorema de Pitágoras no este
+46:08
+Ay Bueno vamos a este el teorema de Pitágoras de ayer por qué lo habíamos
+46:14
+visto se acuerdan no sé si se acuerdan de Por qué
+46:21
+es importante el teorema de Pitágoras HM para saber los ángulos para saber las
+46:29
+distancias más que eso es para saber las distancias no s si se acuerdan que les
+46:36
+había dicho si tenemos dos puntos no era para poder obtener las
+46:42
+distancias y también bueno en física nos va a servir para otra cosa también nos va a servir para poder hacer operaciones
+46:49
+de vectores no
+46:57
+Okay muy bien nos va a servir para [Música]
+47:08
+obtener Okay para poder obtener operaciones de vectores no entonces este esto nos sirve para
+47:17
+saber magnitudes de vectores lo vamos a ver Déjenme ver Ah miren Aquí está los
+47:22
+vectores como habíamos dicho no sé si alguien me este Recuerde que es un
+47:29
+vector Bueno vamos a algo más sencillo tod una escalar un escalar que habíamos dicho que
+47:36
+era un número no que un escalar no tiene dirección
+47:46
+verdad un vector sí
+47:51
+tiene tiene magnitud y dirección
+47:59
+verdad sí Okay Ese es un vector que tiene
+48:07
+magnitud y dirección los vectores se pueden Representar en bueno en dos dimensiones se pueden representar de dos formas que
+48:15
+es la forma rectangular en la forma
+48:23
+polar voy poner polar
+48:31
+verdad Okay rectangular y Polar la rectángular
+48:38
+bien si ustedes ponen un vector así se llama rectangular
+48:47
+porque es un rectángulo No aquí está mal hecho
+48:54
+per algo así un poco más rectángulo Okay muy
+48:59
+bien la forma rectangular es con sus componentes est es con
+49:05
+sus componentes para eso es la parte de
+49:10
+trigonometría para poder sacar los componentes de un vector aquí tiene
+49:16
+componente en x y componente en y Okay y la forma polar Ah lo voy a
+49:24
+poner por ejemp un vector en forma polar es que sea TR no bien aquí hay unas
+49:32
+cosas que antes de empezar a lo mejor debía haber dicho no sé si han visto o se acuerdan de que es
+49:38
+un vector
+49:48
+unitario muy bien un vector unitario básicamente
+49:54
+es bien ya desde ahorita lo vamos a ver por ejemplo en dos dimensiones su nombre
+50:02
+lo dice que su unidad O sea que vale una unidad realmente nada más es para darle
+50:08
+dirección al vector y se ponen bueno se pueden poner de diferentes maneras se
+50:13
+pone siempre con el zerito x [Música]
+50:19
+y que es un vector unitario en x un vector unitario en y y otro en Z también
+50:25
+en ingeniería les gusta ponerlo i j k Por qué la verdad no s es más como una
+50:33
+convención esto es más como en ingeniería les gusta pero lo pueden encontrar en los
+50:40
+libros de las cualquieras esto lo usan más en física los libros de física en los libros de ingeniería lo ponen como
+50:45
+yjk en dinámica y en todo eso okay Bueno
+50:50
+por ejemplo para representar un vector unitario se puede poner así por ejemplo t x
+50:56
+4 no se puede poner igual 3 y +
+51:02
+4 este sería como en física esto sería como en ingeniería
+51:09
+no muy bien Bueno estos no se pueden sumar como tal
+51:15
+el tres y el cuatro por qué Porque es diferente sus vectores no es como en
+51:20
+álgebra no tú cuando tienes 3x + 4y No los puedes sumar verdad
+51:25
+tienen diferente este variable lo mismo aquí aquí no los puede sumar porque sus
+51:31
+vectores unitarios son diferentes muy bien de acuerdo con eso esa es la forma
+51:37
+rectangular la forma polar es que tú tienes la
+51:43
+magnitud y el ángulo verdad por lo general se pone
+51:50
+así 5 ángulo de 90 por ejemplo grad no Esta es como la
+51:56
+forma polar es la forma polar de tenerlo este
+52:02
+este es bastante útil No [Música]
+52:08
+este Okay este es bastante útil verdad Muy bien y vamos a má Así
+52:18
+que ver un poco de estos ejemplos Es importante saber las dos por qué Porque
+52:25
+bien para hacer operaciones de vectores Siempre vamos a tener que transformarlo en sus componentes no Okay muy bien
+52:34
+Vamos a ver okay miren operaciones con vectores para nosotros tener operaciones
+52:40
+con vectores no este se hace de la siguiente manera
+52:46
+este Okay muy bien bien está la suma de suma de
+52:54
+vectores la resta de
+53:06
+vectores por lo general un vector se representa así Bueno hay muchas maneras
+53:11
+de ponerlo pero una forma normal es que le pongan la fechita o también las
+53:16
+pueden poner como enitas o sea de que más algo así
+53:22
+no este hay varias hay varias aciones para poner vectores yo por ejemplo Me
+53:27
+gusta ponerle así la fechita porque es muy explícito pero también hay gente que le pone
+53:33
+así digo la verdad es que lo pueden encontrar Dependiendo el libro y lo que sea a m me gusta el de las flechitas
+53:39
+porque es muy explícito Pero bueno este está la suma la resta y está la
+53:46
+multiplicación por un escalar existen otras dos per eso lo
+53:51
+vamos a ver ya en la este en la parte de un idad que es no sé si se acuerdan pero
+53:58
+está bueno el producto punto y el
+54:05
+producto CR verdad sí Bueno eso lo vamos a ver después
+54:13
+producto Qué producto punto y el producto CR eso son otras operaciones que vamos a
+54:21
+verlo más adelante yo creo que en la siguiente semana pero este nada más para
+54:27
+que lo tengan en la mente ahorita lo que vamos a ver son estos tres en suma de vectores la resta de vectores y la
+54:33
+multiplicación por un escalar como les dije el primer paso el primer paso es
+54:40
+para una operaciones de vectores es
+54:49
+convertir convertir a sus componentes
+54:55
+O sea a la forma Cuál es la forma que tiene sus
+55:02
+componentes
+55:07
+la componentes y rectangulares lo mismo
+55:13
+verdad okay Porque por ejemplo nos pueden dar esto de que
+55:18
+5 otro 90 no este 40 no Okay dijimos que el seno de un ángulo
+55:28
+el opuesto no entre la
+55:34
+hipotenusa que creo que ahorita que lo pienso aquí me equivoqué sí Con razón me
+55:40
+salía el adyacente Aquí está al revés Ese fue mi error Aha que lo pienso el
+55:47
+seno por eso no me salía lo de la tangente Okay entonces aquí el seno no
+55:53
+es el adyacente si cierto se me olvidó es así
+55:58
+realmente entonces este tiene que ser así
+56:08
+u opuesto muy bien digo Aquí fue mi error
+56:15
+porque sí el seno realmente es el opuesto entre la hipotenusa y el coseno
+56:21
+es el adyacente entre la hipotenusa Y si tiene razón porque miren seno es el que se usa normalmente para sacar Qué
+56:27
+componente no sé si saben el seno sí el componente y la y
+56:37
+por lo general se usa para el seno el seno del ángulo el seno del ángulo no
+56:44
+multiplicado por la magnitud del vector vamos a ver la magnitud del
+56:50
+vector Esto es para sacar B O sea componente y y el coseno
+56:58
+del ángulo por la magnitud del vector se usa
+57:03
+para sacar BX Sí perdón aquí no s fue un error muy grande entonces
+57:09
+aquí okay Pero bueno el punto es que el seno termina Así voy a poner así el seno
+57:16
+es el opuesto entre la hipotenusa y el coseno es el adyacente
+57:22
+entre la hipotenusa y la tangente es la división del seno entre el coseno y Bueno pero yao para evitarnos toda esta
+57:29
+este rollo nada más es el opuesto entre el adyacente verdad eso
+57:37
+es la tangente Ese es el coseno y ese es el seno okay Bueno estas cosas nos sirven yo no es que yo solo sa que no
+57:44
+vas a enseñar porque sí es porque nos sirven para sacar los componentes Bueno ya creo que no nos va dar tiempo de todo
+57:50
+todo okay Bueno ya la siguientes este mañana vemos lo que faltó de hoy este
+57:55
+okay Bueno muy bien entonces por ejemplo 5 ángulo de 40 nosotros para sacar sus
+58:02
+componente mir se lo voy a dibujar ya para terminar este vector de 5 con ángulo de
+58:08
+40 es es equivalente a tenerlo siguiente no sé si se acuerdan Así que
+58:16
+desde primaria que hemos visto el pano cartesiano a ver alguien que me diga en
+58:22
+el lado horizontal
+58:28
+qué eje tenemos chavos x verdad en el horizontal
+58:33
+acuérdense horizontal es el X muy bien y
+58:40
+el vertical el vertical qué eje tenemos y
+58:47
+y y y entonces tenemos x horizontal y y
+58:53
+as hacia arriba bueno así no y bueno por convención bien Vamos a recordar un
+59:00
+poco este por convención chavos
+59:08
+acuérdense Okay el plano
+59:15
+cartesiano el plano cartesiano Así se ve por lo general No eso lo hemos visto Así
+59:21
+que desde primaria chavos Okay muy bien si nos acordamos este es x y este es y
+59:29
+pero x hacia la derecha es positivo o negativo hacia la
+59:36
+derecha positivo positivo muy bien verdad y y hacia arriba es positivo
+59:43
+verdad Entonces x hacia la izquierda pues por lógica va a
+59:49
+ser negativo negativo muy bien y la y hacia hacia abajo pues va a ser negativo
+59:57
+verdad Okay eso es muy importante muy importante tenerlo en cuenta porque las componentes de los vectores también
+1:00:03
+pueden ser positivas y negativas lo vamos a ver cuando hagamos ya operaciones de vectores este por ejemplo
+1:00:10
+y ya para terminar este c ángulo de 40 es como si tuviéramos dijimos que esta parte Bueno aquí
+1:00:20
+está bueno haba puesto Aquí esta parte es la
+1:00:25
+la magnitud es el valor del vector magnitud por lo general de un
+1:00:31
+vector se pone así as lo ponen matemáticas con dos líneas
+1:00:38
+este bueno paradas no paralelas de un lado y del otro esto quiere
+1:00:46
+decir magnitud del
+1:00:52
+vector la magnitud del vector se puede se saca con el teorema de Pitágoras lo vamos a ver un poquito más adelante H
+1:00:58
+mañana este Pero bueno básicamente este para terminar este
+1:01:05
+tiene una magnitud de cco y este ángulo es de 40 gr este vector no de 5
+1:01:18
+40 Okay ya para terminar no más es esto chavos este vector es así si lo
+1:01:25
+dibujamos sería así tiene una magnitud de 5 y un ángulo de 40 gr verdad Okay
+1:01:30
+muy bien y este necesitamos sacar sus componentes Ne vamos tener cuánto
+1:01:37
+vale Este vector uno mir vamos a llamarlo vector un inamos sa ver cuánto vale
+1:01:42
+b1x Y B1 y como dijimos rápido para
+1:01:47
+terminar b1x los componentes x se sacan multiplicando el coseno no coseno de 40
+1:01:55
+por 5 y B1 sería igual a seno de 40
+1:02:04
+gr por 5 hacer en la calculadora nada ya para terminar Se los voy a
+1:02:11
+enseñar lo
+1:02:18
+último bien habíamos
+1:02:23
+dicho muy bien habíamos dicho que era coseno de
+1:02:34
+40 coseno de vamos a poner Es que no sé si
+1:02:43
+estados radianes OK Para cambiarlo
+1:02:49
+aquí era aquí notación
+1:03:03
+No aquí 40en
+1:03:11
+40 este
+1:03:20
+por 3.8 8 bueno 83
+1:03:27
+Pero podemos algunos decimales seno de
+1:03:32
+40
+1:03:39
+vo 5 y nos
+1:03:44
+da ok 3.2 No ya nada más para terminar
+1:03:52
+este for comprar si a ver si la calcul estaba bien
+1:03:58
+es este bueno para ser más
+1:04:03
+exacto Ajá al cuadrado Bueno Este es el teorema de Pitágoras no habíamos dicho
+1:04:10
+que al cuadrado
+1:04:17
+más mañana lo vamos a ver a detalle esto nada más es para comprobar que sí haya
+1:04:23
+salido bien porque Lu La calculador no este elevado a la
+1:04:30
+0.5 sí miren muy bien como allá les digo por qué pero o sea la magnitud de este
+1:04:37
+vector nos dio cinco que era el este lo Eso es para comprobarlo mañana lo vamos a ver a detalle digo no se preocupen
+1:04:43
+ahorita nada más era para enseñar que de verdad si estua bien la calculadora Pero bueno chavos ya así que ya ya es todo
+1:04:49
+por hoy mañana seguimos viendo esto y no se preocupen digo yo sé que va rápido esto pero pues en el col vamos a hacer
+1:04:55
+van a hacer ustedes más ejercicios para que lo tengan muy presente y bueno chavos nos vemos cuídense mucho y este
+1:05:03
+profe Y sí Bueno Rogelio Sí este sí me equivoqué O sea sí Ya lo corregí sí se
+1:05:09
+se me pasó era al revés ya ahí ahorita en los apuntes está ignoren lo que dije al principio pero bueno Está muy bien de
+1:05:16
+todo ya ya vieron los apuntes Ya lo corregí y bueno este Okay chavos nos vemos y Cuídense
+1:05:23
+Nos vemos mañana nos
+1:05:29
+vemos

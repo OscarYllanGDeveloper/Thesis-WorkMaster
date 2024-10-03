@@ -1,0 +1,762 @@
+0:02
+Okay chavos bueno como les había dicho verdad vamos a ver un poco de matemáticas discretas tamb lo vamos a ver un poco aplicado en python para que
+0:09
+no se les haga tan teroso y muy bien
+0:17
+este
+0:28
+segundo
+0:42
+Bueno chos vamos a lo mejor vamos a ver un poquito lo vos en python aplicado Ok
+0:48
+pues bueno miren básicamente
+0:54
+chavos bueno el área de matemáticas discretas verdad es este
+1:03
+okay Bueno las matemáticas discretas chavos habíamos dicho no que se trata de
+1:08
+conjuntos discretos verdad ya habíamos dicho por ejemplo que este si se
+1:13
+acuerdan este las bueno queé son contables las opciones verdad es como en
+1:20
+programación el número de caminos que tenemos el número de opciones el número de operaciones que tiene que realizar
+1:27
+nuestro programa para realizar algo las podemos contar y no son de que podamos
+1:33
+hacer la mitad de una acción verdad no es como que digas este o de personas lo que habíamos dicho verdad de que ordenar
+1:39
+por ejemplo no que si teníamos este 15 salones verdad este de este 20 personas
+1:48
+cada salón y si tenemos 350 estudiantes No pues Cuántos Así que
+1:57
+Cuántos podrían este caber Y cuánto sobra no etcétera y así este muy bien
+2:05
+Pues bueno hoy vamos a ver un poquito Ahora sí que operaciones de conjuntos verdad
+2:12
+este el cual
+2:28
+está
+2:35
+okay Bueno este les decía perdón este Okay los conjuntos verdad
+2:41
+acuérdense que habíamos visto que también en python había una estructura de datos que conjuntos que se escribía
+2:47
+alguien se acuerda cómo se escribía en python enas que un conjunto un set Por
+2:54
+ejemplo si Pía A cómo se ponía a un set
+3:02
+eh con paréntesis no era con este igual que aquí una pregunta o sea se pone con
+3:08
+las llaves no ah no pero Quiénes eran los diccionarios no pero es que hay dos
+3:14
+Acuérdate que los diccionarios Cómo se escriben mira muy buen sí los diccionarios son con llave y de que el
+3:20
+valor la clave y el valor y el también es con llaves Sí mira un diccionario
+3:27
+sería así como Juan por ejemplo no el la llave no
+3:33
+y el valor por ejemplo no sé 10 no bueno por ejemplo aquí
+3:39
+Miguel 9 No se pone o sea los
+3:45
+diccionarios tienen el par valor no este Ke value llave valor pues este y se
+3:51
+separa con los dos puntos verdad un set o un conjunto no muy
+4:01
+parecido o sea describe con llaves pero solo son valores o sea no existe eso de
+4:07
+los dos puntos del key value es como si fuera una lista es como si fuera una
+4:12
+lista chavos pero sin este en vez de en vez de corchetes es con
+4:19
+llaves es como si fuera una lista o sea se ve muy pareci una lista pues nada más
+4:24
+que es con llaves y acuérdense que los sets solo puen tener valores
+4:33
+únicos esto es muy importante Qué quiere decir que si usted ahorita lo vamos a ver ya lo habíamos visto pero si ustedes
+4:39
+escribieran en python por ejemplo no de que no sé 10 10 10 al final python solo
+4:47
+va a guardar el primer día solo va a guardar un valor único O sea python al
+4:53
+final si lo vuelves a imprimir no python solo te va a poner esto Ajá porque
+5:00
+exactamente Esa es la definición Aquí vamos a ver de los conjuntos no es una lista de elementos únicos aquí Bueno si
+5:07
+lo ves En matemáticas es números pero realmente acuérdense que vimos que puede ser de cualquier cosa en python no este
+5:13
+Pero tiene que ser eso sí únicos valores
+5:19
+únicos muy bien bien de Aquí vamos a ver un poco de
+5:26
+este las operaciones [Música]
+5:35
+de las operaciones que existen en python no para poder bueno en python y en general en conjuntos las operaciones que
+5:43
+tenemos son las siguientes no si ustedes en Secundaria se acuerdan porque
+5:48
+seguramente s lo vieron este en Secundaria les Debi haber enseñado lo que eran los diagramas de
+5:55
+ven muy bien los
+6:00
+sí okay excelente pues bueno en los diagramas de ven chavos acuérdense que teníamos dos círculos por ejemplo no en
+6:07
+un rectángulo grandote y cada uno de estos círculos era un
+6:12
+conjunto Okay y bueno por ejemplo existía de que
+6:20
+también eso es clave para probabilidad estadística este para combinatoria etcétera los bueno ustedes si alguno de
+6:27
+ustedes les interesa la parte de programación de ciencia de datos Pues todo es probabilidad y estadística Y
+6:33
+esta es la base entonces pues bueno vamos a seguirle para ver este también en las bases de datos los que les
+6:39
+interese todo lo de base de datos no es sql Y eso pues también es este eh con
+6:47
+esto no es con las matemáticas de conjuntos álgebra y este cálculo de conjuntos que bueno eso no se cubre aquí
+6:53
+pero esta es la base base para empezar con eso okay muy bien y bueno entre las
+7:00
+operaciones de conjuntos que tenemos una es la unión de conjuntos chavos otro es
+7:05
+la intersección de conjuntos existe también lo que se llama complemento de
+7:11
+conjuntos diferencia de conjuntos que bueno acuérdense habíamos visto un poco
+7:17
+el día que vimos que esta parte matemáticas discretas que no era lo mismo A Men B que B men a que es lo como
+7:24
+matemática normal verdad no es lo mismo 5 - 4 que 4 - 5 verdad uno nos da
+7:30
+negativo y el otro nos da positivo entonces no es lo mismo igual en conjunto no es lo mismo A - B que b - a
+7:37
+Okay muy bien y miren este aquí se los fui poniendo
+7:48
+como bueno la ingeniería de ciencias de datos este bien si quieren pued hacer un
+7:56
+pequeño paréntesis de lo que es hoy en día si ven tres tipos de trabajos no que
+8:04
+tienen que ver con datos hay uno que se llama analista de
+8:11
+datos hay otro que se llama científico de
+8:17
+datos Y hay otro que se trata buen ingeniero de
+8:25
+datos no sé si alguno sepa Cuál es la diferencia entre cada uno de estos
+8:33
+bueno analista básicamente es Yo creo que el más común este la analista much sobre
+8:42
+todo muchos analistas de datos son gente que estudió como negocios o finanzas o ingenierías y aquí es como el más
+8:50
+amigable diría yo de los tres en el sentido de que por ejemplo las habilidades que tienes queer una es
+8:57
+Excel la fuerza otro
+9:08
+es python
+9:15
+También cql muy bien Por ejemplo una la lista de
+9:22
+datos es una persona que literalmente le dan muchas le dan datos no puede ser de
+9:28
+negocios Oye día lo más comúnes de negocios no este pero también puede ser de otras cosas este de que la oferta la
+9:35
+demanda Cómo se comportan los estos y básicamente es que sepas manipular los
+9:40
+datos y sepas Este sí pues que te den datasets tú llegas con esa información
+9:47
+analizas las ventas analizas lo que los usuarios pusieron que sí les gustó que no les gustó cuándo compraron cuándo
+9:54
+vendieron cuánto en cuánto etcétera y tú este por lo general para eso usas bueno
+10:00
+Excel también para presentar lo bonito hay unos dos softwares que se llaman Tab
+10:05
+Power bi no este que son los más comunes también usas python no para poder
+10:11
+exactamente usar pandas npa y todas estas Este y algunas bueno librerías puedes usar de kit learn para hacer un
+10:18
+poco de Machine learning para eso que te dé unos clasificadores este y bueno sql
+10:24
+que es lo que les decía Estos son bases de datos entonces pues Bueno ese es uno de
+10:30
+los trabajos que existe como de datos de hoy en día que
+10:35
+es el más común Este es el más común y también Bueno o sea es bien pagado
+10:42
+pero dentro de los tres es el menos pagado de los tres no menos pagado de
+10:47
+los tres dig es muy bien es bien pagado en comparación de cualquier otro trabajo
+10:53
+pero este en comparación de estos no el científico de datos es el que sí se mete
+11:00
+mucho a la parte de matemáticas no este sí es muchas
+11:06
+matemáticas es el que más matemáticas tiene de los tres Aquí sí se meten de que probabilidad y estadística de que
+11:13
+esto que estamos viendo de conjuntos matemáticas discretas otros tipos de matemáticas entonces
+11:19
+este todo esto se meten muy al fondo porque exactamente son los que están
+11:24
+como investigando Qué nuevos modelos pueden hacer Esos son los que crean modelos son también obviamente pues para
+11:31
+esto necesitas mucho mucho python también
+11:36
+r es otro lenguaje pero también se necesita r este también mucho
+11:43
+sql este qué
+11:48
+más sí sobre todo mucho matemáticas y estos dos Pues bueno y
+11:55
+todas las técnicas no de Machine learning Esto sí ven mucho ma es el aprendizaje automático que
+12:02
+básicamente son algunas técnicas algunos algoritmos bueno Y algoritmos también no
+12:07
+n más lo pongo como algoritmo modelos cuá
+12:12
+dnde y de los modelos Cuál es su fin Cómo que Cuál es el fin el fin de
+12:20
+los modelos o sea para qué hacen modelos Ah ya pues mira hay muchos tipos de modelos y depende Pero mira algunos
+12:27
+ejemplos Pues de los modelos de Machine learning hay muchos la verdad es que es
+12:32
+un área muy grande pero hay unos que se llaman de
+12:37
+clasificación por ejemplo clasificación bueno regresión por ejemplo decir mira
+12:44
+una de las funciones que tiene Machine learning es pu decir tú agarras
+12:49
+información pasada no por ejemplo como de ventas no hay una cosa que se llama series de
+12:57
+tiempo hay series de tiempo hay de este valores también Ah vamos a ver por
+13:04
+ejemplo bueno rápido sin desnos tanto la series de tiempo por ejemplo no sé si han visto estas tablas no de cómo se
+13:10
+comportan por ejemplo como las acciones en la bolsa y así no pues bueno con Machine learning
+13:16
+exactamente agarran la información pasada y con esta información pasada
+13:22
+pueden predecir en cierta medida digo al final de cuentas es probabilidad
+13:28
+estadística O sea tienes un cierto grado de probabilidad no es Exacto O sea no existe nada 100% seguro pero sí tienes
+13:37
+mejores probabilidades de tener una mejor decisión que si lo hicieras así al
+13:42
+que con puras corazonadas no entonces esa es una de las funciones también más
+13:48
+o menos sirve para poner precios no este por ejemplo en las casas no tú sabes por
+13:56
+ejemplo o sea te sirve más o menos menos para saber en qué precios puedes poner
+14:02
+una casa o así sin que o sea que sea como algo
+14:07
+lógico porque nosotros por ejemplo sabemos que si esto fuera no
+14:14
+sé a mayor mir área esto que sea el área de una casa no Y esto que sea el precio
+14:22
+no Nosotros sabemos que la lógica dice que a mayor área mayor preso no
+14:29
+Pero hay otros Así que pueden usar otros otras medidas no de que área número de
+14:37
+baños el qué más puede ser el número de baños
+14:42
+el este los materiales de la casa etcétera muchas de esas cosas también se
+14:48
+pueden usar para hacer una predicción por ejemplo hay un modelo que el más sencillo que se llama regresión lineal
+14:55
+que es poner una línea no que te trate de cubrir la mayor el mayor número de
+15:01
+puntos posibles no básicamente eso también es otro de los modelos de
+15:07
+Machine learning también hoy en día por ejemplo se usan para predecir enfermedades no por ejemplo no
+15:13
+sé si les había dicho una estadística que el Bueno ese es en Estados Unidos pero el 90 por así que comparando los
+15:22
+doctores de Estados Unidos no contra la Inteligencia artificial no que
+15:29
+exactamente Machine learning no es para la Inteligencia artificial comparando los los predictores O sea si un doctor
+15:35
+te predice en Estados Unidos estadísticamente el 90 por de las veces
+15:40
+es un buen diagnóstico de cáncer no y el 10% se
+15:46
+equivocan usando bueno Inteligencia artificial se tiene 98 por de buenos
+15:52
+diagnósticos contra un 2% de malos no entonces la verdad verdad es que
+15:59
+también es muy bueno en esas cosas en el área médica verdad Porque si se dan cuenta el error
+16:06
+es cinco veces mayor cuando lo hace un humano que cuando lo hace un algoritmo
+16:11
+de Machine learning no Por qué Porque bueno los algoritmos de Machine learning pueden utilizar muchos valores o sea
+16:18
+pueden utilizar muchas dimensiones por ejemplo para predecir que pueden usar de que tus exámenes médicos no de sangre
+16:26
+por ejemplo y pueden ver este pues todas las dimensiones no tipo el azúcar e la
+16:33
+hemoglobina este los glóbulos blancos este el col o sea pueden usar todas
+16:39
+todas esas dimensiones al mismo tiempo y un doctor o sea obviamente pues por su
+16:45
+experiencia y eso tienen de todos modos buenos resultados que es el 90 por. sin embargo Pues estadísticamente en
+16:52
+promedio o sea son más efectivos los algoritmos de Machine learning no este
+16:57
+eso Bueno también en los videojuegos se usan para hacerlo como más interactivo en el sentido de que pues el Cómo se
+17:05
+llama el personaje no que por ejemplo estás jugando contra un personaje que se adapte también el Machine learning Pues
+17:11
+un nombre lo dice el aprendizaje de máquina bueno se llama aprendizaje automático es que tú sin tener que
+17:17
+programar algo específico el algoritmo la computadora vaya aprendiendo y
+17:23
+también lo hacen con probabilidad estadística otro bueno otra de las
+17:28
+aciones de los modelos es pues yo creo que todos los que han usado alguna vez algún filtro de Instagram o de Snapchat
+17:35
+de los que te Pon Como cada de perro o lo que sea o de gato o lo que sea o hasta para verte menos con menos
+17:41
+imperfecciones o lo que sea todo eso es también algoritmos de Machine learning
+17:47
+que es lo de computer Vision lo de computer Vision pues visión de computadora no agarran tu cara o agarran
+17:54
+lo que sea y lo mejoran no en Photoshop Y eso básic ente eso también es un
+17:59
+modelo de Machine learning también Pues hay muchos chavos por ejemplo para ver que tus firmas que tu firma o sea cuando
+18:06
+tú firmas no así de que cuando tú firmas en electrónicamente así con el lápiz que
+18:12
+te ponen Y eso para ver que la firma se parezca Y que no te la estén clonando o lo que sea o también Obviamente con tu
+18:18
+huella digital no bueno con tu huella dactilar con tu huella dactilar cuando abres tu celular o tu cara cuando abres
+18:26
+exactamente con el Face ID no todos estos son algoritmos de Machine learning todo la verdad es que está en todos
+18:32
+lados chavos este Netflix por ejemplo o Spotify para poder decir qué música te va a gustar también es algoritmo de
+18:39
+Machine learning YouTube igual este Facebook igual para la publicidad que te manda no etcétera todo todo eso tiene
+18:47
+algoritmos de Machine learning chavos entonces La verdad es que algo que se usa mucho hoy en día este en todos lados
+18:54
+está en los tesla por ejemplo en los autos que se manejan automáticamente amente usan lo que son redes neuronales
+19:00
+bueno los que han usado o han visto chat gpt o todas las inteligencias artificiales que están sacando hoy en día todas esas también usan este pues
+19:08
+todos los científicos de datos son los que están creando estas cosas exactamente porque Sí exactamente el
+19:15
+científico de datos bueno junto a los ingenieros de software son los que están creando todas estas cosas de
+19:21
+inteligencias artificiales que puedes usar no bueno este igual el ingeniero de
+19:26
+datos para noos tanto ya final ingeniero de datos es el que se encarga de que lleguen los
+19:35
+datos básicamente Este es el que hace los softwares y el programa para que
+19:42
+para que por ejemplo Netflix pu no se le es como en cómo decir la analogía
+19:50
+sería como en en Pemex no bueno en estas Este oleoductos no lo que hace un
+19:56
+ingeniero de ellos es es que asegurarse no de que el oleoducto no pase toda la
+20:03
+pase todo el petróleo verdad sin que haya problemas Pues básicamente un ingeniero de datos hace lo mismo pero
+20:08
+con los datos se asegura que tanto este los softwares como el infraestructura no
+20:15
+sea lo suficiente para que no haya problemas cuando se estén pasando los datos este y bueno todos estos son muy
+20:22
+necesarios verdad este para el mundo actual que tenemos desde las aplicaciones para el banco también no de
+20:30
+que no lo que habíamos dicho de comprar este boletos de avión no también los
+20:35
+ingenieros de datos son los que se aseguran de que no haya does O sea que no compres dos veces un boleto O que no
+20:44
+compres dos lugares con un solo pago o sea se aseguran de ambos no Esos también son lo que hacen los ingenieros de datos
+20:51
+Pero bueno los tres están en mucha demanda hoy en día este los mejores pagados son los científicos de datos por
+20:58
+lo general porque son los que más se meten con matemáticas y mucha gente le huye porque sí O sea en análisis de
+21:04
+datos también necesitas matemáticas Claro que sí pero la verdad en menos medida porque en análisis de datos tú
+21:10
+puedes llegar y copiar código puedes llegar y ponerlo pero pues los científicos de datos como son los que
+21:15
+crean están creando los algoritmos Pues sí eso sí les pagan más porque ellos se
+21:21
+meten con la parte de matemáticas que mucha gente le huye entonces pues Bueno nada más para que sepan esas son como
+21:26
+las tres áreas que tienen los trabajos de datos de hoy en día y bueno
+21:31
+vamos a seguir con esto chavos lo les decía de intersección de conjuntos no
+21:38
+bueno de Unión de conjuntos Unión de conjuntos chavos es
+21:43
+este teníamos el conjunto a verdad y el conjunto B la intersección
+21:51
+Per la unión de conjuntos dice todos los elementos de ambos conjuntos de manera
+21:57
+única o sea viéndolo de manera muy gráfica coloreado no es que nosotros
+22:03
+coloreamos o sea incluyeramos ambos conjuntos verdad todo lo que esté en a y
+22:09
+en B es la unión que por ejemplo en este caso sería 1 2 3 4 5 8 y 10 porque son
+22:19
+los elementos de a verdad más los elementos de B pero como dijimos en
+22:25
+conjuntos pueden aparecer una sola vez lo que quiere decir que este un y este cuat verdad solo pueden aparecer una vez
+22:32
+Entonces realmente no más le estamos agregando 8 y 10 verdad sí lo ven Sí eso
+22:40
+es la unión de conjuntos muy bien la intersección de conjuntos
+22:46
+chavos vamos a ver que es los elementos
+22:52
+que están en ambos conjuntos verdad Qué quiere decir bien coloreo es la parte
+23:00
+donde chocan esta parte donde se chocan d están cubriendo donde está uno encima
+23:05
+del otro verdad esa parte es la intersección que en este caso Miren el
+23:13
+conjunto a tiene 1 2 3 cu y 5 el conjunto B tiene 1 4 8 y 10 Cuáles son
+23:20
+los elementos que están en ambos
+23:26
+conjuntos el uno y el cuatro verdad sí verán el uno el uno el cuatro y el
+23:33
+cuatro la intersección son los elementos que están en ambos conjuntos chavos entonces a intersección B verdad
+23:42
+es esto y Bueno viéndolo gráficamente
+23:48
+coloreado no es esto Esta partecita que coloreé verdad
+23:55
+en verde es este [Música] la intersección de estos dos conjuntos
+24:01
+el a y el B la otra operación que existiera el
+24:06
+complemento chavos aquí Bueno desde el principio no
+24:11
+les dije pero el rectángulo grande se le llama universo que bueno habíamos aquí
+24:18
+se define que el universo son todos los números del 0 al 10 no en este caso el
+24:26
+Universo se ángulo son todos los son todos los números del o al 10 un complemento es todos los elementos que
+24:33
+no están en el conjunto Qué quiere decir por ejemplo el complemento de a
+24:40
+verdad es igual a todos los elementos que están en el universo que no estén en
+24:46
+a o sea todos los que le faltan a a por ejemplo cuando dicen Ah eres mi complemento lo que sea no es lo que te
+24:52
+falta No el complemento es lo que tú no tienes verdad lo que te llena lo que te completa no No pues exactamente
+24:58
+complemento no es lo que tú no tienes entonces pues bueno el complemento de a
+25:05
+verdad es exactamente si nosotros tenemos 1 2 3 4 y 5 y decimos que el
+25:12
+universo son del C al 10 entonces son todos los elementos í que del 0 al 10
+25:19
+que no estén en a verdad sí Entonces los elementos que no están en a Cuáles
+25:26
+serían estad perón sí lo vieron No qué pregunto
+25:35
+Perdón que Cuál es el complemento de a son los elementos que no están en a
+25:40
+verdad que están en el universo que son estos los números del 0 al 10 que si lo
+25:45
+ven gráficamente es todo el rectángulo No menos a a es el único el que está
+25:53
+vacío no Entonces en este caso chavos se habíamos dicho
+26:00
+no a son 1 2 3 4 y
+26:05
+5 y el universo son todos los números del 0 al
+26:10
+10 verdad Bueno son los números del 0 al 10 los enteros si quieren enteros para que sea los enteros del 0 al
+26:24
+10 Entonces el universo chavos pues serían el C el 6 El 7 el 8o el nu y el
+26:33
+10 sí vieron por qué o no Sí muy bien y
+26:38
+el complemento de B el otro conjunto Pues sería lo mismo no son todos los elementos que no están en el conjunto o
+26:44
+sea todos los elementos que no están en b y en B habíamos dicho que estaban el 1 4 8 y 10 Entonces serían el C el 2 el 3
+26:54
+el 5 el 6 El 7 y el nueve
+27:00
+Muy bien pues así se vería Esos son los complementos y existe la diferencia
+27:07
+chavos de conjuntos la diferencia pues es la resta
+27:12
+verdad diferencia o resta que dice que es sustraer los elementos que están en
+27:19
+el lado derecho o sea en el conjunto derecho verdad del menor Bueno del menos
+27:24
+verdad del conjunto izquierdo aquí Qué quiere decir viéndolo
+27:30
+gráficamente es quitarle Al conjunto de la izquierda
+27:36
+todos los de la derecha no O sea la parte que tienen intersección por ejemplo se lo quitamos verdad es
+27:43
+agarramos Ese Conjunto y le arrancamos esa parte no sustraer exactamente resto
+27:48
+sustraer sustracción es quitar no arrancar ent le estamos arrancando no
+27:55
+los elementos que tiene a que toca B verdad por ejemplo en este caso habíamos
+28:02
+visto No que los conjuntos eran 1 2 3 4 y 5 verdad Entonces a 1 2 3 4 y 5 le
+28:10
+quitamos los elementos que tiene B también verdad Entonces le quitamos 1 y
+28:16
+cu entonces a 1 2 3 4 y 5 le quitamos un le quitamos 4 y nos
+28:24
+queda este conjunto verdad 23,5 si lo
+28:31
+ven sí mu bien Y pues bueno acuérdense que no es lo mismo A Men B que b- a Por
+28:39
+qué bien aquí lo estamos viendo este sería B men a sería que le quitáramos a
+28:44
+b no todos los de a Sí sí Okay entonces por ejemplo aquí
+28:52
+pues nada más nos quedaría 8 y 10 verdad
+28:58
+muy bien Eso es B que la diferencia de conjuntos verdad eso es el complemento
+29:04
+de conjuntos por ejemplo el complemento er lo que les decía también el complemento se puede ver como el
+29:09
+universo menos a es lo que se hace no es todo el rectángulo verdad nada más le
+29:15
+descolore o quitamos vaciamos lo que sea a verdad por eso el complemento es
+29:21
+universo menos a y el BC por ejemplo es el universo menos B
+29:26
+verdad luego Bueno ahí F tengo la duda de Por qué se pone c o
+29:34
+sea por la digamos la potencia Por así decirlo es c Ah porque es notación bueno sea así se pone el complemento se pone c
+29:41
+significa complemento entonces ahada más es notación Así es eso es como la
+29:48
+notación en conjuntos Y qué más más ch Déjenme ver si se los puedo mostrar en
+29:55
+en python para que lo vean voy a
+30:01
+poner Okay pues bueno python tiene algunas herramientas no para nosotros
+30:08
+poder hacer eso este Dj [Música]
+30:14
+ver de [Música] conjuntos lo pongo
+30:26
+bonito
+30:56
+y
+31:03
+que
+31:26
+cor
+31:56
+in
+32:07
+en
+32:13
+internet un
+32:24
+[Música] segundo
+32:56
+ch
+33:26
+oke verdad Déjenme los
+33:36
+muestro bien chavos Pues bueno lo que les decía no
+33:44
+este operaciones de conjuntos verdad por ejemplo si tuviéramos estos
+33:50
+verdad el conjunto uno acuérdense set verdad esto los ponemos en python Cómo
+33:55
+se ponen en python no nombre set no igual y ponemos AC llaves
+34:04
+no elemento un elemento dos y así
+34:15
+no Okay muy bien este así se ponen acuerdense los
+34:21
+conjuntos verdad es otro tipo de [Música] dato Estructura de datos un tipo de
+34:27
+datos que acuérdense que dijimos que era regresando un poco que no se les olvide lo de programación orientada objetos no
+34:33
+es que alguien hizo una que hace verdad de conjuntos en python ya predefinida no
+34:39
+muy bien entonces aquí estamos definiendo Este
+34:46
+set no el del uno al cco en python aquí el conjunto do verdad del 4at al
+34:52
+8 okay muy bien bien aquí las operaciones no
+34:58
+no bueno esta no la vimos vamos a ver después por lo mient la voy a comentar
+35:05
+no devolvernos vos mañana
+35:11
+mejor [Música]
+35:17
+no es Que bueno hay que ignorar esto okay
+35:25
+Bueno este el punto es que por ejemplo no de
+35:38
+este ya más limpio Okay miren tenemos el conjunto 1 2 3 4 y 5 verdad el 4 5 6 7 8
+35:47
+este a ver chavos regresando un poco a todo lo que hemos visto esto Qué es
+35:54
+chavos acuérdense de programación entar objetos Qué sería Ah la los números que
+36:00
+las unen Por así decirlo sea Qué números tienen repetidos que sería sí sí pero de
+36:06
+programación orientada a objetos por ejemplo sí Ah un método muy bien exactamente o sea exactamente a lo que
+36:12
+quería decir verdad esto es un método verdad Y esto Cómo se le
+36:18
+llamaban argumento argumentos verdad enan los argumentos del método muy bien
+36:23
+digo nada más para que no se les olvide a chavos acuérdense que sería el objeto verdad aquí acuérdense que dijimos que
+36:29
+esto es bueno como en python no alguien ya lo definió Pero esto es si le pusiéramos la que hace No la que hace de
+36:36
+sets no y lo estamos guardando aquí estamos creando el objeto verdad aquí estamos creando el objeto de Conjunto
+36:42
+uno pero para que no se les olvide como les decía eso de programación orientada objetos no lo vamos a dejar de ver y
+36:48
+bueno si le siguen la programación jamás lo van a dejar de ver porque todo todo en programación todos los lenguajes
+36:55
+están basados en eso en programación orientado objetos eso les decía que no lo íbamos a dejar de ver aquí por
+37:00
+ejemplo tenemos un método no que afecta al objeto de Conjunto uno muy bien
+37:07
+entonces este método alguien en python lo programó no para que exactamente nos dé lo que habíamos dicho lo que Lina no
+37:14
+que es la unión que en este caso a ver antes de verlo cuál sería el resultado
+37:19
+de este antes de para que lo piensen ustedes antes la suma de los conjuntos menos las
+37:27
+duplicaciones de los números que estén duplicados muy bien y por ejemplo Cuáles serían a ver de lo que tenemos Ahí
+37:34
+déjame lo hago más grande cuatro y cinco cuál sería cuatro y cinco son los
+37:40
+que no aparece o sea todos aparecen Pero más bien 1 2 3 4 5 6 7 8 Solamente una
+37:47
+vez cada número exactamente perfecto muy bien exactamente son todos verdad pero
+37:52
+solo aparecen una sola vez porque acuérdense que dijimos que los conjuntos la definición de un conjunto es elementos únicos una lista de elementos
+38:00
+únicos muy bien entonces bueno esa es la
+38:06
+unión vamos a ver conjunto uno conjunto dos Es que para no puest miren 1 2 3 4 5
+38:14
+6 7 y 8 no muy bien 1 2 3 4 5 6 7 y 8
+38:20
+perfecto ahora este aquí en intersección
+38:25
+de conjuntos chavos intersección de conjuntos dijimos que eran los elementos que se repetían en
+38:32
+ambos verdad aquí buen la definición para que lo tengan Aquí también no
+38:37
+acuérdense que es la definición de que es una Unión
+38:48
+verdad dijimos que era la suma o bueno los elementos de
+38:54
+ambos conjuntos de
+39:00
+manera única sus elementos Okay Así es chavos
+39:09
+esto a ver la
+39:19
+intersección son los que tienen común no Ajá muy bien en este caso Cuáles serían
+39:28
+eh cu y C muy bien cuatro y C
+39:34
+verdad Okay la definición verdad de
+39:42
+intersección puntos es los elementos que están en ambos
+39:55
+conos muy bien Qué más Qué
+40:02
+más bueno la diferencia no que bueno también se podría poner esa
+40:10
+es una forma de ponerlo la otra forma es bien A B y b men python también te permite no
+40:21
+todos los lenguajes pero aquí por ejemplo
+40:28
+bueno no conjunto uno aquí no lo como
+40:34
+a punto 1 menos punto
+40:40
+dos aquí
+40:49
+poda Okay sí vamos a imprimirlos
+41:12
+okay Bueno antes de empezar la diferencia del conjunto uno y dos va a
+41:18
+ser conjunto 1 menos conjunto 2s Entonces qué nos daría
+41:25
+chavos conjunto un menos menos el conjunto dos que nos
+41:31
+daría qué chos 1 2s 3 1 2 3 verdad
+41:36
+sí muy bien y bueno sería lo mismo que esto [Música]
+41:42
+no - b y aquí cómo sería si fuera al revés chavo si fuera B -
+41:48
+a 6 78 muy
+41:54
+bien okay verlo
+42:02
+[Música]
+42:11
+así [Música]
+42:25
+voy
+42:54
+para que DEA el resultado es esto debe de dar
+43:00
+esto buen está muy lento esta cosa pero este bueno así es chavos Ya lo habíamos
+43:07
+visto toos la vez pasada no Unión es acuérdate
+43:14
+profa es un método verdad todos estos Acuérdate que por eso dijimos que no vamos a dejar de verlo de programación
+43:21
+orientada objetos todos estos son métodos verdad que están mos propios de
+43:27
+los conjuntos o también se pueden usar como en strings y y diccionarios no Estos son de los
+43:34
+conjuntos Estos son métodos propios de los
+43:40
+conjuntos Sí sí eso Unión intersección diferencia y esos son más de los
+43:46
+conjuntos no sí no cargo este que quado el Internet pero bueno el
+43:53
+punto es chavos que ya más o menos estamos aprendiendo esto y mañana vamos a seguir viendo bueno esa es la
+43:59
+representación gráfica de los conjuntos verdad O sea lo podemos hacer importando
+44:05
+librerías luego mañana vamos a ver un poquito de importar librerías verdad Ya lo hemos visto que es muy sencillo no
+44:10
+más es import el nombre de la librería as El As no más es para cambiarle el nombre como ponerle un seudónimo o una
+44:17
+Aviación o lo que quieran El mat plot qué da mat plot bueno esa es una
+44:25
+librería Qué significa mathematical library o sea librería para
+44:32
+graficar de funciones matemáticas No eso es este lo que quiere decir y son nos
+44:40
+sirve para graficar algunas cosas como diagramas de Ben hay de gráficas 3D hay
+44:45
+de muchas este estas librerías muy grandes es como para ser bonito estético
+44:50
+las gráficas que vamos a hacer Okay
+44:57
+está muy bien no vamos a ver o sea es lo que les decía programación todo el tiempo están haciendo librerías chavos
+45:04
+entonces pues sí obviamente dependiendo de En qué área trabajen o en qué parte
+45:10
+se quieran dedicar se van a ser muy buenos en ciertas librerías pero nadie es bueno en todas las librerías menos en
+45:17
+todos los lenguajes Pero todas las librerías como vemos bueno como veremos después tienen
+45:23
+métodos tienen programación orientada tienen los mismos conceptos y se construyen en base de esto entonces es
+45:30
+por eso que lo más importante es que aprendan los conceptos antes que otra cosa pero bueno está bueno chavos Ya se
+45:36
+acabó la clase y nos vemos Cuídense mucho
+45:42
+By

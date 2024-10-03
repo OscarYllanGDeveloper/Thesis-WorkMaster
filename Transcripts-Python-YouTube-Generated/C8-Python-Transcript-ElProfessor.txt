@@ -1,0 +1,1036 @@
+0:02
+Okay chavos pues bueno si se acuerdan habíamos visto un poco de recursión verdad que habíamos dicho que era llamar
+0:07
+la función dentro de sí misma pero con problemas más pequeños no y reduciendo el número por ejemplo aquí no que para
+0:13
+el factorial recursivo est acuérdense las funciones cómo lo hacíamos para
+0:19
+nosotros crear una función es con la palabra Def el nombre de la función que nosotros lo podemos poner paréntesis los
+0:26
+argumentos dos puntos y acuérdense con entación o sea con el espacio todo
+0:32
+dentro de la indentación es el código que está dentro de la función acuérdense que el return es para sacar el valor el
+0:39
+valor de salida no Okay muy bien básicamente Así es como este se hace en
+0:47
+python no Y esto era la recursión acuérdense que era lo de la escalera que les había dicho hasta llegar hasta
+0:53
+arriba no etcétera Okay las series de fibonacci no también la habíamos hecho
+0:58
+de manera recursiva cuens que tenemos que que tener un caso base una condición de salida Si no acuérdense que el cico
+1:04
+se sigue infinitamente y no queremos eso Entonces este tenemos que llegar hast un caso
+1:10
+base Okay muy bien la serie de fibonacci también habíamos visto que los casos
+1:16
+bases eran cuando valía cer0 y uno no entonces por eso teníamos estos Okay muy
+1:22
+bien acuérdense que también vimos poquito de las funciones lambda las
+1:27
+funciones lambda acuérdense que vimos aquí dice que son funciones no este que
+1:32
+son de una sola línea estas son equivalentes estas dos estas de múltiples líneas Este es de una línea es
+1:39
+lo mismo pero por si lo ven para que tengan idea de qué estamos hablando okay y acuérdense que empezamos a ver un poco
+1:45
+de las estructuras de datos simples no Okay empezamos a ver listas acuérdense
+1:50
+que listas es este acuérdense que las listas es tan
+1:55
+sencillo como este voen
+2:14
+Muy bien pues así chavos acuérdense que las listas las hacemos con corchetes verdad y que sus elementos están
+2:21
+separados por coma acuérdense que puede ver diferentes tipos de datos dentro de
+2:26
+las listas por ejemplo chavos este Qué tipo de dato es alguien que me
+2:35
+diga entero no in acuérdense que en python se llama int este chavos Cómo se
+2:42
+le llama verdad muy bien este chavos Cómo
+2:49
+se le llama
+2:57
+alguien String verdad cadenas de texto muy bien stre Y estos son los valores bolanos true un false no Okay muy bien
+3:04
+acuérdense que vimos que esta función de len significa leng o sea significa largo
+3:09
+no Cuántos valores tiene mi listas no Okay muy bien entonces este este las
+3:17
+listas no este son ahora sí que estos valores no muy bien entonces
+3:24
+pues es así chavos las listas no de pent PR my list
+3:32
+no etcétera aquí son métodos acuérdense que Bueno luego vamos a ver en esta semana
+3:37
+al final que son programación orientada objetos que los objetos tienen que ver con los métodos Estos son algunos de los
+3:42
+métodos el apent nos agrega este elemento el que esté dentro del paréntesis hasta el último verdad hasta
+3:49
+el último valor esta lista desde 3 1 4 1 59 si le ponemos el apen me va a
+3:56
+regresar dos no bien Vamos a correr esto para que vean que es
+4:03
+cierto Miren la primera nos regresa el dos no luego qué hicimos hicimos la
+4:10
+función de remove que dice que remueve la primer la primera vez que aparece un
+4:16
+elemento esta vez pusimos que eliminar el uno entonces la primera vez que aparece el uno es en este verdad
+4:22
+entonces aquí va a eliminar este uno okay remove Index índice acuérdense que
+4:28
+les dije que eso es muy importante porque la lógica está en inglés no remove remover Index el índice este
+4:35
+count contar Cuántas veces aparece lo que esté dentro del paréntesis no sort
+4:40
+este ordenar acuérdense si es de números pues va de menor a mayor si es de letras
+4:46
+y en orden alfabético reverse es para exactamente los elementos el orden en reversa no
+4:54
+acuérdense que por eso les dije que era muy importante ling aquí están Para que vean que todo era cierto Enton entonces
+4:59
+bueno y ahora vamos a ver un poco de otros tipos de datos que son strings
+5:05
+strings este son este tienen también varios métodos los strings son lo que
+5:11
+dijimos que se conoce como texto verdad Okay este método oper significa como en
+5:18
+inglés Qué significa op hacia arriba no la lógica Es que hace todos los elementos mayúsculas o sea miren por
+5:26
+ejemplo aquí este Hola mundo está en minúsculas y mayúsculas este lo imprime
+5:31
+todos mayúsculas Cuál es el uso miren este es muy útil porque como dijimos python es muy especial para que todo
+5:39
+tiene que ser mayúsculas o minúsculas en cosas no si a ti no te importa que o sea
+5:44
+por ejemplo mir un ejemplo sería déjen ver Okay mir
+5:52
+este aquí que le preguntemos al usuario este comida input
+6:00
+este Un ejemplo muy útil de esto es Qué tipo de comida quieres no le
+6:08
+pongamos este entre opciones mexicana este y alemana por ejemplo no
+6:16
+Okay miren como sabemos python es bien especial y tiene que ser exactamente
+6:21
+mexicana pero si nosotros queremos hacerlo más O sea de que a prueba de que el usuario ponga algo miren comida
+6:30
+aquí podemos hacer lo siguiente podemos usar el método comida igual a comida o
+6:36
+sea el valor anterior vamos a actualizarlo pero miren vamos a usar la función
+6:42
+punto op No bueno el método oper no como
+6:47
+se ve aquí este método va a ser que no importa si el usuario por ejemplo aquí no importaría si el usuario pusiera
+6:55
+mexicana o como quiera ponerla no me meana como sea esta función va a hacer
+7:02
+que todo sea igual a mexicana verdad así con mayúsculas entonces una función que
+7:09
+podemos hacer es eso o sea para que si el usuario se equivoca o pone un poco
+7:14
+diferente la palabra seguiría funcionando porque miren vamos a hacer Ah
+7:20
+comida igual a vamos a ponerlo en mayúsculas porque acuérdense que esto pasaría todo a minúsculas no mayúsculas
+7:28
+entonces algo así como quieres comida
+7:36
+mexicana vamos a calarlo a ver si es
+7:41
+cierto sea esto les digo estas funciones de lower ahorita vamos a ver queé es lo
+7:47
+contrario no todas mayúsculas todas minúsculas una función muy útil de estos dos métodos es eso chavos
+7:58
+miren pero Miren qué pasaría eso si lo puse bien pero qué pasaría si pusiera too o
+8:04
+sea todo minúsculas o sea sigue funcionando no A
+8:09
+diferencia de si yo no hubiera puesto este método no hubiera jalado de nuevo
+8:15
+vamos a ponerlo o sea lo pongo así como
+8:20
+me sigue Jalando No si yo quito este esta cosa y si lo pongo así directo
+8:27
+vamos a copiar este bien para que vean que es la misma
+8:33
+Okay bien yo vuelvo a correr este y la pongo
+8:38
+mal no me corre nada verdad por qué Porque no salió acuérdense O sea no
+8:44
+salió o sea no no no entro Dentro de este porque este mexicana es diferente
+8:49
+Pero si yo pongo el método oper sirve para esto para validaciones no le puse
+8:54
+de nuevo mexicana Okay este método de oper es por por ejemplo para validaciones así
+9:00
+podemos hacerlo Al contrario en vez de que sean todas mayúsculas sean todas minúsculas este con el método punto
+9:07
+logare ponemos el bueno para que un método funcione ponemos así que la
+9:12
+variable punto y el nombre del método en este caso el nombre del método es lower
+9:18
+y tenemos que poner que es dos paréntesis luego vamos a ver que los métodos son funciones dentro de los Cómo
+9:25
+se llama de las de las clases luego vamos a ver qué significa todo esto en programación orientada objetos ahorita
+9:31
+lo que quiero que vean es que estos métodos son muy útiles no O sea tien aquí es lo mismo No o sea bueno aquí lo va a hacer minúsculas H la mundo así
+9:39
+miren este método de strip sirve por si el usuario puso al principio todas estas
+9:45
+cosas de los strings sirven mucho Exactamente para cuando el usuario mete texto No cuando el usuario mete texto
+9:51
+Este nosotros puede poner mayúsculas minúsculas por error de dedo porque el
+9:57
+usuario quiera porque a veces a veces para decía que el usuario quiere casi descomponer el programa Pues nosotros
+10:02
+tenemos que hacer lo suficientemente poderoso el programa para que este aguante no lo que el usuario le ponga
+10:08
+Entonces por ejemplo aquí lo que pasa es que tiene espacios al principio y al final no entonces este método de strip
+10:16
+dice elimina los espacios al blanco al inicio y al final del String entonces en vez en vez de tener todo este espacio
+10:22
+los va a quitar no este método de strep Okay muy
+10:28
+bien repace este no sé si lo han usado pero por ejemplo en Excel tú puedes cambiar
+10:34
+una palabra y reemplazarla repace significa reemplazar esta tiene dos
+10:40
+argumentos la palabra vieja lo que por lo que lo quieras cambiar este es muy
+10:45
+útil Por ejemplo si queremos reemplazar o sea no sé
+10:52
+este pues todo no sea por ejemplo si queremos reemplazar este una palabra por
+10:58
+otra este que la actualicemos no sé como fúbol y Soccer por ejemplo no en dentro
+11:04
+de un texto podemos poner punto repace y que nos dé o sea dice este método
+11:09
+reemplaza todas las ocurrencias de un super String o sea miren vamos a verlo una aplicación que yo le vería mir vamos
+11:16
+a Primero aquí miren Hola mundo aquí la función lo que hizo repace primero fue
+11:22
+el argumento viejo verdad chavos el argumento viejo era el mundo O sea la palabra mundo python lo que va a buscar
+11:29
+en donde encuentre mundo y esa palabra la va a reemplazar exactamente por lo que le pongamos aquí okay muy bien bien
+11:36
+Vamos a ponerle algo como que puede ser este a ver
+11:44
+Tex viejo bien igual a a mí me
+11:52
+gusta to y yo juego to todos los viernes de
+12:01
+Fer no Okay muy bien Vamos a ver cómo
+12:07
+podíamos cambiarlo por ejemplo print lo que dijimos chavos es poner
+12:15
+acuérdense es poner la variable punto el nombre del método que dijimos que es
+12:20
+repace no con el paréntesis punto reface y acuérdense que el método el método nos
+12:29
+dice que primero pongamos la palabra antigua la tenemos que poner en comillas porque para que python sepa que es un
+12:35
+String Okay coma ahí se ve que está separado por coma no y vamos a poner así
+12:42
+el nuevo Vamos a ponerle fútbol
+12:50
+no miren chavos aquí ustedes imagínense que aquí está sencillo pero imagínense
+12:56
+que ustedes tuvieran un texto de de 1 palabras que cambiar no O sea Soccer y
+13:03
+por fútbol porque Soccer A lo mejor ustedes están haciéndolo bueno en inglés Por ejemplo una publicación la están
+13:09
+haciendo para Estados Unidos y la otra para Inglaterra o lo que sea no este si ustedes tuvieran que cambiar mil veces
+13:15
+la palabra soer porque es flojera no hacerlo manualmente por ejemplo aquí con esta función con punto repace no vean
+13:23
+cambió todas las veces fútbol fútbol fútbol no que es es el poder de los
+13:30
+métodos en Stream es hacer eso es evitarnos tiempo o hacer validaciones este de repace repace es muy útil chavos
+13:38
+pues ya verán no reemplazó tres palabras o sea las tres veces que aparece socker lo reemplazó por fúbol
+13:44
+verdad Okay miren este método que se llama sprit No es necesario que se los
+13:51
+aprendan al pie de la letra es útil si van a estar trabajando con cadenas de texto este el texto la verdad es que sí
+13:58
+es muy útil trabajar con él porque por ejemplo en la mayoría de las páginas web no son Realmente imágenes realmente en
+14:04
+la mayoría de las páginas web los blogs y todo eso es texto no Entonces con estos métodos chavos y luego vamos a ver
+14:10
+con otras cosas que son un poco más rápidas que se llaman expresiones regulares regular expressions puedes tú
+14:16
+procesar textos de manera muy rápida o sea puedes como les digo pueden encontrar palabras pueden unir palabras
+14:23
+pueden quitar espacios pueden hacer cosas así por ejemplo a veces cuando escriben este su nombre también ahorita
+14:30
+vamos a ver este Okay vamos a
+14:36
+ver por ejemplo como aquí no si aquí queremos nos dan una lista de muchas palabras así separadas por coma no nos
+14:43
+dan una lista aquí miren este PR delimiter otro método chavos dice este método divide el String en varios
+14:50
+substrings usando un delimitador y regesa una lista de substrings verdad
+14:55
+Okay muy bien entonces miren este método lo que
+15:01
+hace nos da una lista no de diferentes palabras Hola mundo python no imagínense
+15:08
+por ejemplo que tuvier una aplicación es que tuviéramos una lista de de cosas del mandado no lista
+15:16
+mandado Okay miren vamos a ponerlo que [Música]
+15:21
+sea no sé jabón jamón queso
+15:30
+que los haya mandado a hacer todo esto este queso este no sé vegetales etcétera no Okay muy
+15:40
+bien con este método de sprit no nosotros podemos sacar una lista de todo
+15:47
+cada uno de los elementos luego podemos hacer más cosas con esto Pero mir acuérdense que es la variable no el
+15:56
+para que nos aparezca en pantalla no AC que el PR n más es para que nos aparezca en pantalla no miren chavos aquí nos
+16:04
+sacó la lista de cada bueno perdón aquí me lo que me faltó es poner el el
+16:10
+delimitador faltó ponerle el coma Okay miren aquí ya me dio una lista
+16:18
+verdad de los elementos no cabón jamón queso vegetales no este puede ser muy
+16:26
+útil por ejemplo también en textos cuando queremos Contar palabras no por
+16:32
+ejemplo para saber este Cuántas palabr Cuántas veces se
+16:38
+dijo una palabra por ejemplo no podemos hacer un contador con diccionarios etcétera podemos separar cada palabra en
+16:45
+una lista podemos tener una lista de palabras ya luego podemos hacer otros métodos luego vamos a ver con diccionarios para poder contar Cuántas
+16:52
+veces por ejemplo en un poema de Shakespeare dicen Romeo o Julieta No esto a veces se usa por ejemplo para ver
+16:58
+este textos no este para saber si un texto hoy en día se usa con Machine
+17:04
+learning con Inteligencia artificial para que se le llama análisis de sentimientos eso Por ejemplo de manera
+17:10
+automática nosotros podemos programar que un O sea que que un código de python
+17:16
+nos diga este si un texto es positivo o negativo hacia una
+17:22
+persona porque pues ustedes saben la prensa en general a veces está muy tendenciosa hacia un lado no
+17:28
+Entonces por ejemplo si ustedes quieren saber si la qué tan tendenciosa es esa noticia hacia un lado por ejemplo
+17:36
+ahorita que se ven en las campañas electorales Y eso pueden hacer sentiment análisis y pueden ver por ejemplo
+17:42
+Cuántas veces dicen el nombre de cierto candidato no O Cuántas veces le tiran al candidato no de que Cuántas veces dicen
+17:49
+le dicen ratero o lo que sea ustedes pueden hacer eso con sentimento análisis luego lo vamos a ver uno de los métodos
+17:56
+que se usa es este punto sprit para nosotros poder dividir cada palabra en una list bueno en un elemento de las
+18:02
+listas no Okay muy bien y bueno miren aquí join list este método une los
+18:07
+elementos de una lista de un solo String verdad utilizando el String como delimitador no por ejemplo aquí es al
+18:14
+revés si ustedes lo tienen así como lista y quieren unirlos todos no este es
+18:20
+como el método inverso o sea ustedes aquí juntarían todos verdad miren Hola
+18:25
+mundo python o sea este va a unir todos los elementos pero aquí esto es muy importante aquí en vez de como lo
+18:33
+habíamos estado haciendo con variable punto aquí es el elemento que queremos
+18:38
+unir Okay si es está un poco contraintuitivo porque todos los demás era más fácil no No más era la la
+18:44
+variable y el método no aquí es al revés la variable está dentro del paréntesis y
+18:51
+el lo que el delimitador o lo que sea está antes del punto digo sí a veces
+18:59
+python y los programas tienen sus cosas como esto de que a lo mejor hubiera sido más fácil si lo hubieran puesto al revés
+19:05
+pero bueno ya alguien lo hizo y ni modo no lo podemos cambiar entonces pues a veces hay que aprendernos o saber buscar
+19:11
+en internet también como les he dicho chavos mucho de programación es ser buenos buscando en internet luego vamos
+19:16
+a ver les voy a enseñar trucos para que sepan Buscar bien en internet ahorita no tanto porque ahorita primero lo que
+19:21
+necesito es que lo vayan aprendiendo bien o sea porque el buscar en internet Sí es muy útil Claro que sí en
+19:26
+programación se hace mucho pero primero tienes que saber bien qué Buscar porque o sea no Primero tienes que saber qué
+19:34
+estás buscando entonces pues para saber bien que estás buscando chavos Pues es obvio lógico que necesitamos hacer estas
+19:41
+cosas no O sea Necesitamos saber qué significa cada uno aquí miren este otro método punto find no este método Busca
+19:50
+un super String dentro del String y devuelve la posición de la primera ocurrencia si no encuentra el substring
+19:56
+regresa men1 miren este nos va a permitir Lo único malo es que solo
+20:01
+devuelve como dice la primera vez la primera ocurrencia no quiere decir que si tenemos 20 veces la palabra mundo por
+20:08
+ejemplo miren aquí lo voy a imprimir pero por ejemplo si lo pongo si pongo 1000 veces el mundo voy a copiarlo
+20:16
+pegarlo voy a ponerlo aquí y yo tuviera Hola mundo python mundo mundo así solo
+20:23
+me va a seguir regresando lo mismo porque solo imprime la primera vez qué me está imprimiendo esto dice la
+20:31
+posición acuérdense Bueno no sé si se acuerdan pero les había dicho comentado no ahorita que un String
+20:39
+realmente en python es una lista en donde cada
+20:47
+carácter es un elemento
+20:52
+no Qué quiere decir acuérdense como habíamos dicho este nosotros podemos
+20:59
+obtener las letras de cada uno con sus índices había acuérdense que habíamos dicho que en programación en python
+21:05
+nosotros empezamos desde el cero entonces la letra h está en el índice cer0 la letra o está en el índice 1 2 3
+21:14
+4 y entonces el 5 m no que es donde empieza este método Busca un subs dentro
+21:21
+del subs y devuelve la posición de la primera ocurrencia o sea nos muestra desde dónde empieza el mundo no que en
+21:27
+este caso es en el índice cinco porque pues acuérdense no este 0 1 2 3 4 5 no
+21:35
+la letra m que es la primera de mundo empieza la palabra empieza desde la
+21:40
+posición cinco es por eso que este nos permite bueno obviamente Cuando tenemos textos muy largos este lo que les dije
+21:48
+que hay por ejemplo códigos para leer contratos no este si tú tienes por ejemplo el contrato en Word no hoy en
+21:56
+día Ya casi todos están en Word no este Word lo pasas a tipo texto esto es muy
+22:01
+fácil no más dentro del Word le pones guardar como tipo texto sí post Cómo que post no entiendo Ah no
+22:09
+no no Acuérdate que esto es una variable Rafa o sea Acuérdate que esto el igual
+22:14
+No sí pueden poner cualquier variable í No más porque este lo importante de estos métodos es lo del punto No
+22:21
+acuérdense el método empieza a partir del punto el nombre del método que es una función dentro de una quece luego
+22:28
+vamos a ver qué signica son programación orientada objetos el que ahorita tienen que acordarse que es la variable punto
+22:34
+acuérdense que Obviamente si estamos trabajando con métodos de tipo String pues la variable tiene que ser un String
+22:40
+O sea no intenten poner métodos de strings en cosas que no son strings verdad Okay muy bien y aquí el argumento
+22:48
+es la palabra que queremos encontrar no lo que va a ser python Es que voy a encontrar esta palabra bueno el índice
+22:55
+de la palabra dentro de la variable que me mandaste que en este caso el cinco no muy bien chavos Pues así es como va
+23:01
+funcionando luego vamos a ver más detalles más ejercicios afectados el punto es que lo tienen que ir como medio
+23:07
+medio empapándose con esto no O sea obviamente es lo que les decía tienen luego van a tener que aprender a buscar
+23:14
+bien o tener al menos idea porque como les digo cada vez hacen más métodos hacen librerías cada librería tiene
+23:21
+métodos tiene funciones tiene tipos de datos Porque luego lo que están viendo aquí como les dije estos métodos solo
+23:28
+funcionan con las variables que son de tipo de dato String no funcionan con
+23:33
+otras entonces imagínense cada librería a veces tiene crean sus propios tipos de
+23:39
+datos entonces acordarse de todo eso es imposible digo nadie lo hace por eso pero sí tienen que tener una idea de que
+23:46
+ay según yo o sea decir como yo sé que en python sí se puede hacer textos luego
+23:51
+les voy a enseñar a Cómo buscar en Google de que Ah pues d que python
+23:56
+métodos de python String no algo así y les va a salir una lista y ahí ustedes van a tener que leer la documentación de
+24:03
+que Ah mira este este método funciona para esto no depende lo que quieran lo que haya
+24:09
+porque pues como les dije o sea no hay que inventar el hilo negro muchas cosas en programación ya están hechas entonces
+24:15
+pues pueden usar importar librerías o usar métodos que ya estén predefinidos
+24:21
+en python no Okay muy bien este otro método punto format este método permite
+24:27
+insertar valores dinámicos en un String miren este está pad porque acuérdense
+24:32
+que los valores dinámicos es lo que habíamos estado viendo como el format no bien Vamos a
+24:39
+verlo Esta es otra forma de poner el format acuérdense que habíamos visto que el forma t String no este es equivalente
+24:45
+a si hiciéramos lo que siempre hemos hecho el print F Este voy a copiar
+24:54
+esto son equivalentes no exactamente iguales me debería de
+25:05
+regresar Es que puse los dos Ah no es que me faltó ponerle los nombres Me
+25:12
+faltó est faltó aquí ponerle nombre y aquí ponerle edad si los puse vacíos
+25:18
+Aquí les puse o sea python sabe que tiene que imprimir variables pero no le puse que
+25:26
+variab miren parece más poderoso el que nos queda Mostrar ahorita sí o sea puede ser
+25:34
+por qué Porque pueden poner una lista o sea acuérdense que lo que les dije programación Es como ir al gimnasio o
+25:40
+sea primero iniciamos Sabiendo Qué ejercicios existen Para qué funciona cada ejercicio ya luego los podemos como
+25:46
+combinar o ponerles más peso aquí por ejemplo se me ocurre que si nosotros ponemos una lista no una lista de varios
+25:53
+o sea esa es de dos pero imagínense que tuviéramos como 500 podíamos exactamente
+25:59
+reemplazar una lista de 500 elementos y ponerlos en cada una de estos digo es una aplicación Así que no más se me
+26:05
+ocurre como les dije primero hay que aprender a hacer los ejercicios y ya luego los hacemos más difíciles luego
+26:10
+les ponemos más peso no Okay pues así es como funciona es todo esto bien a ver
+26:18
+Déjenme Denme dos minutos Ahorita vengo pero ahorita vamos a seguir con lo que son dictionaries déjele
+26:25
+arriba ahí para que lo veas
+26:56
+n
+29:29
+Ok ch ya ya pero bueno el punto es que vean estos no métodos vamos a volverlos
+29:35
+a ver vamos a volverles a dar un repaso Ok los métodos que vimos de Stream
+29:40
+verdad son estos hay más hay vamos vamos por ejemplo meten Aquí les
+29:56
+enseño la
+30:04
+lista
+30:14
+Okay muy sencillos necesito más
+30:20
+avanzados más bueno por ejemplo Aquí
+30:25
+no aquí varios métodos no la documentación está en inglés Así que si
+30:31
+lo quieren buscar mejor la verdad es que está más sepan inglés como les digo pero por ejemplo hay otros como Stars with
+30:36
+ends with aquí Busca palabras que empiecen con acuérdense que lo que les estoy diciendo no mucha de la lógica
+30:43
+Pues empieza del lés no empieza con starts with no ends with entonces así
+30:49
+chavos acuérdense de eso que es muy importante no que vayan viendo
+30:55
+este así varios métodos Bueno luego vamos a ver este
+31:02
+método que es el slicing no lo puse pero este sí es muy importante slce significa
+31:07
+como pedazo no pedazo de pizza slce Pizza este luego vamos a ver
+31:12
+este ese por ejemplo es para preguntar este si es numérico si es
+31:19
+decimal si es dígito no etcétera este Okay Lu vamos a ver les digo que hay
+31:25
+bastantes métodos is lower Alfa es es para preguntar si es métodos de
+31:31
+transformación Bueno Este capitalize es como el oper no no había visto que tamb
+31:36
+con capital Ok Ah no miren Perdón ya me acord capital es muy diferente el
+31:43
+capital si nosotros queremos que se vea como como debe de ser bonito no que la
+31:49
+primera letra de una línea no después del punto sea mayúscula y todas las demás minúsculas no esta Si queremos esa
+31:56
+puede servir Por ejemplo si un usuario nos pone cosas o sea pues si no no ha
+32:02
+dables pues sea que nos ponga mayúsculas minúsculas que mes etcétera con este método nosotros podemos imprimir un
+32:08
+mensaje que se vea decente No ni todas mayúsculas ni todas minúsculas como debe de ser que la primera letra sea
+32:14
+mayúscula no es uno de los este bien Esto lo vamos a ver a lo mejor un poco después estas funciones funcionan luego
+32:21
+cuando veamos lo que es transferir información en la web porque las web
+32:26
+este Bueno luego vamos a ver que se transfieren la información por un una
+32:31
+codificación que se llama utf8 No se preocupen ahorita por eso el punto es que les estoy diciendo chavos o sea hay
+32:37
+muchos métodos no se los tienen que aprender todos lo que sí se tienen que aprender más diría yo es saber a métodos
+32:44
+como yo lo busqué no métodos python String o sea tienen que saber cómo Buscar luego vamos a ver un poco va a
+32:50
+ver qué haces específicamente que sepan Cómo buscar en Google porque ahora sí que una de las habilidades que tienen
+32:56
+que aprender de hoy en día para programar es saber Buscar en Google este Okay muy bien pero bueno Vamos a
+33:02
+repasar oper no dijimos que eran de todas mayúsculas una de las aplicaciones
+33:07
+como les dije es esta No si el usuario nos pone mexicana mal nosotros lo
+33:13
+pasamos todo a mayúsculas o todo a minúsculas con el caso de lower las dos son muy equivalentes no esa es una de
+33:18
+las aplicaciones que podían tener strip dijimos que elimina los espacios en blanco al inicio y al final de o sea
+33:25
+este Hola mundo que tiene espacio demás pues lo quita no es acuérdense que este es muy
+33:31
+poderoso este les dije si tenemos un texto muy largo Aquí está corto son tres veces pero imagínense que tuviéramos que
+33:37
+cambiar 1000 palabras hacerlo a mano estaría de flojera No aquí con este
+33:42
+método de repace podemos por ejemplo nosotros una aplicación es que tengan ustedes un contrato no y pueden hacerlo
+33:49
+bien fácil bueno Word ya lo hace digo no les voy a decir que no también lo pueden hacer en Word pero por ejemplo una forma
+33:55
+es que si ustedes tienen un dato no largo este lo guarden en tipo texto lo
+34:01
+pasen a python y pongan el punto repace imagínense un nombre que tengan el nombre de Juan Pérez no con punto repace
+34:08
+podrían cambiar Juan Pérez por Miguel Rodríguez no y en el contrato imagínense
+34:14
+porque hay muchos que son formatos O sea ya están predefinidos ya son como el el formato la base no O sea nada más le
+34:21
+cambian el nombre le cambian a lo mejor el lugar y le cambian esto cómo lo podíamos hacer con la función repace
+34:27
+realmente Word hace eso con lenguajes de programación obviamente no con python A lo mejor con otros pero hace este método
+34:35
+básicamente el equivalente si lo quieren ver en python es reemplazar cuando le pones find de que Cámbiame a todos por
+34:41
+aquí tú lo puedes hacer con python no Okay el sprit delimiter acuérdense que
+34:47
+dijimos que me puede dar una lista de cada elemento no este es muy útil por ejemplo también cuando trabajemos con
+34:54
+hay un tipo de archivo que se llama ccv pun csv significa coma separated values
+35:01
+valores separados por coma Pues como dice todos sus valores están separados por una coma y si nosotros queremos
+35:07
+tener una lista de cada uno de los elementos pues superfácil no punto sprit
+35:12
+de ese archivo no obviamente primero tenos que hacer el archivo csv a tipo texto y de tipo texto lo tenemos que
+35:19
+hacer a tipo String eso se puede hacer con funciones de python muy sencillas que luego veremos cuando ya estemos
+35:25
+procesando información porque algo que hoy en día se usa mucho python y es el preferido es para hacer análisis de
+35:32
+texto porque python tiene muchas librerías para hacer análisis de texto este Okay muy bien Esto es sin librerías
+35:42
+digo todos estos métodos ya están predefinidos en python hay otras librerías que nos ayudan todavía para
+35:48
+tener más funcionalidades claro que sí pero estos métodos no necesitan importar nada Okay luego vamos a ver todos los
+35:55
+que sí necesitan los que no estos no estos ya están predefinidos en python este es el único que está un poco raro
+36:01
+porque acuérdense que aquí les dije que en vez de poner como siempre la variable no este la variable Y luego el punto y
+36:07
+el nombre del método aquí como que lo fusiona al revés no s hubiera sido más fácil que hubiera sido bueno ya ni modo
+36:14
+este este método es así este primero es el delimitador y luego está la variable
+36:21
+dentro del paréntesis ese de los raros casi todos son así digo si se quieren acordar más casi es variable punto
+36:28
+nombre del método y los argumentos del método este es este de join es al
+36:33
+revés okay Y por qué alguien lo preg así ni modo este el find como les dije les
+36:40
+va a regresar el índice de las letras donde empiece la palabra que estamos
+36:46
+buscando aquí como mundo no lo malo es que solo lo hace una vez O sea si lo queremos a hacer más veces a lo mejor
+36:51
+tendríamos que usar un ciclo for eso ya es otra cosa Este muy bien este Okay el
+36:58
+format como les dije les da el poder de hacer el print F podemos lo padre de
+37:05
+esto es que lo podemos guardar en variables como ese y nada más le ponemos al final el punto format no Y podemos
+37:11
+meter una lista de variables etcétera Bueno eso es lo que estamos hemos estado viendo hoy ahorita vamos a ver un poco
+37:17
+de diccionarios chavos un diccionario a ver ustedes en su lógica qué es lo que
+37:23
+hacen ustedes Cuando agarran un diccionario en de inglés a español qué es lo que hacen a ver alguien Buscamos
+37:29
+por abecedario Buscamos por abecedario pero más que nada tú buscas una palabra no y
+37:35
+el diccionario te la traduce a otra palabra verdad una palabra por ejemplo no sé sharpener significa sacapuntas no
+37:44
+tú buscas una palabra y te regresa otra No eso es lo que es un diccionario tú buscas un valor y te regresa otro Eso es
+37:52
+lo que hacemos con los diccionarios también en python por ejemplo diccion puede servir por ejemplo para agendas no
+37:59
+este diccionario bien antes de nada Cómo podemos crear un diccionario de dos formas poniendo la di y así o Acuérdense
+38:08
+que los diccionarios en python se ponen con las listas se ponían con corchetes
+38:14
+verdad Cómo se ponen las este los
+38:24
+diccionarios con llaves prof muy bien con llaves excelente Gracias Don mira con llaves no y los
+38:33
+diccionarios tienen la peculiaridad de que tenemos que poner dos puntos porque
+38:38
+estas son como aquí dice clave valor es como ahorita les dije
+38:45
+sharpener sharpener sería la clave o sea la palabra en inglés y el sacapuntas que
+38:52
+es el valor en español no sería el Juan por ejemplo eso sería un di No aquí
+38:57
+chavos nosotros podemos buscar o por una Bueno luego vamos a ver que hay métodos que te permiten Buscar por el nombre de
+39:03
+la llave se le llama llave o clave Ke no value en inglés es Ke el que está del
+39:11
+lado izquierdo value por ejemplo aquí ustedes en una agenda cuando ustedes
+39:16
+están guardando su en un contacto no en su celular qué les pone que le pongas el
+39:24
+nombre del contacto que le pongas el teléfono y le puedes poner más cosas No aquí por ejemplo estamos guardando el
+39:31
+nombre de Juan no estamos guardando nombre datado no Entonces por ejemplo
+39:37
+para el valor de nombre para este diccionario de Juan su nombre es Juan No si si buscamos Lu vamos a ver que hay
+39:44
+métodos para buscar la edad Ah Pues me va a dar 16 y si buscamos el gado Pues me va a dar 10 no Okay miren vamos a
+39:53
+verlo así es como se ve con un diccionario como les dije accediendo a los elementos Bueno no sé si se acuerdan
+40:00
+que les había dicho que en python bueno vamos a regresarnos un poco todavía más antes a las listas no sé si se acuerdan
+40:07
+que les había dicho que nosotros podemos acceder a una lista a un elemento de una lista por ejemplo esta lista
+40:15
+PR mejor Déjenme Lo pongo aquí para que mir para que se vea esta de lista
+40:24
+surtida no se ha corrido la vo tener que correr para que si no no va nada Okay
+40:31
+miren Cómo podemos acceder a los elementos por sus índices no sé si se acuerdan en una
+40:37
+lista era con corchetes no y aquí ponemos el
+40:44
+número o sea el índice vamos a poner el dos a ver chavos aquí si yo le pongo
+40:50
+esto qué me va a dar Esta es la lista esta Cuál es el
+40:55
+elemento que que está en el índice dos el float no el 3.5 no Acuérdate có
+41:04
+el Hello no acuérdense Cómo contamos este dos
+41:10
+sería el cero este 3.5 sería el elemento número uno y este sería el elemento
+41:16
+número dos acuérdense siempre chavos que empezamos a contar del cero Entonces
+41:23
+miren miren Para que vean que no les estoy mintiendo si ustedes ponen así en
+41:28
+una lista sacamos el elemento que está en el número dos acuérdense que también
+41:34
+les dije que los strings Qué son son listas de caracteres no Qué quiere decir
+41:40
+miren por ejemplo Aquí vamos a correr es ese sola mundo no Qué pasa si yo lo voy
+41:47
+a poner más para acá Ese es sola mundo no vamos a poner aquí a ver si Uy
+41:55
+no Okay bien el Hola mundo es ese no okay
+42:01
+Si yo le pongo chavos que me dé el bueno otro truco no
+42:07
+sé si se acuerdan eso ya se los había dicho pero no O sea vyans elos acordando poca poco a poco Qué pasa si yo le pongo
+42:14
+menos un de Lola mundo qué qué creen que
+42:19
+me va a regresar qué Qué elemento creo que
+42:27
+si se puede qué Qué elemento nos va a
+42:33
+regresar el del final Muy bien excelente Rafa muy bien si te acordaste el os1
+42:39
+acuérdense que si el Hola H es el 0 el -1 es el último elemento Cuál es el
+42:47
+último elemento el signo de interrog perdón de exclamación Entonces qué nos daría
+42:55
+eh este es muy útil Por ejemplo si en una lista de puede ser de números puede
+43:01
+ser de valores puede ser de lo que sea si ustedes solo quieren Acceder al último elemento y no saben cuánto mide
+43:06
+el Cómo se llama el Stream hay de dos formas hay de dos sopas pueden usar el
+43:12
+la función de leng acuérdense que habíamos dicho l no y que me de este por
+43:21
+ejemplo este no de ese buen deimos que de ese no
+43:27
+me va a dar el bueno -1
+43:33
+no para que me d porque si no me pasaría por ejemplo acuérdense que si
+43:39
+esta lista tiene cu no una lista lista no tiene cuatro
+43:45
+elementos no me va a dar el L Cuántos elementos
+43:53
+tiene cu no men1 porque acuérdense que siempre Contamos con este miren estos dos son equivalentes miren vamos a
+44:00
+ver Esto es para obtener el último
+44:06
+valor último valor en una
+44:15
+lista es lo mismo
+44:21
+chavos aquí porque no le puse pero da de manera distinta No porque no le puse
+44:26
+print Mira si le pongo print este si se dan
+44:33
+cuenta dan el último valor en una lista verdad hay dos formas o sea o le ponen
+44:40
+el length O sea que este lo que les va a regresar es cuatro porque tiene cuatro elementos -1 porque acuérdense que
+44:46
+siempre contamos desde el cero me va a dar el último elemento o pueden poner -1 como quieran
+44:53
+ustedes este al final de cuentas son equivalentes este es lo mismo son equivalentes son Exactamente lo mismo
+44:59
+así es si ustedes quieren sacar el último valor de una lista esto puede funcionar para matrias para vectores en
+45:06
+cálculos numéricos luego vamos a ver un poco más de eso okay Pero bueno vamos a regresar en lo que estábamos en
+45:12
+diccionarios aquí de misma manera nada más que aquí en vez de miren un
+45:19
+diccionario veanlo como las listas tienen un índice y tienen un valor no
+45:26
+para el valor por ejemplo o sea una lista no vamos a
+45:31
+ver lista
+45:37
+muestra una lista chavos en cierta parte tiene la lógica como los diccionari lo
+45:43
+voy a cambiar porque si no se va este
+45:52
+cero un
+45:58
+miren realmente las listas también es un poco no tanto como el fales pero en el
+46:04
+sentido de que nosotros sabemos que mira
+46:10
+índice valor no el índice Cuál es del
+46:17
+cero el valor sería cero cer no y así cada uno no
+46:27
+vamos a cambiarle para que no se confundan vamos a cambiarle Vamos a ponerle nombre si quieren colores hay que poner primero que nos muestre valor
+46:34
+cero no cero Bueno sí también lo quieren seguir con los valores miren lista
+46:41
+muestra no Cuál es el
+46:48
+Este voy a poner en
+46:54
+pantalla aquí la diferencia con los diccionarios
+47:01
+chavos es que en vez de que los índices sean numéricos aquí tú el índice lo
+47:07
+puedes cambiar por un texto como vimos aquí porque aquí Este es equivalente a
+47:13
+como si fuera el índice cero no lo que nos sirve digo la función que tienen los diccionarios es que en vez de estarnos
+47:20
+acordando de los índices nosotros nos acordamos más de cosas como te pido o
+47:26
+sea el nombre que me des el nombre del usuario no O sea en vez de estar
+47:31
+recordando que hay el elemento que está en el índice cero el elemento que está en el índice 5co nosotros tenemos o sea
+47:38
+vamos a ver métodos en python que nos permite Buscar así con nombre Juan pero tien la misma lógica en el sentido de
+47:44
+que aquí el índice no son numéricos en los diccionarios Por lo general son letras no bueno son palabras no como
+47:52
+aquí Este es equivalente como si fuera cero numérico es como equivalente como si fuera uno y est equivalente como si
+47:57
+fuera dos okay tranquilos chavos o sea vamos viéndolo poco a poco pero as son
+48:03
+los diccionarios Okay muy bien entonces así es como funcionan chavos bien aquí
+48:09
+es lo que les dije Bueno Esta es la lista Perdón aquí es alés aquí nosotros accediendo
+48:16
+al valor de nombre verdad nombre Cuál es Quién nos tendría que regresar Ju no y
+48:24
+vamos a hacerlo no perdón sigo aquí Ju No si yo le
+48:30
+cambio bien Vamos a ponerle mi diccionario Y en vez de voy a
+48:40
+poner que ponga en vez de nombre le ponemos Cuáles sean los otros valores que había edad no
+48:48
+en vez de nombre le pongo Qué me va a imprimir Cuántos años
+48:53
+tiene Juan 16 entonces me debe bien 16
+48:59
+no muy bien aquí mejor en vez de no me le pondría más lógico me lo va a sacar mal
+49:07
+porque bueno Estaba guardado por eso no me lo sacó mal pero Okay muy bien cosas así chavos
+49:17
+no Okay aquí es miren otro método muy útil
+49:25
+en dicionarios es este este método dice también se usa para Acceder al valor de
+49:30
+una clave específica pero si la clave no existe en lugar de lanzar un error devuelve miren básicamente es como hacer
+49:36
+esto nada más que esto es más en un método porque aquí miren Por ejemplo si pongo una cosa que no existe como araña
+49:44
+no sé por qué pero bueno pongo eso me regresa un error verdad me
+49:50
+regresa uny error aquí el get key no me va a dar este bueno por ejemplo aquí
+49:56
+puso color favorito que tampoco está dentro de esta de este diccionario no está el color favorito de Juan entonces
+50:03
+pero aquí en vez de que pase este keor lo único que pasa es que va a reventar un
+50:11
+n Okay muy bien pero es equivalente este get es equivalente a si tuviéramos
+50:18
+el mi diccionario con el valor
+50:27
+de este bueno en este caso color favorito voy
+50:34
+poner son exactamente equivalentes a excepción de que bueno la
+50:41
+única diferencia es que si aquí no te lanza un error te devuelve un la única
+50:46
+diferencia no Ok este método devuelve una lista de
+50:52
+todas las claves en el diccionario o sea nos va a regresar una lista con acuérdense que dijimos que aves o llaves
+50:59
+es lo que está del lado izquierdo o sea todas estas nombre
+51:06
+edad no Okay miren vamos a verlas
+51:16
+No nombre daado no me regresa una lista
+51:22
+no con las llaves luego vamos a ver esto sirve para poder obtener otras cosas
+51:29
+luego vamos a ver que es muy útil este Okay values este elemento devuelve una
+51:35
+lista de todos los valores en el diccionario esto es al revés si nosotros solo queremos los valores o sea lo que
+51:41
+está del lado derecho miren aquí Juan 16 y 10 lo que dijimos ahora acuérdense los valores son los que están del lado
+51:47
+derecho de los dos puntos nosotros les digo esto es mucha
+51:54
+lógica chavos en inglés Kiss pues te devuelve las llaves vales el método vales pues te va a regresar los valores
+52:02
+no muy bien okay bien a ver si nos da tiempo de terminar los últimos Okay bien
+52:09
+este método devuelve una lista de tupas donde cada tupa consiste en un parque a valor Bueno este nos regresa el las
+52:18
+asociaciones el nombre y Juan pero en topol acuérdense lo que les había dicho que son los topol son como las listas
+52:25
+Pero inmutables estos sirven porque son más ligeros y también las top sirv para
+52:31
+son cosas de valores que no queremos cambiar por ejemplo esto se usa en bases de datos a veces cuando queremos que los
+52:36
+valores sean in cambiables inmutables pues se usan los topos es lo quean
+52:41
+también muchos de estos diccionarios tienen que ver exactamente con este cosas así
+52:51
+no Okay muy bien
+52:57
+Okay muy bien entonces así es chavos este muy bien Y pues ya
+53:07
+este Eso es para actualizar un diccionario no Déjenme corro no corre el
+53:13
+item miren como les dije me va a dar una lista con los C de cada par valor no
+53:21
+Okay muy bien actualizando un diccionario dice mira Puedes cambiar el valor de una existente o Añadir una
+53:26
+nueva que haave valor directamente utilizando corchetes Eso es para actualizar o sea Nosotros también en las
+53:33
+listas creo que no lo vimos Pero puedes actualizar una lista este vamos a actualizar en las
+53:41
+listas por ejemplo lista demos igual
+53:47
+[Música]
+53:52
+a 2 4 No si nosotros queremos actualizar o
+53:58
+sea cambiar un elemento por ejemplo podemos poner listas
+54:06
+demos dos y esto lo ponemos como igual a c por ejemplo o sea este dos hay que
+54:15
+tener cuidado no me va a reemplazar este me va a reemplazar el que está en el índice dos o sea me va a reemplazar el
+54:20
+cu no bien Vamos a ver si es cierto vamos a imprimir la nueva lista Esto es
+54:26
+para actualizar una lista que es muy parecido con los
+54:33
+diccionarios lo que les dije verdad este cinco fue el elemento que está en el en
+54:40
+en el índice dos verdad el índice dos que es este Okay muy bien y aquí añade
+54:47
+una nueva clave
+54:53
+valor okay muy
+54:58
+bien okay muy bien bien este último del Hi poop no se usan para eliminar pares
+55:05
+de que haave valor en el diccionario acuérdense que también teníamos uno así en listas no borra El par haave valor y
+55:12
+si la clave no existe arroja un error no pop elimina también par valor pero si la
+55:17
+clave no existe devuelve por defecto y si se especifica en el lugar de arrojar
+55:23
+un error bien Vamos a verlo no
+55:28
+no Okay aquí que dice que se equivocó lo que decía no que si no tiene el este
+55:34
+arroja un error verdad el del el del hace esto verdad muy bien
+55:44
+Ok esperen está raro a ver déjen checar algo es que usó
+55:53
+acá abajo profe primero usó delete y luego usó pop no no ser por eso sí Pero
+55:59
+acuérdense cómo cómo Va eh programación python eso es lo que tienen que tener
+56:04
+mucho cuidado cuando programen si ustedes tienen un error al principio no les va a correr todo el otro código Qué
+56:11
+quiere decir que si el error es en la primera línea no me va a dejar miren a
+56:17
+ver vamos a ponerlo al revés hiciera
+56:23
+esto miren si existe el error y me lo marca pero
+56:29
+imprimió el pop no acuérdense esto de programación es
+56:34
+muy importante en python si detecta un error
+56:40
+todo el demás código no lo corre hasta ahí se queda Entonces si tienen que
+56:45
+tener cuidado con eso por eso se usa el try luego lo vamos a ver que es para exactamente cuando existen errores
+56:52
+Porque si existe error en el código python solo te llega hasta donde hay el
+56:57
+error ya no leen nada de lo demás hasta ahí se queda eso es algo por acuérdense
+57:03
+como les dije que python como nosotros Lee de arriba hacia abajo no entonces python va leyendo línea por línea si
+57:11
+esta línea se equivoca ya python no te Lee todas las demás okay chavos creo que
+57:17
+eso es todo por hoy Espero que bueno se puedan conectar para practicar un poco
+57:23
+de lo que hemos visto ejercicios acuérdense que lo importante es que ustedes vayan haciendo ejercicios eso es teoría que es muy importante ya ahorita
+57:30
+ya empezamos a ver lo que Son estructuras de datos sencillas de las que ya están predefinidas en el en
+57:37
+python y luego se ve un poco más de estructuras de datos
+57:42
+este combinadas Pero antes de eso yo creo que sería bueno que viéramos ya lo que se llama programación orientada
+57:48
+objetos y ya es la una de las partes más importantes de todo programación porque
+57:53
+por ejemplo c má más Java javascript python todos estos están basados en lo
+57:59
+que se llama programación orientada a objetos que luego vamos a vamos a ver qué significa en si no mañana pasado
+58:06
+mañana probablemente este Qué significa esto de programación orientada a objetos eso es muy muy muy importante una vez
+58:12
+que ustedes ya saben eso y bueno estructuras de datos y algoritmos como les dije es muy fácil transmitirlo a
+58:17
+todos los lenguajes o sea obviamente tiene un poco más de complejidad este c+
+58:23
+más porque tiene unas cosas que python no tiene que python te lo evita pero ya
+58:28
+la lógica ya la tendrían más o menos O sea que es lo importante Okay chavos no s si tengan alguna última pregunta o
+58:38
+duda Pues ahorita voy a seguir viendo los apuntes Sí o sea les digo sea esto no no
+58:45
+se crean que es n más de verlo y aprenderlo si tarda su tiempo digo Pues apenas llevamos qué unos dos semanas
+58:53
+empezamos más o menos el curso entonces este está bien chavos o sea para dos
+58:59
+semanas obviamente Lo importante es que vayan mejorando pero no no esperen programar Facebook en dos semanas o sea
+59:05
+tienen que ir aprendiendo la lógica les digo sobre todo lo importante de aprender la lógica y aprender los fundamentos es que ya después ustedes si
+59:12
+les piden en el futuro aprender otro lenguaje es muy son muy parecidos porque
+59:17
+están con las mismas bases o sea también en c más como les digo hay métodos
+59:23
+también existen funciones también existen p for y Wi Existen los condicionales existen variables A lo
+59:30
+mejor Existen un poco de cosas más y diferentes no Y la sintaxis la forma de
+59:36
+escribirlo es un poco diferente Pero los conceptos son los mismos entonces por eso es muy importante que vayan
+59:42
+aprendiendo los conceptos muy sólidos para que ya después puedan pasarlo de uno a otro de manera muy sencilla Okay
+59:49
+chavos pues Bueno nos vemos cuídense y haí los que van conectarse rec para practicar pues nos vemos chavos
+59:57
+Cuídense Bye

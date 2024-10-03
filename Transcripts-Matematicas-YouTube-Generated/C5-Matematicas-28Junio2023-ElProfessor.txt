@@ -1,0 +1,1040 @@
+0:02
+Ok pues bueno vamos a recordar un poco estamos viendo pasada verdad vamos a
+0:08
+volver a verb no y nos quedamos en divisiones verdad Bueno la semana pasada
+0:15
+vamos recordar no que nos quedamos Y empezamos a ver lo de este acu que era quedamos
+0:24
+viendo la parte un bastan
+0:31
+me acuérdense que todo lo que vimos fue lo de potencia de 10 la última que hace
+0:39
+este acuérdense que si era positivo se hacía más grande si eran negativos el
+0:45
+punto de esal se movía hacia la izquierda este también acuérdense que este las expresiones algebraicas ent es
+0:51
+muy importante que lo recordemos tienen estas cuatro partes que es el signo el coeficiente el grado la variable este el
+1:00
+signo acuérdense que solo hay dos en matemáticas positivo y negativo el coeficiente es el número que está
+1:05
+multiplicado a la variable las variables pues son las que usamos letras no Por lo
+1:11
+general en álgebra este Okay el grado son las potencias en
+1:16
+las cuales están las variables etcétera este Okay acuérdense que ha tipos de
+1:22
+expresiones lo que es monomios binomios trinomios polinomios este acuérdense que
+1:27
+era tener un signo un coeficiente para los monomios acuérdense que podíamos reducirlo que era la parte de la suma y
+1:33
+resta algebraica acuérdense que también para todo esto era lo de las lo que habíamos visto que también vimos la
+1:39
+semana pasada de leyes de los exponentes acuérdense que las leyes exponentes son muy muy muy importantes este porque
+1:47
+estas nos sirven también en álgebra nos sirven en aritmética nos sirven en todos
+1:53
+lados no este porque acuérdense que
+1:58
+este en multiplicaciones ahita lo vamos a ver pero este el trinomio que eran
+2:05
+tres partes el polinomio acuérdense que las operaciones algebricas lo primero que vimos fue la suma y la resta
+2:11
+acuérdense que este bí que tienen
+2:17
+las las mismas variables no este bueno en la suma y resta este solo se pueden
+2:23
+sumar las que tienen las mismas variables y elevadas a las mismas potencias no
+2:31
+[Música] okay Y cuando se pasa estas dos
+2:37
+condiciones qué es lo que se hace pues se suman o se restan los coeficientes no
+2:42
+Okay Acuérdense que los coeficientes los coeficientes Qué son alguien que me
+2:49
+diga en una expresión algebraica que es un
+2:58
+coeficiente alguien bueno si no se acuerdan es los
+3:04
+números no Acuérdense que los coeficientes Serían como esto esto esto
+3:11
+esto los números son los coeficientes verdad Este
+3:16
+Entonces Okay hay que acordarse porque si no las división más difícil
+3:23
+este y acuérdense que muchas reglas de aritmética funcionan también en álgebra por eso es importante
+3:30
+en álgebra acuérdense este las multiplicaciones este también
+3:37
+de los signos no acuérdense por ejemplo este menos ten este menos propiedad
+3:44
+distributiva acuérdense que era la propiedad distributiva que tienes algo fuera del paréntesis y lo multiplicas
+3:51
+por cada elemento dentro del paréntesis no Okay Esto es para cambiar signos no
+3:58
+acuérdense que multiplicaciones algebraicas había tres tipos que era monomio por monomio
+4:05
+no monomio por polinomio y polinomio por polinomio vamos a ver cada una de estas
+4:12
+no este Okay bien monomio por monomio chavos acuérdense que era los monomios
+4:19
+eran de un solo término Pues un solo coeficiente este un solo signo y pueden
+4:25
+tener varias variables no este por ejemplo este estas no acuérdense qué se hacía
+4:34
+acuérdense que era multiplicar iguales con iguales Qué quiere decir signos con signos coeficientes con coeficientes y
+4:43
+variables iguales bueno variables con variables iguales [Música]
+4:51
+no acuérdense que no podemos multiplicar x con y bueno sea x con y nada más se
+4:56
+queda como x por y deja n más x pesado como dirían este para poder hacerlo de
+5:02
+sumar y restar los exponentes Y eso es con este tiene que ser las mismas
+5:08
+variables no esta x está a la uno verdad acuérdense que cuando no les ponemos el
+5:16
+la potencia no más le ponemos la variable es que están a la potencia uno
+5:21
+Este ya este si no existe Bueno si no está acuérdense que era como tener y a la
+5:28
+cero porque acuérdense que cualquier número elevado a la oer era un bu eso para recordar un poco de monomios por
+5:34
+monomios acuérdense que el monomio por polinomio es distribuirla chavos o sea
+5:40
+lo que está fuera del paréntesis va multiplicar cada uno de los términos dentro del paréntesis
+5:47
+no este Okay muy bien este qué más sí
+5:53
+acuérdense monomio por polinomio es así y acuérdense que polinomio por polinomio
+5:58
+es lo lo mismo nada más que aquí cada uno de los términos del primer polinomio
+6:04
+se va a distribuir en los otros no aquí si se fijan si tenemos Así que dos
+6:10
+términos no y dos términos en cada lado pues Cuántas multiplicaciones hay cuatro no es el número de número de términos
+6:18
+por el otro número de términos aquí puse Aquí sí O sea igual si tuviéramos este
+6:25
+acuérdense que todo esto viene de la aritmética chavos acuérdense que era equivalente por eso vimos la parte de
+6:32
+aritmética la parte de distributiva etcétera En aritmética porque es Exactamente igual que en álgebra la
+6:39
+única diferencia Es que en álgebra no podemos reducir siempre en álgebra Cuando tenemos diferentes variab o
+6:45
+diferentes potencias etcétera no siempre se puede reducir y se tiene a veces que expresar una cosa otra grandota Pero eso
+6:53
+no quiere decir que este no funcionen las mismas reglas al contrario se aplican no más es que se deja expresado
+7:03
+Okay muy bien y vamos a empezar a ver ahora sí que la
+7:08
+este un poco de divisiones de monomio entre monomio
+7:15
+pues digo el nombre lo dice no división de monomio entre
+7:25
+monomios miren vamos a ver un ejemplo si a mí se me ocurre por ejemplo 8 x y qua
+7:34
+z cuarta ent 2 x - 2 y - 1 Z cúbica
+7:46
+miren Esto me puede decir alguien si sí es una de monomio entre monomio o
+7:53
+no alguien
+8:02
+Cuál fue la pregunta de que si esto sería esta división se calificaría una
+8:08
+de monomio ent monomio O sea si los dos son monomios Pues sí muy bien los dos son monomios
+8:16
+verdad Los dos son monomios porque dijimos que tienen que tener un signo los dos tienen el mismo signo bueno x el
+8:23
+mismo tiene que tener un signo tiene que tener un coeficiente y puede tener
+8:29
+muchas variables No eso ya es este puede tener una cer 1000 un millón si quieren
+8:35
+este el punto es que solo tenga un signo y un coeficiente no este Bueno siempre
+8:42
+que las variables estén multiplicando Obviamente que si se están sumando ya tendría más signos no y más coeficientes
+8:47
+entonces ya pregunta el 8x y el o solo va al x no el o está
+8:57
+multiplicando todo Acuérdate que ra esto es como si estuvier si tuviéramos esto digo por notación no se pone todo pero
+9:02
+mira es como si tuviéramos 8 * x por y a la quinta por Z o sea cada
+9:10
+uno no Z a la cuarta Igual acá o sea lo de abajo acuérdate o sea por notación no
+9:16
+se pone pero es como si tuviéramos esto O sea todo todo se está multiplicando con todo no Acuérdate que como en la en
+9:23
+la multiplicación el orden de los factores no el producto pero por lo general siempre se pone el número el
+9:29
+coeficiente hasta la izquierda para ponerle el signo No eso es más notación realmente o sea realmente o sea
+9:37
+técnicamente ustedes lo pueden poner en otro orden pero pues bueno sí se pone no
+9:43
+Por lo general se trata pues o sea para que se vea bonito y entendible que el número sea del que esté en el lado
+9:50
+izquierdo no y que las letras vayan como en orden alfabético digo no es no es no
+9:56
+es requerimiento tú la verdad lo puedes poner como quiera y matemáticamente sigue siendo lo mismo esto es más por estética no O
+10:03
+sea literalmente para que la gente entienda más pero este técnicamente
+10:08
+matemáticamente es lo mismo Okay chavos bien Si hacemos la de monomios entre
+10:15
+monomios es lo mismo que una multiplicación de monomio por monomio en el sentido de que dividimos
+10:25
+signo con signo
+10:32
+coeficiente un coeficiente
+10:41
+y mismas variables con mismas variables no es exactamente lo mismo chavos que
+10:50
+una multiplicación nada más que aquí es dividir Okay chavos miren lo primero Cuál es nuestros
+10:56
+signos positivo y positivo no Cuánto es positivo entre
+11:04
+positivo acu muy bien es positivo es lo de las
+11:10
+leyes de los signos chavos dividir es lo mismo que multiplicar en las leyes de los signos Qué quiere decir Queen Ah
+11:17
+vamos a ver pero positivo entre positivo es positivo Okay vamos a ver los coeficientes 8 2 8 2 Cuánto es cu muy
+11:27
+bien esta parte de coeficiente va a ser cuatro Ah lo pongo bien nada más para que lo vayamos viendo y acuérdense
+11:34
+dijimos que mismas variables con mismas variables Entonces tenemos x entre x a
+11:40
+la -2 tenemos y a la quinta entre y a la
+11:45
+-1 y z cu entre Z cúbica no vamos a hacer
+11:53
+el primero cuánto nos daría chavos la primera sería x1 - - x a la -2
+12:04
+mm - -2 muy bien seg Ahorita Ahorita volvemos a esta
+12:10
+vamos a hacer cada uno de estos el de y sería y a la 5 - - 1 y acuérdense bueno
+12:21
+es se certa 4 4 - 2 Okay ahora vamos a hacer las operaciones no okay
+12:29
+Entonces menos por menos nos da más verdad + 2 acuérdense que pu 1 + 2
+12:38
+cuánto nos va a dar 3 verdad ent sería x
+12:43
+al cubo Okay este diente
+12:50
+color este Cuánto es menos por menos chavos
+12:57
+alguien más no má muy bien Cuánto es 5 +
+13:06
+1 alguien sería y a la 6 muy bien y z es 4
+13:18
+- 3 nos queda Z a la 1 Entonces el final nos
+13:24
+quedaría más el coeficiente Dios 8 do es cu la
+13:30
+primera letra dijimos que era x que era x cubo la y dijimos que es y a la 6 y z
+13:39
+dijimos que era Z a la 1
+13:46
+verdad Entonces chavos Así es como funciona monomio entre monomio
+13:51
+no puede ser un poco más complejas podemos también puede pasar lo lo de la
+13:58
+ley del sandwich no ahorita vamos a ver también puede hacer bien Vamos a ver
+14:05
+rápido la de monomio polinomio entem monomio también
+14:12
+existe polinomio ent
+14:23
+monomio Okay existe polinomio an monomio por
+14:40
+[Música] 4 x [Música]
+14:50
+c 2 x
+14:57
+y maestro polinomio se refiere a cualquier
+15:05
+monomio que sea más de un sí desgraciadamente eso dicho que está mal
+15:11
+porque parece como si fuera un binomio Sí o sea Mira polinomios en Casos de
+15:16
+multiplicaciones y divisiones se refiere a cualquier cosa mayor a un monomio
+15:24
+No porque las reglas son las mismas para uno de dos 3 cu 5 6 son las mismas no
+15:32
+realmente se refiere a mayor a un monomio cuando es en multiplicación en divisiones yo sé o sea lo de binomios
+15:38
+trinomios realmente lo de binomios y trinomios solo sirve para como destacarlos no que que ese es el que
+15:44
+tiene dos términos es es el que tiene tres términos para hacerlo del trinomio cuadrado perfecto binomios y así okay
+15:50
+eso nada más es para destacarlos cuando los enseñan pero realmente aquí se refiere a cualquier cosa mayor a un
+15:56
+monomio O sea que puede ser un binomio sí puede ser un trinomio puede ser más de TR cu aunque tenga más deque sea más
+16:03
+grande que un monomio ya califica como polinomio en las divisiones y
+16:09
+multiplicaciones muy bien Sí buena pregunta ra la verdad es que eso eso lo hacen n más para destacarlos no el
+16:17
+Binomio y el trinomio pero realmente un polinomio en este en estos casos es cualquier cosa mayor a un
+16:23
+monomio Ok miren aquí es lo mismo que es propiedad distributiva
+16:29
+Qué quiere decir que esto va a dividir esto y esto va a dividir esto Esto es
+16:35
+como miren chavos es como si nosotros tuviéramos esto [Música]
+16:44
+no 25 25
+16:49
+15 bien chavos es como si tuviéramos esto en aritmética no en aritmética este
+16:56
+esta operación es equivalente a hacer esto [Música]
+17:04
+no sí no miren lo podemos comprobar Cuánto es 25 +
+17:12
+15 40 no entre 5 cuánto nos
+17:19
+da o muy bien Ahora vamos a hacer Esto del otro lado Cuánto es 25
+17:26
+5 5 y 15 / 5 tres muy bien entonces cuánto
+17:33
+nos da 5 + 3 ocho es equivalente hacerlo este aquí
+17:41
+se aplica lo que es propiedad distributiva no se va con esto y se va con esto okay muy bien no Okay polinomio
+17:50
+ent monomio funciona Exactamente igual o sea por eso les decía que era muy
+17:56
+importante los de aritmética porque pues son las mismas reglas nada más aquí con variables no
+18:02
+Okay entonces pues bueno vamos a dividirlo o
+18:08
+sea buen vamos a hacer cada uno no esto es equivalente a si tuviéramos 5x cu y me
+18:14
+faltó entre 2x y a la -2 más cuánto 4 x cúbica y a la
+18:25
+-1 entre 2xy a la men2 no Okay es lo mismo
+18:40
+chavos Okay entonces cómo cómo empezaríamos alguna
+18:48
+idea mm podríamos eh acomodar las variables
+18:57
+mm acuérdense que dijimos eran era signo con signo qué
+19:08
+más acuérdense que este era que signo
+19:13
+con signos coeficientes coeficientes y variables con variables
+19:22
+vamos la explicación pero bien chavos vamos a hacer uno por
+19:27
+uno por parte ah V hacer el primero vamos a hacer el
+19:33
+segundo [Música]
+19:44
+y Okay muy bien miren chavos Pues el primero dijimos que era signos con
+19:50
+signos a ver velo diciendo porque no tien tanto caso que nás yo lo vaya diciendo que es muy parecido a lo que ya
+19:56
+hemos visto este a ver chavos
+20:01
+alguien el signo con signo Cuál es el signo de acá arriba de
+20:06
+este Cuál es el signo positivo bien en
+20:14
+abajo positivo bien positivo entre positivo no primer par poso entre
+20:19
+positivo muy bien Ahora coeficientes cuál es el coeficiente del de
+20:27
+arriba acuérdense el coeficiente es el número que está multiplicando las variables no
+20:33
+aquí es c el de abajo Cuál es dos dos muy bien y luego acuérdense
+20:39
+que dijimos mismas variables con mismas variables Entonces sería x cu x no
+20:46
+acuérdense que sería y ent y a la-2 no Bueno vamos a
+20:52
+simplificarlo cuánto es x cu x x muy
+21:01
+bien Y cuánto es y entre y a la men2 acuérdense que el -2 es como si fuera un
+21:07
++ 2 si estuviera arriba acuérdense menos por menos más entonces y a la 1 acuérdense que cuando no está 1 + 2
+21:14
+Cuánto les da tres no sería y
+21:23
+al cubo verdad entonces esa sería la primera
+21:29
+parte la segunda parte a ver cómo sería chavos alguien me lo vaya
+21:37
+diciendo vayan practicando son las mismas reglas chavos acuérdense por eso lo hemos visto en
+21:43
+aritmética en algeb lasas
+21:51
+reglas sí Estábamos yo lo estoy haciendo aquí si está creo que está saliendo
+22:13
+qué alu pueden irme ayudando a ver va puede
+22:23
+ser por ejemplo x cub menos x 1 a ver cómo a ver esa parte
+22:33
+vamos parte por parte Cuánto es positivas positivo no muy bien Cuánto
+22:39
+es cu dos bien x cub entre x cuánto nos
+22:48
+da x a la 2 muy bien 2 y a la
+22:54
+-1 y a la -2
+23:03
+y muy bien verdad acuérdense porque chavos es como y a la1 y y a la 2
+23:11
+Entonces esto se hace y verdad muy bien así ch Entonces
+23:16
+el resultado final nada má sería juntar estas dos el resultado final serí 5
+23:22
+Med x 2x Ada bien es sería el resultado
+23:30
+final verdad bien tranquilo no este muy bien y
+23:38
+esto sería ahora sí que el polinomio entre monomio no y falta la última la
+23:44
+más pesada obi que es la vo
+23:50
+Okay el polinomios entre polinomios
+23:56
+no bien esta la verdad no siempre se puede
+24:03
+y no Siempre sale algo agad la verdad bien Por ejemplo voy a poner un ejemplo
+24:09
+3x cu la tengo que poner un ejemplo bonito no lo puedo sacar de la manga Porque si
+24:16
+noen cosas revuelven para empezar vamos a empezar con este
+24:22
+no Okay aquí qué se trata de hacer alguien
+24:28
+sabe bien si no agarramos el primer término del
+24:34
+de la expresión que está fuera no O sea est el X bien Aquí vamos a verlo rápido
+24:43
+porque la verdad es que esta parte en general general en que vea ya después no se usa esto nada más es para que lo
+24:48
+aprendan porque probablemente en sus exámenes y todavía no lo han llevado se los van a preguntar la verdad es que en la vida real yo no es muy raro verlo la
+24:56
+verdad Pero bueno Ah no hay problema de toos lo vamos a ver el punto es que esta
+25:02
+x se divide entre esta entre el primer término primer término entre el primer
+25:08
+término no vamos a dividir chavos Cuánto es 3x cu entre x
+25:15
+3x muy bien 3x no c Ese es el primera cosa que nos sale no Entonces esto lo
+25:21
+ponemos acá arriba acuérdense como la división de primaria de bueno que nos enseñan a
+25:27
+dividir no con la casita y todo eso digo les digo la verdad es que esto Casi ni
+25:32
+se usa Pero bueno se tiene que hacer bu tenemos que aprender entonces x como en primaria la parte de arriba se
+25:39
+multiplica por esto no y AC propiedad distributiva tambén Pero bueno 3x * x
+25:46
+nos da 3x cu y acuérdense como en primaria se le cambia el signo no igual
+25:51
+3x * 2 nos va a dar -6x Esta es como la de primaria chavo
+25:59
+digo más revoltosa más latosa Claro que sí pero bueno Nos da esto no 3x cu y -
+26:08
+3x cu se se van no se hace cero y Cuánto
+26:16
+es + 2x - 6x cuánto es
+26:22
+esto alguien -4x muy bien men 4x verdad Ok y pues
+26:31
+como en la de primaria vamos a bajar el término de se acuerdan
+26:38
+la no mimo unos 16 años quién sabe este el
+26:44
+punto es que este es el mismo proceso que la de
+26:50
+primaria se acuerdan de la primaria muy bien es lo mismo No aquí de nuevo vamos con lo mismo cuál es cómo se llama
+26:59
+este x cuánto nos da para que nos dé el Cómo
+27:05
+se llama el
+27:16
+-4x algien
+27:25
+chavos okay ya ya ya me oen creo que me
+27:34
+sacó Okay va Okay muy bien saó de la computadora
+27:39
+Okay pero bueno le digo que multiplicar por 4 o
+27:45
+-4 el de la división
+27:51
+Miren el siguiente es
+27:56
+ver tambi el iPad Perdón vuelvo a
+28:04
+[Música] compartir
+28:11
+computador okay Bueno vamos a recordar
+28:17
+no cuánto nos daba
+28:23
+chavos tenemos que hacer lo mismo verdad x bien de nuevo hacemos el mismo
+28:31
+proceso este y este no voy a poner as tenemos que dividir no - 4x en t cuánto
+28:41
+nos da algi es men cu muy bien cre que lo que
+28:50
+están diciendo perd que digo que como se F el sonido me sacó
+28:55
+de y luego de la otra muy bien era lo que estaban diciendo era el -4 verdad y
+29:00
+el -4 pues vuelve a pasar lo mismo Cuánto es -4 * x a -4 Pero acuérdense como en primaria
+29:10
+le tenemos que cambiar el signo este se hace positivo verdad Okay y -4 * 2
+29:16
+cuánto nos
+29:22
+da -8 no muy bien entonces
+29:28
+esto Cuánto es - 4x + 4x 0 Y cuánto es + 4 -
+29:33
+8 -4 Muy bien Entonces miren por eso no me gusta tanto la división aljebraico
+29:40
+porque nos quedan cosas así el resultado sería 3x - 4
+29:45
+no y nos queda un Sobrante no el residuo el residuo cuál
+29:55
+es -4 menos cu no residuo -4 y se
+30:00
+expresa como
+30:06
+má x o sea Sí bueno les decía chavos esto
+30:16
+vamos a pasarlo rápido porque la verdad es que casi no lo volvemos la verdad es que esto no no eso no el cálculo está
+30:24
+muy curioso esto raíces Sí luego luego lo vamos a
+30:30
+ver como también con división sintética es que hay otra forma que es más fácil
+30:35
+que es la división sintética es es la división algebraica polinomial larga que
+30:40
+la verdad pues como les dije no no se vuelve usar casi Porque casi siempre cuando necesitamos hacer divisiones este
+30:48
+entre polinomios que la verdad además de todo no son muy comunes Pero bueno para procesos Así de todos modos se usa la
+30:53
+división sintética eso lo vamos a ver yo creo que mañana este bueno vamos a seguir un poco con lo que son funciones
+30:59
+porque esto Esto sí para que vean si es muy importante esto si lo van a usar en
+31:05
+todos lados en cálculo en economía en finanzas en programación lo que son funciones y
+31:13
+relaciones Okay miren lo que les decía de la rega de la recta vertical y regga de la recta
+31:21
+horizontal no sé si se acuerdan de esta rega o bueno si no la han visto
+31:27
+preocupen hay una regga muy fácil que literalmente es
+31:32
+como hacer una raya No si tú haces una raya
+31:38
+vertical en una función y esta toca solo una vez el
+31:45
+punto un punto pues est es una función bien aquí que toca dos veces no es una
+31:52
+función se le llama relación okay mir una función en
+32:00
+matemáticas es que por cada valor de X tengas uno
+32:07
+de y no sí chavos bien por
+32:19
+cada valor de X y de y
+32:27
+esto es una función no por cada valor de X tengas uno de
+32:34
+Y aunque si puedes tener bien si es una función no es uno a un es bien lo que sí
+32:42
+puedes tener sí puedes tener el caso contrario no que por un valor de
+32:50
+[Música] y tener
+32:57
+muchos bueno dos o más de X bien todava
+33:04
+no lo vamos a Bueno vamos a ver muy pronto no est la siguiente porque es que
+33:10
+estamos en miércoles El lunes probe vamos a ver lo que es trigonometría
+33:16
+bueno los que no han visto trigonometría por ejemplo no hay
+33:21
+funciones y son funciones no por ejemplo este que está el seno o el coseno o sea
+33:27
+seno o coseno puede ser lo mismo o sea desplazado sería Pero bueno el seno por ejemplo es una función no y es una
+33:35
+función porque le podemos hacer la regga esta de la línea
+33:42
+vertical y o sea es una Aunque sí tiene muchos valores miren este valor este
+33:50
+valor de y no tiene muchos y realmente la función de seno si se acu Bueno si no
+33:56
+lo han visto vamos vamos a verlo tiene infinitos valores de así porque es una función que va la onda no por toda la
+34:05
+eternidad entonces puede tener muchos valores de X sin embargo una función
+34:10
+matemática solo y solo puede tener un valor por cada de X este valor de X solo
+34:16
+puede tener un valor de y los valores de y pueden tener muchos o nada más dos o
+34:21
+dependiendo no por ejemplo en estas trigonométricas tienen infinitos en teoría no porque esa función es una
+34:27
+función que va oscilando por toda la eternidad entonces este eso es lo que
+34:32
+tenemos que saber de las funciones y las relaciones Esa es la de la recta vertical la recta horizontal solo nos
+34:39
+dice si es uno a uno luego vamos a verlo con los nombres ya en la parte de cálculo lo de inyectiva subjectiva Y eso
+34:45
+eso déjenlo para cálculo porque pues sí sirve un poco no tanto o sea con que se
+34:50
+acuerden de los términos no se tienen que acordar totalmente de los nombres pero para la parte de cálculo y la parte de mat discretas sí es un poco más bueno
+34:58
+se ve más más que ser útil pero este Okay el punto es que acuérdense chavos
+35:05
+un examen rápido es hacer una línea vertical hacer una línea vertical si solo tenemos un valor acuérdense
+35:12
+matemáticamente es que por cada valor de X haya uno de Y aunque sí puede ser al revés por un valor de Y sí puede tener
+35:19
+infinitos de X como las funciones
+35:24
+trigonométricas Okay muy bien bien eso nada más era para ver un poco luego lo vamos a volver a ver que para el cálculo
+35:31
+necesitamos volverlo a ver no se preocupen Pero bueno para seguir avanzando hay que ver lo que son
+35:37
+funciones lineales Ok la función lineal chavos Bueno antes de esta A lo mejor
+35:44
+existe lo que es la función constante una función constante Yo creo
+35:50
+que es la más sencilla que hay la primera primera bien acuérdense en el
+35:56
+eje chavos no acuérdense que esto lo hemos visto
+36:02
+desde que estamos en primaria A lo mejor en kinder dependiendo
+36:09
+este el eje cartesiano no es chavos Cómo
+36:15
+se le llama qué eje
+36:20
+es el eje y no sí Y este es el eje x muy
+36:26
+bien Pues bueno una función constante Qué significa constante Cuál es la definición de constante en español que
+36:33
+es siempre tiene el mismo valor no no
+36:40
+cambia valor no cambia siempre tiene el mismo
+36:46
+valor es una función constante chavos sería Esto si es una función Sí porque
+36:53
+obviamente miren hacemos la de la línea vertical y solo y solo toca un punto
+37:00
+verdad Entonces es una función y es constante porque pues el nombre lo dice
+37:06
+por ejemplo sea 5 est esta función siempre va a valer
+37:14
+c esta función siempre va a valer c aquí vale 5 aquí vale 5 aquí vale 5 aquí vale
+37:20
+5 aquí vale 5 es una función constante luego vamos a ver es una línea
+37:29
+pero la función lineal es cuando nuestra bueno nuestra línea s tiene una
+37:35
+pendiente vamos a ver que la pendiente Es el cambio en y entre el cambio en x
+37:44
+acuérdense esto es muy importante Por qué Porque se ve en todos lados o sea esta es la función lineal no tien ni
+37:50
+idea de verdad qué tan importante es porque esto se ve de la función lineal se ve en lo vamos a ver en cálculo
+37:57
+cuando entreguemos funciones lineales se ve en física porque pues por ejemplo las pendientes Y eso son velocidades
+38:03
+aceleraciones se ve en economía porque exactamente Es el cambio chavos Entonces el cambio entre dos cosas este entre y y
+38:11
+x y que tenga una línea recta básicamente eso es una función lineal y
+38:16
+se ve En probabilidad y estadística con la regresión lineal en toda esta parte
+38:21
+de Data Science es inteligencias artificiales este para predecir algunos valores o hacer algunas estimaciones lo
+38:28
+que sea se usa lo que es regresión lineal y es una línea recta que trata de tocar la mayor el mayor número de puntos
+38:35
+posibles Y eso que es el algoritmo yo creo que más sencillo de Machine learning de bueno Intel de aprendizaje
+38:41
+automático sigue usando función lineal o sea esto sí es muy importante que lo veamos que se lo aprendan de memoria al
+38:48
+menos lo dependiente y la intercepción y lo entiendan más que aprendérselo de memoria es que lo razonen porque s se
+38:55
+ven estadísticas se ve en DEA Science se ve en física se ve en química se ve en
+39:02
+muchas partes no Okay muy bien entonces Esto sí es importante que lo aprendamos
+39:09
+acuérdense Delta Delta Qué significa chavos
+39:15
+alguien cambio el cambio no muy bien Es el cambio el Triángulo es una letra
+39:22
+griega no se acuerdan que hay varias letras griegas y matemáticas usarlas Pues bueno El delta significa cambio que
+39:30
+significa básicamente y2 bueno unidad 2 menos unidad 1 en este caso como es y
+39:36
+por ejemplo Delta Y significaría esto y Delta x Pues sería obvio pensar que
+39:44
+Delta x es igual a x2 - x1 verdad la
+39:49
+pendiente como dijimos que era el cambio en y el cambio en x es y2 - y1 No y y x2
+39:58
+[Música] u x2 - x1 verdad Muy bien chavos Pues
+40:08
+así es no y2 - y1 ent x2 - x1 Esa es la
+40:16
+pendiente luego vamos a ver ya cuando veamos la parte de universidad que es la pendiente cuando lo llevamos al punto
+40:23
+infinitesimal muy muy muy pequeño es la derivada Pero bueno todavía no vemos eso ahorita
+40:28
+el punto es entender las funciones lineales porque vean chavos Aquí está
+40:34
+función esta función gráficamente podemos ver cuál es su pendiente vamos a
+40:41
+ver chavos este punto lo vamos a llamar el punto uno y este punto lo vamos a
+40:47
+Lamar el punto dos ya se que original bueno así es en matemáticas somos muy originales Entonces el punto un tiene
+40:54
+dos coordenadas no x1 y y1 el punto 2 tiene dos coordenadas
+41:01
+x2 y y2 no Okay pues bueno Al tener dos coordenadas vamos a aplicar la fórmula
+41:07
+que dijimos para sacar la pendiente era y2 -
+41:13
+y1 x2 - x1 verdad Entonces chavos el y2
+41:19
+es dos bueno es dos aquí cu dijimos que es es tres no
+41:27
+vamos a sacar esta coordenada esta coordenada que dijimos que es es
+41:32
+2,3 y esta sería 0,2 no Okay entonces el y2 es igual al 3
+41:43
+no el y1 es igual a -2 bueno menos y es
+41:48
+2s no entre x2 dijimos que era 2 y este 0
+41:56
+entonces noest pendiente bueno 3 - 2 cuánto nos da 1 y Y cuánto nos da 2 - 0
+42:03
+2 entonces nuestra pendiente sería de 1/2 no ustedes gráficamente lo pueden
+42:09
+hacer así no O Podrían haber hecho nada más por ejemplo contar no Ah Pues cuántos avancé en y avancé en y cómo se
+42:18
+LL Cuántos chavos uno verdad avancé uno y en x Cuántos avancé dos Entonces nada
+42:26
+más se hace la división 1 ent 2 1 medio no Okay como quieran digo lo pueden hacer matemáticamente si está gráfico
+42:33
+pues lo pueden hacer así viendo los dibujitos el punto es que ustedes entiendan y aprendan que la pendiente de
+42:40
+una recta que son las funciones lineales Es el cambio en y entre el cambio en x y
+42:47
+tiene que ser un valor constante por eso es lineal si ya no fuera constante Entonces ya no es lineal Bueno luego se
+42:54
+ve en la parte de cálculo y eso Pero bueno el punto es que nos da un número nos tiene que dar un número Este una
+43:02
+constante que constante es un número okay muy bien entonces este eso sería con la m
+43:12
+x Cómo se le llama No sé si se acuerdan es la
+43:19
+variable independiente F que la x es la variable
+43:26
+independiente chavos m acuérdense que era la
+43:33
+pendiente m pendiente la x es la variable
+43:38
+independiente y la B es lo que se le llama intercepción es la intercepción
+43:43
+con el eje y o [Música]
+43:52
+la es donde choca aquí por ejemplo en esta que es
+43:57
+rojo en esta que es rojo choca en el dos verdad Entonces B en este caso sería dos
+44:05
+puede ser positivas o negativa una función puede tener
+44:11
+pendiente positiva o negativa puede tener igual inter con el
+44:19
+origen muy bien mir una función con pendiente puede ser
+44:27
+así y una con pendiente negativa puede ser
+44:32
+así la pendiente también nos sirve para saber en qué dirección está si está
+44:38
+creciendo o decreciendo una función se le llama creciente
+44:44
+No si nos vamos hacia la derecha si nos vamos hacia la derecha si
+44:50
+esta aumenta esta alos hacia la derecha azul
+44:55
+va haciéndose más y verdad es queos hacia la derecha
+45:05
+este aumenta no en y derecha se aumenta
+45:10
+en Y esto es creciente es de creciente s aumenta
+45:24
+y vamos hacia la derecha y aumenta en y no es creciente Y es de
+45:31
+creciente obviamente es lo contrario no es de creciente Sí disminuye en y
+45:39
+[Música] no entonces acuérdense chavos cuando
+45:47
+aumenta en y es porque su pendiente es
+45:53
+positiva y si su pendiente es negativa entonces va decreciendo
+45:59
+mir chavos es la lógica no Y la pendiente es la fórmula Delta y el
+46:04
+cambio en y el Delta en x Obviamente que si es creciente porque este está aumentando no Y si es de creciente no es
+46:14
+porque esta está disminuyendo en y no entonces así es como funciona chavos
+46:21
+entonces a ver rápido así no más por verla esta que la función uno por
+46:27
+ejemplo esta su pendiente es positiva o
+46:33
+negativa de la función uno positiva Muy bien
+46:39
+excelente y de la función dos sería negativa verdad eso lo tienen que
+46:46
+verlo y saberlo porque les digo esto por ejemplo En estadística Y eso les digo en
+46:51
+una de correlación van a ver que el coeficiente puede ser negativo o positivo de uno a cero y si es uno
+46:59
+quiere decir que tiene una o sea una relación positiva una línea recta así si
+47:04
+es cero es que no tiene nada y si es uno Perdón menos un es que sí tiene una relación lineal pero este con pendiente
+47:13
+negativa les digo chavos esto se ve hasta en programación en este en inteligencias artificiales en
+47:19
+matemáticas en economía en finanzas porque también para predecir algunos pesos o predecir de que Cómo se van a
+47:26
+infar algunos precios o cómo va a ser la demanda Y este la oferta etcétera
+47:31
+También se usa Esto entonces La verdad es que la función lineal No hay forma de escaparse función lineal si la van a ver
+47:37
+enes básicamente en todo no O sea todo lo que tenga que ver un poquito de matemáticas Pues sí la función lineal se
+47:44
+ve este y por ejemplo aquí Bueno no está
+47:49
+muy claro Pues digamos que esto sea 1 dos digamos que este sea
+47:54
+2.5 pero son negativos verdad acuérdense que son negativos Por qué Porque el eje
+48:00
+hacia abajo por convención acuérdense que el eje y no hacia abajo es negativo
+48:07
+entonces este aquí esta azul choca en el 2.5 -
+48:13
+2.5 Okay entonces su pendiente sería
+48:20
+-2.5 y la pendiente Aquí más o menos pongamos que es 1.8 perón la pendiente No la la ordenada
+48:27
+del origen no la intersección con el eje y con el eje x Perdón es
+48:32
+1.8 verdad Okay muy bien está muy bien
+48:37
+chavos Así es como se bueno así es como vamos sacando lo que quería que vieran es que pueden tener este intercepciones
+48:44
+positivas pueden tener intercepciones negativas pueden tener pendiente
+48:49
+positiva puede tener pueden tener positiva y pueden tener la las negativas
+48:56
+no muy bien Eso es lo que quiero que se queden este a
+49:03
+[Música] ver miren
+49:09
+chavos la pendientes entonces dijimos que era así que
+49:15
+este también hay una cosa útil que es t puedes siempre que tengas dos puntos
+49:23
+puedes determinar lineal que toque ambos
+49:30
+no
+49:35
+Okay esta cosa es útil la
+49:41
+[Música]
+49:48
+fórmula [Música]
+49:54
+era
+50:01
+Okay no sé si han visto esta fórmula comprobar que
+50:06
+si Okay entre dos
+50:12
+puntos pu Buscar como función lineal entre dos puntos la ecuación lineal realmente Es una función es una ecuación
+50:19
+Bueno este a [Música]
+50:24
+ver así momento Seguro que sí no Okay sí casi Okay muy bien porque este se saca
+50:32
+así okay muy bien Bueno acuérdense Esta es la [Música]
+50:39
+función est también se le llama aquí la ecuación para determinar la función
+50:44
+lineal para determinar función lineal entre dos [Música]
+50:54
+puntos muy bien chavos Esa es
+50:59
+la acuérdense que aquí m la podemos
+51:05
+sustituir voy [Música]
+51:13
+poner bien [Música]
+51:24
+ch entre
+51:31
+dos okay Si a nosotros nos dan dos puntos siempre podemos sacar una función
+51:37
+lineal y vamos a ponerlo vamos a hacer un ejemplo aquí cuos
+51:45
+tenemos un punto aquí este punto negativo para que no le tengan
+51:53
+miedo tenemos dos puntos Y estos dos puntos cada punto tiene dos coordenadas noos que este se el punto un puede ser
+52:01
+cualquiera por lo general por convención se hace con de izquierda derecha porque as leemos no matemáticamente puede hacer
+52:07
+al revés pero bueno vamos a hacer por por lo normal no para que se vea
+52:12
+estético digamos que este sea el punto un no y este sea el punto dos
+52:17
+matemáticamente no importa Este el punto es que esta recta no puede tener lo que
+52:25
+dijimos no tiene coordenada 1 [Música]
+52:31
+coordenada coordenadas en [Música] x muy bien entonces por ejemplo la m
+52:41
+dijimos que la pendiente era y2 - y1 x2 - x1 verdad entonces mira nos
+52:50
+queda esta [Música] cosa
+52:56
+y y1 es igual y2
+53:07
+y1 chavos multiplicado
+53:14
+bueno estas x y y son variables no son
+53:19
+los otros son números estas son coordenadas todas estas las del puntito
+53:25
+son coordenadas las otras son variables o las otas las vamos a dejar así como están no traten de sumarlas no no no O
+53:32
+sea y x y y aquí estas son variables las que si tienen un subíndice son
+53:40
+coordenadas rápido si nos da tiempo rápido Okay bien es 1 2 3 4 5 6 bueno
+53:47
+negativos porque vamos hacia abajo -6 no y aquí sería -1 -2 -34
+53:55
+Okay las coordenadas es -4 -6 por qué porque acuérdense que primero va la x y
+54:01
+luego la y okay Y aquí va a ser 1 2 3 4
+54:06
+5 no el valor 5 está x no Okay 1 2 3 4 5
+54:14
+6 7 Entonces esto es 5,7 verdad muy bien Nada más es
+54:21
+sustituir dig sí es sustitución Pero bueno eh el punto es que vamos a ponerlo
+54:27
+morado sería y men y1 y1 dijimos
+54:37
+Aquí bien y1 dijimos que era men 6 verdad men men 6 igual a cuánto es
+54:47
+y2 y2 dijimos que era cuánto
+54:52
+chavos si no 7 menos Cuánto es y1 - 6
+54:59
+entonces -6 bueno rápido vamos a hacerlo x2 es 5
+55:08
+men x1 men 4 okay Y esto se multiplica
+55:14
+por X Men es men x1 -
+55:19
+4 ya pu lo más chico
+55:30
+Bueno aquí ya se movió ya las coordenadas ya valió seguramente pero aquí creo qued casi igual Ok el punto es
+55:37
+que este un poco
+55:44
+para quedándonos con esto nos queda y menos por menos cuá es chavos para eso
+55:49
+vimos [Música] to muy bien y 6 es igual a 7 Okay menos
+55:57
+por menos nos da más también entonces 7 + 6 no 7 + 6 cuánto nos da buen 7 + 6 5
+56:05
+menos por menos igual nos da más esto es x x menos por menos nos da más 4 no Okay
+56:12
+entonces esto es 7 por 7 + 6 nos da 13 13 / 5 + 4 nos da 9 por x + 4 ig a bueno
+56:21
+acuérdense que si queremos despejar y que es el punto de est despejar y le pasa este -6
+56:28
+Uy -6 Y al final y es igual a acuérdense
+56:34
+propiedad distributiva este por este este por este Entonces nos queda
+56:40
+39 x + 4 * 13 Cuánto es 40 12 52 novenos
+56:48
+y bueno -6 esto ya sería n más aplicar bueno 3
+56:53
+x sería 6 * 9 Cuánto es 6 * 9 54 men 52
+56:59
+- 54 cuánto nos da chavos -2 no nos queda
+57:07
+como -2 y esto chavos es la función que nos
+57:16
+daría miren si se dan cuenta tiene sentido porque este es menor bueno sea ya por la redimensionamiento no se ve
+57:22
+tanto pero por o sea es menor que uno dos novenos es menor que uno no Aunque
+57:27
+tendría que ser negativo a ver qué pasó aquí Déjenme ver qué pasó 9 7 + 6 13 13 noven 13 noen
+57:38
+por 4 40 40 4 * 3 52 529 9 por9 por 6
+57:46
+buen mejor por r redimensionamiento no quedó ahorita que
+57:52
+lo moví pero tendría que ser así chavos o sea el punto es que esta fórmula nos
+57:57
+da lo que es ahora sí que la este la bueno la la una función entre
+58:06
+dos puntos Okay chavos pues bueno ya ya me pasé 6 minutos este no tengan alguna
+58:12
+pregunta entos El recall Bueno El recall Ahorita se lo subo todavía no se lo subo la de matemáticas Ya casi lo acabo
+58:18
+ahorita les subo los ejercicios que vamos a estar haciendo en el recall que es todo lo de la semana pasada okay tengan alguna
+58:26
+pregunta última antes de irnos H el
+58:31
+recall Ahí va a haber ejercicios No sí de la semana pasada no de esto de esto hoy no O sea de lo de la semana pasada
+58:38
+no para que ya vean si de verdad aprendimos o no lo de la semana
+58:44
+pasada si hay que ir todos al recado Pues deberías O sea si si puedes lo
+58:51
+mejor es que sí lo mejor es que sí O sea para que vayas practicando si tú sientes que lo
+58:56
+aprendiste super bien y no necesitas practicar pues va tambén se vale pero lo
+59:03
+mejor refería de que era medio difícil tal vez encontrar un tiempo Eso
+59:10
+es eso es lo único malo bueno igual las que ha o sea también lo voy a grabar sí
+59:17
+a partir de hoy no O sea acu que lunes martes y
+59:26
+miércoles Pues como no hubo lunes y martes pues queda el del miércoles que es el de hoy no este de todos modos O
+59:34
+sea pues voy a grabar O sea si no pueden este todos los recs todas las discussion
+59:39
+todos estos que básicamente va a ha ser muchos ejercicios ya no va a ser teoría ya va a ser ejercicios ejercicios ejercicios que ustedes practiquen
+59:46
+practiquen practiquen y que tengan si tienen dudas ahí me las diga no Okay ent
+59:52
+es para que practiquen con los ejercicios y vean de de verdad o sea porque una cosa es ver y otra cosa es hacer Entonces este pues es más para que
+1:00:00
+hagan y vayan viendo qué es lo que qué detallitos Qué cosas hay igual le tomo
+1:00:06
+yo o sea yo voy a hacer ejercicios y Se los voy a o se lo voy a grabar y Se los voy a subir o sea eso para que el
+1:00:13
+también lo van a tener si lo quieren grabado como ustedes prefieran y yo sé si son bastantes horas yo lo
+1:00:19
+sé yo lo doy yo lo sé entonces este Pero bueno está bien chos Pues no sé nos
+1:00:26
+vemos en el recall los que puedan si no nos vemos mañana pues Bueno nos vemos
+1:00:33
+chavos by gracias

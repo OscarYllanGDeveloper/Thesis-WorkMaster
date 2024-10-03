@@ -1,0 +1,932 @@
+0:05
+Okay muy bien chavos este básicamente no
+0:12
+este todo lo que hemos visto en este Bueno lo que va venir en su examen parcial acuérdense que no es acumulativo
+0:20
+más bien que casi como F mat modular entonces Pues básicamente bueno todo lo
+0:26
+que va a venir es de las fuerzas verdad que son este tres leyes Newton verdad las tres leyes de Newton Okay la primera
+0:33
+ley verdad es la Prim la primera ley de Newton es la ley de la inercia la ley de la inercia
+0:39
+este se acordarán es la bueno básicamente nos dice no que un objeto va
+0:47
+a mantener su velocidad A menos que exista una fuerza resultante diferente a
+0:52
+cero que cambie su velocidad es como la definición de
+0:58
+Wikipedia pero la definición no este básicamente quiere decir eso no que
+1:05
+un objeto va a
+1:12
+conservar su
+1:18
+velocidad A menos que
+1:23
+exista una fuerza resultante
+1:34
+diferente a cero Okay básicamente lo que quiere
+1:40
+decir la primer ley de Newton que lo que les decía que si ustedes están no se acuerdan no sé si les puse a ustedes
+1:46
+pero este el video de este unos chavos que estaban como en un
+1:52
+carro y que fenan y se van de golpe para adelante Pues básicamente es la primera ley de Newton Ah se los
+1:58
+pongo pero este básicamente eso es como la primera
+2:03
+ley de Newton también es lo que nos permite a nosotros este poder ahora sí
+2:09
+que este caminar en los aviones y todo eso
+2:14
+básicamente es lo que nos permite Ah sí que hacer todo eso chavos [Música]
+2:28
+entonces
+2:58
+H
+3:12
+Aquí
+3:20
+está [Música]
+3:28
+rápido
+3:34
+Muy bien pues este no sé si lo los puse
+3:39
+bueno Esta es la primera ley de Newton la inercia verdad
+3:44
+e exactamente por eso se van hacia delante verdad porque pues mantienen su velocidad el carro no se fena pero pues
+3:52
+ellos no entonces pues ellos como sigen teno la misma velocidad por eso se van hacia adelante Okay muy
+3:58
+bien entonces Bueno eso es como un ejemplo de la primera ley de Newton no
+4:05
+este qué más Qué
+4:11
+más bueno esa es la primera ley de Newton verdad que también la que nos permite a nosotros a caminar o la que
+4:17
+les haya puesto también de mal en el medio de este que pues por eso nosotros en el planeta
+4:24
+no en la tierra podemos estar ahora sí que caminando un árbol lo vemos est pero
+4:30
+realmente se está moviendo con la tierra verdad y no lo notamos porque ya el árbol la tierra ya alcanzó esa
+4:37
+velocidad y nosotros no lo notamos no no Tom lista ahí este Pero
+4:45
+bueno este qué más bueno esa es la primera ley de Newton La Segunda ley de Newton es una
+4:52
+fórmula muy sencilla chavos que nos quiere decir que la fuerza es igual a la masa por la aceleración acuérdense que
+4:59
+la aceleración es un vector la fuerza también acuérdense que un vector tiene magnitud y dirección entonces bueno la
+5:08
+aceleración acuérdense que la unidad verdad de la aceleración es
+5:14
+este eh Es metr sobre segundo al cuadrado y de la fuerza que es un vector
+5:20
+es newtons verdad Muy bien Entonces este acuérdense que Newton es una unidad
+5:26
+derivada no es una de las siete fundamentales entonces básicamente este
+5:32
+es una unidad derivada y se conforma de estas verdad de la masa y de la
+5:37
+aceleración pues n más es multiplicar las unidades de ambas no de masa y aceleración este lo que les había dicho
+5:44
+que por ejemplo los que van en estud arquitectura ingeniería civil ingeniería mecánica robótica y física no les sirve
+5:50
+mucho este tema este por ejemplo sobre todo arquitectura
+5:55
+y civil y mecánica van a llegar una materia que se llama estática en la cual este es la suma de las fuerzas que es
+6:03
+igual a cero es cuando existe equilibrio equilibrio chavos básicamente hay dos
+6:08
+tipos que es el estático y el Dinámico no el estático es como muy utilizado exactamente en la construcción no en
+6:14
+construcciones en edificios en todo eso en muebles por ejemplo también o sea en
+6:19
+sus escritorios y todo eso este se hacen este para cosas que no
+6:25
+queremos que estén moviendo verdad un muev queremos que se quede ahí este no sé una cocina este una estufa este todo
+6:34
+lo que es de construcción verdad de edificios y todo eso queremos que su velocidad sea igual a cero porque sí va
+6:39
+a haber diferentes fuerzas pero entonces se calculan los materiales y las estructuras para poder resistir
+6:45
+diferentes combinaciones de fuerza o sea entonces básicamente es lo que se hace
+6:51
+verdad y bueno el equilibrio Dinámico sucede Ah así que por ejemplo en la
+6:56
+lluvia no lo que les decía una una vamos que una nube puede estar a dos mínimo 2 km pero mayoría están como 3 4 km no Y
+7:04
+si dejas caer una gota de lluvia desde esta velo bueno Desde esa altura debería de caer a una velocidad de póngale como
+7:11
+250 m por segundo pero no caen en esa velocidad las gotas de lluvia caen a 7 m
+7:17
+por segundo ahorita que llovió exactamente por eso estamos así este Pero bueno básicamente la velocidad de 7
+7:23
+m por segundo porque la resistencia del aire frena la gota no frena la gota y Li
+7:29
+a las fuerzas o sea esta gota tiene su peso verdad que el peso acuérdense que
+7:35
+se pone como W weight no y es la fuerza que este que la gravedad ejerce sobre la
+7:42
+gota de lluvia este y esta tiene la fuerza de la resistencia del aire no en
+7:48
+la caso de la gota de lluvia estas dos se anulan verdad su fuerza resultante es igual a cero Y como decía la primera ley
+7:56
+de Newton este si no existe una fuerza resultante va a mantener su velocidad y
+8:01
+agarró una velocidad de 7 m por segundo porque este proceso no es instantáneo este proceso digo tarda muy poco pero no
+8:08
+es instantáneo entonces agarra una velocidad y luego sean bueno se está en equilibrio Dinámico ya no aumenta su
+8:14
+velocidad pero tampoco la disminuye entonces básicamente se mantiene con esa velocidad durante todo el tiempo en el
+8:21
+que cae Así es como funciona la lluvia Bueno este lo que les decía verdad esto era la
+8:29
+ecuación acuérdense del equilibrio verdad que la suma de las fuerzas es igual a cer0 Okay muy bien y esto
+8:36
+acuérdense que nada más era anotación que era el de la sumatoria verdad el Sigma pero básicamente esto es esto
+8:42
+chavos es nada más complejo que esto que agarrar que la fuerza un más la fuerza 2 más la fuerza 3 hasta la fuerza n
+8:50
+acuérdense que la fuerza N O sea quiere decir n fuerzas O sea tú puedes tener 1
+8:55
+2 5 1,000 500 millones de fuerzas la las que tú quieras el punto es que se tienen que sumar y tiene que dar igual a cero
+9:03
+si está en equilibrio no muy bien qu lo que les decía que bueno si lo quieren programar es como si hiciera un forl
+9:09
+Pero bueno el equilibrio no para que algo esté en equilibrio chavos como vivimos en un universo tridimensional o
+9:16
+sea en tres dimensiones tiene que estar en equilibrio en las tres dimensiones en X en y y en Z porque a lo que les decía
+9:23
+no del del borrador Y eso o sea si el borrador se mueve por ejemplo izquierda a derecha este se mueve en una sola
+9:29
+dimensión y no está en equilibrio en esa dimensión en y y en Z sí está porque no
+9:34
+se está moviendo O sea no tiene ninguna fuerza resultante ahí pero no podemos decir que está en equilibrio porque se
+9:40
+está moviendo al menos en una dimensión para que sea equilibrio tiene que ser a fuerza en las tres dimensiones muy bien
+9:48
+y bueno Dinámico Así que también los que esten ingeniera mecánica o física no van a
+9:55
+llevar esto que se llama Dinámico que aquí es cuando las fuerzas es diferente a cero Ah digo los ingenieros mecánicos
+10:02
+si les interesa verdad pues dig para los helicópteros para los aviones para este todo esto los barcos este todo eso las
+10:10
+máquinas los robot Ah también los de robótica s cierto los de robótica que quieran exactamente que el brazo del
+10:16
+robot se mueva no a cierta velocidad a cierta aceleración los que construyen
+10:21
+los elevadores no este todo eso bueno los físicos para estudiar cosas más
+10:27
+complejas todavía este dentro de la mecánica no etcétera entonces bueno todo
+10:33
+eso verdad es la parte de dinámica donde la fuerza sí tiene una masa Bueno si
+10:38
+tiene una aceleración mt quiere decir la masa total la masa total básicamente es
+10:44
+sumar todas las masas no masa total es igual a la sumatoria de todas
+10:51
+las ya no con ot cuá
+10:58
+pone W masas no O sea todas las masas que hay
+11:06
+en el cómo se llama en el sistema es la suma de todas las
+11:14
+masas Okay muy bien Vamos a regresar a ver los problemas Bueno antes de eso
+11:21
+vamos a ver la repasar la tercera ley de Newton que ya la habíamos visto verdad Pero básicamente la tercera ley de
+11:27
+Newton chavos acuérdense que era la de acción y reacción acuérdense que a toda acción hay una reacción que ejemplos
+11:34
+eran brincar verdad empujar la pared no acu que cuando ustedes empujan la pared
+11:40
+qué sienten en la palma de su mano Sienten una fuerza y se mueven verdad en lado contrario porque exactamente la
+11:45
+tercera le de Newton quiere decir que at acción una reacción que básicamente este
+11:51
+así que siempre que ap que es una fuerza un
+11:57
+objeto
+12:07
+este te regresará una fuerza con la misma
+12:21
+magnitud esma magnitud pero sentido contrario
+12:36
+[Música]
+12:54
+[Música] bien okay No básicamente es lo que nos dice la tercera ley de Newton y
+13:01
+acuérdense que este bueno otro ejemplo verdad que yo creo que han hecho mucho
+13:08
+es nadar verdad nadar también es aplicar la tercer ley de Newton básicamente que estamos
+13:14
+haciendo nosotros estamos desplazando el agua y el agua Nos está aventando de
+13:19
+vuelta verdad si nosotros empujamos el agua el agua Nos empuja de vuelta entonces Bueno est es muy útil la
+13:25
+tercera ley de Newton en este tipo de problemas porque lo vamos a ver para este la fuerza que es perpendicular al
+13:30
+suelo la fuerza que es perpendicular al suelo chavos acuérdense que se llama
+13:36
+este la fuerza normal la fuerza normal acu que siempre es perpendicular a el
+13:42
+suelo siempre perpendicular AC que significa 90 gr el ángulo recto Okay muy
+13:48
+bien Bueno este algo que acuérdense que tienen que acordar mucho es
+13:56
+esto muy bien el weight el peso verdad la fuerza de la gravedad sobre los
+14:01
+objetos acuérdense porque eso va a venir seguro va a ser pregunta de teoría en el examen les van a preguntar no sé si no
+14:08
+sé este tienen ustedes el mismo peso aquí y en Júpiter no porque es diferente
+14:15
+la gravedad en Júpiter que aquí porque el peso es una fuerza no es una fuerza y
+14:22
+lo dice una fuerza Entonces es una fuerza que es debido a la gravedad no
+14:28
+okay muy bien Eso es el peso pero la masa la masa es una propiedad de la
+14:35
+materia no lo que quiere decir que la masa por ejemplo la masa no A diferencia
+14:40
+m que es masa es una propiedad de la materia y es universal propiedad
+14:49
+universal quiere decir que en todo el
+14:56
+universo es la misma y quiere decir que el objeto si tú lo pones aquí en Júpiter
+15:02
+en la luna en el sol no va a tener la misma masa lo que cambia es la fuerza de
+15:09
+atracción verdad con Ah sí que con el planeta muy bien entonces bueno este
+15:15
+acuérdense que digo nada por teoría esto probablemente no vaya a venir Pero igual digo nada más para que lo sepan verdad
+15:21
+este existen dos tipos de fuerza este dos tipos de fuerza básicamente
+15:29
+es este a distancia y de contacto de contacto este es este acuérdense que
+15:36
+este pues como lo dice no tienen que estar en contacto los dos objetos o sea puede ser como empujar
+15:43
+ustedes algo jalar algo cuerdas no este impactos la resistencia del aire Es de
+15:50
+contacto porque ustedes están en contacto con el fluido Verdad que es el aire las de distancia pueden ser como
+15:57
+este pues la electromagnética bueno la eléctrica la magnética y la gravedad no
+16:06
+son fuerzas a distancia o sea nosotros por ejemplo no estamos en contacto con el núcleo de la tierra pero el núcleo de
+16:13
+la tierra es el que nos atrae es lo mismo con los imanes como que les había puesto
+16:19
+[Música]
+16:27
+rápido [Música]
+16:48
+Okay muy
+16:55
+bien en 46 años hemos visto muchas
+17:27
+cosas
+17:33
+Okay no bueno básicamente es una fuerza a distancia chavos o sea el imán los
+17:39
+magnetos no están en contacto verdad con los metales que atraen pero pues ahí vemos Que si generan fuerzas no Okay muy
+17:48
+bien Es como a distancia también verdad este demás bueno y ya esa es como la
+17:55
+parte teórica luego Bueno vamos acuérdense que vamos a ver lo de los
+18:00
+diagramas de cuerpo libre no ya lo habíamos visto pero los diagramas de cuerpo libre chavos acuérdense que
+18:06
+básicamente un mismo nombre lo dice diagrama no diagrama es un dibujo cuerpo
+18:12
+pues quiere decir este esto es importante la parte de cuerpo porque
+18:17
+Cuántos cuerpos tengamos es Cuántos diagramas tenemos que hacer si tenemos 20 cuerpos hay que hacer 20 diagramas no
+18:25
+este en cada diagrama para cada cuerpo en estos diagramas de cuerpo libre hay que dibujar todas las fuerzas que
+18:32
+afectan a ese objeto a ese cuerpo por ejemplo aquí un bloque que nás está ahí
+18:39
+no parado este este bloque tiene lo que es una fuerza normal y tiene lo que es
+18:45
+un peso no la fuerza normal y el peso acuérdense que bueno la fuerza normal es
+18:51
+la tercera ley de newon del peso porque Bueno aquí acuérdense que la gravedad no atrae a todos los objetos verdad hacia
+18:59
+abajo como siempre no aquí el peso chavos básicamente va hacia abajo y el
+19:04
+piso pues obviamente genera una fuerza de reacción que es la fuerza normal quea
+19:09
+lo que les decía verdad que si la fuerza normal no es suficiente Pues empezaríamos a caer r pongo como la de
+19:16
+los juegos del [Música]
+19:21
+calamar no sea si no tenemos si el suelo por ejemplo No aquí no tiene la fuerza
+19:27
+suficiente O sea no tien la los materiales no tienen la resistencia mecánica suficiente para generar esta
+19:33
+fuerza verdad no pueden anularla del peso entonces pues lo que pasaría es que
+19:38
+empezaría a caer empezaría a caer porque no había balance no había equilibrio al no haber equilibrio No pues tiene que
+19:45
+caer este porque le gana la gravedad Okay muy [Música]
+19:52
+bien okay muy [Música] bien
+20:08
+ahí por ejemplo ahí sí está o sea s el el cristal temperado tiene este la
+20:15
+suficiente resistencia mecánica para aguantar su peso no ahí le está generando la fuerza
+20:23
+normal ahí no verdad Ahí no tiene la resistencia suficiente mecánica entonces puede generar la suficientemente fuerza
+20:30
+normal se rompe y pues empieza a caer verdad porque siempre digo la gravedad siempre está ahí no Descansa entonces
+20:36
+ahí siempre está entonces este muy bien entonces Pues básicamente no es lo que
+20:42
+pasa cuando no hay la fuerza normal empezamos a caer muy
+20:48
+bien Bueno este acuérdense nosotros ahí digo
+20:54
+podemos ver no que Este objeto no está volando o sea este objeto no está volando ni está cayendo Qué quiere decir
+21:01
+que estas dos tienen que anularse verdad Porque son las únicas dos fuerzas que hay aquí pues hacemos no el principio
+21:07
+del equilibrio que es que la suma de las fuerzas es igual a cer0 verdad Muy bien
+21:13
+aquí el W Está hacia abajo verdad Entonces yo le pongo el signo negativo
+21:20
+porque apunta hacia abajo la fuerza normal verdad es positiva entonces pues
+21:26
+bueno la resta de esto má el este tiene que ser igual a cero verdad Muy bien
+21:33
+Entonces así queda Bueno este otro ejemplo verdad
+21:39
+este el ejemplo dos no básicamente aquí igual acuérdense nos dan este dibujito y
+21:46
+lo primero que tenemos que hacer es dibujar el diagrama de cuerpo Li vamos a ver cuántas fuerzas lo
+21:51
+afectan lo afectan tres fuerzas chavos la fuerza que aquí lo está jalando de 10
+21:56
+newon la la fuerza normal y el peso muy bien chavos entonces aquí básicamente no
+22:02
+este tenemos tres fuerzas este acuérdense que el bueno tenemos que
+22:08
+hacer en cada uno tenemos que hacer la sumatoria de las fuerzas como son dos dimensiones pues vamos a hacer este
+22:15
+ahora sí que vamos a analizar en x la suma de las fuerzas en x y la suma de
+22:20
+las fuerzas en y muy bien en x tenemos la fuerza normal y el peso no muy bien y
+22:28
+en Y perdón en X en x tenemos esta fuerza y en y tenemos estas no muy bien
+22:35
+entonces como hay una sola en x pues quiere decir digo por lógica quiere decir que no va a haber equilibrio no va
+22:41
+a haber otra fuerza que la anule Entonces como no hay otra fuerza que la anule sí va a haber una aceleración en X
+22:48
+en y no porque este objeto no más se está deslizando y no está volando ni cayéndose Entonces como en y no se está
+22:55
+moviendo su fuerza resultante tiene que ser igual a cer0 No pero en el otro caso
+23:02
+sí va a haber muy bien no están dando la masa también Entonces miren aquí
+23:09
+no vamos a ver que aquí para la en x verdad nos están dando que la fuerza la
+23:15
+suma de las fuerzas solo tenemos una que es positiva porque va hacia la derecha no es de 10 New no muy bien y aquí
+23:24
+este tenemos la segunda ley de Newton acuérdense que esto viene la Newton acu
+23:29
+que era esto no suma de las fuerzas es igual a masa por aceleración no la masa
+23:37
+total del sistema Okay muy bien entonces pues aquí
+23:42
+tenemos una sola fuerza pues nada más es una fuerza que es 10 New la masa del sistema son 10 kg no muy bien Entonces
+23:51
+tenemos 10 New es igual a m que va a ser 10 kg la aceleración no la tenemos es lo
+23:58
+que vamos a calcular Entonces esto chavos miren aquí se sustituye no esto
+24:03
+es esto no muy bien 10 New la fuerza la masa de 10 kg Esto está multiplicando
+24:10
+pasa del otro lado dividiendo verdad 10 n Entre 10 kg nos da 1 m sobre segundo
+24:17
+cuadrado en la aceleración no muy bien Entonces tenemos una aceleración n x
+24:22
+verdad de 1 m sobre segundo cuadrado muy bien y Bueno aquí ya si Queremos saber
+24:30
+por ejemplo la Cuánto vale la fuerza normal No pues calculamos en la fórmula
+24:36
+del peso es masa por gravedad no que básicamente es la segunda ley de Newton de nuevo no porque la masa y la gravedad
+24:43
+que es la aceleración no entonces Pues básicamente esto es la masa no Y esto es
+24:49
+G entonces 10 * 9.81 nos da 98.1 verdad Muy bien aquí nos da -
+24:59
+98.1 está restando no Cómo pasa el otro lado sumando por eso que nos da que la
+25:07
+fuerza normal es 98.1 New
+25:12
+no muy bien okay Así es de sencillo El ejemplo dos El ejemplo tres vamos a
+25:21
+verlo okay Aquí tenemos igual una masa de un objeto verdad este que aquí esta
+25:29
+persona lo está jalando con 100 N en un ángulo de 35 y vemos que se está
+25:36
+moviendo con una aceleración de 1 m sobre segundo al cuadrado no muy bien
+25:42
+aquí chavos igual lo primero que se hace es dibujar el diagrama de cuerpo libre y son estas tres fuerzas tenemos la fuerza
+25:50
+normal el peso verdad y la fuerza de la persona es la que tiene es la de 100 N
+25:56
+con ángulo de 35 muy bien acuérdense el primer paso es dibujar el diagrama de cuerpo libre muy
+26:04
+bien okay Bueno el segundo es poner las ecuaciones de las sumas de fuerzas
+26:10
+tenemos dos dimensiones Entonces vamos a tener fuerza en x y fuerza en y Okay
+26:17
+aquí en y no como el objeto no se no está volando ni Está bueno ni cayéndose
+26:24
+la suma de las fuerzas tiene que ser igual a cer0 porque no se está moviendo como no se está moviendo tiene que ser
+26:29
+igual a cero chavos entonces este bueno como la suma de las fuerzas
+26:35
+tien que ser igual a cer0 no este básicamente eso va a ser en y
+26:41
+porque sabemos que no está volando ni está cayéndose entonces Pues bueno aquí
+26:48
+vamos a ver cuántas fuerzas tenemos en Y tenemos el peso tenemos la fuerza normal
+26:54
+pero Miren esta fuerza de la persona no va a tener un componente en y no este
+27:01
+acuérdense que esta fuerza como tiene un ángulo la podemos dividir en x y en y
+27:06
+sus componentes no por eso que aquí dice la fuerza de la persona en y muy bien
+27:12
+entonces bueno siguiendo no la fuerza normal menos la W menos la fuerza de la persona en y no acuérdense que podíamos
+27:20
+sacarlo con el seno verdad el seno de 35 gr que es el ángulo verdad multiplicado
+27:26
+por la magnitud qué es esto chavos 100 New es la magnitud de la fuerza por el
+27:32
+seno de 35 esto nos va a dar la fuerza de la persona en y muy bien Okay este el
+27:38
+W pues es la masa del objeto por la g Pero acuérdense no que aquí chavos muy
+27:45
+importante todavía no nos da la masa del objeto ent Bueno todavía no podemos calcular eso Entonces nos vamos a este a
+27:52
+la otra ecuación no la de X en x vamos a tener una sola la fuerza en x que es la
+27:59
+fuerza de la persona en x chavos la proyección de esta fuerza no la
+28:05
+proyección de esta fuerza chavos es la que es en x verdad y la este esta fuerza
+28:12
+de la persona en x es agarrar el coseno de 35 y multiplicarlo por 100 no Okay
+28:19
+muy bien Qué es esto chavos Aquí está Okay 100 N por el coseno de 35
+28:28
+verdad esto es igual a la fuerza del otro lado pues teníamos que
+28:34
+masa por aceleración la aceleración nos habían dicho que era esta la de 1 m por segundo cuadrado entonces hay que
+28:41
+despejar el único valor que no sabemos que es la masa del objeto que era lo que est una de las dos cosas que estaban
+28:46
+pidiendo entonces aquí chavos este 1 m sobre segundo al cuadrado está multiplicando cómoo lo pasamos del otro
+28:53
+lado dividiendo entonces es por eso que aquí la masa del objeto nos da
+29:01
+81.92 kg una vez que ya tenemos la masa del objeto no agarramos y lo metemos en
+29:08
+la fórmula del peso y eso nos va a dar el peso chavos el -
+29:16
+9.81 por el 81.92 nos va a dar esto -
+29:24
+83.5 no muy bien más no
+29:30
+57.37 que Este 57.3 venía de lo que ya habíamos calculado de la fuerza de la persona en
+29:37
+y verdad esto es esto entonces bueno básicamente al -803
+29:45
+le suman 57.3 verdad Y eso les va a dar -
+29:53
+746 231 no con laer Fer normal esto igual a cer y esto está restando chavos
+30:00
+para despejar la fuerza normal hay que pasarla del otro lado como sumando Entonces nos queda que la fuerza normal
+30:07
+es igual a este en positivo verdad Muy bien Y así obtuvimos la masa del objeto
+30:13
+y la fuerza normal en este problema okay qué más bien Vamos a
+30:20
+repasar no el que habíamos visto de este de equilibrio estático muy bien
+30:27
+acuérdense que aquí es como si tuviéramos este dos cuerdas no y una piñata no este aquí lo que nos interesa
+30:35
+saber es de qué magnitud o sea deben de ser las fuerzas para soportar la masa de
+30:43
+este objeto si tienen ese ángulo esto es muy útil les dije ya este en ingeniería civil no este para los puentes colgantes
+30:51
+este los elevadores todo eso verdad este nos interesa saber la las resistencias
+30:58
+porque bueno por ejemplo en el problema que les puse de puntos extras no y todo eso en bueno en uno de esos no van a
+31:04
+tener que calcular el grosor del cabio y todo eso es útil porque en la vida real es lo que se hace no este tienen que
+31:11
+buscar este la resistencia de los materiales hay tablas o hay Software que les dice que este material que estás
+31:18
+usando que comprastes tiene tanta resistencia Y ustedes tienen que calcular la fuerza tienen con la fuerza
+31:23
+luego ven La el esfuerzo mecánico y tienen que ver por ejemplo de qué grosor tiene que ser el cabio no para comprarlo
+31:30
+y todo eso en el Golden Gate y todo eso también todo eso no muy bien pero bueno
+31:36
+los principios básicos son de aquí entonces pues bueno bien aquí no este
+31:41
+tenemos t1 T2 y t3 porque son tres cuerdas no muy bien la tensión uno la
+31:47
+tensión dos y la tensión tres Okay entonces básicamente aquí tenemos esto
+31:52
+es el techo Este es el techo muy bien y Estas
+31:59
+son las cuerdas muy bien aquí no las cuerdas solo pueden jalar digo nunca han visto que una cuerda empuje entonces las
+32:05
+cuerdas jalan no entonces las fuerzas van en esta
+32:11
+dirección muy bien okay esta TT sabemos que la fuerza que lo está jalando es el
+32:17
+peso acuérdense el peso es la fuerza de la gravedad de los objetos entonces aquí chavos el peso no es básicamente ahora
+32:25
+sí que este la masa por la gravedad o va a ser 10 kg por el 9.81 y va a ser
+32:31
+negativo porque apunta hacia abajo o eso lo se lo podían evitar Bueno lo pueden hacer de una pero miren aquí algo muy
+32:38
+importante es que no nos están dando los ángulos bonitos no nos están dando los ángulos que estarían fáciles la vida nos
+32:44
+están dando estos no pero nosotros podemos calcularlos de manera muy sencilla recordando un poco lo de
+32:50
+geometría mate 4 no o también en Secundaria que les enseñaron no esto de ángulos internos y externos verdad
+32:57
+verdad este aquí vemos la figura No ya se las dibujé acuérdense estas son dos
+33:02
+líneas paralelas aquí podemos dibujar esta línea paralela imaginaria no para obtener los ángulos que nos interesan
+33:09
+porque a nosotros nos interesa el ángulo que se mide desde el cero verdad 0 gr se mide desde el eje x positivo podemos
+33:16
+hacer esto para calcular estos ángulos si nos damos cuenta
+33:21
+no al extender esta línea no tenemos lo mismo que al lado entonces V que bueno
+33:28
+acuérdense que El Alfa y el beta la suma de estos dos tiene que dar 180 entonces
+33:34
+la suma de 130 más el otro ángulo tiene que darnos 180 cuánto sería 180 gr - 130
+33:42
+gr nos da 50 gr Okay esto mide 50 esto es igual a esto entonces este mide 50
+33:50
+muy bien ya tenemos el primero que básicamente estaba aquí muy bien ahora
+33:57
+el otro chavos lo
+34:10
+mismo Okay muy bien este Okay nos quedamos en este este otro
+34:18
+ángulo verdad también es el resultado de 180 gr no men 40 gr verdad 80 men 40 nos
+34:28
+da 140 gr chavos que básicamente es este verdad Muy bien y el último verdad pues
+34:35
+medimos desde el cero verdad Cuánto es pues es 270 verdad cu
+34:41
+que aquí es 90 cu que aquí es 180 y aquí es 270 Okay muy bien entonces es 270
+34:47
+Okay bien aquí acuérdense primer primero
+34:52
+dibujar el diagrama cuerpo l segundo paso acuérdense que era poner las ecuaciones muy bien las ecuaciones
+34:57
+chavos pues tenemos dos dimensiones Entonces tenemos que x y y acuérdense
+35:03
+que aquí nos está diciendo que es equilibrio estático entes como es equilibrio acuérdense que la suma de las
+35:08
+fuerzas es igual a cero porque pues dig se lo pueden imaginar No es que esté colgando esa pelota verdad de esas dos
+35:16
+cuerdas y no se está moviendo Entonces como está en equilibrio pues la suma de las fuerzas tiene que ser igual a cero
+35:22
+estas dos ecuaciones muy bien cada fuerza tiene componente en x y en y por
+35:28
+eso que tenemos tres fuerzas la tensión un en x la tensión un en y tensión 2 en x tensión 2 en y tensión t en x tensión
+35:36
+t en y muy sencillo Okay entonces Pues bueno chos aquí no pues vamos a ver qué
+35:43
+significa cada uno acuérdense que el componente x de un vector lo podíamos sacar con el coseno del ángulo coseno de
+35:50
+su ángulo por su magnitud que es est la magnitud por el coseno de su ángulo la
+35:56
+magnitud por el coseno de su ángulo la magnitud por el coseno de su ángulo esto
+36:02
+tiene que ser igual a cer0 porque acuérdense que está en equilibrio Okay muy bien aquí en y no básicamente es
+36:11
+casi lo mismo este no esta magnitud por el seno de este ángulo este Cos esta
+36:17
+magnitud por el seno de este ángulo esta magnitud por el seno de su ángulo de
+36:23
+misma manera como no se está moviendo en y está en equilibrio es igual cer Okay muy bien chavos
+36:29
+entonces bueno los ángulos ya los teníamos habíamos dicho que el ángulo t1 medía cuánto
+36:35
+140 140 no esto lo van poniendo en sus calculadoras mir qui se los
+36:42
+pongo acuérdense 140 verdad el ángulo T2 es 50 verdad está no y el ángulo el
+36:51
+tercer ángulo verdad era el de 270 verdad muy bien si quieren verlo pan en
+36:59
+su calculadora si [Música] este nada más es que lo vayan poniendo
+37:06
+en sus calculadoras y lo van a ir escribiendo al final lo van a tener que copiar les va a quedar como lo de abajo
+37:12
+pero vamos a hacerlo Para que vean que no les
+37:19
+mentí vamos a ponerlo [Música]
+37:25
+okay 940 pongo
+37:30
+este aquí 50 Qué más Este coseno de
+37:40
+270 acuérdense que tiene que estar en grados van a cometer error de poner radianes
+37:45
+este seno de 140 muy bien el seno de este 50 no bien
+37:58
+el seno de este 270 muy
+38:05
+bien Déjenme se los pongo en la
+38:15
+pantalla bueno ent que meti en su calculadora no
+38:20
+este coseno de 140 coseno de 50 coseno de 270 seno de 200 perdón de 140 el seno
+38:29
+de 50 el seno de 270 no muy bien básicamente es lo que ustedes tienen que
+38:35
+hacer en su calculadora van a copiar estos no estos van a ser los coeficientes verdad de este de su
+38:42
+ecuaciones verdad tienen dos ecuaciones en x y en y la que deberían de estar bueno deberían de Haber puesto no este
+38:49
+muy bien Qué más Qué más [Música]
+38:55
+chavos
+39:01
+Okay bien y nos queda No ya una vez que los copian y los ponen ahí no sus
+39:07
+coeficientes verdad nos quedan estas dos que sean las dos ecuaciones verdad Y si
+39:13
+se dan cuenta nos quedan dos ecuaciones dos incógnitas no bueno acuérdense que
+39:19
+el t3 lo habíamos calculado verdad que era el peso verdad el t3 Ya lo habíamos
+39:25
+hecho que era el la masa por la gravedad no 98.1 en este caso porque eran 10 kg de
+39:32
+la masa y pues la gravedad Es 9.81 okay entonces bueno es negativa
+39:39
+porque pues el peso como siempre punta hacia abajo no muy bien entonces este
+39:45
+tenemos la ecuación uno que es la de suma de las fuerzas en x que es esta y
+39:50
+la ecuación dos que es la suma de las fuerzas en y muy sencillo entonces Bueno aquí lo que se hace no esto de pasar
+39:57
+restando no Bueno antes de eso vamos por ejemplo aquí yo elegí no este que quiero
+40:04
+la t1 verdad quiero resolver este Quiero primero para t1 aquí hay cuatro métodos
+40:10
+acuérdense Bueno hay más pero los que les han enseñado no en Secundaria y en mate dos no eran estos cuatro métodos
+40:17
+que era sustitución eliminación igualación y método gráfico entonces pues bueno de estos cuatro por ejemplo
+40:24
+aquí elegimos sustitución no entonces sustitución eso se llama así porque
+40:29
+vamos a sustituir básicamente bien este está sumando Cómo pasa del otro lado
+40:35
+restando no Okay este a la t1 está multiplicando Cómo pasa del otro lado
+40:42
+dividiendo Entonces miren - 6642 ent
+40:48
+-0.766 nos va a dar que t1 es ig a 0.83 91 de T2 no muy bien entonces bueno
+40:58
+esto verdad pues eso se llama sustitución chavos sabemos que t1 es equivalente a esto lo metemos en la
+41:05
+segunda ecuación en la otra ecuación este t1 verdad lo cambiamos por lo que
+41:11
+vale aquí lo que obtuvimos verdad y es lo que pasa aquí pun 642 pun 642
+41:17
+multiplicando a t1 que t1 dijimos que vale esto que es esto no muy bien okay
+41:23
+esto por esto si lo mete en sus calculadoras les va a dar esto verdad
+41:29
+Muy bien esto ya se dan cuenta toda la ecuación nos quedó solo en términos de T2 entonces aquí solo hay que sumar
+41:37
+verdad estos dos que tienen la misma variable no lo sumamos y nos da esto muy
+41:43
+bien aquí chavos está multiplicando lo pasamos del otro lado dividiendo Y bueno
+41:48
+ya nos da que T2 es igual a esto muy bien o sea nada más es 98.1 entre esto
+41:55
+chavos muy bien ahora de nuevo pueso se llama sustitución ya tenemos un valor lo
+42:00
+podemos sustituir por ejemplo aquí este T2 verdad por esto Entonces nos va a dar
+42:05
+que 8391 por esto verdad Y si lo calculan nos da que t1 es igual a esto
+42:12
+entonces básicamente eso es t1 Y eso es T2 no muy
+42:18
+bien esto era el problema de equilibrio verdad y bueno ayer lo que estábamos
+42:23
+empezando a ver verdad era el plano inclinado el plano inclinado chavos acuérdense
+42:29
+este aquí por ejemplo este están Así que las fuerzas có hace
+42:36
+aquí no están diciendo que este está en este caso está la velocidad es igual a cero o sea va a haber un equilibrio
+42:43
+verdad estático hay una cuerda que está previniendo que este objeto se mueva
+42:48
+verdad Muy bien entonces pues como siempre hay que dibujar el diagrama de cuerpo libre este va a tener el peso
+42:55
+verdad la normal que siempre es perpendicular
+43:00
+verdad y vamos a tener esta fuerza de tensión de la cuerda tenemos tres
+43:06
+fuerzas no aquí lo que vamos a hacer es rotar nuestro eje nuestro eje bueno no
+43:13
+cartesiano siempre lo ponemos así pues ahora lo vamos a rotar verdad lo rotamos y nos queda algo así no aquí les dije
+43:21
+que había de dos sopas No aquí este podemos usar el ángulo de 50 nada más
+43:28
+que ese ángulo de 50 no es el que estamos acostumbrados a usar o sea porque siempre nos dan el ángulo este
+43:35
+chavos Mira si rotamos el eje siempre nos dan el ángulo que está pegado al eje x no al eje y sin embargo este 50 es
+43:43
+este el que está pegado al eje Y entonces como es el que está pegado al eje y y no al eje x se invierten las
+43:50
+cosas Qué quiere decir que para x si Usan el de 50 para X en vez de usar
+43:56
+coseno tendrían que usar seno no Y para Y en vez de usar Así que
+44:04
+el seno usan coseno esa es una de las formas la otra
+44:10
+es encontrar el ángulo complementario o sea el que les de 90 verdad básicamente
+44:16
+lo otro que es lo que yo estoy haciendo aquí que es a 90 le quitas el ángulo que tengas aquí en el plano inquinado no 90
+44:24
+men 50 nos da 40 esto es porque a ver chavos es la lógica esto es 90 gr es un triángulo rectángulo
+44:32
+verdad esto es 50 90 no bueno acuérdense que un triángulo debes siempre dar 180
+44:39
+gr si le quitas 90 gr no quiere decir que los ángulos restantes o sea entre
+44:45
+este y este tienen que dar 90 si a 90 gr tú le quitas 50 gr te va a dar 40 gr
+44:52
+Este es el ángulo de 40 que es el ángulo que estamos buscando no muy bien
+44:57
+entonces Bueno Este es el ángulo que nos interesa verdad el de 40 entonces Pues
+45:03
+básicamente es el que vamos podemos usar si usamos el de 40 y s de nuevo podemos
+45:09
+usar las cosas normales para x coseno y para y seno entonces Pues bueno aquí
+45:16
+vemos en el diagrama que en el eje y está la fuerza normal y el peso en y
+45:22
+entonces pues vamos a sacar el peso en y verdad este que básicamente va a ser
+45:28
+primero sacar el peso la fórmula del peso es masa por gravedad 20 por 9.81 no
+45:34
+nos da 196.2 muy bien el peso en Bueno este peso verdad el W lo vamos a multiplicar
+45:42
+por ejemplo por el coseno de 40 para sacar el X verdad y por el seno de 40
+45:47
+para sacar el y muy bien estos dos sus magnitudes las ponemos aquí verdad en
+45:52
+las fórmulas verdad y Bueno aquí no por ejemplo para la
+46:00
+tensión tenemos que tensión os wx verdad es este esta wx está restando pasa
+46:08
+sumando y nos queda que la tensión es 150 pun verdad y bueno la fuerza normal
+46:14
+no nos la pidieron pero imagínense si nos lo hubieran pedido la fuerza normal pues lo mismo no este verdad el este
+46:24
+estaba Bueno aquí está estando pasa del otro lado sumando Entonces nos va a quedar esta cantidad en positivo nos va
+46:30
+a quedar que la fuerza normal es igual a 126.15 newon muy bien chavos nada más es
+46:39
+despejar no es un poquito de álgebra este qué
+46:45
+más okay Y bueno vamos a ver qué más bueno rápido No más para ya
+46:55
+terminar la semana también eso todos esos problemas que vimos eran estáticos la aceleración era igual a cero pero no
+47:02
+siempre en la vida real o sea hay muchos casos en el que al contrario nos interesa que la aceleración sea
+47:07
+diferente a cero entonces Pues básicamente no por ejemplo este del elevador aquí imagínense cualquier
+47:14
+elevador ahí en el campus no este o en cualquier edificio que ustedes quieran
+47:19
+este cada persona no pues cada persona cada objeto genera bueno siendo atraído
+47:26
+por la gravedad no O sea Cada persona tiene un peso muy bien aquí estamos
+47:32
+diciendo que cada persona pesa bueno tiene una masa de 70 kg entonces y la
+47:37
+masa del elevador es de 1.5 toneladas no Okay acuérdense que una tonelada son
+47:43
+1000 kg Entonces serían 15 kg son tres personas entonces van a tener que multiplicar 3 por 70 dig para tener la
+47:50
+masa total la masa Total no bueno acuérdense que esto va a venir de la segunda la ley de Newton como aquí es
+47:57
+Dinámico chavos es Dinámico porque nos están diciendo que el elevador tiene una aceleración de 2 m por segundo al
+48:04
+cuadrado no como es una aceleración de 2 m por segundo al cuadrado no entonces
+48:09
+Pues básicamente tiene que haber una fuerza que la va a generar el motor no
+48:15
+la fuerza del motor la cual va a ser hacia arriba Cuántas fuerzas tenemos
+48:20
+hacia abajo tenemos cuatro el peso de cada persona
+48:26
+y el peso del elevador esta fuerza tiene la del motor tiene que ser mayor a estas porque o sea
+48:34
+estas son negativas tienen que ser mayor a estas Y todavía si generar una fuerza Bueno todavía si generar una aceleración
+48:40
+de 2 Met por segundo al cuadrado dijimos que la fórmula verdad de dinámica era la suma de las fuerzas es igual a masa por
+48:47
+aceleración la segunda ley de Newton muy sencilla entonces bueno la suma aquí es
+48:53
+un problema de una dimensión por qué porque solo se está moviendo en el eje Y entonces bueno la suma de las fuerzas en
+49:00
+y que va a ser el peso de las tres personas y el elevador no que es esto no suma de las tres personas y el elevador
+49:07
+apuntan hacia abajo por eso es con signo negativo más la fuerza del motor no
+49:14
+tiene que ser igual a masa por aceleración la masa total del sistema
+49:19
+por la aceleración no la masa Total no básicamente pues va a ser sumar
+49:27
+70 + 70 + 70 + 100 no Okay muy bien Eso
+49:35
+es la masa total y bueno la suma de esto verdad nos va a dar esto la fuerza del
+49:43
+motor es lo que nos interesa sacar chavos Entonces vamos a despejarla no también ya nos dieron la aceleración que
+49:49
+es dos entonces a este dos le vamos a multiplicar esto verdad Y esto está
+49:54
+restando lo pasamos sumando y esto tiene que ser igual a la fuerza del motor no
+50:01
+muy bien chavos entonces dig a ver si a ver en un minuto lo puedo hacer se va a
+50:07
+quedar grabado y lo van a poder ver más despacio si quieren a poner
+50:17
+okay la masa del total verdad que era este ya lo había hecho era 70 por 3 210
+50:26
+15 nos da 1710 kg muy bien el peso de las personas no en la
+50:35
+calculadora rápido ya se queden con este problema poner todo el fin de semana el detenerse
+50:42
+viéndolo este muy bien
+50:48
+okay okay habíamos dicho no que el peso de cada bueno cada persona ti una más 70
+50:55
+que multiplicarla por 9.81 no esto es por tres porque son tres personas más la
+51:01
+masa de las del elevador que dijimos que era 10000 por 9.81 que es la gravedad no
+51:08
+muy bien entonces Bueno Este es el peso total del sistema no estaba restando
+51:14
+pasa sumando a este le vamos a sumar la masa de el cómo se llama del total no la
+51:22
+masa total pues solo es0 * 3 + 15 No
+51:29
+Okay y la aceleración la aceleración habíamos dicho en el problema que era dos no básicamente Esta es la fuerza del
+51:37
+motor Esta es la fuerza que el motor tiene que tener para que pueda hacer que
+51:44
+el elevador y las tres personas vayan a esa aceleración
+51:52
+205.1 New chavos Okay esto es la resultado no muy bien
+52:01
+así ustedes por ejemplo ya podrían calcular este o sea en la vida real y
+52:06
+todo eso o sea ahí Bueno les dan es un poco más complejo obviamente pero ya
+52:11
+saben Al menos que la fuerza que tiene que tener el motor no es
+52:20
+es o sea es esa verdad es positiva porque va hacia arriba Esa es la fuerza que que tiene que tener el motor para
+52:27
+poder ejercer eso chavos Pues bueno eso sería todo por hoy chavos eso
+52:33
+básicamente fue todo lo que vimos en la semana Lo bueno es que ya lo van a tener en video y les paso las notas para que
+52:39
+ahí lo puedan estar estudiando el examen no sé creo que va a ser como por la semana del una o dos semanas siempre son
+52:48
+los miércoles no creo que sea el 11 Entonces lo más prob es que sea el 18 creo que va a ser el 18 El parcial un
+52:54
+Mon de rato y con esto ya más de la mitad de los temas entonces pues digo n
+53:00
+más es que se pongan a practicar chavos y más que practicar entiendan el concepto y repasen mucho álgebra digo
+53:06
+toda mata es álgebra toda mat es este toda física Es mat entonces más que
+53:11
+ponerse a hacer 20 problemas de física no va a ser muy productivo como si aprenden a despejar muy bien aprender a
+53:18
+despejar muy bien aprender a ver las cosas de matemáticas es todavía más importante y les va a evitar más tiempo
+53:23
+Y seguramente les va a hacer que tengan jues calificaciones que ponerse a hacer 100 problemas de física Pero bueno
+53:29
+chavos eso sería todo por hoy y nos vemos Cuídense by prof gracias

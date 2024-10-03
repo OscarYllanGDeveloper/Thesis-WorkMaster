@@ -1,0 +1,968 @@
+0:07
+Hola No sé si me puedo dar acceso al al Drive Mandela acabo de mandar la
+0:12
+solicitud otra vez Okay déjame hacerlo segundo Muchas gracias
+0:28
+muy bien ya okay Bueno chavos métanse al Drive que
+0:35
+les mandé o miren Aquí les voy a enseñar ahorita sí ya vamos a ver cómo ustedes
+0:44
+pueden usar el Google cola que es donde vamos a estar programando luego en las fotos que les
+0:50
+voy a enseñar las fotos en tornos de programación pero el que vamos a estar usando el mínimo es este ustedes en cualquier
+0:58
+carpeta de Drive que tengan en cualquier carpeta que tengan ustedes
+1:04
+solo le tienen que dar clic derecho y les va a aparecer más
+1:13
+no Okay mamá vayanlo haciendo por favor ya ya tienen de que su Life abierto
+1:21
+profe una disculpa el Drive nos lo mandó por correo este sí te había llegado como
+1:28
+un correo sino igual en el grupo de WhatsApp en la descripción está ahí en la Liga del Drive Buen día okay Muchas
+1:35
+gracias igual de todos modos o sea este
+1:41
+ejercicio ahorita lo que vas a hacer nada más necesitan meterse a su carpeta No necesariamente al mía este en
+1:47
+cualquier carpeta de Drive este es ponerle aquí en donde dice más a ver
+1:55
+de nuevo clic derecho nos vamos hasta abajo en donde dice más y miren aquí yo ya lo tengo instalado
+2:02
+pero ustedes si no lo tienen instalado si nunca lo han usado y pone conectar
+2:08
+más aplicaciones y aquí en el Buscador de Google
+2:15
+workspace marketplace le ponen Hola miren aquí los completa y es
+2:23
+colaboratorio le dan clic le dan click a este
+2:30
+el que es una c y una o creo que es como naranja amarillo algo así aquí
+2:36
+obviamente en vez de decir desinstalar debe de decir instalar
+2:44
+todos vamos igual
+2:52
+Sí es bastante sencillo no se debe de tardar ni un minuto la verdad es que no
+2:58
+pesa nada y se descarga en su navegador no se descarga en nada más entonces La
+3:04
+verdad es que es muy sencillo no necesitas ni permiso ni nada en general
+3:09
+entonces este muy bien
+3:14
+pues bueno ya le pusieron si ya le pusieron alguien que no
+3:23
+si no bueno vamos a seguir bueno para crear nosotros ahora sí ya que lo
+3:31
+tenemos instalado le ponemos igual clic derecho
+3:36
+dentro del Drive en donde dice más y ahora sí nos debe de aparecer este que
+3:42
+dice Google colaboratory de nuevo clic derecho más en Google
+3:52
+colaboratory no le damos clic Gracias
+3:59
+Eso háganlo si pueden en su carpetas cada quien porque este si no se va a
+4:05
+hacer un show entonces este o sea en cualquier carpeta de ustedes que tengan de Drive mismo proceso
+4:12
+acuérdense que clic derecho más y en Google colaboratorio y les debe de
+4:19
+aparecer esto Así es el Google colaboratorio que les aparece por default
+4:25
+muy bien aquí hay dos tipos de celdas
+4:30
+de código y de texto miren con estas flechitas esta de texto
+4:36
+la podemos hacer para arriba lo podemos hacer para abajo Okay bien vamos a poner este de texto
+4:45
+aquí por ejemplo pueden poner títulos mis hermanos a ponerle mi primer python
+4:58
+no si me salgo de esta me aparecen así un
+5:05
+título lo puedo poner en negritas y quiero aquí está ven volt negritas nuevas salida así
+5:12
+Eso es para darle estilo formato etcétera Aquí también si se dan cuentas ahorita no porque no tengo pero pueden
+5:18
+poner imágenes pueden insertar links pueden poner este formato de código
+5:24
+etcétera muy bien okay Y estas celdas son las de código
+5:31
+tienen como un botón de Play de Reproducir porque como les dije ayer no
+5:37
+la ventaja que tiene python sobre otros lenguajes Es que este es este
+5:45
+interpretado y no compilado muy bien
+5:52
+este
+5:58
+es interpretado y no compilado Qué quiere decir que nomás con que nosotros
+6:03
+le podemos pedir aquí por ejemplo le podemos cambiar el nombre y le podemos poner mi primer
+6:11
+muy bien Okay este tipo de extensión hay dos
+6:16
+tipos de extensiones para python está el Júpiter Notebook es esta notebook
+6:25
+cuaderno de python inteligente y está el punto pae el punto país es más ligero y
+6:31
+se usa más pero bueno este Está bueno para aprender a programar lo vamos a ver que en visual Studio code también lo
+6:36
+podemos hacer en punto papay Lo bueno es que esto al final si lo queremos descargar bien en archivo
+6:42
+Descargar están las dos opciones no como Júpiter Notebook o como documento punto
+6:51
+igual este Okay miren vamos a empezar vamos a empezar aquí
+6:59
+Bueno Este por ejemplo es este código QR al final vamos a ver este cómo se puede
+7:07
+hacer no este código QR yo lo hice aquí en python con los de
+7:12
+hecho es bastante sencillo van a ser sitio web no está muy habilitado
+7:19
+Okay pero bueno python básico vamos a empezar con lo más
+7:24
+sencillo que es poner comentarios en python tú puedes poner comentarios de
+7:29
+dos tipos esto es comentarios de una línea te lo voy a poner en español comentario
+7:37
+de una línea no y este es
+7:45
+un comentario de múltiples líneas
+7:54
+Cómo se ponen el comentario simple o el de una línea es con la tecla gato o
+8:00
+hashtag como ustedes la conozcan este ponen ustedes el hashtag o el gato y todo a partir de esta tecla es un
+8:07
+comentario Qué es un comentario en programación es algo que sirve para nosotros pero para la computadora no lo
+8:13
+lee lo ignora este esto sirve para cuando estás compartiendo tu código para ti mismo en
+8:19
+el futuro que digas esta función funciona para esto O puedes poner tu nombre en el código mucha gente desde
+8:25
+que el autor de este código es Oscar por ejemplo etcétera este
+8:32
+muy bien el autor de este código es Oscar etcétera así se pone con
+8:37
+comentarios este de una línea y el comentario de múltiples líneas es poner tres comillas dobles al principio y tres
+8:44
+comillas dobles Al final todo lo que esté en medio es un comentario y no lo lee
+8:50
+muy bien miren aquí están las palabras reservadas
+8:57
+todos los lenguajes de programación tienen las conocidas palabras
+9:03
+reservarnos y sean tendentes Pero bueno Estas son las palabras
+9:11
+reservadas no tiene muchas no sé el número Exacto pero no debe tener más de 40 el punto es
+9:20
+que estas palabras reservadas son muy importantes porque con estas palabras reservadas Es con las que pasa toda la
+9:27
+magia de python aquí literalmente con la combinación de todas
+9:33
+estas palabras se hacen todo lo que es python o sea se puede hacer desde
+9:39
+Inteligencia artificial controlar máquinas controlar robots robóticas autos autónomos este páginas web lo que
+9:47
+puedan hacer con python este análisis de imágenes médicas este con finanzas este
+9:54
+leyes todo videojuegos o sea literalmente todo todo viene de esas que
+9:59
+son como cuarenta palabras reservadas la combinación de estas con la lógica obviamente
+10:04
+generan todo en python este les digo combinadas con otros
+10:09
+otras cosas pueden hacer hasta robots autos autónomos este aplicaciones web lo que ustedes imaginen
+10:18
+con python se puede hacer con estas palabras miren
+10:24
+cada una de estas palabras estas son los que se conocen como valores
+10:33
+boleanos no que viene del álgebra de baúl no este este matemático no
+10:39
+básicamente es el valor falso y verdadero digo están en inglés porque
+10:45
+como les dije ayer y pueden si apenas en inglés porque pues digo lenguaje de
+10:50
+programación en python como todos los demás temas más ya ves que están en inglés entonces
+10:55
+pues significa falso y tú y rica verdadero verdad Okay Estos son
+11:03
+Elis y él son los condicionales verdad
+11:08
+los condicionales o sea de condición
+11:14
+estas son operadores lógicos se le llaman
+11:21
+operadores lógicos luego lo vamos a ver más a detalle no se preocupen Este es el
+11:27
+ciclo Este es un ciclo While
+11:33
+el Ford el link bueno el Ford es un ciclo por vamos a ver la diferencia
+11:40
+entre estos dos ciclos este son para las funciones
+11:47
+vamos a ver Por qué existen funciones en python y en todos los lenguajes de programación estas son qué haces
+11:55
+Cómo vas a ver qué es esto eso tiene que ver con algo que está p o o programación
+12:03
+orientada a objetos eso es muy importante luego vas a ver
+12:10
+qué este También sirve para importar librerías
+12:18
+Landa es una tipo de función de una línea no vamos a ver qué significa esto
+12:24
+a lo mejor python intermedio eso La verdad es no es necesario estas landas pero pues bueno hay gente que les gusta
+12:29
+ponerlas para hacer código más Compacto Okay este es como también comparador
+12:40
+este el paz y continuo es para afectar ciclos luego vamos a ver
+12:48
+cada uno de estos aventarios No se preocupe no también el with es parte de
+12:54
+lo mismo se lo vamos a ver después y el y Finally son para
+12:59
+excepciones acá vamos a ver qué son estas excepciones Por qué Porque Bueno
+13:04
+vamos a ver qué en programación los compiladores o interpretadores son muy
+13:10
+especiales son muy picky como diría yo si está algo equivocado deja de correr y no sigue y nosotros no queremos que pase
+13:17
+eso cuando tenemos programas muy grandes imagínate que de repente deja de funcionar Facebook o deje de funcionar
+13:22
+peor Aún si es un auto autónomo que de repente se ponga la pantalla azul y pues
+13:28
+deje de funcionar digo lo que menos queremos es entonces por eso se usan estas de final y eso lo vamos a ver más
+13:34
+adelante a lo mejor en python intermedio y bueno vamos a empezar con lo básico
+13:40
+básico básico [Música]
+13:49
+muy bien Vamos a empezar con lo básico imprimir Qué es imprimir en programación
+13:55
+en programación tú imprimes cuando tú muestras algo en pantalla porque si no
+14:04
+Okay si no python no entiende que lo quiere ver en la pantalla python solo
+14:11
+entiende o sea python lo lee lo corre pero no te lo muestra en pantalla
+14:17
+este no te lo muestra en pantalla A menos que este tú se lo digas ahora sí
+14:23
+que específicamente okay A menos que se lo expliquen este
+14:30
+específicamente eso es muy importante este
+14:41
+podemos imprimir lo que son textos números
+14:47
+enteros decimales tipos etcétera Cómo corremos una línea
+14:54
+de python Bueno aquí en Júpiter Notebook ese es un Júpiter Notebook en línea que
+15:00
+es el Google colap en Google colap se pone con el
+15:05
+dependiendo de nuestra conexión porque como les dije Google colap se corre este
+15:11
+este
+15:17
+se corre ahora sí que en las computadoras en los servidores así se les llama de Google verdad Entonces se
+15:26
+corren las en los servidores de Google aquí por ejemplo pasamos esto no Hola el
+15:32
+profesor bootcamps se va a imprimir lo que esté dentro del paréntesis para nosotros imprimir texto necesitamos
+15:39
+poner comillas dobles o bueno también en python se puede poner comillas sencillas y todo lo que está aquí dentro es el
+15:47
+texto se corre no por eso Hola el profesor Busca por ejemplo aquí Este es
+15:52
+de tipo entero también podemos correr números enteros podemos correr decimales
+15:59
+podemos correr cosas más avanzadas como este este esta función print
+16:05
+es una función vamos a ver en python que para nosotros correr una función es
+16:11
+básicamente poner el nombre de la función
+16:17
+paréntesis verdad el nombre de la función y paréntesis lo que esté adentro
+16:24
+son los argumentos puede tener uno puede tener ninguno puede tener muchos etcétera vamos a ver eso más adelante
+16:31
+cuando veamos funciones pero solo decirles que la función o sea print es una función
+16:36
+predeterminada en python alguien ya la programó y lo que hace esta función de print es mostrarlo en pantalla Qué es lo
+16:44
+que está mostrando Aquí no aquí muestra alguno voy a hacer uno punto cinco y
+16:49
+aquí muestra el type eso otra función la función type
+16:55
+la función type nos muestra pues digo en inglés significa el tipo de dato vamos a
+17:03
+ver qué significa eso en programación es muy importante los tipos de datos acuérdense lo de las estructuras de
+17:08
+datos que les dije ayer que el creador de Linux dijo que lo un buen programador
+17:14
+no se sienta tanto en el lenguaje sino en los tipos y estructuras de datos con sus algoritmos no Por qué Porque la
+17:21
+ventaja es que bueno en muchos lenguajes de programación tienen este los mismos
+17:27
+tipos de datos O al menos muy parecidos O sea ya le tienen que aprender pocos y cambian de lenguaje de programación el
+17:33
+punto es que todos todos funcionan con los tipos de datos vamos a ver que todos
+17:38
+estas cosas son objetos luego por eso es muy importante cuando lleguemos a
+17:44
+programación orientada objetos O sea yo creo que en la siguiente semana este o a lo mejor en la siguiente semana más
+17:49
+probable este es muy importante que aprendan esto porque esta es la base de toda la programación los objetos Porque
+17:56
+todos estos son objetos ahorita luego vamos a ver qué significa pero bueno entonces cómo imprimimos acuérdense
+18:04
+vamos a ponerlo nosotros ponemos la función escribimos
+18:09
+paréntesis y dentro del paréntesis si es un número solo ponemos el número
+18:19
+y si es letras y queremos imprimir texto
+18:24
+[Música] algo así lo ponemos así y lo corremos
+18:31
+para que nos lo muestre en pantalla sino Mira si nosotros nomás ponemos
+18:39
+así bueno otro número
+18:46
+el 238 o sea python lo lee Claro que sí pero no te lo muestra en pantalla para
+18:52
+que te lo muestre en pantalla tienes que ponérselo explícitamente porque las computadoras son muy explícitas se los
+18:58
+tienes que poner muy explícito lo que quieras que haga para que lo haga verdad entonces así son las computadoras las
+19:07
+lenguaje de programación miren también python como cualquier lenguaje de programación puede servir
+19:13
+como calculadora las miren en programación en python es
+19:19
+Exactamente igual todos a excepción de ahorita vamos a ver diez más cinco
+19:30
+Okay vamos a verlo es lo mismo no como en Matemáticas Cómo
+19:35
+sumamos en matemáticas pues con la tache no bueno con la con la cruz no perdón con la cruz este sumamos no la resta
+19:46
+igual no doce muy bien entonces bueno Esta es la suma
+19:55
+es con gato suma este es la
+20:03
+resta no suma resta multiplicar pues digo se imaginarán que dividir
+20:10
+es con la diagonal no
+20:22
+muy bien las Miren la única que cambia A
+20:28
+diferencia de lo normal son las potencias en python en python digo las
+20:33
+potencias estamos acostumbrados a
+20:38
+sean así verdad con este sombrerito verdad pues en
+20:46
+python no en python para ponernos otras potencias
+20:52
+se pone con un Dove asterisco
+21:02
+son las tienes que ponerlo con doble asterisco esto es como si fuera ocho al cubo verdad
+21:09
+este es dos al cubo es la única diferencia en python se pone con dos asteriscos muy bien Miren el módulo
+21:16
+residuo este es muy importante el módulo o residuo en programación Qué significa
+21:24
+no sé si se acordarán de ahora sí que de primaria de secundaria Qué es el residuo
+21:32
+en una división lo que es ahora cuando se divide
+21:39
+exactamente miren residuo división
+21:46
+exactamente muy bien así que lo podemos ver no el residuo es lo que resta o sea lo
+21:55
+Sobrante muy bien okay Entonces cuál es El Sobrante ocho
+22:01
+entre cinco nos cabe una vez y nos sube antes verdad Entonces el recibo de ocho y cinco es
+22:12
+tres verdad vamos a correr todo esto Miren el diez más cinco Cuánto es 15 12
+22:21
+menos ocho cuatro cinco por cinco veinticinco diez
+22:27
+entre doce Pues bueno Nos da este decimal este ocho al cubo nos da 512 dos al cubo nos
+22:37
+da ocho ocho residuo de cinco nos da tres y
+22:44
+miren la división entera digo yo creo que el nombre lo dice nos da Cuántas
+22:49
+veces de manera entera cabe el que está a la derecha en la izquierda
+22:55
+no O sea quiere decir cuántas veces nos caben
+23:00
+cinco en el ocho Cuántas veces nos cabe uno verdad
+23:07
+porque El Sobrante esto es Entonces esto es una división entera y cómo se pone la
+23:12
+división entera se pone con dos signos de división pegaditos o dos diagonales
+23:18
+en módulo residuo en python se pone con el
+23:23
+signo de porcentaje estos son los únicos como tres diferentes o nuevos A lo mejor
+23:28
+de una calculadora este las potencias es con dos asteriscos el módulo residuo se
+23:36
+pone con un porcentaje y la división entera con dos signos de división verdad
+23:43
+Muy bien Ahora vamos a pasar algo ya más entretenido que son las variables en
+23:50
+todos los lenguajes de programación existen variables Así que si nos acordamos en matemáticas
+23:59
+las variables en programación hay veces matemáticas En matemáticas
+24:06
+colocadas ponemos en programación podemos poner lo que
+24:11
+queramos ha de ser bueno tienen las limitantes no podemos poner miren las limitantes en python es que no
+24:19
+pueden ser ninguna de las palabras reservadas acuérdense que en las palabras reservadas de trucos int
+24:27
+etcétera tú no puedes guardar esto como in o como Ford no puedes python te va a
+24:32
+mandar un error también no pueden empezar con números ni
+24:37
+vamos a poner El ejemplo luego luego si se dan cuenta aquí ya me
+24:44
+puso en rojo no sé si lo alcancen a ver en que no haga más grande lo mejor okay
+24:53
+sí alcanzan a ver esto rojo
+24:58
+Sí muy bien bien si lo corro Mira esto saldré así lo corro me vas a dar un
+25:04
+error Mira esto pasa cuando pones algo mal en python te mando un error y te
+25:11
+dice por lo general En qué línea es No y te dice Qué tipo de errores te dice
+25:16
+error de sintaxis sintaxis cerro decimal literal o sea básicamente está
+25:23
+diciendo tú no puedes como te dije no puedes empezar con números una variable
+25:29
+No por qué Por convención así que así que se llama guido el creador de
+25:37
+python Se los voy a enseñar aquí bueno Van Van por este hombre
+25:45
+es el que inventó python no sigue vivo tiene 67 años es de Holanda y
+25:54
+este señor la verdad es que es un lenguaje aunque no lo tienen medio viejo pythony
+26:06
+O sea no es así que ya es tan joven o es este en 1989 verdad
+26:14
+lo que le decía bueno y lo empezaron bien desarrollo
+26:20
+1989 y se empezó a implementar en 1991 digas más antiguo que yo por ejemplo el
+26:25
+programa es más antiguo que yo pero se empezaba a usar mucho últimamente porque empezaron a generar tantas librerías es
+26:33
+un lenguaje sencillo de aprender al principio entonces La verdad es que python se empezó a usar Pero bueno es
+26:40
+por convención No puedes empezar ni con números ni puede ser una de las palabras reservadas y tampoco te permite
+26:46
+caracteres especiales porque no puedes poner esto
+26:56
+también también aquí ya me está poniendo que está erróneo nosotros no podemos poner caracteres especiales empezamos
+27:03
+con una letra y sí podemos poner números podemos poner guion bajo por ejemplo
+27:09
+pero no podemos poner otros tipos o sea nada más el guion bajo y números y
+27:14
+tienen que ser bueno Y pueden ser después de la primera letra verdad Okay muy bien ahora bien ya que lo
+27:22
+corregí lo voy a correr Qué hace una variable En python qué es
+27:27
+lo que hace python Mira más o menos nosotros y en programación cómo le cómo
+27:34
+leemos nosotros un texto y empezamos de arriba hacia abajo no siempre entonces
+27:41
+así es lo mismo con los lenguajes de programación va a correr primero esta línea luego esta línea luego esta línea
+27:47
+luego esta línea verdad es lo mismo nosotros leemos a igual de
+27:53
+arriba hacia abajo verdad es lo mismo python No es diferente en
+27:59
+ese sentido Entonces lo primero que hace python es leer esta línea y qué va a
+28:04
+hacer miren aquí es algo muy importante el signo igual en python
+28:12
+el igual significa asignación A diferencia de matemáticas
+28:19
+Qué quiere decir lo que esté del lado derecho
+28:29
+Pues aquí lo había puesto abajo pero bien lo que esté en el lado derecho del igual
+28:36
+se va a asignar o guardar como quieran decirle
+28:43
+en la variable del lado
+28:51
+izquierdo verdad pues miren
+29:01
+Okay muy bien Qué quiere decir aquí
+29:07
+el Hola está del lado derecho verdad entonces quiere decir que esto este Hola se va a
+29:14
+guardar o asignar en lo que esté del lado izquierdo en la variable del lado izquierdo que en este lado este caso
+29:20
+nuestra variable es Es verdad Entonces Lola se va a guardar en eso
+29:25
+aquí es un número también podemos guardar números el número dos se va a guardar en esta variable n dos y uno
+29:36
+punto cinco se va a guardar en la variable f- bajo uno muy bien Para qué
+29:42
+nos permite esto Esto es para hacer el código Dinámico para que así nosotros Mira por ejemplo si estamos haciendo
+29:48
+operaciones y es muy larga en vez de nosotros tener que volver a poner toda la operación solo cambiamos Por ejemplo
+29:55
+si nada más entrábamos una variable pues nada más cambiamos un valorcito en vez de Cambiar toda la operación Entonces
+30:02
+ese programa de manera dinámica o sea podemos cambiar valores y eso hace más sencilla nuestra vida después sobre todo
+30:09
+cuando es código grande entonces muy bien Pues bueno chavos Así es esto y miren
+30:15
+como le dije esto guarda valores aquí ya lo había corrido y dos por Cuánto es
+30:20
+bien n dos es igual a dos verdad f- bajo una es igual a uno punto cinco
+30:26
+Cuánto es dos por uno punto cinco tres verdad Ahora vamos a cambiar f1 Yo
+30:34
+quiero que sea 10 miren si hago esto qué pasa
+30:41
+digo Ahorita a lo mejor está lento por el internet están conectados varias cosas
+30:52
+de algo para que vaya más rápido porque pues como les dije a diferencia
+30:58
+de los otros este Perdón este Google colap se corren las
+31:04
+computadoras de Google Y si tenemos ahora sí que internet lento
+31:16
+Okay no sé qué más este
+31:33
+el s de Hola Para qué sirve pues es asignación vamos a verlo luego con más
+31:38
+ejemplos ahorita se los iba a enseñar pero Déjenme ver por ti está tan lento Déjame ver si la computadora
+32:04
+ya quedó Okay bien déjeme de todos desconecto la otra computadora
+32:11
+pues sí son bastantes muy bien va perfecto gracias Pues bueno como habrán
+32:18
+visto el dos y el diez se multiplicaron Verdad Otra vez Déjenme ver si le puedo
+32:24
+borrar rápido Okay bien ya ya corrió rápido la computadora Okay bien dos por
+32:31
+ciento cincuenta Cuánto es 300 así lo podemos actualizar muy rápido 20
+32:37
+3000 etcétera Okay este Hola nada más es para que ustedes vean que pueden guardar
+32:43
+también texto ustedes pueden guardar textos números Así que decimales
+32:51
+etcétera ustedes pueden guardar decimales pueden guardar este
+32:57
+enteros textos en variables los tipos de datos bueno
+33:03
+los tipos de datos vamos a ver están los enteros
+33:16
+es interior como le dije pero Okay si pueden aprender inglés es bueno
+33:23
+porque les dije o sea la verdad en la mayoría de la documentación y todo está en inglés entonces Este sí la verdad es
+33:30
+que entre más sepan a ver inglés más fácil va a ser su vida para programar y
+33:35
+ahorita se los digo pero no siempre voy a estar entonces bueno además no O sea pues programación cambia día con día o
+33:42
+sea van aumentando la librería van aumentando cosas
+33:48
+entonces Así es no el float es un flotante Qué quiere decir básicamente
+33:55
+este es decimales los números que tienen decimales son de
+34:03
+tipo float porque hay distinción entre enteros y decimales porque el entero
+34:09
+pesa mucho menos O sea python todo todo lo tienes que guardar en la memoria lo
+34:14
+que decíamos ayer la memoria principal y la memoria secundaria pues absolutamente todo tiene peso no pero el
+34:24
+abarca más memoria es por eso que pues en programación se trata de optimizar
+34:29
+mucho porque la verdad es que se hace maravillas casi con los tipos de datos
+34:34
+con los pesos para tratar de hacerlo muy muy ligero los programas Entonces cuando
+34:39
+se puede usar el entero los programadores usan el entero cuando no se puede y a fuerza sabes que va a haber
+34:45
+un decimal pues o sea por ejemplo un uso de los enteros es Las edades Tú no dices
+34:50
+tengo quince punto cuatro años lo tengo por ejemplo yo veinticuatro punto siete años una cosa esa no dices eso o sea tú
+34:57
+dices Ah Tengo 24 25 26 30 40 lo que sea tú dices entero verdad Entonces si vas a
+35:03
+guardar edades lo de lo recomendable es que uses variables de tipo entero para hacer más ligero el programa
+35:10
+también hay de tipo complejo bueno los que les gustan las matemáticas o los que vamos a ver en física y eso de que por
+35:16
+ejemplo en circuitos Y eso están los números complejos
+35:21
+están miren Estos tipos de datos son un poco más avanzados que son las estructuras de datos los vamos a ver
+35:27
+tranquilos a detalles están los strings String significa texto escriben que es
+35:33
+cadena una cadena de texto se lo voy a poner aquí tengan pero de verdad sí sí
+35:39
+pueden aprender inglés y es muy bueno porque les digo toda la documentación está en inglés y además
+35:45
+Esto está en inglés o sea el str no lo van a poner no van a poner texto no se ponen eso y el compilador en el
+35:51
+interpretador de python no les va a entender no tienen que poner en inglés list lista no
+36:03
+muy bien topol igual bueno es una tupper en
+36:08
+español significa Truper bien la diferencia entre un list y un primero es
+36:15
+el paréntesis Bueno creo que desde aquí se ve pero aparte del paréntesis y el corchetes lo que es de diferente Es que
+36:21
+una lista tú sí la puedes modificar en python no vamos a ver qué significa eso y un tople no un tople es un inmutable
+36:28
+aquí dice un inmutable inmutable este no lo puedes cambiar luego vamos a ver qué
+36:34
+significa es lo mismo un tople porque se usa porque es más ligero que una lista
+36:40
+entonces también si sabes que los datos no se van a cambiar dentro de esto es
+36:45
+mejor regresar un tople que una lista por qué Porque como les digo pesa menos
+36:51
+está un diccionario un diccionario en python el dict es que
+36:59
+tú le asignes a un valor otro valor las
+37:05
+llaves y su valor key en inglés llave value valor Qué quiere decir eso lo voy
+37:12
+a poner aquí llave pero sí de verdad se pueden se aprendan inglés llave valor verdad
+37:20
+este es la llave uno y se le asigna el valor uno la llave dos valor dos aquí si
+37:27
+se dan cuenta en python se ponen con las llaves verdad los topos es paréntesis
+37:33
+las listas son con corchetes y los diccionarios son con llaves con de
+37:41
+matemáticas por ejemplo el set también se puede poner con llaves nada más que
+37:46
+la única gente es que si se dan cuenta en el diccionario ponemos estos dos puntos para asignar
+37:51
+valores en los sets no sets Qué significa no sé si alguien sepa Qué significa en español pero bueno
+37:57
+significa conjuntos digo se llevaron en matemáticas de secundaria no se acuerdan
+38:03
+los diagramas de venn etcétera los conjuntos también en python puedes hacer
+38:08
+operaciones de conjuntos No aquí
+38:14
+miration elements básicamente este es como si fuera un toppol
+38:20
+de set o sea en el sentido de que es inmutable pero es un conjunto luego vamos a ver qué significan estos no se
+38:27
+preocupen están los tipos de datos boleanos los que dijimos verdadero y falso tú
+38:33
+están los bytes esos bueno esos después a lo mejor en intermedio lo veremos
+38:38
+Bueno vamos a seguir para seguir viendo ejemplos miren tipos de datos este bueno perdón este
+38:47
+input Alguien sabe Qué significa input en español
+38:53
+entrada muy bien exactamente son entradas Okay aquí es que el usuario le
+39:02
+pueda meter un valor porque es para hacer interactivo nuestro programa por
+39:08
+ejemplo aquí miren está en inglés o sea el texto No importa la verdad O
+39:15
+sea lo que está dentro de comillas Eso sí digo eso sí puede estar en
+39:21
+español Cuál es el nombre Cuál es tu nombre
+39:27
+miren en programación en las variables no pueden usar centos y
+39:34
+traten de no usarlos donde pueden usar acentos y todo eso es dentro de las cadenas de texto que sea un String que
+39:41
+sea dentro de las comillas no pero todo afuera No no usen acento no usen diéresis no usen la ñ Por qué Porque la
+39:48
+verdad es que les dije los lenguajes de programación están en inglés entonces todos estos signos que no están en el
+39:55
+inglés pues digo obviamente nos van a causar problemas y qué necesidad Entonces no no use ni acentos para
+40:01
+variables no usen este la de la ñ no usen este diéresis etcétera no usen eso
+40:10
+porque no está en el inglés entonces bueno esta función de input miren aquí a
+40:16
+veces te dice como un resumen está en inglés como les dije Bueno o sea todo está en inglés que dice que lee un
+40:22
+String de input de entrada no este Qué quiere decir mira
+40:27
+vamos a correrlo Cuál es tu nombre alguien no sé Héctor
+40:34
+por ejemplo Héctor esto es interactivo porque yo como
+40:41
+usuario le estoy poniendo le doy enter para que entre y miren es interactivo porque le puse
+40:48
+pone Hola Héctor Espero te encuentres bien bien lo volvemos a correr vamos a poner tu nombre vamos a poner este
+40:54
+Francisco lo mismo aquí no antes se dieron cuenta
+41:01
+que decía Héctor ahora Francisco no Esto es para hacerlo interactivo con el usuario para que el
+41:08
+usuario nos pueda poner texto etcétera y así podamos hacerlo interactivo miren este es un tipo de print especial
+41:16
+por qué es especial que se dan cuenta si tú pones F antes de las comillas
+41:22
+significa fórmate o sea es
+41:31
+o con formato en español No aquí este nos sirve para que nosotros podamos
+41:36
+mezclar texto con valores de variables porque acuérdense qué dijimos que cuando hay un
+41:43
+igual vamos a asignar lo que está en el lado derecho lo vamos a asignar en el lado
+41:49
+izquierdo verdad Entonces este con el F significa fórmate
+41:55
+es para que nosotros podamos mezclar los valores este el Cuál es tu nombre y le
+42:00
+ponemos canchisco este Francisco se va a guardar en esta variable texto usuario
+42:06
+no y aquí nos va a poner el texto usuario para nosotros poder mezclarlo
+42:13
+primero necesitamos lo que les dije poner la f antes de las comillas y poner con llaves dentro el valor de la
+42:22
+variable con unas llaves verdad aquí python Ah bueno va a ser un formatet Y a
+42:29
+partir de donde empiezan las llaves a qué variable le pongo el valor de texto usuario verdad
+42:36
+Este es un print formateado es para que se vea bonito pues para que nosotros podamos mezclar variables con texto
+42:45
+en de nuevo una última más no sé Ok Muy bien bueno ya para acabar nos
+42:54
+vamos a volver a ver mañana pero miren están las condicionales
+43:00
+Aquí está lo bueno las condicionales chavos el If Qué significa If en español
+43:11
+alguien Sí verdad sí
+43:17
+Esto vale esto okay bueno
+43:24
+él es representa cuando no es el valor del If vamos a ver qué significa el If
+43:30
+es y está el el python elif es una
+43:36
+abreviación de en otro lenguaje de programación lo ponen diferentes en programación pero en
+43:43
+python se llama elif vamos a ver estos para esto es la lógica chavos no crean
+43:48
+que o sea luego vamos a ver un poco de mates discretas para ver todo esto más a detalle pero aquí es donde ustedes
+43:54
+tienen que desarrollar su lógica porque aquí vamos a ver los operadores lógicos ya casi acaba ya acabó pero vamos a
+44:01
+verlo un poco and significa y verdad en español y esto Qué significa chavos bien
+44:10
+Vamos a ver están Bueno antes de eso vamos a ver los operadores por que significa o verdad
+44:17
+y no es negación
+44:24
+muy bien Miren el and yo lo digo yo siempre he dicho que el antes como si
+44:30
+tuvieran o sea bueno no se ve pero agua y veneno en el que en qué sentido si
+44:37
+ustedes tienen un vaso de agua bueno 100 vasos de agua y un vaso de veneno si
+44:43
+ustedes mezclan los 100 vasos con el frasco de veneno sigue siendo veneno verdad Digo si es muy potente el veneno
+44:48
+no se pueden tomar esa agua verdad no se la tomarían Pues porque quién sabe qué tan diluido usted entonces es lo mismo
+44:56
+con el an en qué sentido
+45:08
+Ah bueno también algo que decir en python es muy importante que en python
+45:13
+sí importan las mayúsculas y las minúsculas el print no es lo mismo que si yo pongo así
+45:19
+bien hasta si se dan cuenta no me salen error y no me sale así o Supongo esto
+45:26
+No no es igual python si es muy especial y necesita que
+45:32
+sea sí hay mucha diferencia entre mayúsculas y minúsculas Okay muy bien
+45:39
+miren Aquí voy
+45:46
+[Música] bien si le pongo así este tú no me va a
+45:53
+jalar pero bueno bien Sí hay puro sans con que haya un
+46:02
+solo Falls todo se va a hacer bien básicamente el tú y el false es como si
+46:08
+estuvieran multiplicando en bueno los que llevaban matemáticas Bueno yo creo que sí en todos los que estuvimos en
+46:14
+Secundaria si tienes más
+46:19
+multiplicados que estaban en el de matemáticas por ejemplo qué dijimos
+46:27
+que si tenemos un número impar de negativos que nos va a dar si hacemos
+46:33
+una multiplicación con un número impar de negativos nos da negativo verdad es
+46:39
+lo mismo con el Y tenemos un número impar de números
+46:45
+Pues nos va a dar false verdad bien aquí nos da fuerza Pero qué pasaría
+47:05
+muy bien Qué pasa si hago esto quién nos va a dar alguien
+47:19
+Bueno aquí no mano más bien más que esto era como lo que les decía del veneno no
+47:24
+este si tú tienes uno solo de un falso te va a dar false por qué bien
+47:32
+Nos da no Bueno aquí déjeme les pongo las tablas de verdad lo vamos a ver más
+47:38
+adelante pero bueno tú qué nos da Alguien sabe
+47:47
+muy bien Aquí igual
+47:54
+[Música] que nos da
+48:02
+verdad Muy bien
+48:09
+qué nos da
+48:16
+qué nos da
+48:23
+verdad Muy bien Estas son las tablas de verdad para el
+48:28
+truco vamos luego a ver qué significan esto a ver para
+48:36
+Okay perdón para adelante para adelante Okay y ya para terminar
+48:43
+están las tablas de verdad de El
+48:53
+aquí si se dan cuenta como les dije el tubo el es como si fuera un veneno no
+48:58
+porque tú tengas un solo Hall ya vale es más aquí me equivoqué no es como multiplicar con negativos es más bien la
+49:05
+analogía de aquí es como multiplicar por cero
+49:12
+Perdón ese fue mi error era la analogía es más multiplicar por Cero en el el
+49:18
+equivalente a un cero Por qué Porque tú puedes tener por
+49:24
+ejemplo cinco por mil por 800 por lo que tú
+49:31
+quieras está por negativos etcétera [Música]
+49:36
+pero con que tú tengas un multiplicado por cero qué nos va a dar esto
+49:42
+pero pero verdad sí ahí fue Perdón la me equivoqué de analogía la analogía
+49:47
+correcta es en la es multiplicar por cero Obviamente
+49:52
+si tienes más por ceros pues sigue siendo cero no con que tengas un por cero
+49:58
+o sea hace cero verdad es lo mismo aquí en el tú bueno en el ant con que tú
+50:04
+tengas un solo todo se hace falso Entonces esto es eso es importante porque puedes
+50:12
+exactamente tú ver si tienes cien condiciones no Pero todas son antes con
+50:18
+que tengas una sola falsa es como saben el cual usan esto mucho cuando tú pagas en internet este tarjetas de crédito No
+50:26
+qué tienes que poner tu nombre en el nombre de la tarjeta la este número de
+50:31
+la tarjeta la fecha de caducidad este Qué más Este el número de seguridad la dirección
+50:39
+Colonia código postal teléfono tienes que poner como siete ocho valores no con que uno sea falso
+50:46
+con que uno esté incorrecto la computadora te o sea manda de que no esté o sea esto es falso vuélvelo a
+50:54
+intentar no para estas condiciones las vemos en el día a día cuando estamos pagando con tarjetas de crédito pues así
+51:00
+cuando entramos nosotros a nuestras concesiones de su de WhatsApp de
+51:05
+Instagram de Facebook Digo ya lo tenemos guardado y se hacen automático pero lo que hace esto es comparar usuario que el
+51:13
+usuario y la contraseña sean correctas si el usuario no es correcto Pues no te deja entrar y la contraseña no es
+51:20
+correcta no te deja entrar y este es muy picky o sea en el sentido de que como las contraseñas si tú pones las
+51:27
+contraseñas en la misma palabra pero en en mayúsculas y minúsculas diferentes no
+51:34
+es lo mismo verdad y no es lo mismo porque si se acuerdan de ayer acuérdense que ayer les dije lo del código ascii si
+51:40
+se acuerdan alguien se acuerda de que era el código ascii alguien
+51:47
+que cada número o cada letra tiene su número exactamente muy bien muy bien
+51:53
+Natalia muy bien exactamente Es que cada letra tiene un número y se distingue
+51:59
+entre mayúsculas y minúsculas la letra a mayúscula creo que la 65 no me acuerdo cuál es la minúscula pero siento y algo
+52:05
+según yo ochenta y algo El punto es que son diferentes entonces acuérdense las computadoras no leen de que la a es una
+52:13
+a mayor a minúscula no Y además digo obviamente lo podían solucionar Ahí
+52:18
+vamos a ver cómo se puede solucionar si el usuario pone cosas no correctas Pero obviamente se hace para tener más grado
+52:25
+de dificultad las contraseñas porque exactamente Eso hace que haya más combinaciones y un Así que un software
+52:33
+que trate de hackear o trate de romper una contraseña tiene que probar todavía más combinaciones porque exactamente en
+52:41
+vez de probar nada más las veintiséis letras o veintisiete del abecedario no tiene que probar ve siete por dos o sea
+52:48
+cincuenta y cuatro letras no porque tiene que probar también las mayúsculas y minúsculas es por eso que también lo
+52:55
+dejan así intencionalmente no para que exactamente haya más combinaciones y sean más difícil de hackear una
+53:00
+contraseña por ejemplo no es una de las aplicaciones Pero bueno chavos Yo creo
+53:06
+que por hoy es todo vamos a volver a ver varias cosas de estos No se preocupen o sea el punto es que bueno Pues si se dan
+53:13
+cuenta vimos bastante hoy vimos ver vimos rápido para dar el resumen vimos Cómo imprimir valores vimos lo de las
+53:20
+palabras reservadas vimos comentarios vimos este pues que python funciona como
+53:27
+una calculadora que la potencia en python se pone con dos digno de bueno con dos asteriscos el
+53:34
+módulo o residuo te pone con un porcentaje bueno el signo de porcentaje y la división entera se pone con dos
+53:42
+signos de división este muy bien entonces la variables no este
+53:50
+también dijimos que las variables python detecta que hay una variable siempre que hay un signo igual que
+53:57
+significa asignación asignamos lo que está en el de la derecha del igual en lo que está en la izquierda del igual los
+54:04
+tipos de datos Ya vimos que hay varios que son enteros decimales complejos etcétera
+54:10
+ahorita los vamos a ir viendo sobre la marcha pero sí son muy importantes vimos
+54:15
+también que en python podemos preguntarle al usuario con la función input acuérdense que una función es el
+54:22
+nombre de la función paréntesis y sus argumentos luego vamos a ver qué significa más a detalle cuando veamos
+54:27
+funciones durante hoy y mañana vamos a ver Perdón entre mañana y pasado este y luego están los condicionales que
+54:35
+estos ya no los alcanzamos a ver completos pero empezamos a ver un poco de la lógica de las tablas de verdad y
+54:40
+ya les dije el an la analogía la analogía es multiplicar por cero la
+54:47
+con que tengas un false todo se hace cero todo se hace fuerza Ok chavos Pues
+54:53
+bueno no sé si tengan alguna pregunta o duda antes de que termine la sesión de hoy
+55:02
+por ahora no muy bien Pues bueno chavos digo creo que
+55:07
+hoy avanzamos bien vamos a seguir avanzando digo nada Para que vean mañana vamos a ver seguir viendo lo del If es a
+55:15
+saber funciones vamos a ver librerías que es el poder de python el sitio Ford
+55:21
+y espero que nos dé tiempo del ciclo While y un poco Uy de lo que
+55:27
+empieza a hacerlo pesadito un poco de programación la lógica recursión vamos a
+55:33
+ver qué significa todo esto no se preocupen Eso es para mañana y
+55:39
+bueno chavos nos vemos cuídense y pues si es todo Es todo por hoy nos vemos
+55:45
+Muchas gracias profesor

@@ -1,0 +1,962 @@
+0:03
+[Música]
+0:10
+la pantalla dos Ok Muy bien pues bueno vamos a ver
+0:19
+este vamos a ver un poco review de lo que hemos visto no
+0:24
+Okay vamos a empezar de nuevo con las listas noan atr Okay con las listas no acuérdense
+0:31
+que vimos las listas las listas Cómo se hacen chavos con corchetes verdad y
+0:37
+acuérdense que vimos que una lista puede tener diferentes tipos de datos algo más grande Okay así puede
+0:44
+tener diferentes tipos de datos no acuérdense que también vimos este que las listas pueden este son mutables A
+0:52
+diferencia de los strings y top que son inmutables Qué quiere decir que sean mutables que nosotros podemos actualiz
+1:00
+acuérdense Cómo decamos que podemos actualizar una lista chavos alguien a ver yo por ejemplo esta lista surtida
+1:08
+Quiero actualizar el valor de true y lo quiero cambiar a false cómo lo harían
+1:16
+chavos alguien que me
+1:23
+diga es con son las cosas estas de l eso no Mira
+1:32
+acuérdate que es poner así es como actualizamos una lista ponemos el nombre
+1:37
+de la lista ponemos corchetes ponemos el índice del elemento
+1:44
+que queremos actualizar o sea este sería 0 1 2 3 el TR y le ponemos el nuevo
+1:52
+valor acuérdense como nosotros Cómo actualizamos variables de la misma manera no O sea por ejemplo Qué
+1:59
+significa una variable miren x =
+2:04
+1 x mir lo voy a poner formateada para se ve este Esta es la
+2:15
+x no sé en un y que nos
+2:21
+aparezca x no bien Ahora x =
+2:27
+2 lo mismo
+2:37
+bien y así noed hacerlo x = 3 Así es como nosotros actualizamos variables no
+2:44
+le cambiamos el este el valor no tan sencillo
+2:51
+como Ok antes de hacer esto lo voy a comentar
+2:56
+mientras es actualizar una variable verdad
+3:03
+me fui cambiando no má 20
+3:10
+30 Okay pues en una lista es muy parecido nada más que en una lista para
+3:16
+cambiarle un elemento pues tengo que indicarle a python qué elemento quiero cambiar verdad Okay acuérdense Cómo
+3:24
+funcionaba el igual en python no quiere decir que lo que esté de la derecha lo vamos a en lo que esté de la izquierda
+3:31
+acuérdense que el de igual era asignación no Entonces para nosotros por ejemplo
+3:39
+asignarle No aquí sería poner false por ejemplo
+3:45
+no solo para ver que si es cierto que si lo actualizamos sería
+3:50
+print lista surtida
+3:57
+verdad ya vieron actualizó verdad en vez de ser true ahora
+4:03
+es false verdad s
+4:08
+chavos si lo están
+4:14
+agarrando prof Ok Muy bien pues miren Así es como nosotros podemos actualizar listas o sea
+4:22
+esto se le llama actualizar una
+4:28
+lista un elemento buen un elemento
+4:35
+lista poner
+4:41
+aquí y aquí vo poner como es la estructura aquí es o sea es
+4:47
+nombre la lista no acuérdense
+4:52
+porches índice del elemento a
+4:58
+cambiar
+5:05
+igual a nuevo nuevo elemento
+5:14
+no básicamente Así es como lo hacemos No el nombre de la lista entre corchetes el
+5:21
+índice del elemento a cambiar y el nuevo elemento no Okay pues así es como nosotros
+5:29
+actualizamos listas no Okay bien aquí accedemos a una lista
+5:35
+mediante su índice Bueno a un elemento realmente de una
+5:42
+lista mediante su índice nombre de la lista índice verdad la función de len
+5:49
+nos dice el número de elementos en la lista verdad es una función en python
+5:56
+predeterminada que su argumento es la lista no o sea bueno el nombre de la
+6:02
+lista no leen de que nombre de la
+6:08
+lista bueno nombre realmente de un grupo porque esto funciona para listas to
+6:14
+etcétera No nombre de cómo se le llama de una agrupación no
+6:24
+acuero muy bien que puede ser muchas o sea esto puede esto funciona para
+6:30
+strings listas no este top creo que también para sets Okay muy
+6:39
+bien okay Cómo creamos una lista acuérdense con corchetes y cada elemento
+6:46
+separado por comas verdad Okay ya vimos no la función de
+6:52
+append la función de remove la función de Index de count de sort de reverse ok
+7:02
+No strings vimos que es como las listas pero nada más que son inmutables o sea
+7:09
+nosotros no podemos hacerlo de actualizar esto de actualizar solo funciona en diccionarios y en listas no
+7:17
+funciona en Top ni en este ni en
+7:22
+strings okay Porque estos son inmutables no podemos actualizar elementos miren lo
+7:29
+que si es que hay funciones que nos permiten cambiar cosas Bueno no son funciones realmente son métodos eso lo
+7:35
+vamos a ver en programación objetos obiamente A lo mejor empezamos mañana o pasado ya es la parte modular de
+7:41
+programación Okay entonces este punto oper este nos servía para hacer todos
+7:48
+Bueno todas las letras en mayúscula No aquí por ejemplo la mundo Bueno también
+7:54
+vimos un poquito de slicing no se acuerdan que era como en ingl acuérdense que mucha de la lógica viene de inglés
+8:01
+Alguien sabe qué significa slice slice of pza es una rebanada no una rebanada no y
+8:09
+slicing el verbo es como rebanar o partir en pedazos no Entonces slicing
+8:16
+nos sirve para que nosotros podamos agarrar en una lista o en un String
+8:21
+podemos decidir de qué letra Qué letra como poniendo de qué índice el índice
+8:27
+que es el límite inferior y este el límite Superior y acuérdense como siempre nunca va a incluir el límite
+8:32
+inferior Perdón superior siempre es este n - 1 no entonces aquí en Hola mundo
+8:38
+solo imprime est s vamos a poner otro otro
+8:44
+String vamos a poner un texto de [Música]
+8:53
+que Okay creo que sí se escribe así eso okay Y por ejemplo este aquí podemos
+9:00
+acuérdense que había varias formas de hacer el slid Qué quiere decir o
+9:06
+sea miren podíamos poner si ponemos nada
+9:12
+más los dos puntos hasta el por ejemplo hasta el nueve me va a dar desde el cer0 hasta el
+9:20
+nueve bueno sin incluir el nueve o sea miren 0 1 2 3 4 5
+9:30
+6 7 8 9 debería incluir bueno sin
+9:35
+incluirlas en teoría a ver qué pasó Ah es que no no he corrido este
+9:42
+acuérdense que python este Primero tienes que correr No aquí estoy llamando esta s sin haber sin haberla asignado
+9:50
+entonces por eso me dio un name error name error dice name s o sea la variable s no está definido ya ya lo corrient ya
+9:57
+está definido miren como les dije incluía hasta este
+10:05
+es el nu pero nunca incluye el n verdad siempre es n-1 Entonces es de acá hasta acá del 0 al 8 Ok muy bien Vamos a
+10:14
+imprimir para que se vea todos
+10:20
+Okay vamos print igual pero al revés en vez de Vamos a
+10:30
+ponerle este un número primero dos dos puntos aquí quiere decir que
+10:38
+desde el dos o sea 0 1 2 desde el dos
+10:46
+Ese sí lo incluye porque es límite inferior hasta el final vamos a
+10:53
+verlo lo que les dije No desde el dos
+10:59
+hasta el final si quiero imprimir todo pues obviamente digo no tendría sentido Pero
+11:04
+nada más O sea sería poner dos puntos no es Incluye todo o es poner como todo o
+11:10
+Podemos hacer como aquí o sea elegir De qué parte a qué parte Así es como nosotros podemos imprimir este lo que
+11:18
+busquemos no muy bien acuérdense Así es como
+11:24
+nosotros podemos que imprimir lo que estamos buscando en
+11:30
+okay Bueno acuérdense que lo del oper y lower nos servía mucho para validaciones no nos servía mucho para validaciones
+11:38
+porque acuérdense que el usuario puede ser que ponga con mayúsculas minúsculas mexicana por ejemplo y con este punto
+11:46
+oper Pues todo lo convierte a mayúscula entonces aquí ya no hay pierde con que
+11:51
+el usuario ponga mexicana ya con eso este python va a reconocer Qué es eso no
+11:59
+Okay muy bien acuérdense bueno que si lo corríamos no Por ejemplo si yo
+12:05
+ponía aquí na aú así me iba a correr verdad el
+12:11
+código Por qué Porque esa función de punto op hizo todo mayúsculas eso se usa mucho para
+12:16
+validaciones era lo mismo que si usamos punto logare que son métodos acuérdense los métodos es el objeto bueno en este
+12:23
+caso lo llamamos como variable punto y el nombre del método verdad verdad Okay
+12:30
+muy bien okay Por ejemplo acuérdense que
+12:35
+aquí les había dicho que esto no son inmutables verdad O sea nosotros no podemos actualizar este una un
+12:42
+String el strip es un método que elimina los espacios verdad pu ya lo vimos el repace no es el texto viejo con el texto
+12:51
+nuevo o no chavos bueno eso váyanse acordando porque luego va a ser muy útil
+12:56
+este el spit del limiter no este aquí Este me va a dar una lista de elementos
+13:04
+este que estén python va a identificar cada exactamente esto como ven ahí lo
+13:09
+azulito no se alcanzan a ver creo que sí este en la coma y el espacio y cada uno
+13:14
+de estos los va a hacer una lista no Bueno o sea los va a hacer un elemento perdón de una lista Okay muy bien
+13:21
+entonces este así el join y el list no este es el
+13:27
+único que está raro que está al revés no de lo normal que por lo general siempre es el nombre de la lista no O del String
+13:35
+Y luego el método y el argumento Pues aquí lo pusieron al revés Sí bueno es
+13:40
+está raro pero así es este sirve para poder juntar no este
+13:47
+ah Rafa bueno Esto todo está en la semana uno las notas esto todo esto está
+13:52
+en la semana uno Este no [Música] es a ver
+13:59
+espérense dónde están sí bien
+14:07
+este este Okay muy bien bien ustedes se
+14:15
+van Okay muy bien el de python Okay en la semana un en
+14:22
+notas el que dice C2 python basics
+14:27
+este este archivo es donde bueno está desde la semana uno porque este lo he estado modificando Yo creo que voy a
+14:33
+crear uno nuevo hasta ya después de que veamos lo básico porque ahorita todavía seguimos viendo lo básico de python O
+14:38
+sea ya ya vamos a empezar con algo más interesante en uno o dos días es la
+14:44
+programación orientado a objetos Y a partir de ahí ya es lo modular de programación porque vamos a lo que les
+14:50
+he dicho este todo en programación es bueno al menos en python en Java en
+14:56
+javascript en temas más este todo es un objeto entonces pues vamos a ver este
+15:02
+toda esa parte de programación orientada a objetos este muy bien entonces pues
+15:08
+pero sí Bueno si tenían pregunta de dónde está está en semana uno en notas no se van a sub no dice semana uno notas
+15:16
+y es este el que dice C2 python basic sh Este ahí le pcan di que estab trabajando
+15:23
+sobre el mismo archivo porque para que al final tengan un archivo bastante bueno en el cual este Pues básicamente
+15:30
+le introduzca todo lo básico de python Okay muy bien okay vamos a seguirle entonces
+15:38
+este vamos a seguirle Okay bueno el find decía que es un método que busca el
+15:45
+substring dentro del String y devuelve la posición de la primera vez que ocurre no Okay por ejemplo aquí python no me va
+15:52
+aparece la posición o sea el índice que a partir del índice 11 está python no
+15:57
+Okay muy bien bien entonces bueno Así es no el punto
+16:03
+format era para hacer el es equivalente al el format no print o sea nosotros
+16:10
+tenemos un texto no y le podemos incluir insertar variables en donde quiera que
+16:17
+pongamos estos llaves no Así es como funciona en python Bueno ayer también
+16:23
+Estuvimos viendo lo que son diccionarios no acuérdense que son diccionarios alguien que me quiera decir este cómo
+16:29
+ponemos un diccionario en
+16:35
+python primero se definen no con el nombre y es d
+16:43
+c Bueno no No necesariamente esto nada más lo puse así realmente en python no
+16:48
+es necesario este ustedes ponen un diccionario
+16:55
+abriendo llaves verdad y ponemos pares que son aquí dicen que
+17:02
+valor o en inglés Ke value este Cuál es la cave o el
+17:09
+valor la clave profe muy bien lo que está de la izquierda de los dos puntos
+17:15
+es la clave luego se pone dos puntos y lo de la derecha es valor y luego
+17:21
+acuérdense como en las listas como los top como todas estas se separan los
+17:26
+elementos mediante verdad Okay muy bien así es como pasa
+17:36
+verdad se aquí lo corro es así okay Este
+17:42
+Bueno Este era para no más para mostrarles la equivalencia de una lista en el sentido de que nosotros el índice
+17:50
+cero o sea las listas es como si fuera un casi un diccionario
+17:57
+no un diccionario pues miren un diccionario
+18:02
+básicamente nos sirve para esto son Cómo decirlo son pues como
+18:09
+dicen son pares de que valor es como cuando ustedes buscan en un diccionario
+18:16
+verdad ustedes buscan en un diccionario de inglés español por ejemplo y la
+18:23
+palabra television y televisión no ustedes buscan exactamente la palabra de
+18:29
+que miren mejor computer y computadora no computer es la clave o el Ke el value
+18:38
+en español Cuál sería computadora no computer computadora básicamente así
+18:45
+imagínense cada definición porque esto básicamente es como este es el este y este es su definición no este y su
+18:53
+definición eso es básicamente lo que es un diccionario en python es una
+18:58
+Estructura de datos luego vamos a ver son herramientas al final chavos o sea son útiles van a ver este luego algunas
+19:05
+aplicaciones Pero el punto es que este son ahora sí que herramientas al
+19:12
+final del día no nosotros al final vamos a ver cuál Nos conviene más Cuál es más
+19:18
+óptima qué es lo que el usuario pide porque también tenemos Bueno ya al final Como programadores de verdad tienes que
+19:24
+pensar en En qué pide el usuario y en Cómo la puede descomponer porque también como les dije a veces parece que el
+19:30
+usuario intentara descomponer el software entonces este tienes que buscar todo los escenarios no en Cómo
+19:38
+funcionaría eso para tratar de tener un óptimo servicio
+19:48
+no Okay por ejemplo Déjenme
+19:57
+este muy bien Pues bueno chavos así estos son los diccionarios acuérdense
+20:02
+que también como en todos tenemos métodos Okay Qué es un método chavos a ver alguien que me vaya diciendo Ya lo
+20:08
+hemos dicho tres veces todavía no lo hemos definido bien pero Qué es un
+20:18
+método es como una función que nos permite acceder a ciertos valores
+20:26
+profe algo así Mira es básicamente si es una función que está pegada a un tipo de
+20:34
+dato Lu vamos a ver qué significa esto en programación el tipo de datos a las
+20:40
+variables listas esto realmente se le llama estructuras de datos pero son que haes vamos a ver luego en programación
+20:47
+orientada objetos porque esto son bueno las quees es el concepto este en
+20:53
+particular que yo lo definí como mi diccionario es un objeto luego vamos a ver qué significa esto esto imagínes Elo
+20:59
+como una caja y esta caja dentro de la caja tienes tus funciones tienes como herramientas véanlo así estos métodos
+21:06
+son como herramientas verdad es más o menos la Así que la analogía un poco no
+21:13
+los diccionarios sirven mucho vamos a ver las aplicaciones porque por ejemplo
+21:19
+si vamos a guardarlas me voy a adelantar un poco pero Vámonos abajo este un diccionario Por ejemplo si nosotros
+21:26
+vamos a guardar calificaciones no de un grupo por nombres porque tú podrías
+21:32
+guardar calificaciones así en una lista pero cómo las
+21:38
+guardarías
+21:45
+pas aquí podemos poner Bueno si no fuera la normal con
+21:52
+diccionario pondríamos entonces la normal pero con coma noo no no entendí La pregunta sería de
+22:00
+que 1 com23 No mira Imagínate que te dan unas calificaciones mira bien Vamos a
+22:07
+ponerlo aquí Este por ejemplo no calificaciones tú Rafa tienes no sé p 95
+22:14
+no este no sé alguien más nombre
+22:23
+don 90 por ejemplo a ver más nombre
+22:32
+anda de que tiene 88 y así no bueno
+22:37
+x tú en una lista no puedes guardarlo con los nombres O sea no más podrías guardar las calificaciones Pero tú no
+22:44
+sabías de quién es de cada una no tú solo podías poner
+22:49
+esto O sea si tú guardas las calificaciones en una lista sería así
+22:54
+Pero tú no tendrías el nombre o sea no tendrías Cómo saber ver de quién es cada calificación no en un diccionario Sí
+23:01
+mira calificaciones con un diccionario Esas son una de las aplicaciones no O
+23:06
+sea que en la funcionalidad de los diccionarios es que tú le puedes poner un nombre al valor no y o sea la llave
+23:13
+no bien Vamos a hacerlo a ver cómo cómo lo haríamos a
+23:18
+ver chavos vayan ayudando cómo voy Cómo crearía un diccionario que tenga los
+23:23
+nombres y las calificaciones primero se abre llaves no
+23:29
+profe muy bien luego y dentro de las llaves ya defines por ejemplo a Rafa 2.9
+23:37
+Pero cómo lo pondría Rafa lo pondría entre comillas no acuérdense si no no es
+23:43
+o se no es sin comillas no no porque a ver
+23:48
+Rafa si yo nada más pongo Rafa si sin comillas python pensaría que es una variable o una función no buen A menos
+23:57
+que tenga una variable que se llame raf igual a 95 o se A lo mejor ahí sí pero si no si nada más quiero el texto
+24:04
+Acuérdate que para que python entienda que es texto tengo que ponerlo con comillas
+24:10
+verdad Okay dos puntos y qué y qué más seguiría y su calificación 95 no después
+24:19
+a ver vayan ayudando vamos a poner una coma bien después un espacio mm
+24:29
+después de nuevo se abre comillas para poner el siguiente nombre no muy bien
+24:34
+segundo nombre comillas segundo nombre Okay qué sigue aquí igual dos puntos dos
+24:42
+puntos muy bien y la calificación no Después qué
+24:48
+sigue eh coma otra vez porque definir ú y
+24:54
+después y se abren comillas muy bien y pongo el nombre verdad y pongo igual dos puntos y la
+25:02
+última calificación no Okay muy bien miren lo poderoso de esto es que
+25:10
+aquí yo no tengo idea de cuál es cuál no O sea aquí nada más me dan una lista Bueno tengo calificación 95 90 y 88 pero
+25:18
+no tengo idea de quién es para uno no y aquí por ejemplo con este sí con este sí
+25:24
+mira con este yo puedo acceder a la calificación de Rafa n más poniendo
+25:32
+Así voy a imprimirlo para que seest en
+25:41
+pantalla muy bien no O sea yo podría por ejemplo tener una función con una lista de nombres y podría ponerlo con un
+25:48
+diccionario que me vaya dando O sea que el usuario mir acuérdense que esto dijimos que esto era como el gimnasio o
+25:54
+sea nosotros lo podemos hacer tan complicado como nosotros queramos y aquí podía hacer una función que me diga input
+26:01
+este nombre de alumno calificación algo así nombre alumno
+26:07
+cal igual a input que me pregunte
+26:12
+este de qué alumno quiere saber la
+26:22
+calificación Okay pues este en vez de esto en ve ponerle roja
+26:32
+no acuérdense que eso lo podemos hacer tan complicado como nosotros queramos
+26:42
+no Ándale o sea acuérdense que podemos hacerlo todavía más a prueba de usando
+26:49
+acuérdense combinando cosas no podemos hacer que este por ejemplo por si alguien puso Rafa lo puso malo lo puso
+26:57
+con minúsculo no podemos usar este y podemos usar punto este no sé
+27:04
+este oper no y este por
+27:12
+ejemplo Bueno más bien podríamos hacerlo no era punto oper era punto capitalize
+27:17
+bueno ese no lo vimos capitalize vamos a
+27:23
+verlo okay
+27:30
+Okay bien Vamos a ver yo pongo mal Rafa lo pongo todo en
+27:38
+minúsculas aún me sigue dando el capitalize lo que hace Es que la primera
+27:43
+letra la pone en mayúscula y todas las demás en minúscula como lo tengo aquí no por si alguien escribió mal Rafa o sea
+27:49
+de que alguien o lo pusieron a todo en mayúsculas Rafa me sigue dando la respuesta
+27:56
+correcta acuérdense que lo que dijimos en programación al final tú puedes combinarlo y puedes hacerlo tan complejo como tú quieras este al punto ahorita
+28:04
+que estamos aprendiendo Pues solo son herramientas No ya después pueden combinarlos aquí por ejemplo hicimos
+28:10
+varias cosas no aquí usamos un diccionario primero definimos un diccionario luego lo hicimos interactivo
+28:15
+preguntándole al usuario luego lo hicimos a prueba del usuario de que escriba cosas mal no y luego
+28:21
+este Bueno lo pusimos este ya n más lo imprimimos no pero les
+28:28
+digo chavos nosotros lo podemos hacer tan complicado obviamente por ejemplo en lo puedes Bueno ya cuando es muy
+28:34
+avanzado puedes usar cosas de Machine learning para compet como cuando estamos compet y que se competa no O etcétera o
+28:42
+sea y eso ya es meterle tantas habilidades y tantas herramientas como
+28:47
+tú quieras y sean necesarias porque también a veces también tienen que medir cuánto tiempo y cuánto dinero cuánto
+28:54
+presupuesto tienen porque o sea no conviene también hacer ser una cosa tan elevada para una cosa sencilla no o que
+29:01
+no te van a pagar lo suficiente entonces también bueno eso también es irle midiendo Okay entonces pues bueno el
+29:09
+punto es que así Esa es la ventaja de los diccionarios que tú le puedes asignar un nombre y un valor no llave
+29:17
+valor llave valor o sea así nosotros en vez porque si si nos da n más la lista
+29:22
+pues no tenemos idea de quién es cada uno no pero aquí sí Y aquí por ejemplo hasta lo hicimos interactivo esa es una
+29:28
+de las aplicaciones este no sé quién más por ejemplo podemos
+29:34
+hacer una lista bien podemos usar un for Loop lo voy a poner aquí para que sea más limpio podemos poner un for Loop no
+29:41
+les digo esto al final de cuentas programación es como el gimnasio No primero aprendemos a hacer los
+29:47
+ejercicios sencillos y ya luego lo complicamos tanto como queramos no por
+29:56
+ejemplo
+30:02
+diccionarios Ok y por ejemplo podemos
+30:10
+imprimir [Música] puede con el formateado no Y podemos
+30:18
+imprimir [Música]
+30:26
+este
+30:50
+ver salga
+30:56
+este Ah sí cre va a ser así
+31:04
+bien el estudiante ya el
+31:12
+estudiante poner dos puntos obtuvo esta
+31:21
+calificación esta calificación aquí los doos okay O sea este me imprimiría en
+31:30
+teoría todas la listas de estudiantes mir el estudiante Rafa obtuvo esta
+31:35
+calificación O sea si por ejemplo si le pusiéramos un botón de que Ah entonces Dame todos no este pues podíamos hacerlo
+31:43
+así y aquí me estaría diciendo el estudiante y su calificación el estudiante su calificación el estudiante
+31:50
+su calificación Okay Más o menos
+31:58
+aquí cuando ponemos un p for en un Cómo se llama en un diccionario no va o sea
+32:04
+solo va a agarrar el valor de la llave por ejemplo aquí que fue Rafa Donovan y
+32:10
+Fernanda solo fue agarrando los valores de las llaves No Rafa
+32:15
+Donovan y Fernanda si nosotros queremos agarrar los valores value Ke value el
+32:22
+value tenemos que poner ahora sí que el diccionario no y en
+32:29
+corchet en t corchetes no el estudiante que esta es la llave no acuérdense que
+32:36
+lo habíamos visto aquí aquí para nosotros obtener los valores
+32:44
+no hay dos formas o ponemos el nombre del diccionario y corchetes y el nombre
+32:51
+de la llave es una o podemos hacerlo con el método get no punto get y el nombre
+32:58
+de la llave Okay pues bueno Esas son algunas
+33:03
+de las aplicaciones que tienen los diccionarios no chavos este otras es
+33:08
+este pues les digo no O sea guardar esto luego vamos a ver lo de conteo de
+33:14
+palabras eso está también muy buena creo que esa tod A lo mejor lo podemos ver mañana o pasado todavía todavía no vamos
+33:21
+están listos para esto pero este porque por ejemplo lo que les decía nosotros
+33:27
+podemos hacerlo tan complejo como queramos nosotros podemos meterle unas cosas que se llama web scrapping web
+33:33
+scrapping es agarrar python unas librerías de web scrapping en python te
+33:39
+permiten pues lo que significa web en internet no scrap como arañar o sea
+33:45
+podemos este sacar información no de la del
+33:50
+internet Gracias a python o sea es muy sencillo este el código lo que hace
+33:56
+python Es que le das tú por ejemplo un link de una página web este python con
+34:02
+esas librerías se mete y recoge la información de esta no recoge el texto
+34:07
+por lo general recoge texto y ese texto ese punto txt lo podemos hacer a String
+34:13
+y es String Acuérdense que los podemos hacer a listas con el método este de sprit no y luego las listas lo podemos
+34:20
+podemos usar diccionarios con un for para contar el número de palabras digo tranquilos o sea es es como les digo es
+34:28
+haciendo es como meterle pesas irle metiendo pesas al al este pero en teoría
+34:33
+nosotros ya sabemos casi hacer eso individualmente lo único que faltaría es que les enseñaba un poco de web scrap
+34:39
+Pero bueno ahorita ya sabemos lo que son listas sabemos lo que son diccionarios
+34:44
+sabemos lo que son cicos for que ya con eso tenemos bastante como para hacer lo que estoy diciendo ya casi tenemos como
+34:51
+un 70 por falta un 30 este y falta combinarlo No pero Okay y Bueno vamos a
+34:58
+seguir viendo el último bueno de los últimos este estructuras de datos sencillas de python son los Tops que
+35:05
+básicamente los top son muy parecidos a las listas que como dice aquí las topas
+35:10
+en python son una estructura de datos que son inmutables lo que significa que una vez creadas no puedes cambiar o
+35:16
+agregar o eliminar elementos las tup eso es como el String no no podemos actualizar las tupas son útiles en
+35:23
+situaciones en las que no deseas que los datos cambien por accidente miren aquí hay ejemplos El Topo lo podemos definir
+35:30
+de cualquiera de las dos no es necesario definirlo acuérdense que en python es Dinámico Aquí nada más es por si
+35:35
+queremos tener un topol vacío Okay muy bien esta es la miren la creación de
+35:41
+topol No pues es como una lista nada más que en vez de corchetes es con paréntesis
+35:47
+no Okay bien Igual que en las listas accedemos a los elementos acceso a los
+35:54
+elementos tú puedes acceder a los elementos de un topol de la misma manera que lo haces en las listas no utilizando
+35:59
+índices entre corchetes también vamos a correrlo Okay miren Aquí le voy a
+36:05
+cambiar si le pongo el cuatro qué me va a dar
+36:11
+alguien viendo hacia el código
+36:17
+cuatro no el índice cuatro Cuál es Rafa
+36:22
+cinco no Ah Acuérdate que ahí ahí mismo lo está
+36:27
+diciendo no muy bien el cinco Mira dice que lo haces listas utilizando índices
+36:33
+entre corchetes este no me va a buscar el cuatro lo que va a hacer es que me va a dar el bien Vamos a
+36:38
+[Música] imprimirlo muy bien no Okay qué me da Si yo le pongo
+36:51
+-1 cinco también no me da el último Okay muy bien
+36:58
+bien dejarlo est en cero que originalmente y midad a
+37:05
+diferencia de las listas no pueden cambiar los elementos de una AC era como eling no podemos actualizar bien si lo
+37:12
+corro me va a salir Que dice to object do not Support
+37:20
+assign digo no permite asignación de elementos mutar es inmutable no se
+37:26
+permite el count este método devuelve el número
+37:31
+de veces que x aparece en la tup acuérdense que es es como en las listas les digo que es muy parecido a las
+37:36
+listas la única diferencia es que no podemos hacer esto que no que no son mutables en las listas si podíamos
+37:42
+hacerlo bien aquí me contó el número de veces que aparece el dos es 1 dos 3 me
+37:51
+el verdad igual que el Index no
+37:57
+me aparece no el índice de la primera vez que aparece un elemento o sea vamos a ver si en ve le pongo
+38:05
+dos solo me aparece la primera vez que aparece o sea no me va a decir esto O
+38:10
+sea el programa lo que haces es primero le este luego le este ve que es igual a esto y hasta aquí se detiene no Okay Ese
+38:18
+es este método bien algo que es muy útil o lo más útil yo creo de los
+38:24
+top no es esto el empaquetado y el desempaquetado de topos no dice cuando
+38:30
+creamos una tupa normalmente asignamos valores separados por comas a una única
+38:36
+variable No eso se llama empaquetado de tupas el proceso inverso es Ah vamos a
+38:42
+ver qué significa mucho texto pero el proceso inverso es decir asignar los valores de una tupe a diferentes
+38:48
+variables se conoce como desempaquetado de tupas no Okay miren si nosotros en
+38:54
+una variable así como esta no ponemos igual y ponemos varios elementos
+39:01
+separados por coma python lo va a guardar automáticamente si ustedes no le ponen obviamente este los corchetes o
+39:08
+algo lo va a guardar automáticamente como un topol como aquí no como verán
+39:15
+aquí Juan 16 y azul lo mete dentro de un topo que es este que ya les dije to es
+39:21
+como una lista pero que no la puedes editar casi todos los mismos métodos sí
+39:27
+Casi casi no yo diría que como un 90 por este sí muy parecidos de los topol y las
+39:34
+listas les digo que básicamente son listas nada más que las únicas dos cosas que tienen es que son inmutables y bueno
+39:40
+también es o sea hablando desde el punto de vista efectividad este que los topol
+39:46
+son [Música] este ocupan menos espacio porque luego
+39:51
+vamos a ver en programación orientada objetos cuando tú defines una que hace eh la que hace en python es listas Tú le
+39:58
+tienes que poner todos los métodos y todas las propiedades y todas las cómo se llama No parámetros Cómo se LL No no
+40:06
+es métodos es ya se me fue pero todos los valores
+40:12
+dentro de las de las que haces este las tienes que definir y las listas como son
+40:17
+mutables este tienen un poco más de cosas Entonces es más pesado imagínense
+40:23
+que los objetos es como si tú cargaras una mochila no y tus Funes son las cosas que les echas las
+40:28
+herramientas Obviamente que si tú cargas una mochila con 1 funciones con 1000
+40:34
+herramientas pues va a ser una lista Perdón va a ser una mochila muy útil pero muy pesada No pues es lo mismo aquí
+40:41
+las listas son más pesadas que los topples porque tienen más funciones entonces las los top se usa primero
+40:48
+cuando sabemos que no queremos cambiar esto y segunda cuando necesitamos efectividad y sa y sabemos que no
+40:53
+necesitamos cambiarlo Porque si necesitamos cambiarlo pues ni modo lo tenemos que llevar listas aunque sean más pesadas Okay y miren también este se
+41:02
+llama desempaquetado de topol este y básicamente este bien Vamos a ver
+41:10
+mejor vamos a poner en dos
+41:18
+diferentes bien como les dije si ustedes no ponen el paréntesis python va a asumir que es una túa
+41:25
+no y aquí al revés aquí ya en esta tup guardamos tres
+41:31
+valores no en este to 16 y azul
+41:36
+no nosotros podemos ahora sí que como dicen desempaquetar se qui decir que
+41:42
+podemos poner tres variables y este top Juan va a guardar el nombre 16 en edad y
+41:53
+color favorito en azul o sea podemos hacerlo al mismo tiempo en vez de hacer tres líneas de código pues
+42:03
+miren okay Bueno lo que les decía tien menos funcionalidades que las listas
+42:09
+Pero son muy útiles en ciertos contextos no bueno miren nada más para que vayan
+42:14
+viendo un poquito de lo que vamos a estar viendo Alo que a ver si pasado mañana mejor
+42:21
+vamos a practicar mañana mucho este Pero bueno Esto es una cosa muy importante en
+42:27
+programación que es el en inglés se llama object oriented programming o
+42:33
+programación orientado a objetos en español no que dice que es un paradigma de programación que se basa en el
+42:39
+concepto de objetos los objetos son instancias de clases que se pueden pensar como planos
+42:46
+o plantillas para no sé si Cómo se llama por ejemplo alguien sabe en inglés que
+42:52
+es un blueprint planos los panos no muy bien
+42:58
+Vamos a ver que una quee es como un peano como de una casa usa mucho el
+43:05
+ejemplo de la casa está muy chiquita x el punto es
+43:13
+que la que hae es una casa luego vamos a ver que un Ob estoy adelantando para que
+43:20
+les vaya entrando un poquito las ideas eso tenemos que estar una semana en esto porque esto es muy muy importante lo de
+43:26
+progamación orientada objetos Pero bueno nada más para que su cerebro se vaya permeando un poco de esto okay en python
+43:33
+nosotros definimos objetos con la palabra reservada queé que es qué hace
+43:39
+no Bueno más con eso definimos qué hac los objetos ahorita vamos a ver qué significa okay Y estos chavos son
+43:47
+funciones bueno serían funciones pero cuando están dentro de una quease son lo que estábamos llamando como métodos no
+43:55
+Estos son los métodos los que estábamos usando para los strings para los topol
+44:00
+para las listas para los diccionarios básicamente si ustedes vieran el código de tras en python alguien más ya lo
+44:07
+programó pero ya puso de que imagínense casas este lista list Y puso funciones
+44:13
+dentro de que estas funciones son métodos luego vamos a ver qué significa
+44:18
+el self pero miren self Alguien sabe Qué significa self en
+44:25
+inglés todo esto viene de que de la lógica del inglés Alguien sabe que
+44:35
+significa mismo muy bien como sí mismo exactamente esto quiere decir que vamos
+44:40
+a Acceder al valor al objeto mismo luego vamos a ver qué significa esto Ok Cómo
+44:47
+se ve se Ok y bueno estos las que haes no tienen varios métodos aquí por
+44:54
+ejemplo tiene tres métodos por ejemplo para una que hace coche tiene sus acciones Qué acciones puede tener un
+45:00
+coche puede acelerar o frenar no Bueno luego vamos a ver un poco Qué es más de
+45:07
+esto este luego vamos a ver un poco los objetos imagínense bien Qué hace es el
+45:16
+concepto de una casa es el concepto pero ustedes su casa su casa la casa de
+45:21
+ustedes es un objeto ya es aquí cuando le llamamos mi coche aquí por ejemplo
+45:27
+podría ser mi casa no y le asignamos este la que hace a esto luego vamos a
+45:33
+ver qué significa Pero bueno y Bueno aquí le esta que hace No necesita bueno
+45:40
+estas tres no para inicializar que esto es el bueno Esto vamos a ver que estas
+45:46
+son unas palabras especiales hay varias init significa inicial o sea que es el valor que tenemos por default tranquilos
+45:53
+vamos a ver qué significa cada uno de estos vamos a verlo con ejemplos etcétera Pero bueno aquí por ejemplo marca Toyota modelo
+46:02
+Corola color rojo no muy bien entonces
+46:09
+este aquí tenemos por ejemplo les dije estas son métodos vamos a ver qué
+46:15
+significa el punto es que este es mi coche ya es un objeto ya no es el concepto de casa Ya es mi propio aquí ya
+46:21
+no es el concepto de un coche ya es el ya es mi coche no Okay muy bien Bueno
+46:29
+tenemos atributos que dicen que son características del objeto en este caso
+46:34
+marca modelo y color son los atributos de mi coche no marca modelo y color y
+46:40
+bueno miren vamos a vamos a ir corriendo esto aquí definimos la que hace acuérdense que esto es como esto es
+46:46
+Definir la que hace aquí es cuando creamos un objeto el
+46:53
+objeto mi coche Ok y aquí de mi coche podemos
+46:58
+obtener los valores el valor de mi coche de marca Cuál es aquí dice no Toyota del
+47:07
+modelo Corola del color
+47:12
+rojo Okay muy bien y bueno lo que les decía de los métodos los métodos son
+47:18
+funciones que se definen dentro de una clase y generalmente manipulan los
+47:24
+atributos de la clase en este caso acelerar y fenar son métodos de la que hace coche aquí arriba
+47:44
+regresáramos a ver que son herencias eso no te preocupes mucho o sea vamos a
+47:50
+verlo pronto que existe un concepto en programación orientada objetos que es herencia que es como ustedes mir como
+47:56
+ustedes con sus papás no O sea ustedes no son sus papás pero sí heredan varias
+48:01
+cosas físicas biológicas no es lo mismo con un auto o sea es como también lo
+48:07
+vamos a ver como tipo dentro de los diagramas de Ben o sea un auto automático está dentro de los autos no O
+48:16
+sea pues sí vamos a ver que en conjuntos no el auto es esto y el aquí auto
+48:23
+automático pertenece a los autos Sí y tiene las propiedades de los autos Sí
+48:28
+pero no todos los autos tienen las propiedades de los autos automáticos vamos a ver eso
+48:35
+también es como los autos eléctricos bien los tres que ahora tenemos el
+48:40
+estándar el automático y el eléctrico los tres son autos no y los tres heredan
+48:46
+las propiedades de un auto sin embargo no los O sea no todos los autos tienen
+48:51
+las propiedades de los autos eléctricos no todos los autos tienen las propiedades de los autos automáticos y
+48:56
+no todos los autos tienen las propiedades de los autos estándar No eso lo vamos a ver que se llama herencia todavía no
+49:03
+Pero miren Bueno vamos a ver o sea eso del herencia Esta es la parte dos
+49:09
+tranquilos eso lo vamos a ver mínimo una semana Entonces es muy importante que lo tengan bien sólido Okay herencia dice la
+49:17
+herencia es un mecanismo que permite este que una nueva que hace herede las
+49:23
+propiedades y métodos de una que hace existente la que hace existente se llama que hace base o que hace padre era lo
+49:30
+que les decía del por eso herencia no Y la nueva que hace se llama que hace derivada o que hace hija o que hace hijo
+49:37
+no también es un hijo se dice no este etcétera era lo que decíamos aquí
+49:42
+vehículo no esta es la que hace pad y en miren me estoy adelantando mucho pero
+49:48
+nosotros podemos poner otra nueva que hace y que esta herede las propiedades
+49:54
+de la otra poniéndola entre paréntesis y el nombre de la clas que queremos que
+50:00
+herede sus propiedades no por ejemplo aquí este de conducir es un método que está dentro de
+50:07
+los coches pero no todos los vehículos tienen el método de conducir porque esto
+50:13
+self es que herede todas estas propiedades pero aquí en ningún momento
+50:19
+estamos diciéndole al vehículo que herede las propiedades estas Entonces esta es la que hace padre Esta es la que hace hijo no muy bien tranquilos eso lo
+50:27
+vamos a ver con un poco más de detenimiento y bueno chavos yo creo que eso sería todo por hoy no se preocupen
+50:34
+de todos les digo esto de programación orientada objetos mínimo mínimo terminaremos de
+50:39
+verlo vamos a empezar a verlo desde así pero la otra semana todavía lo vamos a seguir viendo es muy muy muy importante
+50:46
+que de verdad aprendamos lo de programación orientada objetos porque miren los tipos de datos ya nada más
+50:53
+para terminar los tipos de datos datos chavos no est Bueno aquí un ejemplo no
+51:01
+los int los tipo in int es una que hace
+51:07
+realmente int es una que hace que alguien ya programó los String hace este los este todos estos
+51:15
+son que haces no haces Qué haces los tipos de datos
+51:22
+son que haces no estructuras de datos también este las listas no Estos son
+51:28
+cases etcétera no Okay no s Por qué p otro pero bueno
+51:36
+son cases no este etcétera alguien imagínense que alguien
+51:42
+ya antes puso yo no debería no voy a ponerlo in no este dos puntos y puso los
+51:50
+métodos que pueden hacer los in puso los métodos que pueden hacer las listas no por ejemplo el de append no O sea algien
+51:58
+alguien puso algo así como Def append no este dos puntos y puso no pum
+52:06
+pum pum o sea ahí puso código dentro de eso básicamente eso nosotros no lo vemos pero está ahí alguien hizo esto detrás
+52:14
+del código no Okay muy bien si quien se los dejo pero Se los
+52:19
+voy a dejar comentados porque si no Esto está mal y no se debe poner
+52:32
+Okay es programación orientada objetos aquí lo dice no es el acrónimo en
+52:39
+español en inglés se pone oop O sea si ustedes ven en algo de programación que dice oop significa object oriented
+52:46
+programming o al revés bueno en español Perdón en español si es po o o
+52:52
+programación orientada a objetos que es todo este paradigma todo este tema se
+52:57
+llama así programación orientada a objetos Porque todos estos son que haces
+53:03
+Y vamos a ver que todo en python son objetos no muy bien Pues bueno chavos no
+53:11
+tengan alguna última pregunta o duda para ya acabar estos tranquilos
+53:18
+vamos a ver mucho esto vamos a verlo mucho mucho porque necesitamos tenerlo sólido sólido porque de aquí si no no
+53:25
+agarramos esto las estructuras de datos algoritmos y otras cosas que vamos a hacer desde videojuegos Y eso F No no va
+53:32
+a jalar tenemos que aprender muy bien esto pero miren lo bueno es que una vez que ustedes pasen programación orientado
+53:37
+objetos y Estructura de datos básicamente ustedes se les va a serc muy sencillo programar en cualquier
+53:43
+lenguaje Okay y bueno también yo creo que a lo mejor antes de estructuras de datos vamos a reafirmar la lógica y en
+53:50
+esa parte a lo mejor se les va a hacer tedioso se les va a hacer aburrido pero en esa parte vamos a hacer un poco de
+53:56
+matemáticas discretas o sea aquí va a ser más en el iPad pero les va a ayudar
+54:02
+a les va a ayudar a mejorar su lógica y luego cuando volvamos a hacer cosas así
+54:07
+de programación van a ver que va a ser más fácil este la lógica Okay chavos Pues bueno eso es todo por hoy cuídense
+54:14
+y nos vemos este luego Bueno si se meten alicol nos vemos luego Dale
+54:23
+vemos

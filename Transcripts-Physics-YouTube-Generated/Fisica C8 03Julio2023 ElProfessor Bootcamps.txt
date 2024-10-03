@@ -1,0 +1,1014 @@
+0:02
+Okay pues bueno ya en teoría en esta semana ya tendríamos que terminar lo de física preparatoria vamos a empezar con
+0:08
+un poco de cálculo y matemáticas que necesitan para hacer los ejercicios de universidad este Pero bueno vamos a
+0:14
+seguir este AC que nos quedamos en que existía este dos tipos de equilibrios
+0:19
+verdad este el equilibrio estático y el equilibrio cinético el
+0:28
+estático equilibrio estático es
+0:36
+cuando todas las fuerzas acuérdense que primero equilibrio Qué significa equilibrio en general esta
+0:43
+parte significa que la sumatoria de todas las fuerzas es igual a cer0 O sea
+0:49
+que la fuerza resultante es igual a cer0 así podemos tener fuerzas Claro que sí
+0:54
+pero está es en equilibrio porque todas se anulan o sea lo que qui decir esto
+1:00
+que la fuerza resultante se igual a cer que si tenemos las tres componentes f dex f de y y bueno vamos a ver en la
+1:09
+universidad fd Z que la sumatoria de todas las fuerzas tiene que ser igual a cero para
+1:17
+que haya equilibrio Así que esto Equilibrio es lo mismo que la
+1:23
+fuerza es ig a 0 y que todas así
+1:28
+que forzosamente los tres lados las tres dimensiones sus fuerzas tienen que ser
+1:34
+igual a cero porque con que una sea diferente a cero quiere decir AC por la segunda ley de Newton que va a existir
+1:42
+una si existe una fuerza y bueno tienen masa todo tiene masa entonces quiere decir que va a existir una aceleración
+1:49
+Entonces esto ya no es equilibrio porque ya va a existir movimiento acuérdense que si hay aceleración hay velocidad y
+1:56
+si hay velocidad hay desplazamiento entonces buc que algo forzoso forzoso
+2:01
+para que haya Equilibrio es que su la sumatoria de las fuerzas sea igual a cero la fuerza rante sea igual a cer0 y
+2:07
+bueno dividiéndolo en sus componentes que los tres x y y z sean igual a cero el equilibrio estático es cuando está en
+2:15
+reposo quiere decir cuando está en reposo quiere decir que su velocidad es
+2:21
+igual a cer0 cuando está en
+2:27
+reposo el equilibrio cinético esto casi no se ve tanto por en la
+2:33
+tierra porque hay muchas fuerzas de fricción el equilibrio cinético chavos es cuando este la velocidad es constante
+2:42
+O sea no es cero pero tampoco cambia es cuando el equilibrio es cinético también igual pasa tiene como dice su nombre
+2:49
+equilibrio tiene que hacer que sus fuerzas sean igual a cero nada más que esta tenía una velocidad previa entonces
+2:55
+por eso es equilibrio cinético por ejemplo eso pasa cuando ustedes están están manejando o sus papás este y el
+3:03
+carro va a la velocidad constante eso haí que eso pasa debido a que la fuerza
+3:09
+de fricción bueno ustedes tienen su carro Dj ver aquí mismo ustedes tienen su carro está
+3:23
+manejando y la Ah sí que todo es este
+3:28
+puede estar en equilibrio cinético por ejemplo el carro siempre va a tener un peso no est es la fuerza hacia abajo es
+3:34
+W y pues para que no se mueva bueno hacia arriba y hacia abajo existe el
+3:40
+suelo le está ejerciendo una fuerza normal a través de las llantas y también
+3:46
+el carro el motor no a poner color rojo este el motor vo a ponerle así la fuerza
+3:54
+del motor este está para que avance hacia adelante sin embargo siempre va a
+3:59
+existir acuérdense una fuerza de fricción y la fuerza de fricción bueno
+4:06
+en este caso porque es cinética porque está moviendo para que existe el equilibrio cinético pues todas se
+4:12
+tendrían que hacer cero no lo que dijimos acuérdense que dijimos que la sumatoria de las fuerzas en x tiene que
+4:19
+ser igual a cer0 sumatoria de las fuerzas en y tiene que ser igual a cer0 lo que en Y tenemos la normal que apunta
+4:26
+hacia arriba y el peso que apunta hacia abajo
+4:32
+y esto tiene que ser igual a cer0 no este en la fuerz y sumatoria de las
+4:38
+fuerzas y es esto la sumatoria de las fuerzas en x Pues sería igual a la acuérdense por
+4:47
+convención dijimos que a la derecha es positivo entonces la fuerza del
+4:52
+motor va a ser positiva y la fuerza de fricción por convención dijimos que a la
+5:00
+izquierda era acuérdense algo importante Bueno vamos a ver un poco de la fuerza de
+5:06
+fricción que lo haya puesto acá Bueno no Okay la fuerza de
+5:15
+fricción siempre siempre es se opone al
+5:26
+movimiento Qué quiere decir chavos que una fuerza de fricción si nosotros
+5:33
+vamos si nosotros ejercemos una fuerza hacia arriba y hay superficie Bueno ahorita vamos a ver qué signica eso la
+5:40
+fuerza de fricción va a ser hacia abajo y la fuerza de nosotros es hacia arriba de igual manera de todos los lados No si
+5:47
+nosotros estamos moviéndonos hacia la izquierda la fuerza de nosotros no este es hacia la izquierda entonces la fuerza
+5:53
+de fricción siempre va a ser contraria al
+6:01
+movimiento o al intento del movimiento o sea porque acuérdense que existe la
+6:08
+fuerza Existen dos no la fuerza estática de
+6:18
+fricción por eso es s significa static no en inglés y la fuerza cinética de
+6:28
+fricción Okay chavos Pues bien
+6:39
+este justamente la fuerza estática de fricción este es una fuerza que impide
+6:45
+el movimiento O sea tú tienes que superar esa fuerza para que el objeto se empiece a mover O sea es como cuando
+6:52
+algo está un carro está estacionado por ejemplo y al principio cuesta más moverlo una vez que ya se está moviendo
+6:59
+es más fácil es porque el coeficiente de fricción la fuerza de fricción cinética
+7:05
+es menor que la estática siempre la fuerza estática es mayor o igual a la
+7:11
+fuerza de fricción cinética por casi siempre es mayor pero este esto es muy
+7:20
+importante y también Bueno lo interesante de la fuerza de fricción
+7:28
+estática Hay una que es FC Max que es la fuerza máxima estática
+7:38
+es la fuerza estática de
+7:44
+fricción la fuerza de fricción estática puede variar de cer0 hasta su
+7:51
+límite su límite se calcula O sea la fuerza máxima es la que nos dan Bueno
+7:58
+nos dan van a dar coeficiente por ejemplo F de s es igual a mi S mi ahita
+8:04
+vemos significa por la fuerza normal la vamos a ver qué significa este mi S
+8:14
+significa el coeficiente de fricción
+8:22
+estática Okay muy bien y la n que es chavos la fuerza
+8:32
+que qué dijimos que era la fuerza normal chavos no se
+8:44
+acuerdan alguien o no sé que se acuerden queé significa la fuerza
+8:53
+normal no es la fuerza que ejerce el
+8:58
+suelo
+9:03
+para
+9:10
+contrarrestar las fuerzas aplicadas en
+9:18
+y por ejemplo esto es muy importante porque no nada más es con el peso no y
+9:23
+vamos a ver por ejemplo ahorita un ejemplo de la fuerza normal vamos a ver por ejemplo que la
+9:30
+fuerza normal vas a ver varios
+9:36
+casos se puede aumentar o disminuir dependiendo del C por ejemplo tenemos un
+9:42
+bloque así no se ya pónganle que el caso uno si
+9:47
+quieren llamarlo así cu lo ponemos el caso uno un bloque no más existiendo así no O
+9:56
+nada más que tenga movimiento pero en x lo que sea nada no no se le aplica
+10:01
+ninguna otra fuerza en y Okay su este bloque tiene una masa
+10:07
+verdad vamos a ponerle 10 kg este bloque tiene una masa y
+10:13
+acuérdense por la fuerza de gravedad no acuérdense que el planeta tierra nos atrae a todos y a todos los objetos
+10:20
+hacia él con una aceleración
+10:26
+de 9.81 m un al cuadrado
+10:31
+no y hay que acordarnos que qué nos dice
+10:36
+la segunda ley de
+10:43
+Newton La Segunda ley chavos
+10:52
+alguien Cuál es la fómula muy bien Alex Muy bien gracias masa por
+10:58
+aceleración perfecto hay que acordarnos que masa por aceleración entonces pues si nuestra
+11:05
+masa o sea del peso lo podemos cambiar no el peso es una fuerza acuérdense que siempre apunta hacia abajo siempre
+11:10
+apunta hacia el centro de la tierra es igual a la masa y nuestra aceleración en este caso la g no O sea para calcular el
+11:18
+peso Esta es la fórmula no esta es la fórmula de calcular cualquier peso no el
+11:23
+peso y bueno en este caso por ejemplo serían 10 kg por la aceleración de la
+11:30
+gravedad que dijimos que era 9.81 m sobre segundo al cuadrado este bueno el
+11:36
+punto es que la este tendría un peso verdad que apunta hacia abajo que en este caso
+11:43
+sería 10 por 9.81 sería 98.1 newtons acuérdense que la unidad de
+11:50
+la fuerza es Newton y este acuérdense que dijimos el
+11:55
+principio de que si algo está en equilibrio qui que no se está moviendo este bloque está má que moviéndose solo
+12:03
+sobre el eje x pero no sobre el eje y Qué quiere decir que al menos la
+12:09
+sumatoria de las fuerzas en y tiene que ser igual a cer0 y cómo se loga esto si
+12:15
+tenemos una fuerza de 98.1 New hacia abajo pues entonces debe de existir una
+12:21
+fuerza hacia arriba que la contrarreste este bueno esta porque está
+12:26
+hacia abajo sería negativa no acuérdense por que hacia abajo el eje y es negativo
+12:31
+entonces debe de existir una fuerza que la equivale que en este caso es la normal qué es lo que vimos Por
+12:40
+ejemplo si se acuerdan del el video que les puse de los juegos del calamar cuando ustedes por ejemplo ese no de que
+12:47
+si el suelo no aguanta la O sea si el suelo no puede ejercer la fuerza normal que necesita entonces pues este se rompe
+12:53
+verdad y la gente cae exactamente es porque no corta el peso no puede generar
+13:00
+una fuerza normal que la contrarreste el peso Entonces se queva y empiezas a caer
+13:06
+no porque ahí la fuerza del peso ganó no existió una fuerza normal que se fuera
+13:12
+lo suficientemente grande ese es el caso uno por ejemplo pero también la fuerza
+13:18
+normal no siempre es igual al peso o sea por ejemplo puede ser que
+13:27
+aquí
+13:33
+vo puede ser que también una persona al querer empujar esta cosa
+13:41
+no al empujarla les est ejerciendo una fuerza por
+13:47
+ejemplo así en diagonal V a ponerla que
+13:53
+sea 30 gr okay si esta persona le está le está
+14:00
+como apachurrando un poco contra el suelo entonces la fuerza normal va a ser
+14:09
+mayor por ejemplo o sea va a ser Obviamente el peso sigue siendo el vamos
+14:15
+a decir que es el mismo bloque de 10 kg pero ahora las fuerzas hacia abajo no
+14:23
+de lo que dijimos va a ser el peso más la fuerza que este est ubicando en y
+14:30
+bueno va a ser negativa o sea las dos van a apuntar hacia abajo porque ahí se ve Vamos a ponerle F de la persona en
+14:39
+y fuerza de la persona en y y esto se
+14:44
+tiene si no se está moviendo hacia abajo se tiene que contrarrestar con la normal verdad
+14:50
+Entonces por ejemplo el peso ya dijimos que valía
+14:57
+98.1 98.1 de la vez pasada acuérdense así que
+15:02
+de aquí ya lo habíamos dicho de aquí de la Fórmula verdad Okay entonces así es
+15:11
+como muy bien este Así es como funcionaría y la fuerza este de la
+15:19
+persona en y vamos a ponerle que le está aplicando 20 New la Normal o sea la primera 20 New para sacar la componente
+15:27
+y teníamos que aplicarle el seno verdad seno de 30 no bueno como es hacia abajo
+15:35
+menos no menos seno de 30 por este 20 New y creo que el seno de 30 es pun 5 no
+15:45
+6.5 * 20 - 10 okay sería -10 New
+15:51
+entonces aquí son -10 New no más la fuerza normal que está les digo se para
+15:59
+que la superficie bueno para que no se mueva en y la fuerza normal se adapta la
+16:04
+fuerza normal entonces adaptaría lo que valgan estas vamos a sacar cuánto sale la normal pues despejamos la normal
+16:11
+verdad estos dos tanto el peso como la fuerza de la
+16:16
+persona en y pues van a pasar del otro lado estos están restando pasan sumando verdad y aquí podemos - 98.1 - 10 -
+16:25
+108.1 y el - 108.1 pasa del otro lados sumando ent sería
+16:33
+108.1 punto newtons No este es el caso en el que la fuerza normal se aumentó
+16:39
+porque le aplicamos una fuerza mayorcita no Este es un caso este este es con el
+16:45
+puro peso El otro es porque ejercimos una fuerza hacia abajo Pero puede ser al revés si nosotros jalamos el este este
+16:53
+puede ser que la fuerza normal se disminuya y también por ejemplo otro caso AC vamos a ver pero es cuando está
+16:59
+el plano inclinado Cuando tenemos un plano inclinado chavos y tenemos un
+17:05
+bloque no la el peso el centro de la Tierra así
+17:11
+que sigue estando acá abajo aquí por ejemplo no el centro de la tierra está aquí entonces el peso sigue siendo hacia
+17:19
+abajo pero sin embargo en física lo que se hace Es un truco que se dice que es
+17:24
+rotar el eje Los ejes No porque si no este Más Fuerzas estarían fuera de Los
+17:29
+ejes yo se puede hacer de manera normal o sea ustedes podrían seguir teniendo el
+17:35
+el mismo eje pero muchas veces en sus libros de física van a ver que se rotan
+17:41
+los ejes y que por ejemplo Entonces ahora Los ejes en vez de ser como siempre los conocemos que es
+17:49
+así los vamos a bien Es como si vamos copiar y pegar
+17:55
+copiar pegar bien es como si los
+18:26
+girán x o sea eso en x y su componente en y verdad que va a ser componente en y
+18:33
+wy Okay muy bien este Así es como se hace por lo general
+18:41
+en estos tipos de problemas aquí es donde mucha gente se confunde porque nos van a dar por lo
+18:48
+general solo el ángulo de la pendiente del de la Colina o no lo que sea este
+18:53
+nos van a dar por ejemplo 40 gr aquí okay chavos si nos dan esto ustedes
+19:01
+tienen de dos o pueden calcular pueden cambiar lo que siempre hemos dicho
+19:07
+acuérdense que dijimos por lo general no siempre acuérdense que por eso les dije que era analizarlo casi siempre hemos
+19:14
+dicho que el componente y y el componente x normalmente
+19:19
+es el seno verdad del ángulo por la magnitud del vector y el coseno del
+19:27
+ángulo por la magnitud pero en el plano inclinado Esto es lo normal
+19:34
+No pero en el plano inclinado ustedes tienen de dos o Usan
+19:42
+el normal pero ahorita les digo cómo o el plano inclinado con el plano inclinado chavos
+19:49
+si usan este ángulo de 40 entonces tendrían que invertirlo este vy va a ser igual al
+19:58
+seno del ángulo del plano inclinado plano
+20:06
+inclinado por qué ahorita vemos el Por qué acuérdense que es realmente el seno
+20:12
+y el coseno no es que estén casados con el eje y o el eje x era porque acuérdense que según nuestro eje de
+20:18
+referencia era el cateto opuesto y el adyacente Okay muy bien Ahorita vamos a
+20:23
+ver por qué inclinado
+20:29
+sea se cambiarían ustedes tienen pueden usar el cambiado para determinar las
+20:36
+componentes o también existe pues que le reste no
+20:42
+este este ángulo por ejemplo no vamos a ver el triangulito este acuérdense qué
+20:50
+dijimos de los triángulos Cuál es la suma de todos sus
+20:56
+lados la suma de perdón de todos los ángulos la suma de los ángulos de un triángulo Cuánto tiene que ser igual a
+21:04
+180 muy bien 180 gr perfecto y acuérdense que esto es un triángulo
+21:10
+rectángulo entonces a fuerza este ángulo es 90 entonces lo que nos queda entre estos
+21:16
+dos debe de ser 90 verdad entonces lo que pueden hacer es que el ángulo del plano Bueno 9 gr menos el ángulo del
+21:24
+plano inquinado verdad Pues nos va a dar el ángulo que podemos
+21:31
+usar en estas fórmulas normales verdad nada más es calcular el otro ángulo y ya
+21:36
+ahí podemos volvernos a lo normal digo ustedes tienen cualquiera de las dos opciones ahí en los libros de física
+21:42
+manejan las dos así que por ejemplo en es de90 para usar los ángulos normales
+21:50
+lo voy a poner normal que no debe de ser así para el ángulo con las operaciones normales no Entonces sería 90 men 40 nos
+21:59
+daría 50 gr si ustedes le ponen 50 gr a la a los componentes en la forma normal
+22:07
+pues les seguiría dando la misma respuesta si quieren usar el ángulo que
+22:13
+les dan el peano inquinado pues se invierte Okay
+22:21
+chavos por qué porque porque por lo general no s que si se acuerdan nosotros para para calcular
+22:28
+las cosas vamos a regresar al normal Bueno al este sin rotar No qué ángulos nos
+22:34
+dan nos dan el ángulo que está pegado verdad al eje sin embargo al darnos el
+22:41
+otro ángulo nos están dando este y si nos damos cuenta que vamos a u
+22:47
+es que cuando yo lo puedo girar este déjen ver cómo lo podía girar Bueno voy
+22:53
+a copiarlo y voy a girarlo vamos
+23:02
+abajo Okay muy bien
+23:08
+este así sí lo vemos así este este ángulo no que es el que nos dan del
+23:17
+plano inclinado este ángulo es el que nos dan
+23:23
+del plano inclinado Entonces nosotros tenemos que sacar este no para poderlo usar
+23:29
+por si no este ángulo a ver chavos de este ángulo tu cateto
+23:41
+adyacente de este ángulo Bueno mejor era con
+23:47
+este est mal okay de este chavos Cuál es su cateto
+23:54
+adyacente el componente y verdad este ángulo su adyacente que es su lado que
+24:01
+está aquí este lado está en en el
+24:07
+eje y verdad entonces por eso se invierten en el plano inquinado porque
+24:12
+como nos dan el otro ángulo y no el ángulo que estamos acostumbrados verdad para este ángulo vamos a llamarle este
+24:18
+ángulo a y buen este ángulo a y este el ángulo B para el ángulo B chavos el
+24:26
+adyacente del B no es el componente y y acuérdense
+24:35
+que dijimos que el coseno del ángulo es igual al adyacente entre la hipotenusa
+24:41
+no Entonces en este caso el adyacente no es el X como siempre lo hemos hecho el
+24:47
+adyacente es el y es por eso que se cambia digo si quieran la explicación es esa y obviamente el opuesto del B
+24:54
+opuesto del B el opuesto de este ángulo es este que
+25:00
+en este caso es el eje x verdad y acuérdense que dijimos que el seno del
+25:05
+ángulo es igual al opuesto entre la hipotenusa Entonces en este caso el
+25:12
+opuesto es el X Okay chavos ustedes lo pueden hacer con cualquiera de las dos maneras como ustedes prefieran este nada
+25:18
+más acuérdense Eso es lo importante este no pueden combinarlo O sea si van a usar
+25:23
+uno usan uno todo el ejercicio si van a usar el otro todo el ejercicio pero no
+25:28
+pueden estar cambiándose a la mitad es lo importante Okay lo va a poner dees
+25:34
+colores para que vean que este es un método y este es el
+25:46
+otro en los dos es pues acordándonos de las propiedades trigonométricas por eso lo vimos tanto
+25:53
+no Okay muy bien Pues bueno vamos a a seguirle un poco para que nos dé tiempo
+26:00
+este pues bueno hay que recordar lo que estamos diciendo la fuerza de fricción verdad del equilibrio estático y
+26:07
+cinético de la Segunda ley de Newton también por qué Porque Bueno vamos a ver que hay ejercicios en el cual nos piden
+26:14
+todo al mismo tiempo este que vamos a tener un plano inclinado como este no
+26:20
+por ejemplo este tiene lo que es B que el plano
+26:25
+inclinado y por lo bien no nos dan el ángulo que queremos nos dan este el
+26:31
+contrario no Ok también por ejemplo este tiene este si es equilibrio cinético qui
+26:40
+dec que su sumatoria de las fuerzas va a ser igual a
+26:45
+qu la sumat su fuerzas que va a ser igual chos si está en equilibrio
+26:51
+cinético cero verdad muy bien lo que quiere decir ahorita como estamos analizando en X y Y que la sumatoria de
+26:58
+las fuerzas en x va a ser igual a cer y la sumatoria de las fuerzas a y va a ser igual a 0 Okay entonces hay que recordar
+27:04
+que cuando estamos analizando en dos dimensiones pues entonces las dos y bueno acuérdense que como están
+27:11
+conectados deberían de tener bueno en este caso porque no se está moviendo pero si se estuviera moviendo Bueno o
+27:17
+sea sí se está moviendo pero con velocidad constante porque es equilibrio cinético si tuviera una aceleración
+27:23
+tendríamos que ponerlo en vez de esto sería la suma Este es el caso uno lo voy a poner así
+27:30
+como el caso de equilibrio cinético mir equilibrio
+27:37
+cinético Pero bueno cre ponerlo nota aquí vamos a tacharlo
+27:43
+en vez de equilibrio en vez de equilibrio
+27:53
+cinético digamos que no estv equilib cético que Este fuera un problema de la
+27:59
+Segunda ley de Newton Segunda ley de
+28:05
+Newton imagínense el mismo sistema pero en este caso es de la Segunda ley de
+28:15
+Newton Okay si es en la segunda ley de Newton La única diferencia que hay con
+28:21
+los problemas de estático no este de equilibrio Perdón es que si hay una
+28:27
+fuerza resultante la fuerza
+28:33
+resultante la fuerza resultante o la sumatoria de fuerzas no la fuerza resultante tiene que ser diferente a
+28:39
+cer0 la sumatoria de las fuerzas es diferente a cer0 y la sumatoria de las fuerzas también quiere decir que va a
+28:47
+haber una masa por una aceleración y si estamos hablando de dos dimensiones entonces quiere decir que va a ser una
+28:54
+fuerza en va a haber una fuerza en x
+29:00
+no es miren esto lo les voy a decir no es forzoso o puede ser que hay en uno o que
+29:08
+hay en las dos aceleración O sea no es forzoso que haya sea los tres casos no
+29:15
+puede ser que sea o uno o este bueno o que este tenga check y este esté mal o
+29:23
+puede ser al revés o sea puede ser que los dos se estén moviendo en ambas o al revés no que este se esté moviendo y
+29:30
+este este pero ya es Segunda ley de Newton con que existe una aceleración ya sea en
+29:35
+x o sea en y o sea puede ser cualquiera de los tres casos no que lo voy a poner
+29:41
+como una tabla este Okay aceleración en x aceleración en y o
+29:50
+sea los tres casos no es que existe igual a cer o sea aquí puede ser
+29:58
+que pase cualquiera de los tres casos no O sea
+30:03
+este lo que les dije no sí que este sea cero no bueno los
+30:11
+tres casos más bien si si s es una pra de la Segunda ley de Newton puede ser
+30:16
+cualquiera de estos tres casos aquí sea cero o que pueda existir
+30:23
+ambas No ya la segunda ley newon exista una aceleración y lo que nos quiere decir es
+30:30
+eso en vez de que sea igual a cero va a ser igual a una fuerza resultante y las
+30:36
+fuerzas acuérdense cualquier fuerza se puede descomponer en la segunda ley de Newton que es igual a masa por
+30:43
+aceleración OK Vamos a ver un poco más de problemas de esto vamos a ver qué más
+30:49
+falta este por ejemplo es un problema en el que se estaría moviendo algo aquí
+30:55
+adelantarnos un poco pero aquí por ejemplo algo que es muy importante antes de empezar estos problemas es saber
+31:01
+dibujar el diagrama de cuerpo libre lo que quiere decir que sepamos cada objeto así que por cada
+31:07
+objeto se tiene que dibujar en el
+31:16
+sistema un diagrama de
+31:24
+cuerpo libre aquí hay dos cuerpos o dos
+31:31
+objetos Cuántos de agama se tiene que
+31:39
+dibujar dos verdad tenemos que dibujar dos cada objeto el objeto uno por
+31:45
+ejemplo y el objeto dos vamos a dibujarle sus diagramas chavos a ver
+31:53
+este primero acuérdense que siempre dijimos que si hay masa es es porque hay un peso y acuérdense que siempre dijimos
+32:00
+que apunta hacia abajo entonces esa es la primera fuerza que veo así rápido peso acuérdense que dijimos que para que
+32:08
+este objeto no se estuviera moviendo en y que no se está moviendo en y este debe de existir una fuerza normal
+32:15
+acuérdense que existe una fuerza normal verdad la cual la fuerza normal dijimos
+32:21
+también como es ejercida por el suelo es perpendicular
+32:27
+al suelo acu Bueno si no pusimos aquí déjen lo pongo fuerza normal siempre es
+32:37
+perpendicular al suelo Okay Alguien sabe qué significa
+32:50
+perpendicular alguien chavos que su sentido es o sea 90 gr
+33:00
+este o sea tiene 90 gr de diferencia o sea V como ahí en la línea que acabas de
+33:07
+dibujar sería una vertical exactamente Alex muy bien perfectamente en esta
+33:13
+línea como es horizontal su normal sería perpendicular que sería 90 gr y sería
+33:19
+vertical verdad Okay muy bien Exactamente eso es perpendicular que
+33:26
+sobre una la línea o el plano que estamos que este tenga 90 gr
+33:31
+este con respecto a la línea no obviamente que bueno en este caso porque es recta pero por ejemplo vamos a copiar
+33:38
+y pegarla vamos a ponerla aquí o sea si
+33:43
+esta la rotamos por ejemplo como el plano inclinado no pues la O sea tiene
+33:50
+que ser perpendicular Lo importante es que tiene que ser de 90 gr verdad si el plano lo rotamos Pues bueno también la
+33:56
+la fuerza normal se rota no este porque tiene que ser 90 gr perpendicular al o
+34:02
+sea es perpendicular al suelo muy bien o sea eso le iba para
+34:08
+decir esta fuerza normal no del objeto uno fuerza normal del objeto uno
+34:16
+okay Aquí también veo rápido que hay una fuerza
+34:21
+ejercida por la cuerda que está tensión verdad acuérdense que las cuerdas lo que
+34:28
+hacen es tener una fuerza de tensión no dan compresión y la tensión No pues la
+34:34
+cuerda es como la están jalando imagínense como si estuviera aquí una persona no que no es una persona es la
+34:39
+polea per esta persona está jalando hacia acá esta y bueno esta otra la está
+34:44
+jalando hacia el otro lado no Okay entonces aquí existe una fuerza de
+34:50
+tensión verdad lo que sí tenemos que saber Es que la fuerza de tensión es la misma en ambos lados o sea como es una
+34:56
+misma cuerda no esta está tiene la misma tensión eso bueno es hay que acordarlo
+35:03
+porque lo vamos a ver vamos a seguir con el objeto uno y por ejemplo les pueden
+35:08
+poner que hay una fuerza de fricción que hay un coeficiente de fricción verdad sería cinético porque ya se está
+35:14
+moviendo no lo que sea y acuérdense que qué dijimos de la fuerza de fricción Hacia dónde apuntaría chavos la fuerza
+35:20
+de fricción en el caso del objeto uno de 2 kg en caso de este Hacia dónde
+35:27
+apuntaría la fuerza de
+35:41
+ficción pues tendríamos que esperarnos esa una pregunta de trampa Por qué
+35:46
+tendríamos que ver Hacia dónde se está intentando mover el objeto porque por ejemplo Aquí esta W va a tener una wx no
+35:55
+y este wx es es el que va a intentar hacer que el objeto se mueva hacia la izquierda esta tensión va a ser que se
+36:02
+mueva hacia la derecha la que gane de estas dos por ejemplo si la tensión es
+36:07
+mayor Entonces el objeto se va a tratar de mover hacia acá entonces la fuerza de fricción tendría que ser
+36:14
+contraria verdad Pero si es al revés chavos si la
+36:19
+fuerza del peso es mayor no entonces la fuerza de fricción sería cont
+36:27
+Entonces en este caso lo primero que se hace se hace el análisis sin fuerza de fricción y ya la fuerza de fricción la
+36:34
+metemos al final Okay o sea porque tenemos que saber
+36:39
+Hacia dónde va la resultante sin fricción para saber Hacia dónde afectaría la fuerza de fricción Okay muy
+36:47
+bien Por lo Entonces por lo mientras vamos bien o sea sabemos que hay una fuerza de fricción pero todavía no sabemos haa qué lado apunta y sería lo
+36:54
+mismo en el otro objeto en el en el otro objeto no igual tenemos el
+37:00
+peso a ponerlo vo a dejarlo así Este es el peso dos no el peso del objeto dos
+37:06
+peso del objeto okay Y qué más chavos Pues igual
+37:14
+no tenemos la tensión ya la había puesto que tiene que ser igual que esta de la
+37:19
+misma magnitud okay Porque es la misma cuerda okay Y también tiene una fuerza
+37:28
+normal la normal del objeto dos okay al final de todo esto vamos a
+37:38
+hacer acuérdense que dijimos que para los pras de la Segunda ley de Newton quiere decir que la fuerza es igual a
+37:43
+masa por aceleración la cual se divide fense como es dos dimensiones fuerza de X es igual a masa por aceleración en x
+37:51
+sumator de las fuerzas en y es ig aeración en y que puede ser que acuérdense que una
+37:59
+de las dos sea cero o que las dos sean diferentes a cero vamos a ver lo más prob es que miren en el eje y ni esta
+38:08
+cosa Ni esta cosa ni estos dos objetos ninguno de los dos está moviendo en y o sea ninguno de los dos está volando o
+38:15
+flotando entonces Bueno ya de ahorita podemos saber que este tiene que ser igual a cer0 Y esto no más de verlo no
+38:22
+porque sabemos que este esta masa no está volando no es como si
+38:28
+vemos son así o se está moviendo para acá o se está moviendo para acá pero si se fijan solo se está moviendo en el
+38:34
+horizontal no se está moviendo en vertical ni está cayendo ni se está yendo para arriba lo mismo esta se está
+38:41
+moviendo solo en la horizontal no en la vertical entonces Bueno ya de ahorita
+38:47
+para este problema podríamos adelantarnos que esto es la sumatoria de las fuerzas en y tiene que ser igual
+38:53
+a o sea esto no más de verlo acuérdense que también mucho de física Es la intuición y lo que han visto en la vida
+38:59
+real o sea ustedes no ven que cuando dos objetos están así Ah como Estaría bueno que tajer algo así pero este si ustedes
+39:07
+ponen por ejemplo dos libros o un plano inclinado así con sus brazos y ustedes pusieran una cuerda y dos objetos se van
+39:13
+a mover En las horizontales no es como que el objeto esté flotando o cayéndose
+39:18
+Entonces ustedes ahí ya saben por lo que han vivido no que el objeto no va a estar volando ni se va a estar cayendo
+39:25
+entonces va a estar viendo en el eje x entonces sabemos que la única aceleración que va a existir diferente a
+39:31
+cero no es la x Okay para hacer eso pues
+39:38
+tendríamos que determinar y bueno algo importante es que como están Unidos a la
+39:43
+misma cuerda Qué quiere decir que la aceleración en x del objeto un con la
+39:50
+aceleración del x el objeto 2 tien que ser iguales verdad tienen que ser
+39:57
+iguales porque están unidos por una cuerda son lo que se le conoce como el
+40:02
+mismo sistema Dinámico verdad eso yo lo digo por ejemplo si
+40:08
+ustedes estuvieran con un compañero o lo que sea si ustedes agarran los brazos con otro compañero si el compañero se
+40:15
+mueve a la izquierda pues ustedes también se mueven a la izquierda mueven a la derecha igual at trazo adelante y
+40:20
+se mueven con la misma velocidad verdad es como si estuvieran agarrado de la mano de alguien si ustedes van o sea van
+40:27
+corriendo Pues técnicamente a lo mejor ustedes jalan al otro pero el punto es que ustedes como un o sea se están
+40:33
+moviendo a la misma velocidad ya sea que uno empuje al otro pero al final de cuentas si tú ignoras las fuerzas y nada
+40:39
+más ves el movimiento ambos objetos se están moviendo a la misma velocidad verdad eso
+40:46
+es lo que pasa aquí igual Qué quiere decir que van a tener la misma aceleración Okay muy bien chavos Pues
+40:55
+así es como se hacen los A lo mejor luego vemos un poco de problemas yo creo que la siguiente que hace vamos a ver
+41:01
+problemas ahorita vamos a avanzarle para ir viendo más temas y ya la siguiente que ha hacemos problemas de todos estos
+41:08
+No se preocupen Y bueno ya saben más al rato está el rec que es los ejercicio de la semana pasada no de hoy ya lo de hoy
+41:15
+lo veremos lo rec lo veremos hasta la otra semana pero okay Bueno hay que
+41:20
+seguirlo un poco con el trabajo mecánico Okay se pone como work la
+41:27
+fórmula es fuerza por distancia okay Bueno vamos a ver en
+41:33
+universidad que esto en un ahorita está tranquilo o sea podemos nada más multiplicar literalmente Aunque la
+41:40
+fórmula Esta es el producto punto el producto punto que lo vamos a ver yo
+41:46
+creo que la esta semana al final o o la próxima que ya vemos todos los de universidad esta semana vamos a empezar
+41:52
+con eso creo que el viernes pero el producto punto No es vamos a adelantarnos un poco y vamos
+41:59
+a verlo el producto punto es un producto vectorial así se le llama un producto entre
+42:07
+vectores porque realmente se le llama producto escalar se le llama producto escalar
+42:13
+porque creo que está conj
+42:19
+ver no s si ustedes estén
+42:25
+viendo
+42:33
+den un segundo creo que no Se está actualizando den un segundo no Se está
+42:41
+actualizando como yo
+42:51
+quiero volver a compartir
+43:12
+no sé si ustedes ya estén viéndolo creo que tod no Ah ya okay muy bien
+43:22
+este volver a aplicarle el producto punto chavos es
+43:29
+curioso porque el producto punto se realiza entre dos
+43:40
+vectores y nos da y el resultado es un
+43:51
+escalar por ejemplo bien A lo mejor vamos a ver un poquito vamos a adelantarnos un poco el producto punto
+43:58
+Okay por ejemplo miren un vector en tres
+44:04
+dimensiones vamos a poner el vector a vamos a poner nuos componentes
+44:11
+3x + 2 y + 5 vamos a ponerlo negativo
+44:18
+nega - 5 J vector B va a ser igual a
+44:27
+8x + 4y vamos a ponerlo eso como más 2 J Okay
+44:38
+el producto punto entre el vector a y el vector
+44:44
+B Se da cuando multiplicamos cada
+44:49
+componente x con x y con y y jas con j y
+44:56
+al final sumamos todo vamos a ver qué significa 3 * 8 + 2 *
+45:04
+4 + -5 * 2 Okay entonces bueno 3 * 8 16
+45:15
+24 + 2 * 4 8 verdad + -10 Qué nos
+45:23
+daría cu 22 22 no y nos da un
+45:30
+escalar acuérdense que un escalar es un número o solo es un
+45:36
+número Okay Ese es el producto punto también vamos a ver que otra definición
+45:42
+del producto punto es más chico para que nos
+45:52
+quepa okay Que también es igual a coseno del
+46:00
+ángulo un
+46:07
+po lo voy a poner mejor acá abajo también el producto punto del vector a
+46:13
+por el vector B Es sacá bueno es el la magnitud del vector
+46:19
+a por la magnitud del vector B por el coseno
+46:26
+del ángulo luego vamos a ver qué significa el ángulo entre ellos dos entre a y
+46:34
+b el ángulo que hay entre estos dos vectores ent a y b o sea por ejemplo si
+46:43
+ustedes tienen viéndolo visualmente el producto punto de dos vectores
+46:49
+no este es el vector a y este es el vector B Pues el ángulo a B es el ángulo que
+46:57
+hay entre ellos dos verdad Okay muy bien eso luego lo vamos a ver un poco más en
+47:02
+lo de universidad pero est es lo que es el producto
+47:08
+punto que también esa es una forma de sacarlo la otra forma es como aquí les
+47:13
+mostré y tiene los componentes de los
+47:19
+vectores cualquiera de las dos nos dan el producto punto esto es útil porque
+47:24
+luego existe Bueno una fórmula para poder determinar exactamente el ángulo
+47:30
+entre vectores cuando está en tres dimensiones
+47:36
+sobre todo F que esto se puede aplicar en dos
+47:41
+dimensiones en tres dimensiones que les dije que la física de universidad la única gran diferencia que tiene es que
+47:47
+usan cálculo y que se hace en tres dimensiones pero básicamente volv a ver los mismos temas casi a lo mejor un
+47:56
+20% diferente a lo mucho este pero el 80% son cosas que en teoría son de
+48:03
+preparatoria nada más que este con cálculo verdad y en tres dimensiones la
+48:08
+única gran diferencia entonces Bueno lo que les decía el producto punto
+48:17
+el Cómo se llama el trabajo es igual a la producto punto de dos vectores que es
+48:24
+la fuerza y el lazamiento no que aquí como se ve en en la imagen
+48:31
+no básicamente nosotros para calcularlo en prepa como es fácil agarrarías solo la
+48:37
+magnitud de la fuerza que nos la darían por lo general no por la distancia
+48:42
+también nos la dan por el coseno del ángulo ustedes se dan cuenta este es el
+48:47
+ángulo no ahí nos lo dan entonces pues sería tan fácil como hacer fuerza por
+48:53
+distancia por el coseno del ángulo no Ese es el trabajo mecánico el trabajo
+48:59
+mecánico está muy relacionado con la energía lo vamos a ver porque se hasta si saben Cuál es la unidad del trabajo
+49:06
+mecánico alguien la sabe cuál es la unidad de
+49:15
+trabajo alguno chavos What no es J
+49:24
+verdad y bueno adelantándonos wats es para
+49:30
+potencia es potencia luego vamos a ver qu significa la potencia la potencia bueno rápido significa trabajo entre
+49:37
+tiempo o energía entre tiempo porque el trabajo mecánico está muy relacionado con la energía luego vamos a ver qué
+49:43
+significa energía luego como en dos minutos pero este el punto es que el
+49:49
+trabajo mecánico es esto chavos su unidad es el J que el j bien Vamos a
+49:56
+descomponerlo el jle pues es fuerza por distancia Cuál es la unidad de la fuerza
+50:01
+en Newton verdad Cuál es la de la distancia el metro si lo queremos
+50:07
+acuérdense que todas estas son unidades derivadas acuérdense que el Newton lo podemos transformar a masa por aceleración que sería
+50:16
+kilogramos por aceleración que es metros sobre segundo al cuadrado por metro
+50:22
+entonces bueno en unidades fundamentales y logramos metro cuadr eso
+50:28
+nadie lo usa pero nada más para que se recordemos todos no que dijimos que las
+50:34
+únicas las siete unidades fundamentales erán esas y efectivamente todas todas
+50:39
+las demás unidades en física son derivadas o sea son compuestas pues son
+50:44
+compuestas son unidades compuestas de las otras entonces bueno para que se acuerden la unidad del trabajo o de la
+50:51
+energía no trabajo y de la energía de ambos es el
+50:57
+jle que es hacer una fuerza de un Newton que mueva un objeto por 1 m básicamente
+51:06
+lo que tú aplicas una fuerza de 1 Newton y ese objeto se mueve 1 m lo que quiere decir aquí chavos que debe de haber
+51:13
+desplazamiento para que exista trabajo mecánico Qué quiere decir por ejemplo si yo empujo la pared por más fuerza que le
+51:19
+empuje si no se está moviendo su trabajo mecánico es igual a cer0 no Por qué
+51:24
+Porque o sea aquí la fórmula lo dice fuerza por distancia no no el ángulo si
+51:31
+esta distancia es cero acuérdense si multiplicamos todo por cer0 qué quiere decir O sea que el trabajo va a ser cero
+51:37
+verdad O sea que si yo aplico una fuerza y no muevo el objeto no estoy ejerciendo
+51:43
+trabajo mecánico o sea sí estoy aplicando una fuerza pero no estoy moviendo la pared Entonces como no muevo
+51:49
+la pared no estoy ejerciendo ningún trabajo sobre la pared Okay es por
+51:54
+definición eso es muy útil por ejemplo en termodinámica este los motores no no
+52:00
+sé si saben por ejemplo cómo funcionan un poco los motores vamos a ponerlo aquí
+52:05
+Cómo funcionan los motores por ejemplo un motor de combustión interna que tiene la mayoría de los carros del mundo saben
+52:12
+cómo se le llama de cuatro tiempos no tienen un pistón un pistón es como un
+52:20
+cilindro un cilindro y Bueno aquí
+52:26
+tiene un aparatito que avienta combustible con
+52:32
+agua y bueno los automáticos no tienen uno que saca una chispa no
+52:38
+eléctrica esto genera una explosión y el
+52:44
+gas se expande y hace que este objeto el cilindro se
+52:49
+mueva la fuerza que ejerce la explosión por la distancia que que mueve el pistón
+52:57
+es el trabajo mecánico entonces este trabajo mecánico se bueno como le dije
+53:03
+que es equivalente a la energía esta energía mecánica se transfiere a la transmisión no del carro y es el que
+53:10
+hace que mueva las llantas ent Aunque ustedes no lo crean todo esto del trabajo de termodinámica Y eso lo
+53:16
+hacemos todos los días es el principio de cómo funciona los carros de combustión interna es con el trabajo
+53:22
+mecánico que se ejerce cuando existe la explosión les digo la explosión genera una fuerza que es por la presión luego
+53:29
+vamos a ver la fuerza de la presión no Y esta hace que el cilindro se mueve a una distancia Entonces pues ya dijimos no
+53:36
+fuerza por distancia verdad es la que genera el trabajo vamos a ver que esto
+53:42
+se transfiere energía mecánica no Y esta energía pues se mueve no Okay eso bueno
+53:49
+para eso es importante el trabajo por ejemplo una aplicación del día a día es esa los carros este este Okay pues vimos
+53:58
+un poquito el producto punto Lu vamos a ver yo creo que ejercicios la mañana nada más Yo quería avanzarle Bueno ya
+54:03
+para último último la energía existen muchos tipos de energía
+54:09
+en física hasta en química por ejemplo está la energía química exactamente la
+54:14
+energía mecánica bueno cinética la energía este Cómo se le
+54:20
+llama potencial está la energía
+54:26
+térmica está la energía nuclear está la energía
+54:33
+eléctrica etcétera no hay bastantes tipos de energía el punto es que la
+54:38
+energía tiene una cosa que es una propiedad que se dice que creo que lo
+54:44
+hemos visto a lo mejor desde secundaria que dicen que la energía No se
+54:49
+crea ni se destruye solo se transforma que luego
+55:00
+vamos a ver cuando veamos un poquito de termodinámica mucho
+55:05
+este que esto también es conocido como
+55:11
+la primera ley de la
+55:19
+termodinámica esto de que la energía No se crea ni se destruye solo se transforma es es la primera ley de la
+55:25
+termodinámica qué es lo que hacemos o sea nosotros para generar la energía que alimentan nuestras computadoras etcétera
+55:32
+la producimos en Plantas este de energía Pero estas no vienen de
+55:37
+la nada o sea por eso hay límites por eso no podemos tener la energía que queremos cuando queremos porque hay que
+55:43
+producirla verdad realmente producirla solo es cambiarla de forma este por
+55:49
+ejemplo las plantas nucleares las de Carbón o las de cico combinado funcionan
+55:55
+con el mismo principio antes de acabar Es que la forma más fácil que hemos
+56:01
+encontrado los seres humanos para transferir la energía es la energía eléctrica porque para nosotros es muy
+56:07
+fácil convertirla transformarla Noa nosotros desde la energía eléctrica por ejemplo de la energía eléctrica nos es
+56:14
+muy fácil transformarla en todo lo que queremos con algunos aparatos no por ejemplo con un motor eléctrico qué
+56:22
+hacemos transformamos la energía eléctrica en energía cinética
+56:30
+no Okay con resistencias la plancha no
+56:35
+transformamos la energía eléctrica en energía
+56:41
+térmica también con focos verdad la transformamos en energía lumínica
+56:47
+no lo que se les ocurra este o sea la energía eléctrica por eso es muy es la usada Porque además es fácil es la más
+56:55
+fácil de transferir o sea esto es muy es fácil de transmitir y de convertir que
+57:05
+es lo que necesitamos porque o sea De nada nos sirve o sea tenemos que
+57:11
+transmitirla verdad porque las plantas eléctricas están muy lejos de nosotros Por lo general o tienen que distribuir
+57:17
+mucha área entonces por eso se usa la energía eléctrica porque es fácil de
+57:22
+transmitir y y fácil de convertir verdad y las pérdidas la verdad es que son
+57:28
+mínimas en comparación de si las transportamos la energía de otra manera entonces es por eso que la preferida de
+57:35
+todo el mundo es la energía eléctrica Pero bueno chavos yo creo que ya fue todo por hoy este no tengan alguna
+57:41
+pregunta o duda de toos los ejercicios vamos a hacerlo más mañana de estos temas y ya saben el rec pues vamos a
+57:47
+practicar un poco de lo que vimos la semana pasada tengan preguntas dudas
+58:00
+no o sí ninguna si no pues Bueno nos vemos
+58:07
+mañana chavos bueno en si pueden
+58:16
+ad

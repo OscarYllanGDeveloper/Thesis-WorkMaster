@@ -1,0 +1,610 @@
+0:03
+chavos Pues bueno este de todos los temas que hemos visto vamos a practicar
+0:08
+un poco
+0:14
+verdad Okay hemos visto varios [Música]
+0:19
+temas como Qué temas hemos visto chavos a ver
+0:28
+recuérdenme
+0:34
+clases herencia poliformismo es poliformismo
+0:41
+y y ya no recuerdo
+0:46
+[Música] más Dentro de
+0:52
+[Música]
+0:58
+este conciones no este
+1:04
+condicionales Okay tamb hemos
+1:12
+visto bien condicionales métodos objeto por este qué
+1:22
+más etcétera inputs outputs Okay muy
+1:28
+bien hemos visto diferentes tipos de datos no son
+1:36
+listas hemos visto dicionarios no y
+1:43
+hemos visto este qué
+1:58
+más
+2:04
+ve Okay
+2:12
+[Música]
+2:25
+objetos Okay bien pues podemos practicar
+2:31
+objetos con
+2:43
+este una que de una calculadora
+2:49
+que pida dos
+2:56
+atributos lo p atributos
+3:05
+este y que tenga los métodos bueno
+3:12
+que sumar
+3:21
+restar y dividir dos números no
+3:32
+Okay y
+3:38
+bueno que crear dos
+3:44
+objetos dos instancias que sean la
+3:50
+calculadora uno y
+3:55
+calculadora dos
+4:17
+Okay
+4:24
+chavos intenten hacerlo chavos les doy 6 minutos bueno siete 7 minutos
+4:42
+ch muy bien Sí pues sí está está bien perfecto
+4:50
+gracias No sé si alguien más también lo pudo
+4:58
+hacer No ahorita no lo he podido hacer me puede dar un minuto ya
+5:08
+casi voye compartir otra vez el el el enunciado el statement de la
+5:28
+ejercicio
+6:10
+profe puedo compartir está
+6:22
+bien okay Ya pueden ver mi pantalla es que cuando lo corro sale
+6:29
+como t One position argument given entonces tengo que
+6:36
+definir aquí arriba también el num 1 y el num 2 Sí o sea entonces siempre que
+6:42
+hagamos algo adentro digamos lo que las variables pues técnicamente estas
+6:48
+también son variables de iteración no no variables de iteración Qué es una
+6:54
+iteración algo que ver tomando el lugar de O sea que es como que guarda lugar
+7:00
+Qué es iterar estar como cambiando en un ciclo
+7:05
+estar en un ciclo no cada iteración es un ciclo Entonces no no o sea las
+7:12
+variables de iteración solo existen entre el for y el in cuando tú pones un for Loop no la palabra que esté entre el
+7:19
+for y el in es una variable de iteración esos Cómo se llaman los que están
+7:24
+ahí argumentos no Ah Estos son o se igual son entos sí del método pero sí Ah
+7:32
+Okay perfecto entonces siempre que quieras hacer algo dentro del método que que involucre pues valores que vas a
+7:40
+meter tienes que meterle los argumentos ahí mismo Sí Sí exactamente porque como acabas de decir acuérdate como las
+7:46
+funciones la misma lógica que tienen las funciones es el mismo lógica que tiene el método la única cosa que cambia es
+7:53
+que tienes que poner self porque el método afecta al objeto este
+8:00
+pero ya o sea en general este a ver
+8:06
+entonces sumar tres y cu pues está bien
+8:13
+no si quieres intentar otro como sea calculadora
+8:20
+dos perfecto Gracias profe
+8:26
+nada alguien más chavos
+8:35
+estoy trabajando para abrir el
+8:40
+P S luego a ver qué más
+8:46
+[Música] chavos si alguien más quiere compartirlo
+8:52
+antes de que ponga siguiente
+8:58
+ejercicio
+9:43
+Okay va a ser ahora [Música]
+9:50
+con vamos a hacer ahora de nuevo a hacer una sumatoria
+9:58
+de [Música]
+10:12
+sí no está [Música]
+10:28
+no
+10:39
+siempre hemos usado el for el lo no
+10:48
+este por ejemplo
+10:55
+Okay vamos a
+11:00
+será un una
+11:08
+función que le pregunte al
+11:14
+usuario hasta que índice de una
+11:23
+lista de números quiere
+11:28
+[Música] má elementos
+11:36
+recibirá un argumento que es la lista de
+11:45
+números y dará de valor de
+11:52
+salida la suma de los
+11:57
+números hasta el hasta el índice que
+12:09
+marcó el usuario usando
+12:16
+un While
+12:27
+look
+13:07
+Okay chavos ahora van a usar W Loop no mir cómo será miren les voy a poner el
+13:13
+ejemplo para que no se confundan bien Es como si yo le pusiera
+13:20
+por ejemplo a no la lista de números no va a ser por ejemplo 1 4 5 20
+13:29
+12 no y que el output no de la función en el
+13:37
+input de la función el valor de entrada no sería a
+13:43
+la lista a y bueno la función me va a preguntar no le pregunta al
+13:50
+usuario el índice no quiero si yo le
+13:56
+pongo 4 no agarraría hasta el bueno menos hasta el
+14:01
+índice 3 no el output sería la suma no
+14:06
+de 1 + 4 + 5 + 20 no ya no te contaría
+14:12
+el 12 Por qué Porque el índice
+14:27
+no
+14:33
+Okay okay Chao sí lo van a hacer con un W Loop no lo hagan con un for Loop hglo
+14:39
+con un W Loop okay Para que practiquen eso porque
+14:44
+tambén es otro cic que tenemos que practicar Así que les doy igual 7 minutos
+14:57
+chavos s bueno definí la misma lista que nos
+15:04
+pusiste y luego pregunta índice le pongo hasta el TR
+15:10
+hasta el C el tercer lugar defino dos variables antes pongo el While y ya aquí
+15:16
+hago del índice del primero más el resultado anterior y se lo pongo como
+15:22
+contador le agrego uno por cada vuelta entonces si yo quisiera hasta el último que es un do 3 cuatro El quinto elemento
+15:30
+Lo pongo aquí hasta el cinco y da 42 son 10 y 4 5 y 5 10 y
+15:38
+20 car a 30 y 12 42 sí sí sí
+15:48
+sí sí muy
+15:53
+bien La única cosa bueno que le faltó es que lo pusieras dentro de una función no
+15:59
+Ah okay Bueno ahorita ya no más lo p dentro de la
+16:04
+función No no te preocupes Está muy bien digo o sea nada más sería que lo cortaras y pegaras y lo pusieras dentro
+16:11
+de una función no en general lo del While pues jaló era lo más importante
+16:16
+pues o sea lo más importante del ejercicio era eso ns tení que estar en función mandé tenía que ser en función
+16:24
+no Bueno mira el digo si no pues ya ni modo está bien lo importante era que
+16:29
+usan el While pero la instrucción s era de que Ah Sí perdón no vi que era
+16:35
+función por lo general acostúmbrese chavos a hacer las cosas en funciones o en qué haces para que luego puedan
+16:42
+reusar el código es una muy buena práctica porque exactamente el punto de las funciones y de la que hace es
+16:49
+reutilizar el código porque si no imagínense si tienen un programa muy largo tienen que hacer este software no
+16:55
+van a tener que copiar y pegar ese código todo el tiempo primero no es práctico segunda puede haber errores y
+17:01
+tercero hace más lento el programa cuarto este tienen muchos archivos de código los cuales pueden hacer que se
+17:07
+confundan y cuando estén borrando archivos pueden ser que lo borren y no no quieren eso Entonces es hacer algo
+17:14
+que se llama modular o sea todo ponerlo como en cajitas no o sea es es como
+17:19
+tener orden no en su cuarto etcétera entonces alguna muy buena práctica
+17:26
+este es eso no alguien más chavos que nos quiera
+17:38
+Mostrar Ah Pues yo todavía no acabo si me esperan Pues sí profe podrí Mostrar
+17:45
+usted cómo lo hubiera hecho pues yo lo hubiera hecho exactamente con su compañero pero si qui lo hago este bien
+17:52
+de no lo que decía no vamos a poner la misma lista a verdad igual
+18:02
+su compañero hizo bien nada más le faltó la función no que sea este sumar hasta
+18:09
+índice no miren lo que dice paso a paso una función que le pregunta al usuario Hasta qué índice de una lista de números
+18:16
+quiere sumar sus elementos recibirá de argumento Ah okay recibe el argumento no
+18:22
+una lista de números dos puntos no Okay Dice que este
+18:31
+la función le va a preguntar al usuario entonces este índice final sería
+18:39
+int acuérdense para que sea entero no input no le va a preguntar al usuario
+18:48
+este qu índice de la lista quieres sumar
+18:55
+no dos puntos listo para que se vea estático muy bien aquí sería un W Loop
+19:01
+no este empezaremos con un contador también no contador empieza en cero muy
+19:09
+bien y el contador no este bueno va a jalar siempre y cuando
+19:17
+sea puso el puso diferente que también se vale Este porque tomo si vas
+19:22
+aumentando es esto también yo pondría por ejemplo hasta que sea bueno siempre y cuando sea menor o igual al el índice
+19:28
+final verdad Muy bien dos puntos que me agarre la lista a no y me agarre este su
+19:37
+contador no muy bien y que me vaya así porque va
+19:44
+a empezar con cer uno así no este el contador empieza así y bueno
+19:52
+cada vez no contador ual hacer al contador má un
+20:00
+verdad Y esto
+20:07
+zista y así hacer esto más
+20:13
+esto muy bien y aquí no
+20:21
+[Música] este
+20:27
+lista [Música]
+20:35
+este ser nada más que bueno le voy a cambiar esto
+20:42
+por
+20:52
+bien
+20:57
+el no es porque está metiendo el contador en a no me faltó este porque siempr se
+21:05
+olvida profe tengo una duda Por qué mete contador en a como que ahí siempre me hago bolas Ah porque es el índice Bueno
+21:13
+aquí le puse contador pero es el índice no o
+21:21
+sea es que si entienden esto no si entienden esto cómo vamos accediendo a cada elemento no y acabo de darme cuenta
+21:29
+que no o sea porque se lo está definiendo como cero y luego Resulta ser que es el índice de la lista
+21:37
+Ah Porque mira con el for Loop Es bien fácil usando el Range no el Range te da
+21:42
+una lista de cada uno de los índices aquí como no est permitido usar el for
+21:48
+Loop no tú tienes que hacer la simulación de lo que hace el Range Cómo lo haces lo puedes hacer con un contador
+21:56
+el primer índice es el cero no no O sea pero puedo eliminar el contador de ahí y solo meterlo en a o sea como eliminar el
+22:03
+contador igual a cero o no entiendo la pregunta o sea que si se puede eliminar
+22:09
+la cuarta línea donde está definiendo que contador es igual a cero no porque
+22:14
+se aquí te va a preguntar python o sea te va a decir el mismo error que me daba aquí Cuánto vale el contador al
+22:21
+principio si no lo defines te va a decir mira mira quieres que lo elimine si
+22:26
+quieres o sea y le pongo contador igual a dos empezaría desde el tercer elemento
+22:32
+de la lista exactamente muy bien sí si tú lo pías
+22:38
+mira si tú lo vamos a probarlo AC siempre que tengan pregunta en código pues miren
+22:45
+pruébenlo le pongo buen aquí lo para que se note pu lo voy a poner el cuatro no
+22:51
+el tres que sume a ver si pongo entes Qué me daría y así lo dejo con elador
+22:57
+ande 5 y 20 no 5
+23:10
+20 chos inician cero porque así para que
+23:15
+nuestro contador sea nuestro índice Bueno si quieren le pongo índice para que se vea más claro
+23:23
+índice índice
+23:30
+dice y ya este Por ejemplo si le pongo dos debería de sumar 1 + 4 + 5
+23:36
+no Ah es que me faltó el índice si lo cambian tien que cambiarlo
+23:43
+en todos lados pero con contador ya estaba bien no sí con contador estaba bien nada más
+23:50
+Porque dijeron que lo cambiara
+23:56
+mira más o menos
+24:03
+chavos bien a ver vayan diciendo ustedes que va haciendo cada línea de código les dije que algo que tienen que aprender a
+24:10
+hacer chavos es este así que ver el código ajeno y saber
+24:15
+qué está haciendo cada línea de código aquí Qué está haciendo define la lista
+24:21
+Okay estás okay introduciendo una lista haciendo una lista no ah lí está aquí Qué estamos haciendo
+24:30
+chavos Define una función definiendo la función y metiéndole la lista y le
+24:36
+dice definiendo una función y le estamos indicando que va a tener un argumento
+24:44
+No todavía no le metemos la lista a nada más le estamos acuérdense que al momento
+24:50
+de definir una función o de poner una clase definir una clase solo estamos haciendo los planos no estamos haciendo
+24:56
+Todavía la función y objeto entonces aquí estamos le indicamos que tiene un argumento
+25:02
+llamado lista de números que no importa el nombre verdad esto nada más es un placeholder nada más es para decirle que
+25:08
+se vaya o sea que va a agarrar un argumento
+25:14
+No sí chavos
+25:20
+sí Yes Okay entonces muy
+25:26
+bien la siguiente línea le está pidiendo que diga pues cuál va a ser como el índice
+25:35
+límite este no había puesto a para hacerlo más correcto de
+25:41
+puesto porque si
+25:53
+no porque bueno es que aquíe solo
+25:59
+porque Google colap Guarda las variables aquí pero la manera correcta era con el
+26:08
+lista de números dentro de la función como lo dice aquí Bueno ahorita les digo Les explico por qué eso es propio de
+26:15
+Google colab pero si lo coran en otros de python probablemente no funcionaría Ok bueno que tiene un argumento llamado
+26:23
+lista de números aquí Qué hace chavos en esta línea qué estoy haciendo
+26:28
+pidiéndole al al usuario que te diga Cuál va a ser el
+26:36
+límite índice límite de la suma y a eso
+26:43
+lo estás llamando índice [Música]
+26:49
+final bueno y lo estoy guardando en índice
+26:56
+final
+27:04
+muy bien aquí qué estoy haciendo En qué en qué
+27:09
+posición de la lista va a empezar
+27:15
+aumar inicializando el índice en el cual
+27:23
+empezará mi lista no
+27:28
+bu mi suma [Música]
+27:33
+realmente bien para este paso para es paso para ese paso Tú ya tienes que
+27:40
+saber que vas a hacer una suma sí no sí
+27:47
+sí bueno para este paso para el suma lista Aquí nada más lo que yo sé es que
+27:53
+aquí voy a estar recorriendo toda la lista por sus índices no
+27:59
+aquí ya en este paso es cuando digo Ah bueno y mi suma Pues empieza en cero
+28:05
+verdad antes de empezar pues empiezo en cero verdad s
+28:11
+sí s eso S lo solo lo único que me hace ruido es como Definir la posición
+28:16
+inicial o bueno el índice con el que va a empezar la
+28:22
+suma por qué dig nada más curioso no sé o sea como que como que justamente me
+28:28
+quedé con la lógica del for o sea yo creo que es como lo que dic no de que python Y esto es algo que tienes que
+28:33
+estar practicando para Pues sí como un lenguaje tal cual o sea lo tienes que estar practicando si no te si no te
+28:39
+olvidas No o sea como cuando en el inglés te dicen como for sirve para muchas cosas no o algo que suena así en
+28:46
+realidad se escribe de diferentes formas y y funciona para diferentes cosas creo que es más cuestión de estarlo
+28:53
+practicando sí chavos o sea lo importante como les digo es como que vayan aprendiendo bien los conceptos que
+28:59
+sí tengan bien quado qué qué va a hacer y ya ya después le aumentan peso que es lo que estamos haciendo aquí ahorita
+29:06
+este obviamente es como en el gimnasio este te tardas no sé cuatro c semanas en
+29:13
+aumentarle 2.5 kg de cada lado no O sea no es como que llegues y Ah ya hice una
+29:19
+repetición con cinco la siguiente semana le meto 10 la siguiente semana le meto 20 y así ya en en dos meses ya le estoy
+29:27
+metiendo 50 kg de cada lado a ver inténtenlo en el gimnasio a ver qué les pasa no broma pues no lo intenten porque
+29:33
+se van a lastimar pero lo mismo aquí no O sea no pueden pues esperar no O sea
+29:40
+Esa es la práctica No muchos ejercicios de cada tema para que puedan irle aumentando
+29:47
+no Okay empieza la suma en cero
+29:54
+no aquí Qué estamos haciendo chavos antes de ya para jurarle qué estamos haciendo ahí Ah le estás diciendo que
+30:01
+haga el ciclo Mientras que el el índice en el que va dando vuelta sea menor al
+30:08
+índice límite muy bien usando para acceder a los elementos
+30:15
+de la
+30:24
+lista siemp siempre que sea
+30:30
+menor o igual al índice
+30:42
+final y qué estoy haciendo
+30:48
+ahí estás indicando la operación que quieres hacer es la operación que se la suma no
+30:55
+la suma de bueno del número en el que estoy en
+31:03
+el cico no más el resultado de las sumas
+31:11
+anteriores no los sios
+31:18
+anteriores aquí en índice que estoy haciendo
+31:26
+chavos estás sumando el siguiente el siguiente
+31:32
+índice estoy como actualizando no Exacto en índice para el nuevo sio para el c
+31:40
+siguiente no y bueno Esto corre nada lo voy a
+31:48
+poner aquí o sea esto corre hasta que la
+31:54
+condición del While se deja de cumplir no acuérdense que eso es el While While
+32:00
+significa mientras mientras eso sea cierto mientras la condición sea sea cierta
+32:07
+no Mientras lo voy a poner aquí acuérdense que mientras no que la
+32:13
+condición del While
+32:19
+sea cierta true
+32:24
+No sí chavos la lógica l es mientras
+32:30
+esto sea verdadero Pues córreme el código no y aquí qu Qué estamos
+32:40
+haciendo profesor tengo una duda el retón no O sea ahorita lo imprime pero
+32:47
+por ejemplo si nosotros en un código lo ponemos así Generalmente no tiene por
+32:52
+necesariamente imprimirlo te regresa lista pero tiene que imprimír Telo necesariamente verdad no no no te lo
+33:00
+imprime No necesariamente nunca te lo imprime O sea tú le tienes que indicar a python que quieres ver el número no Okay
+33:06
+perfecto gracias Nunca te lo imprime aquí me lo está imprimiendo porque yo le estoy preguntando o sea porque aquí yo
+33:12
+le estoy diciendo imprímelo no si yo le si yo comentara este esta línea no me imprimiría nada o sea aunque la llame
+33:20
+miren lo podemos hacer la voy a llamar Aquí bien aquí Google colap sí me lo va
+33:26
+a porque Google colap tiene la particularidad que te te imprime no lo
+33:33
+que le pones al final pero miren Para que vean yo le pongo al final no s ve
+33:39
+igual a 5 esto y esto lo comento ya no está al
+33:44
+final entonces aquí Google colap no me lo no me imprime nada verdad Aquí yo
+33:53
+estoy llamando la función y lo estoy haciendo pero no me imprime nada porque
+33:58
+no se lo estoy pidiendo verdad okay Pero y si dentro de la
+34:05
+función hubiera un print si lo imprimiría No si si el return fuera en realidad un
+34:12
+print o sea dentro del un print Sí nada más que no es muy útil bueno que o sea
+34:18
+por qué acuérdense Por qué es el return para que nosotros podamos guardarlo Imagínate que yo lo quiero guardar esto
+34:25
+no dentro de la BB no y luego en el futuro yo necesitaría que c fuera igual
+34:32
+a este 5 por B
+34:48
+No sí estos chavos del return es porque al
+34:54
+final de cuentas cuando yo invoco esta función el resultado final de esta
+34:59
+función qué va a serer Pues el rón de este no la suma de
+35:06
+la lista y este suma de la lista me va a dar un número y este número sí se va a guardar en b y ya cuando yo lo llame
+35:14
+Para futuras operaciones sí puedo usar ese resultado sin embargo si solo lo
+35:20
+imprimo O sea no lo podría guardar en B porque el resultado en vez de guardarse un número me guardaría un
+35:27
+Si tú no Pon o sea eso es en cualquier lenguaje de programación cuando tú no pones un return en una función te
+35:35
+regresa un tipo de dato know nada no en español Entonces tú no podrías guardar
+35:42
+el dato por ejemplo aquí en B tú guardarías un tipo O sea no nada no el
+35:48
+ron es para que tú luego puedas jugar o o utilizar el dato que te dio la función
+35:55
+no sí okay chavos no sé si tengan Una última
+36:02
+pregunta o duda No
+36:09
+gracias Muy bien chavos Bueno espero les haya servido tienen que practicar chavos
+36:15
+todas las cosas el W el If el for las cases las listas todo lo que hemos visto
+36:22
+este les va a servir Y bueno ya la siguiente semana empezamos un poco con la la parte de matemáticas la lógica sí
+36:30
+chavos Lo siento pero pu como les he dicho Quién inventó la computadora la primera computadora
+36:37
+Alan turing Alan turing y Alan turing qué era matemático entonces pues de ahí
+36:43
+viene toda la lógica no entonces pues sí nos vamos a tener que adentrar un poco en el mundo de las Matemáticas discretas
+36:49
+para poder tener un verdadero entendimiento de cómo funcionan los programas de Cómo funciona la lógica
+36:55
+Porque todos los lenguajes de programación funcionan con la misma lógica que es todas matemáticas
+37:01
+discretas Entonces este pues sí chavos vamos a tener que darle a eso está
+37:07
+genial gracias okay sí porque la verdad es que en muchos cursos de programación
+37:12
+miren no les enseñan matemáticas discretas Porque mucha gente no le gustan las matemáticas Y pues obviamente
+37:17
+vendes más si le das al usuario Bueno si al cliente le das lo que él quiere y no
+37:23
+lo que necesita Pero bueno la verdad lo que necesitan es la parte de matemáticas discretas para poder hacer programas de
+37:29
+verdad Okay chavos pues Bueno nos vemos y ya la siguiente semana vamos a empezar a a rastear el lápiz Así que la
+37:36
+siguiente semana digo además de la computadora y todo este pues sí Ahí traigan un cuaderno y estén listos para
+37:42
+hacer matemáticas profe sí tendrá algún o sea no sé alguna página o algún lugar
+37:50
+en el que hay ejercicios chidos para como practicar esto eh Bueno sí varios
+37:57
+bien de todos modos les voy a dejar este la actividad en el fin de semana la
+38:02
+actividad uno así que van a tener bastante que practicar chavos va a estar
+38:09
+larguito Okay chavos pues Bueno nos vemos y cuídense
+38:14
+mucho chavos Gracias igual

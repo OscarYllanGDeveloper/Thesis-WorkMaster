@@ -1,0 +1,970 @@
+0:02
+Okay muy bien chavos Pues bueno vamos a ver un poco de lo que estamos viendo ayer verdad vamos a segundo
+0:17
+muy bien chavos vamos a ver un poco de lo que estábamos viendo el día de ayer que era este
+0:25
+ayer vimos
+0:34
+se acuerdan ayer vimos un poco lo de él y feliz no que a las condiciones
+0:40
+se acuerdan que dijimos que el elif la analogía
+0:47
+es como si estuviéramos buscando un restaurante en una plaza este para ver un partido por ejemplo no
+0:54
+en el sentido de que si esta sentencia o sea esta línea el resultado final es
+1:02
+club Entonces nos va a correr este código si fueran post entonces pues sigue sigue
+1:10
+[Música] siguiente verdad acuérdense que este
+1:17
+python lee como nosotros de arriba hacia abajo entonces python va leyendo línea
+1:22
+por línea por línea no y aquí no se ejecuta o python no lo lee si esto es
+1:28
+falso para eso funciona este esto que se llaman condicionales no O sea este
+1:33
+código se va a correr siempre y cuando esto sea verdadero Okay Muy bien pues
+1:40
+eso es lo que habíamos visto ayer no este estamos diciendo que este con que
+1:47
+se cumpla uno si se cumple uno de estos del If va a ignorar todos los demás y se
+1:52
+va a saltar hasta acá hasta el final porque era como habíamos dicho de la
+1:57
+analogía de los de los restaurantes no tú si te metes al segundo restaurante al tercero o al cuarto al quinto ya no te
+2:05
+preocupa ni te ni te pones a pensar en si los otros estaban abiertos lo que sea tú te metes al restaurante y ya empiezas
+2:11
+a ver el partido y ya no ves los demás verdad Así es lo mismo aquí en el If el
+2:17
+el se van o sea vamos en orden pero el primero que nos acepte nos quedamos ahí
+2:23
+no Okay muy bien Pues así es como funciona el If el elf acuérdense que
+2:29
+dijimos que era esto este espacio se le llama hiddentación que en python sí
+2:36
+importa a diferencia de otros lenguajes en otros lenguajes tú pones unas llaves y lo que esté dentro de las llaves
+2:41
+básicamente es este lo que se corre Aquí no aquí lo que hace que un código esté
+2:49
+dentro del DIF o el ifo el leds es esto que se le llama y Tentación que se pone
+2:55
+con la tecla tap que es la que está abajo de los números que eso es como una flechita y una
+3:03
+también no sé en todos los
+3:09
+teclados ya ves que tienes que ver el más que menos Que bueno hay unos teclado
+3:15
+esto no tiene No no sé dónde está No es Este mira tiene que hacer algo así Creo
+3:22
+que no es este bueno Qué raro decir la verdad es que
+3:27
+casi todos los teclados de computadora como el 99% si tienen este este Si no lo
+3:33
+puedes hacer tú manualmente con tres espacios uno dos tres o también este
+3:38
+pues digo python te lo ponen automático este cuando tú pones el este enter y así
+3:45
+te das cuenta python te lo ponen automático o la otra es que pongas literalmente
+3:51
+tres espacios uno dos tres O sea si pones eso también
+3:56
+python te lo marca como si fuera el tap no este muy bien si no digo igual paito
+4:03
+lo hacen automático una vez que tú estás en esta línea te pones enter y te lo da entonces este muy bien
+4:10
+también vimos un poco lo de las funciones acuérdense que nosotros empezamos a
+4:16
+definir funciones con en python se le pone desk significa Define no define
+4:22
+Define ponemos el nombre de la función igual que con las variables Tienen las
+4:28
+mismas reglas o sea no podemos empezar con números
+4:33
+en rojo pero bueno ahorita se debería de poner todo en rojo porque no no te
+4:38
+acepta python que corras este funciones O sea no las puedes llamar con este
+4:44
+empezando con números Tienen las mismas limitantes que este los nombres de las
+4:49
+variables para que python sepa que es una función y no una variable de pones los dos paréntesis
+4:56
+y los dos puntos Acuérdense que los dos puntos tanto en el ifs en las funciones
+5:03
+y vamos a ver también que los ciclos significa Entonces eso viene de matemáticas este que quiere los dos
+5:09
+puntos quiere decir Bueno entonces y corre este código No aquí también está
+5:15
+ahí dentado acuérdense que el espacio este semi dentado que es como poner el tap este código se
+5:22
+va a correr dentro de esta función también algo importante que destacar es que las funciones pero los las variables
+5:31
+dentro de las funciones solo existen como se le llama localmente Qué quiere
+5:36
+decir que solo existen dentro del dominio de la función luego vamos a ver qué significa eso pero o sea si lo
+5:43
+quieres si quieres sacar una variable fuera de este Miren
+5:48
+la variable
+6:05
+a verlo
+6:11
+mire lo que les decía la variable solo vive dentro de la función no
+6:23
+bien si aquí nos dice el error el nombre o sea la variable
+6:29
+no está definido Pues aquí está dicen por qué Porque los valores de las
+6:36
+variables dentro de las funciones solo viven localmente o sea solo existen dentro de la función y ustedes ponen eso
+6:43
+pues Está mal no Por qué Porque no está definido y en python si una variable o
+6:50
+una función no está definido se va a llamar así Bueno te va a decir el name error no error de nombre porque no ha
+6:57
+definido todavía la función o variable aquí 24
+7:05
+acuérdense que el retorno es para lo que va a dar de outpur o de salida no puede
+7:12
+ser varios argumentos pueden ser varias cosas y las separamos con comas
+7:18
+y te reías un tople acuérdense lo que dijimos de las tuppers que son los que
+7:23
+están entre paréntesis y elementos divididos por coma muy bien acuérdense
+7:29
+que también en funciones dijimos en python que pueden tener lo que se le llaman argumentos no O parámetros es lo
+7:36
+mismo argumento argumentos o parámetros miren parámetros
+7:41
+no este puede ser bien Aquí esta la diferencia entre estos Y estos
+7:48
+es que aquí yo le estoy asignando valores por default esto sirve por si el
+7:54
+usuario no pone todos los argumentos porque por ejemplo si aquí va a explotar
+8:01
+si hago esto nomás qué hago Esto va a explotar por qué porque aunque este y
+8:07
+este estén definidos o sea tengan valores por defauls este no entonces aquí no va a jalar miren
+8:16
+missing One required positional argument no está diciendo hasta cuál este no
+8:25
+cuando nosotros ponemos el igual en los argumentos son valores por default no esto es como para hacer un Catch o sea
+8:33
+como una red no por si el usuario pone cosas que no debería o sea muchas de las
+8:38
+cosas en programación tenemos que cuidarnos del usuario que ponga un caso o ponga algo que no debería por ejemplo
+8:43
+también bueno Si ves un poco de ciberseguridad que no te inyecten sql o sea para tratar de extraer datos o
+8:51
+Borrar datos dentro de tus bases de datos no O sea tienes que en programación también es estar como así
+8:57
+que cuidándote del usuario que o sea a veces lo hacen o sea intencionalmente
+9:02
+como hackear A veces lo hacen sin intención pues o sea le pican algo que
+9:07
+no debería no este pueden cachar el programa lo que nosotros tenemos que hacer es tratar de hacerlo lo más sólido
+9:15
+no posible para que esto no pase Okay muy bien
+9:20
+Pues bueno aquí
+9:27
+muy bien aquí acuérdense que importamos librerías verdad
+9:33
+Cómo importar librerías acuérdense que es con la palabra reservada import no
+9:39
+importa no y ponemos el nombre de la librería algunas de las librerías famosas son estas cuatro más te permite
+9:47
+hacer operaciones de matemáticas nunca hay miren Haz np este es como abrevia
+9:54
+Melo o me es cámbiale el nombre así la librería se llaman un país pero yo quiero que lo llames np significaría
+10:01
+importan un país como np importa pandas como pd importa tensorflow Como tf cada
+10:11
+uno tiene su función por ejemplo en un país numérica el python sirve para muchas aplicaciones numéricas ya sea
+10:17
+para finanzas y negocios este pandas es para manejar tablas tipo Excel Bueno
+10:23
+aquí le faltó una que también es Cuál es la diferencia entre Matt y numpy
+10:30
+Cuál es la diferencia entre Matt y nanpe mira en muy buena pregunta más te sirve
+10:36
+para hacer operaciones sencillas como de un valor bien Vamos a
+10:42
+ver en las librerías más
+10:49
+este es más sencilla que nunca en un país más robusta como digan nunca
+11:00
+python miren en internet así que aunque yo les quiera a poner en internet va a
+11:06
+haber más de lo o sea de la documentación por eso les decía que sí es importante que aprendan inglés porque
+11:11
+la mayoría de la documentación está en inglés yo creo que en algunas páginas te lo permites sacar en español pero igual
+11:17
+acuérdense que python y todos los lenguajes de programación están en inglés verdad
+11:23
+O sea si se dan cuenta la mayoría está en inglés Entonces nosotros ponemos documentación no este
+11:31
+aquí te dice varias cosas y queremos buscar algo en específico pues podemos Buscar así como en un país
+11:41
+mientras puesta los que sepan un poco de álgebra lineal No aquí por ejemplo
+11:48
+la librería oficial de bueno la documentación oficial Todas estas son funciones o bueno como dice rutinas este
+11:57
+métodos de un país no y miren son bastantes
+12:04
+funciones lógicas polinomios nunca y es como si fuera el Este mat pero es más
+12:11
+robusto o sea tiene más cosas Nunca es también muy poderoso porque nunca permite trabajar mucho con lo que son
+12:18
+matrices y vectores no que por ejemplo python o sea usted dice nada pues si yo
+12:24
+no sé tanto la parte de matemáticas pues qué creen como habíamos dicho que las imágenes sí se acuerdan que les dije que
+12:29
+las imágenes eran matrices de números no
+12:35
+eran matrices de números acuérdense que dijimos que una imagen de veinte por veinte píxeles es una matriz de veinte
+12:43
+por veinte números no y acuérdense que dijimos que cada Pixel cada color python lo representa como
+12:51
+cero a 255 por ejemplo no Y cómo funcionan los filtros de Snapchat o de
+12:57
+Instagram o eso nada más cambian los colores por ceros y 255 no O sea nos
+13:03
+cambian por bancos y negros pues así tiene aplicaciones para eso el
+13:08
+reconocimiento facial en nuestro celulares no este cuando tienes por ejemplo la aplicación esta del banco lo
+13:15
+que sea que te pide o la huella digital o te pide la cara no el reconocimiento facial Pues es lo hace lo mismo aquí
+13:22
+usan librerías para analizar porque o sea no es como que python o la computadora analice tu cara lo que
+13:29
+analiza son los pixeles o sea de tu cara no que cara la foto se generan píxeles
+13:35
+fiestas pues lo que hace es una comprobación se hace con redes neuronales por ejemplo usando numpae
+13:42
+pandas y tensorflow tú puedes hacer un o sea bueno y otras librerías como opencv
+13:47
+que es configurar el visión luego vamos a ver a lo mejor esto no lo vemos tanto porque no nos va a dar tiempo pero hay
+13:54
+otras librerías que te permiten por ejemplo eso hacer reconocimiento facial no Y eso lo hacen con un país o sea la
+14:01
+base en un país porque con un país manejamos nosotros las matrices okay
+14:06
+Para eso es Nunca es la diferencia o sea nunca hay te permite trabajar con matices y vectores y mate es como para
+14:13
+trabajar con cantidades más chicas o sea con un número no Entonces en un país más
+14:19
+robustas en un país tiene más cosas en un país como la versión mejorada de más este pandas sirve para manejar este
+14:30
+tablas no como tipo Excel nada más que pandas es mucho más poderoso porque por
+14:36
+ejemplo excelentían ustedes mismos
+14:45
+ahí que sabe Excel
+14:55
+talento
+15:09
+ustedes se van a Excel se van hasta abajo tienes hasta un millón cuarenta y ocho
+15:16
+mil quinientas setenta y seis filas no Y la verdad es que Excel se empieza a trabar a partir del Diez mil O sea si tú
+15:22
+tienes Diez mil valores y mucha en muchas columnas se empieza a trabar luego se puede cerrar puedes perder
+15:29
+información y además tienes la limitante no pandas tiene mucho más poder pandas tú
+15:36
+puedes hacer cálculos con tablas agregar manejar bases de datos etcétera
+15:43
+de muchísimos valores entonces pandas es para lo que sirve luego vamos a ver específicamente eso cuando veamos lo de
+15:49
+análisis de datos Pero bueno vamos a seguir un poco vamos a ver lo del Ford
+15:54
+Loop bueno vimos ayer un poquito lo del Ford look no que el sitio Ford es un ciclo cuando tú ya sabes cuántas veces
+16:01
+este quieres hacer algo no por ejemplo no sé Déjenme pensar en una aplicación
+16:09
+[Música] por ejemplo miren
+16:20
+acuérdense que dijimos de los vectores o de los índices en python no como en la
+16:28
+mayoría de los lenguajes de programación no en todos Hay algunos que este son diferentes pero la mayoría empezamos a
+16:35
+contar desde el cero no empezamos a contar desde el cero por eso mediante si se dan cuenta aquí
+16:41
+acuérdense que que dijimos que en esta función de en un país por eso se llama np nunca y punto mira aquí lo dice diez
+16:49
+O sea que me des un vector hasta el diez pero si se dan cuenta no incluye el 10 llega hasta el nueve Por qué Porque en
+16:58
+programación empezamos a contar desde el cero entonces cero uno dos tres cuatro cinco seis siete ocho nueve así llega o
+17:05
+sea sí son diez diez números pero no llega hasta el 10 Porque empezamos a contar del cero y siempre es así miren
+17:12
+aquí en este ponemos el límite inferior y el límite superior el límite inferior
+17:18
+es 10 no para este caso y aquí era 20 pero como
+17:24
+les dije este llega hasta n menos uno nuestro n es veinte y cuántos n menos
+17:30
+uno diecinueve no un número anterior aquí es
+17:36
+lo mismo Este es el límite inferior Este es el límite superior nada más que este número es el este el paso no bien Vamos
+17:45
+a ver por ejemplo Imagínate que tenemos que subir este
+17:51
+hasta el piso 20 no cómo les había dicho Aquí también se
+17:57
+ponen los dos puntos que indica Entonces le damos enter y aquí me lo inventa no O
+18:04
+sea ya me lo pone el espacio le puedo poner como por ejemplo
+18:12
+s de este en el piso
+18:20
+este por ejemplo y ponemos acuérdense
+18:28
+no y así lo corro
+18:35
+bueno eso Si fuéramos muy europeos porque bueno en Europa que empiezan a correr a contar del cero sino pues
+18:41
+podemos poner uno o más veinte ya con eso para que llegue hasta el veinte tendríamos que sumarle uno no para que
+18:47
+acuérdense n menos uno entonces para que llegue hasta el piso 20 y del uno sería
+18:52
+así estás en el piso uno estás en el piso dos en el piso tres piso cuatro el
+18:58
+ciclo Ford es un ciclo acuérdense que dijimos que en un ciclo donde tú ya sabes
+19:07
+Cuántas veces quieres hacer una operación
+19:13
+algo no correr una función sumar algo multiplicar lo que sea tú ya sabes por
+19:21
+ejemplo también algo importante interesante por ejemplo en el list Me faltó y todo esto Tú puedes hacer lo que
+19:28
+se le llama este puedes combinar O puedes poner un is dentro de un is no
+19:35
+no sé si alguien se acuerda cómo se llama eso poner algo dentro de algo
+19:42
+exactamente en inglés es Netflix no En español cómo se llamaba ya se me olvidó anidación anidación exactamente
+19:53
+en inglés se le llama así o este Cómo se llamaban en español perdón se me va este
+19:59
+anidación anidación muy bien anidación puedes tener If anidados Muchas gracias
+20:05
+funciones anidadas o sea puedes tener este condiciones dentro de las condiciones es como bien ver es verlo
+20:12
+como cuando Tú manejas no cuando Tú manejas Por ejemplo si quieres llegar a una calle no este
+20:19
+por ejemplo y tú sales de tu casa no
+20:25
+por ejemplo digamos que bueno a lo mejor esto serviría más y lo hago en el iPad
+20:30
+rápido lo vas en el acto rápido Okay muy bien
+20:41
+[Música] Okay muy bien
+20:48
+es como si ustedes estuvieran Así que en su casa saliendo de su casa para ir al trabajo o para ir a la escuela
+20:56
+ustedes miren Yo siempre digo esta analogía bien bueno
+21:06
+Muy bien pues bueno ya vamos a escribir en este
+21:12
+Okay muy bien si nosotros estamos en esta casa no
+21:17
+salimos y se divide
+21:24
+en tres calles
+21:31
+y luego esta calle se divide en dos opciones más
+21:38
+[Música] no y esta se divide
+21:43
+en una y dos calles
+21:51
+No pues ustedes chavos así que nosotros aplicamos lo que es anidación con este
+21:56
+condiciones esteadas o este condiciones anidadas no todos los días cuando
+22:03
+manejamos o cuando Vamos caminando no y tú vas aquí no caminando
+22:10
+tienes que tomar una primera decisión verdad
+22:17
+tienes que decidir si te vas hacia la izquierda no
+22:23
+derecho o hacia la derecha verdad
+22:31
+entonces aquí es una condición verdad aquí es un nif Este es un nif y aquí
+22:37
+vuelves a tener otro If verdad vuelves a tener otro iss y otro iss y
+22:46
+aquí tienes otro If y otro esta condición para tu poder tomar esta
+22:52
+decisión la segunda decisión forzosamente primero tenías que haber
+22:57
+dicho que ibas hacia la derecha verdad Porque si vas hacia la izquierda pues no
+23:02
+puedes tomar la segunda decisión
+23:08
+Ah perdón disculpe no te preocupes este te digo les digo
+23:15
+entonces o sea nosotros para poder tomar la segunda decisión o la tercera decisión no
+23:21
+teníamos que primero tomar esta decisión e ir hacia la derecha esta ir hacia
+23:27
+arriba y esta o sea o sea para llegar a esta tercera decisión primero tendríamos
+23:32
+que haber dicho derecha y luego hacia arriba no
+23:38
+muy bien o sea para llegar a la tercera decisión es así Esto es lo que se le conocen Como
+23:43
+nested no una condición de este condition no o en español
+23:50
+este decisión o condicionada no
+23:58
+que esto es nada más y nada menos que unir dentro de un niss una condición
+24:03
+dentro de una condición básicamente Y eso lo hacemos nosotros todos los días no es como por ejemplo lo mismo de los
+24:11
+restaurantes imagínense que tenemos el restaurante y llevamos una plaza no restaurante Tenemos uno de comida china
+24:20
+uno de comida mexicana y uno de mariscos no
+24:27
+y tú quieres por ejemplo pozole tacos
+24:34
+y por ejemplo aquí tú hay no sé cóctel de camarón
+24:40
+y una un caldo de camarón no aquí un
+24:48
+no y no sé este montón una sopa un montón Okay muy bien
+24:55
+tú para poderte pedir la primera decisión que tenías que haber
+25:01
+hecho es elegir entre comida china comida mexicana y mariscos verdad
+25:08
+ya para Pues a la primera decisión es qué restaurante no y ya la segunda es
+25:14
+que platillo Pero tú dentro de O sea si decidiste mexicana ya no puedes pedir
+25:19
+chapsui no o si te fuiste al de mariscos ya no puedes pedir pozole Esas son las
+25:25
+condiciones anidadas o sea les digo nosotros día a día hacemos la las
+25:30
+condiciones anidadas no Eso sirve así que cada vez que le das un tweet en Facebook o lo que sea primero
+25:38
+tenías que haber iniciado sesión no y luego le pones Ah pues le voy a dar a mi perfil y dentro de tu perfil te aparece
+25:44
+en opciones no es lo mismo aquí o sea primero tenías que haber tomado una decisión luego otra luego otra luego
+25:50
+otra entonces básicamente Así es como funcionan los en este texto también Existen los ciclos
+25:58
+anidados que te llaman este look no o si tú anidado en español qué es lo que para
+26:04
+eso venía de otras explicaciones para eso también podemos poner funciones o
+26:09
+sea podemos definir funciones fuera de funciones y usarlos dentro de las
+26:15
+funciones que son funciones Así que hay order fonchos o sea son funciones más avanzadas etcétera Luego las vamos a ver
+26:21
+ahorita es nada más para que vean lo básico pero miren aquí Ahí va con los ciclos combinados Bueno o sea este con
+26:28
+cinco anidados no por ejemplo nosotros podemos poner un Ford no una así que una muy común es la
+26:35
+tablas las tablas de multiplicar chavos pues es un chico anidado no
+26:42
+Por qué bueno
+26:52
+las tablas de multiplicar chavos esto es una muy buena un muy buen ejemplo de
+26:58
+quiero ir al cuadrito
+27:07
+[Música] este cuadro no
+27:14
+este cuadro es las tablas de multiplicamiento antes de empezar con el este vamos a hacer una
+27:22
+tabla de multiplicar del uno no este okay
+27:32
+no así cómo lo haríamos chavos
+27:44
+en el número estático o Bueno mira lo podemos hacer todavía
+27:50
+más usando varias cosas van a ser lo más interactivo que el usuario nos diga por ejemplo
+28:01
+Okay número de la clave okay muy bien y le podemos
+28:08
+preguntar al usuario okay
+28:16
+tabla te gustaría
+28:22
+Okay dos puntos porque sea bonito etcétera Aquí Cuál sería el problema de esto Chavo
+28:29
+acuérdense que la función input que te regresa
+28:34
+es lo mismo acuérdense ya lo vimos en Dos clases que no
+28:40
+texto verdad Muy bien nos regresa un una cadena de texto Entonces nosotros
+28:45
+podemos aplicar la función no porque o sea no no existe Bueno no te
+28:50
+van a poner que la tabla del Siete punto cinco Okay entonces así no qué tabla Te
+28:57
+gustaría ver muy bien entonces por ejemplo este no lo podemos poner aquí no
+29:05
+bien resultado es igual a el número de la tabla
+29:13
+por
+29:19
+miren y podemos imprimirlo bien podemos hacerlo bonito con el F con el este okay
+29:31
+resultado es a lo mejor ni va a quedar tan bonito así Pero bueno ya ya lo hice este
+29:38
+no debo poner diez más uno o como Perdón
+29:43
+en el ciclo Ford no debemos de poner diez más uno porque nos va a dar del cero hasta el nueve A ver vamos a ver
+29:51
+cómo son las tareas de multiplicar Okay si son del uno al diez me voy a poner con el cero Pero tienes razón entonces
+29:57
+aquí hay que ponerlo del uno hasta como tú dices diez más uno verdad Para que
+30:03
+nos dé como estas o sea para que nos de esta primera línea si hay que ponerlo así como dijimos así como tú dijiste
+30:09
+Pues hay que ponerle uno porque si tú no le pones el límite inferior va a empezar de cero Mira ahorita lo vamos a ver pero
+30:16
+ahí estás poniendo el uno porque estás indicando la posición del primer elemento o sea
+30:22
+porque las tablas Mira las tablas de cuál empresa empiezan
+30:28
+de Luna sí del uno es por eso porque las es más porque como les dije porque como
+30:34
+las tragas empiezan del uno Ese es el nuestro límite inferior y nuestro límite
+30:39
+superior cuál queremos que sea el diez verdad
+30:49
+este Okay es más que nada por eso Entonces miren cuando
+30:56
+del cinco por ejemplo no
+31:02
+Okay no muy bien esta es una Eso es para una
+31:07
+sola línea pero qué pasa si nosotros queremos toda la tabla
+31:13
+hay que tendríamos que hacer qué se les ocurre
+31:22
+Cómo con toda la tabla o sea aquí nada más nos está dando una fila no también
+31:28
+déjeme quito el resultado eh para que sea más claro
+31:38
+nomás nos está dando una fila O sea qué pasa si nosotros queremos imprimir esta matriz o sea bueno esta los Así que toda
+31:46
+la tabla del diez Bueno o sea las tablas de multiplicar que son estas no cómo lo podríamos hacer cómo se les ocurre
+31:55
+que imprima número y luego le ponemos como impulse y lo
+32:04
+ponemos con por y luego
+32:11
+con ciclo con ciclos exactamente sería combinar un ciclo dentro de un ciclo
+32:16
+verdad Okay muy bien primero miren
+32:23
+aquí Déjenme ver si es mejor que lo pongan en el iPad antes de empezar con
+32:29
+esto déjeme les enseño que es un sitio dentro de un ciclo
+32:37
+[Música] Cómo va a funcionar un ciclo dentro de un ciclo Cómo va a funcionar nuestro
+32:44
+código Okay bien Ahora vamos con él un nester
+32:51
+lupas así se le llama en inglés en este o un ciclo anidado en español
+33:03
+muy bien verdad un ciclo anidado un este look
+33:10
+por no por ejemplo cómo lo pondríamos habíamos dicho que número no
+33:18
+hayamos dicho que el Range de el uno no coma diez más uno
+33:27
+Así que no sé aquí hermano obviamente tendríamos que quitar lo del input del principio porque este es una matera para
+33:34
+sacar una fila en específica eso del número de la tabla Lo tendríamos que quitar no pero bueno aquí chavos
+33:42
+entonces lo que hace el número esta variable esta variable de iteración
+33:49
+así se llama variable de iteración no
+33:55
+lo que hace este Range nos da una re un
+34:01
+arreglo un vector con estos números uno dos tres cuatro cinco seis siete ocho
+34:10
+nueve y diez no nos da estos diez valores verdad número esta variable de
+34:17
+iteración lo que va a hacer es tomar este valor luego el próximo y así con cada uno va a ir visitando cada uno de
+34:25
+estos valores de El arreo de la lista no Okay muy bien
+34:31
+Eso es lo que va a ser en la variable de iteración entonces o sea en el primer
+34:36
+valor la primera vez número A cuánto va a valer
+34:42
+uno verdad luego en la siguiente iteración cuánto va a valer
+34:50
+dos tres cuatro cinco seis así no entonces
+34:55
+pero si ponemos un chico dentro de un chico iba
+35:01
+si el chico está ahí dentado y ponemos este
+35:07
+y ponemos el mismo de uno coma diez más uno
+35:15
+Mira qué va a hacer este num va a ser exactamente lo mismo el
+35:21
+sentido de que este
+35:34
+Bueno aquí se ve un poco
+35:44
+Ok Mira este no también va a irse uno por uno verdad
+35:51
+Pero como está dentro primero se va a correr este ciclo
+35:58
+tantas veces y una vez que se acabe las veces del ciclo este ciclo Vuelve aquí
+36:04
+verdad o sea python va así el ciclo Así que el
+36:11
+ciclo for corre el número de veces que le digas no que el número de veces que le diga va a
+36:17
+ser el número de elementos Dentro de este vector son diez verdad Entonces
+36:22
+este ciclo for Dentro de este cinco Ford va a correr uno dos tres cuatro cinco
+36:29
+seis siete ocho nueve y diez Una vez que se acaba el ciclo Pues sigue pero no se
+36:36
+ha acabado el ciclo primero el primer ciclo no sé esto ha sido solo una iteración
+36:43
+entonces pues este ciclo se va acá de nuevo no y va a volver a correr así el
+36:50
+python va a volver uno dos tres Ay si se vuelve a encontrar el ciclo Pues de nuevo diez veces más y así A qué voy con
+36:59
+estos chavos miren para esto funcionaría aquí sería Hacer la multiplicación aquí
+37:05
+no la multiplicación
+37:10
+sería igual a la variable número que es el que es la primera variable no por
+37:18
+num aquí qué pasaría con cada iteración chavos miren Cuánto valía número uno
+37:25
+verdad cuánto valdría la primera vez en nu Al Día uno verdad muy bien este uno azul
+37:33
+sigue siendo O sea no ha cambiado porque no le hemos aumentado verdad
+37:40
+pero este si ya cambió ya no es uno ya es dos verdad Y así va a ser para cada
+37:47
+uno uno por tres no más o menos sí lo están agarrando chavos
+37:54
+cómo cómo es Cómo funciona un chico anidado
+38:00
+y así sería mi honor vamos a hacerlo ya en programación vamos a pasarlo Ahora sí a python Ya lo tenemos a veces es muy
+38:07
+bueno hacerlo en una pizarra o en una hoja antes de Por qué este o sea como
+38:15
+les dije como ayer por ejemplo que ayer me salió mal este quién es así que puedes ver todos los casos posibles
+38:21
+porque exactamente puede ser que el usuario o tú no estés contemplando un caso como tal déjeme vuelvo a compartir
+38:29
+Okay muy bien Pues bueno era lo que habíamos dicho no nada más que aquí voy a quitar esto y ya
+38:37
+no tiene caso Déjenme lo dejo para que este sea otro ejemplo bien este estaba bien
+38:49
+Este era lo que teníamos cinco ahora voy a hacer otro caso lo voy
+38:54
+a poner aquí va a copiar esto y pegar porque este Okay muy bien bien
+39:02
+Okay este lo voy a quitar Por lo mientras y aquí pondría yo
+39:09
+[Música] aquí yo pondría el segundo ciclo verdad
+39:17
+ya lo voy a poner num y va a poner lo mismo Range Porque queremos que vaya
+39:22
+igual del uno más uno no y aquí pondría el resultado de la
+39:29
+multiplicación no esto sería igual a número por no
+39:42
+y mira si queremos que salga en pantalla
+39:47
+sería poner bien Si queremos que salgan todas miren
+39:52
+lo podemos hacer así F de que vamos a ponerlo
+40:09
+No mi hermana ver La magia de esto [Música]
+40:25
+okay
+40:31
+aquí nos dio todas las tablas no así nos dio el cuadrado uno por uno uno
+40:38
+no uno por dos igual a dos uno por tres igual a tres y así bien para que vean
+40:44
+que no les miento
+40:50
+seis siete ocho nueve y hasta la tabla del 10 no
+40:58
+está muy padre porque aquí python ya nos dio todas las tablas de un solo golpe no y por qué pasó esto chavos porque usamos
+41:06
+el dentado Sí mande tiene una pregunta
+41:13
+o no sé bueno básicamente estos son los sitios anidados no
+41:21
+un ciclo por muy bien
+41:27
+vamos a verlo más a detalle después en programación estas son herramientas chavos o sea ustedes pueden usar fords
+41:35
+dentro de ifs dentro de Ford funciones dentro de o sea aquí es cuanta lógica y
+41:41
+cuanta Perdón
+41:46
+un problema técnico Entonces se conectó el internet Pero bueno vamos de nuevo
+41:54
+bien
+42:15
+intentando compartir pantallas
+42:27
+Okay creo que ya Okay cerrando también
+42:42
+Okay chavos Pues bueno este
+42:47
+Así es como decíamos que estaba el sitio for anidado y vamos a ver lo que estamos viendo ayer el ciclo White el sitio web
+42:56
+su nombre lo dice o sea alguien tenía como la duda de que
+43:01
+si quisiéramos nosotros como setear el rango como decir ah quiero que me dé o sea
+43:07
+del del quince al veintisiete del 15 al 27 Pues mira sería muy simple
+43:13
+ponle ya límite inferior no
+43:20
+límite superior No si tú quieres hacerlo así
+43:26
+tendrías que ponerle input no y preguntarle al usuario por ejemplo no
+43:32
+este Juan Juan quieres que sea tu límite
+43:41
+inferior no muy bien y bueno acuérdense que se tiene
+43:47
+que ser
+43:53
+superior cuál es tu Límite superior no un espacio para hacerlo más
+44:02
+estético okay miren es hacer esto y aquí nada más le cambiaríamos esto no
+44:08
+el límite inferior cuál es
+44:14
+el límite superior
+44:22
+el límite inferior el límite superior
+44:30
+ahí no no ahí no se cambia
+44:35
+espera Depende cómo lo quieres es que no te entendí en esa parte cómo lo quieres que sea nada más del uno al diez
+44:42
+entonces okay Si es así y es así
+44:49
+cuál decías el 17 y cuál es el otro
+44:55
+bueno y nueve no
+45:01
+O sea si quieres Esto si es a lo que te referías de que es así no sé si te
+45:08
+entendí lo que te referías o Sí justo Ah okay muy bien entonces solo sería
+45:14
+cambiarle ahora sí que el límite inferior y el límite superior en el
+45:20
+primero No el segundo no sea necesario si solo quieres que sean del uno al día Yo pensé que querían la cuadrante Pero
+45:26
+qué Entonces nada más es hacer esto chavos acuérdense todo esto son herramientas o sea aquí depende de
+45:33
+Cuánta lógica tengamos no por eso le por eso vamos a ver hace que en la siguiente semana es la parte de matemáticas
+45:39
+discretas porque pues al final les digo lo más importante de programación es la
+45:45
+lógica porque la lógica les permite después hacer algoritmos que como les dije lo importante es ver las
+45:52
+estructuras de datos y su relación entre ella no Entonces si la lógica matemática
+45:58
+es fundamental aquí la verdad es que por eso vemos matemáticas discretas matemáticas discretas es la parte de
+46:04
+matemáticas que trata con Pues como dice o sea no se acuerdan en existe lo
+46:10
+continuo y lo discreto lo continuo es como el sonido la luz cosas así físicas
+46:16
+no que [Música] pues es como las derivadas no las funciones O sea que en cada espacio por
+46:22
+más chiquito que lo hagas Siempre va a haber algo y lo discreto no lo discreto es que hay por ejemplo es como las
+46:27
+personas no puede decir que tienes uno punto dos personas o sea tienes una dos
+46:32
+tres cuatro o sea son los números enteros eso es lo que es discreto Bueno luego lo vamos a ver cuando veamos lo de
+46:38
+matemáticas discretas pero es por eso que es muy importante por la lógica Okay muy bien
+46:44
+vamos a seguir un poco para que nos dé un poco de tiempo del White Loop del ciclo así que pues no me lo dice Why en
+46:51
+inglés en español significa mientras esto sea verdadero Pues me va a correr
+46:56
+este código aquí Tenemos que tener un poco de Cuidado con el While Porque si nosotros no O sea si esto siempre es
+47:02
+verdadero Entonces el ciclo siempre se va a correr verdad O sea mira aquí lo podemos hacer un poco
+47:10
+más Dinámico por ejemplo aquí podemos poner okay
+47:18
+nombre sorpresa digamos imagínense que esto no lo viera el usuario Bueno o sea
+47:23
+este nombre sorpresa este que le preguntamos a un usuario por
+47:29
+ejemplo este le preguntamos al usuario uno no de que Dime el nombre sos
+47:40
+Okay aquí podemos poner el no y pones Mira es exactamente lo mismo nada más
+47:46
+que en vez de Juan de ser algo estático lo hacemos Dinámico No desde Juan se
+47:54
+pone nombre
+48:05
+y que te diga este Bueno lo mismo pero aquí adivina el nombre sorpresa
+48:14
+[Música] digamos que fuera como un jueguito no
+48:19
+niños chiquitos adivina el nombre sorpresa
+48:29
+y no este ahora sí que
+48:35
+este le podemos poner no un bien aquí podemos hacer algo
+48:41
+[Música]
+48:56
+bien Aquí vamos a empezar a ver una cosa interesante
+49:03
+que es el no Okay miren este
+49:13
+aquí le podemos poner este ese no es el nombre
+49:28
+[Música]
+49:33
+bien Como le digo chavos o sea ustedes pueden complicárselo o pueden hacerlo más interactivo cuando ustedes quieren
+49:39
+no este break Qué hace
+49:44
+cuando estás dentro de un ciclo sea foro White si llegas al break este te saca
+49:52
+del o sea acaba el ciclo no importa Este acaba el sitio no Okay bien Vamos a
+49:59
+correrlo Ay no sé alguien entonces
+50:05
+[Música]
+50:11
+Ah sí me faltó este Okay bien aquí dice el error no este
+50:20
+[Música] de ver como promocionarlo para hacerle interactivo okay Porque aquí corría Ah
+50:28
+okay uno vacío
+50:44
+Ok bien digamos que esto no lo vio el usuario o sea esto lo puso tu usuario no pongo
+50:52
+ese no es el nombre sorpresa intenta nuevamente Oscar
+50:57
+hasta que yo pongo se rompe el ciclo no bien aquí podría
+51:04
+poner print o sea para hacerlo todavía más interactivo Felicidades ganas
+51:16
+Déjame lo voy a poner un poco estético que más
+51:26
+no sé alguien Carlos adivina el nombre sorpresa bien si pongo
+51:33
+Carlos así qué creen que me va a decir que sí o que no
+51:44
+alguien Qué piensan que va a pasar que no que no
+51:49
+verdad por qué porque tiene que ser exactamente igual acuérdense que dijimos que en programación acuérdense por el
+51:55
+código asky las computadoras sí diferencian entre minúsculas y mayúsculas Entonces ese realmente Mira
+52:01
+ese no es el nombre correcto igual bien Ahora vamos a poner a los y al final una
+52:07
+es mayúscula tampoco verdad hasta que yo pongo Carlos como lo puse al principio
+52:16
+Okay esto funciona por ejemplo con las contraseñas bueno no se los pongo porque eso van a hacerlo ustedes pero así es
+52:22
+como funcionan las contraseñas le puedes poner un contador les digo Aquí se lo pueden complicar tanto como ustedes
+52:27
+quieran le pones un contador de que Ah no pues hasta la tercera vez si pasa hasta la tercera vez le puedes poner un
+52:33
+break y que te ponga twink este cuenta bloqueada por ejemplo qué es lo
+52:40
+que hacen nuestros celulares nuestros celulares están siempre que usan un sitio web o un sitio Ford digo pueden
+52:46
+hacerlo con cualquiera de los dos este y pueden poner no que hasta el número tres
+52:51
+O sea que tengas tres intentos no por ejemplo con un ciclo Ford y si no pues que se salga del ciclo y te diga no pues
+52:58
+este te mande a otro lado no de que este bloquear bloquear la cuenta Eso es lo
+53:03
+que hacen así que lo hacemos todo o sea el día con día nuestros celulares en Facebook en todo en las cuentas de banco
+53:10
+que te dan solo como tres intentos no Y eso se usa con los ciclos foros ahí o
+53:17
+sea se puede hacer con cualquiera de los dos acuérdense chicos que al final de esto cuentas todos tus herramientas es
+53:23
+como tú construir un carro no lo puedes construir con un desarmador con una armadura son herramientas No tú decides
+53:29
+al final qué necesitas no lo puedes soldar lo puedes Este ahí es lo mismo en programación al final
+53:37
+de cuentas todo estas herramientas y depende de nosotros ahora sí que nuestra lógica y nuestro diseño nuestro plan que
+53:44
+queremos que necesitamos Okay chavos no sé si tengan alguna pregunta o alguna duda
+53:53
+la segunda línea está de name igual y los corchetes para qué es
+53:58
+cuál segunda en cualquier otro ejemplo
+54:06
+unos corchetes este
+54:12
+es para que python no te mande el error o sea porque python si tú no defines el
+54:17
+nombre Esta es una lista vacía esto básicamente es como los contadores por
+54:22
+ejemplo muchos contadores o sea dentro de los ciclos los defines en cero los
+54:28
+defines en uno no porque más adelante los vas a usar pero python te hace ruido
+54:34
+si tú por ejemplo porque aquí python está leyendo esta variable no
+54:40
+y python te pregunta oye pues esta No la has definido en si se acuerdan bien si lo comento lo que me decía python Bueno
+54:48
+este Porque primero acuérdense que python va de arriba hacia abajo entonces python primero está leyendo esta línea
+54:53
+Entonces yo le pongo que no sé
+55:00
+adivina el nombre sorpresa aquí va a haber un problema porque no está el este bueno es que no estamos definiendo name
+55:07
+Y ese es el problema no profe O sea el problema que aquí como ya lo tenía guardado ya no pasó lo de la vez pasada
+55:14
+porque ya lo tenía guardado pero cuando tú no lo tienes guardado la primera vez si te da exactamente el problema que
+55:20
+teníamos porque tú no definías en name Y acuérdate que eso es el tipo de error
+55:28
+name error no Entonces esto es como un en inglés o sea lo pones mientras para
+55:34
+que el código no te haga ruido para que el interpretador de python no te diga que tienes un error de nombre No ya como
+55:42
+asignar nada asignar la variable pero sin valor o sea exactamente es como en
+55:47
+los contadores asignarle el valor de cero no a un contador Tú empiezas en cero y luego le vas aumentando no
+55:54
+entonces para que python no te haga ruido porque no has definido la variable
+56:01
+más o menos Sí así ya me queda más claro Muchas gracias
+56:07
+no tengan otra pregunta
+56:14
+cualquiera que sea
+56:23
+si no pues Bueno nos vemos hasta el miércoles chavo porque les había dicho que el lunes y martes tengo unas cosas
+56:30
+que hacer pero bueno ya el miércoles nos vemos y ya el miércoles ya empieza lo de
+56:35
+o sea esta semana todavía Hoy tampoco va a haber discossion hasta la siguiente semana ya hasta la siguiente semana ya
+56:41
+empieza todo el etcétera Pero bueno empieza a partir del miércoles porque el lunes y martes no hay clases
+56:48
+no es como su puente y por quién ver así entonces pues bueno chavos nos vemos y
+56:54
+nos vemos hasta el miércoles Gracias profe Buen día hasta luego

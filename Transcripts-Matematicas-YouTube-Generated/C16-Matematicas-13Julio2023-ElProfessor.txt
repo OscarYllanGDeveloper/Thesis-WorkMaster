@@ -1,0 +1,708 @@
+0:02
+Okay muy bien chavos acuérdense que vimos ahora sí que todo esto
+0:09
+verdad vamos a empezar todo lo que hemos visto en la semana
+0:16
+no muy bien Vamos a empezar no qu vimos que la
+0:23
+introducción a cálculo diferencial verdad y vimos este bueno los temas que
+0:29
+habamos visto anterior mente el concepto de función chavos acuérdense El dominio
+0:34
+y el rango que El dominio era Todos los valores que x puede tomar y el rango todos los valores que f dex o y pueden
+0:41
+tomar no muy bien los tipos de funciones bueno acuérdense que también vimos de dominio y Rango que tenemos que ver una
+0:47
+función y saber identificar este Cuál es el dominio y el rango de la función muy
+0:52
+bien este también acuérdense que vimos ahora s que este la bueno las propi cálculos
+1:00
+de límites etcétera acuérdense que dijimos que un límite verdad un límite
+1:07
+bueno por ejemplo lo que tenemos en el recuadro morado se lee como el límite de
+1:12
+x cuando tiende a
+1:18
+c dice acuérdense que esto se le como el límite de
+1:24
+x cuando tiende a c de F dex es igual al
+1:32
+límite l muy bien chavos básicamente es lo que
+1:37
+dice aquí la frase vimos algunas propiedades de los límites verdad
+1:43
+dijimos que el límite de una constante es igual a la constante porque
+1:49
+acuérdense que dijimos que los límites básicamente es como sustituir para las funciones sencillas por ejemplo este f2
+1:56
+= 7 verdad es como si sustituyamos acuérdense que lo que va dentro del
+2:02
+paréntesis es sustituir en la función sustituir en una función constante pues
+2:07
+te va a dar la misma constante acuérdense el límite era ir por la izquierda derecha izquierda derecha hasta acercarte verdad y aquí pues
+2:14
+cuando vale dos verdad cuando el límite de x cuando tiende a do va a valer igual 7 Entonces es si muy bien acuérdense
+2:23
+también que vimos este que bueno dijimos que era como sustituir verdad en una
+2:29
+función normal por ejemplo aquí el límite de x cuando tiende a 2 de X cuada
+2:34
+chavos nos da el sustituir el 2 aquí verdad que sería 2 cu 4 o este
+2:42
+acuérdense que vimos el límite de x cuando tiende a 5 verdad de X a la
+2:47
+cuarta que sería equivalente a sustituir el 5 en el X verdad que nos daría 5 a la
+2:52
+cuarta y nos daría 625 muy bien también acuérdense que
+2:58
+vimos de los límites que la cuando una constante se está multiplicando por una
+3:04
+función el límite por ejemplo como este límite de x cuando tiende a 2 de 8 de X
+3:11
+el 8 la constante el número sale de esto multiplicando como lo vemos aquí como se
+3:18
+ve aquí muy bien acuérdense también que vimos que los límites tienen la propiedad distributiva chavos Qué quiere
+3:25
+decir que el límite de x cuando tiende acá de esto chavos Es que le aplicáramos
+3:30
+el límite a esto más el límite a esto aquí se ve límite de x cuando tiende acá
+3:37
+de F dex más el límite de x cuando tiende acá de GX muy
+3:43
+bien aquí chavos es el límite de x cuando tiende acá de F dex - GX verdad
+3:52
+esto es igual al límite de f x cuando tiende a acá de F dex menos el límite de
+3:58
+x cuando tiende acá de G de x muy bien es propiedad distributiva para resta
+4:03
+para multiplicación límite de X cu tiende acá de FX por límite de x cuando
+4:09
+tiende acá de G dex muy bien y la de la división es lo mismo le aplicamos el
+4:15
+límite al numerador y al denominador muy
+4:20
+bien Bueno AC la derivada que era igual a la pendiente verdad Solo cuando H que
+4:28
+H dijimos que era del x verdad cuando Delta x tiende a oer cuando el cambio es
+4:33
+infinitamente pequeño infinitesimal verdad cuando tenemos la diferencial de
+4:38
+y entre la diferencial de X verdad cuando tenemos esto chavos es cuando
+4:44
+este tenemos la derivada que es la pendiente muy bien y bueno vimos que
+4:49
+algunas aplicaciones de la optimiza bueno la derivada es optimizar que es encontrar máximos o mínimos no a
+4:57
+conveniencia muy bien vimos buen Esas son algunas propiedades
+5:02
+de las derivadas no que las vimos ya este aquí en esta tabla acuérdense que
+5:10
+les dije que si se tenían que aprender unas eran estas tres a ver chavos alguien que me diga
+5:16
+cuánto es la derivada de una constante cero cero cero no muy bien entonces por
+5:23
+ejemplo la derivada de 15 Cuánto es cero cero porque siendo una constante
+5:30
+10000 Muy bien Entonces esta era la primera la segunda es que si una
+5:35
+constante está multiplicando una función la constante sale de la derivada muy
+5:41
+bien y la tercera era la de las potencias esta nos sirve para todas las
+5:47
+x cuadradas x cúbicas para cualquier ecuación polinomial chos para cualquier
+5:53
+ecuación polinomial nos sirve esta que por ejemplo si tuviéramos la
+5:58
+derivada voy a poner Este ejemplo vamos a
+6:03
+practicar mucho esta por ejemplo la derivada de
+6:09
+X 8x qu Qué es lo primero que haríamos acuérdense que dijimos que la constante
+6:16
+sale de la derivada multiplicando verdad 8 por derivada de x5a vamos a aplicar la
+6:24
+regla de las potencias que es una de las que les pedí que se aprendieran cuánto nos da de
+6:30
+X5 5 cu 5x cu verdad nos quedaría bueno
+6:37
+8 * 5x cu verdad De dónde viene acuérdense de la fórmula que decía que
+6:44
+la derivada no de X a la n es ig n * x a
+6:50
+la n - 1 sí o no chos muy bien entonces bueno 8 * 5 nos
+6:57
+queda 40 y bueno x cuarta sí o
+7:03
+no vamos a hacer otro caso por ejemplo la derivada de vamos a
+7:11
+poner variarle otro
+7:21
+número Bueno antes Bueno antes de hacer esta Déjenme recordamos también vimos de
+7:28
+otras verdad de otros tipos de funciones como las derivadas de las exponenciales
+7:33
+acuérdense que les puse hasta los memes no de que la derivada de e a la x sigue siendo la misma verdad de que este no
+7:41
+cambia O sea la derivada de e a la x es a la x y vimos aquí el caso más general aquí cuando tenemos para cualquier base
+7:48
+chavos no la derivada de a la x no es igual a a a la x por logaritmo natural
+7:55
+de a okay Que dijimos Por ejemplo si aplicamos esta regla general para todos qué nos dice a
+8:04
+la x la base por ejemplo derivada de e a la x la base Cuál es e entonces e a la x
+8:10
+verdad que sería esta parte por logaritmo natural de la base por la
+8:17
+logaritmo natural de la base o sea logaritmo natural de e Cuánto es logaritmo natural de e chavos uno uno
+8:25
+verdad Muy bien Entonces nos daría uno verdad por eso que este esta e a la x
+8:31
+está multiplicando a un y por eso se queda así muy bien las derivadas de los
+8:37
+logaritmos chavos derivada de los logaritmos la derivada del logaritmo
+8:42
+natural de x nos daba 1 entre x chavos y la derivada de logaritmo de cualquier
+8:49
+base base a de X es igual a 1 entre x
+8:54
+por logaritmo natural de la base y por ejemplo aquí demostramos de nuevo no Por
+9:00
+qué este es 1 a la x Ah porque dice que el general es 1 entre x logaritmo
+9:06
+natural del bueno de la base no el logaritmo natural de la base no
+9:11
+este en este caso es la base e verdad Entonces logaritmo natural de e nos da
+9:18
+igual 1 y nos daría esto 1 ent x * 1 lo cual nos da 1 en x no muy bien Bueno
+9:26
+acuérdense que también vimos de las funciones trigonométricas vimos que la derivada
+9:32
+del seno es el coseno la derivada del coseno
+9:38
+es os seno de X verdad Muy bien y vimos que la derivada de la tangente es igual
+9:46
+a 1 entre coseno cuadrado de X también Estuvimos viendo acuérdense que es muy
+9:51
+diferente y que no hay que confundir los recíprocos de las inversas sí o no
+9:58
+chavos los recíprocos es que tú tengas uno ent
+10:03
+la función por ejemplo uno entre seno de X también se le llama cosecante de X el
+10:09
+cual es completamente diferente a seno inverso o a arc acuérdense que lo vimos
+10:15
+en desmos que eran gráficas completamente diferentes entonces son
+10:20
+cosas completamente diferentes no hay que confundirlos muy bien Bueno luego vimos acuérdense que
+10:28
+esta además de la tabla que les había presentado también está esto que es muy
+10:34
+importante chavos estas cuatro reglas Ya vimos la de la potencia la habíamos
+10:40
+visto la del producto también la vimos acuérdense la regla del producto que nos
+10:46
+dice cuando nosotros derivamos dos funciones de X que se están
+10:51
+multiplicando no nos da lo siguiente la derivada de F dex la primera función
+10:59
+acuérdense que aquí no importa el orden o sea cualquiera de las dos funciones puede ser f dex o GX porque porque desde
+11:07
+aritmética acuérdense chavos que lo hemos visto desde primaria que el orden de los factores no altera el producto no
+11:15
+acuérdense que la multiplicación no importa entonces pues bueno cosas que hemos visto desde primaria por eso vimos
+11:20
+lo de aritmética chavos porque al final no estas cosas
+11:28
+que hemos visto de des de hace años desde primaria pues se siguen aplicando en esto okay muy bien y bueno la
+11:37
+derivada no de fdx o sea por GX nos da lo siguiente la
+11:45
+derivada de F dex por la gdx por la segunda función así a secas no más más
+11:54
+la derivada de la segunda función o sea de G dex por FX acuérdense que no
+12:01
+importa o sea nosotros podemos alternar si nosotros queremos como es producto no importa cuál elijamos como F dex que de
+12:08
+X acuérdense que vimos esta ayer derivada de 5x cu por bueno por
+12:15
+logaritmo base 10 dex que aplicando la regla del producto nos da que la
+12:20
+derivada de fdx aquí acuérdense que pusimos que FX ser igual a 5x cu Entonces vamos a hacer la derivada de
+12:26
+esto por G dex o sea por logaritmo base 10 dex muy bien más no derivada de GX GX
+12:37
+dijimos que era Esto entonces la derivada va a ser derivada del logaritmo base 10 dex muy bien por 5x cu por 5x cu
+12:47
+no muy bien Entonces eso es lo que nos da
+12:53
+verdad Muy bien aquí per este bueno
+12:59
+aplicando la derivada de esto chavos acuérdense la constante Qué le pasa sale
+13:05
+multiplicando verdad Muy bien y nos da esto derivada de X cuadrada Cuánto es la
+13:10
+derivada de X cuadrada chavos 2x muy bien Es 2x verdad Entonces nos da
+13:18
+5 * 2x por logaritmo base 10x esto sería la parte izquierda mu bien la parte
+13:25
+derecha de la suma no va a ser derivada de logaritmo base 10 de X vimos en las
+13:30
+tablas que es igual a 1 entre x por logaritmo natural de la base Cuál es la
+13:38
+base 10 10 verdad Entonces logaritmo natural de 10 muy bien por G bueno
+13:45
+perdón por F dex por la primera función que dijimos que F dex era 5x cu Entonces
+13:51
+nos queda esto muy bien entonces nos da que 5x cuadrada no
+13:59
+por aquí lo ponemos aquí arriba como se ve y bueno acuérdense este x se va a
+14:04
+eliminar y este se va a quedar así sin potencia entonces por eso nos queda como aquí
+14:10
+no 5x entre logaritmo natural de 10 y bueno la parte izquierda que teníamos
+14:15
+que solo nos faltaba simplificar 5 * 2 10 10x logaritmo base 10 dex y esto era
+14:23
+la respuesta de esto que esto era la regla del producto chavos muy bien
+14:30
+luego está la regla del cociente la regla del cociente chavos
+14:36
+acuérdense que es tener una función en el numerador y una función en el
+14:43
+denominador acuérdense que cociente dijimos que era división razón fracción
+14:49
+el sinónimo que ustedes quieran ponerle no muy bien y qué dijimos de esta la
+14:56
+regla del cociente decía lo siguiente que es la derivada de la función en el
+15:03
+numerador que es F dex por la función en el
+15:10
+denominador menos la derivada en el
+15:15
+denominador por la función en el numerador y todo esto entre la función
+15:23
+del denominador al cuadrado muy bien chavos acuérdense ayer que Bueno ayer me
+15:31
+acuerdo este vimos no la comprobación de que la derivada de la
+15:38
+tangente de X no era igual a esto Esto es lo que vien
+15:44
+las tablas muy bien Vamos a comprobarlo Bueno lo comprobamos ayer que dijimos
+15:50
+que la tangente de X es igual a también a seno de x entre coseno de X
+15:56
+verdad Muy bien y bueno f dex en este caso es seno de X por qué porque es la
+16:03
+que está en el numerador verdad es la que está en el numerador numerador okay
+16:10
+Y en el denominador está GX que es coseno de X verdad Muy bien al aplicar
+16:16
+esta fórmula de la regla de la del cociente no es la derivada no de seno de
+16:23
+X de lo que está arriba por coseno de X verdad Bueno por gdx no aquí como está
+16:30
+derivada de fdx derivada de fdx por gdx por gdx entonces derivada de esto de
+16:37
+seno de X por coseno de X menos la derivada no de gdx GX es coseno
+16:45
+de X Entonces vamos a ponerlo como derivada de coseno de X multiplicado por f dex o sea la que está en el numerador
+16:53
+que ya habíamos dicho que era este muy bien entonces chavos Pues muy bien
+16:59
+miren vamos a seguir este derivada de seno de X cuánto nos da
+17:05
+chavos coseno de X muy bien coseno de X verdad coseno de X por coseno de X me
+17:16
+da coseno cuadrado de X Muy bien yaan gracias Y aquí chavos derivada de coseno
+17:23
+de X cuánto me da
+17:28
+men seno de X menos seno de X muy bien en menos seno de X el menos se
+17:34
+multiplica por este menos menos por menos me da más verdad más seno de X por
+17:42
+seno de X me da seno cuadrado de X verdad Y tenemos
+17:49
+Esto entonces coseno cuadrado de X más seno cuad de X esto es igual a una
+17:55
+identidad trigonométrica que también lo vimos verdad Por qué es igual esta identidad hay que ver el círculo
+18:02
+unitario Okay aquí está pero se acuerdan de Cuánto medía el radio del círculo
+18:09
+unitario uno uno verdad Muy bien el mismo nombre lo dice unitario una unidad
+18:16
+muy bien okay acuérdense que nosotros teníamos que el radio verdad iba Bueno
+18:22
+del centro verdad a cualquier parte de la circunferencia Y en este caso este
+18:28
+radio es la hipotenusa no bueno acuérdense que nosotros al unir el radio verdad aquí si vemos su componente y y
+18:35
+su componente x formamos un triángulo rectángulo y al formar el triángulo
+18:41
+rectángulo tenemos una hipotenusa el cual era el radio verdad Okay y dijimos que a era el eje x
+18:50
+que a qué función trigonométrica representaba coseno muy bien coseno
+18:57
+verdad verdad y b representaba y que a qué función trigonométrica representaba
+19:05
+seno no muy bien entonces nada más sería sustituir chavos verdad a que vale
+19:11
+coseno de X lo sustituimos en el teorema de Pitágoras verdad Entonces sustituimos acuérdense que esto es coseno de X sería
+19:19
+coseno cuadrado de X verdad más más b cuad b lo sustituimos por seno de X
+19:28
+verdad Entonces tenemos que es seno cuadrado de X muy bien entonces Esto va a ser igual al y C dijimos que era el
+19:35
+radio entonces me va a dar que radio cuadrado es igual a coseno cuadrado de X
+19:40
+más seno cuadrado de X sí o no
+19:45
+chavos Okay y dijimos que el radio Cuánto valía en el círculo
+19:52
+unitario un 1 ent sustituimos radio por 1 nos queda 1 cuadr es igual a coseno
+19:59
+cuadrado de X + seno cuadrado de X Y cuánto nos da 1 al cuadrado cuánto nos da 1 * 1 1 un verdad Entonces es 1 es
+20:08
+igual a todo esto coseno cuadrado de X + seno cuado x el cual Entonces estos
+20:15
+chavos es igual a uno muy bien y Bueno aquí vimos no que la
+20:22
+equivalencia acuérdense que este 1 entre coseno cuadrado de X es equivalente acia
+20:28
+cu x por qué porque acuérdense que 1 ent coseno de X es igual a secante no de x y
+20:34
+si tenemos esto al cuadrado pues tenemos esto al cuadrado verdad puo también secante cuadrado x y hay otra propiedad
+20:41
+trigonométrica que nos dice que secante cuadrada de X es igual a 1 + tangente
+20:47
+cuadrada de X muy bien
+20:52
+Bueno eso fue la regla de bueno el pasado fue la del cociente y existe la
+20:59
+regla de la cadena acuérdense que para ver la regla de la cadena vimos lo que era composición de funciones no chavos
+21:06
+muy bien la composición de funciones A lo mejor ustedes la conocen como el fog
+21:11
+F un círculo y G no dx que a qué es equivalente es equivalente a tener
+21:18
+nosotros esto okay O sea GX sustituido en F no O
+21:27
+F de GX muy bien acuérdense que vimos no que lo que está dentro del paréntesis es lo
+21:34
+que vamos a sustituir en la función por ejemplo aquí F si este es nuestro miren a ver voy a
+21:42
+dejar esto nosotros tenemos ahora F dex es igual a 2x cbica y nos
+21:52
+dan Cuánto valdría esto chavos o chavas cuánto valdría
+22:06
+vamos chavos cuánto
+22:13
+vale pues dos muy bien no exactamente porque esto sería 2 por 1 al cubo verdad
+22:20
+sustituimos esto y nos da dos para la misma función si le pongo
+22:25
+dos por ejemplo cuánto valdría
+22:32
+sería 16 en total bienos al cubo 8 * 2
+22:37
+16 muy bien el punto es que es básicamente lo que está dentro del paréntesis es sustituir es lo importante
+22:45
+y qué tal si nosotros en vez de usar un número sustituimos toda una función qué
+22:51
+es lo que pasa aquí si tenemos que FX es coseno de x y GX es x - 4 si hacemos F
+22:59
+de G dex Es que esto lo sustituyamos aquí en la x verdad entonces en vez de
+23:05
+ser coseno de X va a ser coseno de X cu - 4 por qué vimos esto chavos porque la
+23:13
+regla de la cadena es que nosotros apliquemos una derivada bueno la derivada Más bien a una composición de
+23:22
+funciones chavos Okay y miren Aquí les puse por ejemplo
+23:28
+Qué pasa si tenemos una función dentro de una función dentro de una función pues tenemos que aplicar la regla de la
+23:33
+cadena no varias veces muy bien que les haía dicho Este ejemplo por ejemplo el
+23:39
+del coseno cuadrado de X no esto es como si tuviéramos
+23:45
+un x cuadrado no O sea bueno todo este se va a aplicar la derivada a todo esto
+23:52
+ver si no se las puse aquí bien también bueno acuérdense que ayer vimos no un ejemplo que esta era la
+24:02
+este derivada de esto no muy bien y este del producto y nos daba lo siguiente no
+24:09
+tenemos la derivada de esto está muy padre Este ejemplo porque era usar la
+24:15
+regga de la cadena con la regga del producto por qué porque tenemos
+24:20
+acuérdense no el seno cuarto de X es como si tuviéramos x a la cuarto no en
+24:27
+el sentido de que al derivar esto qué nos queda 4x cica y sustituimos x por GX
+24:34
+verdad Entonces nos quedaría 4 seno cúbico de X sí o no
+24:44
+chavos Esa es la primera parte pero la regla de la cina dice que también tenemos que derivar GX o sea derivar
+24:52
+seno de x y la derivada de seno de x nos daría coseno de X muy bien Qué es lo que
+24:59
+hicimos aquí okay Y nos dice la rega del
+25:05
+producto no que esto es por GX que aquí está
+25:11
+más la derivada de esto logaritmo base 10 de X cu + 4x que lo hicimos aquí que
+25:18
+esto también sigue siendo la regla de la cadena chavos sí o
+25:23
+no muy bien y dijimos que esto es como si x no como si todo esto lo pudieramos
+25:30
+sustituir por x verdad y vamos a aplicarle la derivada nos queda 1 ent
+25:35
+Bueno este lo sustituyo en vez de que fuera x lo sustituyo por lo que estaba
+25:41
+aquí adentro x cu + 4x muy bien por logaritmo natural de la base que es logaritmo natural de 10 y todo esto
+25:49
+multiplicado dijimos que por la derivada no la derivada de GX que este caso GX es
+25:55
+x cu + 4x Y cuánto es la derivada de X cuadrada
+26:00
+chavos 2x 2x verdad Muy bien Y cuánto es la derivada de
+26:08
+4x 4 bien + 4 verdad Perfecto entonces nada más es esto lo multiplicamos y lo
+26:15
+pasamos aquí arriba verdad Y pues ya y bueno sin olvidarnos esto no más
+26:22
+sera de la derivada de logaritmo base 10 nos faltaba la parte del seno cu de X no
+26:28
+y por eso aquí lo incluí y el resultado final es
+26:34
+este muy bien No sé si se acuerdan que les había
+26:39
+dicho este no sé no me acuerdo si alguien Sí lo me lo mandó ayer Déjenme checar si no
+26:49
+pues Déjenme
+26:56
+ver No creo que no no nadie me lo
+27:05
+envió entonces chavos Pues bueno Vamos a ponernos a practicar hagan este les
+27:14
+doy pues para no pasarme tanto 6 minutos 6 minutos chavos y mandenme la foto así
+27:22
+que por WhatsApp y vemos si le salió aquí se bueno se usan varias cosas se
+27:28
+usan como dice la regla del cociente y de la cadena Así que a ver inténtenlo
+27:35
+chavos les doy bueno 6 minutos Sí si no le doy dos más pero inténtenlo hacer en
+27:41
+a ver si en 6 minutos
+27:56
+chavos
+35:56
+Cómo van chavos chavas Cómo
+36:07
+van Bueno si quieren les dejo otos 4 minutos más si no ya empiezo a intentar
+36:14
+resolverlo pero de verdad inténtenlo chavos me lo mandan por favor por
+36:25
+WhatsApp
+40:12
+Okay chavos cómo van están cerca o quieren que ya la
+40:19
+empiece a resolver ustedes me digan Yo ya casi profe más okay va
+40:27
+entonces les doy unos TR minutos más para que me lo manden por WhatsApp por favor
+40:55
+Gracias
+43:40
+chavos vamos a ver al menos la que me mandaron vamos a
+43:55
+verla
+44:46
+Okay muy bien bien Vamos a ver te dice Qué dice
+45:00
+Okay sería acuérdense bien hacer no f dex en este caso sería todo esto coseno
+45:10
+de X cu + 4 verdad y G dex sería lo de
+45:15
+abajo verdad este x + 1 cubo verdad y la del cociente nos decía que era la
+45:23
+derivada de lo primero O sea va ser la derivada no de ser un cuadrado de x + 4 muy bien
+45:30
+esta parte má 2 + 1 en qué parte no sé
+45:37
+Ah cuando desarrollé el Binomio es que
+45:43
+lo como que igual pero era x cu + 2x + 1 esta
+45:51
+no en mu bien Ahora sí no afecta el
+45:58
+resultado final O sea no lo consideré no hay problema chavos Lo
+46:04
+importante es ver en qué nos equivocamos y Cómo podemos corregirlo
+46:09
+[Música] bien el método no era bueno si lo
+46:16
+hacíamos no de que por la rega del cociente y la rega de la cadena no buen vamos a ver coneto porque no lo
+46:23
+tengo tampoco resultado Así que vamos a ver lo rápido que era Bueno vamos a hacerlo era hacer la derivada no del
+46:30
+primero O sea
+46:36
+de coseno de X cu + 4 verdad y bueno era
+46:43
+multiplicado esto verdad se multiplicaba por la otra la de abajo x + 1 al cubo
+46:51
+verdad menos este la derivada de El de
+46:57
+abajo lo ponemos derivada no de x + 1 al cubo verdad Muy bien por
+47:08
+este cuánto era la otra función que era
+47:17
+coseno de X cu + 4 verdad todo
+47:24
+esto estaba larga yo lo sé este entre la de abajo al cuadrado o sea x + 1 a la
+47:33
+sexta no porque es Elevar esto al cuadrado muy bien y
+47:40
+Bueno un poco más chico a ver si nos
+47:46
+cabe muy bien este Okay vamos a seguirle este la parte
+47:53
+esta que nos falta son estas de las de derivadas aquí hay que aplicar la rega de este si se
+48:01
+acuerdan Cómo se llama de la cadena no de la cadena Muy
+48:08
+bien Entonces al aplicar la regia de la cadena no es hacer lo siguiente vamos lo
+48:13
+voy a poner ahora de azul la derivada de la cadena de estas
+48:19
+partes sería coseno de X cu +
+48:24
+4 que si le hago la derivada a todo eso me
+48:29
+queda la derivada de coseno Cuánto es menos seno menos seno verdad de lo que
+48:36
+tiene adentro sea menos seno de X cu + 4 verdad
+48:42
+por la derivada de lo de adentro o sea voy a poner para que se vea la
+48:49
+derivada de X
+48:54
+cu + 4 verdad sí chavos
+49:00
+Sí muy bien Y entonces esto nos iba a
+49:05
+dar este derivada de X cuadrada pues me da 2x y de 4 es 0 Entonces esto mti esto
+49:12
+nos queda como -2x * seno de X cu + 4
+49:18
+muy
+49:24
+bien mu bien y ahora vamos a hacer la derivada de esta parte la otra rega de
+49:30
+la cadena la otra rega de la cadena chavos pues qué nos dice esto este esto
+49:36
+es vamos a ponerlo en azul también derivada no de este x + 1 cubo lo cual
+49:44
+nos da 3 x + 1 al cuadrado
+49:54
+verdad acuérdense de de los exponentes este sale para acá y este 3 - 1 nos da 2
+50:02
+muy bien y esto es por la derivada de lo de adentro x + 1 que derivada de x + 1
+50:10
+me va a dar 1 y uno por eso me va a dar lo mismo no Entonces nada más
+50:22
+es bien la derivada de todo esto me salía TR por esta no x + 1 cuad muy bien
+50:31
+y ya juntando todo chavos entonces me va a quedar algo
+50:37
+monstruoso ver si lo puedo hacer to un poco más
+50:46
+chico Okay juntándolos chavos no me
+50:51
+daría esto
+51:00
+muy bien por
+51:14
+esto menos menos
+51:19
+verdad la Der de esto x
+51:30
+por [Música] esto okay
+51:37
+entre
+51:50
+esto Qué bueno podíamos hacer la este
+51:55
+extraer no este voy a hacer una factorización y
+52:01
+simplificar un poquito lo único que podemos simplificar es que pusiéramos
+52:07
+el x + 1 al cuadrado verdad Y esto se va
+52:14
+No aquí este se va y Bueno aquí en vez de seis nos
+52:23
+quedaría este cuatro verdad sí ven que esto no estos
+52:34
+así Esto bueno se eliminan y ya nos quedaría el resultado final djen más
+52:40
+chico un poco está muy chico Pero vamos un poco más
+52:54
+chico Okay muy
+53:06
+bien bien sí voa poneros lo
+53:24
+limpio
+53:51
+Y eso sería el resultado final chavos
+54:08
+[Música]
+54:14
+y este es el resultado final
+54:21
+chavos y s que estaba un poco monstruosa pero bueno Así
+54:32
+quedó Okay no tengan Una última pregunta
+54:38
+o duda too les voy a subir esto y lo pueden ir analizando etcétera acuérdense
+54:43
+solo es aplicar fórmulas chavos lo primero que teníamos era la regla del cociente verdad y ya después aplicamos
+54:50
+lo otro okay
+54:56
+bueno chavos practiquen bastante Este mañana lo que vamos a
+55:01
+ver ya esto no Okay las aplicaciones
+55:08
+como es optimización máximo máximos y mínimos concavidad Y convexidad si una
+55:14
+función está creciendo de creciendo por ejemplo elasticidad de la demanda aplicaciones en física derivadas
+55:22
+parciales y así chavos entre las varias cosas que vamos a estar viendo el día de
+55:27
+mañana pero antes de nada intenten echarle un repaso y intenten hacer estos
+55:34
+ejercicios y que les dé la misma respuesta que al final Okay chavos tengan una última duda o pregunta
+55:43
+eh profe en la discusión de mañana nos puede poner ejercicios o es más como
+55:49
+para o bu es que nunca me he metido del viernes a la discusión entonces mu Ian
+55:55
+dig la verdad es que si tienen una duda muy atrasados y prefieren ejercicios pues así que el que se conecte pues
+56:02
+tiene lo que lo que decidan en esa hora por mí está está bien lo que decidan no
+56:08
+Ah Okay muchas gracias va Ah profesor sí eh Bueno justamente ahorita que
+56:16
+mencionaba mi compañero sobre eh lo de la discusión y todo eso lo de los ejercicios que va a dejar eh Como cuándo
+56:23
+lo subiría porque bueno me he metido pero no los he visto Ah No todavía no este mañana entre mañana y el sábado
+56:30
+entre mañana y el sábado okay Muchas gracias nada
+56:37
+este algo más una pregunta o [Música]
+56:46
+duda si no pues bueno ya nos vemos mañana y cuídense mucho
+56:51
+chavos Muchas gracias profe nos vemos
+56:59
+gracias

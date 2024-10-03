@@ -1,0 +1,962 @@
+0:02
+Okay muy bien chavos chavas acuérdense
+0:04
+que bueno si no lo han visto esta es la
+0:09
+actividad que van a tener que realizar
+0:11
+verdad que contiene al menos las
+0:14
+primeras cco semanas de todo lo que
+0:16
+vimos en el curso no entre ellas de que
+0:21
+operaciones básicas leyes de signos
+0:24
+verdad potensias y raíces tipo de
+0:28
+números fracciones
+0:30
+multiplicación de fracciones división de
+0:33
+fracciones suma y resta de fracciones
+0:36
+Potencia de 10 expresiones
+0:39
+algebraicas suma y resta algebraicas
+0:42
+multiplicación algebraica no funciones
+0:46
+exponenciales
+0:47
+logarítmicas leyes de los logaritmos
+0:51
+verdad
+0:52
+ecuaciones exponenciales y logarítmicas
+0:55
+problemas con ecuaciones exponenciales y
+0:57
+logarítmicas no el teorema de Pitágoras
+1:02
+no este sacar la identidad bueno el
+1:06
+círculo unitario verdad como lo hacíamos
+1:08
+la ley de cosenos trigonometría verdad
+1:13
+límites
+1:15
+derivadas que producto de derivadas
+1:18
+cociente y la regla de la
+1:22
+cadena Ok Muy bien van a tener que
+1:26
+realizar todo esto verdad en papel van a
+1:29
+sacarle escaneada ya luego les voy a
+1:32
+decir cómo lo van a Bueno cómo lo van a
+1:34
+poner en gi no muy bien chavas
+1:38
+Este y pues así es como se va a hacer es
+1:43
+los temas de los primeros este de las
+1:47
+primeras cco semanas No desde aritmética
+1:51
+lo muy básico hasta cálculo diferencial
+1:53
+es lo que van a tener que hacer para
+1:55
+esta primera
+1:57
+actividad Ya se las mandé por WhatsApp
+1:59
+tambi está en el Drive es actividad uno
+2:02
+la van a tener que realizar muy bien no
+2:06
+está la verdad no está tan difícil digo
+2:09
+si está un poco largo Son seis hojas
+2:11
+Este no sé cuántos creo que son como 25
+2:15
+ejercicios por ahí
+2:18
+este pues tiene de mucho de todos los
+2:21
+temas verdad Entonces está bastante bien
+2:25
+muy bien y Bueno ahorita hoy en esta
+2:31
+clase vamos a practicar
+2:34
+tanto poquito cálculo diferencial y
+2:38
+cálculo integral este lo que hemos visto
+2:41
+hasta ahorita vamos a hacer algunos
+2:43
+ejercicios de estos temas para que los
+2:47
+tengamos Pues bien sólidos no no nada
+2:49
+más verlos sino también
+2:52
+hacerlos muy
+2:58
+bien
+3:06
+Okay muy bien Bueno pero antes de
+3:09
+empezar Pues a lo mejor está bien darle
+3:11
+un repaso antes de que empecemos a hacer
+3:14
+los ejercicios mu
+3:16
+bien acuérdense que cálculo integral
+3:20
+integral trata de encontrar el área bajo
+3:22
+la curva de las funciones muy
+3:25
+bien el área bajo la curva es este
+3:30
+acuérdense que habíamos visto por
+3:32
+ejemplo Cómo encontrar el área para una
+3:35
+función constante que era ser base por
+3:37
+altura por ejemplo de esta función
+3:39
+lineal verdad que era este sacar por
+3:43
+ejemplo un área luego la otra sumar las
+3:45
+áreas muy
+3:47
+bien luego vimos que hay otra forma de
+3:50
+hacerlo como con rectángulos por la
+3:53
+izquierda o por la derecha Muy
+3:56
+bien Entonces vamos a
+4:00
+este ponernos a practicar esto
+4:02
+acuérdense que bueno dijimos que la base
+4:06
+es igual a Delta x verdad
+4:09
+de los rectángulos y la altura era F dex
+4:14
+sí o no chavos muy bien F de x1 F de x2
+4:18
+y al final sumamos todos estos y nos da
+4:20
+un área aproximada que no es la exacta
+4:23
+la exacta es cuando aplicamos el límite
+4:25
+no de x cuando tiende a cero muy bien y
+4:30
+bueno Cuántos rectángulos vamos a tener
+4:32
+infinitos verdad Muy bien y
+4:37
+bueno acuérdense de lo que vimos de las
+4:40
+sumatorias no las sumatorias básicamente
+4:44
+son una fórmula que nos expresa la regla
+4:46
+de una suma con un patrón dijimos que la
+4:49
+parte de abajo es
+4:57
+qué el límite inferior exactamente muy
+5:01
+bien la parte de arriba es el límite
+5:03
+superior hasta dónde termina y el otro
+5:06
+es una fórmula no muy bien Entonces
+5:11
+vamos ahorita vamos a ver lo siguiente
+5:13
+Pero Okay y habíamos visto no que la
+5:17
+integral es igual a cuando tenemos el
+5:20
+límite de Delta x cuando tiende a cero
+5:22
+de la sumatoria de las áreas de todos
+5:25
+los rectángulos no cuando los
+5:28
+rectángulos son infinitesimales O sea
+5:31
+tienden a cero verdad para funciones
+5:33
+continuas y acuérdense que teníamos las
+5:36
+definidas e
+5:37
+indefinidas muy bien las definidas
+5:41
+acuérdense la parte de arriba como la
+5:43
+sumatoria es el límite superior y la
+5:46
+parte de abajo es el límite inferior
+5:47
+igual que la sumatoria porque al final
+5:49
+de cuentas acu que la este acuérdense
+5:52
+que la integral es una
+5:55
+sumatoria Aquí está No aquí está la
+5:58
+definición formal sabemos que es una
+6:00
+sumatoria entonces bueno así es como
+6:04
+funciona el teorema fundamental del
+6:06
+cálculo verdad nos dice que es que
+6:08
+saquemos la bueno que la antiderivada de
+6:10
+F dex le sustituyamos el límite superior
+6:14
+menos la antiderivada de la función
+6:18
+verdad sustituyendo a muy
+6:21
+bien y Bueno hacemos la resta verdad y
+6:24
+nos queda esto cuando es indefinida le
+6:27
+tenemos que poner el más constante muy
+6:29
+bien acuérdense que est es una tablas de
+6:33
+integrales si quieren y yo les
+6:35
+recomendaría que le tomen captura de
+6:36
+pantalla ahorita y la guarden porque
+6:38
+ahita la van a usar esta
+6:42
+Tab así que pues si pueden tle captura
+6:48
+ahorita okay No Tom se las mando por
+6:52
+WhatsApp pero igual este vlo
+6:55
+haciendo muy bien vimos que algunas de
+6:58
+los integrales verdad es que si tenemos
+7:00
+una K que está multiplicando por una
+7:02
+función verdad la k Qué le pasa sale
+7:06
+verdad multiplicando y la función no Y
+7:10
+también dijimos que el integral aplica
+7:12
+la propiedad distributiva en una suma
+7:14
+verdad O sea que si tenemos la integral
+7:17
+de dos funciones que están sumando le
+7:19
+aplicamos la integral la primera función
+7:21
+y a la segunda verdad Y así si fueran
+7:24
+más funciones no fuera igual FX
+7:27
+GX H x las funciones que quieran no
+7:31
+siempre que tengamos bueno la integral
+7:33
+la integral se va a aplicar a cada una
+7:35
+se aplica la
+7:37
+propiedad distributiva acuérdense que
+7:40
+por eso vimos todo esto en aritmética no
+7:43
+O
+7:45
+sea al final chavos
+7:48
+este pues todo esto no lo vimos en
+7:52
+aritmética y qué les había dicho que
+7:55
+estas propiedades todas estas
+7:57
+operaciones iban a funcionar en todas
+8:00
+matemáticas verdad En probabilidad
+8:02
+cuando veamos probabilidad en cálculo en
+8:06
+este álgebra lineal todavía se sigue
+8:09
+usando el cálculo diferencial integral
+8:10
+álgebra ustedes lo han visto con sus
+8:12
+propios ojos muy bien entonces bueno
+8:16
+esta acuérdense que nada más mostramos
+8:19
+algunas de las funciones que teníamos en
+8:22
+la tabla no muy bien y bueno acuérdense
+8:25
+que habíamos visto poco de estos
+8:28
+dos por sustitución integración por
+8:32
+partes a ver la integración por partes
+8:35
+alguien se acuerda de cuáles eran como
+8:37
+las dos frases que se usaban para
+8:39
+acordarse de la
+8:40
+Fórmula una era un día vi una vaca
+8:45
+vestida de uniforme muy bien esa es una
+8:49
+un y un vino de uva sin vino algo así
+8:53
+uva un vino de uva sin vino de uva Muy
+8:56
+bien excelente ya se la están
+8:58
+aprendiendo que básicamente
+9:03
+es muy bien esta es
+9:06
+integración por
+9:08
+partes muy bien y la de sustitución Pues
+9:13
+aquí les había puesto una tabla de que
+9:15
+bueno Cuáles sean los pasos el primer
+9:18
+paso en sustitución es elegir una u el
+9:21
+segundo era derivar la u el tercero era
+9:24
+sustituir u y dx el cuarto era encontrar
+9:30
+las integrales con las integrales de la
+9:32
+taba y quinta es sustituir de vuelta en
+9:35
+x no muy bien Bueno vamos a hacer
+9:37
+algunos ejercicios de todo hemos visto
+9:41
+vamos
+9:44
+[Música]
+9:48
+a vamos a hacer algunos
+9:58
+ejercicios
+10:04
+muy bien Vamos a hacer algunos
+10:07
+ejercicios por
+10:12
+ejemplo así como agos les
+10:28
+preguntaron
+10:38
+Okay aquí Bueno les voy a pedir dos
+10:42
+cosas
+10:52
+Una con forma de
+10:58
+sumatoria
+11:15
+est va a ser el ejercicio número
+11:19
+uno e número
+11:27
+dos
+12:18
+per Okay bien pues vamos a empezar con
+12:21
+estas que tienen que ver con las
+12:24
+sumatorias
+12:26
+no les voy a dar
+12:29
+10 minutos Qué les parece ya saben
+12:33
+inténtenlo hacer y en 10 minutos me
+12:39
+Bueno antes de eso me mandan este las
+12:42
+soluciones por
+12:43
+WhatsApp tengan una última duda o
+12:45
+pregunta antes de que lo
+12:50
+intenten una duda qué se refier Denme
+12:54
+pongan la suma anterior en forma
+12:56
+sumatoria o sea que tienes que
+12:59
+expresarlo como en algo así no O
+13:02
+sea con el signo Sigma pues y poner el
+13:06
+límite inferior el límite superior
+13:09
+este y la
+13:12
+f s Okay de nada chavos y ya saben
+13:17
+tienen 10 minutos inténtenlo
+13:26
+hacer Okay bueno muy bien El primero era
+13:31
+que lo pusiéramos bueno en forma de
+13:34
+sumatoria está bien no la sumatoria era
+13:38
+poner
+13:41
+el era poner verdad la sumatoria verdad
+13:45
+Muy bien está bien el límite inferior
+13:47
+empezamos en uno muy
+13:50
+bien el límite superior que 1220 y
+13:54
+exactamente había una fórmula verdad que
+13:57
+era n por n + 1
+14:04
+en2 algo pasó seguramente H un dos
+14:08
+Imagine una n Ah ya muy bien Vamos a
+14:12
+verlo de todos modos a ver si está bien
+14:15
+esto sería bueno en forma bueno de esto
+14:18
+sería así no muy bien y el resultado
+14:21
+sería
+14:23
+1220
+14:26
+1220 1
+14:30
+ent
+14:31
+dos muy bien Vamos hacer la
+14:51
+calculadora
+14:52
+1220 no por
+14:57
+1221 todo esto entre
+15:02
+dos Sí muy bien nos da
+15:07
+74480 muy bien resultado de esto era
+15:12
+744
+15:14
+81 muy
+15:16
+bien en el segundo Este era un ocho sí
+15:21
+sera como un ocho no Este es un o
+15:23
+también o creo que sí este bueno
+15:27
+acuérdense que una de las reglas verdad
+15:30
+de la sumatoria Es que sacábamos qué le
+15:33
+pasaba a las exponentes si estaban
+15:35
+multiplicando se iban salen no salen de
+15:40
+la sumatoria verdad
+15:42
+multiplicando y bueno nos queda I = 1 25
+15:48
+de I es es lo mismo que la fórmula de í
+15:52
+arriba verdad el n * n + 1 ent 2 nos
+15:57
+quedaría
+15:59
+25 por 25 + 1 26 no
+16:04
+entre
+16:06
+2 mu
+16:09
+bien
+16:10
+25 por 25 Bueno por 26 por 26 ent
+16:18
+2 y eso
+16:20
+325 lo multiplicamos por 8 y muy bien
+16:25
+nos
+16:26
+da 2600 verdad que nos da Bueno
+16:30
+realmente nos da
+16:31
+8 por
+16:34
+325 y 8 por 325 si nos da
+16:41
+2600 muy
+16:44
+bien y el último no sé acuérdense Cuál
+16:50
+era la propiedad
+16:54
+de para que lo
+16:56
+[Música]
+16:57
+vean
+17:08
+era esta no cuando tenemos la sumatoria
+17:12
+de I yendo a 1 hasta n de K Qué es es K
+17:18
+por n No nada más es una
+17:22
+multiplicación entonces aquí era solo
+17:24
+una
+17:26
+multiplicación este cero era hacer lo
+17:30
+siguiente era no hacer 10 * 40
+17:36
+no solo era multiplicar esto por esto Oh
+17:41
+Okay entonces en este caso
+17:45
+sería 400 Ese es el único que no está
+17:49
+bien pero todo lo demás estuvo bien
+17:51
+cuando tenemos acuérdense la sumatoria
+17:55
+de una constante solo es multiplicar
+18:00
+esto por esto no muy
+18:03
+bien okay Espero que tod los demás lo
+18:08
+hayan entendido y lo hayan
+18:11
+tenido por ahí muy
+18:14
+bien Vamos a ver otros ejercicios Esto
+18:18
+fue de sumatorias ahora vamos a ver un
+18:20
+poco de los de
+18:22
+integrales Okay ahora vamos a hacer
+18:27
+integrales el
+18:30
+básico por
+18:33
+ejemplo lo que puede estar interesante
+18:36
+no es como tal tal integral pero
+18:41
+[Música]
+18:43
+bien
+18:46
+tenemos
+18:48
+la
+18:51
+función x cu no
+18:55
+y queremos
+19:00
+saber su
+19:03
+área usando
+19:08
+rectángulos con el
+19:11
+límite
+19:14
+superior igual a 10 límite
+19:20
+interior igual a
+19:24
+2 y queremos que el número de de
+19:32
+rectángulos sea igual
+19:35
+a
+19:38
+Sí voyar para que no se tarden tanto
+19:41
+cuatro no número de rectángulo
+19:47
+sea4
+19:49
+Okay
+19:54
+calcula la
+19:57
+integral es el integral más bien sea la
+20:01
+sumatoria la
+20:03
+suma de el
+20:06
+área de
+20:09
+estos
+20:11
+cuatro rectángulos
+20:18
+no es la suma
+20:27
+de
+20:34
+bueno con estos no
+20:37
+[Música]
+20:41
+este de estos cuatro rectángulos si es
+20:44
+por la
+20:51
+izquierda más o menos entienden que
+20:53
+tienen que hacer
+20:55
+chavos ya me trabé dice que tenemos la
+20:58
+función x al cuadr mm Mira vamos a hacer
+21:02
+como de que hacerlo al cuadrado la la
+21:05
+sumatoria no bien vamos a tener las la
+21:10
+parábola no x cuadrada y ustedes a
+21:15
+partir del dos hasta el qué hasta el
+21:20
+10
+21:22
+aquí ustedes van a calcular Así que como
+21:27
+van a tener que calcular el área
+21:33
+no de
+21:35
+estos cuatro rectángulos
+21:52
+aquí okay bien más o menos es lo que el
+21:55
+dibujito está queriendo hacer
+22:04
+aquí no vamos a tener la función de X
+22:07
+cuadrada y vamos a calcular cuatro
+22:10
+rectángulos no de estos cuatro
+22:13
+rectángulos vamos a sumar el área de
+22:15
+estos cuatro rectángulos y me van a
+22:18
+decir cuánto es el área que sería una
+22:20
+integral Bueno sería una calcular el
+22:22
+área de manera aproximada
+22:25
+no más o menos entendieron chavos que
+22:27
+tienen que hacer ya entiendo más okay
+22:31
+les doy 5 minutos
+22:40
+chavos mandar una respuesta te Loc Pero
+22:42
+bueno también les iba a decir Este Bueno
+22:46
+mañana voy a viajar Así que no va a ha
+22:50
+qué haces en todo el día
+22:52
+mañana todos modos bueno por las queas
+22:54
+que hemos perdido yo creo que vamos a
+22:56
+hacer el curso hasta el el 27 una semana
+23:00
+más para que dé tiempo de ver todos los
+23:03
+temas Pero bueno este vamos a hacer
+23:06
+mientras lo
+23:07
+de que me mandaron Aunque Bueno lo que
+23:11
+me mandaron hubo un error de
+23:14
+interpretación este porque mandaron la
+23:19
+integral normal
+23:21
+Este y era como hacer con los
+23:23
+rectángulos
+23:25
+no muy bien Vamos vamos hacerlo vamos a
+23:29
+ponerlo Aunque
+23:32
+era de otra
+23:39
+manera muy bien muy
+23:56
+bien
+23:59
+o sea Dj se
+24:01
+enseño este está bien pero no era lo que
+24:04
+se pedía
+24:06
+[Música]
+24:19
+tanto s les digo Aquí creo que hubo un
+24:22
+error de interpretación aquí Bueno
+24:25
+compañero compañer este puso
+24:28
+o sea como la integral de la función no
+24:32
+era tanto esto Aunque Bueno o sea n más
+24:35
+para verlo lo que el procedimiento si
+24:37
+hubiera sido esto lo que preguntaba
+24:39
+estaba bien o x cúbica entre
+24:41
+3 acuerdense sustituir 10 y
+24:46
+2 fundamental cálculo 10 al cubo ent 3
+24:51
+men 2 cubo ent 3 verdad esto sería 10 al
+24:57
+cubo sería 1000 tercios y esto
+25:01
+sería este 2 al cubo sería 8 tercios Eso
+25:07
+sería
+25:10
+990
+25:12
+2 tercios muy bien aunque Bueno lo que
+25:15
+realmente pedía Aquí el problema no era
+25:18
+que lo sacáramos en cuatro rectángulos O
+25:21
+sea no integral como tal sino hacerlo
+25:23
+con cuatro rectángulos Cómo se haría
+25:26
+esto pues
+25:28
+diríamos no Cuáles serían los 4x que
+25:32
+tendríamos
+25:34
+aquí los 4x Pues el x1 No si es por la
+25:39
+izquierda el primero sería x1 cuando
+25:43
+vale 2 x2 cuando vale 4 X3 cuando vale
+25:48
+Este 6 y x4 cuando vale o no entonces
+25:54
+acuérdense que la fórmula era este
+25:58
+Delta x no que El delta x va a ser igual
+26:04
+a la división no tenemos 8 ent 4
+26:09
+entonces sería 2 8 porque es de 2 a 10 y
+26:14
+tenemos cuatro rectángulos verdad cada
+26:16
+rectángulo mide lo mismo entonces
+26:17
+tendríamos más o menos que hacer lo
+26:19
+siguiente x1 verdad Bueno esto sería
+26:23
+igual
+26:25
+a Delta x
+26:28
+por F de
+26:30
+x1 más Delta
+26:37
+x Sí eso es lo que hay que hacer es lo
+26:40
+que pedía el
+26:42
+problema
+26:44
+fx3 má Delta x
+26:48
+fx4 no muy bien o podíamos por ejemplo
+26:53
+para no hacer tanto de esto verdad
+26:56
+este
+27:02
+Delta de X está sumando a FX 1 má
+27:08
+FX o sea bueno cómo se
+27:11
+llama sacarle no en este
+27:18
+factorizar muy bien no y bueno El delta
+27:22
+de X dijimos que era 2 y sería 2 a vamos
+27:26
+a sustituir primero sería V a poner en
+27:29
+azul para que sea 2 cuad más cuánto
+27:33
+sería el
+27:34
+siguiente 4 cuad más 6
+27:39
+cuad
+27:41
+más 8 cuad muy bien 2 al cuad sería 4 4
+27:47
+al cu sería 16 16 al cu Perdón 6 al cu
+27:51
+sería 36 y este 64 64 + 36 nos darí 90
+27:57
+100 no 116 120 120 * 2 nos daría
+28:04
+240
+28:06
+No sí o no digo es una área aproximada
+28:11
+obviamente Esta es la
+28:13
+real esta no esta pero el otro era con
+28:17
+una área aproximada de cuatro
+28:19
+rectángulos entre más hiciéramos más
+28:21
+exacto se iba a ir haciendo No chavos
+28:26
+chavas pues muy bien Bueno ya saben el
+28:29
+día de mañana no va a haber qu hace y yo
+28:31
+creo que el curso va a terminar hasta el
+28:33
+27 porque est sí tenemos varias cosas
+28:35
+que ver y no sé si alcance con el tiempo
+28:37
+que queda entonces pues bueno chavos de
+28:39
+todos modos ya saben ya van a tener algo
+28:42
+con que entretenerse mañana que es la
+28:45
+actividad así que bueno obviamente no se
+28:47
+entrega mañana pero o sea maestro se
+28:50
+refi a la actividad del de programación
+28:53
+o esta esta no la actividad
+28:56
+uno no o sea tienen tres semanas para
+28:59
+hacerlo Ah la que nos mandó sí sí sí sí
+29:01
+O sea digo mañana no va a ver qué haces
+29:04
+porque va a viajar entonces pues les
+29:06
+digo quieren entretenerse en algo mañana
+29:09
+Ahí está Aplica para las tres clases Sí
+29:13
+para las TR Sí sí es que como voy a
+29:14
+viajar Así que aunque quiera no no puedo
+29:19
+Okay okay muy bien pu Bueno chicos nos
+29:23
+vemos cuídense y ya saben tienen tres
+29:25
+semanas para hacer la
+29:29
+tarea muy bien Bueno cu chavos maestro
+29:34
+cues
+29:38
+maestro

@@ -1,0 +1,942 @@
+0:02
+Okay chavos
+0:07
+pues Okay bien aquí Me faltó era que hace se la corrijo Pero bueno el punto
+0:13
+es que vamos a nada más repasar un poco de lo que vimos la clas
+0:22
+pasada Okay acuérdense que nos quedamos que vimos Este lo de despejar lo bueno
+0:29
+también vimos que empezamos con lo de la función cuadrática vimos lo que eran raíces ver alguien rápido que me diga
+0:35
+qué es una raíz en un en una
+0:40
+función vamos chavos esto es muy importante y mand qué Qué es una raíz en una función
+0:49
+qué se le conocen como raíces o raíz en potencia no en las funciones Rafa en las
+0:55
+funciones que son las raíces ah sección
+1:01
+Eh Pues en en el plano cartesiano o también visto las maneras eh o las
+1:08
+cantidades que puede adquirir X en la forma cuadrática Mira no con el plano
+1:13
+cartesiano con el eje x específicamente las raíces son donde la
+1:19
+función toca exactamente el eje x que son las soluciones a las ecuaciones no
+1:25
+este cuadráticas etcétera polinomiales es donde tocan el eje x aquí lo estamos
+1:31
+viendo en el dibujito No este lo estamos viendo no este en el dibujo no acuérdense que
+1:39
+lo vimos en no en desmos y todo esto este donde tocan el eje x son las raíces
+1:46
+este Okay muy bien bien vamos a seguir acuérdense que vimos que para resolver
+1:52
+una ecuación cuadrática existía tres métodos no la fórmula general
+1:58
+factorizando y completando el trinomio cuadrado perfecto acuérdense que dijimos
+2:04
+que la fórmula general es poderosa porque esta es fácil de programar para poder aplicar estas tenemos que saber la
+2:11
+forma de una ecuación cuadrática la forma de la ecuación cuadrática es esa F
+2:17
+dex es = AX cu + BX + c no O
+2:23
+sea esta No Okay y Recuerden que dijimos
+2:29
+que resolver una ecuación es cuando igualamos a cer0 y encontramos o
+2:34
+despejamos como quieran decirlo a la variable de interés que en este caso es la variable x Okay muy bien chavos Pues
+2:42
+así es como funciona es lo que vimos ayer acuérdense que vimos el completar
+2:48
+el trinomio cuadrado perfecto era otro de los métodos verdad que era con esto
+2:53
+b2 acuérdense de B que es el coeficiente que está multiplicando a la x elevado a
+3:00
+la 1 Okay y acuérdense en matemáticas lo que hacemos del lado izquierdo lo tenemos que hacer del lado derecho
+3:06
+verdad para mantener la igualdad Okay muy bien entonces este
+3:13
+Bueno hacemos esto lo sumamos en ambos lados y después despejamos para obtener
+3:19
+esto también vimos un poquito no se acuerdan de lo de los números imaginarios no profundizamos tanto pero
+3:25
+este los números imaginarios existen que el número I es
+3:30
+igual y no es igual a raíz cuadrada de -1 no es lo que estábamos diciendo de
+3:36
+los números imaginarios luego acuérdense que vimos lo de despejar que dijimos que el orden
+3:42
+de solución perdón el orden de ejecución que es el que normalmente sabemos el de la pirámide no de los cuatro niveles es
+3:50
+al revés es como si volteamos la pirámide no y ahora empezamos con adición y sustracción luego
+3:57
+multiplicación y división luego exponentes y y raíces y al final con paréntesis y corchetes
+4:03
+no acuérdense que vimos de los inversos que dijimos a ver chavos sin ver miren
+4:11
+aquí okay sin ver cuál es el inverso de la suma alguien la resta la resta muy bien
+4:20
+Cuál es el inverso de la raíz la potenciación la potenciación
+4:27
+verdad okay un poco más elevado Cuál es la inversa de la integral logaritmo no de la integral de
+4:35
+la integral derivada la derivada verdad derivada Okay de de un
+4:43
+exponencial es logaritmo logaritmo verdad Muy bien de una inversa
+4:54
+trigonométrica las trigonométricas Exactamente no Okay así
+4:59
+esas se la tienen que estar Sabiendo Porque así es como se despeja verdad Cómo se pasa de un lado a otro Eso es
+5:06
+muy importante porque bí que se Us en todo no Okay acuérdense mir Aquí
+5:12
+está suma la resta de multiplicar dividir de la potencia a la raíz no las
+5:21
+trigonométricas la inversas trigonométricas de exponenciar los
+5:26
+logaritmos y de las derivadas las se ven cuando es ecuaciones diferenciales
+5:35
+no Okay muy bien así es como funciona y acuérdense lo que hagas de un
+5:42
+lado lo tienes que hacer del otro porque acuérdense que para mantener
+5:49
+la igualdad no se tiene que hacer de los dos lados Okay muy bien Bueno vimos lo
+5:55
+de las ecuaciones lineales y vamos a empezar a ver no los sistemas de
+6:01
+ecuaciones lineales lo que vamos a ver hoy es esto y si hay que tratar de ver también lo de la que hace esta que va a
+6:08
+ser un poco de estos temas como polinomios y factorización en funciones
+6:14
+exponenciales no es ya es matemáticas como de Tercer y cuarto semestre
+6:20
+este OK Vamos a ver un poco de logaritmos no todo porque vamos a ver
+6:27
+todas las leyes de logaritmo Sí Sí hoy no creo que nos dé tanto tiempo de todo pero vamos al menos a ver
+6:33
+las funciones ya resolver ecuaciones logarítmicas esa yo creo que entre el lunes y martes okay la división
+6:41
+sintética no no sé si la haban visto pero pues hay que verla que sirve para encontar raíces un poco de ángulo bueno
+6:49
+de ángulos figuras geométricas no etcétera esa no sirve mucho para física
+6:55
+y para otras cosas este volumen y área no y bueno el teorema de Pitágoras
+7:00
+volverlo a ver eso ya lo hemos visto de secundaria pero no está demás
+7:07
+Este era esta okay Bueno vamos a ver el método
+7:14
+gráfico chavos para resolver sistemas de
+7:25
+ecuaciones el método gráfico
+7:31
+es cuando nosotros tenemos dos funciones
+7:40
+digamos digamos que nos da la función la función F dex igual
+7:46
+a - x + 2 digamos que GX otra función no
+7:52
+es igual a x + 5 vamos a hacerlo
+8:00
+como en Secundaria Miren el - x + 2
+8:07
+chavos acuérdense miren primero vamos a el - X Qué significa el menos chavos que
+8:14
+su pendiente es negativa negativa lo que quiere decir
+8:21
+que miren vamos a Bueno a lo mejor Creo que esto no sé si lo vimos pero conviene
+8:27
+verlo antes a lo mejor el desplazamiento de
+8:33
+funciones nosotros podemos desplazar funciones
+8:40
+miren desplazar funciones no de
+8:47
+manera vertical u
+8:53
+o horizontal no
+9:00
+miren tenemos las funciones normales que son como las primeras no como por
+9:05
+ejemplo x noo que lo veamos en lo
+9:12
+mejor mejor que lo que pueda dibujar un
+9:25
+[Música] segundo
+9:32
+[Música]
+9:49
+[Música] Aquí
+9:55
+bien Vamos a verlo en para que lo veamos [Música]
+10:13
+aplicado Okay chavos miren nosotros tenemos las funciones
+10:20
+normales no como x por ejemplo x
+10:26
+cuadrada x cuadrada x cúbica si quieren
+10:36
+miren x cúbica no este muchas no tenemos
+10:43
+este también vamos a adelantarnos un
+10:52
+poco logaritmo de X creo que me acuerdo logaritmo natural de
+10:58
+X Por qué Ay son varias ya me confundí
+11:04
+bien bien tenemos muchas funciones no bien vamos a ir quitando lo que quiero
+11:11
+enseñarles es que estas reglas de desplazar funciones funcionan para todas
+11:16
+las funciones eso es lo poderoso de desplazar funciones vamos a ver la función x que es la que está en rojo
+11:23
+rojo Okay cómo Qué significa desplazar en por
+11:29
+ejemplo en el eje y verticalmente la podemos desplazar sumándole n si la
+11:34
+queremos desplazar por ejemplo dos unidades hacia arriba le
+11:42
+hacemos x + 2 verdad voy a hacer aquí para que se vea x y x + 2 Cuál es la
+11:49
+diferencia chavos solo agarramos la función y la desplazamos la movimos dos
+11:54
+lugares hacia arriba verdad cómo lo hicimos dándole n bueno en este caso n
+12:01
+es 2 no Porque nosotros decidimos que n fuera 2 cómo lo haríamos hacia abajo
+12:06
+pues menos no si ven chavos cómo se pueden
+12:12
+desplazar las funciones muy gráficamente digo Ahí está
+12:18
+muy gráficamente No si le sumamos lo movemos hacia
+12:23
+arriba si se dan cuenta tienen exactamente la misma forma la verde que
+12:29
+la roja No nada más que es como si subiéramos todos los valores más do que
+12:35
+es lo que estamos haciendo estamos moviendo dos lugares hacia arriba verticalmente eso se le llama desplazar
+12:42
+una función hacia arriba no Y esto es desplazar una función hacia abajo no miren la verde y la morada son iguales
+12:49
+lo único que hicimos Es que este en vez de que usar en el cero que usen el -2 verdad y este igual este aquí vale 2
+12:57
+aquí vale C aquí vale 4 aquí vale 2 no etcétera
+13:04
+porque esta función la desplazamos dos lugares hacia abajo sí chavos lo voy a poner acá para
+13:11
+que se vean Okay pero qué creen esto también
+13:20
+funciona para las cuadráticas bien tenemos x cuadrada
+13:25
+no x al cuadrado más
+13:31
+2 ahy Es que puse el igual Perdón si se dan cuenta chavos es la
+13:37
+misma gráfica no no más la elevamos O sea la desplazamos dos lugares hacia
+13:44
+arriba no miren poner
+13:49
+acá y cómo se imaginan que podrían hacer la parábola dos lugares hacia abajo pues
+13:56
+con os2 Exactamente no con -2 verdad y
+14:01
+se dan cuenta si nosotros podemos desplazar hacia arriba o hacia abajo todas las funciones o sea funciona para todas o sea les puse todas estas
+14:08
+funciones Para que vean que esto jal en todo miren vamos a quitar estas ahora vamos con las cúbicas x cúbica No ahora
+14:15
+vamos a hacerlo x cúbica igual buen + 2 si se dan cuenta es la misma
+14:25
+función solo lo desplazamos dos lugares hacia arriba Vamos serc lo mismo x c -
+14:33
+2 ya como son muchos colores Y supongo que ya se empiezan a repetir pero desmos
+14:39
+no tiene tanto me imagino Okay pero si se dan cuenta es la misma función no más
+14:45
+dos lugares hacia abajo no y va a funcionar lo mismo con logaritmos etcétera lo que quiero que vean es eso
+14:51
+logaritmo es esta función para hacerlo igual dos lugares hacia arriba no sería
+14:57
+lo mismo no + 2 y para hacerlo hacia
+15:06
+abajo sería okay No ya están viendo todo el
+15:13
+patrón es lo mismo o sea estas reglas es lo poderoso de matemáticas que funciona para todas las funciones no Ok Muy
+15:22
+bien x Bueno yo creo que ya es un poco repetitivo bien Vamos aer coseno de X no
+15:29
+este igual coseno de X no + 2 ot
+15:39
+ve es la misma función nada más la desplazamos hacia arriba
+15:44
+verdad igual coseno de x -
+15:55
+2 Okay ahí se ve super gráfico no o sea es desplazar las funciones hacia arriba
+16:01
+o hacia abajo y esto funciona en todos los tipos de funciones ya vieron que funcionan en funciones lineales cuadráticas cúbicas logarítmicas
+16:08
+exponenciales trigonométricas etcétera no esto de desplazar funciones es lo
+16:13
+mismo más n es para desplazarlo n lugares hacia arriba os n es para
+16:19
+desplazarla n lugares hacia abajo muy bien Ahora vamos a poner otro
+16:27
+desmos para ahora
+16:32
+representar eso fue hacia arriba y hacia abajo ahora vamos a representar
+16:38
+[Música] poner
+16:47
+no también podemos desplazarla hacia la izquierda o hacia la
+16:56
+derecha por ejemplo entonces para desplazar en
+17:25
+cuadrado Okay nosotros si se dan cuenta también podemos desplazarlo hacia la
+17:30
+izquierda y hacia la derecha no bien la roja es la normal x cuadrada No
+17:40
+si nosotros le metemos - n a la función F de ahorita vamos a ver qué significa
+17:47
+pero F de X a la x - n f de x - n
+17:52
+desplazamos el sí es al contrario de O sea la lógica nos diría que Ah si es
+17:57
+hacia la izquier oa menos Debería ser hacia la izquierda pues no si es menos como se dan cuenta aquí desplazamos la
+18:04
+función hacia la derecha verdad Y si es más la
+18:09
+desplazamos Hacia dónde hacia la izquierda verdad Okay muy
+18:17
+bien así es como se pueden desplazar las funciones no en cuadrático
+18:24
+[Música] etcétera sí la de adentro de X es este
+18:31
+horizontal y la de afuera es vertical nada más que la par particularidad de la
+18:37
+horizontal es que es un poco contraintuitivo pues no porque tú pensarías que si le pones menos sería
+18:43
+hacia la izquierda pero no como se dan cuenta menos es para la derecha y más es para la
+18:51
+izquierda okay Y esto funciona con todo miren vamos a hacerlo logaritmo de X
+19:24
+ahes Sí sí los de afuera son normales no acuérdense que es lo que dijimos este e
+19:32
+nada más en horizontal es un poco contraintuitivo pero bueno vean aquí en
+19:38
+logaritmos no igual podemos desplazar el logaritmo hacia la derecha con el x - 2
+19:45
+No aquí lo desplazamos ha la derecha Mira dense cuenta que aquí es uno y aquí
+19:50
+es tres Okay muy bien así es como se
+19:56
+desplaza chavos esto de desplazar funciones funciona para todos no
+20:04
+miren también está hacerlo este miren es como x Ahí va Vamos hac ot
+20:14
+Esto es para desplazar de izquierda a [Música]
+20:20
+derecha pero también existe x por [Música]
+20:27
+ejemplo hacer el reflejo x
+20:38
+cuadrada Okay miren Aquí también es como si tuviéramos un reflejo
+20:46
+verdad el reflejar una función no es cuando le multiplicamos por el
+20:53
+menos dense cuenta
+21:00
+es como la parábola no si la multiplicamos por menos es un
+21:06
+reflejo no sobre el eje x Imagínate que en el eje x suban un espejo básicamente
+21:13
+es lo que pasa cuando multiplicamos por menos
+21:18
+no okay nada más para que lo vayan viendo así podemos desplazar funciones
+21:24
+chavos eso para que lo tengan muy en mente etcétera este
+21:30
+Ok acuérdense es como siamos un espejo no Aquí vamos a ver cómo se vería en x
+21:48
+cúbica Bueno aquí se parecen parábolas pero no realmente la x cúbica normal es
+21:54
+esta no Y si tuviéramos un espejo Cómo se
+21:59
+vería así verdad un espejo sobre el eje x acuérdense sobre el eje x
+22:08
+no Okay esto acuérdense que funciona para todos no
+22:14
+Okay muy bien y qué no estoy seguro pero Déjenme calar algo según
+22:26
+yo este no se va a ver bueno si este no se va a ver según yo era pero bueno eso
+22:33
+mejor se lo digo mañana porque Déjenme me aseguro de eso el punto chavos Es que así pueden hacer aquí afuera de las x es
+22:42
+para arriba y hacia abajo no con menos es hacia abajo con más es hacia arriba aquí dentro de los paréntesis
+22:50
+bueno así poniéndolo Dentro del x no este menos es hacia la derecha y este
+22:56
+más es hacia la izquierda no Y funciona esto funciona para todas las funciones No Okay y Estos son espejos no espejos
+23:05
+con el eje x Okay muy bien chavos pues
+23:10
+bueno ya para que sepan desplazar funciones Así es les digo lo poderoso de todo esto es
+23:17
+que esto funciona para todas las
+23:23
+funciones Okay mu bien y pues bueno desplazamiento de funciones no seguíamos
+23:32
+el método gráfico vamos a hacerlo como en Secundaria aquí el - X es lo que dijimos
+23:41
+si el X normal sabemos que sería una cosa así más o
+23:46
+menos pues el - X obviamente sería el el reflejo no Entonces sería acuérdense que
+23:55
+la pendiente negativa quiere decir algo así
+24:01
+este es - x pero dijimos que es - x + 2 entonces Bueno vamos a desplazarla a dos
+24:08
+lugares no vamos a mover esta así no este es - x + 2 y x +
+24:20
+5 aquí 1 2 3 4 5 Okay acuérdense que x
+24:26
+sería una cosa verd
+24:37
+Okay okay Pero bueno tenemos que desplazar los cinco lugares porque es es
+24:43
+x pasamos cinco lugares es aquí no okay
+24:48
+Bueno aquí si estuviera aquí no me va a salir tan bien porque teoría Debería ser
+24:53
+miren vamos a ponerlo en desmo mejor para que el punto es que gráficamente lo
+24:58
+que tendríamos que hacer si estuviera esto escala Es que esto tendría que estar a escala para que nos salga bien No tendríamos que medir
+25:05
+el dónde
+25:14
+[Música] chocan dónde choca eso sería el valor de
+25:21
+nuestras soluciones no porque x- 2 Bueno V
+25:28
+en x ig a -2 Sí vamos a hacerlo bien porque o aquí
+25:35
+yo lo hice a medio Cómo se llama sin escala o sea para hacerlo bien Tienes que hacerlo escala el método gráfico
+25:42
+Déjenme mejor lo voy a hacer en desmos porque en desmo está bien
+25:48
+hecho aquí lo hizo así que vo a compartir
+25:56
+pantalla okay Okay chavos pues miren este dijimos que era - x + 2 - x
+26:05
++ + 2 no y x +
+26:11
+5 aquí si nos dice vmos Miren el valor Exacto sería que x Vale -1.5 y y vale
+26:20
+3.5 no este es en un sistema de ecuaciones nuestra x valdría - 1.5 y y
+26:26
+valdría 3.5 Por ejemplo ahorita los que están en física resolviendo el sistema de ecuaciones por ejemplo en tensiones
+26:31
+no di se puede hacer con el método gráfico Claro que sí este Pero bueno sería así literalmente
+26:39
+el método gráfico a mano sería que lo dibujá a escala que trazamos las dos líneas y que midiéramos en dónde chocan
+26:46
+no Y esta sería la solución para x y para y porque esto se acu Cuando tenemos
+26:52
+un sistema de ecuaciones x y y cuando tenemos dos variables no okay
+26:58
+muy bien así es como se resuelve de el método
+27:04
+gráfico ese es un método no vamos a
+27:11
+hacerlo okay bien bien
+27:18
+[Música]
+27:25
+bien déjen Okay el otro método no
+27:32
+Dj comparto pero Déjenme el otro método es el de sustitución Okay miren vamos a
+27:39
+buscar en internet sistemas de vamos a ponerlo nosotros vamos a inventarlo
+27:45
+nosotros no está tan difícil
+27:52
+esto okay No okay
+27:59
+un sistema de ecuaciones por ejemplo que puede ser 8x + 2y = 5 y
+28:09
+4x + 3y = 12 una cosa así no Este es un
+28:16
+sistema de ecuaciones No qué nos dice el de sustitución la
+28:26
+primera la primera cosa que tenemos que hacer en de sustitución pues no me lo dice no
+28:33
+primero tenemos que bueno despejar una de las dos
+28:40
+variables en una de las
+28:55
+ecuaciones no Qué quiere decir por ejemplo si queremos despejar y
+29:03
+cómo lo hacemos 5 el 8x está sumando chavos cómo pasa del otro
+29:09
+lado alguien negativo muy bien restando verdad de negativo muy bien estos chavos
+29:17
+están multiplicando Cómo pasa el dos
+29:26
+alguien muy bien dividiendo no 5 -
+29:31
+8x entre 2 no Okay muy bien Bueno AC que propiedad distributiva podemos hacer 5
+29:38
+Med - 4x no [Música]
+29:50
+Ok creo que se puede simplificar más la de Y si dividimos el denominador sí como
+29:58
+lo que hacer sí No no te preocupes está bien
+30:03
+bien así lo podemos hacer y aquí viene la parte importante del Por qué se llama
+30:09
+sustituir el paso número dos es sustituir no el resultado
+30:19
+previo bueno la variable
+30:25
+despejada poner en verde despejada en la siguiente ecuación no en
+30:31
+la misma en la siguiente ecuación no en la misma porque si no se hace cero lo
+30:37
+voy a remarcar en la siguiente
+30:43
+ecuación Qué quiere decir bien vamos a ponerla Esta es la ecuación uno es la ecuación dos esta y la vamos a sustituir
+30:51
+en esta ecuación dos que es 4x + 3 y y ya sabemos que es equivalente
+30:59
+a tener 5 Med - 4x no Okay muy bien y
+31:06
+esto es igual a 12 muy bien Vamos un poco más para arriba
+31:18
+todo aquí ya nada más sería resolver el último paso no bueno tercer paso no es
+31:23
+el último aquí podemos eliminar es resolver para la variable
+31:33
+no en ese caso es x vamos a hacerlo 4x +
+31:39
+3 acuérdense propiedad distributiva 3 * 5 Med y 3 * -4x Cuánto es 3 por 5 medi
+31:47
+chavos 15 Med bien y 3 *
+31:52
+-4x 12 12 - 12x no muy bien bien y esto
+31:59
+es igual a 12 vamos a resolver 4x Y - 12x cuánto nos
+32:05
+da o -8 -8 muy bien y este está sumando tiene
+32:13
+que pasar del otro lado pasa como restando restando 12 men 15 Med no Ok el
+32:20
+12 acuérdense lo vimos no Para eso vimos todo lo de aritmética lo podemos
+32:25
+transformar en 24 4 medios no Okay sí muy
+32:33
+bien Entonces tenemos esto lo cual nos queda voy hacer un poco más chico Todo
+32:40
+está muy [Música]
+32:56
+lejos hacerlo un poco más
+33:02
+[Música]
+33:09
+arriba okay Y pues para el final no bueno 24 - 15 nos queda 9 no 9 medios
+33:18
+ent bueno - 8x igual a 9 Med y ya por
+33:25
+último hay que despejar x el -8 está multiplicando pasa dividiendo
+33:31
+entonces nos queda 9 16
+33:37
+no que x es igual
+33:42
+a
+33:51
+-91 Okay Esa es la resolvemos la para la
+33:56
+variable
+34:02
+voy no sé que regresemos otra vez a la primera para darle un valor a x y a y
+34:07
+exactamente lo que vamos a hacer Ándale acuérdense que ahora ya tenemos x
+34:14
+Entonces miren ya aquí no importa o sea x la pueden sustituir en cualquiera de las dos vamos a sustituir x el último
+34:23
+paso estar bueno est
+34:29
+Okay sustituir la variable el valor de la variable
+34:46
+encontrada Y obtener la otra no y despejar para la
+34:54
+otra no son los pasos no 1 2 3 y 4 bien
+35:00
+Vamos a hacerlo menos vamos a llevar estas para el otro [Música]
+35:07
+lado y el valor que ya obtuvimos
+35:13
+okay Y este valor de X que ya obtuvimos que es 9/1
+35:23
+no Okay no se puso todo pero el punto es que tenemos que x es igual a -91 no y
+35:30
+vamos a sustituirla en la que quieran vamos a hacerlo en la dos nada más vamos a sustituirla aquí no miren 4 * -
+35:41
+9/16 no + 3y es = 12
+35:48
+no Okay 4 * 9 chavos Cuánto es buen 4 * -9 16 se podía eliminar no este 4 con es
+35:56
+como si fuera 4 por 4 entonces nos queda -9 cu4 No si entendieron Por qué se hizo
+36:03
+-9 cu4 Ah se se eliminó sí se eliminó no
+36:10
+acuérdense que este 16 es como si fuera 4 por 4 abajo y este 4 arriba pues elimina no Uno de estos Okay muy bien -
+36:19
+9/4 + 3y es igual a 12 Okay en -9 cu4 se
+36:26
+está restando pasa sumando verdad y nos queda 12
+36:31
+más 9/4 okay 12 a cuart cuánto es 12 * 4 es 48
+36:40
+no mínimo común mínimo común múltiplo no que es el 4 48 + 9 Cuánto es
+36:50
+chavos oh oh aquí se viene padre algo 48 cuánto es
+36:58
+48 + 9 57 57 verdad 57 cu4 57 cu4 no
+37:06
+igual a 3y y y no
+37:12
+57 está multiplicando Cómo pasa dividiendo dividiendo que es 3 * 4 nos
+37:18
+queda 2 y ya chavos Ahora sí
+37:24
+subimos ambas
+37:31
+no Okay Así de fácil es el método de
+37:38
+sustitución tengo una pregunta maestro Cuál es el valor entonces real
+37:45
+el y 5 / 2 o el y es ig a 57 / 2
+37:51
+57 o de cuál es que me confundí Porque habíamos sacado dos valores y
+37:57
+no cuá la veas Mira no es que este valor de y realmente todavía no era un valor
+38:03
+Rafa por qué Porque todavía tiene la x Esto no es un valor o sea esto y mira y
+38:11
+la ecuación de y no mande es como si fuera una ecuación de y exactamente Es
+38:17
+una ecuación de y no es como si fuera una ecuación de y sea todavía tiene variables Rafa tú no puedes decir que encontraste el valor de y ahí todavía
+38:24
+porque está en términos de otra variable cuando tú encuentras un valor es cuando ya son puros números entonces aquí por
+38:31
+esta parte todavía no la encuentras esto sirve para que lo puedas
+38:37
+sustituir dentro de la otra ecuación y puedas encontrar por fin un valor de una
+38:43
+variable que sería X Ya teniendo Este sí es un valor de X por qué porque no está
+38:49
+en términos de ninguna otra variable es un número este número se mete en esta como
+38:57
+dijimos no y resolviendo esta ecuación Ahora sí por fin obtenemos
+39:05
+y muy bien No sé si hubo alguna pregunta duda
+39:11
+la que quieran chavos diganel antes de que
+39:17
+continúen no muy bien si no hay preguntas vamos a
+39:23
+la siguiente método cuál era déjen ver eliminación o adición vamos a otro
+39:29
+sistema de ocurre okay adición Bueno suma o resta también
+39:35
+se le
+39:46
+llama Okay
+39:55
+d
+40:00
+Okay está el método de suma o resta es es otro
+40:08
+método Okay el método de suma o resta chavos es
+40:13
+ir eliminando variables Déjenme ver si hay un caso
+40:20
+decente como resta Pero que sea de tres variables porque esto puede ser de
+40:26
+varias variables Acuérdense que los sistemas de ecuaciones pueden ser x y z no pero ponen sencillos no de tres
+40:35
+variables
+40:47
+Okay x podemos inventarnos el que sea mir vamos a ver este + x + 3y - 5z
+40:57
+acuérdense chavos para que el sistema de ecuaciones sea determinado eso es otra
+41:03
+cosa un sistema de ecuaciones
+41:12
+determinado debe tener qué Alguien
+41:23
+sabe mismo número de
+41:34
+ecuaciones y mismo número
+41:40
+de variables no Qué quiere decir que si tenemos tres
+41:47
+variables necesitamos tres ecuaciones no para que se puedan
+41:55
+resolver
+42:12
+Okay chavos el de suma y resta o el método de reducción no es ir eliminando
+42:20
+variables por variables no okay Cómo creen que empieza chavos
+42:34
+Entonces se va a poner fe Okay chavos Cómo
+42:42
+estaría veamos podemos sumar dos no
+42:50
+A cuál es la pregunta Bueno si se acuerdan de cómo hacerlo
+42:56
+[Música] Okay miren vamos eliminando no Así que
+43:02
+como dirían la propiedad esta mir podemos hacer lo
+43:09
+siguiente vamos a agarrar dos ecuaciones nada más no estas TR y vamos a encontrar
+43:17
+una forma vamos a multiplicar por algo por ejemplo Qué pasa si multiplico por -3
+43:23
+toda la ecuación y la sumo a la a
+43:30
+esta qué es lo que pasa chavos se
+43:36
+multiplican qué O sea se multiplican y cambien de
+43:45
+signo Bueno o sea pero se elimina esto sea lo que queremos es ir eliminando por eso también se llama de eliminación se
+43:51
+va a eliminar Por qué Porque miren buen vamos a
+44:01
+hacerlo x - 9y + 15z
+44:11
+no Okay aquí lo tenemos que multiplicar por
+44:16
+dos no sería 6x no -
+44:24
+4y - 4 Z igual a 18 No ahora si hacemos la suma
+44:33
+y [Música] resta aquí Qué pasa
+44:39
+chavos pues es aparece el se y lo cambi
+44:46
+[Música] valor cer no se va y Aquí vamos a
+44:55
+hacerlo no -9y - 4y no que nos da
+45:01
+cuánto el el no 11 Z no igual a 15 no
+45:11
+chavos Okay sí muy bien así es como vamos reduciendo no por eso se llama de
+45:18
+reducción No Okay y también podemos hacerlo entre
+45:26
+la segunda y la tercera Es que la verdad creo que cometí el error de ponerlo todo
+45:32
+revuelto Déjenme voy a corregir se vea más ordenado más
+45:40
+[Música]
+45:47
+estructurado son las Esas son las tres
+45:54
+ecuaciones y es son lases la voy a poner de otro
+46:02
+[Música] color Okay bien Vamos a llamarla la
+46:09
+ecuación [Música] un ecuación dos ecuación 3 primo hicimos
+46:19
+eso para la ecuación 1 y do no sí no es la ecuación
+46:24
+unción dos hicimos el método de suma y resta para la ecuación uno y
+46:31
+dos ahora chavos vamos a hacerlo para la ecuación 2 y TR
+46:38
+no método de suma y resta aquí ya redujimos hicimos la
+46:45
+ventaja de reducir la ecuación a Solo dos variables No ahora vamos a hacer la dos y 3 la dos es
+46:53
+3x - 2y - 2z = 9 no Y la otra es
+47:01
+-4x + 4y + [Música]
+47:06
+3z igual a -15 no Okay aquí también hay que encontrar
+47:14
+cómo lo eliminamos el X aquí sería multiplicar por 4 no por
+47:19
+ejemplo todo esto multiplicar por 4 y todo esto multiplicar por TR verdad voy
+47:27
+a poner color
+47:34
+Okay vamos 4 * 3 cuánto nos da 4 * 3x nos da 12x no
+47:42
+12x 4 Por -2y cuánto nos da
+47:48
+chavos 4 Por -2y cuánto nos da ch8 -8y verdad Okay 4 * -2 Z cuánto nos
+48:01
+da -8 Z muy bien Y cuánto nos da 4 *
+48:06
+9 36 36 muy bien Ahora vamos a hacer 3 *
+48:12
+-4 cuánto nos da -2 12 muy bien 3 * 4y cuánto nos
+48:21
+da 12y muy bien cuánto nos da 3 * 3
+48:27
+Z 9z muy bien Y cuánto nos da 3 *
+48:37
+-15 menos 45 no Y de nuevo suma y resta
+48:44
+no vamos a sumar estas dos estos se van no y nos queda -8y +
+48:50
+12y cuánto nos da
+48:56
+c -8 + 12 Ah Per izquier 4y no muy bien cuánto nos da -8
+49:07
+Z + 9z Z muy bien Y cuánto nos da 36 -
+49:16
+45 -9 bien okay Ahora hay que
+49:24
+juntar esta con esta y volver a hacer el método
+49:30
+de suma y resta y ya después nos va a quedar una sola variable despejamos para
+49:36
+esa variable no y ya después Bueno yo por lo general lo hago este pues ya que
+49:45
+tengo una variable hago de sustitución para no volver a hacer de suma y resta Pero bueno
+49:51
+este es la manera más fácil porque si no tienes que volver a hacer con cada combinación es mucho más desmal pero
+49:57
+bueno este Okay miren vamos a hacerla nada más para ver algo ande perdón eh No
+50:04
+más tengo una pregunta porque vi que aquí estábamos haciendo Ya la nueva operación pero se me dio la pregunta de
+50:10
+de qué le pasó al menos 13y + 11z Cuál cuál cuál cuál cuál Ah No todavía no lo
+50:16
+usamos todavía ahorita justamente lo vamos a usar ese se queda Así que en el en standby Y ahorita lo vamos justamente
+50:23
+a eso vamos estas nuevas dos ecuaciones esta no Y la última que sacamos vamos a
+50:31
+volver a hacerle el proceso de suma y resta
+50:39
+no voy a quitar esto hay que volver a hacer el proceso
+50:44
+de suma y resta Qué quiere decir que hay que encontrar números Bueno un mínimo común
+50:51
+múltiplo no que elimines las 10 Rafa por ejemplo aquí pues sería 4 no que usarlo
+50:58
+Acuérdate que cuando no tienes nada más es que usarlo no y aquí sería 13
+51:05
+no ven para dónde voy miren vamos a hacer Cuánto es 4
+51:14
+por-1 -52 y verdad Ok Cuánto es 4 * 11
+51:22
+Z 44 Z no muy bien Y cuánto es 4 *
+51:32
+15 60 no Okay chavos ya para terminar Cuánto es 3 *
+51:43
+4y 52y no por Z 1 Z Y cuánto es 13 por
+51:53
+-9 100 117 bueno - 117 acuérdense los signos no
+52:00
+hay que olvidarlos Okay -17 miren aquí chavos haciendo la suma y resta pues
+52:07
+estos se van no y qué nos queda 44 + 13 nos queda 57 Z no y bueno
+52:17
+60 - 117 nos queda
+52:24
+-57 y ya nada más sería Ahora sí es una ecuación bien sencilla 57 Z =
+52:31
+-57 el 57 de aquí pasa dividiendo no nos quedaría -57 ent 57 cuánto nos da esto
+52:42
+chavos alguien está muy sencilla cuánto nos da -57 /
+52:51
+57 nos daría men1 perfecto men1 [Música]
+52:58
+no Z = a -1 muy bien okay Ya obtenemos Z - 1 y podemos
+53:07
+reemplazarla por ejemplo en cualquiera de estas dos se hace sustitución no
+53:13
+Entonces por ejemplo 4y es igual a vamos a hacerlo completo dijimos que vale -1
+53:20
+es igual a -9 Entonces 4y igual a el men-1 pasa sumando y nos queda -8 y es
+53:29
+igual -8 ent 4 que nos da que y es igual
+53:34
+a qu alguien -8
+53:39
+4 - 2 verdad Muy
+53:44
+bien ok Ya ahora tenemos y y z ahora podemos ponerlo en cualquiera de las
+53:50
+ecuaciones originales vamos a est ya ya obtuvimos dos
+53:58
+valores ahora vamos a ponerla en mir vamos a sustituir no tenemos x que es la
+54:04
+que tenemos que encontrar Entonces 2x + 3 y dijimos que vale -2 por men dónde só
+54:09
+-2 acuérdate aquí Rafa mira aquí cualquiera de estas dos ecuaciones
+54:15
+que habíamos hecho no de 4y + Z esta por ejemplo no sí la ves
+54:21
+Rafa está Sí sí la veo Muy bien Acuérdate que ya obtuvimos el valor de Z
+54:27
+aquí que vale -1 Este -1 lo reemplazamos aquí que por eso nos queda el 4y - 1 =
+54:39
+-9 este -1 está aquí Bueno el -1 está restando y pasa del otro lado sumando No
+54:47
+pues 1 y -9 -8 no
+54:53
+-8 4 nos da que y es igual a cuánto Rafa
+55:00
+-2 muy bien ya obtuvimos dos variables Z y Y entonces estas dos no más hay que
+55:09
+sustituirlas no bien aquí 5 y dijimos que Z
+55:18
+vale -1 ig
+55:24
+1 Entonces 2x es igual a bueno adelant
+55:29
+unos pasos pero 3 por -2 -6 no -5 Por -1
+55:37
+cuánto nos da + 5 no esto es igual a 1 cuánto nos
+55:44
+da -6 y + 5 chavos -1 - 1 2x - 1 = 1 este -1 hay que
+55:53
+pasarlo al otro lado pas sumando verdad sí queda dos okay 2x = 2 yy que ese está
+56:04
+multiplicando el dos Cómo pasa del otro lado dividiendo dividiendo 2 / 2 y
+56:09
+cuánto es 2 / 2 uno uno y así
+56:21
+chavos obtuvimos la solución a un sistema de ecuaciones de TR variables dees
+56:26
+incógnitas esen Pues bueno chavos no encuentro el cargador digo que ya se va
+56:32
+a cortar Esto entonces chavos Espero que lo hayan podido entender si no luego lo repasamos y nos vemos el día de mañana
+56:42
+Bueno no s tengan alguna duda Ya encontré el cargador as que este Tienen alguna última duda
+56:48
+pregunta no me estoy dando cuenta que para sacar la final agarramos la primera
+56:58
+tenemos encontrar una en donde x no porque acuérdate que agarramos la
+57:05
+primera mir pod podía haber sido cualquiera de estas tres ra dequa cualquiera de las jalaba mientras
+57:12
+tenga x mientras tenga x mientras tenga x que es la última que nos falta encontrar no no tiene caso sustituir en
+57:20
+las otras que ya encontramos aunque tenga x yo elegí la primera Pues porque
+57:25
+así pero pude haber elegido la segunda o la tercera la única cosa es que tiene que tener x no porque es la única
+57:31
+variable que nos faltaba encontar
+57:38
+s chavos Pues bueno este nos vemos
+57:43
+mañana Bueno no mañana pues el lunes el lunes Okay nos
+57:48
+vemos chavos Cuídense bye bye bye

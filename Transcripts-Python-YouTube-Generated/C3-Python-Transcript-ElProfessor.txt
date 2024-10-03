@@ -1,0 +1,1192 @@
+0:15
+okay muy bien Pues bueno vamos a seguir en lo
+0:21
+que estábamos se acuerdan que era en este archivo nos acordarán
+0:28
+digo pues la vez pasada acuérdense si no tienen golpe lavatorio nada más es decir
+0:34
+se queda más en conectar más aplicaciones en
+0:42
+la de los que ya le hicieron ya la ventana hacer esto pero los que no lo hicieron se pueden ir aquí a
+0:48
+colaboratorio y aquí en vez de decir desinstalar debe decir instalar
+0:58
+lo que pasa es que
+1:04
+Perdón en cualquier parte de tu Google Drive
+1:12
+este derecho y te debe de salir esta barra y te vas
+1:21
+hasta abajo en donde dice más después de esto te vas en donde dice
+1:27
+conectar más aplicaciones
+1:36
+Sí vamos bien okay muy bien y luego aquí es irte en donde dice volar
+1:44
+colaboratory te debería de salir y es esta opción que es una c y una o como
+1:50
+naranja amarillas algo así y le das clic ahí y aquí te debe decir en vez del botón de
+1:57
+desinstalar debería decirte para ti Que si no lo tienes instala si ya lo tienes
+2:03
+pues yo nada más cierras y dice instalar Dale click para que se instale
+2:09
+cierras no se vaya a tardar ni un minuto y pues bueno ya ya con eso ya tienes
+2:15
+Google colaboratorio y aquí en hace que la carpeta que les dejé en el grupo en
+2:21
+la descripción del grupo en WhatsApp debe de estar este esta carpeta y debes
+2:27
+de irte al que dice c dos todo este nombre largote este y descargar los
+2:34
+López editar aquí porque no tienes acceso y lo puse así porque y todo el mundo lo intentara mover la s este no no
+2:42
+cargaría entonces este es que lo descargues no no descargas y luego lo arrastras y lo
+2:49
+pones en cualquier parte de un Drive fuera de esa carpeta en cualquier otra
+2:55
+carpeta de tu Drive lo jalas y lo arrastras Aquí y ahora sí que le darías
+3:00
+doble clic sobre el archivo y te debe de salir algo así Bueno este archivo que al
+3:08
+que estamos trabajando la Bueno ayer este muy bien
+3:14
+y bueno ayer Bueno nada más para recordar ayer por ejemplo Estuvimos viendo que aquí Este es un Google
+3:21
+colaboratorio que aquí podemos nosotros correr python aquí python se corre en
+3:28
+las computadoras de Google en los servidores no en las nuestras Entonces sí va a depender de nuestra conexión de
+3:34
+internet qué tan rápido este corra esto porque no es tanto nuestro procesador sino las computadoras de Google y
+3:42
+depende de nuestro internet okay muy bien Bueno vamos a ver que este aquí podemos
+3:49
+correr python hay dos tipos de celdas como les había dicho está la de código y la de texto en la de texto ustedes
+3:56
+pueden poner imágenes pueden poner este títulos por ejemplo miren aquí si le pongo una más de texto me da que títulos
+4:03
+que lo puedo poner en negritas lo puedo poner en cursiva puedo poner imágenes este bules bueno pasan viñetas etcétera
+4:12
+este y aquí mira por ejemplo con este puedes subirlo bajarlo puedes eliminarlo
+4:19
+aquí con el bote de la basura una de estas son las de tipo texto y las de
+4:25
+tipo código se nota porque aquí tienen como un botón de Reproducir como darle Play no así que no sé y cuando
+4:33
+reproduces un video en YouTube o lo que sea este pues es el mismo simbolito no el de Play Okay muy bien Nada más para
+4:41
+recordar allá Estuvimos viendo que había este comentarios en python como en todos los lenguajes de programación
+4:48
+los comentarios sirven para que nosotros podamos este
+4:54
+Ok sirve para que nosotros podamos como explicarle a alguien más que hacemos en
+5:00
+el código en esa línea de código o explicarnos al tuyo del futuro Qué
+5:06
+hiciste en esa parte o también lo puedes usar para poner de que tu nombre no de que este código fue hecho por este
+5:14
+entonces este es lo que se puede es lo que se hace con los comentarios el
+5:19
+comentario de una sola línea es con el hashtag y el comentario de varias líneas es con comillas dobles tres comillas
+5:26
+dobles para iniciar y tres comillas dobles para cerrar muy bien Bueno andábamos hablando que ayer que hay las
+5:32
+palabras reservadas Todos los lenguajes de programación tiene palabras reservadas no okay Y son estas
+5:40
+no vamos a ver este Estuvimos viendo un poquito ayer de que eran cada una el Force y el true valores boleándose a lo
+5:47
+que les decía ayer que sí es importante que traten de aprender inglés ya que pues python y En general todos los
+5:53
+lenguajes de programa están en inglés también los lenguajes de búsqueda de tipo cueris como de bases de datos del
+6:00
+sql todo está en inglés la documentación o sea como el los manuales de cómo
+6:08
+funciona el código lo que sea también todo está en inglés también las actualizaciones que ya se hacen día con
+6:14
+día están en inglés entonces sí es importante que traten de aprender porque la verdad les facilita la vida este aquí
+6:21
+está bueno los valores booleanos el falso y verdadero están los condicionales que hayamos dicho que el
+6:27
+elif está el and or y not no que estos son los operadores lógicos el y el o y
+6:36
+la negación tenemos ciclos como en todos los lenguajes de programación tenemos estos dos que es el While y el Ford
+6:44
+luego vamos a verlo Bueno hoy lo único que vamos a verlo más a detalle este las funciones en python te ponen con des
+6:51
+para poner el nombre y bretón que sería nuestro output de la función vamos a ver
+6:57
+hoy yo creo este las clases sirven para un concepto muy importante en
+7:02
+programación que bueno casi todos los lenguajes modernos lo tienen que se llama programación orientado a objetos
+7:08
+programación orientada objetos básicamente vamos a ver que todo en
+7:14
+python en Java y en varios así lenguajes son objetos luego vamos a ver qué quiere
+7:19
+decir eso por eso es muy importante esto esta parte de import from y haces para
+7:25
+importar librerías que lo que dijimos que hace muy poderoso al lenguaje de python en particular es que tiene
+7:31
+librerías librerías es este código que alguien ya hizo el cual tiene funciones
+7:37
+muy poderosas depende digo hay librerías para todo hay librerías para lo que es
+7:42
+robótica hay librerías para Inteligencia artificial hay librerías para análisis financieros hayan librerías para
+7:49
+análisis de estadístico allá entre librerías para hacer páginas web hay librerías para hacer videojuegos O sea
+7:55
+la verdad es que hay librerías para todo en python por eso es tan poderoso Ese es el poder verdadero de python son sus
+8:01
+librerías luego estamos Este las función lambda que es como paito más intermedio
+8:06
+el ist que es un comparador este es para afectar ciclos luego vamos a ver qué
+8:12
+significa este y por ejemplo el with que son para excepciones qué es
+8:19
+esto Imagínate tú por ejemplo que estás manejando un tesla o lo que sea tú no quieres que se ponga la pantalla azul no
+8:25
+O sea que de repente esté manejándose solo chocas por algo Ajá sí por un error
+8:31
+del código lo que sea por un error del usuario te pongo o sea porque nosotros cuando ponemos algo que no está bien en
+8:36
+el código mío por ejemplo aquí los voy a poner O sea si pusiera esto a ver si ocurre ya no debería
+8:49
+Bueno aquí les digo su depende de tu conexión a internet eso me da cosa
+8:55
+maestra que con cualquier numerito puede fallar tú puedes fallar sí programación es así O sea con cualquier cosa que le
+9:01
+cambies te dice el sintaxi error y lo malo es que el programa Solo Lee hasta acá o sea como dijimos ayer python igual
+9:09
+que a nosotros Lee de arriba hacia abajo no entonces mira python le esta línea y
+9:15
+luego Lee esta línea si hay un error ya no leyó todo lo demás entonces también
+9:21
+eso es como lo peligroso por eso existe esta parte del
+9:26
+para las excepciones eso lo vamos a ver más con payton intermedio Eso es para si
+9:32
+el usuario pone cosas que no debería o lo que sea que no se rompa el código verdad
+9:37
+Okay muy bien y bueno ayer también estuvimos diciendo rápido la función p verdad que la función print imprime que
+9:44
+es mostrar en pantalla todo lo que pongas dentro puede imprimir números con
+9:49
+decimales números enteros o puedo imprimir texto el texto en python lo puedes imprimir con comillas dobles o
+9:55
+con comillas sencillas este cualquiera de las dos tenemos una oración sin
+10:01
+comillas Ah no no lo corren eso sí lo detecta como mal porque mira ahí no lo detecta
+10:07
+como texto si lo pones así
+10:16
+o sea lo detecta A lo mejor que a lo mejor son variables no O sea como
+10:21
+acuérdate o sea para nosotros determinar que sí es este texto no Mira pues con
+10:28
+comida sencillas es lo mismo en python
+10:33
+así le tienes que poner comillas porque si no python puede creer que son variables funciones o qué haces luego
+10:39
+vamos a ver más adelante entonces por eso si le tienes que poner comillas no para que python sepa que estás
+10:45
+poniéndole texto Okay muy bien esta función de type tipo
+10:51
+te dice el tipo de dato que está dentro de su paréntesis por ejemplo este está
+10:58
+el Flow ayer Estuvimos viendo un poco que el float es el que se usa para los decimales este porque hay una diferencia
+11:06
+entre los enteros y los decimales en python porque los decimales ocupan más espacio en la memoria de la computadora
+11:12
+y dice que cuando podemos type 1.5 es para
+11:19
+que nos diga Cuál es la clase Sí es el tip para que nos diga el tipo de dato no tanto la que hacen el tipo de dato Este
+11:26
+vamos a ver más adelante cuando veamos lo de programación orientado objetos que todo todo es un objeto el uno punto
+11:33
+cinco es un objeto Y es de la que hace o del tipo de float que es una que hace un
+11:40
+objeto o sea una Sí una que hace ya predefinida en python están varias ya
+11:46
+predefinidas este bueno vamos a seguir un poquillo Mira si ustedes no ponen el
+11:51
+print no les va a salir en pantalla no le salen pantalla porque a python y
+11:58
+como todos los lenguajes de programación tienes que ser muy específico tienes que decirle qué quieres que haga el programa
+12:04
+Entonces si aquí tú no le estás poniendo que o sea python sí lo lee python como dijimos va de arriba hacia abajo así
+12:11
+como nosotros leemos igual python python corre y lee esta línea Lee esta línea y esta línea sin embargo aquí no le estás
+12:18
+diciendo a python que te lo muestre en pantalla Entonces python no te lo va a gustar en pantalla o sea nomás lo lee
+12:23
+pero no hace nada con él se lo tienes que poner específicamente Cómo se lo pones con la función print
+12:29
+también dijimos ayer que python es muy especial en el sentido de que como todos los lenguajes programación esa no nada
+12:35
+más es python pero todos este con las mayúsculas y las minúsculas o sea una
+12:41
+variable no es lo mismo la variable n mayúscula que n minúscula o no sé la
+12:47
+variable nombre con n mayúscula n minúscula o lo que sea tiene que ser exactamente igual y por qué Si se
+12:54
+acuerdan de la primera que hace que dijimos que las computadoras leen lo que es el código ascii
+13:04
+es lo que o sea es el código asky no el código ascii básicamente es este
+13:11
+lo que este las computadoras entienden no habíamos dicho por ejemplo que la a
+13:17
+mayúscula creo que era 65 y la a minúscula tiene otro código entonces las
+13:22
+computadoras sí diferencian entre mayúsculas y minúsculas entonces por eso es importante así que
+13:29
+asegurarnos de eso también dijimos que python funciona como una calculadora verdad que bueno básicamente más menos
+13:35
+multiplicación división lo único diferente es las potencias verdad que dijimos que las potencias era dos
+13:41
+asteriscos luego dijimos el módulo verdad el módulo dijimos que funciona por ejemplo para determinar si un número
+13:47
+es par o impar Para algunas contraseñas algunos Así que utilidades y saber si
+13:53
+algo es múltiplo de 10 o múltiplo de siete o lo que sea si un número es primo No eso se puede usar en criptografía
+13:59
+Cuando hacemos lo de este en las contraseñas no para que no nos nuestras
+14:04
+cuentas de Facebook de los bancos o de lo que sea este algunas aplicaciones es con esto igual con división entera muy
+14:12
+bien división entera por ejemplo también puede ser o así por ejemplo vamos a ver
+14:19
+otra aplicación en la vida real que no tenga que ver con criptografía sería ver por ejemplo si tenemos
+14:24
+520 alumnos no Y tenemos salones de 35
+14:29
+personas verdad necesitamos ver por ejemplo con la división entera podemos calcular Cuántos salones vamos a ocupar
+14:35
+y en la O sea y con el módulo podríamos saber Ah Pues cuántos restantes o sea
+14:42
+cuántos de los otros van a tener un salón más pequeño o literalmente se van a quedar fuera del grupo es una de las
+14:48
+aplicaciones en las que pueden usar este el módulo y la división entera Okay muy
+14:55
+bien este variables por ejemplo habíamos dicho rápido que python lo que hace es
+15:01
+que lee el signo de igual un solo igual significa asignación eficaz asignar o guardar es lo mismo o
+15:09
+sea python llega al lee el signo igual y lo que hace es lo que esté al lado
+15:15
+derecho del igual lo va a guardar o asignar en el lado izquierdo dijimos que
+15:21
+nosotros a diferencia de matemáticas que por lo general solo ponemos aquí y z o algo así para las variables en python si
+15:27
+podemos poner ahora sí que imagínense que esto es como si fueran una una caja por ejemplo es eso también otra analogía
+15:34
+y tú le pones dentro de esta caja Hola verdad o le pones veinte o lo que sea algo que también tenemos que tener
+15:40
+cuidado con python por ejemplo no bien
+15:46
+bien Se los voy a poner aquí es que python como dijimos Lee de arriba
+15:54
+hacia abajo y tú le puedes cambiar el valor de la variable por eso se llama variable verdad lo puedes cambiar abajo
+16:00
+y media van a ver no que si imprimimos f en bajo uno no y
+16:09
+luego imprimimos la misma variable no nos va a dar el mismo resultado porque le cambiamos el valor verdad
+16:15
+y con Qué valor se va a quedar al final Pues el segundo verdad el que esté más
+16:20
+abajo porque acuérdense que python va leyendo así de arriba hacia abajo aquí
+16:26
+los voy a imprimir los dos para que se vea y que fue
+16:33
+Ah era F uno Perdón ese guión bajo uno como les dije python es muy especial si te equivocas con un
+16:39
+número con una letra o lo que sea de una variable No te lo va a correr porque aquí o sea en todos los lenguajes de
+16:46
+programación tienes que definir las variables si tú pones una variable que no estaba definida como aquí que me
+16:52
+equivoqué en bdf guion bajo uno puse guión bajo dos te dice esto name error de nombre te dice el nombre de la
+17:00
+variable F dos no está definido Okay muy bien bien imprimí los dos el uno punto
+17:07
+cinco y el dos pero si nosotros Así que se nos olvide y cambiamos este valor y
+17:12
+no lo volvemos a cambiar o lo dejamos así se va a quedar con el último valor que le asignamos así funcionan las
+17:19
+variables en python y en creo que en la mayoría de los lenguajes de programación muy bien A diferencia de otros lenguajes
+17:25
+en otros lenguajes Siempre tienes que poner punto y coma aquí no en python no importa el punto y coma como se dan
+17:31
+cuenta yo no puse el punto y coma en este y también a diferencia de otros lenguajes por ejemplo en otros lenguajes
+17:37
+sí tienes que decir de qué tipo va a ser cada variable aquí python hace lo que se
+17:43
+llama asignación dinámica que básicamente lo lo interpreta por eso uno se llama compilador y el otro se llama
+17:49
+interpretador el de python es un interpretador porque interpreta los este los valores verdad por eso python es más
+17:57
+compacto en cuanto a escribir el código Por ejemplo puedes poner cinco líneas de código y más Si usas librerías librerías
+18:03
+en python A lo mejor te puedes evitar cientos de líneas de código en otros lenguajes eso es como el poder de python
+18:09
+muy bien Bueno estábamos diciendo los tipos de datos verdad que numéricos hay info este de secuencias que dijimos que
+18:16
+era String que son cadenas de texto listas de las listas se ponen dijimos que era con los corchetes o con los
+18:23
+paréntesis cuadrados como los conozcan ustedes y son editables O sea sí son mutables aquí dicen los que no son
+18:30
+mutables son los topos las tuppers en español también nombre raro pero bueno este y podemos sí podemos tener lista
+18:37
+dentro de listas todos dentro de topos así se pueden hacer matrices Aunque la verdad es que python no es muy
+18:44
+recomendable hacer matrices con listas a menos que uses una librería que se llama numpai que luego la vamos a ver también
+18:50
+la de numérica el python Porque python si tiene sus ventajas de que es fácil de escribir pero también tiene la
+18:56
+desventaja que es algo pesado sin embargo hay librerías que sí optimizan las funciones de python por ejemplo como
+19:02
+en un pay y hace mucho más rápido estos procesos entonces este bueno es una
+19:08
+recomendación el mapeo lo que habíamos dicho este se pone con llaves y ponemos
+19:13
+el valor de la llave uno por ejemplo dos puntos y el valor que le damos esa Ya
+19:19
+ves como un pues así se llama no diccionario básicamente no sé el nombre la palabra y su definición no
+19:25
+básicamente es así la palabra sería como el ki y el value sería como la definición por eso se llama diccionario
+19:32
+verdad también funciona como envases de datos bueno no vamos a ver qué significa eso
+19:38
+pero también este los conjuntos esto es como en matemáticas y se cuentan de los
+19:43
+diagrama de Ven y todo eso de secundario este o en preparatoria este los conjuntos no que son este pues números
+19:51
+que están dentro de algo o sea sí pues aquí acuérdense en conjunto No puede
+19:57
+haber por ejemplo dos dos o sea no puede haber números repetidos en los conjuntos solo hay un elemento de cada cosa y él
+20:05
+fue frozenset es un inmutable es lo mismo que el set O sea que el conjunto pero es un conjunto estático es como el
+20:12
+topo y en la lista muy bien Pues bueno Hay que seguirle para poder se acuerdan ayer vimos también el input que es una
+20:19
+función que el usuario aquí nosotros ahora sí que le ponemos este Bueno aquí va a preguntar al usuario no por ejemplo
+20:25
+Aquí vamos a ponerle Laura Por ejemplo aquí nosotros ya
+20:33
+estamos interactuando con el programa python nos está pidiendo y miren aquí le pongo enter y me pone Hola Laura Espero
+20:40
+te encuentres bien cómo lo puedes poner acuérdense que dijimos que hay un especial que es con el ff se lo pones
+20:47
+antes de las comillas no y significa print o con formato este nos permite
+20:53
+introducir variables dentro del texto y cómo python va a saber cuáles variable y
+20:59
+cuáles palabra dentro del texto pues con llaves dentro de las llaves nosotros ponemos los no en las variables verdad
+21:06
+Muy bien pues así es esto y bueno Ayer ya empezábamos empezando con el IRS
+21:14
+verdad Muy bien habíamos dicho estos bueno estos valores booleanos verdad Y
+21:21
+estos comparadores lógicos tú significa verdadero antes miren aquí ahora sí que
+21:29
+acuérdense que este dije que la analogía es como multiplicar por cero o el agua y
+21:36
+veneno el agua y veneno Por qué Porque por ejemplo si ustedes tienen cien vasos de agua no y un vaso de puro veneno muy
+21:43
+muy fuerte un veneno muy fuerte si ustedes mezclan los cien vasos de agua en uno así que en una cubeta grande muy
+21:50
+grande y el vaso de veneno eso sigue siendo veneno verdad ustedes no se lo
+21:55
+tomarían porque pues o sea no está lo suficientemente diluido como para que la sigue siendo veneno y pues mata no lo
+22:02
+mismo aquí con que tengas un solo Falls ya todos los chaperderos O sea la
+22:07
+analogía también en matemáticas es como multiplicar por Cero tú puedes tener aquí un millón quinientos millones lo
+22:14
+que sea multiplicando pero si el ritual en algún punto multiplicas por cero pues
+22:20
+todo se hace cero verdad Bueno Obviamente si multiplicas por más de todos modos con que haya uno solo ya es cero Así es como funciona el ant aquí
+22:28
+estábamos viendo en las tablas de verdad no el true nos da tú el tú and full
+22:35
+dijimos con que haya un solo Fall se hace verdad el Force and true nos da
+22:42
+post verdad y el false and false nos da falso luego está el otro operador lógico
+22:48
+que es el or aquí es miren aquí yo digo que es como
+22:57
+Bueno ahorita lo vamos a ver pero más o menos bueno bueno este ahorita lo vamos a ver en el If más aplicado pero bueno
+23:04
+aquí es al revés y se dan cuenta la única forma en que sea falso es que todo
+23:10
+sea falso con que haya un solo tú todo se hace tú o sea yo lo digo que es como
+23:17
+comer por ejemplo en analogías como comer o sea si a ti te dan de opción quinientos platos no con que tú comas
+23:25
+uno ya comiste verdad no necesitas comer los quinientos si agarras un pedacito de cada uno pues bueno también comes pero
+23:31
+con que tú te comas un plato Ya comiste verdad es lo mismo aquí o sea con que tú tengas algo positivo ya ya está bien no
+23:38
+este digamos por ejemplo que un maestro en la escuela o algo así te digan este
+23:44
+pues con que entregues una tarea ya te pongo que que tienes el 100 de tarea no
+23:50
+O sea tú no necesitas hacer todas con que tengas una sola buena ya está bien
+23:56
+no Pues básicamente es así Eso es como funciona el ojo el not es la negación
+24:02
+que es lo contrario Por ejemplo si tienes un truco Cuál es su contrario
+24:08
+verdad y el contrario de false tú también Estuvimos viendo un poco de
+24:15
+operadores de comparación con números o con letras por ejemplo dijimos
+24:20
+acuérdense que el uno igual significa asignación verdad O sea guardar
+24:25
+variables sin embargo aquí chavos el dos iguales significa
+24:32
+comparar y el dos iguales es equivalente a preguntar son iguales
+24:39
+en diferente es en un signo de perdón de excamación y el igual es equivalente a
+24:48
+preguntar son diferentes este Bueno eso es como matemáticas no
+24:54
+menor a mayor a menor o igual mayor o igual y aquí les puse un ejemplo aquí
+25:02
+miren algo muy importante mira lo voy a quitar no más fácil que por cuestiones de pueden hacer eso cuando quieran hacer
+25:10
+así por ejemplo Open y peguen y pónganlo afuera esto aquí lo estoy comentando
+25:15
+para que sea más fácil o más o sea para que ustedes puedan hacer pruebas con el código a veces se vale hacer eso bien si
+25:23
+yo pongo Esto me va a salir algo malo porque porque la función input siempre
+25:30
+siempre lo que le mandes te lo agarra como como texto Si tú le pones o sea
+25:38
+veinte con número ese veinte no va a ser un número o sea lo va a tomar como tipo
+25:43
+texto es como si usted han trabajado con Excel no sé si se acuerdan que por ejemplo Excel si es es un número lo pone
+25:50
+a la derecha en la celda si es una letra Bueno si es letras este Lo pone a la
+25:55
+izquierda verdad Pues básicamente Aquí esta función de input nos regresa un
+26:00
+String o sea texto Si nosotros queremos transformarlo tenemos que ponerle por
+26:06
+ejemplo una función tipo hay Bueno hay dos por ejemplo que será la de
+26:13
+o la de esta pues obviamente lo transforma ahí y
+26:19
+esta lo transforma free aquí por qué lo puse en inch porque acuérdense que dije que el entero los enteros ocupan menos
+26:26
+espacio verdad entonces pues obviamente Nos conviene más poner entero por qué porque sabemos que nadie dice tengo 15.5
+26:33
+años o tengo veintidós punto nadie dice eso todo el mundo dice enteros verdad es
+26:39
+como decir cuántos salones Cuántas personas este Cuántos invitados No puedes decir invitar a 259.4 personas
+26:48
+entonces cuando sabes que son enteros si se trata de poner int para tratar de o
+26:53
+sea para ahorrar espacio porque dices o sea para uno es insignificante porque no o sea es muy poco la diferencia porque
+27:00
+las computadoras son muy poderosas sin embargo si ya son millones de usuarios o cosas así o millones de usuarios estando
+27:07
+usando todo al mismo tiempo o sea los servidores y todo eso Pues sí Este es
+27:12
+mejor hacerlo así Por eso hay veces en las que las páginas este se caen no que
+27:18
+todo el mundo le pica al mismo tiempo y a veces es porque sí porque todo el mundo le pica o a veces es también
+27:24
+porque no lo optimizaron tanto las bases de datos el código entonces pues cuando Hay momentos en el que sí necesitan
+27:31
+mucho poder computacional Pues no hay poder computacional que alcancen luego Bueno realmente no tanto en este curso
+27:38
+pero cuando se ven algoritmos y eso se ve que es muy importante poner algoritmos eficientes porque por más
+27:45
+poder computacional que tengas hay hay algunos problemas hay algunas veces
+27:50
+el poder computacional de la computadora más fuerza del mundo aún así se tardarían millones de años en
+27:57
+resolverlo si lo si pones un mal algoritmo entonces por eso es también importante ahora sí que tratar de
+28:03
+optimizar Okay por ejemplo les decía bien si corro Esto me va a salir o sea
+28:09
+cuando ponga el número obviamente bueno esto porque tengo que terminarlo
+28:16
+Pero mira me pone type error no me pone que este no soporta este entre
+28:24
+instancias de String Y por qué porque les dije aquí este le está leyendo como
+28:31
+el catorce que puse es no perdón 24 este como el 24 que puse no lo está leyendo
+28:39
+como letras Entonces no puede comparar una letra con un número
+28:46
+Okay muy bien entonces este para ponerlo correcto sería como el de acá arriba
+28:52
+verdad con el IMSS también funcionaría pero les dije chavos o sea que si hay que tratar
+28:59
+de hacer las cosas bien desde la primera vez Entonces este por ejemplo aquí
+29:04
+cuántos años tienes me voy a poner un ejemplo para que salga el otro caso veinte por ejemplo
+29:12
+y en qué país estás actualmente le va a poner que Estados Unidos porque igual no sé si sepan pero por ejemplo en Estados
+29:18
+Unidos la edad permitía para beber alcohol es a partir de los veintiuno Entonces si es veinte va a decir que no
+29:26
+San Miguel Pero tú no puedes tomar en Estados Unidos pero en cualquier otra parte del mundo sí okay muy bien bien
+29:33
+aquí Cómo funcionan los yo he dicho siempre he dicho que el If es bueno el If el elif y el leds imagínense como si
+29:41
+ustedes fueran con sus amigos a un a una casa comercial a ver un partido lo que
+29:46
+sea y quieren comer en un restaurante no llegan al primer restaurante y preguntan
+29:52
+que si está lleno no o si pueden entrar y les dicen que no Ah pues bueno se van
+29:58
+al segundo restaurante verdad si en el segundo les dicen que no pues bueno van al tercero Imagínate que hay días
+30:05
+restaurantes no Y si en el tercero les dicen que sí ustedes ya no preguntan ni
+30:10
+en el cuatro ni en el cinco ni en el seis ni en el siete ocho nueve y diez verdad con que uno les diga que sí Ahora sí que en el orden que va no O sea si
+30:17
+ustedes van caminando entran por la entrada uno y van a o sea en el orden el uno el dos si en el tercero les dicen
+30:23
+que sí ustedes se meten Y ustedes ya no se ponen a preguntar por los otros
+30:28
+restaurantes ya no les importa verdad Pues así es como funciona el If el elif
+30:34
+y el led Qué quiere decir esto si esta condición que pueden ser varias combinaciones de condiciones por eso
+30:41
+está el Lan los operadores lógicos este este va a regresar un valor si es
+30:46
+verdadero o falso aquí por ejemplo veinte es mayor o igual a 18 Sí verdad
+30:52
+es verdadero veinte es mayor igual a 18 y miren aquí lo que hicimos eso qué
+30:58
+quiere decir diferente verdad si el país es diferente a Estados Unidos
+31:04
+imagínense Bueno voy a ponerlo este por ejemplo diecinueve y México
+31:14
+si pongo Esto me va a decir muy bien puedes beber alcohol no me va a decir
+31:20
+esto porque
+31:26
+en la última de You Can't drink
+31:31
+Ah porque Mira vamos a esto porque sería la condición donde seas menor de 18 o
+31:38
+sea porque aquí te está preguntando si tu edad es mayor o igual a dieciocho en casi todos los países del Mundo a partir
+31:43
+de los 18 puedes beber alcohol no este en Estados Unidos es hasta los
+31:49
+veintiuno o sea es lo que le decía bien déjeme terminar por ejemplo imagínense
+31:55
+la analogía de los restaurantes ustedes van a los diez restaurantes y en los diez les dijeron que no Entonces si
+32:03
+ustedes querían Ver el partido por ejemplo qué es lo que hacen Ah pues si me voy a mi casa no es así es como
+32:08
+funciona el Lex si todas las condiciones y todos los If y Eli fueron falsos
+32:14
+falsos falsos falsos él es es bueno corre esto Si todo lo demás no funcionó
+32:20
+pues es como tu tu as bajo la manga Tu última carta como quieras decirlo él es
+32:26
+sin ninguna de las condiciones se cumplieron entonces corre melen aquí es
+32:31
+que o sea para que pase esto tendría que ser la condición donde sea ahora sí que
+32:38
+este menor de dieciocho o sea por eso diría esto no puedes tomar en ninguna
+32:44
+parte del mundo porque bueno que yo sepa este al menos en la mayoría de los países del Mundo tienes que ser mayor de
+32:49
+18 años verdad Ok O sea se tiene en cuenta el caso de
+32:55
+los países normales de Estados Unidos y de Pues de que ningún país puedes tomar
+33:00
+alcohol si eres menor de edad verdad Okay muy bien o sea así es como funciona
+33:07
+Mira por ejemplo me voy a probar le pongo diez años me ponga lo que le ponga ayuda en México
+33:13
+me voy a decir es a ver Ah bueno aquí hubo un error
+33:18
+pero
+33:26
+Bueno aquí le faltó o sea para ponerlo más completo tenía que poner
+33:32
+el
+33:38
+Okay muy bien es mejor así
+33:46
+O sea sí porque era para el caso este
+33:51
+Okay muy bien Ahora sí ya está completo porque antes fallabas y le ponía O sea
+33:58
+si ponía la condición de menor o igual de o sea diez era menor igual o sea
+34:04
+tenía tengo que ponerle Esta última condición Para que no haya como un hueco no este hueco era si le ponías menor de
+34:11
+edad menor de 18 y Estados Unidos verdad Este sí ya funciona para todos o sea por
+34:19
+ejemplo aquí no diez Estados Unidos O si le pusiera diez y México me va a decir lo mismo
+34:27
+Y si le ponemos veintiuno y Estados Unidos hay que pagarlo
+34:37
+acuérdense que tiene que ser con mayúsculas porque este
+34:43
+Bueno aquí falló nada más que este [Música]
+34:51
+creo que necesitamos una decepción Sí este déjame ver
+34:57
+[Música] si la edad es mayor igual a 18 y la
+35:05
+[Música] Okay debería de dar
+35:11
+[Música]
+35:20
+Okay a ver déjeme ver para que salga perfecto debe ser
+35:27
+Okay muy bien que debería de salir a ver
+35:34
+es veintiuno podemos poner otro el If
+35:40
+Sí también a veces no es lo ideal pero esa ya es más como alcohol
+35:46
+no de qué este
+35:56
+podemos ponerlo así O sea pero Déjenme ver aquí como la edad es
+36:03
+mayor igual a 18 [Música]
+36:09
+sería creo que sería igual que el anterior nada más que en el segundo age le podemos poner operable
+36:17
+y el country Igual igual a Us
+36:23
+también puede ser mayor a 18
+36:29
+que está dando [Música]
+36:45
+[Música]
+36:50
+si se cambia menor igual que veinte no estaría no sabía eso
+36:59
+o sea bueno si Obviamente si pongo el 21 y este ahí sí ya digo
+37:14
+no
+37:21
+Bueno sí tendría que ser el otro caso Entonces el caso del If No aquí sería el
+37:28
+caso del If donde la edad este
+37:35
+[Música] como dijimos verdad este sea
+37:43
+mayor
+37:49
+era como estaba no es mayor igual a
+37:59
+lo que teníamos
+38:05
+y ok no puedes tomar en Estados Unidos pero en cualquier otra parte del mundo
+38:14
+[Música]
+38:20
+en tu edad es mayor igual a 21 en tu país
+38:26
+es Estados Unidos no Okay este [Música]
+38:33
+es para arriba
+38:39
+[Música]
+38:57
+bien y este este
+39:24
+Bueno también puede ser
+39:38
+Estados Unidos no puede ser otro elif como están
+39:43
+diciendo donde el control
+39:51
+Estados Unidos y este
+40:00
+y este
+40:11
+aquí lo ponemos french yo tengo
+40:37
+pero aquí para bueno tendría que ser age mayor igual a 18
+40:46
+Okay entonces este en teoría Sí ya debe jalar con todos los casos
+40:58
+Okay sí muy bien Vamos a sacarla del otro caso que al principio mal
+41:07
+Okay bien ya era ponerle Me faltó este ponerle una última condición que era el
+41:14
+If no este bueno era esta realmente la de este 18 porque o sea el problema era
+41:22
+que si le poníamos menor de edad no era el menor de edad en Estados Unidos al
+41:28
+menor de 18 nos salía que sí era ponerle esa última condición O sea que sea mayor
+41:34
+igual a 18 Okay muy bien Pues bueno este ahora sí
+41:40
+que en el código la verdad es que siempre puede pasar siempre puede haber que haya un caso o algo así que el
+41:46
+usuario este meta algo O sea pues de tantas combinaciones que hay no por eso
+41:51
+es bueno antes de hacer esto Si van a hacer un programa tienen que ver como todas las combinaciones posibles es por
+41:57
+eso que se ve lo de ahora sí que lo de matemáticas discreta y la parte de combinatoria porque pues tienes que
+42:03
+analizar todos los casos posibles Porque en cualquier momento este cualquier usuario te puede poner un caso aunque no
+42:10
+digo O sea no O sea raro pero te lo puede poner y te puede hacer que salgan cosas así que no esté bien el programa
+42:16
+Okay muy bien Pues bueno chavos Bueno hay que seguir un poco para que nos dé el tiempo aquí las funciones este
+42:25
+ahora sí que bueno en python existe lo que son funciones una función en python
+42:31
+este empieza con el Def el des es una
+42:36
+palabra reservada significa Define Define luego pues digo se deja un
+42:43
+espacio y aquí ustedes ponen el nombre de la función igual Tienen las mismas
+42:50
+Cómo se llama limitantes que una variable o sea para poner los nombres en qué sentido
+42:56
+en el sentido de que no podemos empezar igual bien si le pongo un número al
+43:03
+principio como con las variables que habíamos dicho pues todo se pone en rojo no sé si sí lo alcancen a ver
+43:11
+si sí bueno el punto es que le pone todo en rojo y no me lo va a dejar correr Entonces es Tienen las mismas limitantes
+43:18
+que para definir nombres de variables y para poner una función para que python
+43:24
+sepa que es una función y no una variable le tenemos que poner los
+43:29
+paréntesis después del nombre de la variable se pone los paréntesis y bueno como se habrán dado cuenta en el en el
+43:36
+en el helice se ponen los dos puntos Por qué bueno eso viene de matemáticas los
+43:42
+dos puntos significa bueno Y entonces den entonces corre este código no O sea mira aquí lo
+43:49
+que está diciendo si esta condición es son ciertas tienes la combinación de esta y la combinación de esta es cierto
+43:56
+entonces corre este código y no es cierto pues sigue al siguiente si esto
+44:03
+no es cierto al siguiente y así y acuérdense que el If el elif con que uno
+44:11
+solo nos de true y acuérdense que cómo cómo lee las computadoras de arriba hacia abajo si este es tú corre este
+44:18
+código e ignora todos los demás es al después O sea se saltaría hasta acá o
+44:24
+sea por ejemplo si este es corre este código
+44:30
+e ignora todos los demás no los corre no los lee porque les dije la analogía es
+44:36
+como los restaurantes o sea un restaurante él es como les dije imagínense que en el partido que querían
+44:42
+ver todos los restaurantes de la plaza están llenos Ah Pues bueno entonces todos están llenos ya no entran ningún restaurante y me voy a mi casa ese sería
+44:49
+como els no O sea si todo falla pues entonces haz esto okay muy bien Pues bueno a lo que iba es que
+44:59
+en python sí es importante si se dan cuenta que hay un espacio hay un hueco no
+45:06
+esto se le llama hidentación en en sí es importante Estos espacios en
+45:12
+otros lenguajes de programación se pone una llave y dentro de la llave se pone todo el código que hace el ifo una
+45:18
+función o lo que sea Aquí no aquí python identifica que está dentro de la función
+45:24
+porque está más a la derecha verdad porque está inventado así se llama o sea porque está más a la derecha tiene un
+45:31
+hueco o sea un espacio hacia la derecha entonces python dice Ah este código está
+45:37
+dentro del If si ustedes cometen el error de hacer esto python no lo va a
+45:42
+leer como O sea no lo va a leer como que fuera parte no lo va a leer como si fuera parte del
+45:49
+If ustedes tienen que ponerle aquí o sea tienen que indentarlo se hace con la
+45:55
+letra tap o python también lo hace automático por ejemplo cuando están aquí ustedes le dan enter automáticamente te
+46:01
+pone la hidentación esta hidratación es para Liz el el y también es para las
+46:09
+funciones y se dan cuenta aquí hay un hueco verdad aquí hay un espacio Esto
+46:15
+está dentado porque esto le está diciendo a python que este código está dentro de la función
+46:21
+esta verdad han hecho por ejemplo Okay muy bien y miren el ritual es lo
+46:30
+que nos va a regresar el es el valor de salida o el auto aquí podemos tener
+46:36
+varios valores de salida y los separamos con coma aquí por ejemplo me está dando dos valores de salida que me daría un
+46:43
+tople me daría una tupper de estos dos valores de Hola y Edge use no esta
+46:50
+función que va a ser bien y bueno algo importante Antes que nada esto aquí nosotros
+46:57
+definimos o creamos como quieran decirle
+47:03
+una función aquí solo la estamos llamando o
+47:09
+invocando
+47:15
+una función verdad o qué
+47:21
+llamando invocando una función Esto es lo que pasa no cuando este aquí le
+47:28
+estamos llamando o sea aquí estamos definiendo las propiedades y qué va a ser nuestra función hasta el retortón
+47:34
+una vez que el retortón todo lo demás ya no es parte de la función O sea ya ya lo
+47:40
+ya la función regresó algo así que tienen que ser cuidadosos con eso este una vez que haya un retorno la función
+47:47
+se sale O sea saca ese valor de salida y ya okay muy
+47:52
+bien aquí nada más le estamos llamando invocando por ejemplo mi hermano me va a
+47:59
+poner como por ejemplo si Yo corro esta cosa
+48:05
+no me estás haciendo nada Y ustedes van por qué no funciona mi función si está funcionando pero como no la estás
+48:12
+llamando pues nada más python lee este código o sea bueno ya definiste tu
+48:17
+función Qué bonito pero no la estás invocando aquí tienes como que invocarla
+48:22
+o llamarla para que te salga Cuál es la diosa la diferencia no
+48:37
+es hasta la parte que tú quieras ahorita vamos a ver un poquito más bueno vamos a
+48:43
+ver más avanzadas por ejemplo a ver bien Por ejemplo una que es bien típica este multiplicación
+48:53
+de cuatro números
+48:59
+bien por ejemplo como aquí no este bueno por ejemplo Aquí también en las
+49:06
+funciones puede haber funciones que tengan parámetros argumentos no el argumento uno el argumento
+49:17
+o sea por ejemplo puede estar así y nosotros podemos por ejemplo pues
+49:22
+multiplicar no O sea podemos aquí el resultado va a ser igual
+49:31
+Okay este aquí en vez de comas Pues sería multiplicar no
+49:36
+al multiplicar los cuatro números no
+49:43
+y podemos regresar el valor a veces python te ayuda y te así puedes
+49:50
+irte puedes decir Ah pues Sácame esto no okay por ejemplo bien aquí se lo corro pues
+49:56
+no me va a dar nada porque no le invoqué verdad O sea nosotros para que nos dé algo tendríamos que invocarla y aquí
+50:03
+como tiene parámetros van a ver bien si tú pones una función y nomás le pones
+50:10
+bien dos coma tres coma cuatro y no le pones el último valor
+50:15
+como ese tiene más argumentos me va a decir que hay un error
+50:21
+te hace falta un argumento verdad por ejemplo Aquí hay una cosa que este
+50:29
+que se hace en programación este por ejemplo
+50:35
+Bueno al menos tienes que tener dos números para que se multipliquen pero por ejemplo si nada si no te ponen este
+50:41
+este así que más números para que no se crache el código le puedes poner aquí si
+50:48
+tú le pones dentro de los argumentos igual a algo este es como el por default
+50:54
+por default es el argumento el argumento te va a valer uno a menos que el usuario lo especifique miren y yo pongo esto
+51:02
+me va a jalar me va a jalar porque este es como si estuviera multiplicando dos por tres por cuatro y al final por uno
+51:09
+Este cuatro sí lo tomó porque el por default es uno pero si tú le cambias el
+51:15
+valor por ejemplo que aquí es cuatro no este uno se va a actualizar y va a tener el valor de cuatro
+51:22
+Estas son las cosas así que también permite python meterles argumentos Y si
+51:28
+tú sabes que el usuario o el usuario se equivoca y normalmente este todos los argumentos o lo que sea para que no
+51:34
+explote el código se puede hacer esto O sea puedes poner valores por default en
+51:39
+las funciones y aquí por ejemplo es uno verdad porque pues acuérdense que multiplicar por uno pues es como si no
+51:45
+afectara O sea no afecta Okay chavos Pues bueno vamos a seguir una de las
+51:50
+librerías importantes que vemos ahora y que siempre es por ejemplo Omar que es este pues este tiene varias operaciones
+51:58
+de matemáticas aquí ustedes pueden poner senos cosenos tangentes pi etcétera
+52:04
+están en un país es la que les he dicho mucho que significa numérica el python que esta es muy óptima y muy buena para
+52:11
+los que estudian Pues bueno todo lo de ingeniería finanzas todo lo que tenga que ver con números este y vectores este
+52:17
+matrices etcétera puede ser en física puede ser en química puede ser finanzas
+52:23
+puede ser negocios puede ser en todo esto este en un país es muy buena está
+52:28
+muy optimizada no vamos a ver qué significa pandas es para manejar tablas como si fuera un Excel con esteroides o
+52:35
+sea porque Excel por ejemplo se empieza a fallar cuando máximo en una hoja de cálculo puedes tener un millón de
+52:42
+valores este Bueno o sea en un millón de filas sí o en bandas puedes tener más y
+52:49
+es mucho más rápido entonces este pandas puede te sirve mucho para usar tablas y
+52:54
+bueno tensor sirve para redes neuronales que básicamente es Inteligencia
+53:01
+artificial por ejemplo y todos estos este
+53:07
+este cómo se llama el todos los que sí O sea hay varias
+53:12
+librerías hay muchas librerías la verdad es que está en paitor para ser más redes
+53:18
+neuronales están este game para hacer videojuegos están varias o sea aquí por
+53:24
+igual Ahorita les voy a enseñar pero pues hay varias librerías que tienen bastantes usos hay unas para medicinas
+53:30
+hay otras para este finanzas hay otras para estadística hay otras por ejemplo
+53:35
+que funcionan como para hacer este tipo wol No sé si alguna vez han usado golf o
+53:41
+algo así que ustedes ponen para que te dé la integral Pues también está una que se llama simbólica python que también te
+53:46
+permite sacar integrales así tipo wolfant olfam cuesta esto no entonces este tiene sus poderes no bien así
+53:56
+importamos las librerías con el import y el nombre de la librería El As significa Cómo importan un pay
+54:04
+como Esto es para abreviación porque bueno por convención nunca se pone como np pandas por convención se pone como pd
+54:13
+y tensor por convención le ponen test Y la verdad es que tú le puedes poner lo que quieras pero pues digo es por
+54:19
+convención y o sea si alguien más lee tu código va a entender que esto np es un
+54:24
+pay va a tener que despandas y va a entender que tf está en usted lo pueden
+54:30
+cambiar no es muy recomendable Pero bueno vamos a seguir ya casi para terminar vamos a ver los ciclos está el
+54:36
+ciclo Ford look no el sitio Ford sirve para cuando tú tienes
+54:41
+O sea tú sabes cuántos pasos o Cuántas veces vas a necesitar repetir un ciclo es por ejemplo si tú sabes que una
+54:49
+escalera no este Tiene mil escalones Ah pues tú vas a poner que el proceso de
+54:55
+subir un escalón lo hagas mil veces verdad Muy bien para eso sirve el cuando
+55:01
+tú tienes ya predeterminada Cuántas veces quieres hacer el ciclo muy bien aquí miren aquí en python Está
+55:09
+interesante Por qué Porque es este Range bien este rancho se usa mucho que este
+55:15
+es una función mira aquí está aquí a veces te describe python que hace esa función esta función tiene puede tener
+55:23
+un solo valor un solo argumento dos o tres porque también o sea bien si solo ponen uno el primer argumento quiere
+55:30
+decir va a contar desde el cero hasta este Por
+55:35
+qué desde el cero bueno en programación algo que tienen que saber Es que la mayoría de los lenguajes de programación
+55:40
+no todos pero la mayoría empezamos a contar los números o sea los
+55:46
+índices de los valores de los vectores desde el cero no desde el uno o sea
+55:52
+nuestro primer elemento va a ser el cero no va a ser el uno entonces bien y para
+55:57
+ponerles un ejemplo para qué ponemos uno cien dos ahí voy Mira este bien les voy
+56:04
+a poner los tres ejemplos si ustedes ponen Range y nada más ponen diez por ejemplo Y ustedes ponen Range y por
+56:13
+ejemplo diez coma este
+56:19
+[Música] Y ustedes ponen Range vale completo no
+56:27
+como aquí uno coma cien coma dos bien Vamos a ver qué nos da cada uno para que
+56:34
+vean que hace cada argumento si tú nomás le pones un argumento
+56:43
+Okay me voy a poner los tres para que se noten y tú nada más le pones un
+56:48
+argumento si tú le pones dos argumentos a la función Range Y si tú le pones tres argumentos te da cosas diferentes
+57:00
+muy bien bien Vamos a correr no voy a ver
+57:08
+uno va a tener que poner uno a uno aquí en yupetec no lo corregón
+57:20
+por ejemplo en un país que tiene la misma lógica Okay miren
+57:27
+aquí por ejemplo lo que hace esta función no es les dije Si tú nada más
+57:33
+pones un solo argumento qué es lo que hacen este te va a dar una lista acuérdense que dijimos que los que
+57:40
+tienen corchetes son listas verdad desde el cero hasta no te va a dar el diez por
+57:47
+qué porque eso es lo que hace o sea eso es lo que hacen los lenguajes de programación te va a dar diez elementos Sí porque aquí le estás poniendo que te
+57:54
+dé diez Bueno hasta el así que hasta el número diez pero siempre te va a dar un número antes en este caso es el nueve o
+58:02
+sea te va a dar a n menos uno por qué Porque python empieza a contar desde el cero Entonces siempre se acaba uno antes
+58:09
+por ejemplo vamos a poner ahora el np punto
+58:15
+de este que dijimos diez coma veinte no
+58:22
+aquí qué nos dio Este es el límite
+58:27
+inferior y este es el límite superior pero igual como les dije python siempre
+58:34
+te va a dar un número antes no te va a dar el veinte te va a dar el veinte menos uno que en este caso es
+58:40
+19 y el último bien y yo pongo el NPR
+58:47
+el np punto
+58:55
+Okay muy bien este que hice imaginan que nos va a dar
+59:01
+este es miren este es el primer argumento es el límite Cuando ponen los tres es el límite inferior Este es el
+59:08
+límite superior y este es lo que se le conoce como el Step o El paso Qué quiere
+59:14
+decir que en vez de ir de uno en uno va a ir de dos en dos este por ejemplo
+59:20
+sirve para darnos todos los números pares del uno al 100 por ejemplo imagínense que un maestro alguien les
+59:26
+pide Ah es que necesito saber todos los números de pares del uno al 100 Ah o sea
+59:32
+bueno o sea te vas a tardar un tiempo Imagínate si fuera al Diez mil digo si
+59:38
+es hasta el Diez mil Pues sí te tardas un rato no de escribirlos o ponerlos que te digan Ah Pues pónmelos en un Excel o
+59:43
+lo que sea mira lo corres aquí yo aquí no te va a poner todos en pantalla
+59:49
+porque python o sea no te pone tantos pero sí lo corrió O sea tú esto si lo
+59:55
+exportabas a un Excel te daría Así que todos los valores este impares Por ejemplo si aquí te están pidiendo
+1:00:01
+impares no este si te pidieran pares pues nada más sería que
+1:00:07
+No si tú quieres que incluya el Diez mil pues la tienes que poner más
+1:00:15
+Órale entonces por ejemplo Aquí está muy poderoso porque les digo o sea aquí
+1:00:20
+python en menos de un segundo te dio todos los números pares del cero al Diez mil verdad este o los impares Bueno sí
+1:00:28
+acuérdense si empezamos con el uno porque aquí paito lo que está haciendo agua no empiezo en el uno y le voy
+1:00:34
+sumando de dos en dos uno más dos tres tres más dos cinco cinco más dos siete y
+1:00:39
+así así hasta que llegara acá no okay
+1:00:46
+pues o sea funciona mucho para todo esto verdad este y no sé si tengan alguna otra
+1:00:54
+pregunta ya creo que el ciclo While lo vamos a ver este después Bueno lo que
+1:01:00
+les decía el chico ya nada más para terminar cuenta que el ciclo Ford lo que va a hacer en python va a generar una
+1:01:07
+lista con todos estos números y lo va a pasar uno por uno lo va a
+1:01:12
+pasar y lo va a guardar en la variable de iteración esto se le llama variable de iteración la variable de iteración
+1:01:19
+son variables que solo existen o solo tienen un valor dentro del ciclo y Cómo
+1:01:25
+sabemos que está dentro del ciclo acuérdense la función tenía los dos puntos y el la alimentación Aquí está
+1:01:32
+igual tiene la hidentación dos puntos y la
+1:01:37
+hidentación y pues bueno Esto aquí sabemos que este código está dentro del Ford luego vamos a ver más casos de esto
+1:01:45
+pero nada más lo que quiero que se queden es que el ciclo Ford es un ciclo
+1:01:51
+que funciona cuando tú ya sabes cuántas veces vas a correrlo No ese es el sitio
+1:01:57
+Ford el sitio web es una combinación bien y es Es lógico es la traducción Forest repíteme esto por por no por
+1:02:08
+si lo quieren pensar así y el While significa mientras pues va a ser con una
+1:02:13
+condición lógica no el rápido nada más para verlo acá
+1:02:20
+va a ser mientras este valor sea verdadero mientras la línea que está ahí
+1:02:25
+sea verdadero lo va a correr el While este es una cómo se llama
+1:02:32
+pues es peligroso en el sentido de que si ustedes no ponen una forma de salirse puede correr infinitamente eso es ahora
+1:02:40
+sí que el Guay si esta condición siempre es cierta Pues siempre se va a correr Entonces ustedes tienen que poner una
+1:02:46
+condición en donde eso sea falso y se salga del ciclo eso o pueden usar lo que se le llama este lo que habíamos dicho
+1:02:52
+de las palabras reservadas no el break luego vamos a ver qué significa el break o el continuo Pero si tú pones el break
+1:02:59
+dentro de un chico se acaba el ciclo O sea no le importa es como salte del ciclo y ya Y luego
+1:03:05
+el Uruguay Sí también existe el Dubai Pero bueno eso lo vamos a ver después
+1:03:11
+Este primero hace que quédense con esto el Dual la única diferente en todos los lenguajes de programación es que haga
+1:03:18
+una sentencia y luego corra el While o sea por si no funcionó el Wild que te
+1:03:23
+haga la primera sentencia eso es lo que hacen otros lenguajes de programación Pero bueno eso lo vamos a ver después no
+1:03:29
+se preocupen estoy también entonces vamos a ver el foro y el While no Okay chavos Pues bueno Yo creo que ya es hora
+1:03:36
+nos vemos y nos vemos mañana Cuídense maestro Puedo ver algo sí yo igual el
+1:03:43
+más uno en el Diez mil para qué era ahorita que estaba haciendo el Range Ah bueno el más uno en el Diez mil era
+1:03:49
+porque acuérdense que python solo da hasta este bueno todos los lenguajes de programación nada más python
+1:03:56
+vamos a verlo rápido python no da Solo hasta un número antes
+1:04:04
+y se dan cuenta si nosotros ponemos diez no nos da hasta el nueve verdad porque
+1:04:10
+se acaba en N menos uno aquí como pusimos el veinte nos da en N menos uno
+1:04:15
+que aquí es 20 menos uno diecinueve aquí pongo el más uno para que me dé todos No
+1:04:22
+porque yo quiero que me dé del uno hasta el Diez mil bueno esa ese era más para
+1:04:27
+el caso cuando dijimos que eran los pares no porque aquí me va a dar los pares del cero al Diez mil y yo le quito
+1:04:32
+este no me va a dar el Diez mil se va a detener hasta el nueve mil novecientos noventa y ocho no
+1:04:39
+pero si la pregunta eran los pares del cero al Diez mil Pues el Diez mil también está incluido no
+1:04:45
+porque acuérdense que en el Ford el este la o sea los vectores en python no
+1:04:51
+incluye el último número siempre llega hasta n menos uno y llega hasta n menos
+1:04:56
+uno porque python empezó a contar desde el cero no empieza a contar desde el uno y cómo le podemos hacer para que se vean
+1:05:03
+todos porque ya ve que nada más salen poquitos bueno zapato no te da como así lo
+1:05:10
+tendrías que exportar un csv digo si ya lo quieres tener así Eso es más por por cuestión de la programación de que
+1:05:16
+Google no quiere Bueno o sea no te va a estar poniendo todo porque les cuesta No pero bueno okay Pues bueno chavos este
+1:05:25
+no se tengan otra pregunta yo tengo la última cosa que vimos iguales no le entendí
+1:05:30
+eso lo vamos a ver mañana ya lo de vamos a ver mañana pero bueno rápido nada más para que sepas el While es una que te
+1:05:38
+dice que es una condición este o sea miren o sea para mañana pero mañana aquí
+1:05:43
+siempre y cuando lo que en la línea es como el If este es
+1:05:49
+como si fuera un chico con un ir aquí te está preguntando si este valor O sea si
+1:05:54
+esa sentencia si esa línea es verdadera te va a correr el código por ejemplo lo
+1:06:01
+voy a poner rápido mira aquí va a poner Rafa por ejemplo aquí tiene que ser Juan verdad O sea si el nombre es aquí que dice
+1:06:08
+mientras el nombre sea diferente a Juan me va a preguntar cómo te llamas Mira le
+1:06:14
+pongo Rafa me va a volver a preguntar si le pongo Oscar me va a volver a preguntar hasta que yo le ponga a Juan
+1:06:20
+se deja de correr que pusiera el código de que ponemos un nombre y decimos No es cierto Cuál es tu
+1:06:27
+nombre Oscar Bueno pues aquí cambiar dentro del White lo
+1:06:35
+puedes hacer más complejo si quieren mañana lo vemos cómo hacer eso pero sí se puede digo eso nada más es agregarle
+1:06:40
+cosas más acá
+1:06:45
+entonces este Bueno este mañana sí hay clase entero A menos que pase algo que
+1:06:53
+no este pero bueno entonces yo creo que el lunes y el martes serían los días que no había que
+1:07:01
+hacer este Bueno si ya lo quieren saber este era la pregunta que me habían hecho entonces pues bueno chavos este nos
+1:07:07
+vemos y nos vemos mañana Cuídense bueno Gracias bye gracias gracias

@@ -1,0 +1,854 @@
+0:02
+Okay muy bien Pues bueno chavos no sé si sí pudieron avanzarle Alguien que haya
+0:09
+tratado de intentar hacer este
+0:17
+ejercicio que nos quiera
+0:22
+compartir si quieres yo puedo pu por
+0:28
+favor
+0:39
+compartir muy bien Sí sería este de acá
+0:49
+abajo Nada más ahí Le faltaría lo del 100 No porque no puede tener
+0:54
+calificaciones mayores a 100 Ah cierto
+1:02
+sí eso sí me faltó poner el si quieres ponlo tenlo lo puedes
+1:09
+detener dándole donde está el cuadrito como girando te va a parecer como un error Ajá pero está bien ahí
+1:17
+sería así no no te lo va a jalar así con tanto inténtale con
+1:25
+100 Okay y bueno te falta una sola condición
+1:30
+El els Bueno sí el els Está bien déjame ver 069 okay No creo que sí está bien Sí Rafa
+1:40
+este si lo hiciste Muchas gracias yaan a ver Rafa lo hiciste también
+1:47
+compártelo por favor Voy voy voy déjame agarrar el
+1:53
+sitio web no sé dónde me está el sitio
+1:58
+web este es a ver Dj ver si lo puedo abrir muy
+2:04
+bien Este es nada más que hay algo aquí que no
+2:10
+puedo hacer que es este de arriba el de 2 34 Ahorita nada me acuerdo có hacerlo
+2:17
+ya este es comenzando la programación
+2:22
+través le ponemos un número al azar si alguien quiere decir un número
+2:28
+al azar
+2:36
+40 Ponle que 220
+2:44
+e Sí nada más el mensaje ser el número de o personas Pero está bien está bien
+2:50
+este la calificaci es a ver ponle
+2:56
+99 algo que quería hacer era que pudiera volverlo hacer que volviera siguir pero
+3:02
+no puedo porque creo que ocupo saber funciones no puedes usar un Wi o sea eso
+3:07
+de que se repita hasta que pase algo acuérdate como un p no pero bueno Ah No mira ahí lo que s te faltó Rafa es que
+3:14
+en vez de If cada uno debe ser un elif porque elif
+3:22
+elif Qué bueno saber Pero para qué ah Porque mira si el Mira intenta
+3:32
+este correrlo bueno esa última par otra vez sí Okay si no pones el L
+3:40
+lif bu eso igual ponle 30
+3:46
+200 es lo que tú quieras okay mira ahí lo que pasa es que si el el If y los
+3:54
+elif es para que mira están como conectados no si tú pones puros If si podría ser
+4:02
+que que si la situación se cumple aquí no porque no se va a cumplir Pero puede
+4:08
+ser que si hubiera una Otra condición que estuviera dentro se pasara aquí los
+4:14
+If el If y es como lo que te dije de los restaurantes o sea una vez que tú entras
+4:19
+a a una cosa que es verdadera se salta todo No si tú no le pones el losif no se
+4:26
+lo saltaría Y si Podría preguntar y si podría correr cada uno de los códigos que esa no es la intención de los If el
+4:32
+If Else no pero bueno a ver intenta a ver
+4:39
+intenta a ver ahí si te va te va a correr de todos modos ponle
+4:47
+85 Okay muy bien si quisieras volverlo a poner
+4:54
+tendría que ser con un si Wi s a ver no sé si me lo quiere ayudar a hacerlo ahorita porque lo intenté ahorita con un
+5:01
+Wi y luego después puse esto creo
+5:07
+no pero todo el código lo tendrías que poner dentro del Wi Rafa si no no te lo va o sea Ah okay O sea Pon Wi Mira pon
+5:15
+ahí abajo ponlo abajo ponlo abajo Pon Wi copia todo el código de que habías
+5:21
+puesto en de calificación desde calificación no
+5:27
+copiar Este ahí ahorita ahorita ponemos la condición p Pon mientras dos puntos
+5:32
+Pon mientras dos puntos ponle
+5:38
+enter no no no en como lo tenía con el espacio enter copia y pega o sea pega contr
+5:45
+control V elimin lo de arriba pero tienes no no no no déjalo déjalo este te
+5:52
+vas a tener que identar los o sea vas a tener que ponerle la la te t cuál la te tap que es
+6:04
+como unas flechitas unas flechitas que deben de estar cerca del uno en tu teado unas flechas con
+6:12
+una No no es línea no no la línea no una
+6:17
+fecha fecha con no no no oh oh p ponle espacio ponle
+6:28
+espacio nos p espacio uno otro más otro más otro espacio ahí ya no Ya te pasaste
+6:36
+Ya entendí se refiere Esto sí lo de identar Ajá Okay así se le llama pero
+6:41
+vas a tener que hacerlo para cada línea porque si no ahí no una vez no están dentro del Wi no Ah hago
+6:55
+Esto está y también los prins a vas a tener que
+7:01
+darle ot Ah est dentro de
+7:10
+W OK Y hasta qué cosa quieres que pase o sea
+7:15
+Cuántas veces quieres que se repita o qué quieres que porque si no se
+7:22
+infinito O sea quieres que se rep infinitamente oas veces quieres que se haga quiero que deje de funcionar hasta
+7:28
+que una sea invalida Ok entonces ponle dentro del w o sea en el
+7:35
+W pongo dentro Bueno al final A ver déjame ver Mira pon después del
+7:42
+calificación Perdón después del calificación no hasta el final no no
+7:49
+hasta el final de esta línea que tienes tú aquí a ponle
+7:55
+enter enter muy bien Ahí puedes poner
+8:02
+If aj mira mejor en vez del print inválida mejor en vez del print inválida
+8:08
+donde tienes print inválida inválida no no donde lo tenías
+8:13
+ahí en esa línea en donde inválida Rafa más abajo más abajo aquí aj quítalo Cómo
+8:22
+que lo quité borralo esto lo borro no no todo No nada más el inválida donde dice inválida
+8:31
+n más ahí ponle otro espacio Dale despacio para que se idente bien no no
+8:36
+espacio literalmente idalo Dale dale enter ahí
+8:44
+p b r o sea como romper en inglés b r
+8:50
+e Ok ya con eso y bueno el p en el p
+9:00
+no no pero sea de verdadero del valor atrás atrás de los dos
+9:09
+puntos dos puntos quita los dos
+9:16
+puntos pero el tiene que estp y segunda el es mayúscula y
+9:23
+minúsculas la r minúsculas dos puntos los dos puntos
+9:30
+ok Ya córrelo en teoría ya con eso te deía funcionar o sea es W true
+9:36
+calificación in input y luego calificación cer y lo break a o sea t
+9:43
+dijiste no que si te pone una calificación inválida se saque el código no se acabe puedo eliminarlo de arriba
+9:50
+Pues si quieres dig es para ti no pasa nada
+9:57
+no puedo probar para ver si funcionó primero ponemos
+10:04
+100 1000 Okay la calificación es 30
+10:10
+calificación es 30 la calificación es 30 la calificación es
+10:15
+men1 ya ahí está no más voy a eliminar Lía pero ya Así es Ok Muy bien
+10:25
+Rafa gracias este no sé alguien más que quiera compartir
+10:31
+ese código o si pudieron intentarlo este los otros
+10:37
+los voy a empezar a
+10:44
+compartir Okay muy bien Este no sé si alguien más quiera Mostrar este código o
+10:51
+el del for no sé cuá prefieran Ay no no se
+10:58
+guardó Bueno okay creo que lo puse en este el de la
+11:05
+calculadora Ah okay No pero de la calculadora dónde lo
+11:17
+puse la calculadora bueno que la volvemos a
+11:27
+hacer
+11:37
+Bueno este raro que
+11:43
+no puse más arriba
+11:50
+noigo Bueno este otro ejercicio que podemos hacer no es de
+11:57
+funciones perdón si no yo pensé que se había guardado Qué raro Okay el
+12:06
+funciones Okay si se acuerdan por ejemplo las funciones nosotros podemos
+12:12
+poner funciones dentro de funciones un ejemplo a ver por
+12:17
+ejemplo bien si yo les diera de que por ejemplo
+12:23
+no sumar número no una función así no vamos a hacer una
+12:30
+calculadora este Def o sea sumar números no este return por
+12:38
+ejemplo dos números Bueno voy a poner sumar dos números Okay muy bien y si lo ponemos
+12:46
+así no este por ejemplo n1 + n2 bueno no
+12:51
+puse los argumentos los pongo no Okay chavos
+13:00
+mir por ejemplo podemos hacer así diferentes funciones no restar números
+13:06
+no dos números Okay por ejemplo así no igual n1
+13:17
+n2 dos puntos no sería el n1 men n2 no Ok y así no una
+13:27
+muy simple así si quieren que escriban este código se los
+13:33
+mando por aquí como ustedes quieran El punto es que ustedes me van a tener que dar ahorita intentar
+13:39
+sacar una calculadora no que use estas
+13:44
+funciones o sea otra función no que le pregunte al
+13:50
+usuario de que qué quieres hacer suma o resta las instrucciones algo así de que
+13:59
+que use las dos funciones
+14:08
+previas y le pregunte al usuario cuál
+14:14
+quio usar y efectivamente
+14:20
+la haga y le imprime en
+14:26
+pantalla okay
+14:36
+Ah ok solamente nos dio como la base y nosotros tenemos que ver que nos
+14:41
+pregunte creo que era para toda la
+14:48
+reun Cómo hacer otra mini plataforma para poner programación sin tener que hacerlo desde el
+14:54
+principio puedes hacer en otra Zelda ponle mira estás ahí en el en el Drive
+15:00
+no no más ponle el que dice más código y ya Ah
+15:08
+gracias okay chavos vamos inténtenlo tienen 3 minutos para hacer
+15:25
+esto el sumar do números es único o podemos quitar dos números y cosas así
+15:32
+como tú quieras este nada más tiene o sea Mira tienes que o sea como dice una
+15:40
+función que use las dos funciones previas y le pregunta al usuario cuál quiere usar y efectivamente
+15:46
+la haga y le
+15:51
+imprima Eso es bueno porque a veces en a veces les van a pasar funciones o cosas
+15:57
+así y ya hay código previo que alguien más ya hizo y les van a decir que con ese código previo ustedes le continúen
+16:04
+no porque a lo mejor les Faltan algunas cosas lo que sea y ustedes tienen que continuar Así que es muy buena práctica
+16:13
+esto la verdad Porque si
+16:27
+pasa
+17:07
+listo okay quieres compartir pantalla por
+17:19
+favor bien me dicen Cuando vean mi pantalla ya Bueno yo ya la veo
+17:27
+okay Bueno aquí definí mis dos funciones la
+17:34
+de sumar y la de restar Okay creo una variable Aquí voy a guardar un un String
+17:41
+Le pido al usuario eh qué desea hacer sumar o restar segundo eh igual creo dos
+17:49
+variables estas van a ser enteras igual pues faltarían más validaciones para que aceptara también flotantes verdad y le
+17:57
+pregunto al usuario elige el primer número eh lo guarda en Número Uno El dije el
+18:04
+segundo número y ya respecto a eso hago un If donde pregunto que si calculadora
+18:11
+o sea lo que el usuario pone es sumar pues va a invocar la la función de sumar
+18:18
+Sí y va a imprimir en consola la suma de esos dos números otorgados anteriormente
+18:23
+posteriormente con un elif pregunto si la calculadora es Rest y pues ya impr
+18:29
+igual y pues también faltarían otras otras validaciones de que si el usuario
+18:35
+contestara otras cosas lo único que le faltó del ejercicio creo Es que o sea copia y pega
+18:42
+todo el calculadora hasta hasta abajo desde calculadora desde
+18:49
+aquí cópialo cópialo okay Y pon es que
+18:54
+bueno el ejercicio te pedía que lo hicieras dentro de una función nada más sería por ejemplo que pongas
+19:00
+Def al final si quieres después de eso veo aj
+19:06
+ahí pon ponle calculadora o como tú quieras llamarlo este puede ser sin parámetros O
+19:13
+sea no más así este después de los dos puntos ya si
+19:19
+pega Bueno vas a tener que identar lo que no est entado y esto igual entar porque dentado
+19:29
+y ya técnicamente ya O sea ya con eso Bueno obviamente vas a tener que llamar
+19:34
+la función No porque si no no te va a correr Entonces al final vas a llamarla y ya así está Más que perfecto
+19:43
+digo nada más porque í en el punto del ejercicio es que hay funciones que usan funciones previas no entonces el punto
+19:51
+del ejercicio era más ver eso quieres córrelo para que lo
+19:57
+veas Okay ya ahí se invocó la la la
+20:02
+función verdad sí eh qué hacer sumar el primer número 10 elige el
+20:11
+segundo 10 me debe salir 20 20 vuelvo a correr para resta
+20:20
+resta 10 y el segundo cinco me debe salir cinco Sí muy bien perfecto Sí
+20:27
+ahora noada más era porque ahí en el escuchado no había escuchado esa
+20:33
+indicación disculpe no no no te nada más es porque el objetivo es que como les digo a veces te van a dar código de
+20:40
+otras y utilizar otras funciones que alguien ya más hizo no O que tú ya hiciste en el pasado y no más copias y
+20:47
+pegas tu función no luego Miren la verdad no han visto los memes pero es cierto muchos programadores agarramos y
+20:55
+nos vamos a cover o a Je digo Siempre y cuando no sea ilegal este
+21:02
+puedes agarrar un poco de código de alguien más o lo que sea y ponerlo no siempre cuando no est protegido Y así
+21:08
+pues agarrar y pegarlo entonces hay funciones ya hay muchas cosas entonces
+21:14
+hay una cosa en programación que se llama dve que es el punto de las funciones significa don't repeat
+21:20
+yourself no repitas lo que ya hiciste entonces por ejemplo esas funciones si tú hiciste unas funciones por ejemplo en
+21:26
+una cosa más avanzada en una tú ya hiciste una parte pues no vas a volver a crear ese código de Cero tú
+21:32
+nada más invocas esas funciones y a lo mejor les agregas más cosas que era el
+21:37
+objetivo de este de la calculadora era una función que usara dos funciones así
+21:43
+alguien más tuvo lo pudo hacer y que lo quiera compartir por
+21:49
+favor intenté hacerlo de una manera rara pero no me
+21:55
+salió no s si quieres compartir Rafa o alguien más como ustedes digan Pero lo
+22:01
+importante es que lo hagan y lo intenten y lo muestren chavos muy bien Rafa
+22:07
+intenté primero y ya después estaba viendo la del otro y ya puse lo de Death calculadora primero dije calculad entado
+22:14
+Rafa Acuérdate que también en las funciones tienes que hacerlo del espacio no Acuérdate que para que
+22:22
+esté ponte Ahí dale t Bueno si
+22:28
+vas a tener que dar un espacio más a todo porque o sea son dos
+22:37
+espacios cre que falta un espacio en el porque te lo pone en
+22:44
+rojo [Música]
+22:49
+no no tienes la que lo ha
+22:54
+automático Pues aquí No pero en el
+23:00
+a así pues a ver inténtalo Si no está
+23:06
+saliendo en rojo Ah ya ya vi que le falta le faltan los dos puntos Rafa acuérdate que después del Def o sea
+23:13
+después del calculadora Y eso sí Hay que poner dos puntos Sí pero
+23:20
+bueno el in eso no lo puedes poner ahí Rafa vete donde dice calculadora en
+23:26
+el este no no Ah no quítalo O sea ponle otra vez
+23:34
+borrar borrar otra vez otra vez otra vez otra vez Pon los paréntesis Pon
+23:41
+paréntesis AB cierra Pon el otro el cierro el paréntesis ponle dos puntos
+23:47
+dos puntos ponle enter okay Y ahí ahora sí ya puedes
+23:53
+guarda una función no que te diga calculadora no
+24:00
+ponle igual Okay no no no pero in No Rafa por o sea
+24:07
+tiene que ser un a así est el in convierte en mira como en
+24:13
+Excel no sé si has usado Excel Rafa por ejemplo que Excel te puede dar este cuando tú pones 5.5 Pero entre comillas
+24:21
+por ejemplo lo eso es un Excel O python te lo lee como texto no el in es cuando
+24:29
+quieres que un número sea entero No pero lo que te va a poner suma o resta no es
+24:35
+un entero Rafa es una palabra Entonces tú no lo no lo deberías de hacer un entero te va a dar un error okay Bueno y
+24:42
+aquí lo que te faltó también es este después del acuérdate que después de los
+24:47
+If cuando pones toda la Línea la condición tienes que poner igual dos puntos entonces después de calculadora
+24:55
+Igual igual a sumar después de sumar ponle dos puntos muy bien este a ver déjame ver
+25:02
+qué te falta en sumar te faltó ponerle las este los los
+25:08
+argumentos n1 coma n2 ponle y también te faltó que el print
+25:15
+debe de estar pegado al sumar allí arriba también print debe estar pegado así no no no no no no ra este control Z
+25:23
+ponle control Z control Z
+25:28
+otra vez Z muy bien ves que después de tu palabra print de ese If está un
+25:35
+espacio que no están pegaditos s después después no no no Rafa Pon
+25:42
+control Z después del print después de la palabra print después O sea después de la
+25:49
+palabra print ahí Exacto ahí y nada más te falta pedir el n1 y el
+25:56
+n2 porque no lo estás preguntando así como pusiste la calculadora
+26:03
+Ajá Pon enter ponle enter con
+26:08
+n1 igual ahí sí ya puedes poner F por ejemplo ponle FR en vez de ponle FL y
+26:16
+ahora sí Pon lo de paréntesis input Y pregunta un número por ejemplo Pon el puedes poner un mensaje como Pon el
+26:23
+primer número o como tú quieras que el usuario entienda
+26:31
+Okay así y te falta el n2 haz lo mismo con para el
+26:40
+n2 Okay muy bien y déjame ver si ya es todo bien okay Y en el restar espérate
+26:46
+en el restar está bien todo eso está bien en la parte de
+26:51
+elist en la parte del list no no no bordes todo n más en elist no
+26:58
+Ajá borra borra esa parte Ajá bórralo Ajá muy bien y qué segía
+27:08
+Rafa y qué falta qué le falta qué le falta ve el lif le falta muy bien Ahora
+27:14
+sí ya debería de funcionarte nada más que primero llámala Acuérdate que ahí no más la estás definiendo tienes que llamar la
+27:21
+función Pon calculadora ya está a ver
+27:29
+antes de que en lugar de sumar es restar en la función del
+27:37
+elif Cómo Ahí está porque está llamando a la a la misma función de sumar Ah ya
+27:44
+ya vi Sí sí ya la llamó tienes razón totalmente Gracias este en sumar en
+27:49
+donde dice en la parte de El Rafa en la parte de elif Ajá en la parte de elif
+27:58
+más abajo uno más abajo ponle uno más abajo Okay en donde dice no no no no no
+28:04
+no no ahí déjalo vete a donde dice sumar vete a donde dice sumar en esa misma línea Rafa en esa misma línea no en en
+28:11
+la línea que estabas A ver déjame ver si puedo hacerlo a
+28:18
+ver cómo dibujado aquí
+28:24
+para Déjenme ver aquí dice me falta algo pero qué
+28:32
+esa
+28:39
+para sí Ah claro sí sí Exacto en vez de sumar
+28:45
+era restar no a dónde te
+28:56
+suay Okay ahora me vuelve a correr intenta
+29:02
+ahora con
+29:08
+restar un número con otro ya muy bien
+29:15
+gracias Exactamente esa parte es que tú tenías aer la misma función y tenías que
+29:21
+cambiarle no una una hace la función sumar y la otra haces la función
+29:26
+restar gra nada muy bien alguien más que quiera
+29:31
+compartir y ese ejercicio antes de ir eh Sí yo prof es que no le entendí muy bien
+29:39
+Cómo se llama la función le comparto pantalla Okay Por
+29:46
+favor eh yo o también en ahorita después es de
+29:53
+acuerdo okay a ver que
+29:59
+es que todo lo pusiste AC dentado no el n1 Y esa parte de n1 no tiene que estar
+30:06
+entado porque no está fuera de la función no Okay es independiente sí no pero no es
+30:14
+variable de la función ya que está aquí no no no porque tú tienes que hacer otra
+30:19
+segunda [Música]
+30:26
+función
+30:40
+y aquí mi duda es o sea cuando ya hice esto no pero es que también todo eso no
+30:46
+debe de estar entado todo lo demás esto tampoco todo lo demás no ajá
+30:53
+No lo de en la función restar faltó el return
+31:01
+no Okay en vez de aquí print es un return
+31:06
+no en donde dice de restar y también en de sumar hay varias
+31:12
+es que no sé cómo apuntar
+31:26
+sabía
+31:33
+Mira prof la pantalla de zoom donde están las
+31:38
+fotografías el micrófono la cámara y las configuraciones arriba del microfonito hay un lápiz verde ah ah ya ya ya lo vi
+31:46
+Muchas gracias No de nada ya lo cambi ser diferente Ok Bien mira todo esto
+31:53
+todo este código cópialo bueno córtalo y
+32:02
+pégalo y ponlo hasta abajo ponlo hasta acá abajo Pon
+32:07
+HM Okay muy bien y el restar aquí mira hay varios errores por ejemplo esto no
+32:14
+debe de existir no debe de existir el espacio okay O sea quítalo igual en
+32:22
+restar no debe de existir el espacio ya Okay aquí después de esto bueno en esta parte debe
+32:29
+de ser la parte del return Pero obviamente en vez de n1 + n2 sería
+32:35
+return n1 men n2 no por ejemplo Ah lo que pasa es que yo lo puse como
+32:43
+que la respuesta previa la tomaba para hacer una resta Bueno lo puedes hacer pero
+32:51
+pero no sera una calculadora eso o sí o no sé bueno
+32:57
+digo lo puedes hacer pero no era tanto como lo del ejercicio pero bueno igual si lo quieres
+33:04
+hacer así este está bien pero de todos modos te falta el return no
+33:10
+Ok después Este
+33:17
+no y en teoría o entonces en teoría aquí
+33:23
+Debería ser así como lo manejaba n1 men n2 nada más que acuérdate que si haces
+33:28
+eso tienes que entonces cambiar esto okay son los argumentos ya
+33:35
+okay Este no lo dejo como lo tenía digo para que pero la respuesta de suma dónde
+33:43
+lo estás guardando es que ese lo estaba guardando
+33:50
+aquí mira pero realmente no lo estás guardando al hacer eso no estás guardando las cosas quieres guardarlo
+33:57
+Mira si puedes poner respuesta suma Pero esto cámbialo por esto por sumar n1 coma
+34:05
+n2 o sea pega esa parte ya porque si si no no lo estás guardando
+34:16
+Realmente si lo quieres así si se puede pero no más aj copiar o quita esto y pégalo ahí muy
+34:25
+bien ahí ya lo estarías and si lo quieres hacer Entonces esto si lo quieres poner así lo tienes que
+34:31
+acuérdate que python le de arriba hacia abajo entonces esta parte sí cópiala Bueno córtala y pégala aquí arriba del
+34:42
+Rest Okay Mira si quieres ponerlo de la Bueno está bien eso está bien este aquí
+34:49
+en el return no estás haciendo ninguna operación Qué estás haciendo en esta
+34:58
+este sería mi respuesta de la suma menos un nuevo número que me dé el usuario
+35:05
+Pero ponlo completo respuesta suma suma menos mi n3 que lo consideré aquí como
+35:12
+un Pues otro número Ah entonces bueno Esto entonces debe de ir dentro de la función no Entonces esto
+35:22
+córtalo córtalo después de esto O sea Pon ponte aquí Pon ahí el cursor Ajá Pon
+35:29
+enter y ahí pégalo muy bien Y acuérdate este del las funciones no debe de haber
+35:36
+espacios entonces Borra ese espacio muy bien Okay a ver qué más este también lo
+35:43
+debería pegar verdad esto lo debería ahí te faló te faltó todo lo de la la parte de la calculadora
+35:50
+no te faltó lo de poner aquí tienes que poner una función que diga Def
+35:56
+calculadora y preguntar bueno bueno así por ejemplo de
+36:03
+calculadora Okay paréntesis Pon paréntesis pero acuérdate pegado pegado
+36:10
+No le pongas el espacio nunca pongas un espacio Ajá muy bien y después de este
+36:15
+paréntesis qué sigue esto no no no después del paréntesis como Mira qué es
+36:21
+lo que ponemos en todas las funciones Ah sí los dos puntos los dos puntos
+36:27
+verdad muy bien eh ponle enter
+36:36
+No enter Okay y ahí debes de preguntar no
+36:41
+porque la calculadora debe de preguntarte qué función quies si quieres
+36:46
+sumar qui restar Aunque realmente es que bueno si lo haces así sí no bueno
+36:54
+tendrías que poner a fuerza la de sumar no no podría haber una pregunta porque si estás usando esta respuesta previa
+37:00
+para alimentar la otra este solamente puede hacer la primera
+37:05
+operación Entonces entonces ponle sumar Mira si lo
+37:10
+quieres hacer así este ponle sumar n1 n2 buen sea la función sí bien este
+37:21
+antes del sumar ahí ponle enter ponle enter no
+37:27
+y ponle aquí arriba una un in Bueno este estos dos ya los tienes aquí no los
+37:32
+vuelvas a poner corta y pega eso y Ponlo
+37:41
+aquí okay muy bien okay espera Déjame ver qu qué más te falta para que
+37:48
+funcione Ahí ya te funcionar lo de sumar si quieres ponerlo de restar entonces Pon la O sea Pon restar aquí no
+37:57
+abajo sería igual de restar verdad no no no no no no no más llamar ya la tienes
+38:05
+más Llamar la función no sería restar respuesta
+38:11
+suma coma n3 y Pero antes este respuesta suma esto lo tienes que copiar y
+38:18
+pegar dentro de aquí o cortar y pegar mejor si se puede cortar y
+38:25
+pegar per dentado Acuérdate que tiene que
+38:30
+estar dentro de la función muy bien y qué más
+38:38
+sigue [Música] Bueno mira pero aquí no te va a imprimir
+38:46
+si tú quieres el respuesta suma este no te lo va a mostrar en pantalla A menos
+38:51
+que a ver aquí a menos que pongas aquí en print quita esto en vez de respuesta
+38:58
+resta Pon Ajá Pon
+39:05
+calculadora la función de calculadora paréntesis Bueno pero cierra acuérdate
+39:12
+en calculadora tienes que poner cerrar paréntesis no no no y me quita los dos
+39:19
+puntos acuérdate aquí en calculadora Pues cómo llamamos una función tienes que poner calculadora y los paréntesis
+39:26
+verdad Los dos Sí y bueno este es de respuesta r esto creo que está medio
+39:31
+innecesario si quieres esto
+39:38
+bórralo Okay ahora sí intenta correr el código a ver si
+39:46
+no [Música]
+39:52
+es Ah sí quita los dos puntos acuérdate Aquí nada más estás no la estás definiendo Entonces quita los dos puntos
+39:59
+Ah justo en eso tenía igual duda de cómo era o sea Llamar a la función si
+40:05
+solamente se ponía nada más se pone el nombre los paréntesis y los argumentos
+40:11
+no más se pone esta parte okay Okay ya solamente eso sin el
+40:18
+D bien Inténtalo
+40:25
+correr a
+40:35
+ver Ah mira esa cosa espera esta a ver
+40:43
+faltó Ah ya es que debes de quitar este n3 porque es n3 lo estás poniendo dentro
+40:51
+entonces quita el n3 no este aquí
+40:57
+aquí este quítalo Okay Ajá
+41:05
+Okay Ajá a ver intenta correrlo profe
+41:10
+también en el donde dice Def donde define la calculadora y está escribe el
+41:17
+segundo número a sumar Ah sí falta el Ajá hay un espacio tienes toda la razón esto verdad okay Sí eso
+41:24
+también okay gracias A ver inténtalo
+41:32
+correr a ver vete abajo Qué dice es que la Es que la verd es está muy rara a Ah
+41:40
+es si quita este pusiste Me supongo a ver en ponle hacia arriba y quítale este
+41:46
+n Ajá Perdón
+41:53
+aquí muy bien Ahora sí vuelve a
+42:02
+correrlo Okay espera Ah bueno es que no estás regresando nada ponle aquí en aquí
+42:08
+Pon return Pon return en donde puse Aquí no Ajá aquí
+42:15
+aquí aquí
+42:20
+aquí sí lo pudiste poner Ajá sí muy bien
+42:26
+ponle espacio enter espacio espacio no no ent espacio ya ahora sí ya te debía
+42:32
+de
+42:37
+salir ya okay era una manera medio rar y no tanto
+42:43
+pero está bien así es como el código mira lo importante es que entendamos Que no debe de haber espacios entre la
+42:50
+nombre de la función y los paréntesis no y en todos igual en input en in no hay
+42:56
+espacios entre la nombre de la función y paréntesis también para llamar una función nada más es el nombre en los
+43:05
+paréntesis y en los argumentos si tiene un argumento uno si tiene dos dos etcétera Eso es para llamar una función
+43:13
+entonces digo es que si no python si es muy especial y te lo rebota No si tienen que tener cuidado con
+43:19
+eso y hay que acordarnos esto lo tuvimos que poner adentro porque acuérdense que
+43:25
+las estas estos valores estas variables solo
+43:31
+existen localmente no existen fuera de la función entonces Si tú tratas por ejemplo Pon aquí n3 a ver te sale para
+43:38
+que tú lo
+43:45
+veas antes de correr código corta
+43:52
+esto y córtalo Pon en código Pon aquí en más
+43:59
+código Okay Pon pégalo aquí Okay
+44:04
+correlo a ver qué te da a ver Ah es que
+44:09
+a ver ponle arriba ponle arriba ponle arriba es que bueno ya lo habías guardado una vez afuera por eso se
+44:16
+guardó pero a ver inténtalo correr de
+44:24
+nuevo ah intenta correr este a ver
+44:31
+m Qué raro porque es que no debería porque en teoría Está localmente
+44:39
+bueno quién sabe python a lo mejor en este s to ya lo imprime pero tienen que tener cuidado porque en teoría las Cómo
+44:46
+se llama estas variables son locales
+44:52
+okaya nada más existen dentro locales es que nada má locales es que nada más existen dentro o sea van a funcionar con
+44:58
+esta No si esta no estuviera Cómo llama indentada Ah si esta no estuviera
+45:07
+aquí qué Qué pasa o sea si no fuera local
+45:13
+este si al contrario Es que aquí no debería de salir pero mira probablemente
+45:19
+este lo guarda porque el Google colap es un poquito diferente al python normal a
+45:24
+veces porque este las variables para hacerlo más rápido que no debería pero bueno Ok Bueno creo que en Google
+45:31
+funciona pero otros no siempre funciona que tengan cuidado con eso de las
+45:38
+variables locales y globales Pero bueno el punto es que funcionó el código muy bien Bueno chavos creo que ya ya es hora
+45:48
+este pues bueno Espero que hayan podido practicar los que no enseñaron pues espero que hayan podido practicar acá y
+45:56
+de verdad intenten hacer el código chavos porque no nada más es verlo es que lo intenten hacer Okay quiero
+46:04
+participar yo okay rápido s Perdón es que ahorita tengo la otra cl de
+46:09
+matemáticas pero va si quieres 5 minutos
+46:15
+más okay Bueno es mi código Bueno en
+46:22
+realidad olvid poner hacer las variables de númeroo
+46:28
+húmero y esto también no estaba o estaba cuando no se acabó el tiempo Este pero
+46:35
+si pusiste las funciones estas que mandé por el chat eh No es que es que tengo como tengo
+46:44
+monitor como tengo el monitor El Monitor está sub esto voy haciendo el código en
+46:50
+la pantalla número uno no me di cuenta Ah pero bueno sí lo
+46:55
+tienes Okay sí creo que sí lo tienes no este aquí están las funciones Okay Ah sí sí
+47:02
+sí tiene las funciones lo que te estaba preguntando muy bien okay Y sí Te corrió y si te salió o no sí Okay a
+47:12
+ver suma Ajá número muy bien 5 6 Ah pero Ah es
+47:20
+que mira ahí te faltó ya ya vi en los números tienes que ponerlos el in Acuérdate de
+47:26
+noas tanto por favor aquí noas por favor este aj se olvidó poner
+47:33
+el p el
+47:38
+L bien Igual en el número dos el in o mira mejor en vez de p Sería más
+47:45
+correcto porque la verad en las calculadoras t puedes poner este Pon FL
+47:52
+o acá muy bien y ya ahora sí córrelo y ya
+47:57
+ahora sí ya te debería de
+48:05
+salir No te
+48:11
+preocupes ya es que sí si no lo que pasaba Mira si tú no le pones el FL lo
+48:17
+toma como texto y en python cuando tú pones este una cosa así en vez de sumar
+48:23
+o sea cuando pones el más las ena no sé si han usado Excel o sea n más las junta pues concatenar quiere decir que los
+48:29
+junta entonces por eso cuando tú ponías por ejemplo cinco y seis en vez de sumarlo python lo tomaba como texto y
+48:36
+nás los juntaba no no lo sumaba Sí es que es que como como no dur mucho mucho
+48:43
+por eso se me olvidó por el blog creo que por eso sí pero muy bien estuvo muy bien el código No más fue ese detallito
+48:50
+pero muy bien Está bien chavos o sea les digo el punto de la verdad programación es mucho de prueba y error este nadie le
+48:57
+sale el código bien Es de estar ahí calá no prueba y error prueba y error prueba
+49:02
+y error Así que a veces es desesperante digo yo sé o sea porque estamos
+49:08
+acostumbrados que muchos ejemplos o ejercicios en la escuela no más es poner el lapicito y adás muchas veces ni nos
+49:13
+damos cuentas Hasta que el maestro nos califica y vemos que está mal Lo único de programación que a veces desespera es
+49:19
+que te lo dice inmediatamente no A diferencia de cuando tú haces un examen y bueno Tú crees que estás Te vas feliz
+49:25
+a tu casa porque crees que lo hiciste bien y ya después dos días después el profesor te dice no pues reprobaste este aquí digo La diferencia es que
+49:31
+programación te lo dice inmediatamente que estás mal no pero está bien digo al contrario es mejor porque pues hay más
+49:36
+oportunidad de que lo puedas resolver rápido no Okay chavos no sé si una última o ya porque
+49:44
+bueno es está la otra que hace y bueno chavos Espero que se hayan podido practicar y si no le si no lo
+49:51
+compartieron ahorita de verdad inténtenlo hacer porque sí tienen que aprender a hacer todo estos chavos
+49:56
+porque pues programación es como una escalerita no tienes que pasar un escalón para el otro para el otro para
+50:01
+el otro entonces o sea nás viendo no no funciona Sí de verdad inténtelo
+50:07
+hacer Okay chavos pues Bueno nos vemos y Cuídense Nos vemos mañana
+50:15
+byas ma nos vemos

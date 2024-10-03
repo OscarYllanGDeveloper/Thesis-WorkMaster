@@ -1,0 +1,1050 @@
+0:04
+Okay chavos Pues bueno vamos a seguir no este acuérdense que dijimos por ejemplo
+0:10
+polinomios y factorización en funciones exponenciales vamos a ver un poquito de recapitulación de lo que vimos la semana
+0:17
+pasada verdad Okay pues bueno acuérdense que nos quedamos en Cómo resolver
+0:24
+sistemas de ecuaciones verdad nos quedamos ahora sí que con el método gráfico que era acuérdense que era
+0:30
+dibujar dos rectas no Y en donde chocan son la solución para las variables x y
+0:35
+acuérdense que eso bueno el método gráfico está limitado para sistemas de dos ecuaciones este ya además de tres
+0:43
+dimensiones se puede hacer a lo mejor con un graficador en 3D Este pero ya bueno demás pues no es posible verdad
+0:49
+hacerlo gráficamente entonces existen otros métodos como el de sustitución el de eliminación el de igualación Pero
+0:57
+bueno Estos no son tan ópticos a la hora de usar muchas muchas variables entonces
+1:05
+este existen otros que son los que están en azulito Bueno este los de álgebra lineal que estos son de tratar con
+1:12
+matrices y vectores no entonces
+1:20
+este prácticamente es lo que hay no este Y pues sí entonces
+1:28
+este muy bien este pues así es chavos este los métodos
+1:36
+no este que hay son estos cuatro y pues ya
+1:42
+este el método gráfico no la sustitución dijimos el de sustitución es
+1:48
+dejar es despejar una de las dos variables en una de las ecuaciones verdad y sustituir la variable despejada
+1:55
+en la siguiente ecuación Okay dijimos que resolver para la variable sustituir
+2:01
+el valor de la variable encontrada y despejar para la otra y así este dependiendo de Cuántas variables
+2:06
+tengamos no muy bien y estaba también por ejemplo el método de suma o resta
+2:11
+que bueno en este caso de este ejercicio eran de tres variables verdad x y y z acuérdense algo
+2:21
+que era muy importante es que dijimos esto no para que un sistema de ecuaciones sea determinado debe tener el
+2:27
+mismo número de ecuaciones y el mismo número de variables verdad entonces quiere decir que siempre
+2:33
+vamos a tener 3 por 3 4 por 4 5 por 5 etcétera no O sea cuatro variables
+2:41
+cuatro ecuaciones y así Eso es muy muy importante porque si no es indeterminado
+2:48
+si no se puede sacar un valor único si no va a haber valores o sea no no
+2:53
+valores únicos y no no queremos eso queremos valores únicos Entonces siempre
+2:58
+este Sí sí siempre es este cuadrado no se le
+3:04
+dice Bueno en álgebra lineal que tenemos una matriz cuadrada de coeficientes o sea 3 por 3 no o 4 por 4 5 por 5 no como
+3:14
+un cuadrado o sea el mismo número de variables el mismo número de este
+3:19
+ecuaciones Okay muy bien Y pues así chavos
+3:26
+este pues no sé si tengan este no O sea se puede hacer lo que sí es que
+3:34
+tienes que ir eligiendo de dos en dos o sea no se puede hacer de tres en tres Porque necesitamos sacar una nueva
+3:40
+ecuación Por ejemplo puedes tú elegir el uno y el tres el dos y el tres el uno y el dos
+3:48
+como quieras el punto es que tienes que elegir por ejemplo este y este o sea necesitas elegir dos este estas primeras
+3:56
+dos ecuaciones la uno y la dos la ponemos en suma y resta verdad y nos
+4:01
+permite generar esta nueva ecuación que esta nueva ecuación es una ecuación que ya solo está en dos variables ya no en
+4:08
+tres verdad porque ya eliminamos la x Okay y hacemos lo mismo aquí agarramos
+4:14
+la dos y la tres el hacemos el método de suma o resta y nos queda también otra
+4:20
+ecuación de Solo dos variables no
+4:27
+cómo sí sí sí sí el valor de X y y z son
+4:32
+iguales en las tres por eso se le llama exactamente sistema de ecuaciones un
+4:38
+sistema de ecuaciones es cuando las variables están interconectadas no O sea Son la misma este las mismas mismos
+4:46
+valores de x y y z pero son tres ecuaciones diferentes esto nos sirve mucho este
+4:54
+cuando tenemos este pues en física que tenemos tensiones o en cualquier cosa en
+4:59
+economía Cuando tenemos tres variables chavos y son ecuaciones lineales pues podemos sacar los valores no de las tres
+5:05
+incógnitas este porque por lo general en la vida real las cosas no solo dependen de una
+5:13
+variable Por lo general dependen de más entonces como dependen de más al mismo tiempo Este es como por ejemplo el
+5:20
+precio de una casa el precio de una casa depende del M los metros cuadrados que tenga de la posición en donde o sea de
+5:27
+la zona donde estén de de los cuartos que tenga de la O sea de Hace cuántos
+5:32
+años es la casa no es solo una variable chavos o sea puede tener un dos 5 años
+5:37
+de de Así que la casa puede ser que sea de 500,000 m cuad entonces Todas estas
+5:45
+son variables no y por ejemplo para eso sirven los sistemas de ecuaciones o sea puede ser que saquemos un sistema de
+5:51
+ecuaciones Y resolvamos cuánto va a valer cada cosa es así chavos les digo
+5:57
+en física se usa mucho para sacar tensiones para sacar fuerzas etcétera entonces Bueno vamos a ver eso después
+6:04
+el punto es que ya teniendo estas dos ecuaciones lo que se hacía era juntarlas
+6:10
+y hacer el método de suma o resta ahora para estas dos y acuérdense que el método de suma o resta va eliminando de
+6:16
+una variable en una variable Entonces ya nos quedaría un solo una sola ecuación de una sola variable Y esa la sabemos
+6:22
+despejar bien fácil no acuérdense que solo es dejar la variable sola entonces esta Z no este es 57 lo pasamos del otro
+6:30
+lado y nos da esto
+6:36
+verdad Muy bien chavos Pues así es como se
+6:48
+hace este Okay
+6:58
+vo
+7:07
+Ok Muy bien chavos es creo que no estoy grabando Ah no s si estoy grabando Okay
+7:13
+muy bien entonces así es como se hace chavos dijimos que se hace una sola sacamos Z no Y esta Z la podemos
+7:21
+sustituir en una ecuación que tenga Solo dos variables como en cualquiera de
+7:26
+estas no en cualquiera de estas la podemos bien y despejamos para y verdad
+7:33
+y obtenemos el valor de y Okay muy bien y ya con el valor de y como lo tenemos
+7:39
+aquí ya tenemos x y y ya nada más sería sustituirlo en cualquiera en cualquier
+7:44
+ecuación que tenga las tres como esta x Perdón Z aquí no obvio y acá y nos daría
+7:52
+x verdad que nos daría este
+7:58
+valor Okay muy bien Y pues bueno así chavos
+8:04
+este Así es como se manejan lo que Estuvimos viendo la semana pasada y
+8:10
+bueno acuérdense que también Al final vimos lo que era desplazamiento de funciones no acuerdan que usamos desmos
+8:16
+para ver esto que podemos desplazar las funciones en vertical y en horizontal aquí por ejemplo no
+8:23
+acuérdense que en vertical no para desplazar una función en vertical A ver no sé si lo puse
+8:30
+Sí mir aquí una función en vertical se desplaza n lugares como F dex + n verdad
+8:39
+y en esta la desplazamos con f dex - n verdad abajo y arriba
+8:49
+Okay okay muy bien este y horizontal acuérdense que ponemos
+8:57
+el - n dentro de la función verdad eso era para desplazarlo a la derecha es con
+9:02
+- n a la izquierda es con + n acuérdense que eso funcionaba lo poderoso de estos
+9:08
+que funcionaba para todos los tipos de de funciones
+9:14
+verdad Cómo que naturale Ah sí xy sí este estas funciones acuérdense por
+9:21
+ejemplo esta y esta y esta no esta aquí lo que hizo es desplazarla hacia abajo en vertical muy bien
+9:33
+Sí sí sí la que está dentro exactamente es izquierda o derecha aquí como están afuera pues serían arriba abajo no como
+9:41
+estas son afuera es arriba abajo y las que están dentro son este izquierda
+9:46
+derecha no Okay Muy bien pues así funciona chavos Así es como nosotros podemos desplazar funciones lo cual es
+9:53
+muy poderoso porque como les dije eso es para todos los tipos de funciones
+10:01
+Okay muy
+10:06
+bien okay Bueno vamos a empezar con lo que son polinomios y factorización que es lo de esta semana
+10:12
+no nosotros factorizamos no este nos sirve Por ejemplo si tenemos
+10:19
+otra ecuación así de que Déjenme ver ejemplo
+10:25
+este Okay por ejemplo este podemos factorizar hay varios métodos ahorita
+10:32
+les enseño otros pero por ejemplo el punto de factorizar aquí es que sabemos para esta ecuación que tenemos que tener
+10:39
+al menos 3x verdad porque sabemos que x * x * x nos va a dar x cúbica que es el
+10:45
+más alto verdad Muy bien luego tenemos que encontrar los
+10:51
+otros factores verdad que nos van a dar es complicado Cuando ya son cúbicas es
+10:56
+muy fácil Cuando son cuadradas no como estábamos viendo para resolver ecuaciones porque pues esa se ve muy
+11:01
+fácil porque cuando son cuadradas sabemos que este tiene que ser un número que multiplicados los coeficientes de
+11:08
+esto no nos dé un número y que sumados nos de el otro pero bueno si no Ahorita
+11:14
+volvemos porque hay que ver un método para hacerlo antes esto y Bueno antes de eso hay que ver un poco lo que son las
+11:20
+funciones exponenciales no s este una función exponencial chavos es cuando
+11:26
+tenemos el en el exponente tenemos la
+11:33
+variable tenemos la variable no Ok Muy bien acuérdense que cuando
+11:39
+tenemos en el exponente la variable es una función exponencial por ejemplo aquí este de F de X es ig a 2 a la x el 2 es
+11:49
+nuestra base Así que la función bueno la forma de la completa forma deción
+11:57
+exponen
+12:05
+Ok Muy
+12:12
+bien Es la forma una función exponencial si o
+12:19
+base la x pero quería ver
+12:25
+si es B a la x no bueno
+12:30
+la base elevada a la x bueno que puede estar multiplicada por un coeficiente no OK Bueno
+12:38
+este a veces se le pone como a dependiendo como bueno el punto es que
+12:44
+esta función exponencial verdad bueno Que obviamente la podemos desplazar
+12:49
+hacia arriba y hacia abajo etcétera este ierda derecha muy bien metiéndonos en la
+12:55
+x verdad Okay este este por ejemplo no aquí la base es dos y por ejemplo
+13:04
+vamos a hacer ahí que como en Secundaria Prim nos enseñaron para las funciones
+13:09
+por ejemplo para 2 a la x verdad
+13:15
+este muy bien este puede ser [Música]
+13:21
+-1 -2 -1 0 1 2 no
+13:27
+este acuérdense chavos que bueno por ejemplo esta no 2 a la x si lo sustituimos acu
+13:36
+que se le llama evaluar no evaluar la función evaluar la función que es
+13:42
+sinónimo de sustituir verdad sustitu OK Por ejemplo agarramos men2
+13:50
+verdad ent sería 2 a la men2 voy a ser más espacioso esto es 2 a
+13:57
+la-1 esto es do a la 0 no muy bien Ah
+14:04
+hacemos cada uno 2 a la 1 y 2 a la 2 verdad chavos Ok entonces vamos a sacar
+14:12
+los resultados verdad 2 2 a la men2 es como tener 1 2 al
+14:19
+cuadrado verdad 1 2 a la 1 esto acu que es
+14:25
+este un verdad cualqu número elevado o es un 2 a la 1 y 2 a la 2s Bueno al
+14:33
+cuadrado 4 no Okay esto dijimos que esto es un cuarto verdad Y esto es un medio
+14:39
+Okay entonces las gráficas No pues vamos a graficarlas como siempre lo hemos
+14:44
+hecho No desde niños chiquitos Entonces vamos a poner los valores no en el eje
+14:50
+acuérdense que este es el eje x este es x negativa est es y positiva y est es y
+14:56
+negativa no muy bien entonces bien Vamos a sacar 1 dos 3 4 5 -1 -2 -3 -4 y -5 no
+15:12
+muy bien entonces este básicamente es así este 1 2 3 4 y 5
+15:27
+este
+15:34
+Okay muy bien este Así es chavos no ent vamos a saar
+15:39
+el -2 dijimos que en el -2 vale 1/4 verdad okay Entonces esto Aquí vamos a
+15:47
+poner que este es uno Este es dos TR est es cuatro no Okay vale un cuarto en el
+15:52
+-2 entonces aquí va a ser como el primer puntito no ponerlo de otro color A lo
+15:57
+mejor rosa Okay en el os1 va a ser 1 medio va a ser aquí aquí va a ser un aquí en el uno va
+16:05
+a ser este dos verdad Y en el dos va a ser 4
+16:14
+entonces Okay pues así sería no
+16:19
+chavos Okay muy bien este Así es como se vería la función exponencial es
+16:25
+exponencial Porque si se dan cuenta el incremento se está haciendo muy grande
+16:31
+en el sentido de la derecha esta función es creciente verdad es creciente porque
+16:37
+qué dijimos que era una función creciente que entre má nos vamos haciendo hacia la derecha esta se va haciendo más grande no Y esta está
+16:44
+aumentado pues como dicen de manera exponencial no O sea muy grande esta función es exponencial y se
+16:52
+va a ir aumentando muy muy grande esto es muy útil chavos porque
+17:00
+Bueno luego van a ver por ejemplo si les gusta la parte de programación o eso hay algoritmos que se hacen exponenciales y
+17:07
+eso es lo que no queremos porque quiere decir que van a ocupar mucha memoria entre más grande sea el input entonces
+17:15
+hay que esto se usa mucho también se usa mucho en los intereses chavos por
+17:21
+ejemplo los intereses de una casa etcétera son exponenciales Qué quiere
+17:26
+decir Este tarjetas de crédito todos estos son exponenciales Entre más tiempo
+17:31
+dejes sin pasar sin pagar este los intereses se van a hacer altísimos por
+17:37
+ejemplo en México es muy alto en México más o menos el interés anual en las
+17:43
+tarjetas de crédito es de 35 al 40% lo cual es altísimo Qué quiere decir Miren
+17:51
+la base que la forma de verlo en exponencial para estos problemas no es
+17:56
+este uno más el porcentaje de
+18:02
+interés elevado a la potencia tiempo depende que por ejemplo si es años no
+18:08
+quiere decir por interés compuesto verdad
+18:15
+exactamente Sí este es el interés compu con interés compuesto Sí sí sí si quieres algo
+18:25
+más Sí el interés compuesto exactamente Como dijo Bruno Este es el interés compuesto Porque existe el interés
+18:31
+simple sin embargo yo no conozco casi O sea casi no existe ni aseguradoras ni
+18:37
+este bancos ni el gobierno mismo o sea no existe nada casi que sea interés
+18:43
+simple casi todo es interés compuesto Entonces esto es muy importante porque ustedes cuando vayan a pagar que saquen
+18:51
+una casa este a a meses bueno obviamente porque no creo que tengan y además Hasta
+18:57
+eso Si si quieres pagar una casa así de contado Tienes muchos problemas con el sat porque tienes que justificar De
+19:03
+dónde sacaste todo el dinero no Y aparte pues obviamente además de justificarlo pues van a querer una muy buena tajada
+19:10
+entonces este mucha gente por eso este Lo pone a meses no etcétera este
+19:15
+obviamente también en las compañías cuando piden préstamos Porque casi muchas compañías viven sobre el crédito
+19:22
+este porque pues se van a dar cuenta en la vida real que la gente es muy mal pag
+19:28
+en general entonces la gente Pues trata de pagarte hasta el final o si puede no
+19:34
+O sea se tratan de no pagarte y pues desgraciadamente tú como el que
+19:39
+prestaste Pues tienes que pagar salarios no tienes que pagar este pues máquinas
+19:45
+este rentas de locales lo que tú hayas pagado y ellos no te van a dar tanto
+19:51
+tiempo entonces por eso también o sea a veces sí se pasan con los intereses Pero
+19:56
+también es justificado un poco de depende del país y o sea cómo miden Qué
+20:01
+porcentaje de interés te ponen miden según también que tan probable sea que les pagues porque obviamente ellos o sea
+20:09
+hay cálculos ya más avanzados mucho más avanzados de esto que se llama risk analisis no análisis de riesgo que es
+20:16
+exactamente ver si una persona te va a pagar o bueno o también también en
+20:22
+inversiones es que tanto te va a dejar este porque pues como les digo todo esto O sea todo esto de las exponenciales
+20:29
+funciona mucho en economía y en finanzas no este porque o sea desde préstamos
+20:36
+intereses este pues comprar casas no este cómo se llama pues seguros no este
+20:45
+qué más pues también inversiones este inflación no la inflación en
+20:54
+general este todos estos se manejan con
+21:04
+este este Okay muy bien Déjenme Sí o sea el punto chavos Es que
+21:27
+este Okay muy bien entonces este todo esto tiene que ver mucho en economía verdad
+21:35
+este acuérdense Entonces esto es el interés compuesto no como dijimos intereses compuestos no
+21:43
+este esto es también en la bueno Esto es en la parte de economía pero también se puede usar mucho en este la población
+21:51
+determinar cuánto va a aumentar la población También sirve exactamente Pues con el coronavirus no este las pandemias
+21:59
+por ejemplo no También sirve para determinar cuántos infectados va a haber en cierto lugar porque las infecciones
+22:05
+son exponenciales casi siempre entonces este sirve para muchas cosas también en
+22:10
+química verdad este los reactivos etcétera la reacción este la velocidad de reacción
+22:16
+este les dije también en en algoritmos en programación este van a ver que o sea
+22:24
+funciona para muchas cosas todo esto de los exponenciales como les dije muy impotente es este ver esto sí el interés
+22:31
+es del 40% como dijimos 1+ 0.4 por ejemplo no en el tiempo Bueno vamos a
+22:37
+ver por algunas leyes de los logaritmos Pero cuánto tiempo bueno perdón este la
+22:43
+cantidad inicial digamos que sea Vamos a ponerle 2 c0 o sea cantidad inicial no
+22:49
+bueno cantidad inicial perdón y nosotros queremos saber Después de cuánto tiempo va a ser la cantidad
+22:55
+inicial ahorita me voy a adelantar un poco aquí es aplicando logaritmos etcétera aquí lo primero que podíamos
+23:00
+hacer es bueno c0 entre c0 se divide y nos queda dos okay esto nos queda 1 pun
+23:06
+04 pu Ya dimos bueno 1.4 perdón 1.4 elevado a la t no y Bueno aquí
+23:15
+acuérdense como habíamos dicho las inversas o sea para pasar una cosa de un
+23:20
+lado necesitamos hacer la inversa Cuál es acuérdense que ya lo habíamos dicho anteriormente Cuál es la inversa de una
+23:27
+exponencial alguien se acuerda logaritmo logaritmo verdad Muy
+23:34
+bien logaritmo perfecto entonces pues bueno si queremos pasar esta t al otro
+23:40
+lado tenemos que hacer un logaritmo toces no lo vemos estoy adelantando un poco y lo s tranquilos por ejemplo aquí se aplica el logaritmo natural de dos No
+23:47
+es igual hay una ley de los logaritmos sea vamos a aplicar logaritmo natural a todo esto 1.4 a la t c0 cantidad inicial
+23:56
+bueno eso porque lo puse yo c0 es la cantidad inicial o sea esto
+24:01
+vamos a ver por ejemplo el problema es que aquí es para ver qué tan rápido en México este Cuántos años se necesita que
+24:09
+no pagues un préstamo para que se te duplique la deuda no oa si tú pediste 100,000 pesos Cuánto tiempo Cuántos años
+24:17
+deben de pasar para que en vez de 100,000 ahora debas 200,000 eso es lo que estamos tratando de ver Bueno hay
+24:24
+una ley de los logaritmos que hace que el tiempo lo saque el tiempo lo saque Sí y se queda sin
+24:31
+logaritmo Luego lo vemos ahorita lo vamos a ver yo creo que hoy y mañana este nada más para que vean qué tan
+24:37
+poderosos son los intereses en méxicoo natural de dos
+24:47
+no Okay Muy bien Entonces esto sería el logaritmo
+24:53
+natural de dos
+25:07
+Okay okay Y pues ya eso lo podemos sacar en
+25:14
+la calculadora por ejemplo voy sacando la calculadora Pero bueno ustedes si
+25:21
+quieren alguien que tenga una calculadora y pueda irlo haciendo para que lo vayan comprobando ustedes mismos
+25:28
+06 2.06 Muy bien gracias Eso quiere decir que después de solo
+25:34
+2.06 años la deuda en México en las tarjetas
+25:39
+de crédito se duplica verdad Qué quiere decir que si nosotros
+25:47
+este si nosotros hace que pedimos al banco un millón de pesos peres si no
+25:52
+pagas en 2.06 años ya debes 2 millones en vez de 1 millón no Bueno o sea eso Si
+25:58
+usamos tarjetas de crédito pues imagínense que ustedes ponen pura tarjeta y tienen una deuda de un millón
+26:03
+y no pagan Entonces este pues así no O sea por eso a veces es importante y por
+26:10
+eso a veces este los las cómo se
+26:20
+llama este muy bien entonces pues así chavos
+26:26
+acuérdense que es este duplica verdad se duplica si con el
+26:35
+tiempo Okay así es cómo funciona esto de
+26:50
+este muy bien entonces pues así chavos acuérdense que
+26:56
+este Okay Así es como funciona esto verdad
+27:02
+chavos por eso son tan peligrosos los intereses verdad
+27:07
+este para poder Así que tener tengan cuidado mucho con
+27:26
+eso Okay mu [Música]
+27:36
+bien okay chavos o sea el punto es que tienen que tener mucho cuidado con eso también las población las pandemias por
+27:43
+eso no s se acuerdan que casi había veces que se duplicaba el número de contagiados del coronavirus cada semana
+27:49
+o cosas así entonces las exponenciales son bastante fuertes los algoritmos
+27:55
+también lo vamos a ver que hay que como son exponenciales el tiempo es
+28:02
+exponencial y no es lo mismo por ejemplo es una gran diferencia no sé si han
+28:07
+hecho esa ese cálculo Pero entre un millón de segundos y 1000 millones de segundos por
+28:14
+ejemplo vamos a verlo a esto es un millón 10 a
+28:21
+la ahita se los pongo en la pantalla [Música]
+28:26
+espérenme Okay 1 millón y 1000 millones Okay sí por ejemplo
+28:35
+saben Cuántos segundos tiene cada hora
+28:41
+3600 no Okay entonces acá se lo vamos
+28:49
+a por ejemplo 1 millón de segundos son 277
+28:56
+horas no que son t24
+29:02
+no son 11.5 este 11.5 días no vamos a ver Déjenme
+29:10
+voy a para que tengan o sea para que dimensionen qué tan puas son estas cosas
+29:16
+vamos a
+29:26
+vernos Okay muy bien y
+29:34
+no ahora esto los 1000 millones entre
+29:42
+3600 Para que vean en horas serían esto y bueno en días buen vamos a verlo primo
+29:50
+Cuántas horas son vamos a verlo no s a ver
+29:59
+Ah ya a ver sí okay Si es esto muy
+30:07
+bien okay son estas horas y si lo sacamos en
+30:15
+días Pues miren chavos uno eran solo 11 días y el otro eran son
+30:20
+11574 días esto en
+30:26
+años pues es 31 años no la diferencia entre
+30:31
+11 días y 31 años es grande y solo eso solo tendría que ver con una exponencial
+30:37
+con que sea por ejemplo si nuestra base es 10 y el exponente o sea entre TR no
+30:45
+10000 aj y a la un verdad con Solo dos que con un
+30:52
+solo diferencia de input de un y TR es 1 ve veces más y si estamos hablando en
+30:58
+segundos por ejemplo como aquí podría ser la diferencia entre 11 días y 31 años no entonces La verdad es que las
+31:06
+funciones exponenciales sí tienen como sus propiedades que a veces se ven muy locas este el punto es que vayamos
+31:13
+viendo así puede podemos tener diferentes bases por ejemplo aquí la base es 10 la base es el número y la
+31:21
+potencia es el exponente no okay Para que sepan en las funciones exponenciales entonces aquí Qué quiere decir que
+31:27
+nuesta base es 10 verdad y el exponente aquí en este caso bueno es a la x verdad porque va aumentando se acuérdense que
+31:33
+dijimos que las funciones exponenciales son cuando estas están este la variable
+31:38
+está arriba verdad muy bien así es como funciona esto de las exponenciales vamos
+31:43
+a seguirle para que nos dé más tiempo de todo okay también vamos a ver un poco de las funciones
+31:49
+logarítmicas Okay así como las exponenciales crecen las logarítmicas
+31:55
+como que tienden ambas tienen algo que se le llama asíntotas
+32:01
+asíntotas son valores bien asíntotas no es un
+32:12
+valor al cual la función se aproxima o tiende
+32:24
+a Okay muy bien es la valor al cual la función se aproxima o tiende a no
+32:32
+este muy bien Por ejemplo ahorita vamos a verlo
+32:37
+con desmos pero este como verán Aquí esta función no en la roja tiene una
+32:44
+asíntota qui dec que este siempre se va a aproximar o tiene a
+32:50
+pero nunca la va a
+32:56
+tocar Así es como es esto chavos o sea se va a
+33:01
+aproximar pero nunca la va a
+33:21
+tocar este Okay chavos Pues así es esto este
+33:28
+e ahora sí que este el valor al cual la función se
+33:33
+aproxima o tiende a pero nunca la va a tocar esto es muy importante que lo sepamos no
+33:42
+este Okay entonces así es este aquí la bueno la asíntota etcétera
+33:51
+son así pero realmente la asíntota aquí no es en esta eso me confundí la asíntota es esta es en logarítmicas es
+33:58
+acá porque nunca bueno las funciones logarítmicas nunca puede valer x tiene
+34:04
+su dominio cuent del dominio de Rango su x tiene que ser mayor a oer
+34:10
+verdad Okay tiene que ser su x mayor a 0 en las funciones logarítmicas hasta ahí
+34:17
+se ve en la tabla no que la asíntota es cer0 o sea por eso no ponemos el mayor o igual no no ponemos solo el mayor porque
+34:24
+la asíntota está en cero por eso si se dan cuenta toda la función no hay nada
+34:30
+de la parte negativa Okay muy bien entonces pues es
+34:36
+así chavos
+34:42
+este pues así es como funcionan las funciones logarítmicas y estas también son
+34:48
+importantes tienen algunas aplicaciones por ejemplo en química este no sé si han visto lo que es el pH no el pH se saca
+34:57
+con el logaritmo de la cantidad de hidrógenos verdad este también los logaritmos también lo
+35:03
+muy importante lo muy poderoso vamos a ver qu son sus propiedades estas propiedades nos sirven para resolver dos
+35:11
+tipos de ecuaciones las propiedades de los logaritmos vamos a
+35:16
+verlas Okay las propiedades de los logaritmos nos sirven para poder resolver ahorita lo que hicimos para
+35:22
+poder resolver lo que hice anteriormente
+35:28
+nos permiten resolver ecuaciones logarítmicas y
+35:43
+exponenciales pero primero antes de ver esto vamos a ver las partes del
+35:49
+logaritmo o qué es un logaritmo en sí bien escribe así log aquí el número de
+35:57
+abajo es la base Esta es la base no aquí es el X el valor que queremos encontrar
+36:05
+déjen ver si están los nombres porque me acuerdo de los nombres formales acordarme los nombres
+36:12
+formales
+36:18
+logaritmo Okay argumento base logaritmo Okay bien
+36:28
+básicamente esto este cuadrito Vamos a ponerle B este B es la base de logaritmo
+36:36
+ahorita vamos a ver qué significa El otro es el argumento esta
+36:43
+parte la a Vamos a ponerle a es el argumento Ah vamos a ver qué
+36:50
+significa Y eso pues es el logaritmo no el resultado el
+36:55
+logaritmo como c no s logaritmo no Okay
+37:01
+qué es esto chavos Miren el logaritmo es que nosotros queremos encontrar lo
+37:09
+siguiente un bueno la base a qué exponente c nos da
+37:21
+a básicamente es lo que queremos encontrar queremos encontrarse o sea
+37:26
+exponente deos a encontrar a qué exponente
+37:35
+c la base bueno la base B elevada nos va a dar
+37:43
+a Qué quiere decir miren vamos a verlo con un ejemplo déjen hago esto más para
+37:49
+arriba Okay muy bien Qué quiere decir esto chavos si lo vemos así por ejemplo
+37:57
+logaritmo base 10 este es uno muy común la base 10 de por
+38:04
+ejemplo 10,000 de 10,000 chavos aquí lo que nos
+38:10
+está preguntando el logaritmo es a Qué potencia debo de Elevar 10 para que me
+38:16
+dé 10,000 por ejemplo ya habíamos manejado las potencias de 10 son el número de ceros verdad Entonces esto es
+38:22
+cu verdad el logaritmo de base 10 de 10,000 es cuatro por qué porque vamos a
+38:29
+sustituirlo en esta fórmula no que es lo que queremos encontrar cuál es la base 10 cuál es la potencia
+38:36
+cuatro 10 a la cuarto en 10 a la cu lo pueden hacer ustedes en su calculadora si no me creen que
+38:43
+es 10,000 Verdad que es lo que queremos encontrar eso es lo que es un logaritmo
+38:48
+puede haber O sea hay muchas bases no por eso pero algo muy importante es que sepamos que no puede haber bases
+38:54
+negativas Qué quiere decir es que es lógico chavos no hay potencia si tú
+38:59
+tienes un número positivo no puedes tener O sea no hay una potencia que te de negativos
+39:07
+verdad por eso exactamente Existen los imaginarios No porque no hay potencias que te den este los negativos no vamos a
+39:15
+hacerlo si tú tienes un número positivo como 10 no a Qué potencia lo puedes
+39:21
+Elevar que te d -1 a ninguna verdad no no
+39:27
+existe no existe ninguna potencia lo puede hacer negativo porque
+39:35
+acuérdense que las potencias o es multiplicar por sí mismo o es dividir entre sí mismo Pero sigue siendo
+39:41
+positivo no acuérdense por leyes de los signos positivo entre positivo es positivo positivo por positivo es
+39:47
+positivo Entonces no existe por eso la función Bueno aquí ven la Gráfica no por
+39:52
+eso si se dan cuenta toda esta parte está tachada no O sea bueno toda esta parte no vale en los logaritmos Por qué
+40:00
+Porque no existen chos Tan sencillo ya lo vimos por no existe ninguna sola potencia que con un número positivo te
+40:06
+dé un número negativo entonces es por eso que no existen no
+40:11
+existen logaritmos
+40:19
+negativos Ya vimos el Por qué muy gráficamente vimos el porqué no existe ninguna potencia que te dé negativos
+40:27
+vamos a ver bu el tema fundamental álgebra es mucho Bueno mir mejor vamos a seguir un
+40:35
+poco hablando de logaritmo ya mejor mañana terminamos de ver lo de álgebra porque creo que esto de logaritmo sí es más importante la verdad la de la último
+40:42
+que nos queda de álgebra es solo por cubrir el currículum el temario pero la
+40:47
+verdad es que en la vida real no no se ve tanto como esto de algoritmos perdón de logaritmos y de exponenciales esto Sí
+40:54
+se usa mucho entonces entonces pues bueno vamos a ver las propiedades de los logaritmos estas sí gelas de memoria AC
+41:01
+O al menos este sepan que existen no porque estas son las que nos permiten resolver Perdón ecuaciones exponenciales
+41:09
+y logarítmicas y vamos a ver entre todas ellas es bien propiedades de los
+41:20
+logaritmos creo que tengo en otro lado ot ot có lo vamos a volver a ver porque
+41:25
+esto sí lo vamos a ver como dos tres días porque y necesitan saberlo muy bien
+41:30
+porque les digo estas estas o sea nos sirven para resolver estos dos tipos de
+41:36
+ecuaciones los cuales son muy importantes porque nos sirven en muchas áreas de ciencias y de economía entonces
+41:44
+pues sí okay las propiedades de los logaritmos la número uno por ejemplo es logaritmo de X por
+41:53
+y x y y pueden valer cantidad Ah vamos a ver qué significa esto Esto es igual a
+42:01
+logaritmo de X más logaritmo
+42:07
+de y verdad voy a poner mejor los paréntesis de
+42:16
+[Música] rosa muy
+42:23
+bien okay muy bien este Esto es lo que
+42:28
+nos da las propiedades de los logaritmos verdad chavos Okay muy bien logaritmo de x * y
+42:37
+es igual a logaritmo de X + logaritmo de y Qué quiere decir por
+42:43
+ejemplo vamos a ver logaritmo de 5 Ay de 5x
+42:51
+chavos aquí qué nos dice x y quieren decir elementos o sea dos elementos que
+42:57
+se estén multiplicando no voy a poner diferente color este lo voy a poner de
+43:02
+morado por ejemplo u qué
+43:12
+pasó se cerró la aplicación Qué raro Okay muy
+43:19
+bien Ah azul y morado Okay miren lo azul qu es esto es como x y lo
+43:27
+morado es como no Okay Qué quiere decir que logaritmo de 5 por x Porque aquí se
+43:33
+están multiplicando acuérdense 5 * x es que es equivalente a logaritmo de 5 más
+43:41
+logaritmo de X no esto es muy importante que lo
+43:47
+recuerden pero también hay que acordarnos que esto que esto como dijimos
+43:52
+no las inversas Bueno luego o sea bueno no inversas perdón aquí me confundí o
+43:57
+sea quiere decir que esto puede ir de un lado para otro Qué quiere decir si nosotros estuviéramos al revés logaritmo
+44:03
+de 9 + logaritmo de X pues es al revés
+44:09
+también no O sea podemos usar esta propiedad para ambos lados si nos ahora sí que hay que ver qué nos conviene más
+44:16
+aquí por ejemplo si nos conviene más juntar las dos cosas podemos hacer el
+44:21
+logaritmo de 9x no es lo mismo porque AC estar multiplicando verdad Okay
+44:27
+acuérdense que estas propiedades van comoan B Ways o sea en ambos lados no
+44:33
+las podemos usar según lo que nos convenga según lo que necesitemos
+44:38
+no Okay Esa es la propiedad número uno vamos a poner la propiedad por ejemplo
+44:43
+número dos vamos a ponerla de azul la propiedad número dos por ejemplo es casi igual nada más que es logaritmo de x
+44:52
+entre y aquí acuérdense es lógica si la Cuál
+44:58
+es la inversa de la suma de la multiplicación perdón de la multiplicación Cuál es la
+45:03
+inversa alguien alguien
+45:09
+chavos no de la multiplicación raf de la multiplicación Cuál es la
+45:14
+inversa la división verdad de la división de la multiplicación es la división Ok entonces aquí por lógica
+45:23
+Cuál va a ser la inversa de la suma la resta la resta la resta verdad Muy bien
+45:29
+entonces aquí pues por lógica en vez de logaritmo de X más logaritmo Y va a ser
+45:34
+logaritmo de X Men logaritmo de y les digo chavos aquí mucho es de lógica y de razonamiento o sea nada más es usar la
+45:41
+reglas y si aquí por ejemplo les dije est es multiplicación pues su inversa que es división si aquí pasa sumando
+45:49
+aquí Bueno sería resta no es como lo equivalente Okay muy bien y acuérdense
+45:55
+que va para los dos lados Qué quiere decir como estábamos diciendo podemos tener al revés podemos tener logaritmo
+46:00
+de X menos logaritmo de y Y si necesitamos juntarlo Pues sería logaritmo de x / y acuérdense que esto
+46:08
+va de ambas direcciones Depende de qué nos convenga qué necesitemos no Okay
+46:14
+Esta es otra propiedad de los logaritmos una muy poderosa es la de los exponentes esta me gusta mucho Esta es la que usé
+46:20
+por ejemplo para poder resolver la ecuación pasada esa se usa mucho para poder resolver ecuaciones exponenciales
+46:27
+esto es muy útil útil a todas digo pero esta para ecuaciones exponenciales
+46:34
+no porque aquí podemos bajar el exponente o sea cuando tenemos el exponente una variable podemos hacer lo
+46:41
+siguiente podemos aplicar un logaritmo no de X a la
+46:48
+n okay Y qué chavos nosotros aplicando el logaritmo este
+46:54
+n pasa se sale del logaritmo como multiplicando Entonces tenemos n no por
+47:04
+logaritmo de x o puede ser al revés como les dije no si tenemos el logaritmo de X
+47:11
+no bueno n por logaritmo de x y queremos juntarlo podemos hacer logaritmo de X a
+47:17
+la n verdad aquí como les dije depende de qu necesitemos acuérdense que estas
+47:24
+propiedades va para ambas acciones Entonces vamos a ver como por ejemplo ahorita que hice lo de bueno que hicimos
+47:31
+lo de este esto qué es lo que aplicamos aplicamos el logaritmo natural de ambos
+47:39
+lados verdad y aquí este logaritmo natural aquí teníamos un exponente verdad este exponente cómo
+47:47
+salió multiplicando y así ya podemos porque no podemos despejar exponentes
+47:52
+pero si podemos despejar una multiplicación es bastante sencillo No nada más si está multiplicando pues pasa
+47:58
+dividiendo no Entonces para esto es muy útil todo lo que son las las propiedades
+48:04
+de los logaritmos miren otra otra Déjenme voy a cambiar lo voy a poner de color rojo
+48:10
+para que se
+48:17
+ubique Okay otra es muy miren prácticamente es lo mismo porque si nos
+48:22
+acordaremos chavos una raíz Qué es es una potencia fraccionaria No si nos
+48:29
+acordamos de lo que hemos visto entonces otra propiedad de los
+48:36
+logaritmos otra otra propiedad de los logaritmos no es
+48:44
+que de raíces no Ah esta Pero acuérdense chavos que ya
+48:50
+hemos visto que la raíz n de X a Qué es equivalente
+48:56
+x a la qu bueno esta cosa a es equivalente en exponentes o en potencias
+49:04
+x a la 1 sobre n perfecto x a la 1 n verdad Entonces esto es como es
+49:12
+equivalente la lógica la regla nos lo dice directo pero la lógica Es que esto
+49:17
+es como x a la 1 y qué dijimos que el exponente lo podemos sacar todo esto es
+49:23
+el exponente lo podemos sacar multiplicando no ent sería 1 enn por
+49:29
+logaritmo de X no Qué bueno la regla nos decía eso que si el logaritmo de raíz n
+49:35
+de X es igual a 1 ent n multiplicado al logaritmo de X Bueno Este es la regla
+49:42
+Esta es la lógica no acuérdense que digo todo tiene una lógica en matemáticas no
+49:48
+la lógica es pues esto no O sea que acuérdense que raíz de NX es equivalente a esto entonces Bueno eso es lo que
+49:55
+vemos de esto este y la última propiedad es el cambio de
+50:00
+base Okay el cambio de
+50:06
+base Okay el cambio de base chavos es cuando nosotros queremos cambiar la base
+50:12
+miren logaritmo de la base de x y
+50:18
+queremos cambiarlo Entonces vamos a ponerle la nueva base K bueno no esto es a ver
+50:27
+es la nueva la nueva base K dx este logaritmo de la base k de B di
+50:38
+la demostración está un poco más compleja pero aquí Esta sí es más como que se la prendan no o si no digo la
+50:44
+puen lo bueno de hoy en día es que pueden buscarla en internet es la k es la nueva
+50:54
+base esto se puede usar exactamente dependiendo de que qu base queramos sacar por ejemplo una base muy usada es
+51:02
+la base de 10 por ejemplo en en los temblores chavos Alguien sabe
+51:08
+cómo se miden En qué Escala se miden los
+51:14
+temblores creo que de richer muy bien richer verdad y la escala de richer es
+51:22
+una escala logarítmica de base
+51:28
+10 Qué quiere decir chavos que un temblor miren 6 7 8 ojalá nunca llegue 9
+51:37
+y 10 no quiere decir que entre 6 y 7 ahita Vamos a ver
+51:44
+hay 10 es por 10 o sea un temblor de
+51:50
+magnitud se es 10 veces menor que el s o el s es 10 veces mayor mayor que el del
+51:56
+seis y pues así sigue cada cada número es un por 10 otro número es por
+52:03
+10 el si y el 8 no por 10 y la última por 10 no
+52:10
+Okay Qué quiere decir que entre un temblor del se y un temblor del 10 la
+52:17
+diferencia es por 10 a la 4 de magnitud que Qué quiere decir 10 a la
+52:23
+cu Qué quiere decir que un temblor del 10 de grado 10 que es altísimo sería 10
+52:32
+10,000 veces más intenso o más poderoso que uno del
+52:40
+seis por eso así está eso se le llama escala logarítmica
+52:45
+no Okay muy bien Esto es ahora sí que pero se puede usar el cambio de base por
+52:52
+ejemplo Eso es en otra base muy usada las tres bases más usadas yo creo en
+52:57
+general es logaritmo base 10 también está pues la logaritmo base en e
+53:05
+acuérdense que el e es un número no es una constante que es un irracional pero no lo vemos así casi
+53:11
+nunca escrito lo vemos como logaritmo natural eso es lo que significa no logaritmo natural no lo
+53:18
+ponen pero realmente logaritmo natural es un logaritmo base e nada más que lo ponemos así Ln noog
+53:27
+natural y otro logaritmo muy usado estos en programaciones base dos por qué
+53:32
+Porque bueno las cosas en programación son binarias no entonces este es muy usado en
+53:40
+programación son las tres bases que más usamos aunque técnicamente como haban
+53:45
+visto las bases pueden ser cualquiera Bueno cualquier número positivo o sea
+53:50
+puede ser cualquier número positivo este Esas son las bases verdad
+53:56
+este muy bien Y pues así Déjenme ver qué más podemos ver de esto antes de
+54:04
+[Música] acabar okay Bueno vamos a ver esto no
+54:09
+como dijimos esto es muy este pues digo la verdad es que hoy en día Lo bueno es
+54:16
+que sus calculadoras lo pueden hacer sus calculadoras pueden hacer este cambios de base muy fácil
+54:23
+este sin embargo antes o sea antes enseñaba mucho Esta última propiedad
+54:28
+Porque por lo general las calculadoras antes tenían solo logaritmo base 10 o logaritmo natural no tenían ni base 4at
+54:34
+ni base 5 ni base 20 o sea hoy en día sus comput sus calculadoras sí lo tienen
+54:39
+por ejemplo vamos a ver aquí yo tengo ahorita se los muestro miren a ver okay
+54:45
+esta que es muy poderosa que es la ti sí tienes para hacer cambio de base
+54:54
+bien se darán cuenta chavos Esta es la base y este es el
+54:59
+número No aquí yo sí le puedo cambiar bien fácil miren 2s d
+55:04
+o o sea pero miren también puedo o sea igual logaritmo lo puedo cambiar de base
+55:11
+de 10 de 100 no O sea pero antes no se
+55:18
+podía antes casi la la base determinada de 10 por logaritmo natural Entonces pues por eso si se este se enseñaba esta
+55:27
+propiedad Porque a veces te daban de que los ejercicios en logaritmo base dos pero tú te pedían de que pusieras un
+55:33
+número porque muchas veces o sea logaritmo por ejemplo sea que nada más te lo dejen expresado logaritmo natural de c es como de que qué es eso no se
+55:41
+logaritmo natural de 5 por ejemplo O sea si te lo dejan así no tienes o sea no
+55:46
+tienes idea de cuánto no aquí la calculadora te lo puede dar así pero antes lo que se hacía era pues este
+55:53
+Buscar meterlo en laal cadora porque les digo antes no es como que existiera el
+55:58
+cambio de bases en las calculadoras hoy en día sí pero bueno chavos yo creo que esto con esto nos quedamos por hoy eso
+56:06
+que mañana ya acabemos todo lo de álgebra ahor ya le avanzamos a precálculo esto no es álgebra como tal esto ya es PR cálculo espero que mañana
+56:13
+acabemos lo de álgebra Y tratar de avanzar un poco más a p cálculo para que en esta semana también veamos un poco de
+56:20
+trigonometría y ya nos podamos saltar a cálculo la siguiente semana ya eso ya
+56:25
+sería como lo de universidad no porque bueno por ejemplo el cálculo entre y universidad es casi lo mismo nada más
+56:31
+que los problemas son más intensos y bueno que ves más técnicas de integración por ejemplo en la parte de
+56:37
+de integrales no y que ves A veces series etcétera bueno integrales
+56:43
+impropias y etcétera Pero bueno el punto es que es muy parecido la verdad el cálculo este de preparatoria y de
+56:50
+universidad van a ver este nada más es un obviamente más difícil ejercicios más
+56:55
+difíciles y un poco más de técnicas Pero al final de cuentas es integrar y derivar Okay chavos Pues bueno tengan
+57:03
+alguna última pregunta o
+57:09
+duda No pues nás había una pregunta que yo tengo de las propiedades de los logaritmos Cuál cuál cuál dímela era la
+57:17
+de n por logaritmo x es igual a logaritmo x a la n Sí ese me llam
+57:25
+atención okay Dj lo vuelvo a [Música]
+57:37
+poner este no sí
+57:43
+ese Okay pues bueno Esto es una propiedad No que esto es muy útil la
+57:49
+demostración viene de otras cosas eso no creo que lo Jugamos pero como les dije no
+57:55
+Esta es una regla muy útil porque esta nos sirve para poder sacarlo del exponencial verdad como les dije Por
+58:02
+ejemplo aquí V así Rafa logaritmo no de X bueno de o sea de
+58:11
+8 a la x verdad Cómo se vería x por
+58:16
+logaritmo de 8 Eso es muy útil porque exactamente cuando queremos despejar no
+58:22
+puedes despejar así tú directo el X verdad O sea si tuviéramos 8 a la x muchas
+58:27
+veces se hace esto 8x a la O sea igual a 4 no se aplica logaritmo en ambos lados
+58:33
+acuérdense que en matemática lo que aplicamos de un lado lo aplicamos del otro no y este nos permite sacar el X
+58:41
+verdad Entonces esto este logaritmo de 8 es una constante es un número no igual
+58:47
+logaritmo de 4 que se calcula con calculadora obviamente tú no lo vas a calcular y ya con esto Solo puedes o sea
+58:53
+sacas la división no logaritmo de 4 entre logaritmo de 8 y eso tú ya solo lo
+59:01
+metes a la calculador y ya ya aquí Ya pudiste resolver x lo que no hubieras podido hacer verdad por eso les digo que
+59:08
+esta propiedad es muy importante para las ecuaciones exponenciales esa así si quieren ahí
+59:15
+váyanse aprendiendo quean tatuando lo quieran váyanse aprendiendo esta porque esta es muy útil en ecuaciones
+59:21
+exponenciales y ya les mostré que ecuaciones exponenciales se usa en población en finanzas en interés
+59:26
+compuesto lo vamos a ver también en programación Entonces esta propiedad es muy muy importante es logaritmo de X a
+59:34
+la n no bueno x es que acuérdense que x realmente representa la base o sea el
+59:40
+logaritmo de la base elevado a una potencia lo que quiere decir que tú puedes sacar el exponente dentro de o
+59:46
+sea el exponente que está dentro del logaritmo de la base lo puedes sacar multiplicando y al revés si tú tienes el
+59:54
+exponente Perdón un número multiplicado por un logaritmo este lo puedes meter dentro del logaritmo como potencia no se
+1:00:01
+preocupen de tod lo vamos a volver a ver más veces pero este Esta sí es muy muy importante Así que si pueden írsela
+1:00:07
+aprendiendo Pues sí háganlo porque la verdad es que es muy útil No s Si eso
+1:00:13
+resolvió tu duda Juan Perdón Rafa creo que sí okay No se preocupen tenemos más
+1:00:19
+tiempo vamos a irlo viendo pero si es muy importante que lo tengamos muy en mente Okay chavos pues Bueno nos vemos y
+1:00:28
+cuídense

@@ -1,0 +1,878 @@
+0:03
+Okay chavos Pues bueno bien acuérdense ayer en que nos quedamos ayer vimos un
+0:08
+poco de Pues de teoría de computación no que era lo de matemáticas discretas y
+0:14
+dijimos que las matemáticas discretas no son un área de las Matemáticas que estudia los conjuntos discretos es decir
+0:20
+conjuntos con un número finito contable obiamente infinito de elementos no Okay
+0:26
+acuérdense que bueno las computadoras funcionan en el orden discreto las operaciones son discretas este los bueno
+0:34
+los datos los procesos todo este se puede contar entonces por eso es que tenemos estas áreas no que algunas de
+0:42
+las áreas este importantes de matemática dispierta Y por qué lo vemos son las
+0:47
+siguientes aquí dice no importan aplicación de las Matemáticas discretas las matemáticas discretas son esenciales
+0:53
+en de computación Okay muy bien Ajá aquí hay algunos ejemplos de cómo las matemáticas es quetas bueno lo que les
+0:58
+decía de algoritmos no de algoritmos tenemos este básicamente
+1:03
+nosotros tenemos que ver si nuestro programa es eficiente no lo suficiente como para que se pueda correr Como por
+1:10
+ejemplo hicimos acuérdense aquí la no se guardó no no se guardó esteo no s si se
+1:19
+acuerdan ayer que vimos que
+1:27
+este bueno este Okay este lo de las opciones no acuérdense que ayer vimos un
+1:34
+poco de este de las contraseñas no que si
+1:40
+usábamos pura minúscula que si usábamos este un caso más real no con minúsculas mayúsculas y esto Cuál era la diferencia
+1:47
+si se acuerdan ayer era como del orden de 20,000 este lo cual era bastante
+1:53
+verdad porque bueno acuérdense que vimos no rápido la op a ver si se guarda este
+2:07
+por ejemplo una contraseña No este que sería igual a el por
+2:15
+ejemplo número de caracteres por ejemplo fueran dijimos
+2:22
+que oo lo mínimo No ya sería igual a este por ejemplo opciones no coma
+2:33
+este número de caracteres los dos argumentos de la
+2:39
+función verdad sería ponerle dos puntos lo que vimos ayer chavos no se acuerdan
+2:44
+Este que era bueno Al final era este return no iba a regresar este esto
+2:53
+buo no esto esto elevado a la
+3:03
+esto bien buen acuérdense que vimos un poco no de que por
+3:09
+ejemplo F muy bien Este por ejemplo Estas son
+3:17
+las posibles combinaciones con
+3:26
+pura para hacer esto sería que hiciéramos lo siguiente este
+3:33
+no s 1000 y fuera igual
+3:55
+a y bueno real
+4:02
+punto este igual posibles combinaciones
+4:07
+no y Bueno en vez de opciones pura minúscula le pondría opciones caso real
+4:14
+verdad espérense no aquí Entonces ya ahora sí voy a
+4:20
+poner
+4:25
+puram por ejemplo aquí no este ual F y
+4:33
+[Música] y Estas son las combinaciones con pura
+4:45
+mayúscula bien yá este el real bueno No compa mayúscula
+4:54
+Perdón Estas son las combinaciones en el caso real
+5:11
+y acuérdense que vimos no para hacer la comparación es Okay
+5:19
+e el caso
+5:24
+real es
+5:30
+tiene al
+5:38
+menos estas veces más de
+5:44
+poses combinaciones sería que pusiéramos el este no del Real
+5:58
+entos mácula
+6:06
+verdad este lo vimos no este si quisiéramos acuérdense lo de ayer para
+6:12
+terminar poner lo de ayer se acuerdan que dijimos imagínense que una computadora no que tenemos una
+6:19
+supercomputadora que puede hacer 10 a la 12 operaciones por segundo
+6:28
+no que no O sea eso si es una supercomputadora es algo que no tendríamos
+6:34
+disponible entonces acuérdense no que esto sería el F por ejemplo
+6:42
+el que dijera este se
+6:48
+tardará esta supercomputadora de 10 a la 12
+6:58
+operaciones por segundo
+7:03
+estas horas por ejemplo en horas dijimos que era igual a agarrar por ejemplo este
+7:10
+real no Esta división Real
+7:17
+ent 10 a
+7:26
+la a la 12 no y todo esto entre
+7:31
+3600 porque acuérdense que son los 3600 segundos el número de operaciones Y esto no muy
+7:41
+bien bueno de todos modos hasta teniendo una super computadora no
+7:47
+básicamente se tardaría esto en horas verdad Y esto la verdad es que 10 a la
+7:56
+12 es una yo creo que la computadora mása del mundo Entonces este es bastante
+8:02
+verdad este y esto si fuera ocho en hoy en día hay algunas combinaciones que te
+8:07
+piden 10 no imagínense si lo ponemos en 10 hasta la supercomputadora se tardaría
+8:13
+1039 horas en poder combinar todos no no nada más funciona para por ejemplo para
+8:18
+hackear también funciona para hacer operaciones no imagínense que su algoritmo este tarde este número de
+8:27
+operaciones que tenga que hacer este número de operaciones pues igual se
+8:33
+tardaría este rato chavos o sea es algo que también se tiene que ver porque pues sí O sea sí es cierto que en
+8:40
+programación te dan mucho la Cómo se llama la libertad de que proceso lo que
+8:46
+sea el algoritmo el programa llegue a la misma solución pero si hay unas mejores soluciones que otras
+8:54
+chavo entonces también hay que tener cuidado con eso también no no hacer más operaciones
+9:02
+de las necesarias cuando no te las piden porque puedes pasar cosas como esto hasta una supercomputadora que haga 10 a
+9:09
+la 12 operaciones por segundo se tardará estas horas en poder hacer toas las
+9:15
+combinaciones que 1039 horas lo vemos y lo queremos a ver en días por
+9:20
+ejemplo sería dividir en 24
+9:26
+esto todavía está días chavos una supercomputadora se tardaría por ejemplo
+9:31
+en poder este quear una comput una una una contraseña probar Todas se tardaría
+9:38
+43 días lo cual pues es bastante No muy
+9:44
+bien este Okay eso nada más era para recordar no Bueno lo que le decía
+9:49
+también Estructura de datos no este muchas estructuras de datos vamos a verlas también vas a tener que recordar
+9:56
+un poco lo de programación orientada objetos ahorita lo vamos a volver vez lo que les decía la criptografía que es lo
+10:02
+de las contraseñas no Modern se basa en la teoría de números acuérdense que un área de las que
+10:08
+vimos forma parte de matemáticas discretas que es teoría de números buen Este es un por ejemplo un algoritmo
+10:15
+cifrado no se basa en la aritmética modular A lo mejor vemos tantito eso a
+10:21
+lo mejor este muy bien redes de computadoras las teoría de gafos lo que
+10:26
+les decía esto sirve es exactamente para hacer de manera óptima las Así que las
+10:34
+redes todo el internet no etcétera muy bien Bueno aquí hay algunos ejemplos
+10:39
+luego vamos a verlos no se preocupen n más quería recordarles y Déjenme
+10:52
+ver
+10:58
+bien [Música]
+11:06
+bien bueno algo que sí chavos hay que intentar recordar vamos a vamos a ir
+11:14
+recordando chavos Todo lo que hemos aprendido cierta manera vamos a ponerlo como en práctica así que por ejemplo
+11:23
+miren chavos quiero que les voy a ir poniendo cosas y quiero que uno de ustedes me
+11:29
+vaya diciendo qué es lo que voy poniendo O qué es lo que va a ir haciendo mi código para ir practicando un poco
+11:35
+porque también algo muy importante en programación es que ustedes tienen que aprender a leer el código de las demás
+11:40
+personas y tienen que saber qué hace Por qué Porque miren chavos hoy en día este
+11:46
+si se dedican a programación pues van a tener que programar con más personas entonces sus compañeros de trabajo por
+11:52
+ejemplo harían código y ustedes tendrían que trabajar sobre él o aún así aunque no trabajaban con demás personas y no se
+11:58
+dedic a esto de todos modos les voy a decir la verdad hoy en día ya hay muchos
+12:03
+código para cosas sencillas o cosas no tan avanzadas que es lo que pues yo creo
+12:09
+que el 95 del tiempo se hace entonces Muchas veces puedes Así que irte a internet y agarrar código de Google de
+12:15
+gith de algo así pero vas a tener que adaptarlo entonces al adaptarlo pues vas
+12:21
+a tener que saber qué hace cada línea de código y vas a tener que saber dónde modificarlo Entonces es muy importante
+12:28
+esto bien Por
+12:39
+ejemplo Okay chavos esto Qué es alguien que me
+12:46
+diga una lista muy bien una lista verdad Muy bien a
+12:52
+ver esto
+13:01
+es chavos una tupla muy bien una tup muy
+13:09
+bien una tup muy
+13:16
+[Música] bien eso qué
+13:22
+es un verdad Muy bien qué más
+13:30
+[Música]
+13:39
+Okay unas constantes no no la pregunta va a ser la
+13:57
+siguiente
+14:05
+Con este código que me daría antes de correrlo que me daría el a por
+14:10
+5 antes o sea corriendo lo que
+14:16
+sea 50 mu bien y
+14:23
+aquí 20
+14:29
+10 o 20 Ah no sí 20 sí no bien aquí 50 de verdad mé por
+14:38
+qué es 50 porque aquí vale 10 no
+14:43
+O mira aquí a va a agarrar el este el
+14:50
+valor de 10 no y va a sustituirlo aquí acuérdense que lo guardamos aquí va a
+14:56
+ser 10 * 5 50 porque es 20 miren Aunque r valía 5 al principio acuérdense Cómo
+15:03
+funciona la el igual o las asignaciones en programación o en python es lo mismo
+15:09
+en todos los lenguajes de programación pero este Cómo funciona la el igual alguien que me recuerde cómo
+15:17
+funciona que le estamos asignando un valor sí Pero acuérdense eso ya se los
+15:23
+he dicho muchas veces miren acuérdense que lo que es está en la derecha del
+15:32
+igual se asigna guarda como quieran decirle en lo
+15:41
+que está en la
+15:48
+izquierda del igual no s
+15:57
+chavos o sea aquí por ejemplo miren Qué va haciendo el código de py r = 5 a = 10
+16:06
+aquí chavos acuérdense a vale cuánto 10
+16:11
+entonces r va a guardar el valor de 10 verdad Entonces Bueno aquí cuando lo
+16:17
+llamamos no r vale 10 y va a ser 10 * 2 20
+16:24
+No sí acuérdense que el igual significa
+16:30
+asignación significa guardar y cómo funciona lo que esté en la derecha del igual se ejecuta o sea python corre si
+16:38
+aquí fueran 1000 cosas las ejecutaría todas y luego las guardaría al final
+16:44
+solo en lo que está en el lado izquierdo sí
+16:52
+chavos okay
+17:03
+acuérdense que las funciones las puedo llamar como quiera O sea no es lo más correcto y lo más intuitivo Es que le
+17:09
+pongas el nombre de lo que hace la función no obviamente aquí no lo voy a poner porque si no no tendría caso pero
+17:16
+este
+17:27
+okay
+17:57
+H
+18:27
+al
+19:42
+Okay
+19:53
+chavos a ver quién vamos línea por línea aquí Qué estaría haciendo python
+20:00
+alguien haciendo una lista muy bien estamos
+20:05
+creando una lista la lista
+20:12
+acá Okay aquí Qué estamos
+20:18
+haciendo otra lista muy bien creando la
+20:24
+lista la lista G muy bien aquí Qué
+20:30
+estamos haciendo fun
+20:36
+vale definiendo una función definiendo una función
+20:44
+verdad con cuántos argumentos
+20:49
+dos dos argumentos verdad Muy bien aquí en el for acu
+20:58
+Qué estamos haciendo iteración se para que vaya
+21:05
+índice por no no índice por índice no ya estaría haciendo
+21:13
+el va tomar los valores que corresponda cada uno de los valores de la lista exactamente elemento por elemento no va
+21:21
+tomando elem no va tomando los valores
+21:31
+de la lista V
+21:38
+no uno por uno cada
+21:43
+ciclo Okay Qué quiere decir chavos A ver primero antes que nada les voy a
+21:51
+preguntar Cuántos Bueno aquí no se sabe todavía pero aquí en este bueno bueno
+21:58
+llegamos mejor este aquí este qué va a ser el s esta
+22:04
+línea qué va a ser donde estoy
+22:10
+ahorita Bueno aquí Me falta una cosa aquí lo meot si no le
+22:21
+pongo Okay muy bien aquí por qué me faltó eso pero aquí
+22:28
+qué estoy haciendo alguien
+22:38
+sabeo Perdón definir las variables antes
+22:44
+empar pero por en cero chavos y no en 20 o en 100 o 500 Ah para que estén
+22:51
+vacías inicial no inalamos la suma
+23:02
+igual inicializando la suma en
+23:08
+cero Okay aquí qué estoy
+23:16
+haciendo pues primero le vas a estar sumando el primer valor de la lista a
+23:22
+cer y luego se repite el ciclo y así por cada elemento comando
+23:28
+cada uno de los elementos de la lista
+23:40
+No pues este hace lo mismo verdad Esto va a ser lo mismo nada más
+23:47
+que para la otra lista no la
+23:53
+lista no es de la lista cuál
+23:58
+V sí o no sí Y aquí Qué está haciendo este
+24:06
+final multiplicando los dos valores ya al final de la l Bueno del la variable s
+24:13
+y la me va a regresar no exactamente la
+24:19
+multiplicación entre los valores de s
+24:28
+y F no muy bien okay A este caso específico
+24:35
+chavos aquí es bueno antes de iniciar este qué estamos haciendo aquí o cómo se le
+24:41
+llama llamando la función muy bien
+24:47
+Llamar invocar continuaremos la
+24:53
+función x no muy
+24:59
+bien Qué más a ver vamos Ahora sí a este caso en
+25:05
+específico Cuántas veces Cuántos
+25:13
+ciclos se va a
+25:18
+correr el primer
+25:25
+for cu cuatro veces verdad si ven por
+25:33
+qué Porque son cuatro elementos exactamente muy bien se va a correr el
+25:39
+primer for cuatro veces porque la lista
+25:45
+K tiene cuatro
+25:51
+elementos muy bien aquí pues ahora s que va ser la misma casi pregun
+26:13
+el segundo for Cuántas veces chavos tres veces
+26:26
+bien l
+26:34
+tiene o no chavos Ok aquí por
+26:46
+[Música] ejemplo bien es por ejemplo
+26:56
+no bien en cada cico cico
+27:03
+uno antes de
+27:24
+iniciar antes de iniciar Cuánto vale ese
+27:36
+chavos antes de iniciar cer cero no lo definimos como cero muy
+27:43
+bien perfecto bien gracias Carlos este qué
+27:49
+más okay en el ciclo un qué va a ser este
+27:56
+es + 2 0 + 2 no muy
+28:06
+bien en el ciclo dos cuánto va a valer
+28:16
+es va a ser 2 + 3 o sea va a valer 5 bien va a
+28:23
+[Música] ser acuérdense del resultado final bueno
+28:29
+es acuérdense que es terminaría valiendo no dos aquí cuánto terminaría valiendo
+28:42
+ese cinco no en el tercer
+28:52
+ciclo cómo sería Ay no sé si se alcanza a ver
+29:00
+sería 4 + muy
+29:07
+bien lo cual nos
+29:14
+daría no
+29:24
+4 cuánto sería 10 + 9
+29:40
+bien dónde salió el nu del 4 má 5
+29:49
+no vamos actualizando vamos sumando prácticamente lo que está haciendo este
+29:55
+sumando todos los de esta lista no 2 + 3 5 + 4 9 + 10 19 no cómo lo hace
+30:07
+el p lo hace como estamos haciendo Aquí esta variable item va a ir agarrando el
+30:14
+valor de cada uno de los elementos no índices elementos de la lista no
+30:19
+entonces item la primera vez va a valer cuánto dos y cuánto vale ía nuestro
+30:27
+valor de s 0 entonces 0 + 2 2 no muy
+30:33
+bien s ahora ya vale 2 entonces va a ser este 2 más el segundo elemento no de K
+30:42
+que es 3 3 + 2 5 y así no es lo que va siendo el for Loop o sea básicamente
+30:49
+este for Loop nos está permitiendo hacer la sumatoria de los elementos en esta lista Sí no chavos sí
+30:57
+Okay muy bien Ahora vamos a una pregunta maestro creo que falta el comando de
+31:04
+print no m Pues no porque la verdad es que no lo queremos regresar sea no nos
+31:10
+interesa Eso lo único que nos interesa es este resultado final Bueno si lo
+31:15
+quisiéramos poner en pantalla si te refieres a esto sí si lo quisieramos poner en pantalla
+31:22
+Sí ándale sí Llamar bueno imprimir
+31:28
+el llamado invocado de la función
+31:38
+no Okay muy bien a ver chavos ahora yo ya ya tienen
+31:45
+la estructura vayan diciendo antes de iniciar igual ahora
+31:54
+con f antes de iniciar cuánto vale
+32:00
+F cero muy bien cuánto va a ser el
+32:09
+ciclo el ciclo un no F cuánto va a
+32:20
+valer alen
+32:26
+chavos
+32:32
+sin pena 10 + 0 muy
+32:39
+bien lo cual nos daría
+32:44
+10 bien en el ciclo
+32:51
+dos F cuánto valdría 2 +
+32:59
+10 lo cual nos
+33:05
+daría 12
+33:13
+Okay no
+33:20
+Okay a ver 1 + 12 bien
+33:36
+Okay y bueno el return el s por F
+33:42
+cuántos nos daría 247 bien No sé Déjame ver yo creo que
+33:55
+sí sí perfecto nos daría 247 porque esto no es si
+34:05
+multiplicar 19 no
+34:12
+por bien eso es algo muy importante que
+34:18
+tienen que hacer en código este tienen que saber no Esta es una muy mala
+34:26
+práctica en el sentido de no ponerle los nombres no Pero hay gente rara que sí lo
+34:32
+hace a veces o no es tan claro el nombre
+34:37
+como lo que hace no Entonces como no es tan claro el nombre como lo lo que hace
+34:44
+ustedes tienen que ver el código y entender Qué hace muy bien aquí lo fuimos haciendo
+34:50
+línea por línea parte por parte por ejemplo aquí vimos siquio por psio que iba haciendo la lógica etcétera
+34:58
+muy bien chavos este qué más puede ser
+35:04
+bueno bien Vamos a ver tantito de lo que estábamos en el tema último de
+35:10
+programación orientada objetos no bien hay que acordarnos de todo lo de
+35:16
+programación orientada a objetos que hemos visto en progr
+35:25
+m cuando se acabó la batería de la Tenía la duda de que si la otra cosa
+35:33
+que puso de programación cuando lo imprimes muestra la pregunta o muestras también los ciclos cuál no entiendo a
+35:40
+Cuál es la cuál cosa que si muestra los ciclos O
+35:46
+solamente muestra la respuesta no Mira tú a python si no le dices que te imprime algo no te va a mostrar Nada
+35:54
+aquí el único print que tienes es esto Entonces esto Solo te va a dar el
+35:59
+resultado final no O sea si nosotros lo corremos lo único que te daría
+36:14
+es o sea con python con los lenguajes de programación tú tienes que ser muy específico qué quieres si por ejemplo
+36:20
+aquí Bueno estos dos sean de los resultados de los ejercicios previos no estos pero de todo este código
+36:30
+Rafa lo único que te imprime es el
+36:37
+247 Por qué Porque tú solo le estás pidiendo que te imprima esto y el return
+36:43
+acuérdate Mira el return es el valor que te regresa el valor de salida Cuál es el
+36:49
+único valor de salida s por F no Entonces cuando tú imprimes el valor de
+36:55
+salida está imprimiendo el valor de este no s por F que en este caso para lo que
+37:01
+pusimos es 247 por eso es 247 más o
+37:08
+menos Sí muy bien okay vamos a ver
+37:14
+tantito más de programación orientada objetos acuérdense lo que hemos visto
+37:20
+las queases en python se definen con casas y esto acuérdense que esto es como
+37:25
+si fuera un sea unos planos aquí nosotros no tenemos el poche aquí en la que hace nosotros
+37:33
+definimos el plano del coche sin embargo no lo tenemos cuandoo creamos el coche
+37:40
+lo creamos Cuando hacemos esto aquí lo dice creando un objeto No que cómo se
+37:47
+hace el nombre del objeto ustedes le pueden poner el que quieran acuérdense es como una variable ustedes le pueden
+37:53
+poner el nombre que quieran el nombre de la quease no que aquí definimos y sus argumentos si es que
+38:00
+tiene algunos obligatorios Cuáles son obligatorios Cuando tenemos esta función especial de dos guiones bajos init dos
+38:09
+gu dos gu bajos y ponemos dentro de esto este argumentos obligatorios como marca
+38:15
+modelo y color todo método debe de tener el argumento self Por qué Porque en la
+38:23
+que hace cuando nosotros quedamos objetos el self se dice mismo así mismo
+38:28
+propio o sea va a agarrar el valor propio el valor mismo del objeto o sea
+38:34
+va a agarrar Ah bueno para mi coche le voy a asignar Toyota Corolla y rojo para
+38:40
+mi coche dos le voy a asignar Volkswagen Jetta y az Jetta y azul
+38:48
+no Okay est es crear objetos chavos dijimos que algo muy importante Por qué
+38:54
+se usa programación orientada objetos es es para no más bien Es para reutilizar el código por ejemplo les había dicho
+39:01
+los casos reales es como estos botones Google hace una cl hace de botón y solo
+39:08
+le pone herencia y le modifica sus atributos etcétera Pero no va a estar haciendo el código para todos los
+39:14
+botones no Entonces es así chavos en los videojuegos acuérdense que dijimos en el
+39:21
+FIFA uno de sus compañeros dijo que tenía 17000 jugadores el FIFA los programadores de Fifa que vean
+39:27
+un solo o sea que vean el jugador la que hace jugador y ya para cada uno de los jugadores para cada objeto le van
+39:34
+editando sus parámetros no o pueden crear así este jugador a jugador B O sea
+39:42
+dependiendo de los buenos los regulares etcétera y solo le van cambiando con herencia pero no van a estar haciendo no
+39:49
+van a estar copiando y pegando las todos los Así que todos los atributos y todos
+39:54
+los métodos para cada jugador primero sería muy pesado segundo sería muy fácil que hubiera errores y tercero Sería
+40:01
+mucho escribir el código entonces muchos archivos había un caos total en el
+40:08
+código etcétera entonces se usa ahora sí que esto de programación orientada
+40:13
+objetos para reutilizar el código muy bien atributos chavos dijimos que por
+40:22
+ejemplo cómo nosotros invocamos un método cuál es la diferencia entre
+40:27
+invocar un método y un atributo Aquí está Cómo Cuál es la
+40:37
+diferencia alguien
+40:43
+chavos Cuál es la diferencia chavos en los paréntesis muy bien Rafa perfecto si
+40:50
+te das cuenta para los métodos requerimos el paréntesis Mira es nombre del objeto punto nombre del método y
+40:59
+paréntesis el paréntesis lo necesitamos poner porque así python identifica luego luego Ah mira este está llamando un
+41:05
+método si no le pone paréntesis dice python Ah mira está este está llamando
+41:10
+un atributo Entonces es con los paréntesis es como acuérdense las funciones como nosotros
+41:25
+invocándose no Por ejemplo si este tuviera argumentos
+41:31
+No aquí irían no el atributo no porque el atributo no puede tener argumentos
+41:36
+porque solo es un dato es un valor es como las variables acuerd que dijimos que los atributos sean como las
+41:41
+variables dentro de una clase muy bien otras aplicaciones reales dijimos por
+41:48
+ejemplo como wolfram o Estas que te venden las calculadoras o cualquiera de la versión de paga no la versión gratu y
+41:56
+versión de paga ellos lo que hacen es con herencia jalan todas las propiedades
+42:01
+y los atributos que tenía la calculadora normal y solo le agregan más métodos o le agregan más atributos pero no van a
+42:08
+estar volviendo a rescribir el código de la calculadora normal solo lo heredan muy bien con atributos métodos
+42:18
+acuérdense que es el nombre de el objeto punto el nombre del método paréntesis Y
+42:25
+si tuviera argumento pues suos argumentos
+42:30
+Okay muy bien aquí era la parte de herencia
+42:36
+chavos aquí acuérdense que herencia Cómo heredamos cuando estamos definiendo una
+42:42
+que hace ponemos el nombre de la que hace paréntesis y dentro del paréntesis ponemos la que hace
+42:52
+padre es algo así para nosotros hacer herencias cas nombre que hace hijo
+43:02
+paréntesis nombre que hace
+43:07
+padre si lo ven chavos y bueno los dos
+43:15
+puntos muy bien okay Este en herencia pues vamos a
+43:22
+heredar todas las características este todos los atributos y
+43:28
+este este métodos no de la que hace padre por qué Porque por ejemplo el
+43:34
+coche posee todos los atributos de un vehículo sin embargo no todos los vehículos poseen las características de
+43:41
+un coche verdad como una bicicleta una patineta no No necesariamente tiene los atributos de un coche como un motor o
+43:49
+llantas o lo que sea muy bien y bueno
+43:54
+vamos a ver lo p bueno de programación orientada objetos es que todos los
+44:00
+lenguajes de programación modernos este utilizan esto por ejemplo c+ má c C
+44:08
+sharp csharp lo usan para videojuegos igual que c+ más este por ejemplo
+44:14
+javascript es mucho para internet este qué más pues bueno swis que es con el
+44:20
+que programan las aplicaciones en el iPhone no el iPad el iOS este Coin que
+44:28
+es el con el que programan hoy en día este las de Android no
+44:33
+etcétera lo bueno de esto es que los conceptos los estamos viendo y esto se aplica en todo los cuatro Pilares de
+44:40
+programación orientada objetos uno es la herencia Qué dice la herencia es un
+44:49
+mecanismo que permite que una nueva clase herede las propiedades y métodos de una clase existente la que hace
+44:56
+existente se llama que hace vaso que hace padre y la nueva que hace se llama que hace derivado que hace hijo muy
+45:03
+bien polimorfismo Qué significa polimorfismo chavos poli Qué
+45:11
+significa muchas muchas muy bien y
+45:19
+morfismo referente a forma no muy bien exactamente morfo morfismo de forma
+45:26
+Entonces el polimorfismo no se refiere a la capacidad de adoptar múltiples formas en programación orientada a objetos una
+45:34
+interfaz puede ser adoptada por múltiples clases Okay Dos clases podrían
+45:40
+tener el mismo método pero comportarse de manera diferente yo lo digo que es como ustedes y sus hermanos Por ejemplo
+45:46
+si tienen un hermano un hermana un primo lo que sea este su primo o su hermano puede tener
+45:53
+un concepto totalmente diferente de Qué es hacer una clase Perdón una fiesta y
+45:59
+qué es estudiar no o hacer ejercicio Por ejemplo si su hermano le gusta mucho ir
+46:06
+al gimnasio pues va a ser el gimnasio y si a ustedes les gusta correr pues va a ser correr verdad Los dos están haciendo
+46:13
+ejercicio sin embargo son diferentes acciones No eso es lo que
+46:19
+quiere decir aquí por ejemplo que o sea lo que quiere decir básicamente aquí es que podemos
+46:24
+tener métodos con el mismo nombre pero si son de diferente Qué haces se van a
+46:31
+comportar diferente como aquí miren en la que hace perro definimos la que hace perro no y le ponemos un método el
+46:39
+método laddo no bueno el método sonido perdón el método sonido y qué me va a regresar cuando lo
+46:46
+llame me va a regresar la adido no y la de gato chavos me va a regresar
+46:55
+el sonido también es el mismo método sonido pero en vez de regresarme ladrido qué me va a regresar maullido maullido
+47:03
+no muy bien aquí bueno Esto lo pusimos porque este luego creo que había la
+47:08
+confusión a veces de que acuérdense en las funciones como en los métodos los
+47:14
+argumentos son como placeholders Qué es un placeholder
+47:23
+chavos eso un nombre un nombre del momento temporal muy bien Rafa es un
+47:31
+nombre que tú pones mientras porque te lo están pidiendo pero todavía no lo defines bien Es como por ejemplo yo
+47:37
+siempre lo digo cuando estamos trabajando para no sé para el trabajo o para la escuela un ensayo no le ponemos
+47:45
+ensayo uno ensayo dos ensayo tres pero no le vamos a llamar así obviamente luego le vamos a poner no sé ensayo de
+47:52
+programación de matemáticas discretas ya le Le ponemos el nombre al final verdad
+47:57
+Pero mientras le ponemos un Place holder básicamente es lo que hace aquí por qué
+48:03
+Porque aquí python le vale el nombre que le pongas es como las variables No aquí solo python está identificando que lo
+48:10
+que cuando estás definiendo el método eso solo aplica cuando estás definiendo el método cuando estás definiendo el método aquí solo python dice Ah mira el
+48:17
+argumento uno Ese es el argumento en la posición uno no algo que sí es muy importante es que esto lo que le Bueno
+48:25
+aquí en el momento de asignarlo por ejemplo aquí en mi perro mi perro va a tomar el este valor bueno el placeholder
+48:31
+animal este argumento va a tomar el valor de mi perro y aquí mi perro lo
+48:37
+cambiaría lo sustituiría por mi perro punto sonido si lo ven o no
+48:44
+chavos mm más o menos lo ven punto sonido mm el
+48:55
+mi perro punto sonido haría el método no de perro
+49:01
+no Sonido el método sonido y qué me regresaría Ah la divido
+49:09
+verdad bien Vamos a ver Déjenme
+49:22
+ver para emitir sonido en mi perro me va a regresar laddo y para emitir sonido en
+49:28
+mi gato me va a regresar maullido lo que quiere decir chavos Es que aquí nosotros
+49:34
+al aplicar el punto sonido para mi perro y para mi gato aunque los dos sean puntos sonido uno me
+49:42
+va a dar nido y el otro me va a dar maullido o sea Qué quiere decir que podemos tener dos métodos con el mismo
+49:48
+nombre pero van a ser dos cosas diferentes no Por qué Porque estamos aplicándolos a dos objetos diferentes
+49:54
+los cuales tienen que haes diferentes qué es lo que les digo chavos o sea ustedes pueden ser del mismo papá
+50:01
+pueden tener su hermano pero el concepto o lo que va cuando tu hermano dice voy a hacer ejercicio puede ser muy diferente
+50:09
+a lo que ustedes se refieran cuando digan voy a hacer ejercicio verdad son dos objetos diferentes dos que haces
+50:15
+diferentes No sí
+50:20
+chavos más o menos agarran la lógica del polimorfismo
+50:27
+tranquilo digo toos les digo esto es un es el contenido de un curso de todo un semestre de universidad Así que ahí
+50:34
+vamos lo de todos modos luego lo vamos a volver a ver ya más aplicado lo que quiero que vayan
+50:39
+aprendiendo es los nombres o sea Qué hacen Qué es herencia es uno de los
+50:45
+cuatro Pilares otro de Los pilares es este el polimorfismo ya no nos da tiempo
+50:51
+no pero bueno nada más para que su cerebro se empape tantito y los vea otros es
+50:59
+encapsulación y dice la encapsulación es un mecanismo para restringir el acceso de algunos componentes de un objeto lo
+51:05
+que significa que las variables internas de un objeto no se pueden cambiar directamente en lugar de eso Si queremos
+51:12
+cambiar el valor de las variables debemos utilizar métodos específicos para hacer hacerlo okay esto es a veces
+51:18
+cuando no queremos que el usuario nos modifique tanto las cosas no tenemos ya
+51:23
+valores este Ya está vidos no y no queremos que el
+51:29
+usuario lo pueda modificar así de manera sencilla entonces para esto sirve lo de
+51:35
+encapsulación luego vamos a ver más ejemplos y abstracción también mir la abstracción es un mecanismo que permite
+51:42
+a los programadores ocultar detalles de implementación Y Mostrar solo la funcionalidad al usuario eso es como lo
+51:49
+de los bancos chavos o sea esto sirve por ejemplo para información encriptada o información que no queremos que el
+51:55
+usuario vea no porque por ejemplo a nadie le gustaría este que vieran los
+52:01
+mensajes de Facebook de ustedes no O lo de su celular o lo o peor aún las
+52:06
+cuentas de banco no no les gustarían este al sistema de banco no O sea no te
+52:12
+puede dejar que tú veas unos datos que no deberías no Pues básicamente para
+52:18
+esto sirve no Mostrar solo la funcionalidad al usuario además de todo
+52:23
+porque al usuario no le interesa todo el código que está detrás el el usuario solo quiere poner una cosa y que le dé
+52:28
+lo que él quiere no entonces también para eso funciona la
+52:34
+abstracción luego vamos a ver estos que son los métodos abstractos por eso les
+52:39
+decía todo esto de progamación entado objetos es lo de un semestre chavos entonces tranquilos no esperen a
+52:46
+aprendérselo Ahorita todava tenemos seis semanas más de curso Así que tranquilos este too lo vamos a ver aplicado no este
+52:55
+pero sí es muy importante que se lo aprendan porque la programación orientada a objetos es el estos cuatro
+53:00
+Pilares es el programación orientada a objetos el cual es Los Pilares pues de todos los lenguajes de programación
+53:07
+modernos entonces y les va a ser más fácil una vez aprendiendo todos esos
+53:12
+conceptos estructuras de datos algoritmos un poco de esto análisis de datos etcétera va a ser mucho más fácil
+53:19
+que puedan cambiar de lenguaje si lo necesitan no digo con pyon Pueden hacer
+53:24
+muchas cosas pero igual si lo necesitaban podían aprender de manera más fácil este otro lenguaje con eso
+53:31
+porque son las bases no sé si tengan Una última pregunta o
+53:40
+duda mm así estoy bien
+53:47
+Sí bueno si no chavos de todos modos o sea yo Les recomiendo que vean los
+53:53
+apuntes Vean este apunte acuerden que está aquí en en el de semana uno notas
+53:58
+está este el largote el que tiene casi todo también bueno acuérdense aquí lo de
+54:04
+la semana en nota semana cuatro y en recall ustedes pueden ver ejercicios no
+54:09
+como este que ahorita estábamos haciendo viendo qué significaba cada parte del código los pasados etcétera no pueden
+54:18
+ver las grabaciones acuérdense pu en semana videos no ahí los ven vyan lo
+54:24
+viendo vayan practicando primero véanlos bien no pueden practicar si no lo saben
+54:29
+Entonces porque eso luego las personas piensan de que ay voy a practicar sin no primero vean las que haces Y ya después
+54:35
+pueden ponerse a practicar Porque de nada con qué van a practicar si no tienen como el material en su mente
+54:42
+Entonces primero vean las clases y ya después se ponen a práctica están todos los recall recall TR o el recall 2 o el
+54:50
+recall un ahí lo pueden estar checando Okay chavos
+54:56
+Bueno nos vemos y cuídense mucho chavos Gracias profe nos vemos Gracias
+55:05
+nada
