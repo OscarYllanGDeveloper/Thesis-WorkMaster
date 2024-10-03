@@ -1,0 +1,1091 @@
+Introduction
+0:02
+have you ever heard of the expression
+0:04
+sohcahtoa
+0:07
+what do you think this expression means
+0:11
+in this lesson we're going to focus on
+0:13
+right triangle trigonometry
+0:15
+let's say if this is the angle theta
+0:19
+now there's three sides of this triangle
+0:21
+that you need to be familiar with
+0:24
+opposite to theta this is the opposite
+0:26
+side
+0:28
+and next to the angle of theta is the
+0:29
+adjacent side
+0:32
+and across the box or the right angle of
+0:34
+the triangle which is the hypotenuse
+0:38
+that's the longer side of the triangle
+0:42
+now if you recall
+0:45
+this is a b and c the pythagorean
+0:48
+theorem applies to right triangles a
+0:50
+squared plus b squared is equal to c
+0:52
+squared
+0:53
+but we're not going to focus on that too
+0:55
+much but just be familiar with that
+0:56
+equation
+1:01
+now let's talk about the six trig
+1:02
+functions in terms of sine cosine
+1:05
+tangent
+1:06
+opposite adjacent hypotenuse
+1:09
+sine theta
+1:11
+according to sohcahtoa
+1:13
+s is for sine o is for opposite h is for
+1:15
+hypotenuse sine theta is equal to the
+1:18
+opposite side
+1:19
+divided by the hypotenuse
+1:22
+cosine theta
+1:24
+is equal to the adjacent side
+1:26
+divided by the hypotenuse
+1:29
+k
+1:29
+is for cosine is adjacent over
+1:31
+hypotenuse
+1:33
+and tangent theta
+1:36
+toa
+1:37
+is equal to the opposite side divided by
+1:40
+the adjacent side so that's the tangent
+1:42
+ratio it's opposite over adjacent
+1:45
+now we know that cosecant
+1:47
+is one over sine so cosecant is
+1:50
+basically hypotenuse divided by the
+1:52
+opposite side you just need to flip
+1:56
+this particular fraction
+1:58
+secant
+1:59
+is the reciprocal
+2:01
+of cosine so secant is going to be
+2:03
+hypotenuse divided by the adjacent side
+2:07
+cotangent
+2:08
+is the reciprocal of tangent so if
+2:10
+tangent is opposite over adjacent
+2:12
+cotangent is adjacent divided by the
+2:15
+opposite side
+Example
+2:17
+now let's say if we're given
+2:19
+a right triangle
+2:22
+and we have the value of two sides let's
+2:25
+say this is three and this is four
+2:27
+and here is the angle theta
+2:29
+find the missing side of this right
+2:31
+triangle
+2:32
+and then
+2:34
+find the values of all six trigonometric
+2:37
+functions sine cosine tangent secant
+2:39
+cosecant cotangent
+2:42
+now to find the missing side
+2:43
+we need to use the pythagorean theorem
+2:46
+a squared plus b squared is equal to c
+2:48
+squared
+2:49
+so a is three b is four
+2:52
+and we gotta find missing side
+2:54
+c
+2:55
+which is the hypotenuse
+2:58
+three squared is nine four squared is
+3:00
+sixteen
+3:01
+nine plus sixteen is 25
+3:04
+and if you take the square root of both
+3:06
+sides
+3:07
+you can see that the hypotenuse is 5.
+3:10
+now it turns out that there are some
+3:11
+special numbers
+3:18
+there's the three four five right
+3:19
+triangle the 5 12 13 right triangle
+3:23
+the 8 15 17 right triangle
+3:26
+and the 7 24 25 right triangle
+3:31
+and any whole number ratios or multiples
+3:33
+of these numbers will also work for
+3:35
+example if we multiply this by 2
+3:38
+we'll get 6 8 10.
+3:40
+that can also work or
+3:43
+if you multiply by 3
+3:47
+you get the 9 12 15 triangle
+3:50
+if you multiply this one by 2 you get
+3:51
+the 10
+3:52
+24 26 triangle
+3:55
+those are also special triplets
+3:59
+they work with any right triangle
+4:02
+now some other numbers that
+4:04
+are less common but you might see
+4:06
+are the 9 40 41 triangle and the 1160
+4:09
+61.
+4:13
+so if you see some of these numbers you
+4:14
+can find the missing side quickly
+4:16
+if you know them
+4:18
+so now let's finish this problem
+4:21
+so what is the value of sine theta
+4:24
+so according to sohcahtoa
+4:27
+we know that sine theta
+4:29
+is equal to the opposite side divided by
+4:31
+the adjacent side
+4:32
+and the part so
+4:35
+soh
+4:36
+opposite to
+4:38
+theta
+4:40
+is
+4:40
+4.
+4:42
+and hypotenuse is five so therefore sine
+4:45
+theta
+4:46
+is going to be four divided by five
+4:49
+now cosine theta
+4:51
+is equal to the adjacent side divided by
+4:53
+the hypotenuse
+4:56
+we said 4 is the opposite side
+4:58
+5 is the hypotenuse and 3 is the
+5:00
+adjacent side so in this case is going
+5:02
+to be 3 divided by 5.
+5:05
+so that's the value of cosine
+5:08
+now let's find the value of tangent
+5:11
+tangent theta according to toa
+5:13
+is equal to the opposite side divided by
+5:16
+the adjacent side
+5:17
+so that's going to be 4 divided by 3
+5:20
+so that's the value of tangent
+5:23
+now once we have these three we can
+5:24
+easily find the other three
+5:26
+to find cosecant
+5:28
+it's one over sine so just flip this
+5:30
+fraction is going to be five over four
+5:33
+and secant is the reciprocal of cosine
+5:36
+so flip this fraction secant is going to
+5:38
+be five over three
+5:40
+cotangent is the reciprocal of tangent
+5:42
+so if cotan i mean if tangent's four
+5:45
+over three cotangent is going to be
+5:47
+three over four and that's how you could
+5:49
+find the value of the six trigonometric
+5:51
+functions
+5:53
+let's try another problem
+5:58
+so let's say this is theta again
+6:00
+and this side is eight and this side is
+6:02
+17.
+6:03
+find the missing side
+6:05
+and then
+6:06
+use the completed triangle to find the
+6:08
+value of the six trigonometric functions
+6:10
+so go ahead and pause the video and work
+6:12
+on this problem
+6:13
+so first we need to know that this is
+6:15
+the 8 15 17 triangle
+6:18
+if you ever forget you can fall back to
+6:20
+this equation
+6:23
+so a is 8 we're looking for the missing
+6:25
+side b and the hypotenuse is 17.
+6:28
+8 squared is 64
+6:30
+and 17 squared is 289
+6:34
+289 minus 64 is 225
+6:38
+and we need to take the square root of
+6:39
+both sides and the square root of 225 is
+6:42
+15
+6:43
+which gives us the missing side of the
+6:45
+triangle
+6:48
+so now go ahead and find the value of
+6:50
+sine theta
+6:51
+cosine theta
+6:53
+tangent theta
+6:55
+and then cosecant theta
+6:58
+secant theta
+6:59
+and cotangent theta
+7:02
+so using sohcahtoa
+7:05
+we know that sine
+7:07
+is equal to the opposite side divided by
+7:10
+the hypotenuse
+7:14
+so let's label all the three sides 17 is
+7:16
+the hypotenuse
+7:19
+8 is the adjacent side
+7:21
+and opposite to theta is 15.
+7:24
+so opposite over hypotenuse this is
+7:26
+going to be 15 divided by 17.
+7:29
+so that is the value
+7:30
+of sine theta now cosine theta
+7:34
+is going to be equal to the adjacent
+7:36
+side
+7:37
+divided by the hypotenuse
+7:39
+so the adjacent side is 8 they have hot
+7:42
+news is 17. so cosine theta
+7:45
+is 8 over 17.
+7:47
+tangent based on toa is going to be
+7:50
+opposite
+7:52
+over adjacent
+7:54
+so opposite is 15 adjacent is 8.
+7:57
+therefore tangent
+7:58
+is going to be 15 divided by eight
+8:01
+now cosecant is the reciprocal of sine
+8:04
+so if sine theta is 15 over 17 cosecant
+8:07
+is going to be 17 over 15.
+8:11
+secant is the reciprocal of cosine so if
+8:14
+cosine is 8 over 17 secant is 17 over 8.
+8:17
+you just got to flip it and cotan is a
+8:19
+reciprocal of tangent
+8:21
+so cotangent is going to be 8 over 15.
+8:24
+just flip this fraction
+8:26
+and now we have the values
+8:28
+of the six trigonometric functions
+8:31
+and that's all you gotta do
+8:34
+so here's a different problem
+8:38
+so let's say here's our right angle and
+8:41
+this time this is theta
+8:45
+and let's say the hypotenuse is 25
+8:48
+and this side is 15.
+8:51
+find the missing side and then go ahead
+8:52
+and find the value of the six
+8:54
+trigonometric functions
+8:57
+so this is going to be similar to the
+8:58
+three four five triangle
+9:01
+notice that if we multiply everything by
+9:03
+five
+9:04
+we'll get two
+9:05
+of the three numbers that we need three
+9:07
+times five is fifteen four times five is
+9:09
+twenty five times five is twenty five
+9:13
+so we have the fifteen
+9:16
+and we have the twenty five
+9:18
+therefore the missing side must be
+9:20
+twenty
+9:24
+and you could use the pythagorean
+9:25
+theorem to confirm this if you want to
+9:31
+so now let's go ahead and find the value
+9:33
+of sine theta
+9:35
+so opposite to theta
+9:37
+is 20.
+9:39
+the hypotenuse is always across the box
+9:42
+it's the longer side
+9:43
+so 27 is the hypotenuse
+9:46
+and adjacent to 15 or right next to it
+9:49
+is 15.
+9:51
+i mean adjacent to theta is 15.
+9:55
+now sine theta we know it's opposite
+9:57
+divided by hypotenuse so it's 20
+10:00
+over 25
+10:02
+which reduces to 4 over 5.
+10:04
+if we divide both numbers by 5. 20
+10:06
+divided by 5 is 4
+10:08
+25 divided by 5 is 5.
+10:12
+cosine theta
+10:14
+is adjacent over hypotenuse so that's 15
+10:16
+divided by 25 which reduces to 3 divided
+10:19
+by 5.
+10:21
+tangent theta
+10:22
+is opposite over adjacent
+10:25
+so 20 over 15
+10:27
+which
+10:28
+becomes
+10:30
+if you divide by 5 that's going to be 4
+10:32
+over 3.
+10:34
+now cosecant is the reciprocal of sine
+10:37
+so it's going to be 5 over 4
+10:39
+based on
+10:41
+this value
+10:43
+and if cosine is 3 over 5
+10:47
+then secant the reciprocal of cosine has
+10:49
+to be 5 divided by 3.
+10:52
+now if tangent
+10:54
+is 4 over 3 cotangent has to be 3
+10:58
+divided by 4.
+11:00
+and so that's it for this problem
+11:04
+consider the right triangle
+11:08
+in this right triangle find
+11:10
+the missing side in this case find the
+11:12
+value of x let's say the angle is 38
+11:15
+degrees
+11:16
+and this side is 42.
+11:19
+so what trig function
+11:21
+should you use in order to find the
+11:23
+value of x
+11:24
+should we use sine cosine or tangent
+11:27
+well relative to 38
+11:30
+we have the opposite side
+11:32
+which is x
+11:34
+and the adjacent side
+11:36
+which is 42.
+11:37
+so tangent we know it's opposite over
+11:39
+adjacent so therefore tangent
+11:42
+of the angle 38 degrees
+11:44
+is equal to the opposite side x
+11:47
+divided by the adjacent side 42
+11:50
+so in order to get x by itself we need
+11:51
+to multiply both sides by 42.
+11:56
+so these will cancel
+11:57
+so therefore x
+11:59
+is equal to 42
+12:01
+tangent of 38
+12:04
+so we need to use the calculator to get
+12:06
+this answer
+12:07
+and make sure your calculator is in
+12:09
+degree mode
+12:12
+so tan 38
+12:14
+which is 0.7813
+12:19
+and let's multiply that by 42
+12:22
+so this will give you an x value of 32.8
+12:31
+now let's try another example
+12:37
+feel free to pause the video to work on
+12:38
+each of these problems by the way
+12:41
+so let's say this angle is 54 degrees
+12:44
+and we're looking for the value of x and
+12:47
+hypotenuse is 26
+12:49
+which trig function should we use sine
+12:52
+cosine of tangent
+12:54
+so opposite to the right angle we know
+12:56
+it's the hypotenuse
+12:58
+and x is on the adjacent side relative
+13:01
+to 54.
+13:03
+so cosine
+13:04
+is associated with adjacent and
+13:06
+hypotenuse
+13:07
+so therefore cosine of the angle 54
+13:10
+is equal to the adjacent side x divided
+13:13
+by
+13:13
+the hypotenuse of 26
+13:16
+so to get x by itself we got to multiply
+13:18
+both sides by 26
+13:22
+so therefore x
+13:23
+is equal to 26
+13:26
+cosine
+13:27
+of 54 degrees
+13:31
+cosine 54
+13:32
+is 0.587785
+13:36
+if we multiply that by 26
+13:38
+this will give us the value of x which
+13:40
+is 15.28
+13:48
+here's another one that we could try
+13:53
+let's say the angle is 32 degrees
+13:56
+and the hypotenuse is x
+13:58
+and this is 12.
+14:00
+so notice that 12 is opposite to
+14:04
+32
+14:06
+and we have the hypotenuse so this time
+14:08
+we need to use the sine function
+14:12
+sine of the angle 32
+14:14
+is equal to the opposite side 12
+14:16
+divided by x
+14:20
+so in this case what can we do to find
+14:22
+the value of x
+14:27
+what would you do
+14:30
+what i would do is cross multiply
+14:32
+so 1 times 12
+14:35
+is 12
+14:36
+and this is going to equal
+14:39
+x times sine 32.
+14:44
+next
+14:45
+i recommend dividing both sides by sine
+14:47
+thirty-two
+14:51
+sine thirty-two divided by itself is one
+14:54
+so therefore x
+14:56
+is equal to 12
+14:58
+over sine 32.
+15:02
+12 divided by sine 32 is 22.64
+15:08
+so that's the value of x in this
+15:10
+particular problem
+15:12
+now let's work on another problem
+15:15
+so this time
+15:17
+we need to find the angle theta
+15:20
+and we're given these two sides
+15:24
+so 5 is opposite to the angle
+15:28
+and 4 is adjacent to it
+15:31
+so what trig function
+15:33
+can relate theta 4 and 5
+15:36
+we know tangent is opposite over
+15:38
+adjacent so tangent of the angle theta
+15:41
+is equal to the opposite side which is 5
+15:44
+divided by the adjacent side 4.
+15:47
+so how can we find the value of the
+15:48
+angle theta
+15:50
+if tangent theta is 5 over 4
+15:53
+and then theta
+15:54
+is going to be the inverse tangent or
+15:57
+arc tangent of 5 over 4 and you simply
+16:00
+have to type this in your calculator
+16:02
+so type in
+16:04
+arc tan 5 over 4
+16:07
+and you should get an angle
+16:09
+of
+16:10
+51.34 degrees
+16:13
+so that's how you could find the missing
+16:14
+angle
+16:15
+let's try another example
+16:22
+feel free to pause the video and find a
+16:23
+missing angle
+16:25
+so in this case we have the adjacent
+16:27
+side
+16:28
+and we have the hypotenuse
+16:31
+so therefore this is associative of
+16:33
+cosine
+16:34
+cosine theta is equal to the adjacent
+16:36
+side
+16:37
+divided by the hypotenuse so if cosine
+16:39
+theta is equal to 3 divided by 7
+16:42
+theta is going to be arc cosine 3 over
+16:45
+7.
+16:48
+and once again you have to use a
+16:49
+calculator to figure this out because
+16:51
+without a calculator out of you know
+16:52
+what this answer is
+16:54
+and this is going to be
+16:56
+64.62 degrees
+17:05
+so here's another one for you
+17:08
+let's say this is 5 and this is 6.
+17:12
+go ahead and find the value of theta
+17:14
+so the hypotenuse is 6
+17:16
+opposites of theta is five
+17:19
+so we know sine is associated with
+17:20
+opposite and hypotenuse
+17:22
+sine theta is equal to the opposite side
+17:24
+which is five
+17:25
+divided by the hypotenuse which is six
+17:27
+therefore theta
+17:29
+is the arc sine or inverse sine of five
+17:32
+over six
+17:38
+and so the angle is going to be
+17:40
+56.44 degrees
+17:43
+and that's it that's all you got to do
+17:44
+to find the missing angle of a right
+17:46
+triangle
+Trigonometry Course
+17:48
+for those of you who might be interested
+17:50
+in my trigonometry course
+17:52
+here's how you can access it
+17:54
+so
+17:55
+go to udemy.com
+18:00
+and once you're there
+18:04
+enter into the search box trigonometry
+18:10
+now this is a course i've recently
+18:11
+created so
+18:13
+i haven't finished
+18:14
+adding all the sections that i want to
+18:16
+add so anytime i'm going to do that
+18:20
+right now the page is accessible on the
+18:22
+uh you can find the course on the second
+18:24
+page and here it is trigonometry the
+18:26
+unit circle angles
+18:28
+and right triangles is basically the one
+18:30
+with the dark background
+18:31
+and a circle with a triangle inside the
+18:34
+circle
+18:40
+so let's look at the curriculum in the
+18:42
+first section
+18:44
+i'm going to go over angles
+18:47
+radians how to convert degrees to
+18:49
+radians
+18:50
+coterminal angles
+18:52
+how to convert dms to decimal degrees
+18:55
+arc length
+18:56
+area of the sector of a circle
+18:58
+linear speed and angular speed word
+19:00
+problems and also if you need to take
+19:03
+the time that's shown on the clock and
+19:05
+if you need to convert it to an angle
+19:07
+measure
+19:08
+i cover that in this section as well
+19:10
+and then at the end of each section is
+19:11
+the video quiz
+19:13
+the next section is about the unit
+19:15
+circle the six trig functions
+19:17
+sine cosine tangent secant cosecant
+19:20
+cotan
+19:22
+and also reference angles as well
+19:24
+after that you have right triangle
+19:26
+trigonometry
+19:28
+things like sohcahtoa
+19:30
+the special right triangles like the
+19:31
+30-60-90 triangle
+19:33
+you need to know that so you can
+19:35
+evaluate
+19:36
+sine and cosine
+19:37
+functions
+19:38
+without using the unit circle
+19:41
+next
+19:42
+i'm going to talk about how to solve
+19:44
+angle of elevation and depression
+19:46
+problems
+19:48
+and just solving the missing sides of
+19:50
+right triangles
+19:52
+after that trigonometric functions of
+19:54
+any angle
+19:56
+and then the graph intrigue functions
+19:58
+you need to know how to graph the sine
+19:59
+and cosine
+20:00
+functions secant cosecant
+20:03
+and tangent as well
+20:08
+after that
+20:09
+inverse trig functions you need to know
+20:11
+how to evaluate it
+20:13
+and also how to graph it too
+20:15
+in addition you need to know how to
+20:16
+graph or evaluate composition of trig
+20:19
+functions for example we might have
+20:21
+sine of inverse cosine of 3 over 4 or
+20:24
+something like that and you can use a
+20:26
+right triangle
+20:27
+to solve those types of problems you'll
+20:29
+see when you
+20:31
+access that section after that
+20:33
+applications of trig functions
+20:35
+solving problems to have two right
+20:37
+triangles in it
+20:39
+and
+20:40
+barons as well
+20:42
+one of the hardest actions in trig is
+20:44
+this section verifying trig identities
+20:47
+so that's uh
+20:49
+that's a hard one so make sure you spend
+20:50
+some time
+20:51
+learning that section after that summer
+20:53
+difference formulas
+20:56
+double angle half angle power reducing
+20:58
+formulas
+21:01
+product to sum sum to product
+21:03
+and also solve and trig equations
+21:05
+but there are still some sections i'm
+21:07
+going to add to this course like for
+21:09
+example law of sines law of cosines
+21:13
+polar coordinates and some other topics
+21:15
+as well
+21:16
+so about two-thirds of the course is
+21:19
+finished so far and for most students
+21:21
+this is just what they need intrigued
+21:23
+but in time you'll see more
+21:25
+so now you know how to access the course
+21:26
+and if you have any questions let me
+21:28
+know
+21:28
+so thanks for watching
+21:51
+you

@@ -1,0 +1,1258 @@
+0:00
+hello math fans Dr Tom Crawford here at the University of Oxford and today I'm
+0:05
+sitting the German High School maths exam I have a feeling this may be the most difficult one that I've done yet
+0:12
+mainly because the actual exam paper is in German and I do not speak German I am
+0:21
+going to be relying on Google translate alongside the original equations and
+0:26
+figures from the German paper and I'm going to try and make sense of it all as well as obviously answering hopefully
+0:33
+the math questions correctly I will be sitting part A of the 2019 Arbiter
+0:39
+mathematics exam which is taken by students in Germany when they leave school around the age of 18. the
+0:48
+specific exam actually differs depending on the state this one comes from Bavaria
+0:54
+the region of Germany around Munich I have a maximum of 90 minutes to and
+1:00
+answer all of the questions I am not allowed a calculator and there is no formula booklet so I'm pretty much on my
+1:07
+own right let's get started question one lots of graphs
+1:13
+um so I can see from the translation obviously not the German version
+1:19
+um that it wants me first of all to determine the position and nature of the
+1:25
+extreme points of the graph of f where f is given by
+1:31
+the following function so we're saying that f of x is equal to
+1:37
+e to the 2x divided by X and I'm interested in stationary points so
+1:44
+that's going to be when the derivative is zero so let's calculate the derivative so F
+1:49
+Prime of x is let's write this as e to
+1:54
+the 2x times x to the minus 1. um so if we differentiate exponential
+1:59
+first I'm going to get a 2 e to the 2 x times x minus 1. I'm going to get a
+2:06
+minus x to the minus 2 times e to the two x and then I want to solve for that
+2:13
+being equal to zero derivative being zero gives you your stationary points
+2:19
+um so I can say F Prime of X is not when I can ignore the exponential
+2:26
+because exponentials are never zero so we can cancel that so it's when 2 over x
+2:31
+equals 1 over x squared so that tells me that 2x squared equals
+2:37
+x which tells me that X is not is one option
+2:43
+and then if I can now divide by that X or 2X equals one so x equals a half
+2:52
+okay now looking back at the question and my translation it does say the domain excludes zero
+3:01
+because of course when X is zero up here so I should have written X non-zero so
+3:06
+we can ignore that one so it's going to be when X is a half and it says the nature of the extreme point so
+3:14
+if we know that um can I think about what this is going to look like possibly
+3:21
+though it's probably going to want me to show it so I was thinking I could draw the graph and then argue why it's a Max
+3:26
+or I'm in uh but they probably want me to show why that's the case so I'm guessing second derivative so if I
+3:32
+calculate the second derivative I'm going to get F double Prime um is equal to
+3:39
+fun um four e to the two x x minus one minus
+3:46
+two e to the two x x minus 2.
+3:51
+the first time using the product rule and then for the next term I'm now going to get a minus so Plus
+3:59
+2 x to the minus three e to the two x
+4:05
+and then a minus 2 x to the minus 2 e 2 x
+4:11
+right again I know the exponential is non-zero
+4:16
+and always positive and I'm only interested in whether the second derivative is positive or negative for
+4:22
+Max or min uh so I can sort of ignore that
+4:27
+um so let's cross that off in a different color so I can kind of ignore the exponential which simplifies things a little
+4:34
+so I can say the F double Prime is e to the 2X and then the bracket I've got 4
+4:40
+over x minus 2 over x squared plus 2 over x cubed minus another two
+4:49
+over x squared as a minus 4 over x squared and I want this at x equals a
+4:55
+half F double Prime is equal to e times 4 divided by a half double so that's
+5:03
+eight minus 4 divided by a quarter so that's 16.
+5:09
+Plus 2 divided by 1 8 is 2 times 8 is 60.
+5:16
+so I think that's eight e doesn't actually matter because that is positive
+5:21
+so a positive second derivative is a minimum uh so this is a minimum
+5:30
+all right is that all I have to do for that one um
+5:36
+I think that might be okay awesome so I think that was one part one
+5:41
+part two I believe um having a lot of difficulty with this
+5:47
+uh language issue but anyway um okay so given it's the function right so
+5:56
+we have a new function I think a new function for part two which is f
+6:01
+of x is now given by one minus one over x squared
+6:07
+okay um and zeros tell me when the zeros are at
+6:13
+um minus one and two okay so zeros
+6:20
+at x equals minus one yeah and x equals
+6:27
+two do I agree with that I don't think it does have a zero and X
+6:32
+is two oh minus one and one good one translate okay
+6:38
+that makes sense yes I agree with that zero is an x minus one and one okay figure one shows the graph of f
+6:46
+which is symmetric about the y-axis I also agree with that furthermore the
+6:51
+straight line G with the equation y equals minus three is given
+7:00
+okay fine so I'm just going to draw this out for myself so we've basically got like a
+7:09
+um this okay this we've got something coming in and going through one
+7:15
+and then coming down here like so similar thing here it's symmetric coming
+7:21
+in through minus one sure this is X is minus one
+7:27
+X is plus one so this is X and this is y and then Y is minus three so let's say
+7:33
+that's down here so what is it wanting me to do then um
+7:38
+okay uh show that one of the points where G intersects the graph of f has
+7:45
+the x coordinate one half sure so I'm saying
+7:51
+um we want to solve minus three which is of course Y and we want when that is equal
+7:59
+to one minus 1 over x squared and then we just solve that algebraically I think and this is part A is to keep track
+8:06
+okay so minus three x squared equals x squared at minus one so I can take that
+8:15
+across and say uh plus so 4x squared is
+8:20
+therefore equal to one x squared is a quarter so that tells me that X is plus
+8:27
+or minus one half excellent I hope it asked me to find the second one
+8:32
+um it doesn't but anyway so definitely there when X is a half fine Part B
+8:39
+determine arithmetically the content of the area enclosed by the graph of f the
+8:45
+x-axis and this line right so you can use a different color
+8:51
+so we want this area so if I work out
+8:57
+one lot of it and then just multiply it by two that will give me the whole thing
+9:03
+um okay [Music] so and we have worked out this part
+9:12
+haven't we gotcha so this is when X is equal to a half
+9:20
+um so I've got a rectangle there right let's use another color
+9:27
+because I'm now going to say the rectangle area I can work out so the rectangle
+9:36
+area is equal to three multiplied by half basically is
+9:43
+three over two and then the sort of curved bit which I will shade in yellow here
+9:50
+so then that part is going to be a rotation so I think I'm going to do a rotation not a rotation thinking of forming a
+9:58
+volume of Revolution I'm going to do the integral between two points I think for that
+10:04
+so if I integrate negative of the function
+10:10
+to make it positive oh no I can just integrate between these
+10:15
+two points and remember that it's a positive answer okay let's do that instead
+10:21
+so I think the yellow area is equal to the integral of the function
+10:27
+so the function there is one minus 1 over x squared
+10:32
+DX and we're going from X is equal to a half to X is equal to one so I think
+10:39
+I believe that is going to be the answer that will come out negative I will then take the modulus of it and add it to the
+10:45
+rectangle that's the plan Okay so
+10:51
+let's do the integral so that's then X and it's minus x to the minus 2.
+11:00
+that's going to be to the minus one so I think it's x minus 1 over X so if I differentiate minus x to the minus one
+11:08
+bring the minus one down no so it's Plus X Plus 1 over X because if I
+11:15
+differentiate x to the minus 1 I get minus x to the minus two which is what I've got there okay so it's that between
+11:22
+one and a half so that is then
+11:27
+plugging in one that's then 2 minus the value at a half which is a half plus two
+11:35
+so it's two minus two and a half so it equals minus a half
+11:40
+so the total area therefore is a half it's the modulus of that so I think the yellow area is a half
+11:48
+so the total is a half plus three over two
+11:55
+um so let's say this now so I can say now the um so the positive part
+12:02
+to the right of that y-axis um has area two
+12:08
+and then we multiply by two because of the symmetry so I think the total area
+12:16
+is equal to four is my answer I think
+12:23
+question three I guess all right so far so good um figure two below shows the graph of a
+12:30
+function it does one of the following graphs here we go uh belongs to the
+12:36
+first derivative of f okay so let's just sketch out
+12:41
+f is going to help me here I think so it's going something like that it's going steeper there and it's going up
+12:47
+there and it's going like that right so what I'm going to do to start with here is just label where
+12:52
+the derivative is positive and negative I think that'll help me um so we've got a negative
+12:58
+negative negative and then it's obviously going to be zero and then it's positive right the way through
+13:05
+and then here it's positive and then here it's going to be zero
+13:10
+so looking at those graphs I need something that is positive at both ends
+13:16
+so that can be all of them great to pass through zero
+13:23
+oh it's actually giving me specific points here yikes okay
+13:29
+um so it looks like it's turning it two and minus two okay so I think this is minus
+13:36
+two this is plus two assuming these graphs are accurate they're usually not but it doesn't say not drawn accurately
+13:43
+so I'm gonna go with it so then I want it to go through zero at those two points basically so therefore
+13:48
+it could be one or three so that rules out number two because that doesn't go through zero and those
+13:55
+points um and does it appear to be getting steeper it does appear to be getting steeper but
+14:02
+what's the gradient at zero
+14:08
+um it's sort of getting
+14:13
+is it's definitely a negative gradient and it's at its steepest but would it be
+14:19
+oh is it going super negative or is it
+14:25
+pretty chill on the negativity oh Deary me okay so I have to explain
+14:31
+why I just read more of the questions says so I can say that it's it's definitely
+14:36
+not so I can say not to since
+14:42
+um derivative is zero at X approximately plus or minus
+14:51
+two which isn't true in number two now for the others it's to do with how
+14:58
+steep gradient is so looking at that it's it's less than
+15:05
+one the gradient is less than one and then so I can say it's also not three
+15:13
+since I believe the gradient between
+15:18
+plus or minus two is less than one it's yeah it's a
+15:23
+shallower gradient less than one so less than uh one with its modulus so
+15:31
+it's like I don't want to say that not less than one greater than minus one
+15:36
+is let's say greater than minus one let's go with that
+15:42
+um not quite as steep as what I'm trying to say it's a bit shallower but that means it's greater than minus one
+15:49
+greater than minus one so therefore our answer is one
+15:55
+is um what I'm going with okay uh oh that was just part a cool and
+16:02
+then Part B what's that asking me to do now um okay aha the I read The Germ one for a
+16:09
+second not very confused uh uh B the function f is an anti-derivative of our
+16:15
+original function so an integral okay give the monotonic behavior of f in the
+16:21
+interval uh one two three and justify it okay uh
+16:27
+so we want the integral of this so let's write that up here so integral
+16:32
+of this from
+16:38
+um one two three is the interval there okay
+16:43
+so um it's going through zero a little bit
+16:49
+past so three is about there one is about there
+16:54
+so what's happening to the function so
+17:00
+um what I'm going to assume is the graph in front of me is now a derivative okay
+17:07
+so let's think about what's happening to this function um so it's going between one let's put
+17:14
+that as two and let's put that as three and now what do I know about its derivative so its derivative is always
+17:21
+negative okay so um derivative
+17:29
+of f is negative on the Range
+17:35
+one three so it's always negative so it has to be that negative slope
+17:42
+now it's most negative near to two I think yes it's most negative so most
+17:51
+negative near X is approximately two
+17:57
+so what's that's going to say here is its steepest
+18:03
+its steepest near that point
+18:08
+most negative and then it gets less negative sort of
+18:13
+thing here but it's like it's got to stay it's Gotta always stay
+18:19
+negative it's steeper there and then it kind of tails off so it's
+18:25
+flat steeper flat
+18:31
+I think it's something like that um give them monotonic behavior of f ah so
+18:37
+we didn't want me to draw it so F decreases I.E
+18:43
+F decreases monotonically because its gradient is always negative
+18:49
+yeah yeah yeah I'm happy with that F decreases monotonically
+18:55
+on on three I think it looks something like my sketch but the question didn't ask me
+19:02
+that I just assumed it did incorrectly and did lots of extra work I think it just decreases monotonically I'm going
+19:10
+with that right and that is the end of three that is the end of three let's try question four
+19:15
+a set of functions h k where K is real and plus or complicate very good job
+19:23
+I've got this translation question four so
+19:30
+we have a a set of functions h k
+19:36
+where K belongs to the positive reals
+19:42
+okay differ only in their respective domains
+19:47
+uh they're expected differentiable their respective domains Decay differentiate
+19:54
+I'm going to assume this means the domain over which they are differentiable
+19:59
+um I knew I was going to run into issues with this this crude translation
+20:05
+I'm going to take it to mean uh differ
+20:11
+on domain where
+20:17
+differentiable I'm calling that apparently DK
+20:26
+so and we're going to be given what they
+20:32
+are okay that helps um so HK Maps X so we're told HK Maps
+20:37
+the function X to COS of X okay great
+20:43
+and we're told with DK is naught to K
+20:48
+okay so just some positive real number sure
+20:54
+thing before shows the graph of the function H7 okay so EG
+21:00
+H7 uh defined on right not two seven that's what they've drawn good
+21:06
+um the largest possible value of K such that the associated function h k
+21:12
+is reversible okay so I'm assuming irreversible they
+21:17
+mean inverse um so we want to know where so we can say it's invertible
+21:25
+and by invertible I mean an inverse exists um whenever it's one to one
+21:33
+um whenever it is one to one so
+21:39
+that's going to mean if it's starting at zero which is going to be one that's
+21:46
+right yeah it's large possible value of K so it starts at zero and then as soon as I get to
+21:51
+the point three no not quite three the point pi
+21:58
+then we hit minus one and then it begins to come back and repeat so it has to be
+22:03
+minus one um there's one over that so uh which is
+22:09
+on not to Pi yeah okay Pi is a positive real number so
+22:15
+that's okay right I'm gonna go with that uh okay to all the graph of the inverse
+22:21
+function great uh of this uh for this value of K
+22:29
+okay in figure four paying people attention to the intersection of the graphs of the function and the inverse
+22:36
+so I'm going to draw an accurate sketch bloody L all right don't even have the square paper that
+22:42
+they've reminds me of uh my Feathering graphs I
+22:47
+did in the GCSE maximum bad times getting flashbacks okay
+22:53
+um so let's try and Draw Something vaguely accurate so if I have the following
+23:01
+we've got um something like this and then we've got this thing coming down and right so
+23:06
+it's COS of X so this is y I'm drawing y equals COS of x to start
+23:12
+and we're going across to Pi and we're going to have a pi by 2 in the middle
+23:18
+so I know that cos comes down and goes through it's a very bad effort because
+23:23
+but anyway and that's going to be at one and then down here we've got minus one
+23:30
+um which is going to be this point so I just need to take that and then just reflect it beautifully
+23:35
+okay so let's suppose that's an accurate drawing of the original function so this
+23:42
+is H pi now if I wanted to invert that
+23:48
+then for example so if I were to write that as H Pi inverse if you input
+23:55
+um Pi no h Pi inverse so that is defined
+24:02
+for values between minus one and one okay so to find
+24:08
+on minus one to one
+24:13
+and so it's basically it's like that isn't it so if I were to
+24:20
+draw this now it's like reflecting in the line Y
+24:26
+equals X when you take an inverse function I believe because you're basically swapping the rolls you've got like y equals a function of X and you're
+24:32
+trying to rearrange to get x equals a function of Y so you're flipping in reversing that Y and X Behavior
+24:39
+so I think what it's going to do then is
+24:44
+Pi by 2 is like yeah so it's only actually defined
+24:50
+um between here so let's call this one minus one and then one is going to be like here
+24:57
+so when I input one it's come from zero so it's so it has the value of zero at one
+25:04
+and then when I input minus one it has the value of pi for the inverse function so Pi is like
+25:11
+up here Okay so let's suppose this is accurate again we're going to pretend this is
+25:17
+accurate so now if I try and join these up what's going to
+25:23
+happen so as we go through one when we get to the point
+25:29
+zero has come from PI by 2. zero has come from PI by two so over here we're
+25:35
+like here it's like Pi by two and then
+25:41
+a little bit near one we're like
+25:47
+the value is still quite close to zero yeah so that means it's coming in like that doesn't it
+25:53
+okay so I think it's gonna look something like and then it kind of flips that way is
+26:01
+that what I think it looks like whoosh I think it's sort of lurking something
+26:06
+like that um
+26:12
+that is yeah because then if I were to draw that I think that's right because then if I
+26:18
+were to actually draw in the line for example if we had a y equals x line I'm going to go right through there
+26:24
+right so if this is the Y equals X line yeah
+26:30
+I stand by that it's not to scale but I think it is going to be flipped
+26:35
+like that I'm going with it um okay uh paying two attention to the intersection of the graphs of the
+26:41
+function and the inverse okay so they want to know when they intersect so they intersect when they're equal to
+26:48
+each other so this one is cos inverse so you could say
+26:56
+um I can say they intersect when
+27:03
+cos minus 1 of x equals COS of x
+27:11
+interesting so when x equals COS of COS
+27:17
+of X yikes
+27:22
+um so what does that mean
+27:28
+um when does x equal cause of COS of x
+27:37
+so let's think so like COS of Pi by 4 is like the whole root two over two thing
+27:43
+but then COS of root 2 over 2 is definitely not
+27:49
+Pi by four hmm
+27:54
+I don't know if I'm supposed to write down the point where they intersect um
+28:01
+I can sort of roughly see where it would be uh
+28:06
+maybe I'll just leave it at that you possibly could work that out but it seems right now I'm drawing a little bit
+28:11
+of a blank so I think I'm going to claim I've done a half decent job there so maybe I'll move
+28:17
+on uh so for B for B for B where are you
+28:23
+um okay Enter the term in uh to find an
+28:30
+invertible function J that satisfies the following condition
+28:35
+um the graph of J and the graph of the inverse function of J I have no point in common
+28:43
+okay this is I think the translation's okay so I have to come up with a function in r
+28:52
+so so J um I'm guessing maps are the real numbers to the real numbers
+28:58
+right so that's why the following condition the graph of J and the graph of the inverse have no point in common
+29:04
+oh could I do could I do could I do could I do
+29:12
+um so I immediately and I thought of this when I was doing
+29:17
+the Because and the arc cause thing just now I want to do like a like a log thing
+29:24
+right because if I had a log it kind of looks like this
+29:31
+and then I have an exponential yeah I think this is it because then if you do the e to the X it looks like that and
+29:37
+then you've got the line Y equals X between those two things okay so that's Y equals X
+29:43
+this is um going to be y equals Lin X
+29:49
+right there and then this is y equals e to the x and they do not intersect
+29:57
+because they look like that yeah okay so I think that would be my function so in vertical function J so if
+30:04
+I say J equals e to the x I'm going with that all right what's next I'm assuming
+30:11
+question what was that for five should be next um
+30:16
+analysis task group two these questions may only be worked on in connection with
+30:23
+the questions belonging to the same group of questions they'll translate in Part B of the exam
+30:31
+so I'm not doing Part B so oh they kind of look the same
+30:41
+does that mean wait wait wait wait wait wait so
+30:49
+very much looks the same ah
+30:54
+I should have read the instructions but you know they're in German I believe I'm only meant to do one
+31:02
+of the groups from analysis I I think because it's basically the same question
+31:08
+with a few little modifications so I don't know if it's a different syllabus or different schools do different parts
+31:15
+I honestly have no idea um it's the instructions are just not really there on the exam even once
+31:23
+translated um I'm sure somebody who has taken the German Arbiter mathematics exam will
+31:29
+very happily tell me in the comments what I'm actually supposed to do uh but
+31:35
+I think I might just have to um I'm pretty sure I'm not meant to do
+31:41
+the exact same question and the fact it's labeled analysis task group one
+31:46
+which is what I just did and now this one's labeled analysis task group two is suggesting to me that I'm just
+31:53
+supposed to do one of those um so I do know that the mark the total Mark should be out of 30. and I think
+32:01
+I've already done 20 marks so far have I have I done 20 marks so that was 10 another five yeah
+32:09
+so I've done four questions each with five marks okay so I think just shows you how well prepared I am
+32:15
+for this one I don't even know the instructions I think I'm not supposed to repeat
+32:22
+basically the same thing uh and I think this means I'm supposed to go on to the next section
+32:27
+so if I look at the next section below that is stochastic
+32:36
+this is why I remember this values too uh it's about the limit of my German
+32:42
+uh okay so stochastic task group uh two or task group one oh there's sorry
+32:48
+there's task group one and task group two group two has pictures so I'm possibly
+32:55
+tempted to go for two I think I'm gonna go for two I don't know if I'm allowed to switch between
+33:01
+task group one and two I honestly have no clue but two has pictures I like
+33:06
+pictures I'm gonna pick stochastic grouped two so and this is only five
+33:12
+marks so hopefully isn't too bad but we'll see I guess um oh no 10 marks
+33:18
+okay ten marks then five ten marks uh either way disgustic task group two is
+33:24
+what I'm gonna do um right uh so this is now stochastic um
+33:32
+question one let's see what we got
+33:37
+okay uh one a Wheel of Fortune consists of five
+33:43
+sectors of equal size um okay so each one is 72 degrees I'm just
+33:48
+going to write that down immediately just in case um one of them is able to not one is able to one and the other one is labeled
+33:54
+two and then the other two sectors are labeled nine okay
+34:00
+um so let's let's draw a picture uh so I'm going to assume they're equal in size one's labeled zero okay
+34:08
+um so let's attempt to draw like fifths this is going to go really wrong
+34:13
+not bad um so they're equal size yes so let's suppose that's zero that's a one one of
+34:20
+them's label two and then the others are labeled nine okay and they are equal size right so I'm going to assume that
+34:27
+means equal probability but we'll see um it's spun four times calculate the
+34:33
+probability of getting the numbers two zero one nine in the order given okay so
+34:39
+we want the probability of 2 um and followed by
+34:46
+zero and one and nine okay so they're all independent
+34:54
+events doesn't matter what you spun previously I'm going to assume equal probability so
+35:00
+by Independence I'm going to say by Independence
+35:09
+that is just the probability of a 2 multiplied by the probability of zero multiplied by the probability of a one
+35:15
+multiplied by the probability of a nine the order actually won't matter it turns
+35:20
+out um no so if I'm going to get two on the
+35:26
+first one that's one out of five multiplied by the probability of getting a zero that's one out of five
+35:33
+probably getting a one one out of five probability of getting a nine two out of five so that's gonna be
+35:41
+two divided by 25 squared 625
+35:47
+okay so that's my answer uh right to pop B that was a yes Part B
+35:56
+um The Wheel of Fortune is spun twice find the probability the sum of the
+36:01
+numbers obtained oh is at least 11. interesting so I want the probability
+36:10
+sum at least 11 so greater than or equal to 11.
+36:16
+from two spins okay so let's think about what spins can
+36:22
+we get that make it greater than or equal to 11. so what could we have um so that would be a nine followed by a
+36:29
+two we could have a nine followed by a nine they would both work
+36:36
+and then we could have a two followed by a nine or again a Nine and Nine where
+36:42
+the nines are in the other order okay so we have to get a nine and we have to
+36:49
+get a two um
+36:54
+so so so so so so so so so let's just do these individually okay
+36:59
+I could try and be clever and use like a probability getting a two or a nine and figure it out from there but these are
+37:06
+the four things that we can get because there's all the orders don't even need to do combinatorics so I'm going to keep it simple I think these are the four
+37:12
+things uh so they're probably getting a nine followed by a two um what's the probability of that
+37:19
+uh we're getting a 9 is two-fifths times one-fifth so that is two out of 25
+37:26
+probably getting two nines is four out of 25. probably getting two and then a nine is
+37:32
+two out of 25 and then nines but the other way around is 4 out of 25. okay
+37:38
+so I think that's going to give me 12 at 25.
+37:45
+uh does that feel right that probably feels right okay so I think the answer then is 12.25
+37:54
+um okay and then there's a part no that was question two okay
+38:01
+all right I hope that was right uh going with it um yeah stick with it okay it's a good
+38:08
+question to them um so a binomial distributed random variable
+38:13
+uh I actually given with the parameter value oh x with the parameter value is
+38:19
+given five equals it's a good translation again so what is it actually saying
+38:26
+n equals five okay so we have uh question two
+38:31
+so we're told that X belongs to binomial
+38:38
+and so you normally need n and p but I'm being told that n is 5. and I don't know what p is so p is going to be my
+38:44
+probability okay um the diagram in figure one is giving
+38:50
+me the probabilities of getting the other things right
+38:57
+sure complete the top five equals completely
+39:04
+what completely oh the value for getting five okay the five including the
+39:09
+probability in the diagram and determine the approximate probability that X is two
+39:14
+right so I think terrible translation I think and the formatting
+39:20
+I think I'm supposed to work out the probability that x equals five so uh what is
+39:26
+okay what is the probability that X is equal to five um and I have the values for the others
+39:33
+right so that's like 0.5 and 4 3 2 1.1 right
+39:39
+um so the problems that X is less than or equal to isn't it yes so on the diagram
+39:45
+probability is equal to five well that's just equal to one so on the diagram which I think it is
+39:51
+asking me to complete the diagram I think it's asking me to complete the diagram so the probability of X with
+39:57
+five is one so it's like it's a cumulative frequency diagram so
+40:03
+um it's just going to be full full column up to one all right I can hopefully that gets the point across
+40:10
+um and then it says the approximate probability that x equals to
+40:18
+um okay so I want to know the probability that x equals two
+40:24
+and from the diagram tells me the probability that X is less
+40:31
+than or equal to two because it's again cumulative hard said I would cumulative cumulative
+40:39
+I almost said cumulative no it's just Camila's cumulative cumulative
+40:45
+Camille is the table cumulative who knows that warmer you add them up probability of X is less than or equal
+40:51
+to two um so that's coming in at like 0.4
+40:56
+I don't know it was like 0.42 I'm going to call that 0.4 204343 0.43 and the probability that X
+41:05
+is less than or equal to one is approximately what's that one saying
+41:10
+that's about a 0.15 so therefore the probability that x equals 2 is the
+41:18
+probability of being less than or equal to 2 minus the fact that you could be zero or one
+41:25
+so minus probability X plus one so that's approximately
+41:30
+0.43 minus 0.15 so I reckon that is about 0.28
+41:38
+that's going to be my answer for that one uh and that's it for question two this is question three now
+41:44
+I like this I don't normally like probability but this is okay
+41:49
+uh so question three what are you saying uh you're telling me a tree diagram
+41:57
+liked my diagrams uh so we have a two diagram blah blah blah belongs to random
+42:02
+experiments Cassie independent events A and B determine the probability of event B
+42:09
+okay cool so what have we got
+42:15
+diagram looks weird I feel like maybe they're using different notation to what I'm used to but uh I think let's just give it a go
+42:23
+so you've got an A Bar so I'm gonna guess means not a
+42:29
+um so maybe don't write it like that okay so let's
+42:37
+go for this so it's an a bar or a so
+42:42
+this one has to be a third and this one has to be two-thirds so I'm given the two-thirds so it's obviously one minus that
+42:49
+um and then I'm told that then getting B
+42:55
+from here if you're a total that's right total
+43:02
+also interesting in this exam it's a vertical tree diagram but as you can see I'm drawing it horizontal so this is
+43:09
+like the let's say the standard way of doing it in the UK is the horizontal tree diagram so I'm going to stick with
+43:14
+that um so I think the total they're saying is 2
+43:20
+out of 15. right and I need to work out the probability
+43:25
+of getting B well I actually don't care about the others then do I so
+43:31
+so I could obviously add in these but I don't think this matters because I don't have enough information
+43:36
+but what I do know is I think well this is telling me anyway and they're independent events
+43:44
+independent events so I know that the probability of not a and then getting B
+43:51
+is 2 15 but that has to be equal the probability of not a times the
+43:57
+probability of B and I know the probability of not a is two-thirds so that's just two-thirds
+44:02
+times probability of B so therefore the probability of B is
+44:08
+just one fifth right two first times fifth sheet for Deeds yeah all right
+44:14
+cool I think that's the end of stochastics so it would appear the next
+44:19
+place to go to is geometry and again we've got task group one and
+44:25
+task now I know how it works um okay something about rectangles and
+44:31
+midpoints for um and something about balls or spheres
+44:36
+I'm gonna pick spheres over rectangles it looks like 3D coordinate geometry I
+44:43
+think if I've understood the notation which I may not have but hey what are you gonna do I can only make my best
+44:49
+possible guess given the uh the level of translation
+44:54
+quality uh it's gonna be geometry test two okay so spheres
+45:00
+um given by Center interesting notation
+45:06
+not sure what's going on here but let's write it out uh question
+45:11
+I'm going to assume this is a german-specific notation but I'm going to interpret this as best I can
+45:18
+so I think what it's telling me here best guess is that there's a sphere K1
+45:27
+which has Center uh one two three
+45:33
+so I think that's the XYZ coordinate they're using like a vertical line notation never seen that but I'm gonna
+45:40
+go with that and in minus three minus two one oh what was the radius radius
+45:46
+five okay radius five um R equals five and then we had K2
+45:53
+which was a second sphere and that has a center at
+45:59
+-3 minus two minus minus one plus one and also has R equals
+46:06
+five okay good show that to yourself
+46:12
+K1 and K2 cut show that yourself okay what a K2 cut
+46:18
+intersect show The Intercept I'm going with Chuck right show the intersect so
+46:25
+they will intersect s if distance between
+46:32
+centers is less
+46:41
+than sum of radii I think
+46:48
+so let me I'm gonna draw a little picture which obviously will be in 2D but the idea is to say there's like a center
+46:54
+here and then there's a center here so if we know the distance between the centers
+47:00
+and then this one's got like a radius and this one also has a radius
+47:06
+so it's like the two yeah if the distance between the centers is less
+47:11
+than they have to overlap I think I'm happy with that less than the sum up the radio so it's less than
+47:18
+10. okay so I want to show you the distance okay so I.E uh distance between these
+47:27
+two vectors so the distance between one two three
+47:32
+and minus three minus two one is less than
+47:38
+or equal to 10. okay so that distance is then the same
+47:46
+as figuring out um so the distance between two points
+47:52
+I remember how to do this you take the difference and then Square so it's 1 minus minus three
+47:58
+squared plus 2 minus minus two
+48:03
+squared plus three minus 1 squared and then the square root of that yes if
+48:10
+I Square both sides that's going to be less than or equal to 100. yes so that's equivalent to saying is
+48:20
+sets four squares that's 16 plus another 16
+48:27
+um plus two is less than or equal to 100 it's a lot
+48:32
+less um is that right it has to be right that has to be right
+48:38
+so this is true the intersect provided 34 is less than or equal to 100 which is
+48:44
+true therefore intersect okay
+48:50
+I'll buy that I'll buy that all right uh that was a
+48:55
+um to the cut figure so I guess I think again the intersection of K1 and K2 is a
+49:01
+circle term the coordinates of the center and the radius
+49:07
+of this circle wow okay Center and radius
+49:14
+of the intersecting Circle okay let's start with uh writing out information
+49:21
+that we have um okay okay okay okay
+49:27
+so I've got equations for these haven't I so I can say
+49:32
+x minus 1 squared plus y minus 2 squared
+49:39
+plus Z minus 3 squared has to equal the radius squared so has to equal
+49:47
+25 so that's K1 and then for K2 I've got x minus minus 3 so X plus 3 squared
+49:55
+y minus minus 2 so that's y plus 2 squared and Z minus 1 plus Z minus 1 squared and
+50:05
+that has to be 25. so the intersection
+50:11
+it's true that both equations must be satisfied
+50:16
+right so if I subtract these things off
+50:22
+let's try that um so if I subtract the equations
+50:27
+I think this will give me that plane of intersection hopefully so if I subtract the equations
+50:33
+okay what does that give me um so that tells me that x squared minus
+50:40
+2x plus 1 and then I'm going to subtract off the second one which is x squared plus six x
+50:48
+plus nine and then for the Y's I've got y squared minus 4X plus 4 and I'm going to
+50:56
+subtract off the Y squared y squared plus
+51:03
+4y plus 4 term and then for the Zeds I've got Z squared
+51:09
+minus six x plus nine and I'm going to subtract away
+51:14
+uh that one which is gonna be Z squared
+51:20
+minus 2X Plus 1. and it's equal to zero because they're
+51:27
+both 25 radius all right I think that's okay um
+51:33
+so let's do the X squareds go the Y squared let's go to Z squareds go which
+51:38
+is promising for my plane equation and I'm left with a minus 2x minus
+51:44
+another six so minus eight X 1 minus 9 minus eight
+51:51
+minus 4i minus another 4y so minus 8y
+51:56
+and then I've got plus 4 minus four so that vanishes and then I've got a it's not X that's Z
+52:04
+what am I writing uh minus six said Plus two so minus 4z
+52:12
+and I've got nine minus one so plus eight equals zero
+52:18
+right so I think the plane equation therefore taking all of those across is going to be eight lots of X Plus y plus
+52:27
+Z over two on that side has to equal zero ah
+52:34
+because they all cancel so
+52:41
+oh so I think plane of intersection
+52:50
+is therefore interesting and zero lies on it
+52:56
+so they're playing a midsection is through origin
+53:02
+helpful I think helpful maybe plain of intersection I believe is going
+53:09
+to be 2x plus 2y plus Z equals naught right
+53:16
+so now I know Z in terms of X and Y I think
+53:21
+I can just substitute that back into my equation I think I'm going to try it
+53:29
+so what can I say so therefore Z
+53:36
+is equal to minus two lots of X Plus y
+53:42
+and so if I put that into one of my equations uh let's take the second one
+53:48
+so Sub in and I'm going to get this is so not the
+53:54
+way to do this question um anyway I've gone down this route so I'm gonna have to expand this out I think
+54:00
+aren't I because it's not going to look like what I want it to look like oh okay oh I'm gonna have to don't make me do a
+54:07
+rotation anyway um x squared plus 6X plus 9 plus y squared plus four y
+54:17
+plus four and then plus Z minus 1 squared so
+54:24
+but I would have expanded that haven't I yes so now that's a plus Z squared which
+54:30
+is going to be 4 lots of X Plus y squared
+54:39
+that would be a z squared yup um Shaw minus two Z so that's then a plus
+54:47
+four lots of X Plus y
+54:53
+up and then a plus one and that's got to be twenty
+55:00
+five okay um so
+55:05
+I'm now gonna get a cross term on I oh I hate cross terms
+55:14
+um maybe this isn't the way to go about it this is tough
+55:19
+because that's going to give me a so this term here is going to be a four and then I'm going to have an x squared plus
+55:25
+a 2xy plus a y squared
+55:30
+all right and then 4X and 4y so I'm going to end up with a 5x squared
+55:37
+from there and there a five y squared
+55:44
+from there in there I've got a 6X plus another four plus a 10x okay
+55:51
+so that seems okay plus an 8y 8y
+55:59
+plus a 13 plus a 14.
+56:04
+from those three numbers but then I'm screwed over because I've got a plus 8 x y
+56:12
+and that has to be 25. so it's this equation
+56:18
+but that 8xy won't let me write it as a nice Circle
+56:23
+ER because I think I have to make a rotation what did the question ask for
+56:30
+the coordinates of the center and the radius ah it's very annoying
+56:36
+um okay Okay so
+56:41
+whilst past Tom is clearly having a hard time trying to solve this question let's head over to maplelearn to see how it
+56:48
+should be done you can access the maplelearn worksheet for yourself by clicking on the link in the video
+56:53
+description you'll not only see an alternative and let's be honest much quicker step-by-step solution but also a
+57:01
+neat visualization of the problem the two spheres are shown in red and blue and the plane of intersection which
+57:09
+fortunately passed on did calculate correctly is shown in yellow as we rotate the image we can see that in the
+57:16
+plane of intersection we do indeed have a circle following the steps of the calculation and making the most of the
+57:23
+computational power of maple learn we can obtain the coordinates for the center of the circle as minus 1 0 2 and
+57:31
+the radius which has a value of 4. to access the full version of maplelearn
+57:37
+you can sign up for a discounted subscription using the code in the video description now let's see how past Tom
+57:44
+is getting on in the means of fairness I think I will call this me being stuck
+57:50
+um how many marks is this three marks in total ouch so I potentially
+57:55
+may have lost some marks there but yeah no I don't know I'm I'm I am
+58:02
+drawing a blank as to how I'm going to find the the radius and the center of that Circle
+58:09
+um as I say I think I've got the plane of intersection but then it's I could try and project
+58:15
+the plane into the X Y plane oh but it wouldn't work quite like that
+58:21
+would it maybe there's probably some kind of rotation that I could do uh but I think for now at least
+58:28
+I'm gonna move on to uh what is it the last question I'm going to move on to
+58:34
+the very last question I think and maybe I'll come back to that with some new inspiration so I'll leave it as that
+58:40
+equation in The Orange Box which I think is right I'm not even sure if that's right
+58:46
+um but I will move on um I think because I am trying to sort of speed run these things let's be
+58:51
+honest here because obviously I should be able to do this uh clearly there's there's some circles spheres it's it's
+58:58
+Circle theorems again basically isn't it um all right well let's do
+59:03
+as I say let's finish with the last question then let's do question two
+59:10
+um in this geometry section I bloody hate geometry I used to teach it as well even or not
+59:17
+it's probably a good job I don't teach geometry anymore uh given my lack of knowledge of circles
+59:22
+and spheres um okay so what is this saying now the level I
+59:27
+think it means playing um given by uh what's that okay so part A we've got three x one
+59:36
+plus 2x2 plus 2x3
+59:43
+is equal to six okay contains a point whose three coordinates coincide
+59:51
+so I'm guessing that means X1 equals X2 equals X3 so I think
+59:57
+I think again this could well be Lost in Translation not sure but I think that's what it means
+1:00:06
+doesn't ask me to yeah determine these coordinates all right well let's try it so let's
+1:00:11
+call them all X so I'm saying that three X plus two X Plus another 2x is six
+1:00:20
+so that's telling me that 7x equals 6 so that's telling me that X is 6 7 so I
+1:00:27
+think they coincide when X1 equals X2 equals X3 equals 6
+1:00:32
+divided by seven that's more like it okay and then
+1:00:38
+Part B um what am I going to do now show that the following statement is
+1:00:45
+true there are infinitely many planes that do not contain a point whose three
+1:00:53
+coordinates are the same okay so I have to show this statement is
+1:00:59
+true if I have to prove prove question so I think I have to
+1:01:05
+prove infinitely many
+1:01:10
+planes infinitely so there exists infinitely
+1:01:15
+many planes that do not contain a point
+1:01:23
+that do not contain a point
+1:01:33
+his three coordinates are the same with three equal coordinates okay
+1:01:40
+so let's think about this so the equation for a plane so the
+1:01:47
+general plane equation
+1:01:54
+would be ax plus b y plus c z equals
+1:02:01
+some constant d so if uh
+1:02:07
+x equals y equals z that's equivalent to saying
+1:02:13
+I need a plus b i I think I can see how
+1:02:18
+I think I see how it's going to work a plus b plus c times x has to equal D so
+1:02:24
+that would mean in such a situation this would be x y and z
+1:02:32
+so if there was a point like this so then you can I see now so
+1:02:40
+therefore this fails so therefore there is no such
+1:02:45
+point whenever
+1:02:52
+a plus b plus C equals zero
+1:02:57
+so our coefficients there it's actually a normal to the plane ABC so when those
+1:03:02
+coefficients add together to be zero and there are infinitely many solutions so from that one and this has infinite
+1:03:10
+solutions because you can just fix a and then B
+1:03:18
+and C can be anything like you know a let's say a is zero then make B one and
+1:03:24
+C minus one B two c minus two etc etc it's there are very clearly infinitely
+1:03:29
+many solutions when you can pick a b and c um okay so I think that should prove
+1:03:36
+Part B which just leaves me with this intersection of two space question
+1:03:43
+bit of an anti-climax but I think I'm going to call it sorry everyone can't do it can't figure out
+1:03:50
+the uh the center and the radius of the intersection I've got I'm pretty
+1:03:56
+confident I've got the equation of the plane of intersection and I'm almost certain I just need to rotate and then
+1:04:03
+get a lovely new coordinate system where everything's going to work but my brain has turned to Mush apparently the
+1:04:10
+pressure of trying to do something timed and on camera and in exam conditions um so I I'm just going to call it there
+1:04:18
+um so yeah all right I got stumped I got stumped by that last question well played well played Arbiter well played
+1:04:23
+especially considering it was only worth how many marks was that meant to be three only three marks as well but I
+1:04:31
+guess it's three out of how many was the total out of 40 oh so I've potentially
+1:04:36
+lost like 10 of the marks ouch maybe that's why this exam is hard because there's not actually that many
+1:04:44
+marks available so when you lose marks they're going to affect your percentage but I'm confident
+1:04:50
+everything else I've done is okay I think I may have made the odd slip as
+1:04:55
+we've seen I I do make algebraic slips we all do we're all human part of being a mathematician
+1:05:02
+um but the rest of it I think was fine um in terms of difficulty compared to
+1:05:08
+other exams I've been doing definitely easier than the step paper as
+1:05:13
+it should be um I would say harder than the SAT the American exam
+1:05:19
+probably harder than GCSE maths as well even though it felt a little bit shorter because it had that calculus and graph
+1:05:26
+sketching inverse function and the proof at the end they're quite Advanced topics and they feel more like the kind of
+1:05:33
+thing you would see at a level in the UK so I'd probably put it sort of on par with like an a-level exam with some of
+1:05:41
+the questions particularly like the one-to-one mapping or that proof at the end possibly creeping into further maths
+1:05:48
+territory but Circle question
+1:05:54
+circles again anyway I really should revise of course Circle theorem Circle
+1:06:00
+equations anything to do with circles clearly I need to learn this um and I can't actually mark this I
+1:06:07
+should have told you all this at the beginning probably um I can't find a mark scheme for this online it says they're actually not
+1:06:14
+available and you should ask your teacher for a mark scheme on the website where I found this one
+1:06:19
+so I can't Market but I'm pretty confident that everything else I did was okay obviously I don't think I quite got
+1:06:26
+the answer they were looking for on the intersection of the Spheres maybe I'd pick up one mark of the three but I'm
+1:06:32
+confident that everything else I did felt okay felt right I think I'm sure
+1:06:37
+you'll all tell me in the comments if it wasn't um but and you're very welcome to do so please do
+1:06:44
+um but no it was it was good fun as always the uh the language thing was interesting with the uh the Google
+1:06:50
+Translate uh on the on the exam paper uh was certainly something that's a new one
+1:06:56
+um but yeah not quite perhaps the hardest as I mentioned at the beginning but somewhere somewhere in the middle so
+1:07:03
+all that's left to say is thank you to all of you for watching please do remember to subscribe to the channel if
+1:07:09
+you've enjoyed the video and if you'd like to see more exam content please do send in your suggestions I'd love to do
+1:07:15
+exams from other countries having now covered the UK quite a few from the UK obviously I'm biased uh the US and now
+1:07:23
+Germany I'd love to keep this going and try some others from around the world so add your suggestions to the comments or
+1:07:30
+you can get in touch using the contact form on my website go to tomrocksmaths.com click contact and that
+1:07:36
+comes straight through to my email thank you for watching please like And subscribe and I'll see you all very soon
+1:07:43
+take care

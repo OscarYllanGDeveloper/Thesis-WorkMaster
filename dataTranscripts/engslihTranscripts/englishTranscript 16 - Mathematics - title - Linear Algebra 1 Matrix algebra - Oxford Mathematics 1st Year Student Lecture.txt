@@ -1,0 +1,789 @@
+0:02
+[Music]
+0:12
+so I said I would say what um reduced ralon form really is and it's the
+0:17
+following so the first
+0:23
+nonzero in any row in a row oh in a row is is is one
+0:34
+right all
+0:39
+entries above and
+0:46
+below a leading one that is a one at the both on zero
+0:53
+and a row are zero all entries above and below one of
+0:59
+these ones are zero in that
+1:10
+column the leading one
+1:18
+okay in a row is in a
+1:27
+column to the right
+1:34
+of any leading one in a row above right of [Music]
+1:40
+any leading
+1:47
+one okay in a row
+1:54
+above okay and finally any all
+2:03
+zero rows okay come
+2:11
+below nonzero
+2:19
+rows okay okay so I just have in my mind
+2:26
+these rules sound a little complicated but there's sufficient um here's a matrix in reduced
+2:34
+R Echelon form so if we have a one there then we have to have zeros in the same
+2:39
+column below it and then if we have one there then we have to have zeros in the same column above and below it and then
+2:48
+we might have another number here so I put minus 27 27 was obviously my favorite number
+2:55
+that day okay and then I put 15 up here so that was my second favorite number that
+3:02
+day okay and then we might have a zero here and a zero here and then if we have a one there so
+3:10
+you see the ones are moving to the right be moving to the right then I have to have zeros in that
+3:16
+column okay and then I might have something like four five six I was running out of
+3:24
+inspiration for numbers and zero at the bottom here and we might have something
+3:30
+like seven 8 n so the value of the numbers I put in this Matrix apart from
+3:36
+the ones which are one are clearly completely arbitrary this is just an
+3:43
+example that satisfies these rules above you go along any Row the first
+3:50
+thing you hit is a one if you have a one at leading row
+3:57
+then above and below it are zeros okay and if you have a one in this row
+4:03
+then it must be to the right of the one in this row and any all zero rows come right at
+4:10
+the bottom this is a reduced row Eon form
+4:22
+okay so this will be useful um on the problem sheet but it'll also
+4:28
+be useful a little bit later when we come to do other things
+4:38
+okay so today I'm going to talk a little bit about to start with about Matrix
+4:48
+algebra Okay so we've seen yesterday that we have
+4:56
+matrices so here's our Matrix let's give it a name a and it has entries and I'm going to have
+5:01
+an entry a one one as the first entry and a one 2 as the first second entry in
+5:11
+the first row and so on and then this goes up to a one and I've called it
+5:17
+n okay and then the next row will be
+5:23
+a21 and a22 and so on up to A2 n
+5:30
+some people put commas between these indices I'm not doing so this is not
+5:37
+a12 this is a sub12
+5:42
+right and then the last row in my Matrix here will be a
+5:50
+M1 and am M2 and up to a
+5:58
+MN well I can't really put that one in that's not really fair okay so here is a matrix so if a i
+6:07
+j is a real number okay this is a
+6:14
+real M by n
+6:19
+Matrix okay in other words it has M
+6:25
+rows and N columns
+6:31
+right the first index is sort of the row index and the second index is the column
+6:38
+index okay okay so we
+6:45
+say that a belongs to r m cross
+6:52
+n so that's the notation that I would use so sometimes you'll also see
+7:00
+um a in M and N which I like
+7:08
+less but that notation you'll see means exactly the same as this notation which I think is a little bit more
+7:17
+descriptive okay so note
+7:23
+that um r m cross1
+7:30
+okay these are column
+7:37
+vectors these are column vectors
+7:45
+okay with M
+7:54
+entries and R 1 cross n
+8:01
+are row vectors
+8:07
+with
+8:21
+n and then what about algebra if a and b
+8:27
+are both matrices with the same number of rows and
+8:32
+columns okay then C The Matrix which you get by
+8:39
+adding a to B is defined as follows well first of all let me say that this has
+8:46
+entries b i j just like in a above in other words if I put b equals and I
+8:53
+Chang all the little A's to Little B's it would be the thing
+8:58
+right and this C is going to have entries you
+9:03
+guess it right this is going to have entries c i j as in a
+9:11
+above okay so Cal a plus b is
+9:18
+defined by C J equals a i
+9:25
+j plus b i j okay well this is pretty easy right
+9:32
+every index I equal 1 up to M and index J equal 1 up to
+9:41
+n okay so that's sort of the most obvious thing isn't
+9:48
+it Define addition of two
+9:53
+matrices okay and
+10:02
+because uh real addition addition I'll say
+10:08
+addition of real numbers addition real
+10:15
+numbers commutes that means you can do it either
+10:22
+way around right because addition of real numbers commutes
+10:28
+also C is equal to B +
+10:35
+a because B plus AIG is the same as AIG
+10:40
+plus b so the commutativity of real numbers
+10:45
+leads to the commut commutativity of Matrix
+10:51
+addition okay lots of coughing this morning is
+10:56
+everybody had a drink before they come in right it's nice to hear silence I'm not criticizing I've had a
+11:04
+cough for two weeks but anyway it's nice if it was okay um so Matrix this should be a
+11:13
+capital M Matrix
+11:18
+addition is also well first of all it's
+11:25
+um associative
+11:35
+so that simply means that um if a B and
+11:42
+C are matrices with the same numbers of rows and columns and rows rows and
+11:48
+columns sorry M rows and N columns um
+11:56
+then if I add a to B and then add
+12:03
+C okay then that's the same as adding B to C and then adding
+12:11
+a
+12:16
+okay and so there's no
+12:23
+ambiguity in writing
+12:34
+a plus b plus C in other words I don't need to put these brackets into indicate
+12:41
+the order in which I do these these additions
+12:46
+okay okay let me also say that um if
+12:51
+Alpha is a real number um and a is a real M by n
+13:00
+Matrix um just like we've got here
+13:06
+right then uh Alpha time a is defined to
+13:14
+be Alpha time a11 and Alpha time a12 and
+13:20
+Alpha time A1 n and Alpha time
+13:27
+a21 alp a22 and Alpha time
+13:32
+a2n and Alpha time a
+13:37
+M1 a you've got the
+13:42
+idea okay so that's what scalar multiplication of a matrix
+13:52
+means um and then I'll say uh also that clearly uh The Matrix
+14:02
+which I shall call zero okay which is a real n byn
+14:10
+Matrix and this has all zero
+14:17
+entries right is if you were populate an N byn Matrix with every entry equal
+14:24
+zero uh clearly this guy satisfies
+14:30
+that Z plus a is equal to is equal to
+14:36
+a okay for
+14:42
+all a is in the right side
+14:53
+okay so in other words the addition of matrices is quite easy quite straightforward and it follows all the
+14:58
+the rules that you would expect in some sense how could you define it differently you couldn't really Define it
+15:07
+differently matrix multiplication on the other hand is a little more
+15:18
+complicated okay so matrix multiplication as opposed to Matrix addition okay
+15:24
+so here I'm going to take positive integers
+15:32
+I'm going to take positive inches and I call them um uh m n and
+15:40
+p i don't like using small o as an integer so I've called it P so if a
+15:47
+belongs to r m cross P okay and B belongs to r p cross
+16:01
+n so this has M rows and P columns and this has P rows and M N columns
+16:10
+right then a * B which is called
+16:17
+C and again times I write with no symbol as we do usually right a * zal C this
+16:26
+guy belongs to R M cross n okay is
+16:35
+defined defined by c j c
+16:42
+j c i j now I got not going to spit it in there write it on the next board c i
+16:51
+j is equal to the sum and this is the sum this is the symbol for summing
+16:56
+things up we sum k a = 1 up to P of a i
+17:04
+k that's the i k entry of a times B KJ
+17:11
+that's the KJ entry of B right and this I can also write as a i vector and I've
+17:20
+made a very explicit defin um thing here which I'll show you what I mean dotted with B J Vector okay okay this is I = 1
+17:31
+up to M and J = 1 up to
+17:37
+n okay on the next [Music]
+17:42
+board where I've also written The Matrix a as its rows so A1
+17:53
+Vector A2 Vector a what's this this is M right M
+18:02
+Vector so I'm writing it like that so you can think this is a vector right it just populates this
+18:08
+row and B I correspondingly write as B1
+18:14
+Vector that's a column vector and B2 Vector up to
+18:20
+BN vector and what's the point here the point here is that the AI vector
+18:29
+are in r one cross P I reckon the column
+18:36
+they're row vectors I'm sorry with P entries so a is
+18:42
+in r m cross P so that means it has M rows and P columns and so if I write it
+18:49
+in this form as vectors then each of these vectors is of length p and it's a row Vector so I write it like this and
+18:56
+correspondingly BJ is in our P cross one it's a column vector and
+19:04
+because B is in r p cross n that means it has P rows and N columns well you can
+19:11
+see the N columns but the P rows mean that each of these vectors is of length P which is why I can write this as the
+19:20
+dot product I hope you all saw this rather important dot here of the I row of x
+19:28
+a times the J column of B this do proba perectly well defined
+19:36
+because these are both P vectors right if they're of different
+19:41
+lengths if one had 15 entries the other had 17 then there's no way you can Define the dot product or at least I've
+19:47
+not defined it yet but if they're both P vectors then I can Define the dot prod so I'm just
+19:53
+trying to get you to think in slightly different ways this is a way of defining
+19:58
+the product of two matrices okay so you need the length to
+20:05
+add up so I'm defining matrix multiplication just like I defined at Matrix addition above for particular
+20:12
+sizes and if the sizes don't work then you cannot Define these
+20:17
+operations so you can't add a 3X two Matrix to a 9 by7 Matrix that doesn't
+20:23
+make sense right in the way that I've just defined it
+20:29
+and similarly you can't multiply two matrices for which the number of rows of
+20:34
+this Matrix is not sorry the number of columns of this Matrix is not equal to
+20:40
+the number of rows of that Matrix okay
+20:47
+examples so let's have some examples first of all if a is equal to one two Z
+20:53
+and minus one let's say so this is in
+20:59
+r 1 cross 4 okay and B is equal to I
+21:06
+chosen three 0 2 and minus one so this
+21:11
+is in our full cross one okay then
+21:18
+AB which is C is
+21:26
+precisely sorry four somebody can do Ari right this is four and this is in r one
+21:32
+cross one which we don't identify more specifically than
+21:37
+it's the real numbers if you want to put R1 cross
+21:45
+one I don't mind okay so this is just the dot
+21:55
+product of two vectors of a row
+22:05
+vector and a Col
+22:14
+Vector that's example number one example number two here we are we
+22:20
+have a matrix one one 2 - one 2 - one
+22:28
+so this is a 2x3 Matrix okay and if I take b as equal to
+22:36
+the vector XY Z then this is sort of what we've
+22:41
+already seen C is equal [Music] to x + y + 2
+22:51
+Z right and - x + 2 y - Z
+23:01
+okay so that's what we've already seen right I've already written systems of equations essentially by using this
+23:07
+before defining it but I just point one thing out to you here that you can perhaps not thought about as well as
+23:14
+thinking of this as being you know the dot product of this Vector with this Vector to give that Vector to give that
+23:20
+scalar I'm sorry and then the dotproduct of this Vector with this Vector to give this
+23:26
+scalar you can also think of this as x times the first column of this
+23:33
+Matrix plus y * the second column of this Matrix plus Z times the third column so
+23:40
+you can see x - x y + 2 y 2 Z minus
+23:48
+Z so that's another way of
+23:53
+Ching alternative alternative ways are sometimes useful that's all
+23:59
+okay that's example number two example number three is just um if I take oh I
+24:05
+taking the same Matrix one one two right so this this is a I'm sorry this is a
+24:11
+and this is a again minus one 2 - one I must have liked that Matrix when I was
+24:16
+doing these examples and B is equal to the Matrix 3
+24:23
+-1 Min -1 and four and 2 and-
+24:29
+two then the product of these matrices a * B is perfectly well defined and this
+24:35
+is equal to then C the product AAL C is just a
+24:41
+matrix well I reckon it's 6 - one -
+24:49
+7 and 11 again no cleverness in this choice of
+24:56
+numbers
+25:03
+okay so that's matrix multiplication defined so what are the properties
+25:09
+matrix
+25:14
+multiplication okay is first of all it is
+25:25
+associative and that means that a times b c or if you mean what it means
+25:33
+is multiply B by C first and then multiply on the front by a is the same
+25:41
+as multiplying a by B A * B and then multiplying on the back with C
+25:49
+okay and soorry in other words the brackets are not
+25:55
+needed okay if you have products it's also
+26:06
+distributive and that just means that a times well you do B plus C first then
+26:13
+you premultiply by a that's equal to a B
+26:19
+plus a c if all of these things are defined if
+26:24
+the dimensions are correct that all these things are defined otherwise it's simply not defined right and this is uh
+26:32
+also true that a + b multiplied by
+26:38
+C is a c plus b
+26:44
+c so Matrix solution is distributive but it's not
+26:53
+commutative okay so it's not commutative in in other words a * B is not equal to
+27:02
+B * a in
+27:07
+general okay so you simply can't change the order of the multiplication arbitrarily and you can see in all of
+27:13
+these rules I've not changed the order right
+27:19
+here um so you can also see from this that um a b equals z
+27:28
+so if this is M by P and this is p by n this is M by n this is the zero Matrix
+27:34
+of all zero entries this does not imply that a equals
+27:40
+z or b equals 0 okay so this does not imply that and you only need to think of
+27:48
+very simple examples to realize that that is true so if I take the non-zero Matrix
+27:54
+this and I take b as the non-zero Matrix
+28:00
+this then the product of these two matrices is zero so neither of these matrices are themselves
+28:10
+zero
+28:15
+okay okay very important Matrix here is a matrix I call I and so does everybody
+28:21
+else an i as this Matrix it has a one on the diagonal and then it has zeros in
+28:26
+the remaining row and the remaining columns and then it has a one and then it has
+28:32
+zeros and I don't know how many zeros I should put in here but this is a one and
+28:38
+this is a zero so this is just a matrix of which
+28:46
+the diagonal entry a i i as it were is one and any off diag entry a i j where I
+28:53
+J are different is zero this is a square Matrix right so this has to be be a real
+28:58
+and in this case I'm doing an N byn Matrix right did I put n byn okay this a
+29:03
+real n byn Matrix so it has n rows and N columns so that's why I can do do this dashed line there is a very definite
+29:12
+diagonal okay um this this is the n byn
+29:23
+identity the identity Matrix
+29:31
+okay satisfies by the simple rules of a
+29:36
+matrix multiplication I have above a * I is equal to I times a okay for all
+29:52
+a and this is equal to a I should say
+30:00
+so there is a matrix which you can multiply something by both on the on the right and on the
+30:07
+left which preserves The Matrix and that's this guy if you just look at the
+30:12
+rules of of matrix
+30:23
+multiplication um so because
+30:28
+it's not commutative multiplication is not
+30:34
+commutative great difficulty with these words because it's not commutative then
+30:43
+AB is premultiplication
+30:54
+premultiplication of B by
+31:00
+a or post
+31:11
+multiplication an L of a by B so you can either say that I take
+31:19
+a and I post multiply by b or I take B and I pre- multiply by a okay those are
+31:25
+different things and the only thing I'll say finally which I will do on this
+31:31
+board okay is that clearly um for a in r n cross n so this
+31:42
+is a square Matrix again as was I and so on for a square Matrix um a * a is
+31:52
+perfectly well defined and this we write as a squ that means a * a is matrix
+31:59
+multiplication okay and this is a clearly a n byn Matrix it works for
+32:04
+square Matrix for sure and a * a * a we've already seen I don't need any
+32:10
+brackets to say which I do first this is a cubed and this is in r n cross n as
+32:18
+well okay so these are
+32:26
+unambiguous in other words I can write a to the 17 and that just means
+32:33
+you take the Matrix a if it's square and you multiply it by itself 17 instances 16
+32:40
+multiplications okay uh we also Define a to the power
+32:49
+Z to be this special Matrix I that I've identified here okay
+32:58
+that's rather like saying x to the 0 is one in a scalar
+33:04
+context so that if we have a polinomial p of X is
+33:14
+equal to a0 plus a1x plus and I've done a k thee
+33:21
+polinomial here a KX to the k okay
+33:28
+so we saw these in the complex numbers introduction course
+33:34
+okay so if you have a polinomial in a variable X then you can necessarily
+33:40
+easily Define a polinomial in The Matrix a and the polinomial in a is the same
+33:47
+coefficient a Zer to scalar times the identity that's a to the zero plus A1 *
+33:55
+a plus a 2 * a 2 plus plus a k * a to
+34:02
+the power K and this is a
+34:08
+matrix polinomial
+34:24
+okay sorry you guys have difficulties okay I'll hold it push it up for a little bit
+34:31
+I'll bring it down
+34:43
+later so this is just defining what we do with matrices right we can add them we can therefore subtract
+34:50
+them we can multiply them and then the question arises about can we
+34:58
+divide them
+35:03
+right and so up over
+35:11
+here a question uh which arises
+35:19
+arising
+35:25
+throughout
+35:31
+mathematics but much more generally than this throughout science and
+35:43
+engineering okay is the following if you've
+35:48
+got a matrix a which is
+35:54
+square right has to be a square Matrix and then the question is does there
+36:02
+exist a matrix B of the same Dimension it would have to
+36:08
+be the same Dimension to make for this to make sense such
+36:14
+that AB equals the identity Matrix and that's
+36:20
+the same as ba okay
+36:27
+so if you give me a matrix is there a matrix B which I can multiply by a to
+36:32
+get me to this identity Matrix okay okay
+36:40
+any such
+36:45
+b is an
+36:51
+inverse and we denote the inverses a
+36:57
+is to the power of minus one okay so for example if you've got n
+37:05
+equal 2 and I start off with a generic Matrix a b c d where these are just
+37:14
+numbers then if this is a we can see by
+37:21
+construction that if I do the following I put D here and a there just I swap
+37:27
+these two over and I negate these guys here but don't move them and divide all
+37:35
+of this by a D minus BC so here's a scaler times a
+37:42
+matrix so we know what that means that means you multiply every entry of the matrix by this
+37:48
+number then you can see that this is a minus BC oh already minus BC so the one
+37:54
+one entry is one okay and DB minus BD oh that's zero so this
+38:02
+is indeed the identity Matrix
+38:07
+okay and so that means that this guy is an
+38:14
+inverse okay but you can note that this guy here
+38:21
+exists okay if and only
+38:27
+only if if and only if um you can actually divide by ad
+38:35
+minus BC in other words a minus BC cannot be zero otherwise this division
+38:41
+is simply not defined
+38:47
+okay okay a inverse
+38:54
+exists okay a inverse exists
+39:00
+means that a is well people use either the word
+39:08
+invertible or the word that I prefer is non
+39:15
+singular okay that a to inverse does not
+39:25
+exist means a
+39:31
+is singular people less often say not invertible but I shall use the word
+39:40
+singular when a matrix a does not have an inverse
+39:47
+okay okay so now I get to the first
+39:54
+um proposition of my course right so here's a proposition right it just says
+40:00
+that for a and b being real n byn
+40:09
+matrices okay there are some n byn matrices of real numbers some of you might have realized
+40:15
+already that I could have substituted this r with a c and then I'd have matrices made up of
+40:22
+complex entries or indeed I can do that with lots of other SoCal Fields we'll come to
+40:29
+that in a second so let's think about reals at the moment because it makes life easy for a and reals first of all
+40:35
+the first result is if a inverse
+40:40
+exists okay then it is
+40:47
+unique okay so if a matrix has an inverse then it can't have a different
+40:55
+inverse um the second result says that if you take a and you try and invert it
+41:02
+so a * B is perfectly well defined for two square matrices and if you the invert this this
+41:10
+is equal to the inverse of B times the inverse of a in that order this is if a
+41:17
+inverse and B inverse exist
+41:24
+okay this is rather important because it tells me that the the product of
+41:29
+invertible matrices is invertible
+41:37
+right the product of invertible matrices is invertible and the third item I shall
+41:43
+put in this proposition tells me that the inverse of the inverse so I had to put a
+41:49
+bracket in here to make this make sense clearly the inverse of the inverse is
+41:56
+the The Matrix a itself okay so
+42:02
+let's provide some proof of these things so let's prove a you uniqueness first of
+42:11
+all suppose that B and C which are
+42:18
+different okay are
+42:23
+both inverses of a
+42:35
+okay then I just say by
+42:41
+associativity then it must be true that b a
+42:50
+c equals b a c of course right but then
+42:56
+I can put brackets in wherever I wish and if I put brackets around a and c and
+43:01
+I put brackets around B * a
+43:08
+okay well hang on a second B is an inverse of a so B * a is the identity
+43:15
+Matrix and C is an inverse of a so a * C is the identity Matrix and so this tells
+43:23
+me that b is equal to C okay because of
+43:38
+this so in other words if B and C are both
+43:43
+inverses then they're actually the same I didn't have to put in this logic
+43:51
+not equal to here but I'm just trying to make it completely explicit for those of you a little less you know a little less
+43:58
+sure about this if I have B comma C which are both inverses then this argument still
+44:05
+works right I'm just explicitly saying to make it sound a little more coal you
+44:12
+they're different then they can't be different they have to be the same okay two
+44:20
+um uh is I'm going to um ask you to see
+44:25
+the uh problem sheet because this is on the problem sheet so you can think about
+44:32
+this proving my proposition number
+44:37
+two and three just says that well a
+44:42
+inverse time a is equal the identity is equal to a *
+44:48
+a inverse
+44:54
+okay so by the first proposition a is equal to a inverse
+45:03
+inverse in other words the inverse of this Matrix is a and
+45:22
+a okay so that finishes my uh prop
+45:28
+position I guess one of the reasons that people think about inverses if a
+45:36
+inverse exists okay
+45:42
+then the solution
+45:47
+X in our n CR 1 okay of a * X equal B where B is in
+46:00
+our n + 1 so in other words x and V are both n column
+46:06
+vectors okay is X is equal to a inverse time
+46:24
+B
+46:30
+I mean this is a slightly trivial statement but it's just sometimes people like to say this so the question of
+46:35
+whether this in inverse exists relates to whether there
+46:41
+are is a unique solution X of a system of equations well yesterday we looked at
+46:47
+systems of equations and we looked at whether there were what kinds of solutions there were
+46:55
+so in the first example I gave you there was a unique solution so in that situation you would expect that I could
+47:02
+have written down a matrix inverse okay I'll come over
+47:11
+here oh I've only got a a couple of minutes
+47:22
+um yeah it's not it's not really worth me um starting on the next bit for just a couple of
+47:29
+minutes so I'll I'll stop there today
+47:48
+it's
+

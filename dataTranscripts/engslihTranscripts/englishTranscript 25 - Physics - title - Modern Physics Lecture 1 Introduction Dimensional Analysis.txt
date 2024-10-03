@@ -1,0 +1,960 @@
+Administrative Details
+0:01
+you blinking you're blinking uh okay let's go ahead and get started um my
+0:07
+name is Alex I am teaching physics 260 this year modern physics if you are not
+0:12
+in physics 260 you are in the wrong place um I'd like to begin um just by uh
+0:21
+going over a few administrative details for the course I just handed out a syllabus um if does anyone not have one
+0:28
+if someone does not have one you probably don't have one um uh this just contains some
+0:35
+administrative stuff that I'd like to go through um first things first I'd like to introduce our Tas Jean Bernard here
+0:42
+Jean Bernard ah there he is uh Jean Bernard and Marius will be the two Tas
+0:47
+for the course um their roles will primarily be to hold office hours to
+0:52
+answer questions that you might have uh to grade problem sets um and to write the solutions for
+0:59
+those problems uh their contact information is here uh on uh the syllabus also my contact
+1:05
+information is listed um my phone number my email address um I don't use my phone
+1:12
+number I mean you can use my phone number but it's not going to do nearly as much good as using my email address
+1:17
+um that email is the preferred method of communication for the course uh you guys are welcome to sit around to stay around
+1:23
+if you want but uh you can go eat lunch if you want to eat lunch um the rest of
+1:28
+you can eat lunch too oh that's fine as long as you bring enough to share that's the rule um okay um yeah so let's see we
+1:37
+meet three times a week uh Monday Wednesday Friday 12:30 to 1:30 uh occasionally I will have to uh be out of
+1:44
+town during one of the lectures uh in which case I'll find someone to give an alternate lecture sometimes these are
+1:50
+super special Secret Surprise lectures uh on special subjects outside of the
+1:55
+main uh part of the course curriculum uh unfortunately to this this Friday is one
+2:00
+such day when I have to miss class but I've already arranged a makeup lecture um I think there might be one or two
+2:06
+times uh throughout the semester and generally uh if I do have to be out of
+2:11
+town I'll arrange for someone to come and give a lecture just because you know I know that you guys are so excited
+2:17
+about physics that you couldn't bear the thought of missing a class uh so um and
+2:23
+if I can't do if circumstances arise where I can't find an alternate lecturer then I'll probably cancel class uh but
+2:29
+hopefully that won't uh have to happen um let's see Communications uh if you
+2:35
+are registered for this course I have your email address um that's the email address your official mck email address
+2:41
+that I'll be using for course announcements uh so check your email um because if I get hit by a bus and need
+2:49
+to cancel class that is the method by which you will find out unless I'm dead
+2:54
+Okay in which case I don't care um uh you can come to class anyway um let's
+3:01
+see if you are not registered for the class and want to just sit in for fun that's great that's fine do send me an
+3:08
+email so I can add your name to the email list though uh because you'll also want to know if I get hit by a bus um
+3:14
+also occasionally there will be type if there's a type on problem set or something like that and I need to let you guys know um I will send that all
+3:22
+out by email um there is a course web page uh listed on the syllabus lots of
+3:27
+good stuff there um other things as you may have noticed uh I lecture uh in a
+3:33
+slightly non-standard way uh using this tablet as you can see
+3:40
+um that means that all of my lectures are recorded uh by the computer uh so uh
+3:48
+on my course web page uh after after each lecture I will post uh the written course notes that you see right there
+3:55
+and also a recording of the lecture uh so if you have to miss class uh that's fine uh you can just look at the recording uh
+4:02
+the one caveat is that I can't guarantee that I'm going to record every lecture uh this is an old computer um it crashes
+4:08
+about one out of every 10 lectures so um skip class at your own risk I mean I
+4:13
+don't you know I have no emotional attachment to you guys attending class if you want to go uh skip class that's
+4:21
+fine uh but you will learn more if you come to class um let's see um yeah like
+4:27
+I said if you need to get in touch with me email is the best way I try to answer all emails within 24 hours um uh I've
+4:34
+listed office hours here Fridays 2 to 3 p.m. uh if you need to come talk to me um office hours are a guaranteed way of
+4:42
+uh knowing that I will be free to talk when you stop by you can always try and stop by my office some other time uh
+4:48
+more often than not I'm probably uh in the middle of something and so I might tell you to uh I might set him an
+4:54
+appointment at some other time or tell you to come back ask you to come back during office hours um if you can't make
+4:59
+office hours uh the best thing to do is actually send me an email and set up an appointment uh so that I can make sure
+5:04
+to be around and be free um let's see gring um there are three uh components
+5:12
+uh to your grade in this course uh problem sets midterm and the final exam
+5:17
+um the problem sets will be handed out weekly um Wednesdays uh in principle um
+5:24
+that was at least my idea uh we'll see how that goes um uh and I'm really letting you guys down by not adding out
+5:31
+a problem set today actually um but I decided that it would be nice and give you the first week off um so probably
+5:37
+what I'll do is uh on Monday I'll hand out a problem set um that'll be do the following Wednesday so I'll in general
+5:44
+be handing out problem sets Wednesdays they'll be due the following Wednesday at the beginning of class um if you
+5:50
+finish them early you can always turn them in by putting them in the physics 260 uh mailbox in the physics department
+5:58
+uh mail room um let's see oh yeah uh work together on
+6:04
+the problem sets I have no problem with that um your colleagues are a great resource there's no better way of
+6:10
+working through material than working through it uh together uh uh with other people um however um your problem sets
+6:18
+uh should reflect your own work and your own understanding um some of the
+6:24
+problems that I'll be using will be similar to problems that I uh used last year when I Ted this course um and I did
+6:31
+hand out solutions to problems that's last year uh so it is possible that those Solutions Areo floating around
+6:38
+however uh you are not allowed to use uh the solutions from last year's problem sets the use of those Solutions is
+6:44
+considered plagiarism um if I discover it or suspect it I will treat it as plagiarism so consider
+6:51
+unfortunately uh in the past I haven't made that announcement but unfortunately um the situation you know
+6:59
+based on my previous experiences I feel like I do have to make that announcement
+7:04
+um uh let's see uh if you uh can't turn in a problem set on time uh and you have
+7:12
+a valid import good uh reason then uh me the Tas and I are happy to Grant
+7:18
+extensions um but if you want an extension you need to contact us before the problems that's do um if you don't
+7:24
+get an extension we take off points for lateness uh we do hand out solutions for the problem sets um and once I hand out
+7:31
+solutions for the problem sets I don't take a late problem set because I think that wouldn't be fair to all the people who turned in the problem set on time um
+7:38
+there's a midterm um it will be in class at some uh future as yet undetermined
+7:44
+date there will be a final um the final will be scheduled by the uh brilliant uh
+7:52
+computer that schedules all of our final exams at this University um prerequisites so um I will
+7:59
+assume that you've had basically a year of uh freshman physics um if you were in
+8:07
+the uero program here that means roughly 131 and 142 or um roughly say physics um
+8:14
+I will also assume um a solid understanding of calculus uh linear algebra at the level
+8:21
+of vectors matrices uh and so forth um for example I'll assume that you're
+8:26
+taking math 222 concurrently with this course uh or that you've taken it before
+8:32
+um and more generally um I'm going to assume that you're all part of the U1 honors uh physics program so how many
+8:39
+people here are in the unu honors physics or math physics program my computer's asleep raise your hands again
+8:45
+hi okay good um you know for those of you who are not in the unu uh honors
+8:51
+physics program uh that's fine okay um you're welcome to take this class that's
+8:56
+great but you should be aware of uh what is expected Ed um and in particular um
+9:02
+this class is taught at a higher level um and at a faster Pace than our
+9:07
+standard undergraduate uh physics classes uh you should be prepared to do some reading on your own um you know I
+9:14
+will uh do the best I can to teach you everything you need to know but you're going to have to supplement that and
+9:20
+you're going to have to do a little work on the problem sets more so than in a standard undergraduate class um let's
+9:27
+see um oh I will also assume that you're taking this class concurrently with physics 251 which is the mechanics class
+Prerequisites
+9:35
+how many people are taking physics 251 good okay uh if you're a unan honor student that is that you you should have
+9:42
+just raised your hand um I do coordinate a little bit with uh uh Robert brandenberger who teaches that class and
+9:48
+in particular um one of the text the textbook for that class is one of the textbooks that I will be using for this
+9:54
+class um as I'll describe in a minute um maybe I can just
+10:00
+um ask a couple words about prerequisites how many people have already taken multivariable calculus
+10:07
+okay good if I say if I ask you to if you know how many people know what a Jacobian
+10:13
+is good how many people have taken a linear algebra class good how many people um if I say
+10:22
+hyperbolic cosine how many people know what that is okay good if I say e to the
+10:28
+I is cosine thet plus I sin Theta how many people are really excited by by
+10:33
+that statement how many people are aware of that statement even if they're not excited by it raise your
+10:40
+hand good um let's see how many people have take so how many people have taken
+10:46
+a full year of standard freshman physics whatever that means to you you know the one where you do the stupid block
+10:52
+sleding down the stupid inclined planes and you do like Max I don't know you do Maxwell's equations and and stuff like
+10:59
+that have you guys all taken that how many people know Maxwell's equations how many people could write down Maxwell's equations if I asked them to and said
+11:05
+they'd fail if they couldn't do it okay how many people could write down one of Maxwell's equations okay interesting um let's see
+11:15
+how many people have seen special relativity in one form or another raise your hand High higher higher very high
+11:23
+okay how many people have seen Laurence Transformations few of
+11:29
+okay you'll see them again okay good thank you um let me just
+11:35
+say a word about the textbooks so uh frankly um this is a slightly strange
+11:41
+class um because uh in some ways this is a highly non- self-contained class um
+11:47
+the point of this class is not to take any one subject and to delve into it uh with a great deal of depth but rather to
+11:54
+introduce you to a broad range of uh subjects in modern physics including
+11:59
+relativity uh cosmology quantum mechanics Atomic physics and whatever
+12:05
+else I feel like teaching um and so uh for that reason I think the textbooks
+12:10
+for courses like this tend to be pretty poor frankly um so this the textbook
+12:15
+that I'm going to use for this course is this one by uh Bernstein and friends um it's pretty good um I think it's the
+12:22
+best of a bad lot frankly um I it has the right material at more or less the
+12:27
+right level but I spent a while looking at various modern physics textbooks and I didn't find I've never found any uh
+12:34
+one that really uh excites me um so for that reason I'm really not going to to
+12:41
+I'm not going to follow the the textbook particularly closely um I really am going to be writing my own lectures um
+12:49
+teaching it the way that I damn well please uh uh yes question sorry darn
+12:55
+well please darn well please um yeah good question the question is whether it's necessary to
+Textbook
+13:00
+get the textbook I I can't you know necessary it's necessary I mean I'm not going to I'm not going to tell I'm not
+13:07
+going to fail you if you don't get the textbook you might fail yourself uh um I
+13:12
+did put the textbook on Reserve at the library um I know you can get it online for a lot cheaper than it is at the
+13:18
+bookstore um I encourage you to get the textbook um a fair number of the
+13:24
+exercises are taken from the textbook but you know you can always just go to the library and copy down the exercises
+13:30
+if you want um I feel like uh it would be unfair of me to not have a textbook
+13:35
+because it's nice to have something to hold on to um you know like even though I don't follow the textbook super
+13:41
+closely I am careful to use the same notation as the textbook which I think is actually pretty important and good
+13:48
+and I think it's really important to have something that you can read uh which is an alternative to the explanations that I give because not
+13:55
+every explanation works for every person so I think it's important to to have a textbook I'm not in love with this
+Reference Books
+14:01
+particular Bernstein textbook um but I do recommend that you get it but you
+14:07
+could always just try and use it for the library for the first few weeks see if that if that's a total pain you could get it if it's fine then it's fine um I
+14:15
+mean the exams are all close book exams so it's not like you need it to take an exam anyway um let's see oh yeah so um the
+14:24
+first third of the course is on special relativity and I actually like the treatment of special relativity in uh
+14:30
+moren's book on classical physics better than I do in any of the modern physics textbooks uh that's the text book for
+14:37
+your uh classical mechanics class so actually for the first third of the class a better reference is this book by
+14:42
+Moren as opposed to the book by Bernstein um again uh most of you
+14:48
+probably almost all of you have it because you're taking the the the classical mechanics class if you don't
+14:53
+you don't need to buy it you can it's on Reserve at the library but I think it's a slightly better reference uh than the
+14:58
+the one by um Bernstein and friends um the other reference that I think
+15:04
+actually is really quite nice is that the first couple lectures I'm going to give you a little crash course on
+15:10
+estimation methods in physics uh dimensional analysis how many people know what I mean when I say the word
+15:16
+dimensional analysis interesting okay last year when I taught this class nobody had any idea
+15:21
+what I meant when I said dimensional analysis in some ways uh that might be the most important thing you learn in
+15:27
+this class it's not really textbook material um but I I did find one nice textbook uh that cover has a nice
+15:34
+chapter on dimensional analysis and the advantage is that it's available for free online so you can follow the link
+15:41
+uh on the syllabus it's also linked to on the course web page and check out the chapter and dimensional analysis on that
+15:47
+in that book I think it's pretty nice I actually really like that book I think it's a great little it's it's like
+15:52
+bedtime reading for physic um yeah it's good um I've also listed a bunch of
+Other Reference Books
+15:58
+other really nice references I think I really love this little book by David merman on on special relativity um it's
+16:05
+not very mathematical it's pretty conversational um but it's a great little book oh another book that I
+16:11
+forgot to write down there but which is really wonderful is Einstein's book on relativity uh there's nothing more fun
+16:17
+than learning um at the at the feet of the Master Okay um so uh you know
+16:25
+Einstein's book on relative special he has a couple books two books on special relativity actually uh well one on
+16:31
+special and general relativity and one I think just on special relativity they're both really lovely um so they're really
+16:38
+not suitable for a textbook or anything like that but if you have uh the interest and the time I'd recommend
+16:44
+checking them out um I've recommended here two other little modern physics uh textbooks sort of very similar to the
+16:51
+one we're using in the class um um they're both pretty good um they're both
+16:56
+on Reserve at the library um and finally uh I like this book by George gamau which is just a nice
+17:03
+popular book again bedtime reading for physicists
+17:08
+um okay uh let me um now just say a little bit of um a word about what this
+Course Description
+17:15
+course is um and and and why you're all here oh yes there we go um so
+17:26
+um one of the problems with the physics curriculum is that um it's front-loaded
+17:33
+with a lot of really boring classes okay um you know I don't want to uh say bad
+17:39
+things about stupid blocks sliding down stupid planes and and stuff like that because you need to learn it but uh you
+17:46
+do spend a lot of your time in the first couple years of your physics undergraduate studies uh studying
+17:53
+basically s stuff that Isaac Newton figured out you know uh 400 years ago
+17:59
+almost and so um I think it's a real shame uh that uh the way that our uh
+18:06
+physics curriculum is structured the way that everyone's physics curriculum is structured is that you don't get to the fun stuff quantum mechanics general
+18:13
+relativity cosmology astrophysics condensed matter physics until really uh
+18:19
+quite late in your education and so uh the point and so this has um a couple of
+18:26
+uh unpleasant side effects I think one of which is that um undergraduates are sometimes frustrated that they're
+18:32
+studying physics to learn all of this cool advanced stuff but they have to keep waiting and waiting and waiting before they get to it and um the other I
+18:40
+I think unpleasant side effect is that um you can get a little lost when you're studying all of this beautiful wonderful
+18:47
+classical uh mechanics and electrodynamics and all of that stuff uh you can lose a little bit of perspective
+18:53
+about which parts of this are important for later on in my physics career or later on in my life when I try and when
+18:58
+to use this to to actually do physics um and so the goal of this course is to remedy uh that situation to the extent
+Course Goals
+19:06
+that it's possible so um uh what we're going to do here is we're going to throw you into the deep end uh you're not
+19:12
+ready for quantum mechanics you're not ready for general relativity you don't know all you don't have all the
+19:17
+background you need to fully appreciate those subjects but what we're going to do here is give you a bit of a survey of
+19:25
+these subjects um teach you what you can introduce some basic Notions introduce some basic ideas um which will sort of
+19:33
+um uh get get the juices flowing and get you excited about learning these
+19:38
+subjects in the future and put sort of the rest of you the undergraduate curriculum maybe in context um and
+19:46
+really uh my goal here is to begin to take you from the 17th century to the 20th century okay maybe the 21st century
+19:53
+although that might be pushing it um but uh a lot of what's going to be we're
+19:58
+going to study in this class is um really uh What uh physicists began to
+20:05
+understand uh in the first half of the 20th century um and so uh that's still
+20:10
+almost 100 years ago but it's much better than 3 or 400 years ago
+20:16
+um yeah and in addition I think um you know one sort of uh underlying goal of
+20:24
+this course is not just to teach you information but to teach you problem solving techniques um and to teach you
+20:31
+the way and to at least begin to teach you the way that physicists actually think about physics as opposed to just
+20:38
+uh Stupid blocks sliding down stupid inclined planes or something like that okay um so uh I've written here a very
+Course Outline
+20:46
+uh a telegraphic outline of the course um it's a little sketchy um roughly
+20:51
+speaking the next couple lectures I'll do uh some general stuff dimensional analysis where are we going in this
+20:57
+class um estimation techniques um I'll spend another good
+21:03
+chunk of the course on special relativity um the special relativity portion of the course is going to be
+21:09
+divided into two parts um there's a part on the kinematics of special relativity
+21:14
+uh lawence Transformations SpaceTime um length contraction time dilation all that stuff before moving on
+21:21
+to the Dynamics of special relativity uh energy equals mc^2 Mass momentum uh um
+21:28
+scattering processes and things like that um then what I'll do is I'll move on to a discussion of general relativity
+21:36
+which is the extension of special relativity to include um gravity I'll talk a little bit about the curvature of
+21:42
+SpaceTime and about its implications uh the most important of which is for cosmology um the section on special
+21:49
+relativity is going to be quite precise um because you are at a point in your careers where you should be able to
+21:55
+understand everything about special relativity and understand it well um the section on general relativity general
+22:01
+relativity is going to be a bit more uh schematic um because the math required
+22:06
+for a full study of gr um is a bit beyond you at this point um but nevertheless there are a lot of
+22:12
+interesting things to say uh especially about cosmology um and then in the
+22:17
+second half of the course we're going to move on to Quantum Mechanics uh so uh
+22:22
+I'll start out by discussing um the bore model how many of you have seen the bore model
+22:28
+okay good well we'll uh do it better um we'll do a better job and put it in um a
+22:36
+you know more of a a context hopefully than you've seen it before uh before
+22:41
+moving on to quantum mechanics and so the last I would say third of this course is just going to be a kind of uh
+22:48
+schematic introduction to Quantum Mechanics um and to its implications and
+22:55
+quantum mechanics is to some extent the subject in physics um it is um the the
+23:03
+most I think probably the most important subject that you will learn um as
+23:08
+undergraduates in a physics major um and it's a difficult subject and one that
+23:13
+takes a long time to wrap your heads around and so that is uh a process that
+23:20
+we will begin in this class but one that will not end uh for quite a while uh if it ever does okay um and then I put
+23:28
+special topics I always put special topics at the end of a syllabus because it means that if I have time I can talk
+23:33
+about whatever I want to talk about any
+23:39
+questions no questions let me just say a word about
+23:46
+uh the way that I teach um I understand that there are many people here uh from a lot of different
+23:52
+backgrounds some people coming from sageep some from uzzo some from who knows where um and so for that reason I
+24:00
+never quite know whether what I'm saying is hitting the mark Or Not um and the
+24:05
+only way that I know whether you are understanding uh what I'm saying is if I get feedback from you so for that reason
+24:12
+I really want to encourage all of you to ask lots of questions I will be personally disappointed in each and
+24:19
+every one of you if I do not get lots of
+24:24
+questions okay have I laid it on okay so I want a question any
+24:30
+questions yeah nope um we will decide that
+24:36
+um uh by a uh quasi Democratic process whereby you will vote on things and then
+24:42
+I will make a decision because it's not a democracy um but we'll we'll we'll we'll come to that uh later on I mean we
+24:48
+could decide it now for all I care but yeah let's do it later any other questions yes are you going to be
+24:55
+introducing any real differential geometry from the G section or you just kind n I'll handwave it I mean um yeah
+25:02
+as I said gr is a topic that um is mathematically I mean it's something
+25:08
+that mathematically if you wanted to spend a semester learning gr if I wanted to spend this whole semester teaching a gr I could teach you gr
+25:16
+um it's nothing there's nothing too complicated about it I mean I think a
+25:22
+high school student could learn general relativity um if they put their minds to it but it's the sort of thing that I
+25:28
+don't think that we just have time to devote you know a full semester to studying and so for that reason I'm
+25:33
+going to be a little sketchy I'll introduce the vocabulary I mean frankly a lot of this course is uh about
+25:40
+vocabulary it's about my telling you words and saying those words often enough that later in life when you hear
+25:46
+someone say that word you're not scared okay you think oh geodesic I've heard of
+25:52
+a geodesic it's this thing in gr that tells me how objects move when space curves
+25:58
+and you don't necessarily need to know the geodesic equation or the christopal connection or anything fancy like that
+26:04
+but you'll have the basic idea okay and you'll more importantly know where you can look to find out more and that place
+26:10
+of course is Wikipedia um yes any any other questions
+26:17
+yeah no other questions yes when you see
+26:26
+that questions no this is a Physics course so that everything's you
+Essay Questions
+26:33
+know the ex you know I mean uh there's no yeah there are no essay questions in
+26:39
+this course um it does mean it you know I will give you bits and pieces of the
+26:44
+mathematics that you need um I will do my best to make this course self-contained uh to some extent that's
+26:50
+a real challenge for me for a course like this um I actually uh for long time advocated
+26:58
+cancelling this course because so I think that I was then asked to teach it um it's a bit of cosmic
+27:07
+Justice uh but um I think that uh because I
+27:12
+think this is an unusual course okay um because it is not uh the standard
+27:18
+Physics course you systematically develop everything from the beginning to the end of a subject and you end up with
+27:23
+a nice coherent beautiful picture um and we and that's what we'll do for special
+27:28
+relativity we'll start at the beginning we'll end at the end and at the end of the day we'll have some beautiful physics that we can understand
+27:35
+completely okay um but that will only take us four weeks okay um and so then
+27:41
+we'll go on and do a little bit more of a survey of these various different topics but no we don't do essay
+27:46
+questions uh we do math and we do physics okay because we're a real physicist any other
+27:55
+questions yes ofch what is my field of research my field of research is
+28:00
+theoretical particle physics String Theory black holes Quantum cosmology um I'm happy to answer
+28:08
+questions about my field of research but actually what I've done in the past is that as a reward the lecture after the
+28:15
+midterm I uh will give a talk about my research I know you must be as
+28:21
+fascinated by as I am okay um yeah uh so
+28:26
+yeah I'm happy to talk about my research but um and it's if you want me to stop
+28:31
+talking about whatever I'm talking about a good way of doing that is asking me about my research and I say Alex tell me
+28:37
+about the quantum mechanics of black Halles I'll immediately drop whatever I'm doing but no uh but let's talk about
+28:43
+uh modern physics instead any other
+28:49
+questions good please interrupt me and ask questions at any point um Okay so
+Modern Physics
+28:57
+now my computer is
+29:03
+asleep yeah see this is why I promise are you awake that I'm not going to reliably
+29:10
+record the lectures is this thing on it's
+29:19
+okay he ah there we go yeah I can't wait until
+29:29
+Apple makes one of these things and then um it just work okay
+29:35
+good so um what is the goal of this class so um the goal of this class is to
+29:42
+go beyond the standard picture of Newtonian physics um that you've learned so far in your classes for example on
+29:49
+classical mechanics so our goal is to go beyond Newtonian
+29:56
+physics
+30:04
+and so what do I mean by Newtonian physics well I mean the classical Laws of Motion fals
+30:12
+Ma and all of the various weird and wonderful consequences
+30:17
+thereof and before diving into any particular details of Relativity or
+30:23
+quantum mechanics I would just like to set the stage for you a little bit and talk about the types of modifications to
+30:30
+Newtonian physics that we will be discussing in this course and I would like to give you a few methods for at
+30:36
+least estimating the basic strength and size of these modifications to Newtonian
+30:44
+physics and there are really two types of uh
+30:49
+effects that we will be discussing and these are really the two substantial modifications to Newtonian physics that
+30:57
+were discovered in the early 20th century namely modifications of Newtonian physics due to Quantum effects
+31:05
+and modifications due to relativistic
+31:11
+effects and before even describing in detail what the nature of these effects
+31:18
+are I think it's important to step back a little bit and ask under what
+31:24
+circumstances these effects will be important because learning special relativity is all well and good but if
+31:31
+you just want to understand for example the amount of time it will take for this box of chalk to hit the floor if I drop
+31:37
+it then you need to understand you need to understand why it is you don't need to know special relativity or quantum
+31:43
+mechanics or Nuclear Physics or anything like that in order to estimate the amount of time it'll take for this box
+31:49
+of chalk to hit the floor but I'm not going to actually drop it um so uh in
+31:54
+order to do so um what I want to do is uh spend the first two or three lectures
+32:01
+discussing dimensional analysis and dimensional analysis is the
+Dimensional Analysis
+32:07
+tool that we will use to analyze uh the strength of these
+32:17
+effects which are governed by two
+32:26
+parameters the strength of relativistic effects is
+32:34
+are governed by uh a quantity CL C which is the speed of
+32:42
+light and the strength of quantum effects is governed by a quantity we call H which is Plank's
+32:55
+constant and so if you want to understand whether for example special relativity is going to be relevant when
+33:03
+considering a given physical situation the question you need to ask yourself is
+33:08
+are the typical velocities that are arising in this problem greater than or
+33:13
+of order the speed or less than or of order the speed of light so for example if I drop a piece of chalk from here
+33:21
+onto the floor then the typical veloc the velocity of that uh object as I drop it is is far far far below the speed of
+33:29
+light which means that the strength of relativistic effects are going to be
+33:34
+very small um and uh on the other hand for
+33:40
+example if I take this piece of chalk and I drop it into a black hole okay then the strength of relativistic
+33:46
+effects will be quite important and so um our goal then is just to develop a
+33:51
+little bit of intuition for estimating the size of these effects
+33:58
+so let me just uh tell you
+34:03
+uh some vocabulary I told you this was a course on vocabulary so U let me draw an axis here
+34:11
+okay this is not a schematic plot this is a moral plot the vertical axis is special as
+34:22
+relativity so as you increase along the vertical axis relativistic effects become important and as you
+34:30
+increase along the horizontal axis quantum mechanics effects become
+34:36
+important so here in uh the lower leftand
+34:41
+corner where neither effect is
+34:46
+important the laws class the laws of physics are governed by the laws of
+34:54
+classical mechanics and then as relativistic effects become more important uh special
+35:01
+relativity takes
+35:08
+over so for example uh if the velocity of uh the object that you're considering
+35:14
+is of order of the speed of light then special relativity rather than classical mechanics is the appropriate set of
+35:20
+rules of physics to use whereas if quantum mechanics uh become important
+35:26
+then class IAL mechanics is replaced by quantum mechanics that's why it's called quantum
+35:31
+mechanics and then if both uh relativistic and quantum mechanical
+35:38
+effects are important then uh we have up here in the upper right hand corner uh
+35:44
+particle phys well it has it's a field which has a lot of different names you could call it relativistic quantum
+35:50
+mechanics or you could call it quantum field Theory or you could call it particle
+35:57
+physics uh they're all more or less uh different terms for the same thing which
+36:03
+is the Theory of physics that uh is needed to describe situations where both relativity and quantum mechanics are
+36:10
+important and it's important to emphasiz of course that it's not that Newton's laws are wrong it's just that they have
+36:17
+a regime of validity which is governed by those two parameters C and H that I
+36:23
+drew at the top of this slide and in order to
+36:30
+estimate the size of these
+36:37
+effects it's useful to use dimensional
+36:47
+analysis and dimensional analysis is a very fancy term for a very
+36:54
+very simple yet powerful idea so in order to explain dimensional
+37:00
+analysis to you let me REM let me remind you of something that you already
+37:06
+know which is that many physical
+37:12
+quantities that we will be concerned with in studying a given physical problem are measured in some System of
+37:25
+Units for example you might measure the length of
+37:32
+some object and if you're using the SI system of units you would measure its length in
+37:38
+meters whereas if you're using the CGS System of Units you would measure it in
+37:44
+centim whereas if you were measuring the mass of the object you would measure that either in kilograms or in
+37:52
+GRS or an interval of time would be measured in either seconds uh or
+37:59
+seconds it's a joke cuz seconds is the same okay never mind um and
+38:08
+um these three different units length mass and time are the basic set of units
+38:16
+out of which all other quantities that we are interested in studying in physics uh are defined well there are other
+38:22
+sorts of units such as for charge and so forth which one can add in addition to this but as far as
+38:31
+studying um uh mechanics uh these are the three basic quantities of
+Terminology
+38:39
+Interest so let me now introduce a bit of
+38:44
+terminology so a quantity which is the
+38:50
+same in every System of Units
+38:59
+is called
+39:05
+dimensionless and a quantity which is not the
+39:12
+same is called Dimension
+39:18
+f for example the length of this pen is a dimensionful quantity because uh in
+39:26
+the SI units I would measure it in meters whereas in the CGS units I would measure it in centimeters and those two
+39:33
+uh numbers would differ by a factor of 100 so the length of this pen is a dimensionful quantity whereas the ratio
+39:39
+of the length of a pen to a length of a piece of chalk is a dimensionless quantity that ratio is the same no
+39:47
+matter what system of units I use to make those measurements the factor of 100 would
+Notation
+39:55
+cancel and so so for example we often use um a little piece of notation when
+40:01
+describing the dimensions of various objects so a linear
+40:08
+size or length of an object has
+40:14
+Dimension well it has Dimension length and so if for example you're
+40:19
+measuring the radius of an object R and you want to remind yourself that it has Dimensions length we would
+40:28
+say that we would put uh well I guess there are variety of different notations
+40:34
+that people use uh the notation that is most common is you would put the quantity in Brackets and say it goes
+40:41
+like length you know the little squiggly sign meaning that it goes like uh I didn't teach you that in math class uh L
+40:48
+for length whereas for example uh an
+40:54
+area has dimension length
+40:59
+squared so that the area of some object goes like length
+41:05
+squared and uh a length of time likewise would have uh dimensions of time uh a
+41:13
+mass would have dimensions of mass so we could also
+41:19
+uh you know the length of time would go like time and a mass would go like Mass
+41:27
+but we also have various derived
+41:33
+quantities which are built up out of these three basic Dimensions length mass and
+41:39
+time so for example the velocity of an
+41:46
+object will go like length divided by time because it is the distance that an
+41:54
+object will travel uh in per in a given amount of time and so the velocity of an
+42:00
+object is dimension full but the ratio of the velocity of an object to the
+42:05
+speed of light is dimensionless because it's a velocity divided by a velocity the lengths cancel and the times
+42:12
+cancel uh energy for example has Dimensions who tell who can
+42:18
+tell me what the dimensions of energy are hint mc^ 2
+42:27
+energy has dimensions of uh mass time velocity so Mass * length squar ided
+42:35
+time squar um the quick and dirty way of figuring out the dimensions of your
+42:41
+favorite quantity in physics is to just remember your favorite physics formula
+42:47
+and uh use that um so for example uh if you want to figure out the dimensions of
+42:52
+force FAL ma a a is the derivative of velocity with respect to time so it has
+42:59
+dimensions of uh length over time squared so
+43:05
+Force has dimensions of mass time acceleration so Mass length over time
+43:14
+squar uh how about let's do another example density the density of an object is the
+43:21
+amount of mass per unit volume so that will have dimensions of mass over length
+43:27
+cubed volume of course going like length cubed
+43:35
+and the important point the point that I cannot stress
+43:41
+enough is that any physical
+43:48
+law should be
+43:53
+independent of the system of units
+44:01
+used to write that
+44:11
+law so in particular any valid physics
+44:20
+equation say a equals B
+44:28
+should relate
+44:33
+quantities with the same
+44:45
+units and um a corollary of this observation is that any physical
+44:54
+law can be written in terms of dimensionless
+45:13
+quantities um to see why that's true let's imagine that we have a physical law a equals B where A and B both have
+45:20
+dimensions of length for example then in order to write that in terms of dimensionless qu quties just rewrite
+45:27
+that as a / B equal 1 A and B both have dimensions of length a b is
+45:34
+dimensionless and very often the best way of understanding the physics of a given uh system is to write everything
+45:41
+in terms of dimensionless quantities and then try and understand how those dimensionless quantities are related to
+45:46
+one another and the important point is that
+45:52
+this observation that every law of physics Rel relates quantities with the same uh with the same Dimension
+46:01
+constrains the possible laws of physics so this
+46:08
+constrains the possible laws of
+46:18
+physics um for example it tells
+46:24
+us that no law of
+46:31
+physics involves the exponential of a
+46:42
+length it's why well what is let's imagine that I have uh a quantity say uh
+46:49
+the length of a piece of chalk L and I want to write down a physical
+46:54
+law that is obeyed by this piece of chalk say a law describing its rotation
+47:00
+as I subject it to some forces or something like that then the exponential
+47:07
+of that length of a piece of chalk well what is the exponential it's definition
+47:12
+is in terms of a tailor expansion 1 + L + 12 l^ 2 plus dot dot
+47:20
+dot this involves the addition of something with Dimension One plus
+47:26
+something with Dimension length or something dimensionless rather something which has Dimension One Plus something
+47:32
+with Dimension length plus something with Dimension length squared and so on and so forth so any law which involves
+47:40
+only the exponential of um the length of the piece of chalk can't possibly be
+47:46
+written in terms of uh uh can't possibly relate only quantities which have the same Dimension so this is no
+47:54
+good but what could make sense for example is
+48:00
+an exponential of the length of the piece of chalk divided by some other
+48:06
+length scale okay so if you have another length scale in the problem another
+48:11
+quantity with dimensions of length in the problem then this of course is the exponential of a dimensionless quantity
+48:18
+so it's dimensionless and this is okay so a quick and dirty way of
+48:26
+understanding whether any result that you have derived in some problems that for example uh is plausible is to check
+48:33
+that it only relates quantities which have the same
+48:39
+Dimension and then uh along with um this
+Two Basic Principles
+48:45
+uh observation that the laws of physics um
+48:51
+uh only relate quantities with the same uh dimension we have two basic
+49:04
+principles the first is the principle of dimensional analysis and the second is I
+49:10
+guess I would call it a principle uh it's more a dirty trick which is that for obtaining order of magnitude
+49:21
+estimates so I will just say them in words um although we'll en under them more uh next class but the principle of
+49:29
+dimensional analysis says that if you have a problem involving a bunch of
+49:34
+physical quantities but it's only possible to form one dimensionless combination of these quantities then
+49:41
+that dimensionless combination must be a constant likewise if you are trying to
+49:48
+solve some Physics problem and you can only form two dimensionless quantities from all of the various inputs to your
+49:55
+problem then that one of them must be a function of the
+50:00
+other so if you I want you to think about this and think about why it is that this is a consequence of the
+50:07
+observations about physical laws that I've made earlier in this class and then
+50:12
+the second principle that I've written here that of order of magnitude estimates is the statement that in
+50:18
+general if you have a dimensionless quantity one of the the the the the the pieces of uh truth in physics uh is that
+50:28
+if you have a dimensionless uh combination of quantities then most likely it's of order
+50:35
+one and if it's not of order one there better be a good reason so let me give you an
+50:42
+example the uh rules of physics the basic laws of
+50:49
+physics are governed by three dimensionful quantities the speed of light Plank's constant and Newton's
+50:55
+constant which determines the strength of gravitation from those one can construct
+51:00
+one and only one length scale therefore you would guess based on
+51:06
+this order of magnitude estimate that the size of the universe should be this length
+51:12
+scale so your homework assignment this is one of those homework assignments that's not on a problem set but one that
+51:18
+you do to become a better physicist is to go and calculate that length scale and compare it to the size of the
+51:23
+universe and see of this order of magnet itude estimate uh is
+51:29
+true give you a hint it's wrong okay um it's okay so your homework problem is to
+51:36
+figure out how many orders of magnitude it's off by give you okay oh you go look up the
+51:42
+speed of light speed of light uh what 3 * 10 10 cm/s look up Newton's constant
+51:49
+uh look up Plank's constant form the dimensional form the quantity uh out of
+51:55
+those three uh objects which has dimensions of length compared to the size of the universe the universe is
+52:00
+what 10 billion light years across just do it it's a fun exercise okay um that
+52:06
+would be an example of when this order of magnitude estimate is wrong that's 10 okay um it's uh uh 125
+52:15
+uh so I will go ahead and uh end here and um see you guys uh next
+52:24
+class

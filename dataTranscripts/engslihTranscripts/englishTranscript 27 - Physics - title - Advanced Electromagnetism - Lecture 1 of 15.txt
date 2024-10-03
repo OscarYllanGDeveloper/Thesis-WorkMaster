@@ -1,0 +1,1682 @@
+0:05
+okay so I'm back and so now we move on
+0:12
+building on what we have learned of classical mechanics and we move on to to
+0:19
+the next subject traditionally in classical physics where classical means non quanto okay you know
+0:27
+that classical physics roughly classical mechanics electrodynamics that is what we are going to learn is what we are
+0:36
+going to do now and then usually it's thermodynamics or statistical mechanics
+0:43
+that probably you don't do you do you have a class on that or not not you're
+0:50
+going next semester to have one okay so these are the three branches of classical mechanics essentially physics
+0:59
+up to the last century one century so
+1:06
+what now electrodynamics is is a very broad subject and no way that in 20
+1:14
+lectures I'm going to cover I mean we are just going to cover a very limited
+1:21
+amount of of what we could do but the idea is to introduce to you the main
+1:29
+equations so that you are going to be able to read a book or papers on the
+1:37
+subject and of course to build on that for your further studies in physics
+1:42
+maybe it's a good point here - how much do you know about did you know the Maxwell's equations how many of you can
+1:51
+you also so who knows the Maxwell equation raise a hand so don't be shy
+2:01
+principal all of you should know this stuff right because you have a degree in physics so I mean but okay so we are
+2:08
+going to end of course one has the problem where to start because this is a big subject so where should we start
+2:15
+usually well there are two ways want to start
+2:21
+from building up the equations roughly following the historical development so
+2:26
+starting from Coulomb and electrostatics and then these people with the with the
+2:34
+Umbra I mean did you know this stuff with magnetic forces but I think we don't have time for that I mean we are
+2:41
+too old for that so I rather start from Maxwell equation so I'm going to write
+2:48
+the Maxwell equations I'm not going to justify justify these equations you just
+2:53
+take them for for good the same way that we took Newton's law right we didn't
+2:59
+justify why F equal MA just take that for good right that is true and then let's see what we can do
+3:07
+with that so my idea here is just let's do the same with Maxwell's equations and
+3:12
+then derive from those all the possible consequences among which you will
+3:19
+rediscover Coulomb's law right this idea that two charges attract or repel each
+3:26
+other with the force that inversely proportional to the distance just exactly like Newton's law of universal
+3:33
+gravity so maybe I write like I did for for for classical mechanics a short
+3:39
+outline you know what we are going hopefully out to do so I think before
+3:47
+Maxwell equations I write today in fact I would like to say a few words about
+3:52
+Lorentz force because remember that
+4:01
+electrodynamics is the Maxwell equations plus the Lorentz force because the Maxwell equations tell you how to
+4:11
+compute the electromagnetic fields but they do not tell you how a charge moves
+4:17
+under the effect of this field right so you need an additional law a force that
+4:25
+is Lorentz force ok so we start from there by the way that was in your final
+4:30
+samso that's a nice place where you stop maybe you didn't notice but the problem there it was exactly the problem of a
+4:37
+charge in an electric a magnetic field we will do that in a second
+4:44
+so then Maxwell Maxwell equations of
+4:50
+course then from Maxwell equations we specify a subset of problems that go
+4:59
+under the name of a electro static
+5:05
+electrostatics so when nothing is changing with time and of course also
+5:12
+magneto static so usually in many
+5:19
+textbooks the outdoor start from here and build up to the Maxwell equation so
+5:25
+we go the other way I think it's faster and after all we know the answer so and Faraday Faraday's
+5:34
+law that is a sort of a bridge between electrostatic and magnetic statics so
+5:41
+here you start very slowly some electric field and discover that you have a
+5:48
+magnetic field because this is the very nice things that we discover either by
+5:54
+starting from the Maxwell equation or building this way is that the electric field and the magnetic field that
+6:00
+apparently are very different right I mean for many years people never dreamed
+6:07
+of thinking that the electric field and the magnetic field where this one and
+6:13
+the same things right why within the context of Maxwell equations this is
+6:18
+very much so because you see that by varying a magnetic field or by varying electric field you generate the other
+6:25
+kind of field and then it becomes absolutely fundamental when we rewrite
+6:31
+all the things in within the relativistic approach right from the point of view of Einstein's theory of
+6:38
+relativity it is and it must be that electric magnet
+6:44
+fields are one and the same things because depending how you move with respect to an electric field you start
+6:51
+seeing a magnetic field and vice versa so they must be linked maybe something
+6:59
+about conservation laws they apply to feel as we have seen they apply for the
+7:06
+motion of point particles of rigid bodies so we will study a little bit about these conservation laws for fields
+7:14
+and then we start solving the Maxwell equations as we did for the Newton's law
+7:21
+and there are classes of solutions so here I just write some with
+7:29
+solutions that means we see
+7:36
+what and then radiating system because
+7:46
+here we we make the day the the
+7:51
+surprising result that if you move if
+7:57
+you accelerate a charge or if you move accelerating a charged system you start
+8:03
+emitting radiation okay and this radiation is light according to
+8:11
+different frequency so then we study this solution that are plane waves
+8:16
+so you see Maxwell brought to the together a electro let's say
+8:24
+electrostatic and manic to statics and then made the fundamental discovery that when you bring these two together also
+8:31
+light that apparently has nothing to do with the charges or whatever is just a
+8:38
+particular solution of the Maxwell equation so light itself is unify in
+8:44
+this picture this is really the most important unification of forces that we had in physics still it still stands
+8:51
+that electricity and magnetism are the same force and light is just
+8:57
+manifestation of these two forces together this still stands I mean it's
+9:05
+still true in fact it's still the only truly unified force that we know because
+9:11
+if you go to quantum level probably you have heard that also the weak forces is
+9:17
+unified with the electromagnetic forces but this is not the same level of
+9:22
+unification that you have here there they are similar but they are not really
+9:28
+unifying the same sense that really are the same force as it is here so after we
+9:34
+study a little bit about the plane wave solutions of the Maxwell equations we I
+9:40
+will they asked me to to give an introduction about relativity so we will
+9:48
+study the dynamics of relativistic
+9:59
+relativistic particles and field so I
+10:10
+assume that you already know this stuff right this these things about Einstein
+10:16
+right e equal MC square but we will do it in a more systematic way as I as you
+10:25
+may have guessed and by how you do that in a more systematic way by introducing
+10:30
+space-time and by describing all physical quantities in term of four vectors right as we use vectors in
+10:38
+classical mechanics a to describe particles and now if you want to do it
+10:44
+relativistically you just move up one dimensions you you three time the same way you treat well almost the same way
+10:50
+you treat the other three dimensions and by doing that you use four vectors or
+10:55
+four tensors in general so instead of counting one two three you count 0 1 2 3 and by doing that you write all your
+11:03
+equation in a covariant manner it said so this is the the correct way of doing
+11:08
+relativity for at 4:04 for a student of physics and we do the
+11:15
+same for the field and if I have time I would like also to introduce the Lagrangian approach for fields that is
+11:21
+probably what you want to to have since you know how to write a Lagrangian for a particle and here we have feels it seems
+11:28
+reasonable to have the same formalism that is Lagrange equation and Hamiltonians also for the field so we'll
+11:35
+do that in four four dimensional notation okay and by doing that we will
+11:41
+rewrite much the equations in in a explicitly covariant manner it said so
+11:47
+that we are sure that they are relatively strictly covariant okay after
+11:53
+all Einstein himself started from here because he noticed that Y remember that
+12:00
+our Newton equations was invariant right you remember for Galilean
+12:06
+transformations that is the physics look the same for systems moving with with
+12:14
+constant speed one with respect to the others right you remember this was a very fundamental law which we built
+12:22
+before Christmas if you try this this is not true for Maxwell's equations so this
+12:29
+was the basic observation you had two sets of equations Newton's Maxwell's and Iceland check and
+12:37
+Mac well not just an exam everybody knew that Maxwell equations were not
+12:43
+satisfying the same principle of even Callaway and invariance that Newton's law did okay so this was a very puzzle
+12:51
+right you had two nice sets of equations describing all the physics you knew but they were not the same because some were
+13:00
+described from one invariance principle and the other so which one had to one of
+13:06
+the two had to is like now people talks all the time while quantum mechanics and gravity right probably you heard about
+13:12
+that you have quantum mechanics that works very well and gravity the design
+13:18
+staff theory of gravity that works very well but you don't know how to put them together okay so this was exactly the
+13:23
+same problem conceptually you have the Maxwell equation describing perfectly well all we knew about electrodynamics and the
+13:31
+Newton's law or Lagrangian equations whatever you prefer described in very
+13:36
+well classical system of particle strings and rigid bodies over this guy
+13:41
+but they look different they you could not put them together okay so something
+13:47
+had to to yield I mean which one is right okay here's the same question with
+13:52
+quantum mechanics and gravity is quantum mechanics correct all the way then gravity has to be modified or vice versa
+13:59
+quantum mechanics at certain tiny level of very small distances it has to be
+14:07
+modified to give rise to gravity okay well nobody's knows maybe one of you
+14:13
+will provide the answer but and here
+14:19
+probably most people put their money or Newton's because I mean that we knew
+14:24
+that women have equal a me I mean how can be wrong but actually as you know
+14:30
+the other way around is the correct one that is a Maxwell equations that are
+14:35
+invariant under Lorentz transformation not Galilean transformations right are
+14:42
+the correct description of nature and Newton's law is not correct you have to change Newton's law okay so that we will
+14:48
+discuss a little bit about this theory of relativity about which again I assume
+14:55
+you already know but it's nice to study something that you already know because
+15:01
+you feel comforted in your knowledge so
+15:07
+we will do a little bit not much I mean that again it's a subject we will discuss a little bit about Lorentz
+15:13
+transformation and how you modify some of the classical equations to allow for
+15:19
+for relativity okay so maybe we say something about the paradoxes because of
+15:25
+course it's not so obvious that this is the correct transformation laws because
+15:32
+you know that there are things that don't do not seems obvious when four 20s that
+15:39
+affect the velocity of light is only the same no matter the the frame of
+15:46
+reference that you are using right that is completely against Galilean transformation because obviously if you
+15:52
+are on a car moving 100 kilometer per hours and you turn on your lights
+15:59
+according to the Galilean transformation light from your headlight should move to
+16:05
+the speed of light plus the hand and 100 kilometer per hour this is obvious and of course it's not true so one has to so
+16:12
+you have all those paradoxes coming from that about dilatation of time and length
+16:20
+so on so forth it is just that we are not used to since our life is in a regime in which the
+16:29
+speed of light is very much higher than all the speed we so we are not use our mind is not used to this kind of Lorentz
+16:36
+transformation is much more used to the Galilean transformation even though even though that two are not so obvious
+16:43
+because remember what we discussed many many times that if you push something you stop pushing most people will say
+16:49
+that if you stop pushing the object we stop right why we know I hope by now to
+16:56
+have hammer in your head these things that if you stop pushing the thing keep of moving this is the Galilean
+17:02
+invariance okay so even that or maybe I think it's it I really believe that it's
+17:08
+more revolutionary the Galilean concept that you know if you stop pushing the
+17:14
+things keep on moving that is f equal MA that you know it's more revolutionary
+17:20
+than the einstein's idea that you have to use Lorentz covariance because if you accept that then is a little step to go
+17:27
+to Lorentz covariance okay and so after
+17:32
+having done this I think we I don't know if you probably we won't have the time
+17:38
+but I would like to go back to the problem of the radiation by a moving
+17:45
+charge so that we do it in a four-dimensional
+17:53
+way that is the correct way of doing it okay of course many things are left out there
+18:01
+are many things well but you can find most of these in in the textbook that I
+18:07
+suggest that is Jackson Jackson
+18:12
+directions I think classical electro
+18:20
+dynamics so as I already told some of
+18:26
+you this this is the likely the gore Stein classical mechanics that I
+18:31
+suggested in the classical mechanics class this is sort of the textbook that
+18:38
+everywhere in the world is used I mean any student of physics though a list of
+18:43
+these two books the directions and the constants okay they might be lambda but
+18:52
+they also this is nice because it's the common knowledge yeah you can't read
+18:58
+what I what radiation by charge yeah
+19:05
+it's hard to charge yeah I guess so it's
+19:16
+a part of being a physicist to belong to this community at least there are these
+19:22
+three to two textbooks that every student have study and so this is a bit
+19:29
+complicated some of the chapters are a little advanced I think we are not going to discuss those chapters but all the
+19:38
+rest you you find it they're a more or less I will follow that that textbook
+19:44
+unfortunately the the problems the exercises of this book are very difficult so if you thought the gold
+19:51
+standard where difficult these are really difficult so I didn't know what
+19:58
+to do I mean they are interesting I think a little too difficult for us so
+20:05
+I think this time I'm not going to assign problems from the books each time I will write so I think I take the the
+20:12
+problem from these other books that you don't need to to know about and I will
+20:17
+write here the problems and then you solve it and then we solve them together as we did the other time okay okay we
+20:28
+try this is the first time that this class is given by me at least so we try and see how how it works okay questions
+20:36
+please how much I think 20 classes so
+20:47
+that means formally 40 hours but things here the hour is like 45 minutes
+20:53
+it's a relativistic effect right there already so we see let's see I think
+21:00
+roughly that 20 classes you don't need more I mean you don't need to know
+21:06
+everything about this I think you need to to to you know it's like classical mechanics we didn't cover all the
+21:12
+subjects am we really sort of served true but I hope at least you have some
+21:21
+ideas some fundamental ideas I hope III I taught you about those and here we do
+21:31
+the same did this way you you you have the tools to move on to to to more
+21:37
+advanced subjects but you will always come back I mean in your professional life you will see you will have to go
+21:44
+back to this book because you will meet things that we haven't started working on you have to
+21:58
+a little bit too epic a butterfly
+22:03
+Commission okay other questions please
+22:11
+louder because I'm a little yeah I think
+22:18
+if you I don't know did you like the way we did it for classical mechanics if you
+22:23
+like that we do the same that during the week I give you some problems then you
+22:28
+solve them and on Monday we solve them together if you did not like that I mean
+22:34
+it's nice I think but it's time-consuming so if I do the problems
+22:40
+it's faster because I read the solutions in the book but I think it's good for
+22:46
+you to try yourself so so let's try it this way
+22:52
+we will see so my idea is that again i give you the problems then next Monday for instance we start and you saw two or
+23:00
+three problems and then so two classes for for the theory but as I said last
+23:06
+time the problems are also the theory I mean it's not the physics is not that you
+23:13
+have the front that you know the former staff and then the problems masked much
+23:19
+of the form of stuff is really hidden in the problems right because I can write
+23:26
+them actual equations but until you solve those equations in some specific problem and you get the feeling you
+23:33
+don't know them actual equations ok so you must you see here is a very good
+23:40
+testing ground for this idea that you know a physical equations when you sort
+23:45
+us know the solutions without having to solve it ok you always have a write the harmonic
+23:52
+oscillator that I bore you for four months before Christmas but I hope now
+23:57
+when you see the harmonic oscillator equations you already see the solution
+24:03
+right I hope because for you these two things must go together when you see dot dot and then something
+24:10
+you already must see this sign going up and down okay and this is
+24:15
+the idea when you see the Maxwell equations you already see the solutions okay the waves for instance okay other
+24:23
+questions the difference know that there
+24:36
+is no difference it's just name I think electrodynamics is more I don't know
+24:44
+sexier than electromagnetic because this idea of dynamics right you have this
+24:49
+particles moving around but I don't know it's just me probably okay it's the same
+24:58
+thing electromagnetism and electrodynamics and I should stay below
+25:10
+this line right okay so as I said let's start with something that we are sort of
+25:17
+familiar with that is so Newton's law
+25:25
+right is this no questions about that I
+25:31
+guess and so then the step that now we move to to the next step is that we
+25:38
+decide what the force is up to now we have taken some strange system where F
+25:44
+was was either due to Springs or to gravity or some stuff like that
+25:50
+essentially was some microscopical forces now as we specify our force to be
+25:58
+what is called the Lorentz force that as you know is the charge of your particle
+26:04
+so now the particles this idea point particles is characterized not only by
+26:10
+by having a mass okay but also charge okay a new property of this point
+26:18
+particles so I skip all this discussion you know what is the charge how you
+26:24
+measure unit you know the coulomb this is very boring and you are going to forget every
+26:30
+time you have to check on your textbook about what the units are let's just take that the the fundamental object that we
+26:40
+are going to study is again the point particle if you wish then we will
+26:46
+generalize to distribution continuous distribution of charges like we did for
+26:53
+the rigid body that was a sort of a continual distribution of mass but so for now let's study the Lorentz force
+26:59
+for a point particles that is characterized by the mass simply because
+27:05
+it has a mass so here you have M times
+27:10
+the acceleration but also a charge that is the charge after all we didn't
+27:18
+discuss much what the mass is right this philosophical question what is the mass and here the same you just have the
+27:25
+charge charge M these are the two fundamental quantities that characterize
+27:31
+your think of an electron for instance if you if you like and Direction is just
+27:37
+a point particle is characterized by two
+27:46
+charges the the mass and the electric charge and then if you remember there is
+27:53
+a the electric field and then the magnetic field that is a little weird is
+27:59
+the weird guy in this equation because he comes with this vector prodigal acity
+28:05
+so this is what is called the electric
+28:13
+it is is the magnetic field
+28:19
+this is the velocity and of course there is this very annoying thing about the
+28:26
+units in electrodynamics because you have many system of units and this is
+28:33
+always the bane of many students because you have always to remember in which
+28:39
+units you are working on I'll come back to this but this equation is like this
+28:45
+in what is called the International System of Units right did you study in
+28:57
+this systems or the Gauss system or the CGS system that is like Gauss in this
+29:04
+case in that case if you are using Gauss or CSU you have an extra 1 over C where
+29:11
+C is the velocity of light from now on in your life for you C is always I don't
+29:17
+know really why they call it C but maybe because it's constant I know but anyway
+29:23
+C is all going to be don't be dead students today at the end of the class on relativity asked what is that really
+29:33
+kills you so see it appear C so they the
+29:38
+Gauss well I'll come back to these things about the unit's because it's it's complicated and it's really not
+29:46
+essential but so let's stick to this
+29:53
+International System of Units and so
+29:59
+there is no C there
+30:05
+so what can we say about these equations okay first of all notice that is you see the force is given not in terms of the
+30:14
+of the physical quantities directly but rather through one-step mediated by this
+30:20
+new concept of field right instead of telling you that this force is
+30:27
+proportional like in the Coulomb force right the product of charges I rather tell you that I tell you what these two
+30:35
+fields the values of these two fields anywhere in space okay and then if I've
+30:42
+given you these two fields vector fields notice then you know how to compute the
+30:48
+source okay this is the idea and this is a very ok it's the small step it looks
+30:56
+like a small step it's a little bit how we did it for the gravitational force
+31:01
+right we didn't study the gravitational force by telling you that if you have a
+31:07
+mass it attracts the other mass attracted it with a force that we introduced the potential that gives you
+31:13
+the value of the potential everywhere in space and then the force the gravitational force was the gradient of
+31:20
+the potential right so we use the potential not to describe the force so
+31:25
+you see it was like intermediate steps but it's very useful and here is really
+31:31
+the development of this idea to the nth powers because everywhere you specify
+31:37
+two fields the electric and the magnetic fields okay and once you know that you
+31:43
+know the force because you use Lorentz force so this is Lauren
+31:50
+and as I said this is a very you see this looks like a small step but really
+31:57
+is the beginning of modern physics because modern physics is made of filth
+32:02
+the idea is that everything in nature that is fundamental all forces are
+32:10
+really filled ok and I don't know if you appreciate the difference because before
+32:18
+you had forces that like for instant force the Coulomb force tells you that
+32:24
+if I have a charge here in the charge here they attract or repel each other with
+32:30
+the certain force that is proportional to the product of the charges and inversely proportional to the square of
+32:36
+the distance but you see this is a description in which you take two charges even infinitely distant and
+32:43
+instantaneously they act on each other producing this force right so this is
+32:48
+the idea also Newton's law of gravity is the same right you have the Sun there and Jupiter there instantaneously they
+32:56
+act on each other but here is a very different approach here I don't tell you
+33:02
+what happened very far away everything is local because this is the force at the point X and a time T and this is the
+33:09
+field at the same point and time and this is the field at the same point time everything is local
+33:15
+there is no instantaneous action ok or interaction everything happen locally
+33:22
+you know what the value of the field is here and you know what the force is there the same point ok so everything is
+33:31
+local this is really the mantra of modern physics there is no action at the distance everything happens because
+33:37
+nearby something is changing ok and therefore remember if this is the case
+33:43
+you can describe it using differential equations because differential equations tell you how sometimes it changes a
+33:50
+little bit away from where you know how its behavior and in fact the Maxwell
+33:55
+equations are going to be differential equations ok vector the Victorian differential equation but still
+34:01
+differential equation so this this idea of writing the force through
+34:06
+some fields and therefore describing everything locally it's very important
+34:12
+conceptually okay even before we start solving this equation because it allows us to
+34:17
+describe the all of physics locally everything happens because it happens in that point and not because of action at
+34:25
+the distance this is still important today okay it's still important today
+34:30
+and there is a nice book that you may like to the I stand himself is saying
+34:37
+together with the Infeld who was a colleague they wrote the start of a
+34:42
+history of physics that is called I think the evolution of the physical law you find it in the tag it's a very nice
+34:48
+very simple book that you can read and enjoy and essentially he describes how
+34:54
+at this idea of field develop and from from very specific example to dominating
+35:04
+the entire understanding of the physical world so that's a nice reading I
+35:09
+remember when I read it I was very impressed so let's let's study two
+35:27
+simple examples of how this motion so what is the motion of a charge and a
+35:33
+given electric and magnetic field of course the simplest example is if we take this field to be uniform and
+35:40
+constant okay so let's just stick to this very simple example you have a charge okay so with Q and a particle
+35:50
+coming in in a region in which there are
+35:55
+uniform and constant electric and magnetic fields how is it going to move okay so if particles come in in a region
+36:04
+in which for instance you know like the the CERN LHC is exactly this example you
+36:12
+you fire a proton that is a charged particle with the mass the mass of the proton and
+36:17
+any goes inside the tunnel where there is in fact magnetic and electric fields and they are made in such a way that the
+36:24
+particle is curved and it goes around right I natural the particle the proton
+36:30
+will go straight but because you have a magnetic field it will curve and because
+36:35
+you have an electric field it will accelerate so that's the basic idea of these big accelerators that people use
+36:45
+to explore the fundamental particles so what is so let's try this Lorentz force
+36:55
+for this pitch cific case let's start with let's first do it for the simplest
+37:01
+case and I guess the simplest case is well I mean if you see what what is
+37:08
+going on here the electric field right
+37:14
+it so we have a uniform and constant E
+37:21
+and B field so as I said the simplest
+37:26
+simplest case and maybe we can start
+37:32
+first with a constant and uniform B field what happened let's take a equal to zero
+37:38
+for the moment and what happened to the to the equation well you see it's very
+37:43
+simple because you have a D so you have this dot P so you have DT and V right
+37:53
+equal so you don't have this term so you just have Pam so I guess I put
+38:04
+well I like it to do it in the in the in the well well it's up to whatever Q so V
+38:19
+cross Q right and then you have the map
+38:24
+at the what B that is constant V cross V
+38:32
+so Q cross P and then here the mass I I
+38:37
+take it to be constant this is not strictly true if it's moving really fast but for the moment let's be non
+38:44
+relativistic so here I have the derivative of the velocity usual the mass I take it on the other side so I
+38:52
+have this quantity V cross say QB divided by m and then maybe you have a
+38:58
+see if you are using the Gauss units you don't have to see if you're using the
+39:04
+International unit okay well let's put so this is like this and this is usually
+39:10
+usually this is written in this form where you introduce you see this is like an angular velocities call where the
+39:22
+modules of this is this Q V MC this is
+39:28
+called the gyro main magnetic rotation it's a constant for that for this
+39:35
+equation okay because B is constant so I mean this this point it is really called
+39:42
+the gyromagnetic ratio because this is characteristic of the particle you see
+39:47
+once you give the charge at the mass of the particle that ratio is given and
+39:52
+then you compute by multiplying by B you you get the quantity so you see this
+40:01
+looks very much like the ya where we already have yes now the
+40:19
+electric field I put it equal to zero I do it step by step then we we turn it on
+40:27
+I just want to see how the solution looks when the electric field is zero notice yeah okay noticed one thing that
+40:34
+remember that the the the magnetic force does not do any work you see you
+40:43
+understand right because you see that the UCB is always orthogonal to the
+40:50
+direction so it's not producing so all the the work is done by the electric field
+41:14
+now I just actually and B are given there are external field so okay maybe
+41:21
+this is so yeah I'm study I mean the Lorentz force gives you the demotion of
+41:29
+the particle for given e and given B by a and B are external is not the electric
+41:37
+field a magnetic field generated by the charge these are two different problems but of course you are correct here I
+41:43
+should include also what happened because I am accelerating a particle so I'm generated but this will do it at the
+41:50
+end of these 20 classes because it's a complicated problem but here this is
+41:56
+like a point particle in a gravitational problem you don't compute the effect of
+42:02
+the mass of this particle on the gravitational field you assume that it's just an extend a gravitational field and
+42:08
+you study the motion this is why it's called a test particle right because you
+42:13
+don't compute the back reaction due to the presence of the particle in the
+42:18
+field this is a useful concept so this for us is a test particle that is I do
+42:24
+not compute the back reaction on the field sorry
+42:30
+due to the motion of this particle exactly as we don't compute the back
+42:36
+reaction in the gravitational problem due to the mass of the test particle that's why it's called a test particle
+42:41
+okay so again I'm taking e equal to 0 so I
+42:48
+have a sub problem that is simpler and you see that this is a so if I write the
+42:54
+component of this I take you see this is a vector product okay so I take the
+43:01
+let's take the B field in the Z direction okay and therefore you see
+43:08
+that you have the V dot X equal this Omega be the V Y okay and the V dot y -
+43:20
+oh me be the X because of this vector product
+43:25
+right and then in the Z direction where where they you have you see you have no
+43:32
+component so the V dot is equal to zero right if the B field is in the Z direction
+43:40
+here it gives zero for the Z so you have this in the other two direction the two
+43:45
+perpendicular directions you have this two component and they come with the opposite sign because of the rule of the
+43:52
+vector product so that's the equation
+43:58
+but this is rather simple if you want so this is trivial right but also this is
+44:05
+rather simple because you see that if you introduce the complex quantity VX
+44:14
+plus IV Y right you can bring this two equation these two equations in a single
+44:21
+equation because it's just the time derivative of this complex number must
+44:27
+be equal if you look - I write because
+44:33
+this and then this V X plus y Omega B
+44:40
+right so it's similar to what we did for the harmonic oscillator effect that this
+44:47
+is essentially a harmonic oscillator and
+44:52
+you already know exactly because it's like an our molecule oscillator the
+44:57
+solution of this is going to be that this quantity here is some constant let's call it a a to the I Omega T
+45:16
+right this is the harmonic oscillator and I solve it you remember how we did
+45:22
+it for the complex a nice way to solve their monocles letters is to introduce a
+45:27
+complex amplitude and this is the solution so it's an oscillating solution
+45:33
+and if I write it back into the real component so you see that the VX is the
+45:40
+real part of this number so you see that the solution is that VX is the sum
+45:48
+constant this 0 so it's the real part so it's the cosine of Omega BT plus some
+45:56
+initial phase right yvy is the imaginary part so if this visit not maybe could be
+46:04
+the minus because of the I it goes like the sine of Omega be this V not you can
+46:12
+check has to be the V X square plus well
+46:18
+if the square root of the x squared plus V Y square you remember this way of
+46:27
+solving the armonica later vaguely well
+46:33
+and because you have the velocity then is very I cannot just integrate right I
+46:44
+just integrate once we respect to the time and I get the trajectory so some
+46:50
+initial position plus some are the time so R is this V V naught divided by Omega
+47:00
+B right because I'm integrating so I have to to compensate for the Omega B
+47:05
+factor and then the cosine becomes sine because of the integration and similarly
+47:15
+I have for for my Y component now with
+47:22
+the cosine and as I said the Z component that is they said they
+47:28
+of T is just well zero acceleration so
+47:35
+if just some Z plus some V not T okay so
+47:46
+how does this trajectory looks like so you see it's very similar to the problem
+47:53
+you had in the final examinations right because you had the Lagrangian that gave
+47:59
+you equation of motion a part of which was in this form here
+48:05
+but you had also directly filled so we are going to do the food how does it so you see this party is telling you that
+48:13
+it's an Armani Casa later so is just moving in a circle right of radius R
+48:23
+with the angular velocity frequency
+48:28
+Omega B right so if this is the B field
+48:34
+this particle is moving like this but is also translating along the direction of
+48:41
+the be filled by a constant velocity okay so it's something like this is Alex
+48:50
+so it moves like this are the same time moves if there is a with this initial
+48:57
+velocity this clear so that's the
+49:04
+typical motion of a charged particle in a constant external magnetic field it
+49:10
+just moves with the in a closed orbit in the plane perpendicular to the B field
+49:18
+these orbits are called lambda orbits in quantum mechanics probably you have have
+49:24
+you studied this problem in quantum mechanics I'm sure yes possible that
+49:30
+this is a very important problem in quantum mechanics that you have dis orbits and the point is that in quantum
+49:36
+mechanics these orbits are quantized these are the Landau orbits of the motion of a part
+49:41
+next enemy field but here they are not wanted front eyes because it's Mexico
+49:47
+electrodynamics so essentially they move you see like this and if there is a
+49:52
+component in the direction of the B field then it translate with constant velocity in that direction okay
+50:00
+yes yes
+50:16
+now I think this is the initial velocity this is the initial velocity in the Z
+50:24
+direction so if the mother if it's not
+50:34
+moving it just moves like this so you
+50:45
+see it's a sort of trapping of your charged particle because if you put the magnetic field then the particle is
+50:51
+going to remain in this channel so you see the magnetic field is bending the
+50:57
+trajectory it's not doing any work it's just bending the trajectory or your particle and that's a way to contain the
+51:04
+particle right because by putting magnetic fields you keep on bending this particle and any stage within that
+51:11
+volume okay so what happened if I turn on the electric field also so we have to
+51:20
+let's solve so can I erase that
+51:34
+so we go on till 5:30 right or of I forgot it's for 5:30 right so let's take
+51:53
+the the so maybe let's solve it again in
+51:59
+the case so you have the the B field or something like this so now I turn on also the electric field I want to see
+52:05
+what is the complete solution so I keep so this is the z direction I keep the B
+52:11
+field in this direction okay then you
+52:17
+have a x and y direction something like this okay and I take my if field I take it in in
+52:29
+the zy plane something like this okay so that there is a component no like this
+52:36
+there is a component e in the Z direction and then there is a component
+52:42
+in the Y direction that is this one okay so the B field is here the other field
+52:49
+has a component that is perpendicular to the B field and then a component is Ed that is in the same direction as the B
+52:57
+field okay so I take my Duke to constant field in this configuration and
+53:04
+therefore if I look here so let's write now explicitly an x-acto and Y double
+53:13
+dot and MZ double dot okay so this part I have so I guess I said I said we use
+53:23
+go so I have this C so I have to do this in this direction you see the the field
+53:32
+is in the Z Y plane so there is no component in the X direction so for the
+53:38
+X is exactly as before I have Q over C B
+53:43
+that is the Bizet component but B is only in the Z component and the velocity y component of the
+53:52
+velocity so is exactly as before because there is no electric field there okay
+53:57
+now in the y direction you see now I have something slightly different because I do have a Y component in that
+54:05
+direction so I have as before my minus QC be X dot but I also have a component
+54:13
+coming from here that is just Q Y okay
+54:22
+so this part here is exactly what I wrote before I just wrote the velocity before because I wanted to to to get the
+54:30
+answer quickly but these are really in the Newton's equation in this case with
+54:36
+the acceleration how about Z double dot now before that was zero because there was no field in
+54:42
+that direction because B was in that direction but now you see I have a small
+54:47
+component what's more whatever component I have of the e field in the Z direction so here I
+54:53
+should put a Z component in that direction
+55:03
+so because of what we did before it's rather simple to solve the system you
+55:09
+see the change in the Z Direction is that before I had this uniform motion with constant speed but now I have an
+55:16
+acceleration because you see the acceleration is not equal to zero so the charge even in that direction is
+55:22
+accelerating because of the field in that direction that characteristic of the electric field that the actual field
+55:30
+is doing work is really accelerating the charge so if you want to accelerate a child you need an electric field if you
+55:37
+want just to deflect the charge you need the B field this is the secret of the
+55:46
+Lorentz force okay and if this the other two components are almost the same the
+55:53
+only difference is that you have this extra term that clearly is going to
+55:58
+produce a short of a drift in that because you see that I can rewrite this
+56:03
+equation as before so X dot dot is equal to the Omega B this Q be over MC y dot
+56:15
+so I have this two component that looks like the harmonic oscillator these two
+56:22
+but here I have a slight difference because I have this extra term that is
+56:28
+this one here I have Q over m times the
+56:35
+component of the and Zed is again Q over
+56:40
+m times n so the acceleration of a
+56:46
+charged particle is controlled by the value of the charge over the mass why they the rotation radii of the in the
+56:58
+magnetic field is controlled by this angular frequency Omega B okay and these
+57:06
+again are rather simple to integrate these are really if you look at this this is really what you had in your exam
+57:13
+I hope you recognize I just called this a and this B I guess not to confuse you
+57:19
+with the charges and so this is exactly the problem that you had there and so I
+57:29
+assume that you already solve it for your problem so I just write the solution here so this is trivia right
+57:36
+you have to integrate a uniformly accelerated charge so this goes like Q
+57:42
+is e divided by 2m t square plus whatever the initial velocity is plus
+57:50
+the initial position but the left a field initial position is somewhere here
+57:55
+at the origin you know that like one half GT square that you have in gravity
+58:01
+the only difference that here instead of having G you have this this quantity so
+58:07
+this is a charge is uniformly accelerating in that direction the other two are similar to before
+58:14
+so XT you have the harmonic oscillator solution right like the one I just
+58:19
+erased with a sine Omega T plus some initial phase and the YT that is just
+58:27
+the same stuff with the cosine of Omega t minus some constant I put it here just
+58:35
+to normalize but you have an extra piece here because of this that is the C II Y
+58:45
+V naught Omega T so this part here is this rotation going around as before but
+58:54
+at the same time you have a little shift in one of these due to this extra part due to the electric field in the
+59:00
+direction so the orbit is a little bit more complicated you have because of
+59:10
+this this term is called a drift right because you have a drift so it's not
+59:16
+very easy to describe this motion so
+59:23
+before it was just like this and then maybe moving as a Alex okay now even in
+59:31
+the even in the X so before in the XY plane it was just like this right then
+59:39
+if you had the component in the Z Direction this circle it was moving producing helix now even in the XY plane
+59:47
+you see it's not just the harmonic oscillator you have this shift so it's something like this right so you see you
+59:56
+have a drift so it would go like this but because of that term interest so it
+1:00:02
+doesn't come back here and that neatly it goes like this and then if you have
+1:00:08
+the say that this thing is sort of move up so you have to think of this and that
+1:00:14
+moving up in the Z direction okay can you see that or I have here in a
+1:00:20
+computer simulation of this orbit but well I don't know
+1:00:27
+you can try it's done with mathematic and so some of you like the program so
+1:00:33
+but okay so so if you put the Z component then you tilt this thing out
+1:00:39
+in the z direction and so it moves like this it comes out it is accelerating in
+1:00:45
+that direction okay questions
+1:00:57
+there this is the solution this is the
+1:01:06
+solution for that this is the orbit now the solution this is the full solution
+1:01:15
+not to get that yeah now this is the solution of this system the way to get
+1:01:25
+this is as you did in your problem or as you did not do that you you you see the
+1:01:33
+way to solve this but they are very this is trivial this you have to notice that
+1:01:40
+you know this is like you have the X dot you integrate this once and then you put
+1:01:45
+it back here and then you integrate that and you get this
+1:01:57
+okay so that's what I wanted to say
+1:02:03
+about the law and force we will come back to the Lorentz force further further on but in this remaining
+1:02:11
+half an hour I want to introduce the Maxwell equation so that I'll do it and
+1:02:17
+then we start so I see I mean the motion
+1:02:32
+is not very complicated you I mean yeah
+1:02:52
+in four dimension now this is three
+1:02:59
+dimension in two dimensions just the
+1:03:07
+Lorentz 14 so you want to solve the equations just in two dimension you can
+1:03:14
+do that everything in muscle be there right but I mean this is ah no ah that's
+1:03:26
+that's a nice question actually yeah now I understand yeah this thing exists
+1:03:31
+strictly only three dimensions right but there is another thing that you can have
+1:03:37
+in two dimensions but I'm not sure that we want to discuss that I this vector
+1:03:42
+product is actually as you said define only three dimension because you need in
+1:03:49
+two dimensions you have to introduce another things so okay now I see your
+1:03:56
+question but don't worry about that I mean this is artificial well it's not short efficient because many materials
+1:04:02
+are almost two dimensional right so it's interesting to study this in two dimensional systems but okay yeah
+1:04:23
+so if you wish three dimensions is there the smallest number of dimensions in which you can do this in a
+1:04:29
+straightforward way so that might be why we live in a three-dimensional world right so that we can have lurid forth in
+1:04:38
+this form this is a long-standing questions why there are four dimensions
+1:04:44
+instead of ten or have you ever
+1:04:53
+considered this problem clearly two dimensions are to two if not enough to
+1:05:00
+to to have organized life in a way right you really need three three dimensions
+1:05:08
+to have a brain because two dimension you understand I mean right so but from
+1:05:14
+the physical point of view of course the brain is not necessary so one may wonder
+1:05:20
+about lower dimensional worlds
+1:05:27
+okay so so we'll come back to the Lorentz force but only after we have
+1:05:34
+said something so the next question if you wish it here I have solid arrays
+1:05:51
+maybe a question you could have asked is why I don't use the Lagrangian right
+1:05:57
+since I I insisted so much about
+1:06:05
+Lagrange and so by effect true good questions that I asked myself effect we
+1:06:10
+are going to use the Lagrangian of course you can write this force this Newton's in terms of Lagrangian
+1:06:16
+equations the trick is that the easier in fact actually you cannot use E and B
+1:06:22
+you have to use some potentials so to do that I first have to develop some idea
+1:06:27
+about EMB introduce the potentials and once I have the potential I'm going to
+1:06:33
+write the lagrangian for the charge particle so if you ever have wondered so
+1:06:38
+it was not a waste of time to study the Lagrangian but of course everything has
+1:06:43
+to be recasted in in that language yes
+1:06:56
+the velocity is constant it's okay
+1:07:13
+then you just as long as if V is different from zero this is the force no
+1:07:23
+deep initially can be a constant but then you have to put that as initial
+1:07:30
+condition then you solve the equations and you see whether it remains constant or not right you cannot impose that you
+1:07:41
+say what you impose are the initial condition so you say okay I take a particle with constant velocity fine
+1:07:47
+then I plug in here no but you cannot tell the particles what to do after you
+1:07:53
+after the initial conditions because then that's the solution of the equation of the motion to be consistent then if
+1:07:59
+there is an electric field or something you will accelerate I mean you can turn
+1:08:08
+the thing around and say what what are the B and E field such that a particle
+1:08:15
+remains with yeah that's that you solve the equations then but in a way you
+1:08:24
+already know this because B is not going to change B it's going only to change the direction of V but not the ABS
+1:08:31
+because it's not doing any work so unless you have a e the the absolute
+1:08:36
+value of e remains constant you see B is not changing V B is only changing the
+1:08:43
+direction okay so now we concentrate on
+1:08:52
+these two quantities and try to say something where C goes and can depending
+1:09:01
+on the so back in the SI units so as I
+1:09:07
+said the discovery here is that the simplest way to write the floor and
+1:09:14
+force is not true telling the system where all the other charges are and how
+1:09:21
+they are moving but simply I assume that all these are the charges by moving or by simply being there
+1:09:28
+generate two quantities that I call the electric and the magnetic fields and then at that point by using this Lorentz
+1:09:37
+force I can compute the force acting on the test charge particles coming in into
+1:09:44
+the into the system okay so these two
+1:09:50
+are as I said are so these two are two vectors so there are field vector fields
+1:09:59
+okay in space-time we may as well start taking that is I have e for each point
+1:10:08
+let's use Cartesian coordinate XYZ and
+1:10:13
+also at the given time and be XYZ and T
+1:10:19
+so all the physics is controlled by these two vector fields if you know this vector field you know the force and so
+1:10:27
+you can solve your problem as we just did in the case of two uniform and
+1:10:33
+constant electric field okay so the one the problem now is how how I can compute
+1:10:40
+these two quantities by knowing
+1:10:48
+okay so if you know these two quantities you can compute the force effect you
+1:10:55
+don't care at this level of what exactly the distribution of charges and how they
+1:11:01
+are moving those charges that are produced in these fields if to distribution of charge is even different
+1:11:07
+from each other produce both of them produce the same electric and magnetic
+1:11:13
+field then you are going to have the same force okay independently so you have the couple these two problem and the other
+1:11:21
+important property is that you see you have a superposition principle okay this
+1:11:28
+will become clear when we studied Maxwell equations but if you have two distribution of charges and you know the
+1:11:35
+solution one and the other the solution when you have both of them is just the addition of these two fields so the
+1:11:43
+electromagnetic fields follow a superposition principle that is this
+1:11:48
+will come from the fact that the Maxwell equations are linear in the field okay
+1:11:54
+so there is no interaction between the field directly field to field okay this
+1:12:02
+is not always true you can think of many other systems in which you have that but
+1:12:08
+this is not true for the electromagnetic field and this was not true also for the Coulomb or for that matter also Newton's
+1:12:15
+law because remember that if you had the three-body problem for instant charge Q
+1:12:23
+in the field of charge 1 and Q 2 the Coulomb force on this charge is just the
+1:12:28
+sum of the force of this Plus this force of this right it's always a two-body problem exactly because like it was in
+1:12:36
+gravity because of the superposition principle if you had one solution if you have two system you just sum the two
+1:12:42
+solution the two forces and you have the distortion exist there are no peculiar
+1:12:48
+three-body effect there is no a piece that depends on Q 1 and Q 2 together okay but please
+1:12:56
+remember that this is not obvious it's a particular property of these fields you
+1:13:01
+can think of field in which the superposition principle is not true okay then you have
+1:13:08
+nonlinear effects on on your equation
+1:13:13
+for it for if the gravity is not exactly of this form because there are non-linearity in gravity and you have to
+1:13:19
+take that into account when you when you consider general the general theory of
+1:13:24
+relativity okay but for electromagnet is this is true it will be reflected in the linearity of
+1:13:32
+Maxwell equations and therefore if you have two distribution you can just summon them up in the field and the
+1:13:38
+force will be the sum of those of those effect so these are vector fields okay
+1:13:49
+by the way this is the reason why light does not interact with light exactly
+1:13:55
+because of this property if you have to deal more light and they shine across they just go across there is no we're
+1:14:03
+the interpreter for hands with light you cannot deflect light by using light
+1:14:09
+exactly like in Star Wars where they have laser swords this that clearly
+1:14:16
+nonsense because if you have two lasers they just they just go to across one
+1:14:23
+exactly no light does not interact with light because of the superposition
+1:14:29
+principle so if you have two beams two laser beams they just go across so if
+1:14:35
+you have a laser sword like in Star Wars they would just go across because there
+1:14:41
+is no interaction between these two so that's a neat trick but it's not true you need a nonlinear field if you want a
+1:14:48
+laser sword like what's-his-name take
+1:14:56
+the black guy Darth Vader so it cannot be light okay so this
+1:15:03
+principle so I hope this will fix that is important to remember that here you
+1:15:09
+have superposition principle so light does not interact with life exactly because light is made of electrum and
+1:15:16
+the field so these are vector fields so vector fields are stuff like this right
+1:15:26
+each point usually you draw a elect a vector field by drawing these force
+1:15:34
+lines are called I think Faraday was the first guy who start thinking of vector
+1:15:39
+fields in terms of force line meaning that for instance the field here you see
+1:15:47
+is the tangent to this line okay in each point so if you follow the
+1:15:53
+tangent you can draw a line and this is called the force line because in this case it gives you also the direction of
+1:15:59
+the force not in the case of the magnetic field though so that's a nice way of thinking if you have a vector
+1:16:05
+field think of this force lines fill in the entire room and that is the
+1:16:11
+configuration of the field this is a nice thing about the electrodynamics is
+1:16:16
+that it's very visual I mean you really have to produce these pictures and if
+1:16:21
+you understand these pictures you understand the Maxwell equations as I will show you in a second so if this is
+1:16:29
+the so another way you think of this is the velocity field right typical if you
+1:16:36
+have a fluid like water you describe the the fluid water by a velocity field that
+1:16:43
+is the velocity of water in each and each point in the fluid right so you have an him so this is like the stream
+1:16:50
+the current in the water described by the velocity at each point that is
+1:16:55
+tangent to this line so you see the river flowing and the river flowing
+1:17:01
+represent the the vector field of the velocity at velocity at each point in
+1:17:07
+the flow okay and here is the same the electric and magnetic field are flows of
+1:17:12
+these quantities in space okay so like underwater actually this is the way
+1:17:20
+Maxwell visualized most of these but you will see that is a very strange fluid
+1:17:26
+when we start writing the equations and you will see in a sec here's a strange fluid and in fact at
+1:17:36
+the end this idea because have you ever heard about the aether the thing that filled the entire
+1:17:43
+universe and people thought because light was was taught as waves of this
+1:17:49
+electromagnetic waves electromagnetic fields but you know that the wave to be
+1:17:54
+there need some substance a medium right if you have a like you hear me talking
+1:18:02
+because here in this room is compressed by my voice right so you have air and
+1:18:09
+the air is carrying the the sound waves and the same in the sea right but here if you had electromagnetic waves you
+1:18:17
+need something this something was called the aether because you need something to go up and down somewhere to carry the
+1:18:23
+wave I will come back to this because clearly there is no such thing because
+1:18:29
+light is carry across the back empty space so what is going up and down is
+1:18:36
+not clear at all okay but for the moment just think about these fields as
+1:18:42
+velocity fields so you have this room all filled with the fluid and you have this velocity fields going around and
+1:18:48
+you have two of those a and B okay now how you quantify this this is a nice
+1:18:54
+exercise in mathematics so it this is the picture now you need some mathematical tool to quantify for
+1:19:02
+instance when this line becomes very thick right or when they go around and
+1:19:12
+you know from your class on well I don't know you did some vector calculus right
+1:19:20
+so you know that these tools are are there and there are essentially so two
+1:19:32
+tools one that quantify the flux so how much of this stuff goes through a given
+1:19:37
+surface so you need to know what is the flux right so how much stuff so the idea here
+1:19:46
+so I'm not doing I'm not going to do did you do that in with the Narayan or the
+1:19:55
+divergence the curl yeah you did you did not you did oh you did not know but you
+1:20:01
+know what that is so I'm not going to do it mathematically I will do it
+1:20:07
+from the point of view physicist so the poor men mathematics so by then if you
+1:20:14
+if you I mean there is a rigorous way to introduce this and you are welcome to to
+1:20:20
+go to the text books but we don't have time and also probably I don't know I wouldn't know how to do it really
+1:20:26
+because the mathematicians but ok so I said the first thing you want to
+1:20:31
+quantify if you have this flux is how much of this stuff go goes across a
+1:20:37
+given surface so you have a given surface right and you have this stuff goes in true ok and you see that what
+1:20:44
+you need is the flux of this velocity field so this is the flux is the average
+1:20:51
+the average normal component right so if
+1:20:56
+you have a line here a line here line here you take the normal component to
+1:21:02
+this surface so you project out the component this is going to this the surfaces like this you project out the
+1:21:09
+normal component you take some sort of average normal component a multiplied by
+1:21:18
+how big the surface surface area so this is you know if the intuitive way idea of
+1:21:26
+the flux if you have water coming through you take a surface you compute
+1:21:33
+the normal component of the velocity going across that surface you multiplied by the surface area and this is the
+1:21:40
+amount of water that has gone through that is the flux right you agree so we
+1:21:46
+need the flux and then the circulation is called
+1:21:53
+that is the other quantity that I'm interest because I want to know if you
+1:21:59
+have here a lot of lines as I said or very few this is the flux high flux low
+1:22:05
+flag I also want to know how much of this stuff goes around doesn't go straight and for this the idea is that I
+1:22:13
+take a curve in space ok and then I take
+1:22:18
+the average of the tangential component
+1:22:24
+so if here I have this here I have this I take the tangential component of my
+1:22:30
+velocity field average tangent component
+1:22:37
+times the distance around so how big is this circle so with these two ideas flux
+1:22:53
+circulations we can write Maxwell equations because Maxwell equations are
+1:22:58
+telling you how much flux and how much circulation of the electric and magnetic
+1:23:03
+fields are linked together in a given situation ok
+1:23:17
+yeah did they or took the orthogonal the normal component now at this point let
+1:23:29
+me leave it at that then we do it properly now this is become even if it
+1:23:35
+is bigger it becomes rigor it's not by unit you understand here here I have an
+1:23:43
+integration over the surface when I go differential and here I have a line
+1:23:48
+integral along this right okay so we will get there but this is the intuitive
+1:23:56
+things so with just these two ideas let
+1:24:03
+me write a Maxwell equation so then next time we write a mathematical expression
+1:24:08
+for this but as I said the best way to to understand Maxwell equations is by
+1:24:16
+this picture so so here laws of electro
+1:24:35
+a key a Maxwell equation also known as
+1:24:55
+so the first one tells you something about the electric field if you already
+1:25:02
+know them you know it tells you that the flux of e through any closed surface
+1:25:13
+closed surface so if you take a surface for flux of a through any closed surface
+1:25:25
+is equal to who want to ya the net
+1:25:36
+charge inside the surface and actually
+1:25:43
+because of the units to divide by this quantity that is called the permittivity
+1:25:49
+of vacuum something like this but the first idea that so you take a closed
+1:25:57
+surface and the net flux of the electric lines is proportionate to the sum of all
+1:26:03
+the child the net charge so plus minus remember the charges contrary to the
+1:26:09
+mass come to in two varieties positive and negative charges net
+1:26:26
+closed so if you have a surface with no
+1:26:34
+charges inside you don't have any flux so we threw the dead this is completely
+1:26:40
+equivalent as we will see shortly to
+1:26:46
+Coulomb law it has to do in particularly with the one over R square dependence
+1:26:52
+another tab yes it means that say you
+1:27:15
+have lines like this but not originating inside then you take a cold surface then
+1:27:22
+they compensate so the flux that comes in is equal to the flux that goes out so
+1:27:28
+the sum is zero that's why is a quiver this is well that clear if you want the net flux to this
+1:27:37
+fear or whatever you need to put some challenges aside then you have lines
+1:27:42
+coming out this way right then you have a net flux through this closed surface
+1:27:48
+if the closed surface is not there an open surface if you use the language of
+1:27:56
+a fluid that means that you need a source of fluid in order to have a net flux through a cross surface right if
+1:28:03
+you take a sphere you put it in some in a river if there is no source of water inside
+1:28:11
+the sphere as much water comes in and goes out right so you have net flux
+1:28:18
+equal to zero this is the idea exactly so on wealthy we write this in
+1:28:25
+mathematical terms you can write it either in integral form or differential form but the idea is this I like you to
+1:28:33
+think always with this idea unless you have sources that is charges inside the
+1:28:40
+closed surface the net flux is zero it's very intuitive I mean either you produce something or if you do not producing
+1:28:46
+something inside like water like a faucet then the net flux is constant
+1:28:53
+because it's conserved if you wish right it comes in but then it also goes out so
+1:28:59
+this tells you something about the flux how about the circulation of e the other
+1:29:07
+quantity that we saw circulation will be around the curve C okay around C again
+1:29:21
+if you remember your Maxwell's you remember that this is equal minus the
+1:29:27
+time derivative of what of the flux of B
+1:29:34
+through s where s is the surface
+1:29:41
+included into the circulation C so you take a line C and this has a surface s
+1:29:51
+included inside the line C so the circulation of e around this curve is
+1:29:59
+equal to the time derivative of the flux of B through this surface right
+1:30:10
+so immediately you know that if you have a constant feel their constant be field
+1:30:16
+constant you see then the flux of this field is going to be constant and therefore the circulation of e will be
+1:30:25
+zero in fact in electro statics that is the next thing that we will do next week
+1:30:33
+where everything is frozen then the electric field is described by two
+1:30:39
+simple equation that the flux is proportional to the sum of the charges inside and the circulation vanishes okay
+1:30:51
+so you see it very simple is vice versa if you have it be field right then if
+1:30:59
+this B field is very or if the see the circuit is changing then you have a
+1:31:08
+circulation of e around that yes
+1:31:26
+the charges no this this is just a flux
+1:31:32
+of B across this surface s so if you have a very a B field that is vary with
+1:31:38
+time all the shape of the C is changing think of a electro electric motor how
+1:31:47
+does it work how does it work something has to move because you have to generate some electricity from a
+1:31:54
+magnetic field and from this equation you know that if everything is frozen I
+1:31:59
+mean if the magnetic field is constant then you get no electricity and no electricity no work so they are typical
+1:32:07
+you have a magnetic field that is constant but then you have something moving like a square or something or a
+1:32:17
+wire that turns like this because it's turning the the AC crossed by the B
+1:32:24
+field it's very and this variation induced the electric field that is the current across the loop this is the the
+1:32:32
+idea of an electric motor that that's what is moving everything in this room
+1:32:37
+everywhere right it is this simple equation is moving but Maxwell actually Faraday's before him understood that you
+1:32:45
+had sometimes it has to change because it's the derivative respect to the time that linked the B field at the electric
+1:32:52
+field you need something to change in order to induce the electric field and the force what is really doing work is
+1:32:59
+only direct electric field therefore you need this situation okay how about the
+1:33:06
+other then I stop let me just write the equivalent for the B field and then we we start so how about the flux of B
+1:33:18
+so the equivalent of this is flux of B right exactly the same through any
+1:33:27
+closed surface to any closed surface a
+1:33:36
+is equal zero
+1:33:41
+always zero that's great this is a beautiful property of the B
+1:33:46
+field and what is this property that there is no magnetic charge anyway or
+1:33:51
+better there is no magnetic monopole because you see this is the net charge
+1:33:57
+inside but here it's always zero so that means that you don't have the equivalent of the electric charge you don't have a
+1:34:04
+magnetic charge this is a people looked
+1:34:10
+very hard to look for this right this is this is a surface a closed surface is
+1:34:18
+always zero doesn't matter because it's always zero that means that you cannot have the equivalent of a chart because here to
+1:34:25
+make this different from zero I put the charge inside this surface and I generate the field right but Tia is
+1:34:32
+always zero I'm not telling you so that means there is no magnetic charge and
+1:34:38
+this is a big asymmetry in Maxwell equations you see these two are not the
+1:34:44
+same the B field is very different from the electric field because this B field has divergence all with zero as we will
+1:34:51
+see and this is reflected in the physical result that you don't have a
+1:34:56
+magnetic monopole and here you see already an example if you think that the
+1:35:02
+equations of physics must be beautiful must be symmetric always this clearly is
+1:35:08
+not true because here if you wanted that to be symmetrical and beautiful you would have put 0 in 2 or you have put
+1:35:15
+something here different from zero but that's not the way nature is one is zero the other is not give you the B field is
+1:35:23
+very similar station of the electric field but is different because it
+1:35:28
+natural there is no a magnetic or at least we haven't found one yet and you know that this is a there has
+1:35:36
+been a search for this magnetic monopole clearly they are not very common like electric charges but they haven't been
+1:35:46
+found so for the moment we stick to Maxwell equations and here we put zero okay you know that if you have a magnet
+1:35:57
+right and the monopole will be a magnet that is very thin and then you look just
+1:36:03
+at one end right because one end looks very much like the North Pole without
+1:36:08
+the South Pole if you wish but you know that then if you break that up you don't
+1:36:14
+you are not left with the North Pole you are left with the North and the South Pole this is exactly the thing no matter
+1:36:20
+how you cut your magnet you will always end up with the North and the South Pole
+1:36:25
+and so you get zero here anyway this is a sort of simple-minded idea but of
+1:36:33
+course at the beginning people thought that they were a magnetic objects and they thought maybe if you you cut it in
+1:36:41
+half I get the equivalent of a positive North Pole right but you cut then you
+1:36:46
+get always a North and South Pole so then eventually you realize that you don't have the Queen equivalent of a of
+1:36:53
+a single electric charge you don't have the a single electric magnetic charge to
+1:37:00
+the call a monopole okay but let me how about the circulation of be around see
+1:37:10
+actually here you have to put a C square for reasons of the units that we pick so
+1:37:18
+C squared times the circulation of be around C is equal to well there is a
+1:37:24
+term like this is equal to minus this part yes is symmetric so it is
+1:37:33
+proportionally to the variation in time of the slack so V through s where again
+1:37:40
+s is the surface spa by the circulation see
+1:37:46
+but again the symmetry is not so indeed is true that is when you vary a big
+1:37:53
+field you get a moove field if you vary a field you get the B field obeyed much
+1:38:03
+smaller because of the C square remember C is a pretty big number so actually
+1:38:09
+varying a field induces a B field but much less than very in a big field
+1:38:14
+induces an e field that's why electric motors are made using this equation and not that
+1:38:21
+equation but again the here there is a slight
+1:38:26
+asymmetry because you also have a piece that looks like this because it's the
+1:38:32
+flux of electric current through s
+1:38:39
+divided by this epsilon zero so here you have to add a new concept that is
+1:38:45
+electric current so you have charges but also charges that move making electric
+1:38:54
+current so if you have a flux a net flux of electric current through s okay this
+1:39:03
+flux gives you a circulation of B that is different from zero and these are the actual equations
+1:39:20
+so please be this is really all you need to remember after 20 lectures or
+1:39:28
+whatever them actual equations and in this form I think is very easy to remember so next time we we translate
+1:39:37
+this in mathematical expressions because we need those in order to crank the
+1:39:44
+handle and get the mathematical solutions and then we will move on to
+1:39:49
+specific problems like what happen if everything is static so we study electro
+1:39:55
+static magnetostatic then what happen if i'm very slowly they be filled and so on
+1:40:00
+and so forth okay questions okay so
+1:40:07
+maybe now is a good time for you to refresh your memory about vector
+1:40:13
+calculus because here we need to quantify this what is the circulation so you need to remind yourself what is to
+1:40:20
+do an integral of a vector along a line and what is to do integration of a
+1:40:27
+vector over a surface because that is the flux okay so that will give us Maxwell equation in the integral forms
+1:40:34
+then we will use did you do the the Gauss and Stokes theorem you remember
+1:40:40
+that so you did do not here okay so well
+1:40:46
+refresh yourself force about Gauss theorem and the Stokes theorem that remember you remember the link affect
+1:40:54
+the integrals along lined with integral over surfaces because that will allow us to to rewrite these equations that you
+1:41:04
+see are in an integral form because I do integrals over surface into a
+1:41:09
+differential forms that is easier to mean the integral forms are easier to
+1:41:15
+visualize like here but to work out the solutions is easier to use the
+1:41:21
+differential forms so we go and refresh yourself about these things so that we
+1:41:27
+go on speedily next time through the Maxwell equations choice
+1:41:40
+you
+1:41:46
+[Music]

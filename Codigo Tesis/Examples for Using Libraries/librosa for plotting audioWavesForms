@@ -1,0 +1,13 @@
+
+import librosa
+import librosa.display
+import matplotlib.pyplot as plt
+
+# Load an audio file
+y, sr = librosa.load('path/to/your/audio/file.wav')
+
+# Plot the waveform
+plt.figure(figsize=(14, 5))
+librosa.display.waveshow(y, sr=sr)
+plt.title('Waveform')
+plt.show()

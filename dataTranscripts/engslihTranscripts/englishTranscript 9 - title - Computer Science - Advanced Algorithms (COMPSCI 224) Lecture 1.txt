@@ -1,0 +1,1426 @@
+0:00
+so this is cs224 Advanced algorithms uh my name is gelani
+0:06
+Nelson
+0:11
+uh and we have a TF who's in the back it's Jeffrey with his hand
+0:24
+up if you want to contact us uh you should email
+0:31
+cs224 df14 D staff at C's. harvard.edu
+0:40
+um also there's a a yellow sheet of paper that's going around you should
+0:45
+fill it out uh let's see what else should I say and there's a course
+0:50
+website so I won't bother writing the URL of the course website on the board just Google the course or Google my name
+0:57
+and it's on linked from my website right one thing I will say about the course website is we have a mailing list um so
+1:07
+please go to the website and sign up put yourself on the mailing list um before I get started with things
+1:15
+uh I guess I'll tell you some logistical things about the course then I'll tell you what the course what the goals of
+1:22
+the course are and then I'll start on something okay so uh Logistics
+1:32
+oh I I completely did it backwards
+1:39
+okay so there are three components to this course in terms of grading one is
+1:49
+scribing and this is 10% of your grade basically you just do it and you
+1:54
+get the 10% so um there's no textbook for this course students will will take
+2:00
+turns taking notes on what I say in lecture and the the course is recorded so you can go back over the lecture and
+2:08
+see anything you missed and then basically write up some lecture notes um in lwtech describing the
+2:15
+lecture and there's a template on the website a ltech template to to use two
+2:21
+is uh pets that's 60% of your
+2:26
+grade okay and the third one is a final
+2:33
+project which is the remaining 30% and that's just written okay so
+2:40
+there are details on the website about the final project you do it the last day of reading period you submit your
+2:46
+project and um I grade it okay so let's see final project so there's a proposal
+2:55
+for your final project do I think it's on the website but I think it's October
+3:02
+30th and then project
+3:07
+do last day of reading
+3:17
+period okay um so yeah I'll read through the proposals and make sure I like the
+3:23
+idea of the project and give you feedback regarding it and then you spend the last six weeks working on the
+3:29
+project roughly six weeks um let's see what else pets All
+3:35
+Pets should be law teched and there's and um you submit
+3:41
+them by email okay and also pets have page limits meaning your pet should not
+3:47
+be longer than the specified page limit okay uh to avoid people just typing uh
+3:56
+mindlessly if they don't know the answer to a problem okay so actually brief Solutions are
+4:02
+appreciated uh there's one part of the course that um so we'll see how many
+4:09
+people actually stay in this class right now it looks like a lot but you know it's shopping period uh depending on the
+4:14
+SI the final size of the class or actually this will most likely happen um students will also take turns being
+4:22
+graders you probably only have to do it once during the semester but uh a team of maybe three to four or some number of
+4:29
+students together with the TF will meet once a week and uh or once per P set and
+4:34
+do and grade that P set okay so that's a required part of the class
+4:42
+um students have to be
+4:50
+greaters at least
+4:55
+once okay and these things are first come first serve and and you have to scribe at least once possibly twice if
+5:01
+the class gets very small um these things are first come first serve so if there's a date that you really want you
+5:08
+know you'll be available to scribe for example then sign up right away before it gets taken also scribe notes are due
+5:14
+the following day so you have a little more than 24 hours to describe your lecture notes um they're doe 900m on the
+5:21
+following day um is there something I wanted to say about
+5:27
+that yeah I mean uh I know it's a short amount of time so just do the best job you can and then I might make a Passover
+5:34
+them myself and make some edits okay good
+5:41
+so I think that's all I want to say about logistics any any questions about
+5:46
+that yeah
+5:55
+May oh okay
+6:01
+put them in okay I'll maybe I'll maybe talk to me afterward because I I
+6:06
+don't anything else yeah only a subset of students will be describing each lecture or everyone describes every
+6:13
+lecture um one like no one person will be the Scribe for that lecture actually
+6:18
+yeah I need a scribe for today so who's who thinks that they're going to be in this class for sure and is willing to
+6:24
+subcribe today's lecture okay um good
+6:31
+any other questions okay
+6:38
+so uh good so this is Advanced algorithms uh who's here who has taken
+6:44
+cs124 or some form of algorithms course before this okay a lot most people I guess um
+6:54
+so I guess the main difference between cs124 and CS2 24 well well first of all
+7:01
+I guess algorithms is very broad so even though 124 was a whole semester of algorithms we didn't see all there is to
+7:09
+know about algorithms even in terms of topics so uh in 224 we'll see some
+7:14
+models for analyzing efficiency or some measures of efficiency or models of
+7:20
+algorithms that we didn't see in 124 um also I guess it will be
+7:25
+more uh Theory focused there won't be any programming assignments all though for the final project you can do an
+7:31
+implementation project that's described on the website but the pets will be purely uh just written written pets okay
+7:38
+no programming [Music] um uh what else do I want to
+7:48
+say so I guess the goals of this
+7:56
+course I guess there're what you would expect uh increased
+8:07
+ability to analyze and create
+8:17
+algorithms okay we're going to see lots of different techniques in this class for analyzing algorithms some of many of
+8:22
+which were not in 124 and also modeling you know creating uh
+8:30
+so uh looking at different
+8:40
+models we're seeing you know inspiration for models uh looking at different models within
+8:48
+which to analyze algorithms so in in 124 we usually just
+8:55
+looked at say running time and running time we didn't I guess really ever Define it it was just the number of
+9:01
+steps of the algorithm and we also looked at memory minimizing the amount of memory used by the algorithm but here
+9:07
+there will be other parameters that we'll look at as well okay
+9:14
+um so I think I'm just going to get
+9:20
+started and I use the wrong board
+9:28
+first So speaking of models
+9:34
+um so who who here has seen sorting okay good that's what I expected
+9:41
+uh who here knows that you can't sort n numbers faster than n log
+9:47
+n okay um so that's actually it's I lied to you
+9:54
+you can sort n numbers faster than n log n okay so today and uh the next lecture
+9:59
+we're going to see something we're not going to do the the full sorting algorithm but we're going to look at a related problem a data structural
+10:04
+problem which is uh
+10:10
+predecessor uh we'll look at the static predecessor problem say
+10:16
+static predecessor
+10:22
+problem okay so this is a data structural problem so
+10:32
+uh the data structure
+10:40
+represents a set uh s of
+10:46
+items X1 up to
+10:52
+xn okay and we
+10:57
+support one kind of qu
+11:03
+query um which is predecessor of
+11:09
+X predecessor of X is the max
+11:16
+element which is less than X or let me say predecessor of Z is the maximum X
+11:23
+and S uh let me write like this the maximum X
+11:30
+and S such that X is less than
+11:36
+Z okay
+11:44
+um we want low space and fast
+11:55
+query and this word so predecessor you see why that's there static in in data structure speak static just
+12:02
+means that the set s of items doesn't change if you had said a dynamic data structural problem like Dynamic
+12:08
+predecessor you would also support the insertion and deletion of items okay we'll also look at um so
+12:16
+static versus Dynamic
+12:23
+static no insertions
+12:34
+Dynamic insertions
+12:41
+okay so what's one way someone knows how to
+12:47
+solve uh dynamic or static predecessor
+12:53
+quickly using say linear space
+13:09
+in a binary search tree oh store the numbers and do binary search yeah you yeah so um an example solution that
+13:24
+works store numbers sorted
+13:31
+and then do binary search is this static or
+13:39
+dynamic static okay so this is static and what's the query time login okay and what if you wanted
+13:46
+login Dynamic query
+13:54
+time yeah so um uh log so I'll l in
+14:06
+Dynamic query using a balanced BST say like a
+14:11
+red black tree or
+14:18
+something and the second solution also supports log n for updates for insertions and
+14:23
+deletions okay so if you use I mean this is not
+14:34
+uh TR no okay uh this is not usually the way people uh
+14:42
+teach sorting algorithms at first but you know I claim that if you have a such a solution to Dynamic
+14:49
+predecessor um then you can get and let's say all
+14:55
+the numbers are distinct okay uh you can get you can get a fast sorting algorithm
+15:00
+right so what do you do to get a fast sorting algorithm using Dynamic uh predecessor you you first go through in
+15:07
+linear time your input and find the maximum and then you go through the input again and just insert them all
+15:14
+into a a predecessor data structure okay and then now you output
+15:19
+the max you compute its predecessor now you have the second biggest comput its predecessor Etc and you'll retrieve all
+15:25
+the items in sorted order so you've just sorted the elements using a dynamic pred processor data structure okay and what
+15:32
+I'm going to show you today and as well as Thursday is uh a faster Dynamic
+15:37
+predecessor faster than log n okay so actually uh I won't exactly show you
+15:43
+that today I'll show you um I'll show you two data
+15:50
+structures uh one of which is dynamic and the other I'll show you the static version it can be made Dynamic but it's
+15:56
+more complicated I'll just show you uh the basic idea is to get the static data structure but I I promise I'll give you
+16:02
+a reference that shows you it can be made Dynamic and if you use those data structures you can beat um you can beat
+16:09
+and log in for sorting okay but some people raised their hand when they said that they knew that sorting couldn't be
+16:15
+done faster than n log n okay so for the people who who said they know sorting
+16:21
+can't be done faster than n logn um what assumption are you making about sorting
+16:27
+algorithm comparison it's comparison sort it's
+16:32
+comparison based sorting right which means you have n items and in each step
+16:37
+your algorithm is allowed to choose two items and compare them and based on the results of the comparison it can make
+16:43
+further comparisons okay but that's not how real computers work right so when you code in
+16:50
+C um first of all all the input numbers are integers let's say or floats there
+16:57
+there's something that fit in some say 32 or 64bit word and you can do bitwise
+17:03
+exor and bit shifting and all kinds of other operations which are not just comparison and multiplication right
+17:11
+so that inspires the word Ram
+17:20
+model okay so
+17:25
+items are integers
+17:31
+in uh the range from 01 up to 2 the wus
+17:39
+one okay and W is the word
+17:48
+size and the universe size U is two to the W this 2 wus one is 2 the wus
+17:56
+one okay and we also assume also
+18:05
+assume that
+18:11
+pointers fit in a
+18:16
+word okay
+18:22
+so so for the last assumption if you have a data structure that's storing n
+18:27
+items presumably
+18:32
+um presumably your data structure is using at least n space to even remember what the items were right so we know
+18:39
+that space is at least n okay and if a pointer fits in a word
+18:47
+well a pointer is what an address into our space so w should be at least log of the
+18:56
+space which we just said is at at least log in okay so we're always going to assume
+19:03
+that uh our word size W is at least log in
+19:10
+okay and what I'm going to show you today and on Thursday are two different uh predecessor data
+19:16
+structures that get different bounds one is going to be better when w is small like closer to log n one is going to be
+19:22
+better when w is very large so two data structures
+19:37
+so one is the uh it's
+19:42
+called the van well that's a lowercase van M deoa
+19:54
+trees uh this is from what year somewhere in sometime in the
+20:05
+70s so um I'll frequently put the conference or
+20:13
+Journal name in the year so this is for the scribes um and this is due to vanm
+20:22
+deaz and if you Google it you'll find a reference so please put a reference in the Scribe notes
+20:29
+and what this gets is
+20:34
+um update this Dynamic so it supports
+20:39
+updates update and query are both going to be uh log
+20:46
+W
+20:51
+time okay and the second thing that I'm going to cover and it's um
+20:58
+and we're going to show also that well let me let me say something else the unfortunate thing though is going to be
+21:04
+that the space the space is going to
+21:09
+be U and you know I like I like linear space independent of the universe size
+21:16
+right imagine if you have a 64-bit machine U is 2 to the 64 so I don't want to use 2 to 64 space uh
+21:24
+ever um and we'll we'll see that uh this uh
+21:33
+can be made Theta n with
+21:43
+randomization and we'll also see a related data structure called uh y
+21:50
+fast y fast trees tries which get the same bounds
+22:03
+okay and uh this is due to Willard in IPL
+22:14
+83 so originally vom deaz and his paper didn't get linear space
+22:20
+um but the move from u space to linear space is going to turn out to be pretty
+22:26
+simple
+22:42
+and the second data structure we're going to see um so this is the one that can be
+22:48
+made Dynamic but I'm only going to present the static version in class otherwise it gets too complicated uh these are Fusion
+22:56
+trees
+23:02
+okay and this is due to fredman and
+23:09
+Willard I believe in jcss
+23:15
+93 okay and these support query in
+23:23
+time uh log based W of n
+23:31
+okay and it's also linear space so already this beats binary
+23:36
+search trees right if W is at least log n log remember log based W of n is the
+23:43
+same thing as log n over log W so this is never going to be more than log n
+23:49
+over log log n okay but of course we could choose based
+23:55
+if we know w i mean we know the machine that we're coding on if we know w we can choose the better of fusion trees and
+24:03
+let's say vanam trees or yast trees so we can that implies that we can
+24:11
+achieve the Min of log W and log base W of
+24:22
+n right and
+24:30
+the Min of this is if we want to maximize this expression uh we'll do it when these two
+24:35
+things are equal which means log W equals log n over log W which means log n is the
+24:42
+square of log W okay which is so this will be always at
+24:49
+most square root log
+24:56
+in okay okay good um and I mentioned that
+25:03
+this can be made Dynamic so in particular that means you can sort in time n times the square root of log
+25:10
+n okay um things that I won't cover in
+25:15
+this class um this implies with Dynamic
+25:21
+Fusion
+25:26
+trees uh o of n root log n
+25:37
+sorting okay
+25:44
+question um so okay so there's G to be an yeah so there's an issue which I
+25:50
+haven't discussed which is the pre-processing time to actually create the data structure so in the dynamic case when
+25:57
+you start with an empty data structure um that doesn't come into play but with the static case we're going to spend
+26:03
+polinomial time to actually create this this Fusion tree and that's G to be bad
+26:09
+for sorting any other
+26:15
+questions okay so you could ask you know is n root log n the best sorting
+26:21
+algorithm uh in this model and you you can actually get faster
+26:35
+sorting okay so you can get o of n log log
+26:42
+n deterministic uh this is due to
+26:48
+Han and stock 2002 you can also get uh o of n s square
+26:57
+root log log n expected time
+27:02
+randomized this is due to Han and
+27:10
+thorup um in Fox of 2002 which is about five months
+27:19
+later and it's an open question whether or not you can get a linear time sorting algorithm in this model so it's possible
+27:28
+there's no there's nothing saying that you can't do
+27:41
+it okay and let me go back to the word Ram model before I actually present the
+27:47
+vanm de Boaz data structure okay so
+27:52
+um so I mentioned we can do more than just compare so what can we do so in word Ram
+28:04
+assume that given XY fitting in a
+28:17
+word we can do basically all the things that you can
+28:24
+do in say C so you can do integer arithmetic so plus minus I mean divide
+28:31
+times minus and this is integer div division so it rounds down okay um you can also do uh bitwise
+28:43
+negation xor or and uh
+28:51
+and can't can't write and properly okay
+28:58
+and you can also do bit shifting with some fixed constant or
+29:05
+with each other or okay
+29:12
+yeah yeah uh so so we'll assume that for
+29:18
+multiplication it fits in two words so the upper bits will be in the in the second word
+29:26
+yeah okay any other
+29:35
+questions um though I think it's
+29:42
+also I think it's also accurate to say I mean we don't we don't need to I think make that assumption um there could be
+29:48
+integer overflow in which case we'll get the Overflow of the correct answer but
+29:55
+um you can simulate at multiplying bigger numbers using in the word Ram
+30:00
+anyway but so maybe I'll leave that as an exercise
+30:06
+you might need to use a couple words yourself when you when you do the the
+30:13
+arithmetic okay so we can do these in constant
+30:24
+time so just out of curiosity who's seen Venom deaz
+30:29
+trees so one H the infusion trees okay so I'm okay
+30:37
+good just making sure I'm not teaching you something you've
+30:50
+seen okay so we're doing
+30:56
+vanz
+31:13
+okay so the basic idea is well I guess you guess that
+31:19
+we're going to do something with fudging with bits because we can't just do
+31:25
+comparisons the basic idea is kind of divide and conquer
+31:30
+okay so
+31:37
+um so VB trees will be defined
+31:49
+recursively Okay
+31:56
+so what a v what a VB tree will look
+32:02
+like and it'll be parameterized by the universe size so let's
+32:10
+say this isign a universe say of size
+32:19
+U it will look like if I open up what it looks like inside of that data
+32:26
+structure
+32:34
+it'll have square root
+32:40
+U VB data structures on un each on a universe of
+32:46
+size square root U and there will also be a top one of size of on universes of
+32:54
+size square root U okay and separately we'll also store one
+33:03
+extra element which is the minimum element in the data structure and I'm
+33:10
+going to say
+33:25
+more
+33:37
+okay so you know let's say you're using some uh objectoriented programming language and you wanted to declare the
+33:44
+fields that your veb data structure has
+33:49
+so the fields of
+33:55
+VB uh let's say on a size U
+34:02
+Universe you would have an array of size root u a root U size
+34:12
+array uh let's call this thing uh v v is our VB data structure you'd have
+34:20
+v. cluster uh zero up until do
+34:29
+cluster < TK uus
+34:35
+one and this is a VB square root U data
+34:46
+structure what I mean is the elements in here are numbers between zero andun uus
+34:54
+one uh we'll also store the Max maybe I'll say that too let's say we also store the max I'm going to write that
+35:00
+down here um we also have a uh V Dot
+35:10
+summary is a VB square root U instance as
+35:21
+well and V do Min V do
+35:29
+Max are integers in the range from zero to uus
+35:40
+one
+35:49
+okay any questions I haven't actually told you how you insert into this St this will be a dynamic data structure so
+35:56
+I haven't told you how you query and I haven't told you how you
+36:03
+insert so let's see
+36:11
+that okay so say we have an item that we want to have living in this data
+36:20
+structure so X is some
+36:30
+integer okay so we can
+36:37
+write we can write X in
+36:47
+binary okay and we can divide X into the upper half the leftmost half of the bits
+36:53
+and the rightmost half of the bits
+36:58
+let we call this C let we call this I so let's write X as c
+37:05
+i okay and notice
+37:11
+that these numbers C and I are in the range from zero up to root U minus
+37:20
+one right okay
+37:29
+so we're basically writing X in base root
+37:35
+U and the idea behind vanm de Boaz trees is
+37:41
+that we will store you know if x lives in the data structure then we will store
+37:48
+the number I in the Seth
+37:53
+cluster okay in this picture
+37:59
+okay so um now tell
+38:06
+me if you if given what I just said how would you say do a query for the predecessor of
+38:13
+X and people hopefully people agree that you can extract you can extract C and I
+38:19
+each in constant time just by bitwise uh anding and shifting
+38:25
+okay okay so how would you search for the
+38:30
+predecessor of X in a in this recursive data structure as I've defined
+38:40
+it guess I didn't tell you what the summary does let me tell you what the summary
+38:46
+does too um so I told you that I'll insert I
+38:51
+into the uh Seth cluster okay
+38:58
+also if the cth cluster happened to be empty when I did the insertion I'll also insert C itself into
+39:06
+the summary okay so the summary keeps track of which clusters are
+39:14
+nonempty that's the point of the summary okay so now how would you do a predecessor yeah you have your element
+39:23
+extract the element look that cluster theive
+39:30
+thater it's theow element thater you find the
+39:37
+next okay yeah so what you said works there's one there's one recursive call
+39:42
+you could save right which is you know we store them in explicitly ah yes okay
+39:48
+so um so so let me just uh say repeat what you said but using that
+39:55
+fact are you here for advanced algorithms yeah okay well
+40:03
+uh okay so here is the idea right so I can extract C and I each in constant
+40:09
+time using shifts and and masking with with an bitwise and and then what I do is I look in the
+40:17
+Seth cluster okay and I look at the Min the minimum element in the Seth
+40:24
+cluster if I'm bigger than it then I know my predecessor lives in the same
+40:29
+cluster as me and I can just recursively do a predecessor in that cluster a predecessor on I in that
+40:36
+cluster if there is no minimum element if that clust if that cluster happened to be
+40:42
+empty um or maybe I'm bigger than the men bigger than or equal to the men then I know my predecessor is not in my
+40:50
+cluster he's in the he's in the largest cluster before me that's non empty and
+40:56
+how do I find that I find that by doing a predecessor on C in the summary and then I return the max inside
+41:03
+of that cluster okay um okay good I
+41:08
+don't need to recurse on that cluster I just returned the Max uh good so let me let me write that
+41:21
+down so
+41:27
+uh so
+41:40
+predecessor takes his input v as well as this x which I write as
+41:48
+CI okay and I say the first if is if if x
+41:57
+is bigger than v. Max so if X is bigger than everything in my data
+42:03
+structure I just return v.
+42:11
+Max okay
+42:17
+otherwise I look at the cth cluster of v and I check its Min and compare its
+42:23
+Min to me Elsa V do
+42:29
+C do
+42:36
+Min is less than x then I'll just
+42:55
+recurse okay
+43:06
+otherwise otherwise what I have to look in the summary for the predecessor
+43:13
+cluster so C Prime will be my predecessor
+43:25
+cluster and then I return the maximum element in that that uh in that
+43:42
+cluster
+43:55
+okay okay so the next
+44:00
+thing is the insertion
+44:16
+algorithm okay so the first thing
+44:21
+is we're going to see why in a moment but I'm going to treat the minimum element as being special it's only going
+44:29
+so the minimum element will be stored in this minimum field uh where my Fields
+44:35
+the minimum element will be stored in the minimum field but I won't also store it in its appropriate
+44:41
+cluster okay so it could be that the the v. Min
+44:48
+is some non-empty value and everything else in the data structure is
+44:54
+empty so if V is
+45:06
+empty I'm going to say V do Min gets assign to X and then I'll
+45:17
+return sorry for my pseudo code is like changing between C and python but you
+45:24
+know what I mean I think okay otherwise what do I
+45:32
+do based on what I've told
+45:42
+you and also this with this constraint that the Min only lives in v.
+45:54
+min I'll say one thing if if the Min only lives at in v. Min I'll do
+46:01
+if x is less than v. Min then I'll
+46:09
+swap x with v do Min before I continue okay so now I know that the X
+46:15
+I'm actually inserting is is not the minimum element think of this v. Min field as being like a buffer so the
+46:21
+minimum always lives in that buffer and it's not actually recursively stored okay
+46:27
+so so first I make sure that the thing I'm inserting recursively into the structure is not the minimum okay and
+46:34
+then where do I have to put it okay and let's pretend that when I do
+46:42
+this swap uh the C and I are for the new X okay so I don't want to write more
+46:47
+code um so what I do is oh and there's also this issue of uh
+46:55
+before before I recursively insert it into the cluster I should check the summary to see if that cluster was empty
+47:01
+if so I need to insert it into there as well so what how can I check if
+47:06
+uh um if the cluster is empty I can just check its uh minimum element and check
+47:12
+that it's empty so if x uh if sorry if v.
+47:21
+cluster C do Min is uh is a null
+47:29
+value then I need to insert C into the summary then v. summary I'll
+47:37
+insert into v.
+47:43
+summary the value um
+47:50
+C and then I'll insert I into cluster C
+48:15
+okay and you can think about what you would do for deletion it's not really that much
+48:21
+different conceptually
+48:29
+okay so let's just analyze the running time of uh of these procedures so
+48:36
+predecessor if uh there's only ever I guess one recursive call right in any of
+48:45
+the in any of the if cases you'll have at most one recursive call
+48:51
+so we have the recurrence so for predecessor
+48:57
+time we have the occurrence that t of U we start off with Universe of size U is
+49:04
+equal to T of U over 2 plus o of one oh T of root U
+49:12
+sorry and if you remember your occurrences this implies that t of U is of log log
+49:22
+U okay which is equal to uh log
+49:29
+W remember U is uh basically 2 the w u is two to the W okay how about
+49:44
+insertion
+49:52
+yeah uh oh yeah so yeah that's right so you
+49:58
+can in constant time you can follow a pointer and read the value in that memory
+50:07
+address okay so how about insertion time it looks a little worrisome right
+50:14
+because this if doesn't necessarily return return after the if right so if V do cluster. Min is empty you insert it
+50:21
+into the summary and then you again do another
+50:26
+insertion so it looks like it looks like um T of U is at most 2 * T of root
+50:38
+U plus o of one right and
+50:46
+uh do people know so another way of thinking about this is maybe this will make it more obvious is that t of w is
+50:55
+is at most 2 * T of w / 2 plus o of 1
+51:00
+right so if we're saying that W is getting square rooted that basically means this if we're saying you get square rooted that's like saying w got
+51:06
+cut in two so what does this resolve
+51:17
+to it should yeah
+51:24
+w okay um yeah so this solves the
+51:32
+W okay so that's not great we're trying to
+51:38
+get log W here but I claim that this is overly pessimistic
+51:46
+why first
+51:54
+yeah go yeah exactly right so what y said is
+52:01
+if this if actually happens then the second if will be shallow and not recurse further right because the second
+52:07
+if will be in this case and will immediately return okay so actually this two really
+52:17
+can be written as a one you can think about this one as in that case you can think about just
+52:23
+moving this line here and then this another else okay
+52:29
+um and this implies that t of U is
+52:36
+also o of log log
+52:43
+U okay so that's the basic vom to Boaz
+52:49
+tree data
+52:54
+structure
+52:59
+and that's also why we stored them in kind of separately right to make the insertion
+53:05
+cost log log U as opposed to W which would be log U
+53:17
+right if you had if yeah if you actually like if you if you treat them in as the same as any other object and store
+53:23
+recursively in the data structure then will be times when you have to recursively insert into the summary and
+53:28
+recursively insert insert into the cluster and and that will cost you that
+53:34
+will make things double you yeah oh yeah I keep forgetting about
+53:41
+these Maxes yeah uh no you don't have to
+53:53
+yeah but yes um that's a good
+54:01
+point and where's that paper that where people are signing up has it been passing around everyone saw the paper
+54:08
+raise your hand if you didn't write your name down on that piece of paper so toward the front I
+54:24
+guess okay so how about the
+54:36
+space what's the space of the vanomas data
+54:43
+structure what's the recurrence
+54:54
+anyway
+54:59
+s of U is equal to squ otk of U + one for the summary s
+55:05
+ofun of U uh plus a constant toor say the
+55:14
+Min okay so this I'm not going to solve it
+55:19
+here this implies that s of U is Theta of U
+55:28
+okay so this is uace which is not great um so we're going to get instead
+55:36
+linear space okay so what's what's something that intuitively
+55:43
+seems a little bit silly about this space
+55:54
+requirement you a lot of empty clusters right I mean yeah that's that's it okay
+56:03
+so what could you imagine uh doing
+56:09
+instead so we will see who here has who here has seen hashing or
+56:16
+okay so I gave you a hint so you know what so you know that there's something called hashing um what would you do with
+56:23
+this hashing in order to improve the
+56:35
+space yeah
+56:53
+so
+57:00
+so okay so we're going to have a hash table what is this hash table
+57:05
+store sorry like what are the keys in the so in hash tables there are keys and values okay so what are the keys that
+57:11
+will live in this hash table and what will the values be so we'll have a hash
+57:23
+table
+57:31
+keys will be yes the keys will be like these cluster IDs okay so
+57:39
+keys keys are cluster IDs
+57:46
+C and uh what will the value so what will the value be yeah a pointer to some so
+57:56
+value is a pointer to
+58:05
+corresponding non-empty
+58:11
+cluster okay so for the empty clusters they don't live
+58:17
+here okay and I claim that the space of now this scheme is linear it's
+58:23
+Theta of n why is it Theta of
+58:37
+n how would you account for all the space that's being used in a way that
+58:43
+makes it clear it's Theta of
+58:53
+n
+59:15
+yeah yeah each tree has a minimum element right so we can
+59:20
+charge this pointer and and value this is like this is like two words right we
+59:26
+can charge the cost of these two words of storing this uh cluster ID and
+59:31
+pointer to the minimum element that's contained in that cluster
+59:38
+okay and now each minimum element each element is stored as a minimum
+59:43
+somewhere okay maybe at a leaf maybe at a leaf cluster in this recursion but it's stored as a minimum
+59:49
+somewhere um and each minimum element is charged exactly once in this way right
+59:56
+it's charged in the parent VB tree that contains it
+1:00:01
+so charge the
+1:00:07
+cost of storing C pointer to Cluster
+1:00:17
+C to the
+1:00:23
+minimum element of cluster
+1:00:31
+C each
+1:00:37
+minimum is charged so each each item in the set let's say each x s
+1:00:52
+actually is charged
+1:00:58
+exactly once does that make sense questions
+1:01:05
+about
+1:01:14
+yeah uh this assumes that yeah so um I I guess I haven't covered
+1:01:21
+hashing yet we will see hashing later in the course but turns out that it's possible to so first of all uh let me
+1:01:28
+say something about hashing maybe this will answer tell me if it doesn't answer your question once I say
+1:01:42
+it so you know I think it's it's good to think in terms of problems and then
+1:01:48
+there are algorithms or data structures that solve those problems so let's forget about hashing what's the problem that we want to solve the problem want
+1:01:55
+to solve is what's called The Diary problem so short
+1:02:01
+aside so we have something called the dictionary
+1:02:11
+problem okay and the goal of this problem is to
+1:02:17
+store uh key value
+1:02:23
+pairs I'm going to assume that the keys and the values each fit in a machine
+1:02:30
+word and the semantics are as follows so
+1:02:36
+query K okay what should that do it should
+1:02:43
+return value
+1:02:48
+associated with key K or or
+1:02:55
+null if K is not associated to
+1:03:04
+anyone and there's also insert or you can think of as associate so
+1:03:11
+insert a key with a value which
+1:03:21
+Associates value V with
+1:03:27
+TK okay so you can look at both the static and dynamic versions of the dictionary
+1:03:34
+problem so in the in the static version you're told all the key value pairs up front and you never do future
+1:03:41
+associations in the dynamic version you can make updates to what keys are associated with and you can also delete
+1:03:47
+keys from the hash from the dictionary okay and
+1:03:54
+it turns out um I don't know if we'll see exactly this solution later in the course but
+1:04:01
+we'll see some solutions to the dictionary problem um
+1:04:08
+Dynamic dictionary is
+1:04:14
+possible with linear
+1:04:19
+space okay constant query time worst case
+1:04:25
+query time worst case
+1:04:31
+query as well as constant
+1:04:39
+expected insertion or updates insertion and also
+1:04:47
+deletion uh let me write so this is from it's actually not that it's fairly Rec
+1:04:54
+recent ditzell Binger I need to look back at the
+1:05:00
+reference but uh this is from by ditzell
+1:05:09
+Binger and others and yeah I mean it's some form of
+1:05:18
+hash table okay um if you if you know about Universal hashing
+1:05:24
+that would get it wouldn't get worst case constant query it would get expected constant query it turns out you
+1:05:30
+can get worst case but so um yeah the point is that whether it's expected or
+1:05:37
+or worst or worst case and actually you can even do better than expected constant time you can do constant time with high probability but the point is
+1:05:44
+really what we need here is a dictionary okay we need a dictionary that stores uh mapping the keys are the
+1:05:51
+cluster IDs and the values are these pointers to those nonempty clusters and that's a that's a solved problem which
+1:05:58
+we'll just take as a black box for now did that answer your question yeah
+1:06:05
+okay any other
+1:06:12
+questions um yeah I believe well I can even say you can even do make
+1:06:19
+this with high probability so I guess the question is can this
+1:06:24
+I mean the only thing you could hope to improve here is make make it fully deterministic um I don't know off hand
+1:06:32
+whether that's been ruled out as a
+1:06:42
+possibility okay so I have about a little more than 15 minutes
+1:06:49
+left I mentioned that there's another data structure called a y Fest tree or Y fast
+1:06:56
+try which also gets this
+1:07:03
+bound I'll sort of just sketch the idea um which apparently is
+1:07:12
+the which apparently I think is the original way uh Venom de trees were made
+1:07:18
+to to support the bounds that I stated and then much later other people came along and kind of uh reinterpreted the
+1:07:27
+data structural ideas and came up with what I showed you um but the Y fast try
+1:07:33
+I mean originally vom de Boaz data structures were described in a way that got usace and it wasn't as it wasn't as
+1:07:40
+clear as change this to a hash table in the way that it was described to make it linear space so I'll show you the um
+1:07:48
+another way that you can get the same bound Okay so um what's one way that
+1:07:55
+pretend you didn't care about query time and you're willing to use uace what's a very very simple data
+1:08:01
+structure uh for predecessor I want you to use exactly U
+1:08:07
+bits of space yeah a bit array okay so have a
+1:08:14
+bit array of size U of length U and the I bid is one if I is in your set
+1:08:20
+otherwise the I bit is zero so use a bit array so uh another
+1:08:33
+solution we can use a bit array of length
+1:08:39
+U so let's say U is 16 or something so
+1:08:46
+um 1 Z one one 0 z0 1 one one zero
+1:08:55
+one0 0 one one0 0 okay so this corresponds to elements 0
+1:09:03
+1 2 3 up to
+1:09:08
+15 okay and so what's the running time of predecessor
+1:09:18
+now it's you okay that's terrible so we're gonna make one small tweak to this
+1:09:24
+which is we're going to build a perfect binary tree over all of these
+1:09:32
+leaves and and each internal node each internal node is going to store The Ore
+1:09:37
+of its two
+1:09:52
+children and we end up up with a tree that looks like
+1:10:00
+this okay
+1:10:06
+now suppose now someone gives me a
+1:10:12
+zero um suppose someone gives me a zero and
+1:10:17
+asks for the predecessor okay
+1:10:24
+uh well okay so let me also say let me also say this
+1:10:30
+uh I'll do one more thing
+1:10:35
+too I'll store all the
+1:10:41
+ones in a doubly link
+1:10:49
+list okay so suppose someone asked me for the uh predecessor of a
+1:10:56
+one what would I do yeah go back one in the link list constant time suppose someone asked me
+1:11:03
+for a predecessor of a zero so for example they asked me for
+1:11:09
+the predecessor of this element okay what would I
+1:11:17
+do okay and then what okay so um I go up so I go up the
+1:11:27
+tree until I find a one okay and then I know that so here when I found when I
+1:11:33
+transitioned into a one I went up this way right so then I know that I am
+1:11:40
+bigger than everything on the left hand side so I should just find the maximum element uh in this sub tree which I can
+1:11:47
+do by uh going down to ones for example okay um but what if I what if
+1:11:55
+someone asked me for the predecessor of this
+1:12:01
+element I would go up and here's the first one so now you know I don't go and find
+1:12:10
+the minimum element here that's not my predecessor but what is the minimum element
+1:12:18
+here it's my successor the minimum element here is my successor and all the
+1:12:23
+are stored in a w link list so I can just go back one and that will be my predecessor okay so I can just keep
+1:12:31
+going up until I find a one and then uh either I either I will find the
+1:12:36
+predecessor or the successor depending on whether I went up that way or went back that way and I can get this I can
+1:12:41
+get the predecessor okay now so now there's there's still
+1:12:47
+one problem though which is what's the running time of this what's the height of this
+1:12:52
+tree log of you so my running time it seems like it would be log of
+1:12:58
+you okay so I'm trying to get log log you so what does that
+1:13:15
+suggest binary search yeah actually I do want to do a binary search but can you
+1:13:20
+so um justify why can I where am I doing a binary search search and why am I doing a binary
+1:13:25
+search
+1:13:31
+okay the lowest one right so so the point exactly so the point is
+1:13:37
+on any Leaf to root
+1:13:44
+path the bits are
+1:13:52
+monotone okay meaning that they're zero for a
+1:13:58
+while and then they're one after that so I can binary search and find the first
+1:14:04
+one and that will give me log log you there's still a catch though which
+1:14:09
+is how do I binary search on following pointers right like if I need to follow
+1:14:14
+seven pointers I need to actually you know I need to actually follow them how can I just access the guy who's seven
+1:14:20
+above me and right you see what I
+1:14:27
+mean any ideas on that yeah it be the right like yeah so if it's stored the right
+1:14:34
+way so what's the what's the right way yeah so you could you know you could
+1:14:40
+store this entire tree so I don't know if people remember binary heaps you could store this entire tree as an
+1:14:47
+array this is index zero that's index one and that's index uh two so in
+1:14:54
+general let me write this store
+1:14:59
+tree as an
+1:15:05
+array okay root is at index
+1:15:13
+zero node V has left
+1:15:22
+child at 2v + 1 and right
+1:15:29
+child at 2v + 2 right so if I want to find the
+1:15:36
+ancestor who K above me what do I need to
+1:15:42
+do divide by what by two to the K but integer
+1:15:47
+division right so that's a bit shift so I can find anyone who's K above me and
+1:15:53
+constant time okay so there's
+1:16:04
+that so this implies
+1:16:10
+can find kith
+1:16:16
+ancestor in constant
+1:16:21
+Time by doing bit shift to the right by K that's a bit
+1:16:32
+shift okay another thing you could
+1:16:37
+do which uses more space is to actually store the tree using pointers but for each node you don't
+1:16:46
+just store its parent but you store its two to the kth ancestor for every
+1:16:52
+k so could
+1:16:57
+also for each node
+1:17:03
+store its two to the kth
+1:17:11
+ancestor for each K going from zero up to log log U
+1:17:21
+because the tree has height log U that would make the space of the data
+1:17:27
+structure U Times log logu or U Times log
+1:17:41
+W okay but there's still the dominant part of the space is you
+1:17:48
+yeah ANC
+1:17:53
+will follow particular what what do you mean
+1:18:02
+like my is like I'm to yeah you mean the the height of the 3
+1:18:09
+is 16 yeah of the I'll go to yeah and then from8 I can go to 12
+1:18:17
+or right from 12 I go to 14
+1:18:25
+I see uh is that
+1:18:32
+accurate oh I see you're saying I only need
+1:18:40
+an but okay so suppose that suppose so suppose the eight one fails so let's do a bigger power of two24 suppose 512
+1:18:47
+fails now I have to go to 256 yeah that fails and I have to go to 128 yeah won't I need all all those oh I could I could
+1:18:54
+just use the the ancestor of that node yeah okay um I have to think about it
+1:19:00
+maybe what you're saying is accurate so he's
+1:19:06
+saying so I'll exact number suppose the highest power of two yeah which divides
+1:19:12
+your number is 2 to the L okay the height of the tree is two to the L no no
+1:19:17
+no for every nde yeah take it number okay and and suppose the high highest of
+1:19:24
+two the device that is 2 the L okay then you store two the L by two then
+1:19:33
+Su the thing that follows you by a distance of L by2 and the thing
+1:19:41
+that I see uh
+1:19:47
+for okay well maybe what you're saying I have to think about what you're saying but anyway I'm going to do better space
+1:19:54
+right now because uh I'm still using uace I'm still using more than uace and I want to use linear
+1:19:59
+space um so so here's I mean so we the main
+1:20:05
+trick to using to getting linear space in the vom Boaz data structure was to use a hash table to store non-empty
+1:20:11
+clusters so I I want to do something similar here okay so any
+1:20:17
+thoughts again using hash tables
+1:20:32
+so this one maybe is a little trickier so I'll just say it to save
+1:20:40
+space Only Store the
+1:20:45
+ones in a hash
+1:20:51
+table okay so at each level of the tree there
+1:20:58
+are at most n1s so this hash table contains n times W items in it so I'm
+1:21:04
+using n * w space or you could imagine having W different hash tables one for each level of the tree which stores all
+1:21:12
+the ones that occur in that level so for each
+1:21:17
+level of tree hash table
+1:21:25
+stores locations of
+1:21:31
+ones okay so when as I'm doing my binary search if I want to know whether something is a one or a zero I just look
+1:21:38
+it up in the hash table and if it's a Miss in the hash table if it's not in my dictionary then uh I know it's a
+1:21:45
+zero okay this implies
+1:21:51
+space n * W and this is called an xfast
+1:22:00
+tree so if you look at if you look at the paper by uh I mentioned that y fast tries are due to
+1:22:06
+Willard that was an 83 it's like a four-page paper including the intro and bibliography and in the first page or
+1:22:13
+two he describes xfast tries and then and then he then he gives a y fast tries
+1:22:20
+in the very next section uh which is which eliminates that W okay
+1:22:29
+so and the trick to eliminating that W is a trick that is good to
+1:22:36
+know guess I mentioned One goal of this course was knowing the right techniques
+1:22:41
+to apply to data structures and algorithms so this is a technique that gets used a
+1:22:47
+lot so from xfast
+1:22:53
+to Y fast use what's called
+1:23:05
+indirection okay this is a so the basic idea
+1:23:13
+is I'll have my data structure okay I'll have my xast try it
+1:23:22
+takes NW space this is an xfast
+1:23:29
+try on N over W
+1:23:35
+items what do you know it uses n space but what's each
+1:23:43
+item so these are my n over W items each
+1:23:48
+item if you if you open it up it's actually like a super item that contains roughly W
+1:24:04
+items okay so approximately this contains like the first W items the xw items
+1:24:10
+Etc and one of them will be like the representative item that actually lives
+1:24:16
+in the X fast try okay and the way that I'll store
+1:24:21
+these items is I'll build a balanced binary search tree on
+1:24:34
+them okay yes Theta W let's say
+1:24:45
+so I mean there's a problem besides the space you know the okay so I'm I'm basically there's one minute left let me
+1:24:50
+just say this I'll just sketch this you've already seen a solution that gets this bound so you know if you want to
+1:24:56
+see the full details of the yast try you can read about it on on your own but I just want to give you a flavor of of
+1:25:02
+what's going on here so the space is NW okay um but actually the time is also W
+1:25:12
+instead of log w why is the time W the time is W because if you think about this tree if I change if I insert a guy
+1:25:20
+and change him to one I need to like or all the way up the tree I need to change W things so the time is w and the SPAC
+1:25:27
+is off by a factor of w and this idea basically fixes both
+1:25:32
+issues and the Bas so in terms of the space this is now definitely using linear space in terms of the query time
+1:25:40
+the query time is still log log U because I can search in an xfast try in log log U time and then I reach the BST
+1:25:48
+containing that super item and to search in that BST takes log W time which is again log log how about
+1:25:55
+insertions so the point is these super items
+1:26:03
+contain somewhere between let's say w over
+1:26:10
+two and uh two w
+1:26:17
+items okay um
+1:26:24
+uh so they're going to contain Theta W items and the basic idea is going to be
+1:26:32
+when I do an insertion I'm not going to actually insert into the xast try I'm going to
+1:26:38
+find where it goes and insert it into the balanced BST and only when this thing overflows
+1:26:45
+when it becomes size bigger than two w I'll split it into two super items and
+1:26:51
+then insert those into the above one but approximately that only happens like
+1:26:56
+every W steps okay so in an amorti sense um it
+1:27:02
+only costs me a constant to do that well it only costs me kind of I only have to do that once every W steps and then when
+1:27:08
+I do it it costs me log of uh log of w so I know I didn't go into the full
+1:27:14
+details on that but that's uh I'm not going to get too deep into y fast tries since they get the same exact bound as
+1:27:19
+this I think simpler one um but that's the basic
+1:27:25
+idea okay so questions class is basically done qu any
+1:27:31
+final questions before next time we'll see Fusion
+1:27:39
+trees and actually I do want to say one thing which is so I told you the bounds
+1:27:44
+for Fusion trees and I told you the bounds for um Venom de Boaz trees there's actually a paper that shows a
+1:27:51
+matching bound which shows that you can never do better than the Min of vanm De Boaz and and uh Fusion trees or a treat
+1:27:59
+a slightly tweaked version of vanm deaz so these are known to be optimal for linear space or for nearly linear space
+1:28:06
+data structures okay okay
+1:28:17
+so

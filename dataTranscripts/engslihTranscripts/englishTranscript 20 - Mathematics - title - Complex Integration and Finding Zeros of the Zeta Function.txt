@@ -1,0 +1,780 @@
+Introduction
+0:16
+Hello, and welcome to Zatamath!   In the last video, we told the story of how  real-valued functions from calculus naturally give  
+0:26
+rise to functions with complex inputs and outputs  via a process known as analytic continuation.  
+0:33
+In this way, our series definition of  the zeta function, which is initially   defined only for the real numbers greater than 1,  
+0:41
+gives rise to a function uniquely defined  at every complex number except s equals 1.  
+0:49
+When we talk about real functions, we visualize  them using a graph like this. For example,  
+0:56
+the fact that zeta of 2 is pi squared over 6  is represented in this graph by this point.  
+Riemann Hypothesis
+1:05
+When we instead want to visualize the  full range of complex inputs and outputs   of a complex function, I'll split off the input  and the output into separate planes like this.  
+1:18
+In this image, the fact that zeta of 2  is pi squared over 6 looks like this.  
+1:26
+But now, we can show the values of the  zeta function at any complex number   by moving this dot in the input plane and  tracking its value over here in the output plane.  
+1:39
+The graph of the zeta function on the real  line actually looks quite simple. In fact,  
+1:46
+not all that much different from the  graph of something like 1 over x minus 1.  
+1:52
+But from the viewpoint of the complex  numbers, we can see that if we run   our input point over around here, the  output behaves in a quite complicated way.  
+2:04
+From the point of view of this picture, the  Riemann hypothesis is all about the points  
+2:10
+in the input space where the output takes  the value 0. The zeta function is 0 at each  
+2:19
+negative even integer. So if I wobble this point  through the input space, you can see that every  
+2:26
+time it passes through one of the negative even  integers, the output at that point is precisely 0.  
+2:33
+These zeros of the zeta function are called the  trivial zeros. It is known that all of the other  
+2:42
+zeros lie somewhere in this zone between real part  0 and real part 1, known as the critical strip.  
+2:52
+It is also known that the zeros within this  strip are symmetric across this center line.  
+2:59
+So for example, if there was a zero here, we would  automatically know that there was a zero here.  
+3:08
+The Riemann hypothesis is the claim that in fact   all non-trivial zeros of the zeta function  lay exactly on this axis of symmetry.  
+3:20
+In today's video, we're going to talk  about integrating complex functions.  
+3:26
+This will allow us to approximate the coordinates  of the non-trivial zeros of the zeta function.  
+Taylor Series
+3:33
+As we talked about in the previous video, the  way we extend the zeta function and other real  
+3:38
+functions to the complex numbers hinges on the  observation that our usual Taylor series from  
+3:44
+calculus can be evaluated at complex numbers as  easily as they can be evaluated at real numbers.  
+3:52
+For example, if we want to know what e  to the i should be, we take this Taylor  
+3:58
+series for e to the x, and we plug in i and  look at the partial sums. From this table,  
+4:06
+those partial sums seem to converge to a  number that's approximately 0.54 plus 0.84 i.  
+4:16
+Let's rewind here and take a closer look  at the series we got for e to the i.  
+4:23
+Simplifying just a little bit, we  get 1 plus i minus 1 over 2 factorial  
+4:30
+minus i over 3 factorial plus 1 over 4  factorial plus i over 5 factorial, and so on.  
+4:40
+Now let's pull apart the real  and complex parts of this series.  
+4:46
+The real part is 1 minus 1 over 2 factorial plus  1 over 4 factorial minus 1 over 6 factorial,  
+4:54
+and the complex part is 1 minus 1 over 3 factorial  plus 1 over 5 factorial minus 1 over 7 factorial,  
+5:03
+and so on. These look suspiciously familiar. Let's  bring back that list of Taylor series from before.  
+5:19
+The real part here is exactly cosine of 1,  and the complex part is exactly sine of 1.  
+5:29
+So very strangely, it's true to say that e to the  i is exactly cosine of 1 plus i times sine of 1.  
+Eulers Identity
+5:42
+Of course, sine of 1 and cosine of 1 aren't  particularly nice numbers, but by modifying  
+5:50
+our starting point over here, we can actually  replace those ones with any number we want.  
+5:58
+If instead of sine of 1 and cosine of 1, I would  prefer to have, say, cosine of theta and sine of  
+6:06
+theta, then I should start with evaluating e to  the i theta instead of just evaluating e to the i.  
+6:15
+Churning through almost exactly the same  algebra and pulling apart the real and complex   parts again, we find that in fact, e to the  i theta is equal to cosine of theta plus i  
+6:27
+sine of theta for any real number of theta.  This relationship is known as Euler's identity.  
+6:38
+This identity has many consequences that look  pretty absurd at first glance. For example,  
+6:46
+if I just choose theta to be 2  pi, then this identity tells me   that e to the 2 pi i is exactly equal to 1.  
+6:57
+This actually connects to one of the mysteries  from the previous video. Here's what we were doing  
+Recap
+7:04
+last time. We started with the real function  natural log of x, and then we used the Taylor  
+7:11
+series at x equals 1 to extend the definition  of natural log into the complex numbers.  
+7:18
+And then we extended it again and extended it  again, continuing to extend it along this path  
+7:24
+until we got back here to 1. Somewhat confusingly,  we no longer found that natural log of 1 was 0,  
+7:35
+but rather the analytic continuation was  telling us that the natural log of 1 was 2 pi i.  
+Natural Log Function
+7:43
+Nothing I can say will make this not weird.  But if you recall what it is the natural log  
+7:49
+function is supposed to be doing, it's supposed  to be identifying what power of e a number is.  
+7:59
+So when we take the natural log of 1, we're really  asking what power of e should we take in order to  
+8:06
+get 1? Of course, our default answer should  be the 0th power, because e to the 0th is 1.  
+8:17
+But in light of what we've just learned, it's  also true that e to the 2 pi i-th power is 1.  
+8:25
+The same is true of e to the 4 pi i-th power  and the 6 pi i-th power, and so on. Indeed,  
+8:34
+totally unexpectedly, just like the functions sine  and cosine, the function e to the z is periodic,  
+8:43
+except rather than having period 2 pi, like sine  and cosine, e to the z has a period of 2 pi i.  
+8:53
+What does this mean exactly? Well, if  you look back at the graph of sine,  
+8:59
+you see it has the pattern of this repeating  wave. If we want to express that algebraically,  
+9:06
+then we would write that sine of theta  plus 2 pi is equal to the sine of theta.  
+9:13
+In the case of e to the z, because we're  thinking of this as a complex function,  
+9:19
+that's harder to visualize, but algebraically,  we can write it almost the same way,  
+9:24
+as the statement that for all complex numbers z,  e to the z plus 2 pi i is equal to e to the z.  
+9:33
+We can think of this as breaking the complex  plane into these 2 pi i height strips,  
+9:39
+where the values of the function are identical  at the corresponding points in each strip.  
+9:46
+What this means is that whenever we  take the log of a complex number,   we get not one answer, which is what we're used  to, but rather we get infinitely many answers.  
+9:58
+All of those answers will differ from each other  by a multiple of 2 pi i. Again, in a somewhat  
+10:06
+weird way, analytic continuation has figured out  what the function natural log is trying to do,  
+10:14
+and then fixed it for us by identifying that zero  was not the only log of one. This weird ambiguity  
+10:25
+will actually prove to be very useful when we're  identifying the zeros of the zeta function later.  
+10:34
+Last time, we talked not just about extending  the values of a function to the complex plane,  
+10:40
+but also the values of its derivatives.   It turned out that once we understood how  to use Taylor series to extend functions  
+10:49
+from being defined on the real line to being  defined on the complex plane, the notion of the  
+10:54
+derivative of these functions was essentially  free. Our main goal today is to talk about the  
+11:02
+other half of calculus, integration. Remember  that there are two flavors of integral. There's  
+11:10
+the definite flavor, which in single variable  calculus corresponded to something about areas,  
+11:17
+and indefinite integrals, which corresponded  to antiderivatives. Let's start with the  
+11:25
+indefinite flavor. An indefinite integral  is by definition an antiderivative. That is,  
+11:34
+if we ask for the indefinite integral of tangent  of x dx, the answer is minus the log of the cosine  
+11:41
+of x because the derivative of minus the log  of cosine of x is tangent of x. We usually put  
+11:50
+this little plus C here on the end of the answer  to remind us that the derivative of minus log of  
+11:56
+the cosine of x plus seven, or any other constant  we choose to put here, will also be tangent of x.  
+12:06
+Let's think about what it looks like to try and  do this with tangent of z instead. Remember that  
+12:12
+for points near zero, we evaluate tangent of z by  using the Taylor series for tangent of x centered  
+12:20
+at x equals zero, which is given by x plus x  cubed over three plus two x to the fifth over  
+12:27
+fifteen plus seventeen x to the seventh over three  hundred and fifteen, and so on. That is to say,  
+12:35
+for z near zero, tangent of z equals this.  If we want an antiderivative of tangent of z,  
+12:45
+one way to obtain that is to use the power  rule to integrate this series term by term.  
+12:52
+The result of that is C plus z squared over  two plus z to the fourth over twelve plus z  
+13:00
+to the sixth over forty-five plus seventeen z to  the eighth over twenty-five twenty, and so on.  
+13:08
+We can verify that this is exactly the  Taylor series for minus log of cosine of   x centered at x equals zero with all of the  x's replaced with z's as you might expect.  
+13:21
+But since everything we do with complex  functions is happening in terms of power series,  
+13:27
+we actually get away without having to use  any derivative or integral rules at all,  
+13:32
+except for the power rules,  as we did in this example.  
+13:38
+To understand what happens  with definite integrals,   let's start with this familiar-looking one,  the integral from one to two of one over x dx,  
+13:47
+which represents the area under the graph  of y equals one over x between one and two.  
+13:55
+At first, we might expect that we can make  sense of this if we complexify it by changing  
+14:00
+the x's to z's in replacing the limits  with complex numbers, like say one and i.  
+Integral from 1 to 2
+14:09
+While it makes sense to refer to the real numbers  between one and two, it does not make sense to  
+14:16
+refer to the complex numbers between one and  i. This inability to talk about betweenness  
+14:24
+of complex numbers is a large part of  what distinguishes them from real numbers.  
+14:31
+The key to making sense of this is a  concept we introduced in the previous video,  
+14:37
+paths. Instead of just specifying the  start and end points of one and i,  
+14:44
+we also need to specify how we get from one to i.  
+14:50
+Here are several different paths from one to i  that we could choose. I'll go ahead and label each  
+14:58
+path with the value of the integral of one over  z dz over this path, just to show you that once  
+15:06
+we've made sense of the idea of this integral,  it will in fact depend on which path we choose.  
+15:14
+Before we take this further, I want to point out  that this is not a totally new phenomenon for us.  
+15:22
+Indeed, the integral from real calculus  is not just dependent on the end points,  
+15:27
+but also on the path between them. It just  so happens that in the real line, there's  
+15:34
+really only two paths that we could choose, the  left to right path and the right to left path.  
+15:42
+The values of those two integrals are  different by exactly a minus sign.  
+Riemann Sums
+15:50
+Let's talk now about how we translate from a  path and a function to a value for the integral.  
+15:58
+In single variable calculus, we do this  with something called Riemann sums.  
+16:04
+In this particular example, we break up this  interval from one to two into a bunch of pieces,  
+16:09
+starting at x0 equals one, then up to x1,  up to x2, and so on up to xn equals two.  
+16:18
+Within each segment, we'll choose a point that  we'll call xi star, and we'll use that point to  
+16:25
+define a rectangle. The base of that rectangle  will be this segment between xi and xi plus one,  
+16:34
+and the height of that rectangle will  be the value of the function at xi star.  
+16:42
+Our Riemann sum is then the value we get when we  take the total area of all of these rectangles  
+16:48
+put together. In order to obtain the value of the  integral, we have to take a fancy sort of limit  
+16:57
+as we shrink the length of  each of these segments to zero.  
+17:03
+Let's rewind back to when there were n rectangles,   and let's try and write out a formula for what the  total area of those rectangles is. The area of the  
+17:15
+i-th rectangle is going to be the length of the  i-th segment times the value of the function at  
+17:22
+xi star. That is, it's going to be f of xi  star times x sub i plus one minus x sub i.  
+17:33
+To get the total area of all of the rectangles,   we need to take a sum as i goes from  zero to n minus one of this quantity.  
+Complex Integration
+17:45
+When we want to switch over to a complex  function, we're going to do the same   thing with the curve that connects the  starting point and the ending point.  
+17:55
+Namely, we're going to break it up into segments.   Again, I'll label the starting point here z0, the next point z1, and so on up to  
+18:05
+the last point I'll call zn. Between each pair  of points, zi and zi plus one on the curve,  
+18:13
+I'm going to choose a point that I'm  going to call zi star between them.  
+18:19
+Then, we'll go ahead and just calculate the  sum as i goes from zero to n minus one of the f  
+18:25
+of zi star times zi plus one minus zi. The  integral across the curve of f of z dz is then the  
+18:35
+limit across all of these sums as we shrink the  length of the individual intervals towards zero.  
+18:44
+The biggest distinction to be aware of  here is that this z i plus one minus z   i term no longer has anything to  do with the width of a rectangle,  
+18:54
+but rather this is some strictly complex number  indicating the direction the curve c is going.  
+19:04
+Here I want to visualize this happening  for the integral of 1/z   along this quarter circle traveling from a start  point of one to an end point of i. I'm going to  
+19:18
+break this quarter circle into three segments and  label the start and end point of each segment.  
+19:26
+Let's focus our attention on what happens in the  second segment here, which starts at root three  
+19:32
+over two plus one half i and ends at one half  plus root three over two i. I'm going to choose  
+19:40
+the point root two over two plus root two over  two i on this segment to be my z1 star, thus  
+19:48
+this interval contributes one over root  two over two plus root two over two i times  
+19:56
+one half plus root three over two i minus the  quantity root three over two plus one half i.  
+20:07
+If we approximate the value of this expression,  we find that it is about 0.517 i. Working out  
+20:17
+the contribution of the other two segments gives  us the approximation that our integral is about  
+20:22
+1.55 i. If we gradually increase the number of  intervals, we can watch as this estimate for our  
+20:31
+integral seems to converge to about 1.57 i, which  is very near to its exact value of pi over two i.  
+20:42
+If we repeat the same process, but instead  take this three quarter circle the other  
+20:48
+direction to get from 1 to i, then we see the  results seem to be converging to minus 3 pi  
+20:54
+over 2 i instead. When I want to repeat,  the path we choose between the endpoints  
+21:03
+very much matters in the value  of the eventual integral.  
+Path Independence
+21:09
+As a second example, let's look at the function  g of z equals z squared, and let's examine the  
+21:15
+values we get as we integrate it along various paths  from 0 to 3. To start, we should note that  
+21:24
+if we take the path that goes directly from  0 to 3, then the procedure we have just   described gives us exactly the usual integral from  0 to 3 of z squared dz, which we know how  
+21:36
+to evaluate normally. Take the antiderivative  of z squared, which is z cubed over 3,  
+21:43
+plug in the endpoints 3 and 0 and subtract,  giving us the value of the integral of z squared  
+21:49
+along this path is 9. Of course, there are  lots of paths from 0 to 3, and so we can  
+21:57
+try some more exotic ones. I'm going to draw in  a bunch of different paths from 0 to 3,  
+22:04
+and as I do, I'm going to show you the value  of the integral along each path so that you can  
+22:10
+see how it changes as I change the path. Or in  this case, how it doesn't change. No matter how  
+22:20
+weird I get with this path, we keep getting  exactly the same value. And this is totally  
+22:25
+unlike what happened with the function f  of z equals 1 over z just a moment ago.  
+22:32
+For the function z squared, even though when  I change the path, I change every little piece  
+22:38
+of the integral I'm calculating, all of those  changes exactly cancel out, leaving the final  
+22:44
+value of the integral unchanged. This property is  called path independence. No matter what path I  
+22:52
+take from 0 to 3, the integral along that  path of z squared will always be 9. And that's  
+23:01
+actually true no matter what two points I pick. If  I choose some point z0 and some point z1,  
+23:09
+the integral will be the same regardless of  what path from z0 to z1 I choose.  
+23:19
+So in the 1 over z example, the integrals  we get are very much path dependent.  
+23:24
+That is, different paths sometimes  lead to different integrals.  
+23:30
+But in the case of z squared, the path is  essentially irrelevant. So why? What's going on?  
+23:40
+The first culprit that we might be inclined to  look at here is the singularity of one over z  
+23:47
+here at z equals zero. Is this the problem? In  a way, yes, but it's more nuanced than that.  
+23:58
+To see what I mean, let's have a look here  at a third function, 1 over z squared.  
+24:06
+This function also has a  singularity at z equals 0.  
+24:11
+Does that mean that this function will  be path dependent like 1 over z?  
+24:17
+Let's find out. Here let's pick  two points, say -1 and 1,  
+24:24
+and let's look at a number of paths from -1  to 1 and see what the value of the integral is.  
+24:31
+And as you look at all of these different options,  you'll see the value of this integral never   changes. So just like z squared, it turns out the  integrals of the function one over z squared are  
+24:45
+also path independent. Note, I can never have  my path pass through the point 0 because the  
+24:54
+function is undefined there, but I can certainly  dance around it in all of these various ways.  
+25:02
+So why is this? The answer has to do  with the fundamental theorem of calculus,  
+25:10
+but not the fundamental theorem  of calculus for real functions,   but rather the analogous  one for complex functions.  
+Real Fundamental Theorem
+25:20
+Let's recall that the real fundamental theorem  of calculus says that if you want to evaluate  
+25:25
+the integral from a to b of little f of  x dx, and we happen to have a function  
+25:31
+big F of x laying around with the property that  the derivative of big F of x is little f of x,  
+25:38
+then the integral from a to b of f of  x dx is just big F of b minus big F of  
+25:45
+a. Here we can see a really bizarre property  of the fundamental theorem of calculus.  
+25:54
+The answer to the integral depends  only on the information at the   endpoints. Nowhere on this side of the formula  does anything between a and b play any role.
+26:09
+To what extent does this  hold for complex functions?   Let's flash back to an example I showed  on the screen earlier, where here we're  
+26:19
+integrating the function z squared from 0 to  1 plus i along these paths, and we got that  
+26:26
+the value of the integral along each of these  paths was minus two-thirds plus two-thirds i.  
+26:34
+If we take the antiderivative z cubed over three  of z squared and blindly apply the fundamental  
+26:40
+theorem of calculus, what we would get was that  the value of this integral should be 1 plus   i cubed over 3 minus 0 cubed over 3,  and indeed this simplifies exactly to our answer.  
+26:55
+Indeed, it's actually the case that the  real fundamental theorem of calculus   carries over to the complex function  z squared with no modifications.  
+27:05
+That is to say, if C is a curve from z0 to z1  in the complex plane, then the integral of z  
+27:12
+squared dz over the curve C is exactly z1  cubed over 3 minus z0 cubed over 3.  
+27:22
+Likewise, for the function 1 over z squared,  we have the antiderivative minus 1 over z,  
+27:29
+and then it is true to say that  as long as z0 and z1 aren't zero,   and C is a curve from z0 to z1 that does  not pass through zero, then the integral  
+27:40
+of 1 over z squared dz along the curve C will be  exactly minus 1 over z1 minus minus 1 over z0.  
+The Slot Machine Effect
+27:52
+So what goes wrong with 1 over z? How is it that  integrals of 1 over z end up being path dependent?  
+28:03
+Let's pull up our example of integrating 1 over z  from 1 to i along this quarter of the unit circle.  
+28:12
+Why can't we just take an antiderivative of 1 over  z, plug in the 1 in the i, and be done with it?  
+28:21
+The problem is that the antiderivative of 1  over z is the natural log of z, which as we  
+28:27
+saw last video is not actually a function at  all, but something intrinsically multi-valued.  
+28:35
+That is to say, log of 1 is 0,   but it's also plus 2 pi i, minus 2 pi  i, plus 4 pi i, minus 4 pi i, and so on.  
+28:50
+Likewise, the log of i is pi i over 2, but also  5 pi i over 2, minus 3 pi i over 2, and so on.  
+29:02
+So when we try to apply the fundamental theorem  of calculus by plugging in 1 and i to natural log,  
+29:10
+we have this sort of slot machine effect where  I can spin these dials to whichever value of  
+29:17
+log of i and log of 1 I want, giving a bunch of  different answers for the value of this integral.  
+29:25
+But of course, this specific integral doesn't have  a whole bunch of values. It only has one value.  
+29:34
+In this case, that value is  supposed to be pi i over 2,   which corresponds to taking the value  pi i over 2 here and the value 0 here.  
+29:47
+If instead we took our three-quarter  circle path going the other direction,  
+29:54
+that ends up giving us a value of minus 3 pi i  over 2 instead. No matter what weird path I take,  
+30:02
+it will correspond to some choice  of a position on these two wheels,  
+30:08
+which will give us one of the many possible  values of an integral of 1 over z from 1 to i.  
+30:16
+If we want to be precise about which value it  is we're supposed to take for log at each of  
+30:22
+these points, what we do is we choose one at the  starting point, and then we analytically continue  
+30:28
+log along our path to evaluate it at the ending  point, as we talked about in our previous video.  
+The Fundamental Theorem
+30:37
+So let's try and give a clear statement of what   the fundamental theorem of calculus  says in general for complex functions.  
+30:46
+If the single-valued function capital F of  z is an antiderivative of lowercase f of z  
+30:53
+and both are defined around the curve  C with start and end points z0 and z1,  
+31:00
+then the integral of f of z dz along the curve  C is equal to big F of z1 minus big f of z0.  
+31:11
+What fails for 1 over z along these  various curves that we've laid out  
+31:17
+is that it's impossible to choose a single-valued  function which is an antiderivative of 1 over z  
+31:24
+along both of these paths simultaneously.  Remember that the antiderivative of 1 over z  
+31:32
+is log of z, and log of z is not  single-valued as a complex function.  
+31:42
+A different viewpoint towards what's going to end  up being the same phenomenon we've been observing  
+31:47
+is to ask the question, what happens if we  integrate a complex function around a loop?  
+31:55
+This is important enough that often you will see  integrals around a loop with an additional O here  
+32:01
+on the integral sign. This O doesn't actually  change the meaning of the integral at all,  
+32:07
+and if I dropped it, it would not  change the value of the integral.   It's only there to emphasize that the integral  being calculated is around a closed curve.  
+32:18
+So let's pick a random loop like this one,  and ask what happens if we integrate the   function z squared around it. I'll pick two  different points on this loop, say z0 and z1,  
+32:32
+and then I can view this loop as consisting,  really, of two different paths from z0 to z1.  
+32:41
+I'll call these paths C0 and C1.   Because of the fundamental theorem of calculus,  we know that the integral of z squared dz along C0  
+32:52
+and the integral of z squared dz along C1 are both  equal to z1 cubed over 3 minus z0 cubed over 3.  
+33:05
+So then what's the integral around this loop?   Well, the integral around the loop has two pieces.  The first piece is the integral of z squared dz  
+33:15
+along C0. The second piece is actually  minus the integral of z squared dz along C1.  
+33:25
+The minus sign is here because we're  actually traversing the curve C1   backwards. That is to say we're starting at z1  and going to z0 instead of the other way around.  
+33:40
+But since these two values are equal, this is just  saying that the integral around the loop is zero.  
+33:49
+A different way to think of this is to think  of a closed curve as really being a curve that  
+33:55
+goes from a point z0 on the curve to itself so  that when we then apply the fundamental theorem  
+34:02
+of calculus, we end up getting z0 cubed over 3  minus z0 cubed over 3, which is of course zero.  
+34:12
+Regardless of how you see it, the punchline here  is that if you integrate the function z squared dz  
+34:19
+around a closed curve, the answer will always be   zero. Try to convince yourself the  same thing works for the function  
+34:28
+1 over z squared as long as the curve does  not pass through the point z equals zero.  
+34:37
+Notably, this does not work for 1 over z. If we  integrate 1 over z around the unit circle, then by  
+34:44
+putting together our two previous calculations, we  get pi i over 2 for this piece of the loop minus  
+34:53
+a minus 3 pi i over 2 for this part of the loop,  which is 2 pi i. The fact that the integral around  
+35:03
+this loop is not equal to zero can be thought of  as alerting us to the fact that something weird  
+35:09
+is going on inside this loop. In this case, the  weird thing is the singularity at z equals zero.  
+35:20
+So what happens if we choose to integrate  1 over z around this loop instead?  
+35:27
+Well, as it happens, we get zero. And  here's why. What we want to do is we  
+35:34
+want to take the Taylor series for  1 over z centered at this point z0.  
+35:41
+Then we're going to write that as the  sum of an times z minus z0 to the n.  
+35:48
+And notably here, I don't actually have  to calculate what any of these numbers are   because that's not actually going to be relevant  in the argument I'm going to be making. Now what  
+35:57
+we know from the previous video is that this  Taylor series converges inside of this circle.  
+36:04
+Just to remind you, the Taylor series of a complex  function will always converge within a disc whose  
+36:10
+radius is equal to the distance from its center to  the nearest singularity, which in this case is at  
+36:16
+z equals zero. Within this disc, we can write down  an antiderivative of 1 over z just by integrating  
+36:26
+the power series term by term, giving us capital  F of z equals the sum of an times z minus z0 to  
+36:36
+the n plus 1 divided by n plus 1. But now we  have an antiderivative of 1 over z that is a  
+36:45
+single-valued function defined on the whole loop.  So the fundamental theorem of calculus applies.  
+36:53
+And then by our exact argument from  earlier, this integral must be zero.  
+37:01
+With more care, you can show that  actually the integral of 1 over z   around any closed loop that does  not contain z equals zero is zero.  
+37:13
+Next question. What's the integral  of 1 over z around this square?  
+37:21
+With what we've done so far, we can actually  argue that this integral must be exactly two pi i.  
+37:29
+Why? Well, let's start with the unit circle,  where we know the integral is two pi i.  
+37:36
+And now let's figure out what happens if  we try and replace this quarter of the   unit circle with these lines instead. How much  has this changed the answer to our integral?  
+37:51
+Well, we've subtracted the integral along this  quarter circle and added the integral along this  
+37:59
+line and the integral along this line. But these  three together are exactly the integral along this  
+38:07
+closed loop. But that closed curve doesn't contain  the point zero, and so this integral will be  
+38:16
+zero. So the integral along this three-quarter  circle, one-quarter square, is also two pi i. But  
+38:27
+of course, we can apply the same argument to this  corner and this corner and this corner, and then  
+38:34
+we learn that the integral around the square is  exactly two pi i. Indeed, you can likely convince  
+38:41
+yourself that we could change the unit circle  into any sort of curve going counterclockwise  
+38:46
+around z equals zero, and the integral along any  one of those curves would be exactly 2 pi i.  
+Simple Closed Curves
+38:56
+To be slightly more precise in stating  this, I want to make a distinction   between closed curves, which are just  curves that start and end at the same point,  
+39:06
+and simple closed curves, which have the  additional requirement that they never   intersect themselves. For the purposes of defining  and talking about the integrals we've been doing,  
+39:18
+whether the curve intersects  itself or not is irrelevant.   But for what I'm about to say, we need to be  careful that we're talking specifically about  
+39:27
+simple closed curves. Summarizing what we've  learned, we get this. If C is a simple closed  
+39:35
+curve traversed counterclockwise, then  the integral of 1 over z dz along C  
+39:42
+is either zero or 2 pi i, and it's 2 pi i  precisely when the curve contains z equals zero  
+39:51
+and it is zero otherwise. Exactly  the same methods we use to prove this  
+39:59
+show that if f of z is any complex function and  C is any simple closed loop, if C contains no  
+40:07
+singularities of f of z, then the integral  of f of z dz along C will be exactly zero.  
+40:16
+Or put a different way, if we ever find a simple  closed curve C where the integral of f of z dz  
+40:24
+around C is not zero, then the curve C definitely  contains at least one singularity of f of z.  
+40:36
+What does all of this mean for the zeta  function? Well, recall the zeta function  
+40:41
+has only one singularity, and that  singularity is here at s equals 1.  
+40:47
+Thus, if we integrate zeta of s around  any loop, then the integral will be zero  
+40:53
+unless that loop happens to enclose the point s  equals 1. By some coincidence, it happens that  
+41:01
+whenever the loop does enclose the point s equals  1, the integral will take the value exactly  
+41:07
+2 pi i, just like the function 1 over z we  studied earlier. So why does all of this matter?  
+Zeros of Complex Functions
+41:18
+One reason is that in general, it's very  difficult to identify zeros of complex functions.  
+41:26
+To see why, I first want to think about how  we would identify zeros of real functions.  
+41:32
+So let's take the function f of x equals x  to the fifth plus x minus one. In this graph,  
+41:40
+we can plainly see that there is a zero of this  function here at this point, and that is backed  
+41:46
+up by something called the intermediate value  theorem, which basically says if it looks like a   graph of a continuous function crosses the x-axis,  then it really does, and thus we have a zero here.  
+41:59
+To put that a bit more precisely, I can  calculate that f of 0.7 is negative,  
+42:05
+and f of 0.8 is positive, and  the only way for this graph to get from a  
+42:11
+negative number to a positive number  is by crossing the x-axis in between.  
+42:19
+But there's that word "between" again.  And remember, the word between  
+42:27
+doesn't play nicely with complex numbers. How will  I ever know if a complex function takes the value  
+42:35
+zero at all? The key again is to think in terms  of closed loops. If I stick to this polynomial  
+42:45
+f of z equals z to the fifth plus z minus one,  then I can draw a circle here in the input plane  
+42:52
+and look at where all of those points end up  in the output plane. The points inside this  
+42:59
+circle in the input plane map exactly to the  points inside this loop in the output plane.  
+43:07
+In this particular instance, you can see that  the image of this circle in the output plane  
+43:12
+does not enclose zero. And so it is not possible  that any point on the inside of the circle maps  
+43:20
+to zero. That means there were no zeros of our  function inside this circle in the input plane.  
+43:30
+With this method, it's fairly easy to see that  this circle definitely does enclose a zero of  
+43:36
+this function somewhere. Unfortunately, even for  relatively simple functions, the images of circles  
+43:45
+can get quite complicated. How will we decide if  this complicated curve actually encloses zero?  
+43:52
+And perhaps more importantly, how will  a computer decide if it encloses zero?  
+Complex Line Integrals
+43:59
+The key here is to use complex line  integrals, like we've learned about today.  
+44:06
+At first, we might want to take the integral  of z to the fifth plus z minus one dz along C.  
+44:13
+But this won't actually help. Why? Well, because  z to the fifth plus z minus one doesn't have any  
+44:20
+singularities anywhere in the plane, so it  definitely doesn't have any singularities   inside this circle. And hence, this integral  will be zero no matter what circle C we choose.  
+44:33
+The secret is to make the zeros of z to the  fifth plus z minus one into singularities. And  
+44:40
+fortunately, there is a very easy way to do that,  which is to replace z to the fifth plus z minus  
+44:46
+one with 1 over z to the fifth plus z minus one.  Anywhere z to the fifth plus z minus one is zero,  
+44:55
+this becomes 1 over zero, which means that  there's actually a singularity of this function.  
+45:02
+Now, I can move this circle around and track  the value of the integral of one over z to the  
+45:09
+fifth plus z minus 1 dz across the  circle, and you can watch how it turns   nonzero exactly when our loop encloses one of  these five points, and stays zero otherwise.  
+45:23
+By strategically changing the shape of our loop,   we can obtain the coordinates of these  five zeros to whatever precision we'd like.  
+45:33
+For the zeta function, we can do the same  thing. And here, we're actually helped by   the knowledge that all of the non-trivial zeros  of the zeta function are confined to this strip.  
+45:44
+What we do then is to start with a rectangle here  and calculate the integral around this rectangle  
+45:51
+of one over zeta of s ds. Then, I allow this  rectangle to drift up the critical strip,  
+46:00
+and whenever this integral is not zero, it means  that we've identified a zero of the zeta function.  
+46:08
+The first such zero we find is here with  imaginary part between 14 and 15. The next  
+46:16
+has imaginary part between 21 and 22, and the  next has imaginary part between 25 and 26.  
+46:25
+Our method works, but it has three key problems.  
+46:32
+The first problem is that we're calculating  this integral by approximating it,  
+46:38
+meaning that we're getting a number that  is not the exact value, but that is close   to the exact value. But then we're asking  the question, is this number zero or not?  
+46:51
+And that is quite a challenging problem  computationally. If you've ever heard the adage,  
+46:58
+don't compare floating point numbers for equality,  that's exactly what we're trying to do here.  
+47:05
+The second, and actually the most minor of  our problems, is that we're actually making  
+47:10
+a converse error here. The true statement is that  if zeta of s has no zeros inside the rectangle c,  
+47:20
+then the integral around c of  1 over zeta of sds is zero.  
+47:27
+That does give us what's called  the contrapositive implication,   which is that if the integral around the  rectangle of 1 over zeta of s ds is not zero,  
+47:39
+then zeta of s has zeros inside our rectangle. But  we also want to know that if the integral around C  
+47:48
+of 1 over zeta of s ds is zero, then it means  that there are no zeros inside the rectangle.  
+47:56
+And unfortunately, that implication is in  general false. To see why, let's imagine that  
+48:06
+we were trying to find the zeros of the much  simpler function z squared using this method.  
+48:14
+To do this, we would look at the function 1 over  z squared, and then we would move this closed  
+48:20
+curve C around the plane, and look for when  it happened that this integral was not zero.  
+48:28
+So for example, if we looked  at this closed curve over here,   the integral would be zero. Good, there are no  zeros inside that curve, that's what we expect.  
+48:39
+But unfortunately, the integral of 1 over z  squared dz around this curve is also zero,  
+48:47
+even though this curve definitely encloses the  point z equals zero, which is a zero of z squared.  
+48:57
+So why is it we failed to find this zero?  Well, it's because as we saw earlier, 1 over z  
+49:05
+squared has an antiderivative, namely minus 1 over  z, which is actually defined everywhere except for  
+49:12
+z equals zero. Thus, in particular, it's defined  on every circle that contains z equals zero.  
+49:21
+And hence, every integral of this function  around one of those circles is exactly zero.  
+49:29
+I actually find this quite unintuitive,  because it's basically saying that because z  
+49:34
+squared actually has a double zero at  zero, rather than only a single zero,  
+49:40
+we've actually made that zero harder to find.  We'll elaborate on this in the next video.  
+49:49
+The conclusion here is that we can use the method  outlined in this video to find zeros of the zeta  
+49:54
+function. But we're not guaranteed that this  method will find all the zeros of the zeta  
+50:00
+function. It might miss some well-camouflaged  zeros like the zero z equals zero of z squared.  
+The Riemann Hypothesis
+50:11
+The third problem is probably the biggest,  and that problem is connected with why we  
+50:18
+were trying to nail down where the zeros of  the zeta function were in the first place.  
+50:23
+Namely, we were attempting to verify the Riemann  hypothesis, which says that the real part of all  
+50:29
+of the non-trivial zeros of the zeta function  is exactly one-half. Unfortunately, no amount  
+50:37
+of approximating a complex number is going to  allow us to prove that the real part of that  
+50:42
+complex number is exactly equal to one-half, and  not just a number that's very close to one-half.  
+50:50
+Thus, while our method does allow us to  find many zeros of the zeta function,  
+50:56
+it doesn't actually allow us to verify  the Riemann hypothesis for any of them.  
+Outro
+51:04
+Fortunately, all of these problems are  fixable if we dig a little bit deeper  
+51:10
+into what a singularity of a complex function  is and what it looks like. We're going to do  
+51:17
+this next time, and we're going to talk about  a specific kind of singularity called a pole,  
+51:23
+we're going to talk about a generalization  of a Taylor series called a Laurent series,  
+51:28
+we're going to put this all together with  something called Cauchy's residue theorem,  
+51:33
+and with all of these tools together,  we're going to be able to actually   prove that the Riemann hypothesis is true at least  for these first few zeros of the zeta function.  
+51:48
+Thank you very much for watching. If you enjoyed  this video, and would like to support the  
+51:53
+production of our content, you can leave a tip  by clicking the Thanks button below this video.  
+51:59
+Everyone who contributes will  be thanked in our next video.   If you'd like to get in touch with us, please  email zetamathvideos at gmail.com. If you're  
+52:11
+interested in Sudoku or other puzzle-related  content, check out our second channel, zetamath   does puzzles. We stream there twice a week, so  come join in the fun, or just stop by and say hi.  
+52:22
+Thanks again for watching, and we'll  see you in the next zetamath video.

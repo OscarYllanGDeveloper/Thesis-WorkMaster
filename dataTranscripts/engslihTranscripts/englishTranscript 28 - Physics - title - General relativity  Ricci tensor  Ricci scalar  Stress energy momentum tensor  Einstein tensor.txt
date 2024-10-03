@@ -1,0 +1,1170 @@
+Introduction & a note of thanks
+0:01
+[Music]
+0:14
+einstein's field equations episode 5.1 welcome everybody to this
+0:20
+fresh new episode on youtube videos uh which i'm making on einstein's field
+0:25
+equations well i have mentioned this episode to be episode 5.1 because there will be
+0:32
+two parts of this episode which deals with components of einstein's field equations
+0:37
+now as you can see on the right hand side of the screen i will be specifically speaking and explaining about these
+0:44
+three concepts the richie curvature tensor the richie scalar and the stress energy momentum tensor
+0:52
+so there will be another episode followed by this one which will be episode 5.2 where we will
+0:59
+take all these components into accounts so this is the first episode dealing with einstein's field
+1:05
+equations well before i start my video i would like to
+1:11
+express my sincere thanks to all those subscribers who have commented and expressed their thanks and has been
+1:18
+a source of motivation i am especially thankful to randy martin who has
+1:24
+suggested to keep the background sound to be as low as possible i try to make a video previous to this
+1:31
+which which has a background sound but it is really disturbed a lot so randy i have put up the entire
+1:38
+background video so that the explanation is much clearer thanks to twinkle pal who has
+1:44
+uh been motivating me and she watches the lectures cosmo philosophy and science who has
+1:50
+been a source of motivation and he or she comments on my videos
+1:55
+and to prabhal who has expressed thank you so a big thanks to all of you who has
+2:01
+subscribed and commented and expressed their interest in my channel
+2:06
+physics for students so we would be dealing primarily with the components of
+A quick recap (From the previous video)
+2:12
+einstein's field equations as you can see this is basically the expanded form of einstein's field
+2:18
+equations so we would start with r mu nu which is the richie curvature tensor
+2:24
+we will also deal with the single r richie curvature scalar the g mu nu which is the metric tensor
+2:31
+lambda which is the cosmological constant the capital g which is the good old
+2:36
+newton's gravitational constant and c which is the speed of light followed by t
+2:42
+mu nu which is the stress energy momentum tensor well in this particular video we would
+2:47
+be taking r mu new which is a rishi curvature tensor followed by the richie curvature scalar and t mu nu which is
+2:55
+the stress energy momentum tensor rest of the part metric tensor gravitational constant
+3:00
+the speed of light as well as t 8 pi g we will take uh into account in the
+3:07
+coming videos otherwise it will be too lengthy to explain in a single video
+3:15
+so first let us note that what does this greek symbol immune denote well as we all know that
+3:22
+these greek symbols are used to denote some kind of uh indices or
+3:27
+anything related to tensor so mu nu in this einstein field equation uh mu nu can be used for
+3:34
+different purpose but particularly to this context it denotes space time in four dimensions
+3:40
+so uh the first zero would be the time factor one the x-axis to the y-axis and three
+3:47
+the z-axis so you can see these are the spatial dimensions which are measured by mu nu
+3:53
+and zero being the time now if i try to plot this entire mu new concept in an x y
+3:59
+axis we i am i am not taking into account the z axis because it would be difficult to
+4:04
+show so this t would be the time which is shown on the y axis and x y z are the three spatial dimensions
+4:12
+and this one is the time and x y z z would be the space so mu nu basically denotes the space
+4:19
+time in four dimensions which is used extensively in einstein's field equations
+4:28
+now we know uh as you have observed me that i have been speaking about einstein's field equations using a
+4:36
+plural however einstein uh the single equation is seems to be a single equation however
+4:42
+these are not a single equation it consists of 16 non-linear partial differential
+4:48
+equations in a spherical or you can say in different coordinate system so uh let us see how what makes up the
+4:56
+16 uh partial or pdes so our mu new uh as we have noted mu new denotes four
+5:02
+dimensions of space time the g mu nu again another four dimension we have a repetition of g mu new so it
+5:09
+takes up another four dimension and the stress tensor team you know taking up four dimension so together they make up 16 equations
+5:16
+but note right on the bottom of the screen i have written six equations a duplicate
+5:22
+so this makes them a total of 10 non-linear partial differential equations
+5:27
+so 16 are the equations we deduct those six equations and we reduce it to ten non-linear pdes
+5:35
+so in the coming few slides i will be showing what are the duplicate equations or rather i will say what are the
+5:40
+duplicate components which actually leads to 10 differential equations instead of
+5:46
+16. so this actually shows the 16 equations if we consider the mu nu which are the
+5:52
+dimension of space and time now we all know from our basic linear
+5:58
+algebra course which you have done in our school days that what is a symmetric matrix so we take into account this
+6:04
+simple three by three matrix where i have circled one two and three and if i transpose it it
+6:10
+would lead to this so you all know what is a symmetric matrix so on the on on the uh with whatever the code uh
+6:17
+numbers that you consider what is on the horizontal if you transpose it it lies the same so there is no change so this is
+6:24
+what is a basic definition of a symmetric matrix you might be thinking why i'm doing so it will just become clear
+6:30
+in a few more minutes when i would be explaining on this so we should note that metric tensor is
+6:37
+basically a symmetric tensor in your screen you can see the expanded part of the metric tensor which is
+6:43
+starts from g00 and it goes up to g33 and this is four by four so it takes up
+6:49
+a total of 16 components so but among these few of them are common so you see g01 and g10
+6:57
+marked in red are common g02 and g20 again is common g zero three and g three zero are common
+7:04
+so by the term common it doesn't it actually means that they might carry different value but if we take these
+7:11
+into accounts these are cons these can be deducted from the metric tensor so if we go on like this g 0 1 g 1 0
+7:19
+g 0 2 g 2 0 g 0 3 equals to g 3 0 and if we continue like this we get
+7:26
+a symmetric tensor that means the components g mu nu equals to g new mu
+7:32
+so it is evident from this that if we continue discarding the duplicate
+7:37
+components from this tensor it leads to a symmetric tensor
+7:44
+so these are the 10 components of the metric tensor when we reduce them from 16 so you can see
+Components of Einstein's field equations
+7:51
+on the top 4 plus 3 plus 2 plus 1 and also note one thing that all these
+7:57
+components in this geometric that is the metric tensile all are unique that means there is no
+8:03
+duplicate among the components and this leads to the 10 components of the metric tensor
+8:08
+so by now what we have learned is that we have learned that how we are reducing the 16 components of a tensor to
+8:14
+10 components and we are eliminating those which are common
+8:20
+similarly if we consider the t mu nu which is a stress energy momentum tensor we will see that this also reduces to
+8:27
+10. this is the complete team you knew that it is a complete stress energy tensor
+8:32
+so t 0 1 t 1 0 t 0 2 2 t 2 0 t 0 t and 3 0. in this similar way
+8:39
+which we did in metric tensor if we continue eliminating those components then what
+8:45
+it would finally leave is that this one so t mu nu would now become equal to t nu mu
+8:53
+which is again a symmetric tensor so uh the stress energy momentum tensor we deduce we reduce the six components
+9:01
+in the tumor unit that is the stress energy momentum tensor we reduce the uh the the common components
+9:08
+so this is what it is you see on the left hand side of the screen it is just similar to the metric tensor gmu
+9:14
+new and all you can see here all the components are unique and this leads to the 10 components of
+9:21
+stress energy momentum tensor so this actually shows that how we can reduce
+9:26
+the duplicate components from uh metric tensor to stress energy momentum tensor and it leads to ten
+9:32
+components now let us summarize quickly what we learned about the einstein field
+Summarizing
+9:37
+equation this is uh the complete uh field equations written over there now if you consider from r mu nu to
+9:44
+lambda g mu nu which i have marked it in red this is actually which shows the
+9:49
+curvature of space time as determined by the metric g now uh we would be explaining about the concept of
+9:56
+metric tensor but for for for the moment just to understand that we are trying to measure
+10:01
+something so measurement relates to metric which we denote by small g right so this part which i have shown in
+10:09
+red leads to the curvature of space time and how do we measure it we measured it by the metric which is d
+10:15
+further it redu it goes to geometry of space time so the left hand side
+10:21
+it is basically the geometry of space time which is determined by the metric g
+10:26
+on the right hand side which i have marked in blue you can see this is actually the matter energy
+10:31
+content of space time that means what whatever be the amount of matter the the components related to matter
+10:39
+everything is everything is explained on the right hand side this actually leads to the matter movement
+10:45
+that means anything any matter which is moving through space time and both the geometry of space time and
+10:51
+the matter movement is being equal so i believe this gives you a clear picture how geometry
+10:58
+of space and matter movement are related to each other so the curvature which leads to the
+11:04
+geometry equals to the matter content and it equals to the matter movement and
+11:10
+that is why the left-hand side of the efe einstein field equation equals to the right hand side
+11:15
+we will soon see and things will become much clearer
+11:22
+now we can alternatively write the einstein field equation in this way so we can take the r menu till half of
+Alternative way of writing the equation
+11:30
+our g mu nu and we can uh summarize that as g mu du as we will see this is
+11:37
+basically the einstein tensor component once we uh shorten it like this
+11:42
+this can be written as when we are substituting the g mu new value right on the top which is
+11:48
+marked in red we get g mu nu plus the rest of the factors followed by a kappa term which we are
+11:53
+coming this one marked in blue actually shows you that this red marked
+11:59
+a part of the equation the left hand side the two factors can be reduced and written in this way
+12:05
+now this eight pi g uh whole divided by c 4 t mu du is basically the kappa term
+12:12
+we will later deal into what this is actually all about this is more or less equivalent to the
+12:18
+value that you are seeing 2.700 and this is basically the einstein
+12:24
+gravitational constant right so uh what i can tell you from here is that
+12:29
+this c raised to the power four is basically taken as a speed of light
+12:34
+in four dimensions uh we which we will come in the later part of the later into another video uh the
+12:41
+g is the gravitational constant newton's gravitational constant and 8 pi this pi factor is actually
+12:48
+coming when we are computing the the surface area of a sphere so we will see into
+12:55
+that it actually comes from poison's equation of gravity how the gravitational force is taken
+13:01
+into account i'm not going into this right now so these are the components 8 pi factor comes from poisons equation
+13:08
+and computation on its spherical surface g is the gravitational constant newton t mu nu we will deal with this
+13:15
+video and c to the raised to the power 4 is basically the dimension part of the speed of light so
+13:20
+here you see that 8 pi g is basically a constant so that we can recover
+13:25
+newton's law of of gravities for small and static masses
+13:33
+now yes so einstein tensor is defined by this which is right in front of your screen
+13:38
+uh g-menu as we know it is the einstein tensor and the einstein's tensor as we have
+13:45
+seen is symmetric just like other tensor and it is representing the space-time
+13:50
+curvature of this curvature is basically due to matter distribution
+13:55
+which follows through space and time and in fact the so-called gravitational force is nothing
+14:00
+but it is the curvature which lets matter move so this is basically a kind of a concept where we are
+14:07
+rephrasing the einstein field equation into einstein tensor we will soon see what is the advantage
+14:13
+of this well you need to know another thing that einstein tensor has zero divergence that
+14:19
+means if you take into fluid mechanics uh divergent zero means whatever fluid is coming inside
+14:25
+the amount of fluid is going out i have just written this in partial differential form so that it
+14:30
+gives you a kind of a nice recap so now you might be it might be going in
+14:35
+your mind that the significance of einstein tensor having a zero divergence so you see g mu nu we have already seen
+14:43
+is actually providing a curvature of space time tmu new actually presents
+14:49
+of energy and mass so and we know that these two are equal so the beauty of the zero
+14:54
+divergence is this so you see g mu nu which is einstein tensor plus the lambda and the other
+15:00
+term equals to the kappa term followed by the stress energy momentum tensor now because we have seen that einstein
+15:08
+tensor have a zero divergence so the left hand side has to be equal to something on the
+15:14
+right hand side because the books need to balance so the law of conservation has to balance so that is
+15:19
+why you see on the right hand side which is written in red i have written that it has got a zero
+15:25
+divergence to match the law of energy conservation so because the einstein tensor have got
+15:30
+a zero divergence why it has got a zero divergence i won't go into the mathematical derivation it
+15:37
+equals to the uh stress energy momentum sensor so that these two are balancing with the
+15:42
+law of cons law of energy conservation now the covariant derivative as we have
+15:49
+seen those who are not ever what is covariant derivative you can just understand that
+15:54
+the ordinary derivative which we take uh is not working in riemannian manifold so we take
+16:00
+something which is called a covariant derivative well this is not an exact definition however i will make another video on
+16:07
+what is the significance of covariance derivative however in this particular video understand that covariant derivative of
+16:14
+einstein tensor is set to zero and its connection with the stress tensor is defined by this term now this here
+16:21
+you can see there is a gamma term which is used as a coefficient connection use defined in the matrix now
+16:28
+here we can say that that einstein tensor has zero divergence ensuring the conver uh energy conservation of matter now the
+16:36
+curvature of space time which is induced by the presence of matter that is the energy momentum tensor
+16:42
+that means in a it is a four dimensional version of the stress tensor you know that in fluid mechanics which describes
+16:49
+the pressure fluid now the newton's law of motion can be expressed as the vanishing of the
+16:54
+divergence of the stress tensor this generalizes to minkowski space which we know
+17:00
+where in addition to pressure we have something which we call energy and its flux now
+17:06
+one thing is quite clear till now what we have discussed that when we proceed from space time to a curved space time
+17:13
+we have to replace this one which you see on the left hand side derivative followed by this
+17:18
+reverse uh what you call this reverse delta which is called the greek letter nabla
+17:24
+so this is is uh you know changed it is replaced by a covariant derivative so hence whatever
+17:32
+is on the other side of the equation it must have a vanishing diverges so that you understand by this time the
+17:39
+zero divergence of the stress tensor which we showed earlier comes from the requirement of the conservation of
+17:45
+matter and energy and after formulating the einstein field equation it follows that the left hand
+17:51
+side which was einstein tensor must have a zero divergence in order to meet
+17:56
+with the uh right hand side that is the stress tensor so let us make a quick summary what we
+18:03
+have learned the vanishing of the divergence of einstein's tensor is the same what we got as the
+18:09
+divergence of the energy momentum tensor the physical reason why we get the vanishing of
+18:14
+divergence is basically the energy conservation and it is most natural for the generalization of curve space time
+18:21
+we have also seen that the long einstein field equation can be written in a much more shorter way
+18:27
+and this can be regarded as a consequence of the fact that the theory must be independent of choice of
+18:33
+coordinates if you have seen my earlier video where i have in the in the in the curvature space time i
+18:39
+have told that general theory of relativity doesn't deal with even any coordinate system
+18:44
+it picks up arbitrary places in the manifold so we need to get hold of something which
+18:49
+is independent of the choice of coordinates so now you see i we can summarize this
+18:56
+einstein tensor should be equal to on the right hand side which is a stress energy momentum
+19:02
+tensor
+Stress energy momentum tensor, curvature & matter
+19:07
+okay so we now come to the next part of the video what do we mean now we have seen that
+19:13
+the curvature of space time is basically uh for the reason it has got matter now
+19:18
+if i may ask you that what is matter what causes the constituents of matter you would say
+19:24
+it is mass right but we you know we have moved out from the newtonian
+19:29
+concept of mass and the when we moved into relative relativistic concept of mass
+19:35
+where we have seen that there are a lot of other concepts called relativistic mass rest mass etc so what i'm trying to tell you is
+19:43
+that from newtonian concept when we are moving into specialty of relativity and further we are generalizing into
+19:49
+general theory of relativity the lot of components which actually makes up a matter
+19:55
+it is just not the mass it is just not the rest mass it contains uh you know relativistic
+20:01
+mass rest mass and lot of things so we actually need a whole catalog of you know components which would
+20:08
+actually describe mass so here is the simple question what
+20:13
+consists of uh matter which causes space time now here on your screen you see i have
+20:19
+uh simply written the equation which is the relativistic mass this is what is called the total
+20:26
+energy of a mood moving body which is uh which is given from the lorenz boost of the uh special theory of
+20:33
+relativity now if once this consists of uh mass so what are the things what are the
+20:40
+essential essential constituents which makes up matter so you see i have written down
+20:45
+energy density momentum flow of energy pressure and stress so
+20:52
+all these six components actually now makes up what we call matter so the energy momentum
+20:59
+tensor in physics this describes the local distribution of mass momentum and energy we will soon see so
+21:06
+that this is basically uh a kind of uh understanding that from newtonian mechanics
+21:11
+moving to relativity and further to general relativity it is not so simple to define matter or
+21:17
+mass it actually contains lot of things so we need to have a concrete picture
+21:22
+picture in which we can plug in all those components so for example in two dimension i have
+21:28
+got this so you see i have got a two by two matrix and the red one is the energy density
+21:35
+the purple one is the momentum density and the green one is the pressure for example we get it this in two dimension
+21:42
+now what happens if i expand this into four dimension on the bottom right hand side of the
+21:47
+screen you see this is a complete four by four matrix and you have got dimensions t x
+21:54
+y and z if you remember right at the beginning we told we we i told you that uh in the
+22:00
+einstein field equation we are measuring space time in four dimension which is uh denoted by the greek letter
+22:07
+mu and u so this is actually the stress energy momentum tensor so this two dimension gets expanded into
+22:14
+four dimension how we are going to explain you one by one
+22:20
+now in two dimension let us take this purple part okay this is considered to be momentum
+22:26
+density don't worry i will be explaining you or the definition of momentum density and ignore if you already know one
+22:32
+so those marked in red if it contains momentum density now if i expand this momentum density
+22:38
+into three dimensions you see this comes this on the right hand side so you see on the top you have three coordinate
+22:45
+system x y and z which has been further given into three by three matrix so
+22:50
+what i'm trying to do over here is that i am considering a fictitious kind of a matrix two by two
+22:57
+where i'm taking the momentum density in two dimension and i'm expanding it to three dimensions
+23:06
+now for example i get further from this t by t axis i go into this t
+23:12
+x x t sub x x which is we call is the pressure part now if i expand it further then you see
+23:20
+again we get something like this x y and z and this is actually what we
+23:25
+called is pressure so earlier you have the seen the momentum density getting expanded
+23:31
+pressure is further getting expanded into three uh into three components of a tensor
+23:39
+and you have got this so there are one two three four five six other components so just to
+23:47
+take a note in between you must we must note that because general theory of relativity deals with
+23:53
+positions which are arbitrary in the manifold we must take into account a tensor why
+23:59
+because if you have seen my earlier video in tensor it actually explain uh explains that
+24:04
+things are invariant okay things are not varying only the uh the basis of the vectors are changing
+24:12
+so we need to have something which is invariant under coordinate transformation when we are moving from an euclidean to non
+24:19
+non-euclidean place space so here on your screen on the right hand side you see the stress energy momentum tensor
+24:27
+you we note that although we call this as stress energy momentum tensor it is
+24:32
+nothing but the extension of the classical stress tensor which we know in
+24:37
+newtonian mechanics it is a relativistic extension it actually describes the momentum flux
+24:43
+through space-time and most importantly it gives rise to whatever you call gravity and general relativity so here
+24:51
+is the space time vector uh space time 4 vector which is defined by this r is vector which is pointing towards
+24:58
+this 4 and the energy momentum vector which is defined by e let us go forward and see what this
+25:05
+energy momentum for vector is defined as so this one if we consider it the e uh
+25:11
+denotes the energy which is from the einstein's field equation e equals m c squared then we
+25:17
+got momentum in x direction we got the momentum in y direction and we got the momentum in z direction so
+25:23
+this is basically the uh the expansion of the newtonian stress energy tensor
+25:30
+into relativistic stretch stress energy tensor but
+25:35
+yeah so this is just a vector which can be written in the form of a row but what we are looking is we are
+25:41
+looking for a tensor why we are looking for a tensor because we need to find out a component
+25:46
+which is invariant in coordinate transformation when we are moving from a euclidean uh space to a
+25:53
+non-euclidean space so here on your screen is what we call is a stress energy momentum tensor
+26:00
+now we are going to explain it uh one by one but you see on the left hand side you see t00 which
+26:06
+is the energy density this t01 to 203 is the energy flux
+26:11
+and on the left hand side you see the momentum density so just to give you a uh clarity that any
+26:17
+part of energy that we are thinking anything that we that we can visualize
+26:22
+as an energy it can be pure energy rest mass relativistic mass stress whatever it finds somewhere a
+26:30
+home this is the house so somewhere it finds a kind of a resting place in the home and this is what uh what the stress
+26:38
+energy momentum tensor uh consists of now you see on the left hand
+26:43
+side this t00 which is the energy density it will always predominate the energy
+26:49
+tensor why because energy as we know from einstein's field equation equals
+26:54
+m equals to m c squared and here it goes i have marked it in red c square because
+27:00
+the magnitude of the velocity of the light is so huge that is the reason that energy density will always
+27:07
+be predominant factor and that is why it is right on the time part of the stress energy
+27:12
+momentum tensor the first component of the tensor so because of the uh magnitude of the speed of light it
+27:19
+will always be the always be predominant now if i go for the meaning of the terms
+27:26
+just a quick recap energy density as you know it is the amount of energy stored in a given system
+27:31
+per unit volume so it is get per length cubed energy flux is something which is called
+27:37
+uh you know a rate of transfer where energy is moving through a surface momentum
+27:42
+density it is there on the screen i have just given a kind of a equation it is not true here but it is
+27:48
+the it is true in the electromagnetic wave field the momentum per unit volume we get the pressure term uh which is f
+27:55
+by upon a and we get shear tr stress which is denoted by the tau symbol which is the force applied whole divided
+28:02
+by the cross sectional area which is uh denoted by m squared so these are the quick
+28:07
+four five terms which we went earlier so these are the meaning of the terms
+28:15
+now in the stress energy momentum tensor if you see on the uh right on the right hand side we will
+28:21
+deal first with the energy density so you see the energy that is responsible for the curvature of space
+28:27
+time we have already shown a kind of an intuitive approach that because mass
+28:32
+equals to energy and because energy equals to m c squared so definitely the energy would
+28:39
+be responsible for the mass which is responsible for the curvature of space-time
+28:45
+we deal with pressure also so i have give given a small icon where a hand is squeezing an object so if we
+28:52
+squeeze an object hard it can deform the surface so this deformation is something which
+28:58
+we called uh the is responsible for curving the space time so pressure
+29:03
+also acts as a source of space-time curvature energy flux will uh it is something
+29:09
+analogous to uh you can think that um when you're sitting in front of a window and uh the la the sun rays are
+29:16
+streaming from the window direct directly to you so this this this flow of the sunlight
+29:22
+is something which we call the flux or you can call energy flux so movement of matter
+29:28
+uh say from one place to another if i roll a ball from one place to another it causes some energy to transfer from
+29:34
+one place to another so this energy transfer from one place to another is what is called energy flux
+29:40
+so automatically energy flux because it is related to matter it is something which causes the
+29:45
+space-time curvature so energy density followed by the pressure followed by energy flux
+29:52
+now we are left with another factor which is called the momentum density so i have just given a basic equation
+29:58
+momentum flow equals to mass flow multiplied by momentum or mass so energy and momentum because they're
+30:04
+closely related to each other momentum actually plays a pivotal role in the space-time curvature
+30:10
+so all these factors actually now you see energy plus momentum plus pressure plus
+30:17
+stress actually makes up this blue area which is the matter and this matter causes a
+30:22
+dent or it causes a curvature in space time so this actually concludes our
+30:28
+discussion or it actually shows how the stress energy momentum tensor and how the
+30:34
+components of this tensor are contributing to the fact of matter and eventually curving the
+30:40
+space time so here you see energy momentum pressure
+30:46
+and stress it contributes to making up the stress tensor denoted by t mu nu which is also a zero divergent
+30:54
+tensor so it leads to zero divergence and don't worry about this this is basically what we have
+31:00
+uh we find that when we use the covariant derivative how the zero divergence happen and it is
+31:06
+energy not mass that is the source of gravity now obviously one question comes into
+31:12
+the mind which i was also thinking so it is good time to take a note that if the zero
+31:18
+divergence of stress energy momentum tensor uh leads to the conservation of the
+31:23
+energy energy energy then can we tell that zero divergence of stress tensor is
+31:29
+responsible for the conservation of energy it's an obvious question
+31:34
+the answer actually is no the answer is no actually what happens i
+31:39
+will tell you the zero divergence of the stress energy momentum tensor does not directly
+31:44
+imply the energy conservation rather it implies indirectly now as i told you earlier that when we
+31:51
+are considering a manifold especially in general theoretical relativity we are not using the vanishing
+31:58
+divergence in the ordinary uh i would say in the ordinary sense or the ordinary
+32:03
+derivatives so the covariant derivative divergence involved implies implies vanishing divergence in one
+32:09
+coordinates frame which implies vanishing in all other coordinate system so to show every momentum conservation
+32:16
+we have to include the energy momentum of gravitational field and then conserve
+32:21
+divergence and it is just the ordinary divergence similarly in charge conservation in young males
+32:29
+vanishing gorge converge covariant divergence of the matter field holds in all frames of reference that is
+32:35
+it is gorge invariant but the change of matter is not conserved since the gauge bosons also carry charge
+32:42
+now you have to take into account gauge boson charges and then show the ordinary
+32:47
+divergence of the combined matter along with the field current and then it vanishes so
+32:53
+just to make things easier on a note that the ordinary divergence does not vanish it is the
+32:59
+covariant divergence which vanishes so in order to vanish and make it equal
+33:04
+to the law of conservation of energy we have to first make zero divergence of the ordinary
+33:12
+divergence and then only one frame of reference will be equal to the another frame of reference so if this is
+33:18
+not the right way to say that zero divergence is responsible for conservation of energy no because the
+33:24
+ordinary divergent doesn't vanish it is only that the covariant divergence
+33:36
+vanishes so here we get the left hand side just to summarize and here is the
+33:43
+coordinate we have covered what is called the energy density we have also seen what is energy flux we
+33:50
+have also covered momentum density and we have covered the fourth quadrant that is shear
+33:56
+stress tensor which actually comprises of pressure and shear stress all these four coordinates actually
+34:03
+contributes in making up stress energy momentum tensor which eventually causes the curvature of
+34:08
+space-time so this is a quick time to take a break and i think
+Take a break
+34:14
+that you can i will just quickly go and grab my cup of coffee and you can also take a break once which
+34:21
+uh start with the concluding next part of the video well you i can tell you this much
+34:26
+that for a topologist there is no difference between this dancing cup of coffee and the hot and
+34:32
+uh you know yummy doughnut which is waiting on your plate so time to take a break
+34:42
+so we come to the concluding part of our uh discussion which is called the richie curvature tensor
+Ricci curvature tensor
+34:48
+now before we start with the richie curvature tensor although this is not the right uh i would say not the right
+34:55
+video but however i would like to tell you how the richie curvature tensor the hierarchy it happens
+35:01
+first we need to understand and we will do it in another video about what is called a riemann curvature
+35:07
+tensor i call him to be a granddaddy because from the riemann curvature tensor we go
+35:12
+to ritchie curvature tensor we should note that richie tensor is actually also a symmetric tensor
+35:18
+which further leads to ritchie scalar and this reachy scalar is basically contraction of the ritchie
+35:25
+tensor we will see a part in this video so richie scalar is basically a contraction of the ritchie tensor
+35:31
+and the ritchie tensor eventually is a contraction of the riemann curvature tensor so you don't worry about this equation
+35:38
+which i have written this is basically again we are working on the covariant derivative so from the riemanns
+35:45
+we get the richie curve tensor from the richie curvature tensor we get to the richie scalar and if even
+35:51
+if we go back as i have shown in the arrow richie scalar is a contraction of ritchie curvature which is a contraction of the
+35:57
+riemann curvature tensor so this is just to know how we arrived at richie curvature or richie scalar
+36:03
+it is only through riemann that it is possible so uh richie curvature actually tracks a
+36:11
+volume change along geodesics which means that how volume grows and shrink in geodesics so
+36:16
+depending on the curvature that is the manifold that we are dealing richie curvature r shows the change in
+36:22
+volume and it happens either in a static way a growing way or it is decreasing so now
+36:29
+it is the right time that when we when we when we see this sentence that richie curvature
+36:35
+tracks volume change along geodesics what do we actually mean so for that let
+Change of volume under linear transformation
+36:40
+us go back quickly to our basic linear algebra and understand what is the change of volume under linear transformation
+36:47
+in orthogonal and non-orthogonal plane well this is important because when we when we tell what is a volume change we
+36:54
+need to understand the basic concept underlying what is a volume change now we have gone to our
+37:01
+school days where we have calculated the determinant that i have done it for a simple parallelogram so if we
+37:07
+consider these two vectors w and v occurring on uh this parallelogram which is on r2 that is two dimension
+37:15
+then the area of a parallel parallelogram can be calculated using this v and w vector using a
+37:21
+determinant right so we denote it by d t very simple i am not going further to explain
+37:26
+we all have calculated these on our school days now what do we mean by volume growth so
+37:32
+uh say for example i take a linear transformation rn mapping on m dimensional space
+37:39
+and i take an example of a one dimensional linear transformation so here what happens t maps the interval 0 1 which is on the
+37:46
+left hand side you can see on the x plane to the interval 0 3 on the x prime plane
+37:52
+and this actually shows something it becomes like this so the determinant of the matrix 3 actually it
+37:59
+shows that it stretches the object and their length is increased by a factor of 3.
+38:04
+now this this is a simple one-dimensional linear transformation now if i take something like this a 2d
+38:10
+linear transformation and i'm taking a b c d followed by x and y these are the two
+38:16
+components then it shows something like this so you see i uh on the left hand side
+38:23
+this is a this is just a you know kind of a box which gets transformed here
+38:28
+we get the uh x-axis minus two which is plotted over there and we get the y-axis also which
+38:35
+is in blue plotted over here now here what happens is the the object actually rotates by pi
+38:41
+radians now because this object is rotating and stretching it is increasing the area
+38:46
+by a factor of four so this is a kind of a typical example of stretching two dimensional linear transformation
+38:56
+if i take a three dimensional two dimensional linear transformation where i am stretching and flipping
+39:02
+the parallelogram of the the square it becomes something like this so you can see that the t doubles the
+39:09
+area right and the orientation is also reversed orientation means if you move counterclockwise uh just
+39:16
+taken you can do this on the screen if you move counterclockwise it leads in the opposite color
+39:22
+so you see from the blue the blue is here and the yellow is over here so here the
+39:28
+basic essence to give you is that the area is doubled and the orientation is
+39:33
+also reversed now let us take a example of a three-dimensional linear transformation
+39:40
+so we take the two-dimensional linear transformation something like this where i'm taking three axis xyz and i'm
+39:47
+computing it as ax and we take the matrix from a11 to a33
+39:52
+now i've got a cube uh something like this which is plotted on the xyz axis here it is so you see that the cube
+40:01
+has transferred into a parallelopiped and the stretching if you calculate the determinant which we did earlier
+40:08
+stretches the volume to 12. so the expansion of the volume of t
+40:13
+is reflected by the fact that determinant of a becomes 12 and the t the the the t
+40:21
+actually rotates the cube and stretch it to a parallel pipette of volume 12. so this is and but but most most
+40:28
+importantly the same four colors are in the same order when it is moving counterclockwise
+40:34
+right so this is a typical example where a cube is getting linearly transformed into a
+40:41
+parallelopipet the determinant of the cube when calculated expands to 12. so that means it has
+40:48
+stretched and the volume has also increased
+40:53
+let us go for a quick summary on linear transformation so transformations uh determinant specifies
+40:59
+how the volume changes so if we get classically volume determinant is 1 the volume is preserved
+41:05
+if it is negative there is a mirroring and the face is reversed when if it is doing an orthogonal transforms
+41:12
+then the shape is actually preserved so what happens right on the screen you see the cube is being stretched to a cuboid where the
+41:19
+length i have marked it in red increases the sphere gets extended to a oblate
+41:25
+spheroid so you can see the blue mark which is on the sphere gets extended
+41:30
+much bigger in the oblique ferrite so if i take these two things the parallelopiped and sorry the yes the
+41:37
+cube transferring to parallelopiped sphere sphere going to a blitz ferrite the volume if i considered it to be zero
+41:44
+when it is uh transformed it becomes v 0 multiplied by the magnitude of x
+41:50
+multiplied by the magnitude of y multiplied by the magnitude of z so this is actually a way in which we
+41:57
+show that the volume is increasing
+42:03
+so uh now we have to understand that these are all happening on orthonormal basis so everything is in
+42:10
+orthonormal basis but we need to understand one thing that general theory deals with
+42:15
+non-orthonormal bases but or rather it deals with an arbitrary system so whatever the
+42:21
+linear transformation that i have been showing are basically on an orthonormal basis so the question is that can we take the
+42:28
+same transformation equation or using the same method can we do it in a non-orthonormal basis
+42:36
+obviously no and here we have to introduce a concept which is called volume form or volume element which is denoted
+42:42
+by the term omega now the volume form the definition goes it is a special differential form
+42:49
+defined on a oriented riemannian manifold which introduces a natural concept of
+42:54
+measure on the manifold and it is a tensor so just to take into account let us you know simplify terms it volume
+43:03
+form or volume element is going to calculate volume but not on an orthonormal basis which is
+43:08
+in a non-orthonormal basis and which takes care of different curvatures etc and it is a
+43:14
+natural concept of measures so it is measurement only but on a different manifold
+What is volume form / element ?
+43:23
+so let us see what is the volume form let us go on a very simple definition so if i
+43:28
+take a cuboid we calculate the volume which is length multiplied by breadth multiplied by
+43:33
+height but if we take a volume integral say for example if we take the same cuboid
+43:38
+then the volume integral is the basically a triple integral which i have taken over the different differential of x y
+43:47
+and z and the volume element which we considered is the differential element of dv that is the differential of v
+43:54
+whose volume integral over some surface which i have mentioned just as d g in a given coordinate system is given
+44:00
+by this so v equals to the triple integral of the differential of the axis x y and z so here i have
+44:08
+shown in the blue arrow that from volume element which is the differential of the x
+44:13
+y and z components taken over a triple integral goes to a volume integral which is
+44:19
+basically the differential and it leads to volume so from volume we go to volume element
+44:24
+integral and from volume integral we calculate the volume element
+44:29
+now in the volume element for example if you are taking a cube which is in an euclidean space v means
+44:36
+it is an integration of a function with respect to volume in various coordinates so differential of the volume equals to
+44:43
+what the differential of x y and z quite clear if we take a spherical coordinate system which is there on the
+44:49
+left hand side of your screen obviously in spherical coordinate system we have to include the sine theta
+44:54
+and the differential element of phi so the volume element is this which is r squared times the sine theta
+45:02
+of d theta d phi of d r and if you're considering the polar coordinate system
+45:07
+we get this one which is the differential volume so the basic essence is to make you
+45:13
+understand that basically volume element and volume form is is the understanding of the volume but
+45:19
+in a different way because we are moving from the orthonormal to the non-orthonormal basis
+45:26
+so i will just show you in a quick simple example what is the volume form so for example
+45:31
+if we take this particular parallelogram in a two dimension a and b are the two acting vectors so we get the
+45:38
+volume v equals to omega of the two acting vectors a and b if i take a similar kind of a cube where
+45:44
+there are three uh three vectors a b and c then the volume
+45:49
+is given by omega of a b and c now uh if you have seen my earlier videos that the tensor
+45:55
+is being taken by uh i would say from old bases to new bases i've always
+46:01
+mentioned it by e1 tilde or e2 tilde here you see that the parallelogram is
+46:06
+non-orthonormal it is not in 90 degrees it is tilted and so are the basis vector so what do
+46:12
+we do just from the uh you forget the right hand part the cube part let us take the parallelogram which is
+46:18
+in two dimension concentrate on the on the on the parallelogram on the two dimension
+46:24
+here what we do is that we calculate the determinant by taking a square root okay i'm not
+46:30
+going into why it is done because then we have to show the entire equation this is the determinant followed by a
+46:36
+square root followed by the determinant of g this g if you can recall is basically the
+46:42
+metric tensor i hope now you can understand the link because metric tensor actually
+46:47
+denotes any measurement on the riemann manifold which is the key for general relativity
+46:53
+so when we are calculating the determinant of this particular matrix then we have to take the square
+47:00
+root of the determinant of the metric tensor followed by the determinant of this normal uh vectors which is b1
+47:07
+b2 and a1 e2 now you see that this determinant of g actually takes care of the
+47:14
+transformation from orthonormal to non-orthonormal basis so if we are
+47:20
+transferring a volume which i have shown earlier that from the euclidean place we cannot do the same linear
+47:26
+transformation and measure a volume so we have to take care of the volume form
+47:31
+which is the differential volume but the differential volume has to take care of a metric tensor
+47:37
+because we are taking arbitrary bases right so from here from non orthonormal to orthonormal this is taken care by the
+47:43
+determinant square root of the determinant of metric tensor followed by this epsilon sign don't worry this is
+47:49
+called the levitivator symbol uh i will make another video on leviticus symbol it is just a
+47:55
+simple way of writing the indices of the tensor because node we are using two dimension
+48:00
+i have mentioned epsilon i and j so for the two vectors we get two components i and j followed
+48:06
+by the ith element of d vector and the jth element of a vector and this
+48:12
+arrow in blue shows that it gives the volume form or volume element of the two dimension
+48:18
+and it takes care of the square root of the metric tensor so this one is the volume form on non
+48:24
+non-orthonormal basis and this is the volume form on orthonormal basis
+48:30
+so uh so we can write it more cleanly so this is the volume from a
+48:35
+non-orthonormal which is volume equals to the omega of abc and v denotes volume
+48:41
+this is the volume form of non-orthonormal basis where v equals to omega abc followed by the
+48:47
+determinant of metric tensor g y because it takes arbitrary uh points followed by the
+48:53
+levici vita symbol epsilon now you see i have written i j k why i
+48:59
+have written i j k because we are comparing this now with a cube which is a three dimensional object and
+49:05
+we have to write i j k so the ith term of c the jth term of a followed by the kth
+49:12
+term of b so now to avoid further derivations i have kept a simple
+49:17
+form which is the minus r and this is actually the richie tensor so you now
+49:23
+can relate that from the non-orthonormal we move to orthonormal basis from two dimension i showed you a
+49:29
+two-dimensional orthonormal calculation then we come to the three-dimensional orthonormal calculation
+49:34
+from this three-dimensional orthonormal i am showing you that this v actually relates to the ritchie tensor
+49:40
+so the change of volume which is determined by the root over of determinant of metric tensor
+49:46
+now comes here in the ritchie tensor this minus term uh is basically a indication which shows
+49:54
+that the uh the curvature is positive what is curvature is what means uh by positive curvature we
+50:01
+will just show in a few moments so you can see this purple line this v and this v are the same right so that
+50:08
+actually proves that the volume change from the non-orthonormal basis to richie tensor
+50:14
+is actually the change of volume along the geodesics so for example we get this kind of a
+Geodesics along the sphere
+50:20
+sphere which is uh it is a fear sphere and here are you know i have just drawn
+50:27
+a few people walking around the sphere the orange and the green one so if they are moving along the geodesic in this
+50:33
+purple line eventually they meet at the north pole all right similarly on the right hand side you see
+50:40
+a sphere and i have marked it in red and these are converging geodesics these are actually meeting at a point
+50:46
+and here is a ball i move the ball further and further and further and further
+50:53
+so what actually happens the ball actually shrinks in size now i think you can visualize and
+50:59
+understand what is actually called shrinking in size which is taken care from the
+51:04
+richie curvature tensor now this part of shrinking in size is actually taken care
+51:10
+by the ritchie tensor so you see on the bottom of the screen i have written the r in red because you need to
+51:17
+understand that gravity in general theory of relativity is nothing an external force which we considered in
+51:25
+newtonian mechanics gravity is basically a natural tendency of of the curvature of geodesics so
+51:33
+i have written the right hand side the ball shrinks in size as it moves along the geodesic meaning
+51:38
+the curvature is positive so if you remember previously i have shown that this minus r
+51:44
+don't worry that was basically derivation when einstein put it that was the negative sign is not here so this
+51:51
+r actually denotes that the curvature is positive and positive curvature is actually means
+51:57
+that things or the matter will converge and it shrinks in size so
+52:02
+r in general theory of reliability is the curvature tensor and it is basically a measurement of gravity which
+52:09
+is a natural tendency of the curvature of space-time not anything external as a force
+52:16
+this is a change in volume if i move this box uh yes so it goes from here to here you
+52:23
+see there is no change in volume so the straight geodesic so i have just
+52:28
+taken three dimensions v1 v2 v3 the richie curvature becomes zero in this kind of a converge
+52:34
+geodesics if i move the cube one two three four and five you'd see it reduces
+52:42
+right in volume so because richie curvature is greater than zero that means it has got a positive curvature
+52:48
+positive curvature means that the volume is shrinking if i take a this kind of a geodesic at
+52:54
+the last one on the left hand side of your screen this is actually diverging geodesic so
+52:59
+what happens it goes here and then here and then here so eventually what is happening it is
+53:06
+increasing in size so you can just take a quick capture of this screen so we have got
+53:11
+three types of curvatures where the volume is not changing a flat one the straight geodesic where the volume
+53:18
+is not changing equals to zero the converging geodesics where the uh that the curvature is
+53:24
+greater than zero it is converging and the increase in volume which is diverging geodesics
+53:29
+where the richie curvature is less than zero so the richie scalar
+Ricci scalar
+53:36
+as you see over here which i have pointed out now we will come to the point of richie scalar
+53:41
+so you see the richie scalar actually keeps track of how the size of a ball deviates
+53:46
+from standard euclidean space now no don't get confused between richie scalar and richie curvature
+53:52
+reachy curvature is actually a measurement how a ball or an object shrinks in size or
+53:59
+it grows in size or it remains static based on the curvature of space-time but
+54:04
+richie scalar actually shows how a ball deviates the change in the ball we will i will show
+54:10
+you in the another video how we come and we numerically we measure richie scalar
+54:16
+when we parallel transport things so here the ball deviates from the euclidean space so this is a flat circle
+54:24
+in a two dimension in in in three dimension done not then it gets to a disk and when we
+54:30
+try to pose this disk on the sphere i i mean to say i am immersing this disk
+54:35
+on a sphere it actually takes more area so this is what richie scalar does so the uh
+54:42
+keeping track of the volume in euclidean space and how it deviates
+54:47
+in a non-euclidean space so here this red arrow shows that if i'm trying
+54:52
+to fit this disc on the sphere it is actually taking more area
+54:59
+so i will continue with richie scalar with few more examples here is the area of the circle which is pi
+55:05
+r squared now this black area which i have shown i'm trying to fit that circle over here
+55:11
+so what it is happening the area is increasing the surface area further gets increased
+55:17
+as the as the sphere gets smaller and finally you see that it further
+55:22
+increases and here the area equals to 2 pi r squared right so this is basically a sense when we are trying
+55:29
+to uh i would say when we're trying to immerse a circle and we want to see
+55:36
+that how this circle is deviating from the euclidean space to the non-euclidean
+55:42
+space when we are putting it on the sphere this is actually what richie scalar does so here is a
+55:48
+quick note that as a circle becomes shorter circle becomes shorter means the curvature is more positive
+55:54
+we can fit more area hence we can say that we can fit large amount of area in a small boundary
+Geodesic deviations
+56:02
+so here are the geodesic deviations uh simple this is a flat one uh where richie is
+56:09
+zero r there is no increase in volume this is uh is a convergent geodesic which has shown
+56:15
+on a sphere where the richie curvature is greater than zero and the volume decreases and the last one which i have taken a
+56:22
+saddle uh well there are other i would say other uh visualizations of a negative
+56:29
+curvature but it is good to go with a saddle so here you see that the geodesics
+56:34
+are diverging and r is less than zero so the volumes increases so three simple example of geodesic
+56:42
+geodesic deviations and how r is actually measuring no volume increase
+56:47
+volume decreases and the volume increase
+56:53
+so here is a flat circle r equals to zero and when i'm imposing or trying to fit
+56:59
+it over a sphere the area is more and again taking the same r equals to zero when i'm trying to
+57:05
+fit on a saddle or where there's a uh you know kind of negative curvature the it occupies a lesser area
+57:18
+so here we come to this equation so you see on the left hand side r sub a b is equivalent okay let me let
+57:25
+me explain you one by one so this is the reachy tensor we are quite clear on this this one is the riemann curvature tensor
+57:32
+okay this one you have already recognized g is the metric tensor and this one is the riemann curvature
+57:38
+tensor most important part in this equation you see that this one the c
+57:44
+and d which is the first and the third indices are being contracted in the riemann cur
+57:50
+in the richie in the riemann tensor so i have written the ritchie curvature tensor is a contraction of the first and
+57:56
+the third index of riemann tensor i think i've shown it earlier also so in the in the in the richie curvature tensor
+58:04
+you see the c part that is the red one on your right hand side is not there
+58:09
+and the third one two three the d part is omitted so we contract the first and third index
+58:14
+of riemann curvature tensor and we put it in the ritchie tensor
+Summary
+58:23
+so now we come up to the end part of the video it is nice time that we should summarize what we have learned
+58:28
+so we have learned what is mu new and it actually is a measurement of four dimensions of space and time we
+58:35
+have also learned how we can reduce the 16 partial differential equation to 10 by reducing the redundant components of
+58:43
+the metric tensor and the stress energy tensor we have always seen that einstein tensor
+58:51
+and its zero divergence property and we have also seen that why einstein senses zero
+58:56
+divergent property equals to the stress energy tensor zero divergent property and both the sides balance we have also
+59:03
+taken a quick note on stress energy momentum tensor however i've got some more ideas in putting up
+59:10
+and making a separate video on stress energy momentum tensor we have also seen change of volume under
+59:17
+linear transformation and how it leads to volume element and differential volume we have seen what is a reachy curvature
+59:23
+tensor and what it leads to the change of volume under geodesics and finally we have seen what is a
+59:29
+richie scalar which is the you know how a circle changes
+59:35
+or the amount of deviation from euclidean to non-euclidean space so thank you for watching the video i
+59:42
+think that it has been little bit long but it was required because lot of integrated concepts were required into
+59:48
+this do subscribe and like and comment and i would really like i would appreciate if you
+59:54
+are putting up comments in my channel one thing which is left i understand which is not
+1:00:00
+complete is the metric tensor so i am coming up with another video where i am explaining the mathematical
+1:00:06
+and the intuitive understanding of metric tensor so once this metric tensor is done we are left with the cosmological constant
+1:00:13
+the poisons gravitational equation and then we will merge them together into the final i
+1:00:19
+would say the integration part of einstein's field equations so do the subscribe do like comment and
+1:00:25
+let me know how you have liked the video any part which is confusing please do put up in the comment box and i would
+1:00:31
+like to explain further thank you very much stay safe and stay happy and have a nice day

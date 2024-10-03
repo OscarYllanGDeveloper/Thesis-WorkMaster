@@ -1,0 +1,610 @@
+0:08
+first of all let's look at the handouts I have given to you just to give you
+0:18
+some general information about the course in the cost guidelines I
+0:26
+underlined my aims as to teach the basic tools of classical and quantum
+0:33
+statistical mechanics and to demonstrate how thermodynamic laws and results may
+0:41
+be obtained by using the statistical mechanics well of course
+0:48
+my second aim is to demonstrate how tell dynamic laws and results when when you
+1:02
+applied the system mechanics to a wide variety of physical branches you will
+1:11
+see automatically the range of system mechanics I'm going to give you examples
+1:18
+from condensed matter astrophysics and nuclear physics and the related fields
+1:26
+okay and of course my last aim is to
+1:31
+enable you to read the literature containing Cisco mechanical ideas
+1:38
+related to your own field of study the textbook is patria second or third
+1:49
+edition of the book is going to be used I'm going to be concentrating on the third and latest but you can use the
+1:58
+second law second edition if you like we
+2:04
+have that book I think that's also a good reference the other reference books
+2:09
+are who and Cisco mechanics rave from
+2:16
+the matters of Cisco thermal physics londa ellipsis Cisco physics these are
+2:24
+all good books it supplements our own textbook and I think any graduate course
+2:32
+should use more than one book syllabus I
+2:40
+intend to go along with patreon and do
+2:48
+eight almost chapters dealing with the
+2:54
+ideal systems but I'm going to be a little fast on those so that I have
+3:00
+enough time for interacting systems interactions between particles are
+3:06
+responsible for example for tech phase transitions and we have to do them to
+3:12
+really understand the the wide scope of Cisco mechanics well the other
+3:20
+administrative stutz things are summarized homeworks are going to be
+3:27
+given to midterms and a final will complete our grading efforts so that's
+3:38
+the course guidelines I have also given you an questionnaire I want you to fill
+3:45
+that in so that I know how much you know what books we have studied ok please
+3:52
+fill that in and give it to me in the break now let's go to the main subject
+4:04
+of Cisco mechanics but before that I have to ask you a question should I
+4:12
+assume that you know sensical thermodynamics which is the undergraduate course in this department
+4:20
+do you know surgical thermodynamics
+4:26
+why did you take it from this University
+4:33
+but you are not sure whether you know it or not you fail it how can you come
+4:45
+recitation I see so well I usually will assume that
+4:52
+but I'll try to make it a a complete
+4:57
+course so you don't need to go to any other lecture knows if you would like to
+5:05
+do that you got perfectly welcome to do that but I will try to be giving a
+5:11
+complete set of lectures so you will it will be self-contained
+5:19
+self-explanatory but if you need anything that requires the previous
+5:26
+knowledge you can stop me and ask questions so it's asking questions is
+5:33
+the most important thing you can do in physics okay if you just sit there and
+5:39
+take notes I think it will not be a good attitude towards physics okay this is
+5:48
+not a lecture to sit and take notes only but we should interact during the class
+5:56
+you should stop and ask questions whenever you like okay now I will start
+6:05
+with the concept of macroscopic and microscopic stage variables that
+6:14
+describe a system you know in Cesco mechanics we are dealing with a large
+6:21
+system compared with those we studying quantum mechanics well the number of
+6:31
+particles in our system is about ten to twenty three of the
+6:38
+order of ten to twenty three a gram of
+6:45
+any material has that much okay and of
+6:53
+course when you take so many particles you'll see immediately that more is
+7:01
+different as said by one of the famous physicists more is different so you can
+7:11
+saw the single particle properties but you have so many particles you are going
+7:18
+to get something different the physics will get more challenging in some sense
+7:23
+okay well we usually look at these
+7:28
+systems in thermodynamic limit where the
+7:40
+particle numbers is going to infinity very large number and the volume goes to
+7:49
+infinity but the number density stays
+7:57
+constant as the totemic
+8:05
+limit well in this limit of course the
+8:12
+extensive properties of the system some properties are extensive
+8:27
+are directly proportional to the size of the system then that means proportional
+8:48
+to number of particles and volume of system that defines the size isn't so
+9:01
+intensive properties on the other hand
+9:15
+independent of science okay now you can
+9:27
+take it as a definition of extensive and intensive properties if a property is
+9:33
+depending on the size of the system it is expensive if it is independent of the
+9:40
+size of the system it is intensive now
+9:52
+let's write the total energy and number of particles of course we are going to
+10:01
+take the particles non-interacting up to
+10:10
+chapters nine or ten okay non-interacting particles the systems
+10:18
+are they containing non-interacting particles are known as ideal systems
+10:26
+okay ideal gas for example is a collection of atoms or molecules which
+10:33
+are not interacting with shot with each other they are of course in real life they are interacting but we are assuming
+10:40
+no interactions to make the analysis of their physics easy okay so it is the
+10:52
+first approximation to life if they are not interacting you can write the energy
+11:00
+of the system as a sum of energies of
+11:09
+independent particles epsilon I in this
+11:15
+case and I is the number of particles having that specific energy
+11:24
+so that the numbers total number of particles in the system is nothing but
+11:30
+the sum was particles having different
+11:40
+energies
+11:47
+so when you look at the system quantum mechanically of course you immediately
+11:56
+underline the fact that the energies are discrete aren't they do you know when
+12:05
+the energies are discrete quantized in other words do you know the rule for
+12:13
+quantization of energies so if you don't
+12:19
+ask questions I will ask questions okay that's the rule in this course what is
+12:29
+the reason for quantization of energy of a system of as in individual particle do
+12:40
+you know this have you studied quantum mechanics hmm of course because you are
+12:51
+graduate students so what is the reason for quantization of energy our usual
+13:00
+asked questions and answered them myself it is what confinement is in it when you
+13:10
+confine the particle to a small region of space either by interactions between
+13:16
+particles like the Coulomb interaction isn't it like in atoms molecules the
+13:25
+energy becomes quantized in a hydrogen atom the region of space is more or less
+13:34
+having a radius of 1 Bohr radius isn't it Oh point 5 to 9
+13:41
+angstrom so
+13:48
+if you confine the particles in a very small region of space you quantize the
+13:59
+energies if you let the particle move in
+14:05
+a large part of space let it be a free
+14:11
+particle for example you don't have conversational energies and you can take
+14:18
+the energy to be a continuous variable okay so confinement when the confinement
+14:27
+means if you put the particles in a box like a gas in a box you are quantizing
+14:35
+their energies depending on the end of the box charism of one side so in
+14:47
+quantum mechanics these are quantized
+15:00
+so we can specify them it if we know our
+15:10
+system man well it also means from this
+15:18
+discussion very quickly that they depend on me is in a 2-volume confinement means
+15:27
+small volume so the energies are volume dependent extremely important if these
+15:40
+individual energies are quantized then they II totally II is also context isn't
+15:49
+isn't it can also be quantized now if
+15:59
+the volume is large then you can treat
+16:06
+these energies as continues you should
+16:11
+really understand this because you usually later in the course you are
+16:19
+going to turn some nations into integrals by assuming that the volume is
+16:25
+large the volume you're dealing with is large and you're taking energies to be
+16:32
+continuous variables only in that case you can change as some into an integral
+16:40
+is energy okay now in this case then if you can treat
+16:54
+them as well their continuous variables then you have number of particles in
+17:02
+your system volume of your system and the total energy can really describe
+17:11
+your system microscopically isn't it so
+17:16
+we call these well set of these values
+17:23
+defining a microstate
+17:34
+a macrostate of a given system can be described in terms of number of
+17:42
+particles volume of the system and energy total energy of the system now of
+17:51
+course any macro state is going to be
+17:57
+having a lot of microstates in it okay
+18:03
+because if take a gas of atoms or
+18:08
+molecules particles let's say those particles would be in continual motion
+18:16
+isn't it they are going to move all over the
+18:21
+place you within the box they may have
+18:27
+occasional collisions between themselves and walls of the box so there's
+18:37
+microscopic motion will be quite rich
+18:43
+giving out probably the same microstate so let's look at this concept of
+18:52
+microstates then a little bit closely and I'll give you a toy example to
+18:58
+really make you understand what the microstates are okay let's take a very
+19:07
+simple toy model of three particles with
+19:14
+spin one health three particles with spin one health it is of course nothing
+19:23
+to do with our large real systems what
+19:29
+gives us a bad pedagogical example that gives us a nice idea of microstates
+19:46
+three particles with spin one out let's
+19:58
+take it talking about Samuel in this
+20:05
+case isn't it let's take an external
+20:11
+field magnetic field along that axis so
+20:27
+you can immediately write the potential energy of a spin a particle in this
+20:35
+field what is that - Mira be more muted H isn't it so energy then
+20:47
+is going to be minus mu H of spin up
+20:55
+that means alongs and all it is plus mu
+21:05
+H when the spin is opposite to the field isn't it need not be a dot product gives
+21:13
+you plasma range so there are two states
+21:18
+if it is down spin now let's consider
+21:27
+this three spin system explicitly and decide on the energies individual
+21:38
+particles and total energy of the system
+21:46
+so I am trying to make a contact with your earlier course so that we
+21:52
+understand the basic ideas now let's
+21:58
+take the individual possible states of the system
+22:04
+well quantum numbers if you like and
+22:10
+total magnetic moment or total and the
+22:21
+energy of the system
+22:30
+the first state I will show the up with
+22:37
+plus down with - okay the first stage
+22:44
+was number them well all of them may be
+22:52
+up if all of them are up each one will
+22:59
+contribute an energy minus mu age but will be the total energy minus 3 mu H is
+23:07
+in it well total magnetic moment is 2 mu and
+23:16
+energy is minus 3 mu age the second
+23:24
+state could be that one of these spacers
+23:30
+down as in the following three examples
+23:45
+I told you it's a toy problem well if
+23:52
+one is down it cancels one of the
+23:59
+remaining two so for this tree the total
+24:08
+magnetic moment is mu 2 up 1 down this 2
+24:15
+cancels of total is mu the energy becomes minus nu H is in it for the tree
+24:29
+so that is the property of those states
+24:36
+three states let's look at the fifth one now to maybe down if this is the case we
+24:47
+have three more states six seven up down
+24:58
+down down up down for those three now
+25:11
+mainly down isn't it the total state so
+25:16
+it is minus mu the energy is going to be
+25:21
+plus mu H for all three isn't it and the
+25:29
+last state is going to be all of them
+25:34
+are down these are the total possibilities in this case magnetic
+25:45
+moment is minus 3 mu and energy is plus
+25:50
+3 mewn page so I think that is all the
+26:03
+possibilities isn't it imagine doing this with ten to twenty
+26:09
+three particles impossible isn't it you cannot even write the possibilities but
+26:18
+it's a pedagogical example so you can't follow it now let's consider the idea of
+26:29
+accessible stage have you heard about this before number of accessible stage
+26:36
+to your system well let's imagine that
+26:43
+we know the total energy of the system let's think about the system was total
+26:51
+energies - mu range we know that that's assumed we know that if the total energy
+27:03
+is minus mu age are all these states available to the system the system
+27:11
+cannot be in this state cannot be in any one of these three states because total
+27:18
+energy is minus mage they don't match it cannot be in that state - it can only be
+27:26
+in these three states that's the concept
+27:34
+of accessible stage to the system it may have a possibility of more states to be
+27:42
+in but if you fix the total energy the number of states available to the system
+27:49
+may be smaller isn't it as in this case instead of eight it has
+27:57
+three accessible okay that is the concept of accessible
+28:08
+stays okay of course if you look at this
+28:20
+previous example how many microstate
+28:28
+will be available for a system like this that can be described by total number of
+28:35
+particles and volume V and non energy E it must be huge number of microscopic
+28:44
+states available to the system isn't it that's the idea of microscopic
+28:52
+microstates a huge number of microstates
+29:23
+in quantum mechanics of course you had to define the system by a wave function
+29:28
+that involves all the positions of the
+29:37
+particles in your system corresponding to the same energy e now you have
+29:46
+learned in your undergraduate siskel thermodynamics course that we
+29:51
+have two main postulates that we do make
+29:56
+about their systems do you remember those postulates No
+30:23
+okay let me remind you that it is nice to remember what you have done before if
+30:30
+you don't remember them just go back and read your lecturers okay now the first
+30:39
+postulate is fell in here if the total
+30:55
+damages - mu H the system can be in any one of these states with equal
+31:02
+probabilities in it there is nothing that separates these microstates for
+31:08
+emissions and that's postulate number one say says at any time T so I'm
+31:24
+reviewing in some sense your undergraduate course the system is
+31:37
+equally likely to be in any one of these
+31:54
+microstates
+32:11
+well you can't read this it is an extremely important postulate it is nice
+32:21
+to understand with these simple model problems but you have to read the
+32:27
+philosophy behind it ekoo a priori probabilities there is
+32:35
+nothing that differentiates one microstate form and others and it is
+32:40
+equally probable to find a system in any one of these microstates this is
+32:46
+extremely important and let's call the
+32:53
+number of these microstates all possible
+33:03
+microstates
+33:12
+Omega which is going to be a function of
+33:18
+that of course if you changed the number of particles that number will change if
+33:25
+you change the volume and total energy as you can see from this simple example
+33:31
+it will change now this number is an
+33:39
+extremely important quantity and we can drive the whole thermodynamics permit ok
+33:48
+Toa dynamic properties of the system from this innocent-looking number ok
+33:56
+extremely important to understand that for example the contact between
+34:04
+statistics and thermodynamics is coming from that number do you know the contact
+34:13
+with this number and entropy for example
+34:29
+you are going to remember something if you try a little bit harder the entropy
+34:38
+you have seen this I think it is both one constant times the logarithm of this
+34:47
+number well that number can be huge like ten to return to tree but if you take
+34:55
+the logarithm it is 23 isn't it
+35:00
+have you seen this before yeah all of you have seen this well that
+35:10
+brings us to that is the contact with thermodynamics if you know entropy you
+35:15
+can drive all other thermodynamic quantities of course now the second
+35:22
+postulate comes for the equilibrium of a
+35:27
+system what is the equilibrium state because equilibrium well the course has
+35:34
+equilibrium fiscal mechanics the name of equilibrium statistical mechanics we are
+35:41
+not going to do non equilibrium statistical mechanics which which is another course of course so in in this
+35:50
+course we have to understand what equilibrium is we are going to discuss
+35:58
+that a little bit more I know you know the concept but we're going to discuss
+36:04
+it then postulate number two
+36:14
+equilibrium of the system corresponds to
+36:30
+maximum Omega that means maximum entropy
+36:41
+of course the entropy of a system is in
+36:55
+some sense the measure of disorder in the system and here the accordion
+37:08
+corresponds to a maximum entropy
+37:15
+probably had some simple examples for
+37:24
+understanding this postulate for example
+37:29
+a loaded dice is a nice example to think about possible microstates of a loaded dice if
+37:40
+it is loaded that is if the dice is in
+37:46
+the hands of and not so honest person
+37:53
+he can't roll it and get a 60 each time it throws it it is a lot of dice isn't
+38:01
+it so the outcome is only one state but if
+38:07
+the dice is an honest dies you have six possibilities for each draw isn't it so
+38:18
+in what case this order is maximum
+38:25
+six faces coming with equal probability
+38:30
+of course because in the other case there is no disorder at all each stroke
+38:37
+is at the same state perfect orders in some sense isn't it so what is
+38:45
+the entropy in the one state case
+38:51
+looking at that expression logarithm
+38:57
+Omega logarithm one is zero isn't it Ln one is zero so entropy is zero in that
+39:04
+case it's perfectly ordered state but in
+39:11
+the other case honest eyes you have what
+39:16
+Ln you have six states so it is maximum
+39:22
+in that case isn't it so in that sense we really understand
+39:28
+again every toy example but gives an idea of disorder and the is relation
+39:35
+with entropy isn't it so yes it is
+39:43
+related to disorder in your system now
+39:51
+do you have any questions with these topics anything that you want to ask we
+40:00
+have to interact you remember so
+40:08
+equilibrium for example if I have two systems in contact with each other and
+40:15
+the content only allows a energy
+40:20
+transfer from one to another of course from the subsystem with larger
+40:27
+temperatures double dead heat transferred to a low temperature system
+40:34
+when is the equilibrium going to be established
+40:46
+come on the seat transfer will will continue till the temperatures are equal
+40:53
+isn't it now if I let this separator
+40:59
+between two systems move at the same time then is going to be the equilibrium
+41:08
+between these two systems or the total system will be Nikko Bremen
+41:16
+if the separator is mobile it depends on the pressure on both sides whether it's
+41:24
+going to move from a high pressure to a low pressure region so that equilibrium
+41:32
+will be established when the pressures are equal along the temperatures aren't
+41:37
+they now if I make the separators to
+41:43
+allow the particle exchange between two systems particle exchange so transfer of
+41:50
+particles for Monta and others then are we going to have the equilibrium
+42:02
+exactly very good question answered when the chemical potentials between two
+42:09
+systems are equal the chemical potentials of two systems re GU so if
+42:18
+there is a gradient in temperature of course there will be heat flow from high
+42:24
+temperature region to a low temperature region or system and if the chemical
+42:35
+potential is high in one system in contact with a low chemical potential
+42:41
+system particles will flow from the hype chemical potential to low chemical
+42:46
+potential isn't it do you remember this have you done this
+42:51
+before yeah of course you have done it
+43:02
+you

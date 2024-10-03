@@ -1,0 +1,866 @@
+0:00
+[Music]
+0:06
+welcome to video number two in advanced fluid mechanics so here's a summary of what i'm going to be covering in this
+0:12
+video and basically we're starting here with an introduction to some mathematical notation that we commonly
+0:18
+use in advanced fluid mechanics i'll also do sort of a short example in section 1.5 that looks at how we use
+0:24
+this mathematical notation to figure out the force that's acting on a surface and i want to mention one thing too before
+0:30
+we get started here there is a textbook that i use when i teach this course so i'll show it here and this is just the
+0:36
+cover for the addition i have now but really any addition you can get would be fine so it's called fluid mechanics and i don't follow it exactly i don't cover
+0:43
+every section and i don't go in necessarily the same order but for the most part the majority of the material
+0:49
+that i cover in this course is covered in this book as well so if you'd like to have a textbook as you go through this
+0:54
+course to help you learn this material this is the one i'd recommend that you follow alongside these videos okay so
+1:00
+we're starting here with section one that i've called cartesian tensors and basically what we're going to be doing
+1:05
+is becoming familiar with some of the mathematics or more specifically like the mathematical symbols or the
+1:11
+mathematical notation we could say that's commonly used for advanced fluid mechanics problems so we could really
+1:17
+think of this as like we're learning the language of fluid mechanics and in this way as we come across other people's
+1:24
+works or looking through problems in advanced fluid mechanics will know exactly what they mean what they're trying to say so in 1.1 it's scalars
+1:31
+vectors and notation and so we're going to use what's known as index notation and we're going to follow what's called
+1:38
+einstein summation convention which basically says if an index appears twice
+1:43
+in one term of an equation summation is implied so below here i'll do a really quick example so that means if i write a
+1:52
+subscript i a subscript i the i is the index right and it's repeated it appears
+1:57
+twice in this term so what that means when i write this equal sign here but with three lines that means is defined
+2:04
+as and that actually means we're doing going to do the sum of a i
+2:10
+a i and we're summing that over i so what that looks like is a 1 a 1
+2:17
+plus a 2 a 2 plus a three a
+2:23
+three and apparently when einstein came up with this uh he joked to a friend that he'd come up with this new set of
+2:29
+rules for writing equations that saved him from having to write the summation sign all the time so this is definitely
+2:34
+a more compact like a neater way to write these equations okay we also say in a term one index can
+2:40
+appear once and we call that the free index and it can appear twice which we've just said is summation but not
+2:47
+more often than that so an example of that and i'll use a slightly different color i could have
+2:55
+this expression here
+3:01
+okay now our free index is the i and then we have a repeating index which are these js so if we look at this term here
+3:09
+right so that term will have a free index of i but then it has a repeating index of j but it appears three times
+3:15
+right one two three so we know that this is no good this breaks our rules so that can't
+3:22
+be true and and this is a good way to check right like if you see equations or you're working with equations and you have an index appear more than twice you
+3:29
+know there's something wrong you know there's a problem with it right so you got to go and find the problem and fix that and then finally we say the indices
+3:36
+in all terms of an equation must be the same and all terms must have the same number of free indices so an example of
+3:43
+that in a different color down here give a few little examples here so in vector notation what i'll do for that in this
+3:50
+course while i'm writing it out if i'm in vector notation as opposed to index notation what i'll do is write the
+3:56
+vectors with a line under them okay so if i want to say that the vector
+4:02
+a is equal to the vector b i can write it that way in vector notation or in index notation i could write a
+4:09
+i equals b i and so to check our rule here our third rule the indices and all terms
+4:14
+must be the same so they are the same right so the a i and the b i they both have an i index and they both have the
+4:20
+same number of free indices so the i matches the i what we couldn't do is we couldn't say a i equals b j okay they're
+4:29
+not the same so that would immediately tell us something was wrong there so that can't happen we also can't have a
+4:34
+different number right we can't say a i j equals b j let's say because we have two on the
+4:40
+left and one on the right so that we would know that would be a different number of indices and we could also look at something like this so we could say
+4:45
+like t i j k u k
+4:52
+plus m i p okay now if we look at that they have the same number so this term here on the
+5:01
+left has an i and a j as the free indices we don't include the k because that's a repeating index
+5:07
+and this term has an i and a p so they both have two but they don't match right so in this one
+5:12
+right the k's are repeating so we don't include those because that's a summation but the i and the j
+5:18
+right don't match the i and the p so this also that's no good so that would immediately tell you something was wrong
+5:23
+there in that one as well okay that's the basics of index notation and as i go through this another comment i'll make
+5:29
+is that you may have seen some of these things before or not other things and there isn't really an order to how i'm
+5:35
+i'm laying this out i'm going in sort of the order that i was taught it and and what i've done here is just to compile a
+5:40
+whole bunch of things that i learned throughout grad school or throughout working with advanced fluid mechanics
+5:46
+problems that i find useful to know okay so i've compiled this from a few different sources so you may see things
+5:51
+you've seen before and some that you haven't and so what we're doing here is just making sure we cover everything so as then when we go further in the course
+5:57
+we're all speaking the same language okay now we'll talk about a euclidean basis so this is an orthonormal vector
+6:04
+basis we'll look at three dimensions what i'm going to do when i write an r
+6:10
+with the two lines there is i'm kind of denoting that it's like a bold r okay because it's tricky for me to bold it as
+6:16
+i'm writing not using the computer text so what i'll do is kind of do that double dash on the r so that's r3 so
+6:22
+that's three space so we have three dimensions and euclidean basis would be
+6:28
+e1
+6:34
+would be one zero zero that's the vector there e2
+6:40
+is zero one zero and e
+6:45
+three zero zero
+6:50
+one and i'll just use curly brackets for those vectors there we would also maybe have seen that as e x e y and e z so
+6:58
+this is another good example to sort of relate how that free index the one two three if i is one two three we could
+7:04
+also think of it as x y z same basic idea and then we would have our b
+7:10
+vector right would be b one e one plus b 2 e 2
+7:18
+plus b 3 e 3 right so each component of our vector with the basis there all that added up
+7:25
+together it gives us our total vector but we can see that this is actually the sum
+7:32
+if we go from i is one to three of b i e i that's like a shorter way to write it
+7:38
+but of course we're in the einstein summation convention so actually if we just write b i e
+7:43
+summation is already implied and so that's a shorter way to write it there and just a quick note again you see when
+7:49
+i write the e's i put that little line through it again that's just my way of denoting that it's bolded right if i
+7:55
+used like a thicker pen here it wouldn't really be as clear as i would want it to be so that e with sort of the line
+8:00
+through it is just like a bolded e okay now let's look at a few more things here many of these things are much easier to
+8:06
+write with index notation so we'll first look at the scalar product which is also known as the dot product so in vector
+8:11
+notation that would look like this
+8:26
+but we see that what we're doing is we're summing over each of the indices so in index notation we may recognize
+8:32
+that we can actually just write this succinctly like this
+8:39
+the kronecker delta is next this comes up quite a lot actually depending what specific fields you work in
+9:00
+and the kronecker delta denoted as delta with the indices i and j that's going to be a 1 if i equals j and a zero if i is
+9:08
+not equal to j so let me show you just one way we might use this here if i said the scalar product of
+9:16
+two of my basis vectors so the dot product there would be one
+9:21
+only if i is equal to j and it's going to end up being zero
+9:28
+right if i is not equal to j so actually e i dotted with e j is the same thing right
+9:34
+as the chronicler delta okay so if i then write a dot product we can see something cool here
+9:49
+as we just saw previously i can denote b as b i e i dotted with c j e j we
+9:55
+rearrange that slightly
+10:04
+and this portion as we just saw we can write as the chronic or delta so we have
+10:09
+b i cj
+10:16
+and then we'll stop there for a second and now i'm going to show you a change of index and then we'll come back to that to see what this shows so we'll do
+10:22
+a little example here of what happens when you have the kronecker delta applied to a vector in index notation
+10:29
+we'll see that it results in a change of index and i'll actually show that out here so
+10:35
+what do i mean so if i have delta i j and then u j so what this means because we have the
+10:41
+free index i and then we have repeated index j so what this is saying is delta i and then we sum
+10:48
+over the js so let's write that out here right
+10:57
+now by looking at this we can see that the right hand side the right hand side i'll write that as
+11:03
+rhs is u1 right when i equals one
+11:09
+because this is only a one when i equals j like when
+11:14
+they have the same index right and then if i equals two
+11:22
+it's u2 because now right like this one that we just looked at would have a two and a one that would be zero but this
+11:28
+one here would be a two and a two so that would be a one right so then we would only be left with the u2 term okay
+11:33
+etc etc you could see where this is going i think so therefore
+11:39
+because the right hand side is actually u i we can just write this as like delta i j
+11:45
+u j equals u i right and this is one of the most
+11:50
+powerful things of the kronecker delta is it's actually a change of index when you have it in an expression what it can
+11:57
+do is it can change one of the indices and so if we go back to the example above here right we see from this line
+12:04
+here that this is actually equal to b i c i
+12:11
+and b j c j we could flip either of the indices and we know from what we've written above
+12:17
+right we know that that's this dot product as well right so we've shown that b i c i is equal to
+12:23
+bj cj and both sides match because they both have a repeated index so they're both scalars and that of course is why
+12:30
+this is called the scalar product right because the result of the dot product or the scalar product is a scalar and then
+12:37
+one last thing on this slide here is the identity or the unit matrix which i'll
+12:43
+draw with like a bolded eye so i'll do the two lines again and that is actually a matrix
+12:50
+right of the kronecker delta
+12:56
+right so any time i equals j so in the 1 1 position we have a 1
+13:02
+and then the 2 2 and in the 3 3 we have ones so you'll see the kronecker delta written that way is same as the identity
+13:09
+matrix so that's a matrix form of the kronecker's delta from up here 1 when i
+13:14
+equals j and 0 if i is not equal to j and so just as a reminder anything multiplied by the identity matrix is
+13:21
+just the original thing again right so anything multiplied by
+13:26
+the identity matrix is itself so we could write it any which way
+13:32
+and we're always going to get a a times the identity matrix equals a
+13:37
+okay now we're going to look at second order tensors that's another thing that can come up commonly in advanced fluid mechanics specifically because of the
+13:44
+stress tensor as we'll see later on so second order tensors will have two
+13:49
+indices so in vector notation i'll denote those with like two underlines
+13:55
+whereas a vector i did one right or i can write them as like a bolded capital
+14:02
+letter right so i'll do the letter with this like extra line in it like that and so what that means is like
+14:10
+the vector a would have been like a1 a2 a3 but the tensor the second order tensor is uh
+14:17
+like this
+14:29
+okay so we have the two indices and with respect to a base
+14:39
+we would write it like this
+14:47
+okay now we can apply a contraction and so we'll look at what that is in index
+14:53
+notation where we can reduce the tensor rank so in vector notation
+15:06
+we'd write it like that but it's more clear to see that played out in index notation what we would write is
+15:18
+okay so we have the free indices i and k and then the repeating index j there so that results in c i k and this is a if
+15:26
+you can remember back to algebra 2 when you multiplied matrices we needed that middle index to be the same and then if
+15:32
+we have a second order tensor and a vector it would look like this
+15:39
+and the free index is i right so that side would be the vector c i now
+15:44
+transpose is really convenient to write in index notation so if we were to write
+15:50
+in vector notation a t and we remember for a transpose we're exchanging
+16:01
+row and column right so that just remember would be like this
+16:08
+a 1 1 and then it would be like a 1 2 a 1 3 this would be a
+16:14
+2 1 a 3 1 and you can reference the second order tensor above there to see
+16:19
+how i'm taking the transpose by switching the rows and columns
+16:28
+if you look just there as a comparison and then in index notation we can write that
+16:35
+like the transpose of i j equals
+16:41
+a j i really easy to do in index notation right okay now we're going to look at what we mean when we say we have
+16:47
+a symmetric tensor so a is symmetric
+16:58
+if the transpose is equal to the original tensor
+17:04
+or in our index notation we would say a if a i j equals a
+17:12
+j i then that's symmetric an anti-symmetric tensor
+17:26
+a is anti-symmetric if the transpose is actually equal to
+17:33
+the negative of the original tensor or in index notation if we say a i j equals
+17:41
+to negative a j i okay now let's look at decomposition
+17:46
+so if i if i say i want to decompose a
+17:52
+what i mean by that is that i can take a
+17:58
+a i j and i'll just split it up and i'll say okay so that's going to be equal to half
+18:04
+a i j and then what i'll do is i'm going to add half a
+18:10
+j i i'm going to add another half a i j
+18:16
+and then i'm gonna subtract half a j i now we see that that is still true
+18:23
+because i've added half a i j right to give me the full aij and then i have this half a j i but i've also subtracted
+18:31
+half aji so that equals a i j i have not left myself much room so i will erase my
+18:38
+circles and try to write this very small and maybe in a different color so it's more clear so we say that this
+18:49
+is equal to a with the one curl bracket like that and then this
+18:57
+portion here is a
+19:02
+with the square brackets that's how we denote that and then we have the symmetric portion which i'll make it
+19:11
+clear is this one so for the symmetric let's bring us over here where we have a little more space a
+19:19
+the symmetric part equals to aji the symmetric part which is equal to
+19:26
+half a i j plus a j
+19:32
+i and for some of these things it's going to help to have some experience with these or play
+19:37
+around with these so i encourage you to actually you can write out these matrices and prove these things to
+19:42
+yourself right so when i teach this as a grad course i'll have an assignment with this right and so the assignment is to
+19:48
+sort of play around with all these things and convince yourself prove them to yourself it's actually kind of fun to be honest with you now we have the
+19:54
+anti-symmetric portion let me use a different color maybe a purple would be
+20:00
+nice so the anti-symmetric portion which is this one square brackets and we have
+20:06
+our definition above there so that has to equal the negative
+20:12
+right of a j i which we have from above is actually
+20:18
+half of a by j minus
+20:25
+aj i and again i think proving that to yourself would be a fun exercise so i
+20:31
+will write now how we display this in vector notation we would say
+20:37
+the i'll write it over here where there's still a little bit of room symmetric portion
+20:43
+is equal to half of our second order tensor plus
+20:50
+the transpose right which is what we've written right below it the curl brackets there are symmetric and then for the
+20:56
+anti-symmetric we'll use a and that is half
+21:03
+of our second order tensor minus the transpose of it and so we see that i can
+21:10
+write a tensor as the sum of its symmetric part and its anti-symmetric part now let's look at what's called the
+21:15
+trace of a tensor which is actually just the sum of the diagonal elements and so we would write the trace like this
+21:23
+tr for trace and that actually equals a i i really easy to write in index
+21:30
+notation right and so we can see for example the trace of the identity matrix that we had before we
+21:36
+can actually write as delta i i because the identity matrix is the matrix form
+21:42
+of the chronic or delta right so if i were to write that as delta i i we would see that that would equal
+21:49
+three because i would take delta one one plus delta two plus delta three three which is one plus one plus one and that
+21:55
+is three now we can also write the trace free and symmetric part of our tensor
+22:00
+which is sometimes also called traceless or the deviatoric part deviatoric you might see come up too if you're spending
+22:06
+a lot of time with the stress tensor you might see that terminology so the trace free part
+22:14
+we write like this
+22:23
+and we can actually see a property here is that if we put
+22:31
+i i
+22:40
+actually equals to zero and that again i think you'll learn more i think you'll get more out of this if you as a quick
+22:47
+exercise show that to yourself and then we can decompose again so i will have
+22:52
+the property that my tensor can be as follows
+23:03
+and the anti-symmetric part and that i think you
+23:09
+can see if we take this and plug it into here right you'll see that actually like this
+23:17
+cancels this and then we're left with our symmetric and anti-symmetric parts which we already know add up to give us our
+23:24
+original second order tensor so as i mentioned that's a notation and a terminology you might see come up when
+23:29
+you're dealing with the stress tensor specifically for advanced fluid mechanics and i don't know if it helps to see this written out but i can also
+23:35
+write out this one so i'll show you why this is equal to zero if we take this term here our symmetric part as
+23:43
+defined earlier is half but we have the same index so a i i
+23:48
+plus a i i which just equals a i i we have this
+23:54
+part where delta i i equals three so we have negative a third times a k
+24:02
+k times three right so these two cancel out so then we have a i i minus a k k
+24:09
+and that equals zero because a i i and a k k are the same right there's just the
+24:14
+repeating index whether you call it i or k does not matter at all and no free
+24:19
+index so they would be the same and cancel and leave you with zero okay now i've
+24:26
+called the next section more on vectors so there's a bunch more things that i want to show you here specifically it's
+24:31
+showing you some of these things with index notation i'll mix up the colors a little bit here so we don't get tired of
+24:36
+seeing the same ones all the time for the absolute value a i can write that as a square root
+24:46
+a i a i if i want the direction of a vector a
+24:52
+i i would divide it by a and this would have n equals two
+25:00
+square root of n i and i which would equal to 1 the absolute value of our direction vector so that's how we would
+25:06
+end up with a direction vector n sub i for scalar product
+25:12
+just a reminder that it is a b cos theta so if we have
+25:20
+our vectors let's say they're like that let's say that's b and that's a
+25:26
+those are vectors then theta is the angle between them we have something called a direct product which gives us a
+25:34
+tensor so that looks like this
+25:41
+right and to make our indices match on the left hand side and right hand side we have i j and i j so that's why that
+25:47
+gives us a tensor we have the cross product also known as the vector product which
+25:53
+in vector notation we write like this we remember that c is perpendicular
+26:02
+to a and b in index notation we could write it like this
+26:09
+with the levy seveda symbol
+26:15
+cross product of a j and b k would equal c i and again we check our indices to
+26:21
+see that j is repeating k is repeating so we have free index on the left of i and free index on the right hand side of
+26:27
+i so they match and everything's good but what is this symbol here the levy savita symbol we'll define below also
+26:33
+known as the alternating tensor sort of similar to the chronicler delta
+26:40
+in the way we define it so we write it this epsilon with the
+26:45
+indices i j k so that's one if i j
+26:51
+k equals one two three two three one
+26:58
+or three one two it's zero
+27:04
+if any two indices
+27:13
+are equal and it's negative one if we have any of the other patterns of
+27:18
+i j k which are the three two one right so not in order anymore so two one three
+27:25
+and the one three two and that's how that yields the cross product right we can also see the
+27:32
+property that this will equal the negative of
+27:38
+any of these being written with a different order of the indices right
+27:44
+j k i so we can substitute if we need to in an equation
+27:50
+ikj and then you know et cetera et cetera and we also have the interesting
+27:56
+property i'll write it like up here where there's space i said epsilon i j k
+28:05
+epsilon k l m equals actually delta i l
+28:12
+delta j m minus delta i m delta j l and a check shows us that like
+28:20
+this is repeating so left hand side is i j l m and that's ijlm and that's ijlm so
+28:25
+that checks out and then this is a relationship that i will definitely ask you to show in the assignment and i
+28:31
+recommend for those watching this that you plug something into that like this is really how you learn here i think
+28:36
+plug something into that so you can show that it's true so you can prove it to yourself it's much more powerful than just sitting here watching and trying to
+28:42
+absorb it all okay let's do determinants so we write the determinant
+28:48
+very similarly in vector and index notation
+28:54
+okay now depending on how many dimensions we have or how far we span our indices we could write
+29:01
+that i and j can go from one to n let's say for n
+29:08
+equals one we have the determinant of a is just equal to a for n equals 2
+29:16
+let's do it out here so that it's clear to c so the determinant
+29:24
+equals like this minus this if you remember it is a one one
+29:30
+a two two minus a one two a two one and if n equals three
+29:38
+and after i write all this out here i'll show you that we can actually write this out in
+29:44
+another way using our index notation and the things that we have defined today it's already making
+29:50
+us more powerful in our mathematics okay so we take for a11
+29:58
+we sort of ignore those and then the way we do that is we say a 1 1
+30:04
+times negative 1. to the one plus one
+30:10
+and then we take the ones that i didn't cross off in the bottom corner there
+30:16
+and do it like this plus
+30:21
+and then we take the next one which is now one plus two
+30:27
+a two one a three three so you imagine now i have
+30:32
+sort of crossed off this and this and now i have the other ones that are left not crossed off and i do the determinant
+30:40
+like this and that's gonna be an a two three and an a three one there
+30:47
+bottom left and then i would add a one three
+30:55
+plus three and that's a gonna be a two one a three two
+31:00
+minus a three one two two or i can say with a
+31:06
+different color i'm gonna write in the top right now because i have so much space up here we could say for a three
+31:11
+by three matrix how can we write this we can say the determinant of a
+31:19
+actually equals 2 1 6 e i j
+31:24
+k epsilon r s t
+31:29
+a i ir ejs a
+31:36
+kt and that is a another way to write exactly what we have there for the determinant so that's another way we can
+31:42
+express the determinant right using the things we've learned about today the levy sveta symbol also known as the
+31:48
+alternating tensor and our index notation so that might come in helpful um we can also look at orthogonal
+31:54
+tensors so for an orthogonal tensor the transpose is equal to the inverse
+32:02
+which it will help to write here the inverse
+32:08
+is the tensor that when you multiply it by the original you end up with the identity matrix or in
+32:16
+index notation a i j would be multiplied by a j k
+32:22
+which is the inverse and that would equal
+32:27
+delta i k and in this case the determinant of our orthogonal tensor
+32:34
+would be equal to one okay now let's look at some calculus and remember remember what we're doing here is just
+32:40
+learning the language right so a lot of these things you may have seen before so the reason i'm doing this is just to make sure when you see something written
+32:46
+this way that you actually do know what it means okay hopefully it's kind of fun like i admit when i learned it it was it
+32:52
+was kind of cool to know that these like sort of weird symbols i was seeing i actually i actually did know what they meant right so um we'll look at the dell
+33:00
+or nabla first
+33:05
+which is this
+33:14
+in vector notation so then we have our gradients so if we look at the gradient
+33:19
+of a scalar we can write it like this
+33:28
+or this or even if we wanted to like this okay and remember that that has an
+33:36
+order of i now right that's a vector right we have that free index in there so then if we take the gradient of a
+33:43
+vector we would have it like this
+33:58
+or in vector notation like this it's now second order and then if we take the gradient of a
+34:06
+tensor can't repeat that index right so we
+34:13
+gotta go one more that's going to be the gradient
+34:19
+written in vector notation like this of i j k and then we have the divergence and
+34:24
+the divergence is actually the trace
+34:31
+of the gradient and the trace we remember is just basically the sum of the diagonal elements right so we write
+34:37
+it like this and in vector notation that would be
+34:44
+this and then for a second order tensor
+34:51
+it would look like this and that we would write in vector notation like this and the curl
+34:57
+it's actually quite convenient to write the curl operator
+35:03
+in a tensor notation we would use our alternating tensor and
+35:09
+it would just be written like that okay now we get to look at uh
+35:16
+eigenvalues and invariants so we would write
+35:24
+this as follows in vector notation
+35:30
+where the lambdas are the eigen
+35:35
+where lambda is the eigenvalue and x is the
+35:41
+eigenvector we can also write it like this
+35:50
+identity matrix or in index notation
+36:02
+and we haven't broken any rules because each term right the xj is distributed so
+36:07
+each term has a repeating j and a free index of i and then for a non-trivial solution
+36:14
+we would have to have that the determinant of this part here
+36:23
+equals zero okay for the
+36:31
+characteristic equation we would have the following
+36:43
+okay and now we can look at these invariants here and i'll just make a quick note here
+36:50
+because it helps to be really clear that if we have this square of a tensor
+36:56
+we have to have this repeating middle index
+37:02
+okay and that's what that means in index notation that's how you write this square the second order tensor so for
+37:09
+our invariance we would have
+37:45
+and the corresponding eigenvectors form an orthonormal base in eigenspace
+37:54
+as follows
+38:03
+now we'll look at common notation which makes believe it or not everything even more easy
+38:09
+if i have a comma i like that that denotes partial differentiation
+38:16
+like that so the divergence of a vector in vector notation looks like that which
+38:24
+equals this in index notation or
+38:30
+with comma notation and our repeating index it's just that which is more simple right and the curl
+38:37
+of a vector likewise vector notation would be like this
+38:44
+or like this with our tensor notation
+38:51
+or even simpler with the comma notation we would write
+38:57
+that as u and then it's k comma j for that partial derivative and
+39:04
+now i think it's important to chat about some of the pros and cons of vector notation and index notation so the nice
+39:10
+thing about vector notation is the physical meaning of it tends to be
+39:15
+clearer we can sort of see immediately what it means right and there's no cumbersome subscripts but the cons are
+39:21
+that the algebraic manipulations are hard and cumbersome we've seen how much more simple it can be to write the
+39:27
+algebraic manipulations with index notation and the order is important and terms can sometimes be ambiguous right
+39:33
+because where the term appears so like the order of the term in the equation matters right you have to keep track of that whereas in index notation pros are
+39:40
+algebraic manipulations are much simpler and better defined right it tends to also be much more concise right so much
+39:47
+shorter simpler equations uh the cones are that the physical meaning is not immediately clear so you sort of have to
+39:53
+look at it and see what each term means right especially if you're using comma notation as well and the cross product
+40:00
+and a few other things require the cumbersome alternating tensor to be used so on the whole you know both both
+40:06
+really have their place and depending on what we're doing in this course i'll use both sort of interchangeably but now
+40:13
+anytime you come across them hopefully you can switch between the two and uh i'll set up some practice for this too
+40:19
+in the uh assignment okay now let's use what we've learned and start moving towards some applications so let's first
+40:26
+look at the force on a surface i said here if the nine components so t i j so
+40:32
+t is the stress tensor so if the nine components of the stress tensor are given with respect to a set of cartesian
+40:37
+coordinates how do we find the force per unit area fn with components f i on an
+40:43
+arbitrarily oriented surface with normal n as shown in the figure below okay so this sort of arbitrary surface here is
+40:49
+on a tetrahedron shape and so here's one way we can solve this so let's look at
+40:54
+the net force f1 on this element produced by the stresses
+41:00
+so we would write it like this that force per unit area times the area d a which we can break
+41:08
+out further using the stresses acting in that same direction on each of the
+41:13
+surfaces we would write that like this so t11 here
+41:19
+acting on d a one likewise t
+41:24
+two one here and d a two
+41:30
+and you've probably got this now if not you can pause it and see if you can get the last one we also have
+41:37
+t31 acting in that direction on da3
+41:44
+so the geometry of our tetrahedron means that we would have we have the surface normal vector
+41:51
+right there right so we have each of these surfaces are actually the components of the
+41:58
+normal vector right times d a that's how we would write that therefore we can simplify our force equation even more we
+42:06
+can say f1 da then is actually t11 n1
+42:14
+ta plus and we go through them all
+42:19
+and 2d a and this one of course in
+42:25
+3 d a now we can divide out the d
+42:30
+a's right and we have f one equals
+42:36
+t j one n j if we use our index notation right
+42:42
+summation is implied or more generally right for any component of our force we
+42:49
+can write it like this t j i right n
+42:56
+j okay so there's index notation helping us to write out the force on an
+43:01
+arbitrarily oriented surface i'm going to box this too because this is an important equation that we've just
+43:06
+figured out can do a little example problem here 2 just to make sure it's clear so if we consider 2d parallel flow
+43:14
+through a channel where x one direction is parallel to the flow direction the viscous stress tensor at a point in the
+43:20
+flow is given as this tau equals zero a a zero where the constant a is positive
+43:25
+in one half of the channel and negative in the other half so find the magnitude and direction of the force per unit area
+43:31
+f on an element whose outward normal points 30 degrees from the flow direction so we can see in the figure
+43:37
+there okie doke so we can apply what we just did now we need that normal vector let's do that first so n
+43:45
+is equal to we can see from our geometry just for simplicity we're going to say
+43:51
+that this angle we'll denote as phi so that means we
+43:56
+would have cos phi and sine phi are the components of
+44:02
+our normal right perpendicular to the surface we'll see in the figure there that right there
+44:09
+and then that equals root three over two and a half
+44:17
+okay okay then our force equals what we just had we can write it as tau
+44:23
+instead of t if we want to tau j i tau
+44:30
+i j doesn't matter in either case we're going to have 0 a
+44:36
+a0 times
+44:42
+our normal vector which equals a over 2 and
+44:49
+a times root three over two right and that is a vector so just to be super
+44:55
+clear that's an f1 and an f2 we are asked to find the magnitude and
+45:02
+direction of the force per unit area okay so the magnitude
+45:12
+is this
+45:20
+which when we sub it all in is the absolute value of a a over 2 squared
+45:28
+plus a times root 3 over 2 squared all square rooted equals a now we've denoted
+45:35
+an angle here in the figure so there's our f right and we're going to call
+45:41
+theta that angle that it has to the surface and we want to figure out what that angle is so
+45:48
+sine of theta is going to equal
+45:54
+f2 over f do i need to show that i guess
+46:00
+why not to write there's f and there's theta right so we would have that's the
+46:07
+one direction that's the two direction right there okay so we can sub in
+46:16
+root 3 over 2 times a over
+46:21
+the absolute value of a and we also know that we have the cos theta
+46:28
+which is from the geometry that i drew there right it's actually just f1 over f and
+46:34
+that one is going to be half times a over
+46:40
+absolute value of a and then we could see from solving this that theta
+46:47
+equals 60 degrees if a is positive
+46:55
+and theta equals actually 240 degrees
+47:00
+if a is negative from
+47:06
+subbing in there because then if a is positive both the sine and the cos are both positive but if a is negative both
+47:13
+the sine and the cos are negative okay problem solved we're going to finish now
+47:19
+with two very useful theorems firstly we'll look at gauss's theorem and gauss's theorem here relates volume and
+47:26
+surface integrals so i've shown the figure on the right there dv is the volume integral da is the surface
+47:32
+integral and so according to gauss's theorem we have this equation here the most common form of gauss's theorem is
+47:37
+when q is a vector and in that case the theorem which is commonly called the divergence theorem looks like this here
+47:43
+nicely written out in our index notation there so there we have gauss's theorem in index notation since the summation is
+47:51
+implied we have that this equals to this stokes's theorem also very useful
+47:58
+relates the integral over an open surface that i've shown in the figure here as a to the line integral around
+48:05
+the surface's bounding curve which is denoted in this figure as c and then given the directions for these vectors
+48:11
+shown in the figure stokes's theorem would look like this where we're relating this surface integral to the line integral okay so in summary in this
+48:18
+video we covered section 1 on cartesian tensors and basically we looked at some mathematical notation that's common in
+48:24
+advanced fluid mechanics specifically we covered index notation using the einstein summation convention we looked
+48:30
+at how to write a whole bunch of different things and operators using index notation we applied that to look
+48:35
+at the force on a surface and then we finished with looking at two powerful theorems gauss's theorem and stokes's
+48:40
+theorem okay and that's all for video number two thanks for watching

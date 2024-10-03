@@ -1,0 +1,1590 @@
+0:00
+a milestone for you uh I'm so glad that you are going to graduate uh and then
+0:05
+you you're going to start looking for a job right so good luck with all that and let us know uh what you uh what help you
+0:13
+need from us okay okay great uh so any anyone else
+0:19
+that I miss anyone uh please just unmute yourself and talk okay great okay so let's get
+0:28
+started uh uh so um today we agre to
+0:34
+have Charles uh introducing topic modeling no uh in deep learning in a
+0:40
+sense of deep learning now many of you probably have learned about know some type of um know topic modeling uh using
+0:47
+the classic machine learning approach and uh I don't know what what what is
+0:53
+your intake of topic modeling using classic approach but my personal intake
+0:59
+is the topic modeling is very stubborn uh was very stubborn uh you could only
+1:05
+go that far uh in topic modeling you get some keywords some terms uh from
+1:13
+analyzing large amount of tax data but there's a lack of contact usually uh and
+1:20
+you are not so not so sure about what topics are more important or prevalent
+1:25
+than others uh what are the stories behind those topics so therefore for a
+1:32
+long time know I thought topic modeling was not a a priority uh when you try to
+1:39
+analyze uh Text data and want to get some insights but then the Landscaping completely changed and nowadays we have
+1:46
+really capable lar language models to help us decipher uh the topics uh in
+1:54
+large volume of text and topic modeling I would say revive yourself uh to become
+2:01
+uh important and um no uh prominent so
+2:07
+that's the reason uh why uh Charles want to explore topic modeling and try to get
+2:12
+some insights by analyzing Text data so without further Ado uh welcome Charles
+2:18
+uh to the floor is all yours all right awesome thank you um share my screen all right I'm
+2:27
+guessing I could see on my end so I'm guessing everyone could um okay so thank you Professor an um so
+2:35
+I'll I'll firstly go quickly into topic modeling how it can be applied to your research I'll talk about traditional
+2:42
+topic models it's supposed to be LDA Not Top Class there LDA very briefly and
+2:47
+then I'll talk about lmow topic models like B topic and top class for
+2:53
+example um so just very quickly right topic modeling is when you have a
+2:58
+collection of documents text documents right and you want to get topics out of it right in the form of bulleted topics
+3:05
+right so a good example is for example if I have all these documents here right
+3:11
+each uh uh related to the causes obesity right so you have drinking you have uh
+3:19
+uh you know exercise sleep um uh pizza right which is eating unhealthy Foods
+3:25
+right you can kind of like sort it out into three topics right number one is activity right number two
+3:32
+is diets and number three is your is your lifestyle right so this an example of topic moding um where you have all these
+3:40
+text documents and you try to put them into concise topics right uh of course
+3:45
+here I use nine but ideally you should have hundreds or if not thousands or even more of of text documents when you
+3:52
+try to do it right but just some notes about topic modeling it firstly requires strong domain knowledge because as as
+3:59
+powerful as large language models can be you still need to uh be able to
+4:04
+understand right what the topic is saying and how it applies to your research question and topic modeling is
+4:10
+not summary it can be used to achieve the same goals but in essence it's not summary you're not asking a large
+4:15
+language models to give you a shorten version of whatever you fed it in right
+4:20
+you're asking it to give you topics right so which is why hence topic modeling right so examples of some topic
+4:27
+models in Public Health and Social Work um I got this as the first one I got
+4:33
+this as recent as yesterday when one Social Work PhD student ask me I have a
+4:38
+bunch of notes I just need to know what are the main topics of it can
+4:44
+you tell me what to do and answer is topic modeling and trust me people have asked me this five times at least in the
+4:50
+PHD Suites so hopefully uh don't get that again um you can understand topics
+4:57
+from social media mining posts right example topics like Healthcare in America for example right uh what what
+5:03
+are some of the topics that constantly bring brought up uh you can try to understand prevalent issues in news
+5:08
+coverage which I'm actually going to show you later right if you have doctor's notes for example right maybe
+5:14
+you can extract issues and symtoms right but in essence topic models don't have
+5:19
+labels that's when you use topic models if you have labels you should be using uh text classification right topic
+5:24
+models is an unsupervised form of machine learning so you you you can you kind do it so let me just quickly go
+5:31
+through uh LDA topic modeling which is a very classic topic modeling and then from there we'll discuss what are the
+5:37
+problems uh I I really would not want to go through this but unfortunately because most of the problems are that
+5:44
+that's how these llm based topic models try to uh be better right they try to
+5:50
+look at limitations of traditional models and try to compare them so really in essence topic models right is when
+5:57
+you have a bunch of documents each document is assign a topic and a topic is
+6:02
+represented by words right so you can so LDA stands for Laten the I don't know
+6:10
+how to pronounce this the the theet this allocation so the reason why I bordered
+6:15
+the word theate because it follows the sorry it's
+6:22
+not it follows the
+6:28
+um it follows the theet distribution right which is you can basically think of this
+6:34
+as a triangle right so in essence for example like the example I gave earlier you have three topics activity lifestyle
+6:41
+and diet right so um basically you're asking the model hey you know these are
+6:46
+the three documents uh put them in this triangle for me right so okay you put them in here right the problem is what
+6:53
+if you also have um something like beer for example beer can be a diet can also be a lifestyle and this relates back to
+6:59
+the original question right what's the cause what causes obesity right maybe you can put it somewhere in between
+7:05
+lifestyle and diet right and then each of these topics can be represented by
+7:11
+words right so for example have the word exercise partying drinking food so physical activity could obviously will
+7:17
+be CL closer to exercise diets will be closer to food can be close to drinking
+7:23
+but closer to food right lifestyle probably somewhere in between of partying and drinking right and just
+7:29
+information this is done through GB sampling which is a Monte Carlo Mar of chain method right uh for those of you
+7:36
+who don't know uh this LDA was made famous by Andrew Dr Andrew un some of you know him from Cera but he was a
+7:43
+Stanford professor in computer science before he he went on to CIA so um the
+7:48
+problem with so the problem is with LDA is because they just use traditional uh machine learning tools right so you have
+7:54
+polym and attention and long range dependencies right so polym for example example let's say I GA two documents
+8:01
+about Los Angeles right uh let's go watch a LA Galaxy soccer game and let's go learn about the galaxy in the
+8:07
+Griffith OBS Observatory right it's stubborn in the sense whereby it treats
+8:13
+Galaxy as the same right so I mean unless you want to play soccer in the Galaxy sure but uh that's not the case
+8:21
+right um because they use a bag of words uh uh format right so another issue is
+8:28
+that words are dependent of each other right they have context they're dependent of each other right so they
+8:34
+have attention and long range dependency so uh the first thing is for example lowincome communities are more prevalent
+8:40
+to abity due to the lack of investment in unhealthy food environments right there are some words
+8:45
+that are more important to low-income communities than others right so for example the word they right is referring
+8:52
+to low-income communities right and probably the work of lack of Health investment in uh due to that lack of so
+8:59
+it's actually the other ground lack of investment in healthy food environments should be healthy food environments not unhealthy food environments healthy food
+9:06
+environments right um is also important to lwi income communities and should be
+9:12
+given more attention right so that's when uh having pre-trained large
+9:17
+language models can help right but there's also a problem right um with
+9:23
+just simply Chu pluck and Chuck you can't just pluck and Chuck preing large language models into topic modeling
+9:29
+firstly you have the curse of dimensionality right um pre-trained LMS are large in size it's great right
+9:36
+it can capture a lot of information but now we end up with a lot of Dimensions right the base bir model has 768
+9:44
+Dimensions right so that's not good right especially if you want to perform uh unsupervised uh clustering which is
+9:52
+basically what topic models is right and the lack of contextual rep uh sorry I'm
+9:57
+sorry I couldn't see my very own the lack of good document representation right what I mean by this is as I said
+10:05
+earlier right many of these topic sorry many of these large language models they
+10:10
+generate contextual representations which means that they generate you know a you know a matrix essentially a matrix
+10:18
+right which has context embedded in it right so it represents context not words
+10:24
+that's a very important thing right and the problem is that if you have topic in
+10:29
+you eventually want to map it back to words right because words are represent topics are represented by words right
+10:35
+from your document so you want to map it back right so you can perform unsupervised clustering on the dimensions itself as
+10:43
+it is raw but you will not be able to know exactly what the topics is about you just know that this document is
+10:49
+closer to than than than document a is Clos to document B and it's far from document C but what exactly does
+10:55
+document A and B do right it's difficult to tell
+11:00
+and um unsuitable plms uh unsuitability of plms for clustering um this I'm not
+11:08
+going to go through the whole proof but basically the authors of the top class paper prove that right because so in
+11:14
+essence bbased models they follow two objectives Mass language modeling and next sentence prediction right so let's
+11:21
+just focus on mass language modeling for now right so you have original sentence
+11:26
+obesity can be caused by a lack of exercise for nutritional diets and excessive drinking the mark sentence
+11:31
+would be blank can be caused by a lack of exercise po blank diets and excessive
+11:38
+drinking the goal is that you're telling the bird model for example right tell me
+11:44
+what these mask are so the mask are basically covered words the mod was not
+11:50
+supposed to know it and it's supposed to predict it and that's how it learns context right um so basically they Pro
+11:56
+that by through this method of training right in essence right let's say you have V number of tokens in your bth
+12:03
+model which is about 30,000 right the optimal number of topics will just end up becoming close to or if not equal to
+12:10
+the number of tokens that available in in your bir model because in essence when you do the mass language modeling
+12:16
+task right you are covering some form of
+12:21
+you know topic allocation in in that sense of a sentence uh I know it's for
+12:27
+for those who are mathematic inclin it's very difficult to understand right now but uh you can go and read the proof in
+12:33
+the paper uh it's going to probably going to take me a whole day to explain that so yeah so the first thing i' like
+12:39
+to present is bir topic right and I'll go through each of these steps one at a time right so firstly you have a
+12:46
+collection of documents right you pass them into bir you get the contextual embedded
+12:52
+representations right so far so good anyone so far so good all right right
+13:00
+and then now use you met so Charles uh know I want to pause a little bit here
+13:06
+uh I think probably no uh not all of us may may understand what what CH is is
+13:12
+talking about in terms of 768 Dimensions uh so basically no thinking about we are
+13:21
+representing know each word uh with that many number of floating numbers right so
+13:28
+think about Flo each floating number is a number with decimal points for example
+13:33
+7.35 right so that is a a floating number and then now we have
+13:39
+768 that many floating numbers uh as a vector to represent a token so you can
+13:47
+think a token as a word or sub word right so that is what what Charles is talking about basically when you apply
+13:54
+the model when I use the model as a giant mathematical form
+13:59
+is going to represent each token or each word in a sentence into that many
+14:05
+Dimension right okay s Charles yeah go ahead I just want to explain to those know who
+14:12
+might not be familiar with lar langage model setup got it got it yeah thank you so much um so yeah uh so yeah when you
+14:21
+pass it through the B embeddings you get contextually embedded representations right um these um uh these already have
+14:29
+context in them so it understands the entire sentence how it relates to each other Etc right the problem is that
+14:35
+they're very large right so it use you m dimensionality reduction um there there's there's one
+14:42
+one question people may ask no why the when you represent the tokens
+14:48
+into uh a a vector of 768 uh fluent numbers then there's
+14:55
+contextual information invalid in that could you explain that in some DET help got it got it so um uh a very classical
+15:04
+uh large language not sorry a very classical word edding right for example you have the word uh um Queen and King
+15:12
+right they could be uh very close to each other right but they are represented as individual words right
+15:19
+when they contextually represented right they take into account of uh the sentence as a whole for example like he
+15:26
+is a king right and and so instead of having just one Matrix
+15:32
+that that is close to each other based on uh the words for example king and queen right they now have uh uh
+15:42
+essentially something like a dance Vector which has incorporated everything
+15:47
+that you have said throughout the whole sentence or throughout the whole whatever whatever
+15:53
+the window size is throughout that whole window size right that's it's already contextually embedded in inside that
+15:59
+particular dense Matrix if does that make sense yeah yeah so yeah and for those know who
+16:07
+are familiar with uh a really simple correlation right so if you know how you
+16:12
+are going to calculate correlation coefficient between two variables right so each variable is represented by a
+16:19
+vector right so we have two vectors right and how you going to calculate uh the similarity between those two words
+16:25
+then you you calculate the correlation coefficient right between these two variables similar here know if you think
+16:32
+well one token is represented by 768 Dimensions we have two tokens if you want know to know how similar those two
+16:39
+tokens are and then we can calculate the co coefficient right so therefore when the models are optimized for those those
+16:47
+um no the the IM baling then you could see that for example the king and queens should have a very high correlation
+16:56
+coefficient if you calculate that right so that is what what no child talk about similarity right because you can
+17:01
+calculate similarity between any two tokens uh in the imbalance and ideally with the models are twined uh those
+17:08
+tokens are close to each other know based on the similarity matter yeah go ahead all right yeah
+17:15
+thank you so much uh yeah that's a much better explanation so in essence right
+17:20
+you eventually have this 768 Dimensions right right and then of course across
+17:26
+all the documents then now uh it's too dense right so you use dimensionality reduction and I'll visualize it as a DOT
+17:34
+here right you basically compress it into a DOT you compress all the information into a DOT right and then
+17:41
+now what you do is you perform hdb scan clustering which I believe was covered
+17:46
+in the machine learning class for those who took it um so basically it's a form of DB scan clustering but the but the
+17:53
+good point about it is that you do not need to specify the number of uh you do
+17:59
+not need to specify the number of clusters in some sense it does it for you right because it iteratively tries
+18:05
+to expand the Clusters and see how long it takes before they merge into one another and because of that
+18:12
+right based on that it determines the you know the the optimal
+18:18
+size or the optimal number of clusters that you're supposed to allocate it um and that's always has been a problem
+18:24
+with classical topic modeling right because in classical topic modeling for those who have done LDA before I think
+18:30
+it's fair to say one of the most frustrating things is that you have to keep on running that over and over again let's try tree you know okay the words
+18:37
+don't make sense let's try five it doesn't make sense let's try 10 you know oh 10 maybe it's a bit too large right
+18:43
+but uh hdb scan uh because top but topic has does hdb scan right it basically um
+18:50
+you know it decides the number of uh clusters for you right so now now that
+18:57
+we've clustered them right we need need to map them back into topics right we know how many topics there are for
+19:03
+example this one is three right we need to map them back so initially we have a collection of documents right um and we
+19:09
+know which document is belongs to which dot at this point right because we have traced them to now so what b topic does
+19:17
+is first it vectorizes the original documents right the words of the original documents so you have all the
+19:23
+words word one word two right and all the words here your basically treat factorization is a gathering of the
+19:29
+words right and what it does is it uses a tfidf like structure to gather the
+19:37
+most frequent words associated with the topic cluster for those who don't know
+19:42
+tfidf so it's basically like this right as you can see W here represents how
+19:47
+important a word is in this topic right and TF
+19:53
+here can you see my mouse yes TF here represents how many times right this
+19:58
+word has appeared in this cluster right um so how many words and
+20:05
+the reason why you times this with the log of 1+ a over TFT here right is
+20:11
+because so a here is the number of words that appear in this cluster and TF is
+20:16
+the number of words that number of times this same word appears across all documents but the reason why you want to
+20:22
+do this is because words that appear frequently in this topic or clusters but are rare in other clusters they are
+20:27
+important but words that appear frequently in this topic or cluster and are also frequent
+20:33
+in other clusters maybe not so important is does anyone have any questions to
+20:39
+know I know I I just went through a lot of math really fast but yeah right so
+20:44
+for for those of you say who are not familiar with tfidf I'll give you a simple example right just illustrate
+20:50
+what what Charles mentioned so think about the word you right uh or the uh or
+20:57
+an or or a very common word right or I right because those words tend to show
+21:03
+up on every single document then unfortunately you can't use those words to differentiate documents right because
+21:09
+no those words appear in in every documents um then um no those words
+21:15
+probably don't matter that much right but if you want to differentiate between different documents you need to look for
+21:21
+the words that appear in one document but not in other documents right so that
+21:27
+is the idea for the tfidf uh we we want to use the unique words appeared in a
+21:34
+document but not in the others then divided by the total number of of uh of
+21:39
+common words in the documents so that we can pay more attention to the unique words and pay less attention to the
+21:46
+common words okay so that that is uh a I would say a brilliant uh but also quite
+21:52
+classical idea of how we differentiate know different documents how we we pay attention to to the uniqueness of one
+22:00
+specific documents compared with the others uh yeah go ahead Charles all
+22:06
+right thank you so much uh yeah just thank you so much Professor an but just just to let everyone know uh that so
+22:11
+that's tfidf um Oops why is this happening uh that's tfidf but uh but
+22:22
+what I'm so sorry I don't know why it keep onlight
+22:42
+so yeah but this time we are dealing with as a cluster so we're not looking at document level we're looking at
+22:47
+cluster so how many words does this uh how how many times do this word appear in this cluster and we have clustered it
+22:54
+contextually right because we use the contextual bir embeddings to Cluster them so quite a brilliant idea right um
+23:01
+so before I move on let's start with a demo right um so again very easy just
+23:07
+pip install bir topic um I decided to gather my data from news collector so I
+23:12
+try to be as um recent as possible as I could so I collected the data yesterday I'm not going to collect it in front of
+23:18
+everyone because it's going to take a long time but yeah uh so so Charles are you are you showing your a different
+23:25
+screen because we are still looking at your present yeah thank you so much yep all right so
+23:31
+yeah again okay great this is how you install it VIP you pip install but topic
+23:38
+um you install Pi news collector uh I mean you don't have to but I I'm just
+23:44
+using it you know I just used this to to get my data I got it from news yesterday so um uh that's uh you know hopefully we
+23:52
+could look at more recent stuff and not something five years ago um right and then very simple right you just download
+23:59
+it okay so this is how my data looks like I have titles after articles and uh
+24:05
+I have keywords and I have a source here right so let me just read my data okay
+24:10
+my data so this is just the Baseline right that means you're you're just performing with
+24:15
+all the default parameters right you just use bir topic and then you fit and transform your documents right as you
+24:22
+can see it produces rubbish right D2 in and to D
+24:28
+D2 in off and D2 offend right um yeah it
+24:33
+produces rubbish um so what we do is that we choose n gam range and we use
+24:39
+stop words here basically the idea being that we do not want to see all these what I call rubbish words we want to see
+24:46
+meaningful words right so and this happens right you just pass the com vectorizer here as the vectorizer model
+24:55
+um and
+25:01
+essentially right what what that what what happens is that right when you're
+25:07
+transforming back the words through tfidf right you uh when you're transforming back the
+25:15
+words you ignore these um not very these very trival words right so let's see and
+25:23
+hopefully okay now now now more more uh uh a more coherent um topic models right
+25:31
+say year China not really quite sure company growth year stock right okay
+25:37
+makes sense right something about company and growth uh something about
+25:42
+Cruisers I don't know and something about the Kenyon economy right again we can see which
+25:49
+document ends up in um in uh in which uh
+25:55
+in which topic right um so for example um this is Bloomberg
+26:02
+so obviously makes sense right company they're talking about something about stocks right um here talking about
+26:08
+stocks and then we can try and understand what are the most uh persistent words right in each
+26:16
+of these so company growth year stock market investor share billion Intel
+26:22
+Revenue right um so it's better but it's not the best right so let me go back to
+26:28
+my PowerPoint and uh so just one point that you you've you when you use the model
+26:35
+you've deleted the stop words right so yeah but the stop words deletion only
+26:41
+takes into account when you're trying to map back the documents so for example
+26:48
+you have this green cluster you do not you do not remove the stop wordss when you
+26:53
+um uh you do not remove the stop wordss when when you uh pass it through the bird embeddings them but you only do it
+27:00
+when you try to trace back the words right to the topic to the Clusters yes yeah and for those of you who are
+27:06
+unfamiliar with the the definition of stop words stop words just basically means those words that are functionally
+27:14
+important uh but not really informative uh for example is he that the there so
+27:23
+those words are important grammatically because the they basically the glues no
+27:28
+gluing the the the contact together gluing the the words together but themselves because they they happen to
+27:35
+be so prevalent across all the documents so they are not really important uh no
+27:40
+meaning wise okay yeah yeah um yeah
+27:47
+so now now okay it's not the best it's good but it's not the best right so what do we do well we have we can f tune them
+27:54
+right so now that we Trace back the words and we got the topics from those the words from those topics right we can
+28:00
+f tune them right so oops uh yeah okay so we were at this
+28:08
+step right where we gathered the topics and the most frequent words associated with the topic cluster right so key butt
+28:16
+right is basically the idea that you take the most frequent words associated with topic cluster right you take the
+28:22
+best represented best represented document right uh May mean it's the doents that that best represents this
+28:29
+cluster right so in in this case because this cluster is the furthest away from the rest of the cluster is you take this
+28:35
+point here right and of course this just assumes that two two documents ended
+28:41
+up uh in the in the topic and I'm only classifying four documents but please
+28:46
+don't do this in real life but just for demonstration right so you extract the best the most frequent words that appear
+28:53
+and the best then documents that best represent the identifi F topic clusters right again you run it through the bird
+29:00
+model right so you run the document through the bird model and you run the word or the words through the bird
+29:07
+model and then you try to compare and optimize the idea being that if this was
+29:12
+really your best represented document and these were the words that represents the topic of the best represented
+29:18
+document they should be pretty close to each other right so that's kind of the
+29:23
+idea you compare and optimize right so and idea is to be as similar as possible
+29:30
+um questions all right so I'm thinking
+29:36
+about know how you define the the representative uh document it seems like
+29:42
+you could do something similar as clustering and then you are trying to find the centroid of the cluster that
+29:49
+could be representing the average right the the average quoted average uh
+29:55
+document that could be representative but no uh so what is the the technique
+30:01
+the exact technique involved in looking for identify the most representative
+30:06
+document how they Define it okay okay so uh during the cluster right the the the
+30:13
+basically the the the yeah the centroid of the cluster okay yeah yeah um yeah
+30:19
+that's basically the one of the highest probability of belonging to that cluster yeah that makes sense yeah yeah
+30:25
+absolutely correct yeah um but okay so there's another one called Max maximum marginal relevance right and it's this
+30:31
+equation here but just let's let's ignore the equation for now but for those who love math that's the equation right now so the idea being that the
+30:38
+most frequent words okay again most frequent words associated with the this topic cluster right going outdoors and
+30:44
+outside right assuming this is your output of your topic model
+30:49
+right fine right you know it's it's great but outdoors and outside is the same right why are you giving me both
+30:55
+the same words right it's it's uh no thank you right so you you select the
+31:01
+most identical words with respect to the topic the idea being that because it's so similar to each other right this is
+31:06
+where Di and DJ comes right right eventually has such a low marginal
+31:11
+maximum Revenue score you basically throw away the word right because it clogs up the outputs you throw away one
+31:18
+of the words right so now outside is thrown away and then now for example the word exercise would come in so going
+31:25
+Outdoors to exercise that sounds a lot better right because now you have eliminated words that sure outdoors and
+31:32
+outside appears very frequently and they are part of your topic but because outdoors and outside is conveying the
+31:39
+same topic or conveying the same idea um you do not want that right so you get rid of one and now you have a more um
+31:46
+more synchronized or more uh understandable output right going Outdoors outside so that's uh
+31:55
+MMR and there's also one is zero shot classification right so sometimes but
+32:01
+the problem with zero shot classification is that you need uh to have an idea of what your topics are
+32:07
+already representing so let me just go through that okay so sometimes when you look at the labels right okay so for
+32:13
+example you saw it okay oh okay I may have an idea of how this topic is like for example this is physical activity
+32:19
+for example right and the words are not very helpful you want them to generate more representative keywords right so
+32:26
+oops so you taught a large language model right this looks like physical activity to me right and what it does is
+32:33
+that it performs zero shot classification and then it generates
+32:39
+more coherent topics like run jog bris walk and outdoor right So eventually
+32:45
+gives you more relevant key terms right so yeah again
+32:51
+um sorry my bad okay so what I meant to say was okay if you had a do document
+32:57
+with Ryan J bris walk and outdoor you tell the uh the large language model
+33:03
+this looks like a physical activity to me right so it performs zero shot classification assignment of labels to the topic and it gives you outdoor and
+33:09
+physical exercise right much better than just a bunch of actual physical exercises it you know classifies them
+33:16
+together right but this assumes that you know that this is physical activity right so you must tell the large
+33:22
+language model it looks like physical activity to me yeah so so one one comment here for those who are
+33:27
+unfamiliar with zero sh zero shot basically it means no when when we when
+33:33
+we use Lish models uh we have a few choices zero shot means that you do
+33:38
+nothing to change the model uh architecture or weights you just use the
+33:43
+model as it is without providing any examples so here um no Childs just
+33:49
+provide the topics right the Rand jck no brisk walk and outdoor uh he doesn't really provide any example he just
+33:56
+provide a topic for the lmm to classify so that is called zero shot uh in
+34:02
+comparison to F shot F shots means that you provide a few examples um know for
+34:08
+example here Charles May mention this topic topic one belong to phys activity
+34:14
+and maybe with topic two including maybe uh birthday cake pizza no uh Coke and
+34:22
+then that would be diet right so if Childs provide some labels noting uh
+34:28
+what the topic is then uh Char is is doing F shots classification okay so
+34:34
+that that that is the the definition for zero shot classification so basically what CH do here is utilizing an existing
+34:44
+L language model to try to make sense of the topics based on the
+34:50
+keywords all right yeah thank you Professor an uh any other questions from anyone else I I know I I have quick
+34:57
+question yeah go on um as to the zero shot and a few shots um so uh as to the
+35:03
+few shots if you give the some examples um to the model then does this does this
+35:10
+process is doing a fine tuning oh no no no it's different from fine tuning fine tuning is that you have a very large
+35:17
+language model right and then uh you're you're you're giving a lot of examples to the large language model labeled data
+35:23
+and you're tuning the parameters of the large language model so you it's like you know you have a large language model
+35:30
+right it has already uh numbers inside right you know weights inside right and then you're tuning the numbers right
+35:37
+inside the weights to to make it fit to your case so you can think of parameters as like um you know like a linear
+35:44
+regression for example right classic linear regression so for example you have your intercept and then you have
+35:49
+your um uh what's that called the dependent variable uh I'm sorry uh
+35:56
+dependent variable the independent variable uh uh the coefficients or the intercept and slopes
+36:03
+yeah yes yes coefficient right so it's fixed right uh so zero shot is like you know okay input output right using your
+36:11
+existing uh coefficients right uh right you can't really do few shot but fine
+36:17
+tuning would be when you have new examples and then you feed it in think of it as a door knob so you're trying to
+36:24
+just twist about the the co efficient adjusted here and there such that it could fit your new inputs with your
+36:32
+outputs perfectly did I explain it correctly yeah yeah so uh fine tuning is
+36:39
+yeah when you have the whole lch language model and then with all these parameters here and you're trying to
+36:44
+really just like adjust the numbers of these parameters such that it could fit well and adapt to the data your your the
+36:51
+new data you're providing it with which is never seen before uh yeah um okay
+36:56
+thank you so much anyone
+37:02
+else all right if not then I'm just going to go on with the demo um again
+37:07
+please feel free to interrupt because I know I've went through a lot of math in a very short period of time um so okay
+37:15
+so first we're doing maximum marginal relevance
+37:20
+right so again I I you you can Define the diversity here uh the idea being
+37:26
+that you know how diverse you know basically how much of
+37:32
+that similarity you want to eliminate right so a more diverse model would eliminate will have very strict if it's
+37:38
+remotely similar it would just eliminate uh intercepting keywords right so okay
+37:44
+for some reason now this backfired because for some reason cookies ended up here but probably Taiwan oil and Global
+37:51
+and the representative document kind of makes sense right because it's this was new script Yesterday by the way so
+37:59
+um uh uh for those of you who don't know they recently had an election there so
+38:05
+makes sense right you know as somebody who who who knows what's going on uh
+38:10
+billion Kenyon Market government right so probably talking about the Kenyon economy not really quite sure companies
+38:17
+investor Intel 2023 right and then again right this is probably talking about um
+38:25
+um uh well um you know stock news right a typical stock news for the day um so
+38:31
+again we can see okay billion Kenyon got Market government company Sals Bond Bank
+38:37
+sector so something about you know something about the Kenyan economy right and again we could run the model and we
+38:43
+could see where ends up where I mean I'm not sure why cookies keep on appearing
+38:48
+here but sure right makes sense right with regards to the the the the the the
+38:55
+the well I mean not really um it's it's classifying the wrong type of country
+39:01
+but anyways um uh and then okay this makes more sense right you know and
+39:06
+Intel stock fell more than 10% right um and of course Right company investors
+39:12
+Intel 2023 again Intel tumbled so I'm guessing so you can see now right okay
+39:17
+okay fine you know yesterday there was some major a slump from from Intel and
+39:23
+and all the newses are reporting about it and here you actually could even output the probability that this
+39:28
+particular topic belongs to this particular article in my case right so it's pretty high right it makes sense
+39:34
+right because okay now that's not okay K's talking about the da again right so
+39:40
+definitely belongs to the same topic um here is a bit less confident right because it gives Intel but it's talking
+39:47
+about Boe but nonetheless probably still talking about stocks right so yeah um much more coherent right compared to the
+39:53
+previous one that I showed you now let's try key bird
+39:58
+um okay let we get something different actually right uh demand CEO Market rents not really quite
+40:05
+sure all right this is better right Kenyon Nairobi and Bank finds right
+40:11
+stocks stock dividend investing right so again let we can check it out right
+40:17
+something about uh regulations right of the Kenyan government uh Federal Reserve
+40:24
+or the bank or whatever you want to call it right and then again right you could you could um uh you could
+40:31
+uh you could uh do it with uh um um you know again right you know you
+40:40
+could you could uh inspect the the the probabilities of each word belonging to each topic itself right one thing to
+40:47
+note is that keyboard gives much higher probabilities for the keywords belonging to that document because like I said
+40:53
+again we iteratively take out representative documents a subset of the documents and iteratively take out words
+41:01
+right so obviously naturally uh you will get higher probability um so yeah that's
+41:08
+that all right um I think I have zero shot but somewhere else um yeah I think
+41:14
+zero shot is somewhere else okay I probably I'll show you probably later um so now the question is can I use a
+41:19
+different model right I don't like B but but is old fashioned it's 2019 can I use something else
+41:26
+yes you can right you just have to specify embedding model right and then just feed it in
+41:33
+here and you run it and then yeah much better now right
+41:38
+something about rents right stocks okay now there's environment right uh EP
+41:46
+environment and then about uh uh again right the canyon bank I don't know what happened in the Kenyon Bank yesterday um
+41:53
+should have checked it out but I don't know okay so anyways um um yeah
+41:58
+so yeah um again right um the same thing again you can obtain the topics right
+42:05
+and now the order got swapped but yeah you get stock stocks dividend investors shares Market earnings and financial
+42:11
+markets now we're going to try long forer and the reason why I use long forer is because it's suggested right
+42:17
+basically to use uh a uh a large language model that could interpret
+42:23
+long-term dependencies if a long-term um uh context within each other and that's
+42:29
+exactly what long forer does uh so let's give it a try much better now right you see energy transition climate right
+42:37
+artificial intelligence 15 billion okay something about artificial intelligence making uh
+42:43
+uh massive um gains right uh transport
+42:49
+bought longterm investment right something about see my guess is that if you've been
+42:56
+reading the news I I guess it's probably about Boeing 737s blowing up um in the middle of the air but yeah that's
+43:03
+probably what it is right and then again uh something about pollution in the EU right
+43:09
+uh again about stocks and some for some reason
+43:14
+something about the Kenyon economy economy Nairobi collects more than yeah something about the Kenyon economy right
+43:20
+again you could run it and then you could see the individual uh keywords associated with
+43:28
+it right um so using long forer from what I experienced so far is the best um
+43:36
+because it could really capture the long-term dependencies um uh and and it shows right because you see look uh
+43:42
+energy transition climate change geopolitical um for some reason there skaty images here uh reality Labs uh
+43:49
+okay and the rest are probably a bit of rubbish but yeah um it's basically it um
+43:54
+any any thoughts any question
+44:00
+questions I have a quick question yeah go on um about the L former so um does
+44:06
+that mean um involved more tokens during your uh calculation in your model when
+44:15
+you yeah processing the data um not not necessarily uh basically what happens is
+44:21
+that you know in in in the classical but I think it's five
+44:26
+512 uh tokens that in which is limited to the window is limited so for example
+44:32
+if you have uh an article of 5,000 tokens for example right it could only understand
+44:39
+the context maximum context of which of 512 tokens and after that it has to keep
+44:44
+on you know it doesn't go beyond that right long forer is able to capture much
+44:50
+longer uh token range right and this token range is important to understanding context and which is why
+44:56
+it performs much better than ours because we using newspaper articles which I'm sure it's more than 512 tokens
+45:02
+so therefore you know B was not able to capture is able to capture context but
+45:07
+in such a very short term it's just limited to 512 so long forer is revolutionary a sense it's now able to
+45:12
+capture much longer dependencies uh much more than 512 I I don't remember the exact number uh but if somebody
+45:20
+remembers maybe they could help me out there um yeah I think you're right I think you're right the uh the the long
+45:26
+forer takes 4,096 uh tokens as the window size uh we
+45:31
+call the maximum uh token size basically you could think of if you want to bite a
+45:38
+burger no the size of your mouth is the uh the max number of tokens right
+45:43
+because you can only buy that much and you have to consume the burger in several bites right unless you are a uh
+45:50
+no eating champion that you can uh eat a burger in one bite usually with spend I
+45:56
+don't know 10 20 bytes right so one bite is uh the one maximum uh number of
+46:03
+tokens for the models is the is the model we call Window size okay so uh
+46:09
+because it know it has been the the small of the window size is almost always a problem for lar language model
+46:16
+until really recently that we see cloudy allow you to have a maximum window size
+46:22
+of 200,000 uh and um know chat gbt gbt 4
+46:27
+model recently released U the uh gbt 4 preview 116 version that allow you to
+46:34
+put 128,000 I guess right so uh and recently
+46:42
+it become less of a problem for the window size but for traditional much smaller language models uh the the
+46:50
+window size is a big concern because the model can't really consume larger than
+46:55
+that uh no text data so you have to feed the data um know iteratively to the
+47:01
+model so that is uh what the uh what Charles mentioned about the difference between long form and the bird model
+47:08
+because Bird model can only consume 512 tokens okay much smaller in size yeah go
+47:15
+ahead Charles all right thank you so much right um so the good thing about B topic is that really right it
+47:21
+accommodates to different scenarios so I'm going to go through the different scenarios and then we're going to
+47:26
+we're going to um I'm going to demonstrate them to you right so the first one I'm not sure why I did
+47:36
+that I'm so sorry I'm not sure why I did that um really so
+47:42
+sorry okay so the first one is supervised right very easy right I have data I have my labels but I do not know
+47:50
+I want to know what's inside the labels right I want to know what words are are prevalent in the labels right right so
+47:56
+how it works is that it just very simple they skip umap and DB scan and they immediately insert in logistic
+48:03
+regression as a classifier right and then from there it's very simple the same right you con vectorizer TF IDF and
+48:10
+then F tuning right semi- supervisor what if I have my data which is
+48:15
+partially labeled I already have some topics that I have identified but I do not know others so it's very simple you
+48:23
+just insert your labels during the dimensionality reduction step right uh
+48:29
+the it nudges the uh the the the remaining unlabeled
+48:35
+points to based on the labels you provided and the examples you provided right and it clusters them
+48:42
+accordingly um right and I'll show an example later so manual this is very
+48:48
+confusing I know but what if my data is really labeled with topics and I want to
+48:54
+just have a better understanding of of each topic right I just want to know what keywords are associated with topics
+48:59
+right so you just skip the entire it's basically not even there's no l there's nothing involved at this point right
+49:06
+you're just inserting your documents and labels and they performing TF IDF for you the difference between this and
+49:11
+supervised is that supervised you are building a model right you're
+49:17
+building a model so difference between this and supervis is that you're building a model right you're still
+49:23
+embedding the text and whatever but you're building a model to basically
+49:29
+understand the outputs this one you're just purely trying to infer you're not building any
+49:34
+model uh or any predictive model right and this is the best thing I
+49:40
+like about um uh but topic is dynamic topic models because um in reality right
+49:47
+you want to see how your topics have changed over time and later I'm going to show a really good example um I I I'm
+49:54
+going to show tweets from covid-19 and I'll show you how the topics have changed over time
+50:00
+and this is very useful for for researchers who you know for example uh you do sentiment analysis right you know
+50:08
+uh maybe in your next sentiment analysis paper you could uh run a dynamic topic model to try and see how has the topics
+50:14
+changed over time right so this is very useful and I'm absolutely love this
+50:21
+right so how it works is that again embeddings dimensionality reduction class cling right so now it performs the
+50:27
+clustering within each cluster right so again it clusters all the documents together so it does not cluster it each
+50:33
+time step it clusters in all together it has these clusters right and then
+50:41
+um never mind forget it okay and then it divides them based on the time stamp
+50:46
+right so you have time step one all the way to times the M within each cluster
+50:51
+so now it is a cluster it just divides them partitions them based on the time step and then it performs the tfidf so
+50:59
+it only identifies the prevalent keywords within that time step itself right but
+51:09
+the important thing is that it was clustered all together right which which topic it belongs to it was clustered all
+51:15
+together the logic for this being that right at the end of the day right indeed
+51:21
+you know uh it will not you know it will be a bit too fine grain right if you were to split into time stamps and then
+51:29
+cluster it you want to get the whole big picture of it so this is why they do it
+51:34
+um and hierarchical clustering modeling so sometimes for example and later I'll show you another good example they would
+51:40
+produce 100 topics for example right okay fine that's that's 100 is great but
+51:46
+it's a bit useless right why I want 100 topics right but sometimes if you look at the topics and and you could could
+51:51
+have seen just now earlier right they were talking about a stock market and they were talking talking about the Kenyon economy right in some sense you
+51:58
+could say both of them are subsets of each uh both of them are subsets of a greater topic and this is when
+52:04
+hierarchical topic modeling comes in right it's useful when you know it
+52:09
+produces let's say 10 topics right but three of the topics are related to each other and they could form a bigger
+52:14
+picture this is where hierle modeling topic modeling comes in so how it works is that once it produces the the TFI the
+52:23
+basically your representations the tfidf right uh it it it calculates the cosign
+52:29
+similarity between the topics right and it applies a linkage function right I
+52:35
+think it uses w linkage so it applies linkage functions right to group
+52:41
+document uh to group uh the the the the words the the the key wordss of each
+52:47
+topic that have already been of discovered it groups them together and then it updates the TF IDF
+52:54
+representation of of each of these um uh uh
+52:59
+documents right and yep okay that's that um and I would now show you I think I
+53:06
+should have all them okay I'll now show you all of it right let me
+53:14
+just just want to shut this down
+53:20
+um again data with topics right we are
+53:25
+still looking at your presentation oh I'm sorry thank you so much yeah all right cool awesome right all
+53:33
+right awesome yeah so again same you import everything just read the same
+53:38
+thing um so this time what I did because I want to show supervised so I
+53:44
+just I I I'm the soul labeler of this so don't blame me for this but I just manually labeled it based on what I saw
+53:51
+um so forgive me if if it's bad but but I'm just trying to show how supervis
+53:56
+works right so again I label them into economy election environment Israel
+54:02
+conflict and others right and again I show you earlier that if you have the labels you can make a predictive model
+54:09
+through supervised uh learning right and then it's very simple all you have to do
+54:14
+is that you have to map it back uh I I really have to caution you that if you do this right do not use label mapping
+54:21
+your your your initial mapping to map it back to the bir topic and I'll show you
+54:27
+why right because if you look at mapping for some reason bir topic likes to mix it up mix up all the numbers so
+54:33
+one was what was previously one is now what was previously zero is now one what was previously two is now four and
+54:40
+everything like that so please be very careful when doing with that um okay so what do we get right so I
+54:49
+like I said this is five so okay economy invest Market investment financial securities right um let's take a look at
+54:56
+it okay so Market investment Securities Market Intel economy intels right so
+55:02
+something probably about Intel right um uh okay Nairobi Kenya I don't know
+55:10
+what okay so let's just take a look at this the first one okay again something about the Kyon economy I wish I read
+55:17
+more but I don't know right um right the third one is about the environment again
+55:24
+these topic have been manually labeled by me so um uh you know uh they you know
+55:32
+um obviously they make more coherent sense right and then the third one would be the Israeli conflict
+55:39
+right makes sense makes a lot of sense right and then again right um the
+55:45
+election right and for those of you who don't know um there's an election going
+55:50
+on I guess so you know New Hampshire which I think was where is was he right
+55:56
+Republican non-incumbent Republican win for those of you who understand what's going on should be pretty easy to
+56:01
+understand what's going on right that the uh you know the incumbent the incumbent one right so um yeah that's
+56:08
+basically it so now we move on to manual topic modeling which like I said again You're not building a predictive model
+56:14
+you are just classifying right just trying to understand which wordss are prevalent in each already labeled topic
+56:21
+right so to do that okay actually I forgot to mention right um when you do this right you have to really specify
+56:28
+that you want an empty the way you do this is that you specify that I want an empty uh uh dimensionality reduction
+56:35
+model you you specify which classifier to use and then um yeah so you basically
+56:41
+actually have to do it manually which is why as much as I don't like it I had to go through each and every single step
+56:47
+because that's how bir topic works is that it expects you to it you know it's not just hey you know this is supervised
+56:53
+you know you have to specify the parameters yourself to to know it right so in this case I I tell the model um uh
+57:00
+we have no dimensionality reduction because it's supervised right instead of having a uh clustering method we use a
+57:06
+classification method right and and therefore we we feed it in and the same for that right we we have no clustering
+57:14
+method at all we have no embedding at all we're not embedding anything at all right so we
+57:19
+just give a base empty we give it to them as empty uh empty step
+57:26
+right and then again okay so Intel's year set Market okay some I do not know
+57:34
+what what was this Taiwan yeah again uh coffee gas uh okay fine the Israeli
+57:41
+conflict makes sense the fourth topic makes sense okay actually though this is better right the fourth topic makes
+57:46
+sense right election this one makes more sense I'm not sure how coffee comes into environment but and and then the others
+57:55
+I not really sure about this and then uh the economy right so I guess we can all
+58:02
+tell that it's time to buy Intel stocks right because it keeps on showing up um but yeah that's that's that all right
+58:08
+and then again semisupervised so basically what I'm going to do now is I'm just going to insert whatever my so
+58:14
+I I previously showed you that I labeled by myself very poorly but I labeled
+58:20
+some some of some of these articles now I'm just going to set my un
+58:25
+the unlabeled ones back in right and then I'm going to just run it
+58:32
+again right and the way you do it is that for those that are not labeled you just simply insert negative one
+58:38
+inside right and yeah um not not really the best
+58:45
+um it only what it mostly does is it tells me that um uh negative one is
+58:52
+um NE negative one is um um
+58:58
+um investor stock and then this one I mean it's almost the same as zero so not very helpful um yeah um again right and
+59:08
+now this is when zero short topic modeling which I missed out earlier comes into play right so like I said
+59:13
+okay from from everything that we have gaed so far I could tell you know it's
+59:18
+economics actually I should say economy economy election environment
+59:25
+Israeli conflict others right so let's put it and let's tell the the the the
+59:33
+the um the large language model to to help me give more coherent sentence
+59:38
+outputs based on that so we can elaborate the minimum topic size that we want to consider and the zero short
+59:44
+similarity right so the similarity between the topic that I'm providing
+59:50
+here right and the uh and the keywords in itself so let's
+59:56
+see much better right climate change energy related Supply uh
+1:00:04
+that's do bit
+1:00:11
+uh let's do this right let's see the first topic okay great artificial intelligence
+1:00:18
+15 billion fourth quarter data center dealership economy okay um this from
+1:00:23
+here it's rubbish but but you can kind of see right it's something about artificial
+1:00:29
+intelligence great fourth quarter earnings it's you know the future economy right the next
+1:00:39
+one right is uh I yes it's okay
+1:00:44
+uh yeah it probably got mix mixed up all right tax incentives exemption right
+1:00:49
+Union Workforce Emerging Markets incentives right this is the
+1:00:59
+economy all right and this is environment right spokesperson pollution something about in Euro in London and
+1:01:05
+parking cost right which was what I provided
+1:01:12
+earlier okay um this probably others I I don't know
+1:01:21
+um let's see right this is um yeah this is probably other got to
+1:01:28
+mixed up somewhere okay never mind but yeah you you
+1:01:33
+basically get the point right it it it it um it tries to to to give more
+1:01:40
+coherent outputs based on what you think are the topics that are already existent
+1:01:45
+within uh within your within your outputs itself from your outputs based
+1:01:51
+on what you infer uh any questions
+1:01:59
+there any questions from the audience anything you want further
+1:02:06
+explanation by Charles or by myself um I have a question yeah go on
+1:02:12
+um as to the topic at at the end of this file you yeah you tapped it is this
+1:02:19
+represents um many articles or is only one article
+1:02:25
+Oh you mean this one yeah oh so these are the topics generated so for example
+1:02:30
+this first topic is about climate change right um so I want to see they provide
+1:02:36
+it here right climate change energy related Supply destrution so I mean it's just
+1:02:41
+a okay which s okay you got confused all right let's not use this I forgot to map
+1:02:48
+it back which is why it's very important right I missed it out in the last step it's very important to to map it back
+1:02:53
+because but topic likes to mess up all all all the the the allocations that you provided to them so okay but let's look
+1:03:01
+at this one for example markets Financial incentive Securities right so markets investment it's basically the
+1:03:07
+same you see so here it's markets investment financial securities it's all
+1:03:12
+the same it's just providing the probabilities of the
+1:03:19
+keywords for each topic that it identified I see so the um the the count
+1:03:25
+here means the the number of Articles Oh you mean count here is it
+1:03:30
+yeah yes that that's correct yes that's correct I see 30 articles have been classified into this topic cluster 17
+1:03:38
+into this six into this two into this and one into this and the out here
+1:03:44
+represents the the possibility of the most relevant um topic it it uh
+1:03:52
+calculated which one this one or yeah I mean the out the output yeah oh oh yes now these
+1:03:59
+are the probabilities that each that the words belong to this particular topic
+1:04:04
+okay so the top the topest the one is the the one like the model recommend
+1:04:11
+that that's correct so this is well I mean let me correct myself I I said it wrongly this is uh the highest tfidf
+1:04:17
+score so earlier I showed you the TF IDF score where where it tries to identify
+1:04:24
+how each cluster has the most uh frequent words relative to other
+1:04:29
+clusters that this this is the TF IDF score here okay I see thank you so much yeah
+1:04:37
+sure thank you for the great question I have a question about the um TF ID score
+1:04:43
+does it have a range is from zero to one does it have a range is it from Z to one
+1:04:50
+it's a good question does it have a range from zero to one I the answer is I don't I don't recall I should know this
+1:04:56
+uh yeah no the tfidf actually is a suite of uh of matters uh really depending on
+1:05:05
+which specific tfidf is is implemented because there are several different or relevant definitions but for this one I
+1:05:12
+I think so I think it should be written from zero to one uh is no most likely
+1:05:18
+has been normalized uh even if the traditional TF IDF is doesn't have to
+1:05:23
+rein from 0 to one they have been normalized to this range uh in the implementation so I think that's the I
+1:05:30
+think that's the case but uh we have to double check the the documentation to know for sure yeah okay I see so we just
+1:05:37
+need to know which one is the highest but we don't um need to know what like
+1:05:44
+from like how large this number should be to be important
+1:05:55
+that word yes that is correct so like for example here it's 0.45 right and then if you scroll all
+1:06:01
+the way to the bottom it gives like a 0.90 right so it's it's uh it depends
+1:06:08
+right yeah yeah yeah so there there's no no probably no uh consensus regarding
+1:06:16
+the threshold for tfidf is in relative terms yeah see um I have question about
+1:06:25
+um the zero shot classification at the end um I was curious
+1:06:34
+um so for the zero shot we we Define the
+1:06:41
+to all the topics names oh okay um so for examp yeah um
+1:06:48
+great question so for example right I have read some of the
+1:06:54
+these outputs for example right um yeah so I I read some of these outputs and I
+1:06:59
+think okay maybe this is the economy right this is um the Israel conflict
+1:07:06
+right this is the election right so I'm just telling the model hey I think these
+1:07:12
+are some of the topics right can you help me give me better outputs based on
+1:07:19
+what I think are the topics right so it then gives me as you can see I gave one
+1:07:25
+on environment it gives a much better one right climate change energy related Supply disruptions right it gives me
+1:07:32
+much better outputs now much more coherent outputs because you told the model I think these are some topics that
+1:07:39
+I have can you please help me rearrange the words such that I get such a
+1:07:46
+smoother much smoother one and then I gave one for the economy for example and then they talk about artificial
+1:07:51
+intelligence where is it artificial int intelligence 15 billion fourth quarter right and you gave another one about tax
+1:07:58
+incentive exemptions Union Workforce Emerging Markets right so it's able to
+1:08:03
+to to to go through your topics and go through your keywords and and give better better outputs for
+1:08:09
+example okay Goa thank you yeah yeah I have a question about the uh
+1:08:17
+the can can go back to the time like the the PowerPoint point about
+1:08:26
+cling using
+1:08:31
+the your timeline like oh this one um I
+1:08:37
+can see oh I'm sorry I'm so sorry
+1:08:42
+um is this it yes Dynamic um so you said you like
+1:08:49
+you can input all of the data setting um into the model and then do
+1:08:55
+the clust thing then how to do the like the time series uh
+1:09:03
+analysis okay I'm just about to show that so just hold on for two minutes all
+1:09:08
+right just hold on for two minutes I'm literally about to show that but thank you for queing me in I will show you how
+1:09:14
+how it works um yeah I think I've done it here
+1:09:20
+visualized topics something good uh
+1:09:26
+yes topics over time okay I'm about to show you all right so hold on all right so now so far I've dealt with uh let me
+1:09:34
+just restart this all right so far I have dealt with news articles from now I'm just going to De with tweets I got a
+1:09:41
+covid-19 tweets data set um and we're just going to sample 10,000 out of it
+1:09:46
+just to save everyone's time um so here we just perform a bit cleaning right and
+1:09:52
+then we uh okay great um it's such a large data set takes time to be
+1:09:57
+uh so yeah okay just I'm sorry everyone you have to wait for one minute um
+1:10:07
+yeah so basically um we do the same right uh vectorized model tfidf we uh
+1:10:15
+tune it with uh with representation model again right uh so to answer your
+1:10:20
+question UI um we basically um cluster all the documents together so
+1:10:27
+as you can see I have this tweet here I'm just clustering all of them together only after I cluster them then I would
+1:10:36
+visualize them over time all right then I would visualize
+1:10:43
+them how it changes over time um and and you're about to see because they have a really good visualization which I would
+1:10:50
+highly recommend uh but let's just wait um yeah so so here
+1:10:57
+just want to add that if you want to do this type of modeling making sure that
+1:11:02
+all the uh the the the the twists belong to the same topic otherwise you are
+1:11:07
+mixing up uh though it because Charles what Charles demonstrate here because
+1:11:12
+all the tweets are related to to covid-19 so that's okay right but if you think there are a lot of topics there
+1:11:19
+that you have to know know clarify them into classify them into different topics and then do the hierarchic analysis or a
+1:11:26
+Time series analysis for each topic separately uh otherwise you are mixing
+1:11:31
+the the the TR TRS with no different topics makes sense
+1:11:38
+yeah so we're just running this all right and there is something
+1:11:46
+called let's just wait I'm sorry everyone
+1:11:52
+uh all right but there's something called
+1:11:58
+um something called LDA Vis which is very popular in
+1:12:04
+um classical LDA right such that if you have a lot of topics right and you want
+1:12:09
+to know how do they look like in a two-dimensional space right how similar they are in a two-dimensional space you
+1:12:16
+can use visualized topics here to visualize them and I would you would see
+1:12:22
+it in yes okay great so for example here I have 124 topics not very helpful right
+1:12:30
+so I could actually go in here and see which topics are very similar to each other and it makes sense right so for
+1:12:37
+example oops you see nurse nurses Nurse night gild nursing student right
+1:12:43
+something about covid-19 and nursing and then here is about hospitals hospitalization patients Corona virus in
+1:12:50
+Philadelphia right so you can see right it does a pretty good job in in clustering the topics itself um let's
+1:12:56
+select another one social distancing and what's the other one so okay Social Security okay both social distancing I
+1:13:02
+don't know why Social Security turned up there uh um do you know the X access and Y
+1:13:09
+access main so yes okay so you can think of it as like principal component analysis right you have many components
+1:13:16
+but you only analyze them on a 2d a two-dimensional uh uh in a in in in two
+1:13:22
+aises basically so this is exactly like principal component analysis it's just
+1:13:27
+visualizing everything in two dimensions and you could even drag to see where
+1:13:32
+each topic belongs right so pretty cool
+1:13:38
+and this would and this is what I I I'm very amazed about you can see right how
+1:13:44
+the topics have changed over time so this is March the 9th let's see okay for
+1:13:51
+those of you who remember uh not that I want to uh Corona virus right uh Italy
+1:13:56
+was one of the countries to First have it right so Italy tweets were the most famous right by the March
+1:14:02
+13th okay people were talking about okay the apocalypse right was going to happen
+1:14:08
+right um and people were upset that uh spots was cancelled so that's another topic
+1:14:15
+right uh and apocalypse right maybe go somewhere here okay maybe same Corona
+1:14:22
+virus and then people started March 17 right that's when people started talking about
+1:14:28
+um uh what's that called essential workers is that what you call them essential workers right is that yeah
+1:14:34
+essential workers right about safety of essential workers basically right uh and
+1:14:40
+of course that's when this you know okay that's the blue one so then you can see right somewhere mid- March or towards
+1:14:46
+the end of March is when really right the anti-chinese or the anti- Asian hate started to come because of the covid-19
+1:14:52
+pandemic right and you can see now it's starting to Peak right and then after
+1:14:57
+that people started getting concerned how am I going to go to the supermarket right because of covid-19 and then New York and what's
+1:15:06
+this here just out of curiosity okay Maryland Illinois never mind uh yeah but
+1:15:11
+but basically you see right I don't know I don't know about you but I think it's pretty awesome right it's you can see
+1:15:16
+how each Trend changes over time right so yeah um it you change the top end
+1:15:23
+topics to like five would it
+1:15:29
+clear yeah I would agree no I I will change the topic to one so that we will see just the most prevent Topic at each
+1:15:37
+time point oh no no I think you change it to one it's just going to produce one topic only oh really yeah yeah so okay
+1:15:45
+yeah yeah yeah so it's recommended that for example if you have at least the document recommended for example if you
+1:15:51
+have 30 times time points you make it 30 so oh it's the frequency yeah okay I see yeah that
+1:15:58
+makes sense okay I was thinking of okay so it's different okay it's a transition TOP is transition of frequency okay yeah
+1:16:05
+that makes sense okay yeah and again right so again here we have 124 topics um and then we have
+1:16:12
+hierarchical topics um so again right how how can we visualize
+1:16:21
+them okay um and then you can see right so sphere is about patients and
+1:16:28
+clinicians covid-19 um is that way I can zoom U not
+1:16:33
+very nice no okay uh never mind okay so
+1:16:39
+here it's something about patience and I don't okay let's let's use something more okay there we have it
+1:16:45
+um okay I'm sorry um something about curfew Corona virus
+1:16:51
+lockdown and uh Corona virus Corona virus okay here's a good one celebrities
+1:16:56
+CBS right Corona virus Tom Hanks for example so we know this is about celebrities right so we can merge them
+1:17:03
+into one grand topic here and all these also could be merged right into existing
+1:17:10
+topics right up to the point where you basically get one topic here as a whole
+1:17:18
+right so this is how the hierarchical uh uh visualization works right you basically have so many topics but you
+1:17:26
+want you know that they are subsets of each other right so here's another good example Senate bill Senate Congress
+1:17:32
+right coronav virus Democrats right probably referring to the same thing right uh why is it or Pelosi okay Pelosi
+1:17:40
+I thought Pepsi Pelosi right so probably all belong to the same thing so it's it
+1:17:45
+can be all essentially group together in in a hierarchical form right and you
+1:17:51
+could from there hear okay Pelosi Senate Bill stimulus henned Democrats hate
+1:17:58
+America okay uh yeah but basically the idea being that okay you know this is something about politics and uh the
+1:18:04
+stimulus bill right and um yeah so and the same thing here right oh this is
+1:18:10
+another good example the other ones Healthcare professionals healthcare workers right yeah sure they're a bit too similar to each other so they here
+1:18:17
+talking about Healthcare you see by the time you merge it becomes Right healthc Care Professionals and patients and
+1:18:23
+right something about curfew related to them I don't know right um yeah so this
+1:18:28
+is a really good uh example and another thing is that you could also do topic distribution right okay top distribution
+1:18:35
+it's not Define okay I may have I may have never mind uh all right
+1:18:44
+I was hoping to show yeah I may have actually deleted some something here but
+1:18:49
+what was supposed to show is that if you had for example labels you can visualize right how they look across
+1:18:55
+different labels but uh yeah um I must have done something wrong here but apologies for that but yeah um yeah
+1:19:03
+basically that's that okay um I'm aware it's 8:30 now unfortunately
+1:19:09
+uh I'm probably going to take much longer than 8:30 to move on to my next part which is a different algorithm uh
+1:19:16
+so I don't know uh uh I think no just for the time sake
+1:19:22
+uh we are passing the one and half hour time Mark uh so maybe we we should know stop
+1:19:30
+here and ask whether any of audience have any questions for Charles I think it's a
+1:19:37
+fantastic talk uh really I don't know much about the the uh most recent
+1:19:42
+development in topic modeling uh I think it's tremendously helpful uh especially
+1:19:48
+after the uh the modeling incorporate L language models so any any questions
+1:19:54
+from the audience any pressing questions anything confusing just unmute yourself and
+1:20:06
+ask unfortunately I have another 40 slides so I don't think we're going to finish it yeah we'll see for the for the next
+1:20:13
+time no uh we we yeah we'll we'll probably revisit this topic so what I
+1:20:18
+want to say is no uh we have let's no for those of you who have something else to do know feel free to go uh I just
+1:20:26
+want to briefly comment a few things uh uh maybe using a few minutes uh I'm
+1:20:31
+thinking first the topic modeling is revived because of the lar language
+1:20:36
+models uh and as Charles mention there are now a lot of different uh Ty time
+1:20:42
+serious analysis hierarchical modeling uh those are really new uh to most of us
+1:20:51
+uh and second I do want I do hope that maybe Charles uh maybe UE and probably
+1:20:57
+many of you thinking about how we can push the envelope so no one thing that
+1:21:04
+uh really uh no I'm really struggled is we have to basically guess the meaning
+1:21:12
+the out of many keywords right and keywords are not really consistent we are half guessing and probably half just
+1:21:20
+imagining what could be the case right right so uh could we do a better job in
+1:21:26
+terms of providing say a brief summary like a one sentence summary of the
+1:21:31
+document so we can understand this better or one top one paragraph description of the topic right so we
+1:21:38
+understand the topic better um I think we can definitely push the envelope in multiple uh directions one is to think
+1:21:46
+about how we could use know say uh lar language models maybe we can do a
+1:21:52
+document by document one sentence description summarization and then based upon that we can combine uh the
+1:22:00
+documents together or can compare the the similarities and cluster those document into different types uh
+1:22:06
+presumably I think this approach would be more uh robust compared to using keywords uh the tfidf which we know
+1:22:14
+doesn't consider the meaning but merely uh it's a back of word kind of approach right so another thing we could do I'm
+1:22:22
+guessing is to embed the L language models in in other domains for example
+1:22:28
+summarizing the topic in a paragraph or sentence so we get more contextual
+1:22:34
+information out of it um no regarding time series analysis uh no we we could
+1:22:41
+probably describe the trend over time no using sentences or paragraphs no
+1:22:48
+basically we could think about multiple ways we can re organize the workflow the
+1:22:54
+pipeline so that we can get more uh from Mere no keywords and broken sentences
+1:23:02
+right no we we we we is of course computationally heavier um and need some
+1:23:08
+Innovations but I think we are in a good shape uh to runov this idea and probably
+1:23:15
+push the boundary uh of this topic modeling so um yeah so Charles if you
+1:23:20
+have time later on we can discuss now maybe even write a paper on how we are going to renovate this this kind of P
+1:23:28
+line uh so there are multiple Dimensions which would go with uh we we prepare We
+1:23:33
+compare the pro and cons and for the rest of you no no I would urge you to think about what are the limitations no
+1:23:41
+now the top modeling is much better no compared to before but no what the
+1:23:46
+limitations you see and how we can better address them right to push the envelope uh to move the top modeling to
+1:23:55
+a new uh a new domain I would say uh that is making it more accessible
+1:24:01
+understandable and know making giving you more insights okay so that's my two cents and
+1:24:08
+uh thank you Charles for offering this very intensive uh and informative talk
+1:24:16
+uh I know no you always go ambitious you want to cover everything uh but I think we already received a full do from you
+1:24:23
+uh today and definitely we will seek other opportunities to revisit this
+1:24:28
+topic uh maybe starting with what you what you left today and maybe even
+1:24:34
+moving to uh Reviving this pipline so we can uh we can push the boundary a little
+1:24:40
+bit further okay so that's all I want to say uh and uh thank you CH and thank you
+1:24:47
+everyone for coming and we'll see each other in two weeks right in the in the
+1:24:54
+so we we will not meet next week we will meet uh no uh one week later uh so at
+1:25:00
+that time in two weeks uh U is going to give us a presentation about F tuning
+1:25:05
+how we can f tune huge no language models um no for example the the chat
+1:25:11
+gbt gbt models and maybe cloudy models uh llama 2 models now we have a lot of
+1:25:18
+ways actually that simplify greatly simplify the fight in uh exercise using
+1:25:25
+uh no uh Google Cloud uh and uh add Cloud Etc okay so uh we we um we'll
+1:25:33
+spend the the next uh talk uh around F tuning Lage models okay so uh everyone
+1:25:41
+have a great weekend we'll see you in two weeks bye bye thank you
+1:25:51
+everyone

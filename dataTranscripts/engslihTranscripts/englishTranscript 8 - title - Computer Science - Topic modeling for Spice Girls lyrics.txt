@@ -1,0 +1,582 @@
+Introduction
+0:00
+hi my name is julia silke and i'm a data scientist and software engineer at our studio and today this week's
+0:08
+screencast is going to be about our tidy tuesday data set which is all the spice
+0:14
+girls there's a couple different data sets we're going to focus the one on the lyrics and we are we're not going to use
+0:20
+tiny models today instead this instead of doing a um a supervised uh predictive modeling task
+0:26
+where we have labels on our observations instead we're going to take an unsupervised approach and talk about
+0:34
+topic modeling so topic modeling is an example of an unsupervised machine
+0:40
+learning approach for text analysis where you take you know a pile of documents
+0:46
+say a collection of spice girls songs and you um you use this um
+0:54
+this algorithm to model and learn or discover
+0:59
+topics like what what the songs are about let's get started
+Data
+1:05
+all right let's get started on this data set of
+1:11
+lyrics from the spice girls so this week's tidy tuesday has um several data
+1:17
+sets but i am only going to use the one about the lyrics so if we take a look at
+1:23
+what we have here we have got um got you know artist name which of course
+1:28
+is um uh all the same but we've got several albums there's three different albums
+1:35
+here there are let's see um you know we could do we could like
+1:41
+look like album name and then song name like this and look at look at that here
+1:47
+uh so we've got 31 songs um and this is a pretty this is a pretty small
+1:55
+data set but we still i think we'll be able to do um do a pretty nice job walking through how
+2:01
+to train a topic model an unsupervised um topic model here and understand what
+2:09
+spice girl songs are about i see we've got these issues here with the um
+2:14
+it's like an encoding issue so let's let's fix that when we get started um the first thing i want to do here
+2:23
+let me let's just take a look at this so this is a data set where we have
+2:30
+one line per row like one line of the song per row and there there's some information on
+2:35
+like who is singing um a section name pre-chorus chorus verse um
+2:43
+here and so um this text here is in a format where we
+2:49
+have um one line of the song per row and the first
+2:54
+thing i'm going to do here is i'm going to convert to this data set to
+3:00
+a data set where i have one observation per row where the observation is what i'm really
+3:06
+interested in and i am interested in words um as my uh
+3:11
+observational unit that i'm interested in so i'm gonna load the um tidy text
+3:16
+package and then i am going to um i'm going to take the lyrics
+3:23
+i'm going to let's fix that that those song names
+3:29
+so i'm going to say string replace all song name and what it was
+3:35
+let's do this where'd it go here it is these weirdly encoded
+3:42
+um um
+3:48
+uh single quotes or you know for contractions there so let's do that and then let's um let's use
+3:53
+unness tokens which will tokenize and reshape the data at the same time so let's tokenize from that line
+4:01
+um the lines of the song to a word like that so this we instead of having line
+4:08
+we now have a single word and then let's um let's remove some stop
+4:13
+words here so let's remove a um the default which is a fairly small stop
+4:19
+word list there so let's let's call this the tidy lyrics data set here notice
+4:24
+it's got a lot more um uh we've got a lot more rows in our data set now because now
+4:31
+it is um one one word per
+4:36
+um row of our data frame instead of one line per row
+4:42
+so you know we've got um yo tell me what you want what you really
+4:48
+really want here all right um okay so let's do let's just do like some
+4:54
+quick summarization before we get started on our topic model so for example we can say what are the
+5:02
+um the most common words in this um [Music]
+5:08
+in these lyrics after removing that list of stop words so get love
+5:13
+no time wanna never oh yeah so we so these are these common words here um if
+5:19
+we want we can um account with more than one argument and find out the songs um
+5:28
+how many words are used in each song um and this is useful because it can
+5:33
+help us understand like how many counts we have per um
+5:38
+per document or song here so you know we've got like if i let's see i'm going
+5:44
+to do this again and view it and you know we so we're we're pretty quickly down to like
+5:51
+you know in the tens here for words like spice and um eternity and giving so so
+6:00
+not these are not huge numbers of counts per song so we'll need to keep that in mind as we decide to make a topic model
+6:09
+speaking of which it's let's do it okay so a topic model is a
+Topic modeling
+6:17
+a an unsupervised machine learning method and as its input it doesn't want
+6:22
+you know something that's in a tidy format like this a type format like this is great for exploratory data analysis
+6:28
+for manipulation for visualization but when it's time to do
+6:34
+math we really need to um convert this to a uh to a matrix form so
+6:41
+what we're going to convert this to is a document term matrix we're going to do it into a sparse format
+6:47
+text data is almost always very sparse because we have there are some words that we use there
+6:53
+are a few words that we use a lot of times and a lot of words that we only use a few times so that
+6:59
+is a good fit for sparse data so let's do actually pretty much just what we did
+7:04
+up there let's count song word um and then let's um use this
+7:11
+uh let's cast to a sparse matrix here so we need once it goes in the we're
+7:16
+typing in the data and then we need to say what's the row what's the column and then what goes into the um
+7:23
+the every matrix element so this is a document term matrix so our documents
+7:28
+are our songs our terms are our rows and then
+7:34
+n those counts are what goes in the um as the matrix elements there so let us
+7:42
+let's call this lyrics sparse so no longer do we have tidy lyrics now we have sparse lyrics so uh it doesn't have
+7:49
+a very good um print method but i can so if i print it out it'll just um
+7:55
+well i'll show you so you know you know it looks like this so we have all the dots are um uh
+8:03
+zeros but a sparse matrix doesn't keep track of zeros explicitly it keeps track
+8:09
+of um where the elements are for because uh because for very sparse data it's more
+8:14
+efficient to keep track of like um at i j this value i have a one you know versus
+8:22
+keeping track of the whole matrix so we've the rows are the songs and the um
+8:27
+columns are the words and so this is kind of a not so great printing but it
+8:32
+kind of gives you an idea of what it um what happens um so
+8:38
+like what our dimensions here so if i look at the dimensions of the
+8:43
+sparse matrix we've got um 31 rows because we have 31 songs and then we
+8:48
+have 979 um uh columns because that is how many um
+8:57
+that's how many words we still have in our data set after um after removing stuff words we could you
+9:03
+know maybe like do a filter on the low end but that might be something we could try to
+9:09
+improve the improve the um quality of our topic modeling but let's it's not a huge number of terms so let's
+9:16
+keep going from here so now it is time for the topic modeling so my favorite
+9:21
+implementation right now of topic modeling in r is the stm package so if we load it
+9:29
+the main the main modeling function is just called scm so
+Topic models
+9:36
+it so what a topic model um
+9:42
+the way it works is it it models um each document that we have so each song
+9:48
+as a mixture of topics like it could say be all topic one or like a mixture of
+9:55
+topic two and topic three and then eight models each topic as a mixture of words
+10:00
+so the words contribute to different amounts to each topic and the same words
+10:06
+can go into different topics so that that's how a topic model works
+10:12
+so let's so we've loaded it let's let's get this started so we call that stm function to train this model the first
+10:19
+thing we pass in is our sparse matrix like this and then the other like the
+10:24
+main there are there are a lot of other options here but they work you know pretty well in their defaults the main
+10:30
+other thing we need to find decide what we want to do is k so if we scroll down here scroll scroll
+10:37
+scroll lots of documentation here i just want to emphasize this the most
+10:42
+important user input in parametric topic models is the number of topics so this you can think of it as
+10:50
+an analogy to k-means where you don't know ahead of time what the right value for k
+10:56
+is you have to use um some knowledge about the data set that you have some knowledge about um
+11:03
+[Music] uh you know like like how much data or whatever it's like to decide this um you
+11:10
+have to put it in ahead of time so there's you know there's some um
+11:15
+you know some kind of some guidelines here um this is a tiny tiny data set so
+11:21
+let's just do four topics here let's call this the um the topic
+11:27
+model like that um and i i do have an older blog post that
+11:33
+walks through you know if you you don't know like you're you're somewhere in here say you've got you know like 10 000 documents instead
+11:40
+of the 30 you know that we have and you're like i don't know should i you know should i be more like
+11:46
+50 or should i be more like 100 you the way to find that is to train topic
+11:51
+models at different values and try them all and then see which ones have the best um characteristics which models
+11:57
+have the best characteristics so let's this is super tiny so let's just do it one time so it's starting
+12:03
+and it's done so this i mean this is so little data that is like super duper um best here
+12:09
+so if you want to get a quick a quick glance at what um the topping
+12:15
+model is like like the results that we got you can call summary on the topic model so you know it tells us some
+12:21
+things about it yes we had four topics we you know have this many songs and
+12:27
+this is how many terms tokens or words that we have in there and then it kind
+12:32
+of gives us a little bit of like some some insight into our four topics that
+12:38
+we have here you know the topic one is about um get wanna time night right and
+12:44
+topic two is pretty different it's about dance generation um yeah
+12:50
+um uh love you know like so these are those are like diff there are different
+12:56
+words here so the summary is good if you have um just you just want to do some like quick
+Tidy
+13:02
+exploration but you know just kind of like a quick glance but if what you want to do is more detailed exploration then i think
+13:10
+what you want to do is you want to tidy so there in a in a topic model there are two sets of
+13:17
+output you can get when you tidy the topic model topic model like this and so
+13:24
+basically we're going to get a tidy format of two matrices and we have to choose so if we
+13:30
+say tidy matrix equals beta what this is is this is the set of topic word
+13:37
+probabilities so for each topic what is the probability that we get each of
+13:42
+these words and these words you know like the words that are lower here so let's do this so let's call this so
+13:49
+this is um this is song topic probabilities
+13:55
+here so what we get here is in a tidy format um for all four topics each word
+14:03
+is gonna be here and we're gonna see the um the probability here so let's look at baby here
+14:09
+notice that baby is very low the probability is very low in topic three
+14:16
+pretty low in topic four and not so low in topics one and two so
+14:22
+each topic each document is modeled as a mixture of topics and each topic is modeled as a
+14:29
+mixture of words and so we kind of see that here so if we want to um you know we can now
+14:35
+that we have this we can do anything we want with it like um you know we can compute on it in any way
+14:40
+we want we can find we can look for any word that we're interested in we can summarize it we can visualize it so for
+14:48
+example let's take by topic let's take the top the top
+14:55
+so this beta that's the probability the um the topic word probability let's take
+15:02
+the top 10 for each one of these like this so now we just have 40. let's ungroup
+15:10
+and then let us um let's change um let's do term fact
+15:18
+reorder so that it is term beta like that
+15:24
+and uh topic let's make that one i'm getting ready to make a visualization so that's
+15:29
+why i'm doing this let's like paste so that it's a topic
+15:37
+topic like that here so topic 1 and so forth and so this is a factor now
+15:45
+so that we can visualize it the way that we want and then let's pipe that into gigi plot so
+15:51
+the aesthetics we're going to put beta on the x-axis let's put term
+15:59
+on the y-axis and let's say fill equals topic
+16:04
+and then let's say let's make this a bar plot
+16:10
+like so and let's say facet wrap vars
+16:16
+topic topic [Music] and yeah i think that's that's it right
+16:27
+ah okay so we gotta do scales equals three y
+16:33
+let's make this better in another couple of way is ways also so x we can say expression
+16:40
+equals beta like that and that'll give me the actual greek beta which is kind of nice i think it's pretty obvious
+16:46
+those are terms so we don't need to put those there that looks pretty good
+16:52
+i like that pretty well yeah so that's that's that's pretty good okay so we can see here
+16:58
+so the reason why these are in um uh you know like not smooth order but
+17:04
+like like wanna love and um love is here so that's why these
+17:10
+are kind of like not in totally smooth order we could instead say um
+17:16
+um i think we could say how would we do this so instead of doing
+17:24
+this because there's a there's uh some helpers for visualizing things like this
+17:29
+we can say reorder within and we're reordering term
+17:35
+um [Music] by beta within topic that's how it goes
+17:41
+and then we need then to say scale y reordered like that
+17:48
+so now they're all smooth um you know um which looks a little nicer okay so topic
+17:55
+one get one a time night right and then down topic four law
+18:00
+never love give time no so we've got these sort of different sets of words that have been learned um
+18:06
+that that um that that that go together you know like these sets of four topics that are here
+18:13
+so each song is um you know more
+18:18
+is a mixture of some of these topics and then each um each topic is a mixture of these words here so let's um so if we
+18:26
+were interested in that the next thing we want to do is we want to get the other matrix out so this is um
+18:32
+song so this is document topic i'm sorry so this is this should be
+18:39
+word i'm sorry word topics
+18:44
+word topics word topics and then this should be song topics
+18:51
+and let's tidy the topic model
+18:58
+and let's say in the this matrix is called gamma and so the gamma probabilities are the um
+19:05
+the document topic probabilities and we actually have to give the document names
+19:10
+here row names the lyrics sparse for that to work
+19:17
+or else it won't know the names of the documents because it's not stored inside of the model
+19:23
+all right so we so now we can look at what that is so this is for each document and topic
+19:30
+what is the probability of that document being generated from that topic so it looks like two become one is from topic
+19:37
+one here so we can make another visualization here um let's let's see song topics how should
+19:45
+we do this so let's um let's let's um
+19:51
+me let's change this um [Music]
+19:57
+so that document let's reorder it
+20:03
+by um
+20:08
+uh gamma i think let's do this and then let's make um topic
+20:17
+factor topic so i think what this will do is it will reorder so we'll get at
+20:22
+one end of our plot we'll get the dot the songs that are more um
+20:29
+more all one document because i'm rewarding by the probability and at one end of the plot
+20:35
+we'll get the ones that are more um that are more
+20:40
+uh a mix of topics more a mix of topics all right so let's do this so let's put
+20:48
+um uh what do we put on let's do like topic
+20:54
+gamma fill equals topic [Music]
+20:59
+geom call like this and we will facet
+21:07
+wrap vars document
+21:12
+like this so we're going to get a little plot showing how for each song what um
+21:20
+what uh how much how much each topic contributes to it so let's give this a try
+21:30
+well that's right but i think it's a little hard to read like that let's do
+21:35
+um let's switch it let's put this one
+21:41
+let's switch the orientation there and let's see what else do we need to say let's say labs
+21:48
+so now x will be where the gamma is
+21:54
+and this i think is topic that's may that might be pretty clear but i think that'll be
+22:00
+helpful and let's say and call let's let's say end call equals four i
+22:07
+think that will be better oh and call
+22:13
+i put it in the wrong place it goes here
+22:19
+okay okay there we go all right i think this is
+22:26
+pretty good this is a little bit um busy
+22:31
+but you know uh this data set is kind of at a good um breaking point in that we can um
+22:39
+we can put all the documents on one plot it's a little busy but we can look at them so up in the top we have the songs
+22:47
+that are basically mostly one topic so um you know and
+22:53
+spice up your life never give up on the good times let's see if i can make it so we can see all the
+22:59
+yeah there you go um these are from the same topic and like viva forever but saturday night divas
+23:06
+wannabe last time lover these are from a different topic um we have um
+23:12
+paula or who do you think you are and so forth so but if we as we move down down to this corner you know down to towards
+23:19
+this time this this side of the plot we have the songs that are a mix of topics
+23:24
+and um so it's it's possible for you know it to be like get down with me is almost all one topic with tiny bits
+23:32
+of other topics or um you know weekend love is like
+23:37
+mostly two topics so this is how a topic model works you've got documents they are you model them as as a mixture of
+23:45
+the topics that you have and then as we saw before the topics are made up of words
+23:51
+so that's um so that's uh that's that's the results there there's
+Estimates
+23:56
+actually a ton more you can do with topic models like and since we we can
+24:02
+actually like join back to any metadata we have so you can explore this in so many ways um one of the ways that
+24:10
+you can do this is by using estimate estimate effect so the way this works is
+24:16
+we call that function and um we we put in a formula that looks like
+24:22
+um that looks like this where and what we're doing is we are
+24:27
+i'm going to predict for the topics for basically for the proportion
+24:33
+of each document that's about a topic are they um
+24:38
+uh can we predict that with some kind of you know covariate some kind of metadata
+24:45
+so let's look what was it called album name so remember album name didn't go into this model at all so what we're
+24:51
+doing is we're basically asking the question do the topics in spice girls songs
+24:58
+change across albums like is there evidence that it's associated with album like their album to album differences in
+25:04
+the topics so this is this is what we're the these are the models that we're gonna fit we are gonna you we need to
+25:10
+pass in our topic model and then we need to um pass in some uh like basically data that has the this
+25:18
+metadata in it so that we can connect the documents to the um
+25:23
+to the songs so if we say lyrics if we say distinct
+25:30
+um album name song name i think
+25:36
+this should do it although the song names
+25:42
+are not no that won't do it um they're not they're not right let's
+25:49
+do it from tidy lyrics
+25:57
+and let's say um let's say song name first and then album name
+26:02
+like this distinct song name album name okay
+26:08
+uh let's let's remind ourselves okay what we need to send in
+26:15
+the metadata okay where all predictor variables and formula can be found okay
+26:22
+yes all right that's what we want actually maybe i only need to send in the album
+26:29
+but that needs to be in the same order okay so what is the
+26:34
+order of row names lyric sparse
+26:43
+like that okay it's in alphabetical order which makes sense so we need to do
+26:51
+this and then we need to arrange by song name
+26:57
+like that so now this will work like this so this
+27:03
+we can put here so that's our metadata so let's call
+27:09
+this effects so this
+27:15
+here are the models we're going to fit on the proportion of each topic that belong that's uh for each document
+27:22
+here is the um the thing we're using as a predictor the topic model
+27:27
+um it needs a topic novel model to be able to find out you know that stuff to be
+27:33
+able to make the model and then this is our metadata that we have here so let's do that let's let's
+27:39
+go ah and it went so fast right so fast so again if we want we can use summary
+27:45
+to get a quick glance and let's look at this
+27:50
+so topic one huge p-values topic two enormous
+27:57
+again again the intercept is significant but
+28:02
+you know we we don't so that um
+28:09
+so we're seeing that intercept but we don't see that these that we so that we see a change there with the album name
+28:15
+so we're not really seeing that um that evidence there so let's say tidy effects
+28:21
+like that and so we we can we can use if we so summary is good for taking a look and
+28:28
+tidy is good if you want to compute on this so here what we have is the um you know the values for all these intercepts
+28:35
+and then we have the values for the terms that we were using so of the three albums the first one forever or i mean
+28:43
+it's not the first one but the one with the first um letter in the alphabet will be the first level and then we're
+28:48
+comparing that to that and we we see you know these very big p values saying that we don't see
+28:54
+evidence here of album to album differences in the topics in the spice girls lyrics so to
+29:03
+sum up it seems like the spice girl's saying about the same topics from album's album
+Conclusion
+29:09
+all right we did it um with larger data sets of course it is much more computationally intensive to train these
+29:15
+topic models um but uh they're a really great approach when you have
+29:21
+text with no labels on it and you have some kind of um you want to learn about
+29:27
+the semantic content of them like what are people talking about what's going on in this text and and you have there are
+29:34
+there are many options of things you can do with the model after it is trained you can you know we we talked about
+29:41
+looking at uh metadata associated with the documents and um using the you know
+29:47
+estimate effects like how how are the the topics related to the metadata um
+29:53
+you know there's there's all kinds of other things you can do with the topics afterwards because you know like
+29:59
+documents are related to topics topics are related to words and and it's super flexible and helpful and is an approach
+30:06
+that i have found useful in my real world world work i'm actually slightly too old to have
+30:13
+really experienced the peak of spice girls
+30:19
+mania but it was really fun to be able to work on this this project today i hope it was helpful
+30:26
+and i'll see you next time
+

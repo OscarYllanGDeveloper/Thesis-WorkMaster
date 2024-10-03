@@ -1,0 +1,10 @@
+
+from transformers import pipeline
+
+# Initialize pipeline
+classifier = pipeline('sentiment-analysis')
+
+# Use the pipeline
+result = classifier('We are very happy to introduce pipeline to the transformers repository.')
+
+print(result)

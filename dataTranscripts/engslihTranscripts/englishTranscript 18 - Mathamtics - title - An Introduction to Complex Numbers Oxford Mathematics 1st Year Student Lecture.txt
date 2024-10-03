@@ -1,0 +1,788 @@
+0:02
+[Music]
+0:27
+morning everyone we're on complex numbers so just at the end of the last lecture we were thinking
+0:34
+about the arguments of a complex number and I'd like to keep going from there a little bit so sort of thinking about
+0:39
+Cartesian coordinates polar coordinates and it's really important that it's convenient to pass between the two of those so here is a useful thought so we
+0:53
+can pass between Cartesian and polar
+1:04
+coordinates so here's my kind of picture
+1:12
+of what I'm doing so this is my Argand diagram my complex plane here is some
+1:18
+little complex number which I might think of as having Cartesian coordinates a comma B or I might think of as having
+1:28
+modulus R an argument of theta and I'd like to know if I know a and B can I find our own theta if I know our theta
+1:34
+can I find a and B that's the kind of point here so if Z which is a plus B I
+1:42
+has modulus and argument theta then we
+1:52
+can find a and B so maybe I will draw this on here in another color for you so this is just a little bit of
+1:58
+trigonometry so this bit is R cos theta
+2:03
+this is a this is B sine theta sorry R sine theta try that again which is B so
+2:13
+a is R cos theta and B is R sine theta
+2:21
+so one kind of way of thinking about that said then is to think of it as being R times cos theta plus I sine
+2:29
+theta which is a representation that we find coming up in various contexts in
+2:37
+the other direction if Zed is a plus bi and to find R and theta well
+2:44
+we know how to find our just by the definition so R is the modulus of Z is two by root of a square plus B squared
+2:52
+that's how we defined it and also again looking at the diagram tan theta is B
+3:00
+over a at least in the case when it's not zero I'm very scared about the
+3:06
+possibility of dividing by zero I don't want to risk it but as long as a is not zero then B over a is going to give me
+3:12
+tan theta and from that I can kind of recover theta but as we know there's this sort of ambiguity about what theta
+3:19
+is because if you have some argument theto well theta plus 2pi or fita plus
+3:24
+any integer multiple of two pi will also be a valid thing and that's reflected in the fact that there's not a kind of
+3:30
+unique inverse here so I'll just put determining theta is delicate so in
+3:38
+practice this is not a problem you just need to kind of have your wits about you a little bit so I want to know what
+3:46
+happens when we multiply we saw that we could interpret addition of complex numbers geometrically with that kind of vector addition parallelogram diagram
+3:52
+what happens with multiplication where we know what happens to the modulus when we multiply that behaves nicely what
+3:58
+happens with the argument so this is Proposition five and this as take Z and
+4:08
+W in the complex numbers but not zero then so remember the arguments of zero
+4:15
+isn't defined so I want to ignore that the argument of Z times W is equal to
+4:21
+the argument of Z plus the argument of W so a couple of little comments here one
+4:29
+is that here we're working with arguments modulo two pi so this idea that these two are equal up to some
+4:35
+multiple integer multiple of two pi so it's important that we remember that so this is working we've
+4:45
+arguments modulo two pi the other is
+4:52
+that you've seen this kind of relationship before this looks a bit like a logarithm right that's not a
+4:57
+coincidence there are no coincidences in mathematics so maybe I'll just note here this looks a bit like log it looks like
+5:05
+log that's very pleasingly alliterative so let's think about how we're going to prove this so this is not too bad
+5:10
+actually given this kind of thinking that we've been doing up here so if I let theta be the argument of Z and Phi
+5:19
+be the argument of W I hope you're making good progress with learning the
+5:24
+Greek alphabet I'm not fantastic with every Greek letter a feature of fire really good Greek letters to know so
+5:31
+then what we've just said is that Zed is going to be the modulus of Z at times cos theta plus I sine theta and W is
+5:40
+going to be the modulus of W times cos Phi plus I sine Phi so we can just
+5:48
+multiply so Z W is the modulus of Z
+5:55
+twice the modulus of W times cos theta plus I sine theta times cos Phi plus I
+6:04
+sine Phi and I can do some tidying up here so one thing is that I know what
+6:09
+happens with this multiplication for the modular so that's the modulus of Z W
+6:15
+I'll write it that way around and I guess we're using proposition three here I'm not going to record every time you
+6:21
+use proposition three for the rest of all time because it's just going to come up so much but I'll just note it here to remind you and if I multiply out here I
+6:29
+get cos theta cos Phi minus sine theta sine Phi that's coming from these terms
+6:35
+plus I times cos theta sine Phi plus
+6:42
+sine theta cos Phi and hopefully you
+6:48
+might recognize these from your kind of compound angle formula in trig so this is the modulus is there W times cos of
+6:57
+theta plus Phi plus I times theta plus Phi and so we
+7:04
+can read off immediately that the argument there w is theta plus five
+7:10
+which is the argument of Z plus the argument of W of course it's not a coincidence that the trick here works
+7:16
+out nicely right so we can use this to make sense of multiplication in a
+7:23
+geometric way so remark we can interpret
+7:31
+multiplication in C geometrically so
+7:44
+multiplying by a nonzero complex numbers
+7:51
+that multiplying by zero it's not so exciting multiplying by some nonzero complex number Z that rotate the complex
+8:00
+plane I'll move over here anti-clockwise
+8:13
+by the argument of Z this is a consequence of that proposition we just proved and it enlarges by factor the
+8:26
+modulus of Z and that sort centered on the origin so there is a nice way to
+8:32
+make sense of multiplication without geometric view of complex
+8:37
+numbers as well as algebraically so we're going to find ourselves using this proposition lots okay I want to
+8:44
+introduce you to some particularly nice complex numbers they're called the unit circle so definition the unit circle in
+8:58
+C I'm defining unit circle it's kind of what you expect but I'm also telling
+9:05
+this because I want to tell you that it gets called s 1 and s 1 is defined to be the set of all Z in C such that the
+9:12
+modulus of Z is equal to 1 so geometrically it's a circle of radius 1
+9:19
+centered on the origin and what we've just noticed is that we can write that
+9:25
+in another way so here are a few little remarks about the unit circle so we've just seen essentially that s 1 is also
+9:36
+the set of all cos theta plus I sine theta where theta is real so that would
+9:43
+be another way of thinking about it here is an amusing and really surprisingly
+9:50
+useful facts about numbers in the unit circle so if I take Z in s 1 what is the
+10:00
+inverse of Z well we know that Z times Z bar is the modulus of Z squared if
+10:06
+you're on the unit circle and modulus is x squared is 1 so Z times Z bar is 1 in this case so the inverse of Z is its
+10:13
+complex conjugate cute also useful and this is also going to lie in the unit
+10:20
+circle so the unit circle has all sorts of nice structure within itself and in
+10:26
+fact s 1 is a group under multiplication
+10:31
+this is not the time to tell you what a group is there's a course on that it's called groups so in February some person
+10:43
+will introduce you to groups in the course of groups and group actions and your meter s1 is an example so this
+10:49
+thing about the inverse is relevant there are some other things that go into that the thing to remember here is the unit circle is a kind of importance and
+10:55
+interesting object it has kind of structure so here is a really super
+11:02
+exciting results about numbers in the unit circle this is a theorem and it's
+11:08
+called de moivre's theorem
+11:16
+and this is going to be imagine familiar to quite a few of you but I might not be
+11:22
+phrasing it necessarily in the way that you're used to so for Z in the unit circle and any integer n remember this
+11:33
+just means n is any integer we have that
+11:38
+the arguments of Z to the N is n times the arguments of that so this
+11:47
+proposition is a very special kind of it's kind of related to this we're going to be using this proposition to feed
+11:53
+into it but this is kind of helpful so you might be more familiar with equivalent formulation equivalently for
+12:02
+Peter in R and N in Z we have that cos
+12:12
+theta plus I sine theta to the power n is cos of n theta plus I sine of n theta
+12:22
+so definitely when I first learnt about dwarf semi-loads West in this form but
+12:28
+this form is a really helpful way of thinking about it so I encourage you to think about why these are saying the
+12:33
+same thing because if you understand why the same same thing that's a really good way kind of sign that you are understanding the theorem so let's prove
+12:41
+this so I'm going to fix some Z in s1
+12:46
+and show that the theorem applies to this set and for N greater than or equal
+12:51
+to zero so for non-negative and I'm going to use induction on n and I'm going to write that down because it
+12:58
+helps the reader so know that we go to use induction so for N greater than or equal to zero we use induction on n so
+13:09
+my base case is n is 0 and that's just a quick check so Z to the 0 is equal to 1
+13:18
+so the argument of said to the 0 is 0 is
+13:23
+n times the argument of Zed in this case so that was important or they're not super exciting more interestingly let's
+13:30
+think about the inductive step so let's
+13:37
+suppose the result holds for some N
+13:47
+greater than or equal to zero so we've got some fixed value of n where we're supposing it holds so we're saying that
+13:54
+the argument of Z to the N is equal to n times the argument of Z and now we want
+14:01
+to think about the arguments are said to the N plus 1 so let's do that over here so then the argument of Z to the n plus
+14:11
+1 I want to relate to the argument of Z but I can do that using Proposition 5
+14:17
+which tells us that that's the argument of Z to the N plus the argument of Z so
+14:23
+I write down that's my proposition 5 and
+14:28
+then we know about the argument of Z to the N because that was our induction hypothesis so this is n times the
+14:35
+argument of Z plus the argument of Z by the induction hypothesis and that's
+14:48
+equal to of course n plus 1 times the arguments instead so we've shown that
+14:54
+the result holds for n plus 1 so that's
+15:01
+an inductive proof that shows us that this relationship works for n greater than or equal to 0 now I want to think
+15:08
+about negative N and one possibility
+15:15
+would try to be to do a kind of induction downwards that could be a useful strategy but actually I think we
+15:21
+can just use the result for positive values so for n great less than zero we use the results for positive n so this
+15:29
+can be a nice strategy to kind of use work you've already done to save
+15:35
+yourself a bit of effort so if I fix some negative n I'm going to let M be
+15:41
+minus n so of course M is then positive so by our previous result so we know
+15:49
+that the argument of W to the M is M times the argument of W for any W in s
+16:01
+one that's using the result for M which is a positive value so that follows from
+16:07
+our previous part so we just need to think about how we're going to apply this well let's think about Z to the N Z
+16:16
+to the N is Z inverse to the power M that would be another way of rewriting it and Zed inverse I noted in my kind of
+16:23
+fun facts over there was the complex conjugate of Z so we're going to be able
+16:28
+to apply this result with W being the complex conjugate of Zed I quite like to
+16:34
+know what the argument of the complex conjugates of Zed is but if you ponder
+16:39
+that for a moment you'll see that it's minus the argument of set again everything is modulo 2 pi here so the
+16:48
+argument of Z to the N is the argument of Z bar to the M which is M times the
+16:56
+argument of Z bar which is M times minus
+17:02
+the argument of Z which is n times the argument of Zed so that proves the result for negative
+17:08
+values using the results for positive values so tomorr serum it's just kind of
+17:15
+somehow utterly fundamentally gets used Lots here is a specific example of a
+17:21
+kind of classic way in which it gets used namely a trig compound angle
+17:30
+formula
+17:35
+so by de Marv for any feature in our we
+17:45
+know that cause of three theta plus I
+17:52
+sine of three theta is cos theta plus I
+17:57
+sine theta cubed that's from that kind of equivalent formulation my goal here
+18:05
+is to find some nice formula for cos of three theta in terms of cos theta for sine of three theta in terms of sine
+18:10
+theta so I'm going to expand this out so this is a binomial theorem and kind of
+18:16
+tidying up and I think I'm going to get cos cube theta minus 3 cos theta sine
+18:23
+squared theta plus I times 3 cos square
+18:32
+theta sine theta minus sine cubed theta
+18:39
+so that's just by multiplying out I've had quite a lot of practice at multiplying out cubes and I'm just
+18:47
+trying to tidy up the real and imaginary parts as I go a lot so comparing real
+18:54
+and imaginary part gives that cos of 3
+19:08
+theta is cos cube theta minus 3 cos
+19:15
+theta sine squared theta and then I got a formula for sine square theta in terms
+19:21
+of cos theta right so I could kind of keep going and tidy up and I could write out some kind of corresponding formula
+19:28
+for sine 3 theta and again tidy that up so I'm going to let you do that tidying
+19:35
+up what we have a short pause I also have one other thing for you to do in this short pause at the end of each of
+19:42
+your lecture courses this year will give you a paper questionnaire towards the end of the course so that you could give
+19:47
+some free back on how you found the course how you found the lectures and so on so that we can then as a department use that to improve teaching for next year even
+19:54
+though it's only Thursday if week one this is in fact the last lecture of this course officially which means it's
+20:01
+questionnaire time so I'm going to put some piles of these in strategic places if you could pass them along so
+20:06
+everybody gets a questionnaire that would be great if you want to fill it in during the lecture you can and if you just need two piles one at the top there
+20:13
+and one of the top there I'll collect them at the end if you prefer to fill it in later you can also return it directly to the Academic admin team who are the
+20:20
+people who process them so this is your opportunity to give some feedback on the very short complex numbers course ok the
+20:27
+questionnaires are making their way around so if you couldn't if you could concentrate on keeping the momentum going passing those around that would be
+20:32
+great so that everybody gets them I will try to remember in a couple of minutes to check that everybody's got them but
+20:38
+hopefully that's given you a little bit of a chance to think about these trig formula especially if this isn't something that you've thought about before let's keep going over here
+20:46
+because excitingly it's time for endless roots of unity so here is a definition
+20:57
+so if Z is a complex number n is a
+21:03
+strictly positive integer which you might call a natural number but somehow we can't decide whether or not 0 is an
+21:09
+actual number and I don't have an argument about it so I'm just trying to be unambiguous and Z to the N is equal
+21:15
+to 1 then we say that Z is a root of
+21:25
+unity or more precisely an nth root of
+21:32
+unity
+21:39
+well I learnt about this stuff I think I remember kind of thinking over its immunity that sounds really cool and
+21:44
+then unity turned out to be one and it's sort of slightly less traumatic than I expected but roots of one are still pretty good there are lots of
+21:51
+interesting things to explore for example proposition seven tells us which
+21:58
+numbers are in fact roots of unity so we can become pinpoint where these things are without too much difficulty so let's
+22:06
+take Z in C then Z is an nth root of
+22:15
+unity if and only if and I've got two
+22:25
+conditions here one on the modulus is said and one on the arguments of Z so I need the modulus is there to be one and
+22:32
+the argument of Z to be 2k PI over N for
+22:40
+some integer K so this precisely
+22:46
+describes what the nth roots of unity look like so let's prove proposition
+22:51
+seven and you'll notice the proposition seven is an if and only if statement so it's really two statements packaged as
+22:57
+one let's prove the two separately and try to help you see what's one we're doing I find it helpful to write these
+23:04
+little kind of implication arrows and brackets when I'm doing this for my own benefit I do this not just for you so we're going to do the left to right
+23:10
+first so there we're going to suppose Z
+23:15
+is an nth root of unity
+23:22
+so we're supposing that Z to the N is equal to one and then we want to deduce
+23:27
+kind of interesting things well we can say something about the modulus straightaway the modulus of Z to the power N is the modulus of Z to the N is
+23:35
+1 and the modulus of Z is strictly
+23:42
+positive so the modulus of said better
+23:47
+be equal to 1 so modulus is said it's just a real number here and by tomorrow which conveniently we've
+23:56
+just proved and cover by tomorrow , the
+24:02
+argument of Z to the N is n times the argument instead but we know that Z to
+24:07
+the N is equal to one so the argument of Z is the argument of 1 over N and now we
+24:16
+have to concentrate because there's a little subtlety here because we're working with arguments modulo two pi so
+24:21
+if we tempted say the argument of 1 is 0 therefore this is 0 and that wouldn't be correct all we know is that the argument
+24:28
+is 0 plus an integer multiple of 2 pi so what we know is that this is 2 K PI over
+24:34
+N for some integer K and that gives us
+24:40
+what we were looking for the other direction let's get rid of these smudges
+24:45
+for you the other direction so now we're going to suppose that the modulus of Z
+24:52
+is equal to 1 and the argument of Z is 2 K PI over N for some integer K so then
+25:06
+what can we say about the modulus of Z to the N well that's the modulus of Z to the N is 1 we like modulus modulus works
+25:14
+out really nicely and also the argument
+25:20
+of Z to the N is n times the argument of said is 2 K pi so what's that telling us
+25:30
+it's telling us that Z to the N has the same modulus and argument as 1
+25:45
+so in fact Z to the N is equal to one so Zed is an nth root of unity and that
+25:50
+finishes our proof if I carry on over here so one small observation from
+25:59
+proposition seven so remark proposition
+26:05
+seven shows but roots of unity lie in S
+26:15
+one they lie in the unit circle and that's the kind of handy thing to be aware of occasionally right how are we
+26:22
+doing on questionnaires can you please put your hand up if you do not have a question that interesting because you
+26:28
+please put your hand up if you have some spare questionnaires okay the people who
+26:42
+didn't have questionnaires we're over here somewhere oh thank you more questionnaires why if you need a questionnaire okay so I'm
+26:52
+going to send something this way in some this way and it would be great if you could sort them out amongst yourselves and hopefully there are enough so cute
+27:08
+consequence of Proposition seven is that we can count and through its of unity so
+27:14
+I think maybe I said on Monday a corollary is a quick consequence or
+27:19
+something you've already proved so corollary eight says for N greater than
+27:26
+or equal to one there are exactly n nth
+27:32
+roots of unity and that's quick to prove
+27:38
+from proposition seven because we know what the nth roots of unity are so by
+27:44
+proposition seven the nth roots of unity
+27:49
+ah so one way of writing them would be as
+27:55
+cause of two K PI over n plus I sine of
+28:00
+two K PI over N for any K in the integers that makes it look like there
+28:07
+are lots of them but of course there's lots of duplication here so there are ah and such distinct values
+28:24
+eg we could choose K to come from a 0 1
+28:32
+up to n minus 1 so that was a handy
+28:39
+consequence it's good to know not only where they end through T and TR but that we've got n nth roots of unity that's a
+28:45
+good thing to know there are some n3 to unity they're even more exciting than others there are some n3 to unity that
+28:52
+are nth roots of unity but aren't smaller roots of unity aren't m through two of unity for smaller m and they're
+28:57
+particularly important so they get a special name so this is a definition so
+29:06
+that said be an nth root of unity if Z
+29:17
+to the M is not equal to 1 for 1 less than or equal to M less than or equal to
+29:23
+n minus 1 then we say that Z is a
+29:32
+primitive nth root of unity
+29:44
+and these kind of have connections with things from group theory and other other things that you will see that was very
+29:50
+strange noise other things that you will see this year so a primitive nth root of unity is like n is the first power of
+29:56
+Zed where you get one so here is a proposition that is useful and certainly
+30:05
+applies to primitive roots of unity although it applies a little bit more generally than that as well so if Z is
+30:12
+an nth root of unity for some and
+30:22
+greater than or equal to two and Zed is not equal to 1 then Z to the power n
+30:30
+minus 1 plus Zed to the power n minus 2 plus dot plus Z plus 1 is equal to 0
+30:39
+there's just the kind of thing where if I were working on these lecture notes this afternoon thinking about there might be thinking oh why he excluded the
+30:46
+case when N equals 1 what was special about that that kind of why the hypotheses there that's the sort of question that you could be asking
+30:52
+yourselves so this is not too tricky to prove because we know that 0 is set to
+31:02
+the N minus 1 we're assuming the Zed is an nth root of unity and we can factorize Zed to the N minus 1 if this
+31:09
+factorization is not second nature to you I invite you to think about it because it's a really useful
+31:14
+factorization it kind of generalizes difference of two squares and in fact
+31:20
+it's this and Zed it's not equal to one
+31:30
+and that's the end of the proof so this is not super difficult but it's kind of
+31:36
+useful it's it's a nice result so this starts to have some nice consequences geometrically for example when you're
+31:42
+thinking about roots of unity okay I
+31:47
+want to think about another way to represent complex numbers we sort of thought about modulus argument to be
+31:53
+thought about this Cartesian coordinates kind of way there's another very useful way of
+31:58
+writing them which comes from the following fact which gets called Euler's
+32:04
+formula at least sometimes and this says for theta in R we have e
+32:17
+to the I theta is equal to cos theta plus I sine theta well you take 10
+32:26
+seconds to just absorb how lovely that is how we do the questionnaires please
+32:31
+put your hand up if you do not have a questionnaire result break it now you
+32:38
+will notice that I have labeled this as fact rather than theorem or any of those kinds of things this looks a lot like a
+32:44
+thing that needs proving right and it doesn't need proving but in order to prove it we first need to find the
+32:49
+exponential in the cosine and the sine and since we haven't done any of those things we're not in a very good place to prove this deplaning the exponential is
+32:56
+something you will do an analysis this year and also cosine and sine once you've learned how to add up infinitely
+33:01
+many things in a safe controlled manner it's very important to be careful when adding up infinitely many things once
+33:07
+you have kind of got your license that you are safe to do that you can think about the exponential and then you'll be able to think about why this is true so
+33:13
+I just put a little bit more in the online notes so if you want to kind of read a little bit more about that have a look at the online notes but we're just
+33:19
+going to kind of accept this as a fact for our purposes so here is a remark
+33:25
+this gives a very convenient way to
+33:35
+represent a complex number
+33:45
+so if Zedd has the modulus is that is
+33:51
+our and the arguments of Zed is theta
+33:56
+then Z is our e to the I theta when I
+34:03
+started learning about complex numbers I definitely thought about the most in that a plus bi form and then I think
+34:10
+when I was doing a level kind of studying a bit further I thought about them more in the R times cos theta plus
+34:15
+I sine theta form and I probably think about them more in this form now so I
+34:23
+went to stress that this is very convenient so I'm going to put flashing neon lights to remind you so if this is
+34:32
+relatively new it feels a little bit uncomfortable it feels natural to go back to your old ways of thinking about it that's that's what we do when we meet
+34:39
+something new is kind of try to see what can we keep going with the old way this has lots of advantages I really
+34:44
+encourage you to to look for opportunities to practice working with this way of thinking about it so you become more fluent
+34:50
+for example proposition 10 so
+35:03
+proposition 10 says take Z a nonzero complex number and you'll see why I want
+35:09
+it to be nonzero Z in C but not zero
+35:17
+then Z has exactly n nth roots so for
+35:29
+any N greater than or equal to one so we thought about roots of one right
+35:36
+proposition no corollary eight so he said there are exactly n nth roots of 1
+35:42
+this is generalizing to they're exactly N and through 2 of any nonzero complex number which is kind of nice so let's
+35:51
+prove this so I'm going to do this in three parts and I go any kind of bullet
+35:57
+point what the sections are to try to help you see what the structure is clearly so the first part is that there's at least
+36:03
+one and fruit right at the start it's
+36:09
+not completely clear that there is at least one and fruit so if I let R be the modulus of Z and theta be the argument
+36:18
+of Z so Z is our e to the I theta I can
+36:25
+sort of stare a set in this for me guess what an N through might be so there is a
+36:34
+in fact unique positive real s such that
+36:45
+s to the S to the power N is equal to R
+36:50
+so this is since R is greater than zero how do we know this is true by analysis
+36:56
+so I'll just put C prelims analysis you will think about why you can do this in
+37:02
+that course so that's going to be the modulus of my proposed route and now I'm
+37:09
+going to let Phi equal theta over N so
+37:17
+if I let W be equal to s e to the I Phi then TT W to the end when you do a quick
+37:25
+calculation you see is equal to Z so there's definitely at least one route
+37:33
+now I'd like to show that there are in fact at least N and fruit how do you
+37:42
+show that there exactly n of something you show there at least end of something you say there at most n of something that could be a useful strategy so I
+37:48
+want to show that there are at least n route so I get to take W as above so W
+37:55
+is a fixed end fruit I can get a whole bunch more nth roots by multiplying by
+38:01
+an nth root of one so if I let alpha be an nth root of unity
+38:11
+then you do a quick calculation and you realize that alpha times w e to the
+38:16
+power n is also equal to z so alpha W is another root of Z and by corollary 8
+38:24
+there are n such alpha giving well at
+38:33
+least and distinct nth roots of Z so
+38:45
+this says I can think of n distinct tenth roots of Z we haven't shown that there aren't some or maybe there's some
+38:50
+more that have some other form of course there aren't that's what we're about to prove but that's why we kind of structuring it like this if I carry on
+38:56
+over here for the third bullet point the third bullet says at most n nth roots so
+39:10
+if I again take W as a bar so W is my fixed and through suzette I want to show
+39:17
+that any nth root of Z must be a root of 1 times W that would do it so if I let u
+39:24
+be an nth root of Z then my secret aim
+39:32
+if you like is to show that you must be W times some root of n throughs of unity
+39:38
+well we know that W to the N is said and that's also u to the n that wasn't a
+39:44
+very good ending which try again and that is not 0 so W it's not 0 so I can
+39:54
+do u divided by W to the power N and that's now 1 right having got you to the
+40:01
+N and W to the end of the same if I just rearrange this says that u over W is an
+40:08
+nth root of 1 and by corollary 8 there are
+40:18
+and of these say there are nice and
+40:27
+choices of ye so that completes the
+40:33
+proof so it's a little bit fiddly and you might want to kind of think about that in your own time but hopefully the structure at least makes some kind of
+40:40
+sense so that was thinking about roots
+40:46
+of particular complex number and that means that we've sort of thought about solutions to the polynomial equation W
+40:53
+to the N equals Z we've just counted solutions to that equation we'd like to know about solutions to polynomials more
+40:59
+generally I said on Monday we could think about the solutions to quadratics and we we'd like to be able to generalize and that's what we going to
+41:05
+do now so the first thing is to show that if you've got a polynomial with complex coefficients a complex
+41:11
+polynomial of degree n then it can't have too many roots so this is proposition 11 and this says a complex
+41:30
+polynomial meaning a polynomial with complex coefficients of degree n has
+41:39
+most n roots I mean maybe it has no
+41:48
+roots maybe it has some roots I'm not making any claims about that in this proposition all I'm saying is there
+41:53
+are at most n complex roots so I mean n roots in C so let's prove this and my
+42:02
+strategy is going to be to use induction on n the degree of the polynomial
+42:19
+so n is one for example as a base case that's a quick check I'll let you make
+42:24
+sure that you're happy to see that a linear polynomial with complex coefficients has at most one root I feel
+42:31
+confident that you can handle that so let's do the inductive step so I'm
+42:42
+going to let P be complex polynomial
+42:51
+with degree n and I'm going to suppose
+43:01
+the result holds for polynomials with
+43:13
+degree less than or equal to n minus one that's our inductive hypothesis so I
+43:21
+want to show that the number of roots are P can't be too big dividing through
+43:32
+by the leading coefficient the coefficient of Z to the L if you like by the leading coefficient X to the N maybe
+43:46
+doesn't change the roots and what that
+43:52
+means is that we may assume that p is a
+44:04
+monic polynomial monic means it has leading coefficient 1 so P looks like P
+44:13
+of X is X to the N it has leading coefficient 1 because it's monic
+44:24
+plus a n minus one X to the N minus one plus dot dot dot plus a 1 X plus a 0 for
+44:33
+some a 0 a 1 dot dot n minus 1 in C I
+44:43
+would like you to notice two things about this one is the size very carefully introduced what a 0 up to a n
+44:49
+minus 1 are if you trying to put a party and you take your friend along and they don't know the people there you introduce them right it's really rude
+44:55
+not to because otherwise people can't have a kind of sensible conversation we can't talk about these things without knowing what they are also notice how
+45:02
+I've carefully matched the coefficient with the power so that it's dead easy to do I didn't want to start with a 0 or a
+45:08
+1 here right this is a top tip this will make your life easier if he has no roots
+45:16
+then we're done if P has a root say
+45:29
+alpha in C then P of X is equal to X
+45:35
+minus alpha times f of X for some complex monic polynomial f with degree n
+45:51
+minus 1 if you haven't seen how to prove
+45:59
+this or you're not la to the point you're not confident you could do yourself I did put the details in the online notes so if you want to think
+46:04
+about that you can what this tells us is that any root of P is either alpha or a
+46:10
+root of F so by the inductive hypothesis
+46:20
+F has most n minus 1 roots and
+46:29
+any root of P is alpha or a root of F so
+46:38
+P has most okay I need to carry on over
+46:44
+here P has at most n roots and that
+46:53
+completes the induction argument so proving that a complex polynomial of degree n has at most n roots is not too
+47:01
+difficult I mean I've gone through that fairly swiftly you're going to want to look at that in your own time but it's very doable what we'd really like to
+47:07
+know is does it have any roots does it always have at least one read does it always have n roots and the answer is
+47:13
+given by theorem 12 which is super important and it's called the
+47:19
+fundamental theorem of algebra you should draw some conclusions about the
+47:24
+importance of this theorem from the fact that it's called the fundamental theorem of algebra and this says any complex
+47:34
+polynomial of degree n has exactly n
+47:44
+roots counted with multiplicity so
+47:52
+repeated roots you have to count the appropriate number of times which when
+47:57
+you sort of think about it as a relatively natural thing to do so that is if P is well we may as well focus on
+48:08
+a monic complex polynomial
+48:15
+with degree and then we can factorize P
+48:25
+of X is X minus alpha 1 up to X minus
+48:30
+alpha n for some alpha 1 up to alpha N
+48:37
+in C that don't have to be distinct this
+48:49
+theorem takes quite a bit more work to prove than proposition 11 it's not in
+48:55
+this course you can want some extra ideas so maybe some ideas from complex
+49:01
+analysis or topology so you will see proofs of this theorem in the next couple of years that you can be looking
+49:08
+out for for now you may assume this theorem but only if you really really
+49:13
+have to write if you could avoid this theorem you want to avoid it because you haven't seen a proof and that means you're sort of not morally on top of
+49:19
+this theorem so if you possibly can avoid using this theorem but know that it's there if you need it the history of
+49:26
+this theorem is really interesting and I put some links to where you can read a bit of an introduction to that on the
+49:32
+online notes that is the end of the complex numbers course on Monday excitingly we will be here for linear
+49:38
+algebra if you want to leave your questionnaires at the top on that side or that aside I will collect them up
+49:43
+otherwise please return to academic admin see you on Monday
+49:54
+Oh

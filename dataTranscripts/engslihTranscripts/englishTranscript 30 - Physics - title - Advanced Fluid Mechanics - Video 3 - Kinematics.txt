@@ -1,0 +1,1036 @@
+0:00
+[Music] foreign [Music]
+0:06
+welcome to video number two in advanced fluid mechanics so this is a breakdown here of what we're going to be covering
+0:11
+in this video now section two is called kinematics and we call it kinematics when we're just interested in looking at
+0:18
+the motion so we won't be considering the forces that cause this Motion in this section we're just going to look at
+0:23
+the motion first later on in the course we're going to be doing what's called Dynamics and that's when we'll specifically be looking at these forces
+0:29
+but for now basically what we're going to do is we're going to build the groundwork here because ultimately we do care about how the forces influence the
+0:36
+flow and different objects but first we need to mathematically describe that motion so we're going to be looking at
+0:42
+things like displacement velocity acceleration deformation and rotation of
+0:47
+these fluid elements so once we know how to mathematically describe those then we can look at the forces that cause them
+0:52
+later on okay so section two kinematics and as I mentioned in the intro this is just going to be the study of the motion
+0:58
+without reference to the forces or stresses that produce this motion so quick introduction on this slide here
+1:04
+it's a reminder about our coordinate systems so we're all on the same page here as we start this section so in a we
+1:10
+have what's known as plain Cartesian or polar coordinates
+1:23
+shown with X and Y axes right or X1 X2 there for the plane Cartesian or as R
+1:29
+and Theta for the polar coordinates there These are 3D Cartesian coordinates
+1:41
+with x y z or we've got X1 X2 X3 there we're using these in each case to Define
+1:47
+p which is our arbitrary point in space c is cylindrical polar coordinates
+2:00
+and their p is defined by this r or the radius and then we have this angle Phi and then we use Z as well for
+2:07
+cylindrical and indeed we have spherical polar coordinates
+2:17
+where we Define p instead with this R for radius again but then two angles right we have Theta and we have the Phi
+2:23
+and in that way we can completely define the location of P okay now we're going to start by talking about two different
+2:28
+ways we have of describing fluid motion they're known as lagrangian or particle description and eulerian or field
+2:35
+description in LaGrange Gene we can basically think of it like we're following each fluid particle along as
+2:40
+it flows so using this description if we want to describe our flow variable our independent variables are going to be
+2:46
+time and then the position Vector of the particle at some reference time so shown in the figure here is a right here
+2:52
+denoted as the position Vector at this time T equals zero so that's one of our independent variables then we also have
+2:58
+the time T so our flow variable f is a function of a right and T that's how we
+3:04
+would write that same thing for our position Vector where we remember these underlines are for vectors right it's kind of like I'm Bolding them
+3:13
+and that there represents the location at time T of a particle whose position
+3:18
+was a at time T equals zero it was right there and then at time T we'll have its
+3:23
+new location so in lagrangian because we're using the perspective of the particle the velocity and acceleration
+3:29
+are just the partial time derivatives so we would just write that like this so U for velocity equals the
+3:38
+change in the position over time acceleration right similarly we would just say that's the change right in the
+3:44
+velocity over time which is then of course just the second order derivative of the change in
+3:50
+position with a change in time because we're looking at the particle in its identity is kept constant during the
+3:56
+differentiation in the eulerian description though we're not following the particles instead what we're looking
+4:02
+at is what happens at a point in space so in this way our independent variables are that point that we're talking about
+4:08
+denoting it in this case as R Prime and then our time which we'll denote is T Prime 2. and I'm just putting the primes
+4:14
+there just to distinguish from our lagrangian variables for now just to make it clear in this example here so our flow variables would be like written
+4:21
+like this as a function of r Prime and T Prime but because we're only looking at
+4:28
+this location in space if we take the partial derivative that's only going to give us the local rate of change at this
+4:33
+point right and not the total rate of change that the particle is actually experiencing okay so now we're going to
+4:39
+look at is how do you actually write the derivatives in the eulerian description so that they can give you the total rate
+4:44
+of change and a note just here before we do that think it's important to point out that eulerian is the one that we most commonly use because especially as
+4:51
+Engineers we're most common looking at a point in space or an object in space right and how that fluid influences that
+4:56
+object the green Gene is only used sometimes and it's for cases where we're interested in finding specifically the
+5:02
+particle paths as they flow so occasionally in things like combustion or multi-phase flows but for the most
+5:07
+part you'll probably be dealing with Valerian specification okay so we are commonly going to want to be able to write as particle derivative but in the
+5:15
+field description right so this rate of change of things as the particle sees it but we need to write it in the framework
+5:20
+of observing the point in space so to do this we're going to look at how we compare these two different descriptions
+5:25
+we'll start by saying okay we have some fluid property at exactly the same position and time in both of these
+5:31
+descriptions so we'll write that like this
+5:39
+but what we want to do is we want to write the rate of change of this fluid property as experienced by the fluid or
+5:45
+is seen by an observer who's traveling with the particle right except we want to do it in field variables so
+5:50
+mathematically what we're saying is we want this
+5:55
+but with respect to the field variables which as a reminder is eulerian field variables okay so we're really saying
+6:00
+what are the r Prime and the T Prime derivatives that correspond to this change in the lagrangian or the particle
+6:06
+description okay so we're going to do this calculation at the same point and time right so we can equate right R
+6:11
+Prime equals R therefore and T Prime equals T So then this is true we have
+6:17
+our field variable if we expand this out
+6:22
+like a is this position
+6:28
+then this is going to be equal in the field variables as well
+6:33
+so we just wrote there to relate the two right we could also say that f is a function of the position of our particle
+6:39
+which is then a function of the location at this coordinate a so like where it was at time t 0 and then time and so you
+6:46
+see that helps us relate the two right okay so now we keep going so we're going to differentiate because that's what we want we want the derivatives so we got
+6:51
+to be careful to differentiate our dependent variables with respect to the independent variables we're going to apply the chain rule as well so write
+6:57
+that out here
+7:16
+okay and with this notation here we've shown that we've covered everything off right so we're taking the derivative with respect to time so the first term
+7:22
+where we've had the our Prime that didn't change and in the second term we had the T prime it didn't change and the
+7:28
+a so we've denoted all that so this is our complete derivative and we've used the chain rule to show it with respect
+7:33
+to all the variables and then we can examine these terms right and we see that t Prime by T is just the ratio of
+7:38
+time scales so that we can make equal to one just use the same time scale like seconds or whatever and this term right
+7:44
+here I've put the label here so that's just the transformation matrix between the two coordinate systems right that's
+7:49
+just saying how like R Prime changes with respect to R and we're not rotating or stretching this thing at all so it's just that's just going to be one as well
+7:55
+which is represented by the identity Matrix with the elements from The Chronic or Delta we remember from last video and then we see this one here
+8:03
+right so we're saying that's the change in the position with respect to time so this we've already denoted previously
+8:09
+that is our velocity right we just wrote that out on the last slide so therefore
+8:14
+if we simplify all of this we have
+8:30
+this here and that's the total rate of change of our fluid variable but represented in the eulerian coordinate
+8:36
+system which is the one we're more likely going to want to use okay so we have a name for this because it comes up all the time so we call this the
+8:42
+material derivative also known apparently as a substantial derivative or particle derivative
+8:59
+and remember the three lines there on the equal sign means is defined by so it's like the definition of the particle
+9:04
+derivative and this reminds us that that derivative is taken with respect to following a fluid element so let's look
+9:10
+at this now so we have two parts in this we have the local rate of change right at a given point which would be zero for
+9:16
+steady flows right if we didn't have any change in time then we have the second part here which is called the effective derivative
+9:29
+because what that is is that's the change in the fluid property f as a result of the advection of this motion
+9:35
+so that means the particle is moving from one place to another where the value of f is then different and then we can just rewrite this at the bottom here
+9:41
+in Vector notation same thing though
+9:52
+and that's how you commonly see it we don't have the primes there when we're dealing with our layering coordinates because we only put them here to distinguish between the lagrangian ones
+9:58
+for this little example here so that's how you're commonly going to see that where the scalar product there here right the objective derivative that's
+10:05
+just the magnitude of the Velocity times the component of gradient of f in the direction of the velocity and that gives
+10:11
+us the total derivative or the material derivative denoted with those Capital D's and of course we're going to use this a lot we'll see this come up a lot
+10:16
+okay now we're going to look at the Streamline the Python and the streak line which you may have seen before at an undergraduate level fluid mechanics
+10:23
+course but here at Advanced salute mechanics we're going to review this and we're going to make sure we have the equations so we can mathematically write
+10:28
+the Streamline and look at a few interesting things about them so we Define a streamline as shown here there are instantaneous curves that are
+10:35
+everywhere tangent to the direction field okay now I'll use the figure to show how you get this equation because I think it's really neat to see where it
+10:40
+comes from so we have DS which is an element of Arc Length along the Streamline s denotes streamline so we
+10:46
+have it shown here and it has opponents dxdydz then we also have the Velocity at
+10:52
+that point shown with this Vector here U and we know the Streamline has to be tangent to
+10:59
+that direction of flow so I'm going to look at it in the X and Y Direction here and Trace out this little triangle okay
+11:06
+so because we're tangent we have that triangle but then we have also the velocity has to be tangent right so we
+11:13
+have two similar triangles there there's a few different ways to derive this but I kind of like this visually looking at it the best so then we know therefore
+11:20
+for sure the d y over the DX has to be at the same ratio as the V
+11:26
+and the U the Y component of velocity and the X component of velocity right same thing for all these directions so
+11:32
+what that means then when we rearrange that is that the following is true and this is the expression that we use
+11:42
+for our streamlines another common way to show that is that you can show that the cross product of the Velocity Vector
+11:48
+U and Ds are equal to zero if this is true because if they're tangent then that cross product must be zero yes then
+11:54
+we have path line which is also a valuable way of describing this especially experimentally and this basically you just follow a single fluid
+12:01
+particle where it travels through time so basically it's path so a single particle you follow its path through
+12:07
+time so if we have steady flow these two things are identical path lines and streamlines will exactly coincide but
+12:13
+not in unsteady flow so they'll be different in an unsteady flow so in this figure here we have a body moving from right to left and if you were to observe
+12:19
+this Flow by an observer who's stationary with respect to the undisturbed flow then the flow pattern changes with time so as this thing moves
+12:26
+from right to left right you would have this streamline here and then as it moved along you'd have this streamline
+12:31
+here and then the Streamline here so the streamlines are like changing right but the paths if we just took this point
+12:37
+right here so the path the particle would follow would be going along like this
+12:43
+right relative to a stationary Observer that's what it would look like but the Streamline of course is a slightly
+12:50
+different color is this here which is tangent to the flow at that point in time right so you end up with the two
+12:56
+that are different in an unsteady flow because the particle that one point in time is actually going like that way
+13:03
+right but then as the body moves through happens is the particle goes this way
+13:10
+right so you have a difference and then streakline is another concept that comes up a lot especially for flow
+13:15
+visualization and it's defined as the current location of all the fluid particles like basically a line of all
+13:21
+the fluid particles that pass through a specific point so this would be like if you injected a Dye or smoke so if you
+13:27
+had like a smoke one in the Wind Tunnel I can actually show you a video that here so the like tip of that smoke one
+13:32
+is at a fixed point and then over an interval of time you'd follow all the little particles as they travel and
+13:37
+you'd trace a line back so again in steady flow all all three like as shown in this video right whether I draw a
+13:43
+streakline which is connecting all of these I draw the path line which is a single path of a particle or the stream lines so a line tangent to the flow all
+13:50
+three of those are the same line in this case because this is steady flow okay now from here we can talk about something that's kind of interesting so
+13:55
+the reference frame really matters okay in fluid mechanics so this is kind of a cool way to show this right so a flow
+14:01
+that's steady in one reference frame is not necessarily steady in a different reference frame okay so let's consider
+14:08
+this object moving again so the figure showing the bottom shows the same object but with two different reference frames
+14:13
+okay so we can think of this as like a ship moving through water we're overhead we're looking down on the ship so it's
+14:18
+moving like from right to left and in a this is relative to an observer that would be like on the riverbank so
+14:24
+stationary as this ship comes and moves past it so the ship has this velocity U
+14:29
+as it moves through and as it comes through what happens is it moves these particles out of the way right so at the
+14:35
+front we're moving these particles out of the way like this right and we have the P that we showed before that the
+14:41
+sides these particles will be pushed come back to here right we can just sort of imagine this in your head as this
+14:47
+thing moves and at the back we're getting this point where particles that have pushed out of the way need to come back in right to fill the space behind
+14:55
+where the ship was just moving okay and of course we're stationary on the riverbank so as this thing moved through
+15:00
+right so those all they change with time because the ship itself is moving past us right so if we took one snapshot in
+15:07
+the next the ship would be a little further along so all those stream lights would have then changed right relative
+15:12
+to this location but on B let's say now we're an observer on the ship now it
+15:17
+appears to actually be steady okay because on the ship if you look down at the water around you you'd see these
+15:23
+streamlines here right so you just see the water moving like this okay and then you'd have it coming up to this what we
+15:28
+call the stagnation point and then you'd have it moving around here so it looks to you like it's steady
+15:34
+flow so for you it doesn't change with time right at any time when you look down at the water you're still going to
+15:39
+see those same streamlines relative to your position moving along with the ship so you see two different observers and
+15:44
+we have unsteady Flow versus steady flow now what's really cool is if you took with this Vector U right that the ship
+15:51
+has and you just added it these any of these velocities here in a you get the same pattern right so any velocity
+15:58
+Vector here right so if I took this one like like right here let's say basically I can get that by taking the velocity
+16:04
+that I'm seeing here right and I just add right I just add this Vector here
+16:10
+capital u right to that and then I get the same velocity that had this point right here okay and we
+16:16
+can also see this at Point P if I erase some of this
+16:21
+okay so Point p over here has this velocity Vector shown as U
+16:27
+Prime also shown in B at Point P right there's U Prime there okay so if we add
+16:33
+this capital u to that like this then we end up with this U I'll do it in a
+16:38
+different color right here right which is the velocity that's in B right so if you take what's in a right and you add
+16:46
+the U to it you end up with the velocity vectors that you have in b and a
+16:52
+complete switch between one that's unsteady and a versus one that's steady and B just by switching your reference
+16:57
+frame okay that's pretty cool right okay so now we're going to look at strain and one thing that's really important when we later take a look at the Dynamics is
+17:04
+that we're going to want to see later how these forces that we apply cause deformation of our fluid oh it's known
+17:10
+as strain right so we Define The Strain as a change in length per unit length just like we do in solid mechanics and
+17:16
+we Define Shear strain as how a 90 degree angle changes and so this is what
+17:21
+we're going to look at here in solid mechanics we would just say strain but we're going to say strain rates here in
+17:27
+fluid mechanics because it continues to deform okay so how do we write this mathematically so we want the rate of
+17:33
+change of length per unit length so from our figure our length is Delta X1 so per
+17:39
+unit length 1 over Delta X1 and the rate of change
+17:47
+of that length and we're already using the material derivative here right because we're implicitly we're following
+17:52
+this fluid particle along but we want to use the framework of our eulerian description so we can equate this to in
+17:59
+looking at our figure so per time the difference between how it's changed at t
+18:07
+plus DT minus our original length divided by
+18:12
+the original length and just to be super clear we can note that this a prime
+18:18
+B Prime is actually equal to a b plus b b Prime minus a
+18:27
+a prime and another color so this is a prime B Prime and we can get that by
+18:35
+saying we'll have a b plus BB Prime okay and then we minus off
+18:43
+this a a prime chunk here so we're just left with that and then coincide so just
+18:49
+a little rearranging our a prime B Prime minus c a b then we have in our equation
+18:55
+there is actually equal to b b Prime minus a a prime so I'll write that up
+19:00
+here so we're really really clear on that foreign
+19:09
+it's easier to see if we're just really explicit about this okay then rearranging we have our
+19:16
+1 over DT we'll leave it there we have our a b which is one over our Delta x
+19:22
+one and then we have BB Prime which is here right
+19:28
+so that's that distance it's traveled right so we're showing there the velocity plus the rate of change of the
+19:34
+Velocity right over this distance it traveled multiplied by time so we can take into account how much its travel as
+19:40
+it's gone from B to B Prime so we expand that out here so we end up with u 1 d t
+19:47
+Plus partial derivative
+19:52
+and then we subtract the a prime which is the velocity it's traveled from this point to this point right where I had
+20:00
+this velocity U1 and we don't have to account for that extra factor that the B had right because it had a different velocity because it was at a different
+20:06
+location so if we have a change in velocity along this direction we're going to see this thing stretch or
+20:12
+contract right so mathematically so we need to subtract a a prime so U1 DT gets
+20:19
+subtracted and then these two will cancel off we also have the cancellation
+20:24
+of the DT and the Delta X1 so that very nicely just simplifies to this here I
+20:31
+can write it over here maybe it's just this so we can write that in more general
+20:37
+terms which is actually a little bit tricky to do so we'll use a subscript Alpha
+20:43
+the reason we do that is because we don't want to imply summation right so we use these Greek indices when we don't
+20:51
+want to say that we're summing it but we need to use the same Index right so this is how we would generally write linear
+20:58
+strain rate in the alpha Direction okay so we can also look at what's known as volumetric strain rate or bulk strain
+21:04
+rate which is actually the sum of the linear strain rates in three mutually orthogonal directions so if we look at
+21:10
+all the directions and we sum The Strain rates we end up with the volumetric strain rate and we'll see so I'll use a
+21:16
+very similar method as to above so I like to put a little cross through the
+21:23
+v's when there are volumes just to make sure we don't confuse velocities and volumes so I'll do that here
+21:32
+so we're saying what's the change in the volume per unit volume where we have a fluid element let's say
+21:37
+it has sides like Delta X1 Delta X2 Delta X3 so then we can Define
+21:43
+this Delta volume as Delta x 1 Delta x 2 Delta x 3 back to
+21:53
+our equation same thing so we're per unit volume
+22:00
+writing it out like that and then our material derivative we Sub in again for
+22:05
+Delta V explicitly there we just sub those in
+22:11
+for the Delta V's we further simplify
+22:29
+and that's just a result of the properties of derivatives right so that simplifies like that but then we've
+22:34
+already done this right like we did this one above and so we know actually what
+22:40
+that equals and it's the same in all the directions so writing again
+22:48
+what we had from above right we know that that's like I'll Circle it so we ended up with that for the One Direction
+22:55
+so that and then it's the same for the other directions
+23:05
+and then we would actually write subscript I we do have the summation in this case so that's what it equals so
+23:12
+that's the sum of the diagonal terms of the Velocity gradient tensor which is Dai UI over die XJ and this will
+23:18
+actually help us later when we're going to derive the conservation laws specifically conservation of mass so
+23:24
+it's really helpful for us to be able to mathematically write this deformation rate right so if we have a change in
+23:29
+length per unit length or if we have a change in volume per unit volume this is how we express it mathematically you can
+23:35
+just sort of highlight that like maybe put a box around this one or something okay so in addition to this linear strain rate we just looked at where we
+23:41
+have objects undergoing normal strain rates we can also have an object that deforms in its shape right and and the
+23:48
+way we Define this Shear strain rate is the rate of decrease of the angle formed
+23:54
+by two mutually perpendicular lines on the element so we can look at our figure for that so we've had this change right
+24:01
+from this angle here to this angle here okay and it's the rate of decrease of
+24:07
+that angle is our Shear strain rate so because of the small angle theorem we have this small angle d alpha and that's
+24:13
+actually equal to C A over c b because if you remember
+24:19
+small angle theorem tells us the angle is the same as the sine of that angle for very small angles same thing for the
+24:24
+beta angle that's shown there too and this depends of course on the orientation of this line pair that we pick okay so these lines are originally
+24:31
+parallel to our coordinate system at time T and then we have this change over time t plus DT okay so let's write that
+24:37
+mathematically so we have the rate of decrease of our angle which is defined by these two angles
+24:45
+here that's what it's decreasing by and it's a rate so it's that over time and we can write that as
+24:53
+follows so it's 1 over c b which is our Delta X2
+24:59
+right looking here and here and then for C A A is defined right here so it's how
+25:06
+that velocity U1 right has changed over that X2 Direction multiplied by our time
+25:13
+and that's C coordinate is right here so our a coordinate minus our C coordinate
+25:19
+we end up with just this term
+25:26
+so to make sure that's clear it's because the U1 DTS right from C to a
+25:32
+would cancel so we're left with just like that component there which is right
+25:37
+here exactly the same thing happens for our beta angle right here assuming you
+25:44
+can follow the same steps I'll just write it out the exact same thing again
+25:51
+I'm getting low on Space though
+25:56
+and close my brackets and multiplying everything through right we see that these will
+26:02
+cancel out these will cancel out and so will these and again we're left with this nice expression here so it is as
+26:10
+follows
+26:15
+so if we look at this Shear strain rate expression and remember for a second that our linear strain rate was the
+26:21
+partial of UI over X I from the previous slide we see that we can make something called The Strain rate tensor and then
+26:27
+we Define this e i j is defined as this expression here
+26:36
+and then we see that the diagonal elements the one one two two and three three those correspond to the normal
+26:41
+strain rates right those linear strain rates and the off diagonal elements are half of what we have in this expression
+26:47
+here right for the shear strain rates then we see as well this expression is symmetric and so this really nice
+26:53
+concise way of writing the strain rate tensor is going to come in really handy for us as we look at more of the concepts in this course okay now we're
+26:59
+going to look at a concept that's called vorticity and we're interested now in looking at how to describe the rotation
+27:04
+of fluid elements so fluid lines that are oriented in different ways are going to rotate by different amounts so if we
+27:11
+want to be able to define a rotation rate that means something that's not ambiguous what we do is we take two
+27:16
+mutually perpendicular lines and we calculate the average rotation rate of these two lines and then what we end up
+27:22
+with this average is actually independent of the orientation of this pair of lines okay for reasons of
+27:27
+Simplicity and to avoid factors of 2 what we end up doing is we make this value twice the value of the angular
+27:34
+velocity and this is what we call the vorticity of the element so the vorticity of the element is double this
+27:40
+average angular velocity so what does that look like let's write this mathematically here so we have the same figure that we were looking at for the
+27:46
+shear strain right and this time we're going to define the average angular velocity about the X3 axis so that
+27:53
+average would be half of and then we have the right hand rule where the X3 coordinate is pointing like
+27:59
+out of the page towards us so the rotation of that d alpha so it would be negative
+28:05
+d alpha by DT and then the beta is in the positive direction so we would add that
+28:12
+okay and that would be our average angular velocity of this element now an interesting thing to note here about
+28:18
+rotation we can stop and look at this for a second the way it's shown in the figure if our d alpha and D beta angles
+28:23
+happen to be changing at the same rate they would cancel each other in this expression giving zero for angular velocity because as you can sort of
+28:30
+visualize there they'd be changing the shape of the element but not actually have any net rotation so in that case you'd have no rotation as we're defining
+28:36
+here but you would still have the shear strain rate and a change in shape as we saw in the previous slide now just to
+28:42
+write everything out really explicitly here I'll just remind you that this d alpha element because of the small angle
+28:48
+theorem is equal to ca over c b right because the angle is also equal to
+28:55
+the sign for small angle so when I take the vorticity I double this average right and I write that as this Omega
+29:03
+so we double it gets rid of the half then everything is 1 over DT from that expression
+29:09
+I simplify it the same way we did for the shear strain rate where this CA right this one subtract this one so
+29:17
+we're left with just this part here we divide by c b which is defined in the
+29:24
+figure like right here right so let's divide by that c b first and then we'll
+29:29
+write out that expression from above but it's negative now right it'll just put a little there it's negative right so it's
+29:35
+negative di U1 By Di x 2 Delta x two and
+29:41
+we have our DT there plus and then the beta again is the exact same thing so it's 1 over the
+29:49
+Delta x one but it's positive
+29:57
+and then we multiply through and simplify all that so that DTS multiply all the way through
+30:05
+Delta X2 Delta X1 same thing so we are just in the end left with this simple
+30:11
+expression that is this
+30:19
+now we can see from again observing this that we can use the definition of a curl
+30:26
+of a vector which we defined previously to relate the vorticity vector to the velocity Vector so that looks like this
+30:32
+right or in the index notation
+30:47
+unbox those right because the vorticity expressions are important so then we say something is irrotational if that
+30:53
+vorticity is equal to zero right that's how we Define irrotational and that
+30:59
+would require this to be true
+31:08
+when I is not equal to J that's a convenient way to check for any rotational flow and then when we have
+31:14
+irrotational flows the velocity Vector can be written as the gradient of a scalar function because the Assumption
+31:21
+we'll write it out here Phi is the scalar function
+31:27
+so that satisfies the condition we just defined here right here that condition is satisfied if that's the scalar
+31:33
+function all right so this concept of vorticity is something that's going to be very handy for us as well okay so next we'll look at the concept of
+31:39
+circulation which is basically the amount of fluid rotation within a closed Contour or circuit we're going to call
+31:45
+that c and this is defined as the line integral of the tangential component of velocity and we would write that like
+31:51
+this
+31:57
+and then we can extend this by looking at stoke's theorem which tells us that a line integral of U around this closed
+32:04
+curve C is equal to the Flux Of curl U through an arbitrary surface a that's
+32:10
+bounded by C right and this word flux we generally use that to mean the integral
+32:16
+of a vector field that's normal to a surface so using the definition we have for vorticity and circulation combined
+32:22
+with stoke's theorem here right the vorticity was the curl of velocity so we sub that in therefore
+32:29
+and we get this expression here
+32:34
+relating circulation and vorticity and therefore what that's telling us that's the mathematical way of saying that the
+32:41
+circulation around a closed curve is equal to the surface integral of the vorticity which we can call the Flux Of
+32:49
+vorticity right so we're saying the vorticity at a point equals the circulation per unit area Okay so that's
+32:55
+how we Define our two new Concepts here of circulation and vorticity okay now to develop another concept we're going to
+33:01
+need to later describe things in advanced fluid mechanics is we're going to look at the relative motion near a point and that's going to help us
+33:07
+understand something called the principal axis so we've just seen that fluid particles can deform and they can
+33:13
+rotate and now we're going to take a look at how do we describe the relative motion between two neighboring points
+33:19
+okay so we have Point O and its velocity is U and we have this neighboring Point p with its velocity of U plus d u so
+33:28
+then we would have the relative velocity at time T we write as follows
+33:40
+and then we have this term here which is the velocity gradient tensor as I've
+33:46
+noted there and we can decompose this velocity gradient tensor as we've seen in the previous video into symmetric and
+33:53
+anti-symmetric parts so that would look like this
+34:16
+and then we can see that we can write that this here is our strain rate tensor
+34:23
+and then this here is our rotation tensor call that rij which is defined as
+34:29
+this
+34:36
+so this actually equals this
+34:43
+okay now r i j we can see from this definition is anti-symmetric so that means it's diagonal terms are zero and
+34:50
+the off diagonal terms are equal and opposite okay so it therefore has three independent elements r13 r21 and R32 but
+34:58
+we see from our indices right that like R if I plug in 2 1 here right that
+35:04
+equals omega-3 if I plug in 3 2 it's Omega 1 and then if I plug in 1 and 3
+35:09
+for I and J it's Omega 2. so I can actually write this out
+35:15
+like this so I can write the rotation tensor in terms of the components of the vorticity vector like this
+35:22
+and we can see that so you can just go back and look at our definition of vorticity
+35:29
+and you'll see this is what happens
+35:34
+so if we want to write that we can write that out in index notation a little more simply maybe like this
+35:43
+okay and that's how we get our rotation tensor now a different color for this so we're going to sub back into this DUI
+35:50
+expression so we then have as follows
+36:04
+which we can also write like this
+36:19
+based on our definition of cross product right we have the I component of the negative of the cross product now
+36:25
+looking at this second term here so we know that the velocity at a
+36:30
+distance X from some axis of rotation of a body that's rotating rigidly at some
+36:37
+angular velocity is denoted as this angular velocity crossed with that distance right so the second term here
+36:42
+is the relative velocity at Point P due to the rotation of the element at some
+36:47
+angular velocity of Omega over two and of course the angular velocity is half the vorticity right so I've written that
+36:54
+out here so this second term is the relative velocity of P due to rotation of the element at this angular velocity
+36:59
+Omega over 2 and the first term we can see that's the relative velocity due
+37:05
+only to the deformation of the element okay so this term right I've made a little note of that right here so that's
+37:11
+the relative velocity P do only to deformation of the element right and that's the how we get the relative
+37:16
+motion between these points p and O right okay next we'll look at the concept of the principal axis so the
+37:24
+deformation of an element actually becomes really simple if our core coordinate system coincides with the
+37:30
+principal axes of the strain rate tensor okay because the components right of this tensor e they change as the
+37:38
+coordinate system is rotated and what happens is for a particular orientation as we rotate this thing there's going to
+37:44
+be a coordinate system right where there's symmetric tensor only ends up having diagonal components and that's
+37:50
+what we call the principal axes of the tensor okay so it's the coordinate
+37:55
+system where this tensor only has diagonal elements okay so looking at our equation we just had so if we're looking
+38:01
+at the deformation part if we denote now the variables in the principal coordinate system by an over bar so in
+38:09
+the figure right if we have our principal axis here we use this over bar for like X1 and X2 there okay now let's
+38:17
+say that's the principal axis where we only have diagonal components so we can write this first term in this equation
+38:23
+like this so
+38:42
+okay so we have like E11 e22 and e23 with the bar over them so those are the diagonal components in the principal
+38:48
+coordinate system right and those are called the eigenvalues of E
+38:54
+so writing out explicitly the three components would look like this
+39:11
+now we can take a look at this and in looking at this mathematical expression
+39:17
+it tells us actually what's physically happening here okay so if E11 is
+39:22
+positive with the bar over it okay then this equation shows that point p is moving away from point O in the X1 bar
+39:30
+Direction at a rate that's proportional to the distance dx1 bar okay so if we consider for a
+39:37
+second all the points on the surface of a sphere we look at our figure for this the movement of P okay in the X1 bar
+39:46
+here direction is therefore the maximum when P coincides with M right where this
+39:53
+D X1 is a maximum right you see that because it's proportional to the distance dx1 so that's the maximum dx1
+40:00
+can be is that right there okay and it's zero when this P coincides with
+40:08
+this n here right because now that dx1 distance is zero right from point O So
+40:14
+in this figure right we have this shape here you can see this new shape with this outline here right so therefore
+40:21
+that that'd be the new shape right so this diagram here is showing a case where E11
+40:29
+right is greater than zero and e22 is less than zero right because we have e
+40:36
+choo choo here right compressing that and we have the E11 stretching or expanding that side okay so you see see
+40:44
+math this is it mathematically and then that's what it corresponds to physically right I think it's really important we
+40:49
+have that sense of how these mathematical Expressions relate to the actual physical scenario we're dealing
+40:55
+with what we're looking at here is in a small interval of time this spherical fluid element around this point O becomes an ellipsoid right whose axes
+41:02
+are the principal axes of our strain tensor e so you see that's the change that we're dealing with in this flow
+41:09
+field so in summary the relative velocity in the neighborhood of a point can be divided into two parts right so
+41:14
+we've seen it has one part due to the angular velocity of the element and the other part that's due to the deformation
+41:19
+okay and a spherical element will deform to an ellipsoid whose axes colon side with the principal axis of the local
+41:26
+strain rate tensor right so that's this cool relationship this principal axis the components where our tensor has only
+41:31
+diagonal elements can show us the coordinate system right where we have our deformation acting okay and I think
+41:37
+it's really neat to see that right okay so now what we're going to do is we're going to look at the rotation and the
+41:42
+deformation that results from different type of flows so we're first going to look at parallel Shear flows here okay
+41:48
+so we've got a figure of our parallel Shear flow the mathematical description up here as well so we're showing that U1
+41:55
+is a function of the X2 Direction so we see U1 changing as we move through the X2 direction right okay so our velocity
+42:02
+gradient let's denote this with gamma as a function of X2
+42:09
+and that's defined as our velocity gradient d u 1 dx2 okay so now we know from our
+42:17
+equation above for vorticity which I've shown here we have the following three components like Omega one Omega 2 and
+42:23
+omega-3 and the only one that's going to have a non-zero component is omega-3
+42:28
+here right which is just going to be a negative partial of U1 by partial of X2
+42:34
+so we can write that like this so Omega 3 equals negative gamma okay now we look
+42:40
+at our figure we look at this element A B C D so we know we can relate now our math to our physical scenario and we
+42:47
+know that this line element A B has an angular velocity of negative gamma right
+42:52
+BC has an angular velocity that's zero right because it's in the flow direction
+42:57
+right there so therefore the overall angular velocity is negative gamma over two right because it's half the
+43:05
+vorticity right and this doesn't depend on which elements are chosen to compute it okay so that's how we get the angular
+43:11
+velocity however when we look at the strain rate this does depend on the orientation of the element okay okay so
+43:16
+from our definition in the previous slides The Strain rate tensor of our element shown here is a b c d with our
+43:23
+sides parallel to the X1 and X2 axes as this
+43:34
+okay and we remember what this means so therefore element A B C D undergoes Shear but no normal strain right because
+43:41
+it's got zeros in the diagonal but if we rotate this 45 degrees actually we have
+43:46
+this property that is symmetric tensor with zero diagonal elements can be diagonalized by rotating the coordinate
+43:52
+system through 45 degrees so then if we do that we'll see that this is going to correspond to our principal axes which
+43:59
+we're going to denote with the over bars right so I'll Circle that here and here and the strain rate tensor for that
+44:06
+is this
+44:13
+okay that's what we end up with right rotated 45 degrees and so again we want the physical meaning of this so this
+44:19
+means that we have like linear extension rate right at E11 there with the bar of
+44:25
+half gamma and a compression rate at E2 here right negative half gamma
+44:36
+with no Shear right so this is a little squirrely to think about right but the
+44:42
+figure is going to make this clear I think the figure makes this really cool to see so we see when we look at a b c d
+44:48
+right what we had was only shearing right so then a prime B Prime C Prime D
+44:54
+Prime we see has not had any normal strains but it has had Shear right
+44:59
+because it went from this position and we see that that angle has changed okay now when we look at the element
+45:06
+pqrs right it's rotated this 45 degrees initially now we can see that it does
+45:13
+not have a change in angle right when it's p Prime Q Prime R Prime S Prime as a result of this flow but it has
+45:20
+stretched along this direction right and compressed right along this direction
+45:27
+okay so like the PS is elongated and and
+45:32
+the side like PQ has contracted but the angles are still the same right so that's that's like visually we can see
+45:40
+what's happening right with these strain rate tensors and the diagonal versus the off diagonal components right so in
+45:46
+summary our element ABCD in a parallel Shear flow will experience only Shear but no normal strain whereas the element
+45:52
+pqrs experiences normal strain but no Shear strain however both of these
+45:58
+elements rotate at the same angular velocity okay now that's pretty sweet to see right okay now we're going to look
+46:03
+at the same thing but instead we're going to look at Vortex flows okay so we're going to use these descriptions we have now to understand Vortex flows so
+46:10
+we're first going to look at what's known as solid body rotation okay so for this we're going to consider where the
+46:16
+velocity is proportional to the radius of the streamlines all right so using polar coordinates like R and Theta then
+46:23
+we can write the Velocity in this flow like this okay so our tangential velocity is proportional to the radius
+46:30
+of the streamlines and we have no flow in the radial Direction okay and this Omega naught is a constant here that's
+46:36
+equal to the angular velocity of the revolution of each particle about the origin okay we'll see that in a second
+46:43
+so we can get the vorticity components about the z-axis and polar coordinates and we've of course already defined the
+46:49
+vorticity so to have it in polar coordinates you can just look that up so I've listed here the Omega Z component
+46:56
+right and then I'm sure you you can see that if I take this red and I sub it in
+47:01
+there that's like Omega naught like r squared right so then I take the partial derivative of that with respect to R I
+47:07
+end up with 2R Omega naught and divided by R so that's just 2
+47:13
+2 Omega naught right this one is zero because u r is zero okay so that's the vorticity component about the z-axis
+47:20
+right in these polar coordinates which makes sense right because that's based on how this thing is rotating right
+47:25
+Omega naughts equal to the angular velocity right like the speed of rotation of each particle about its own
+47:31
+Center and so we can see this by looking in the figure so if we look at element A B C D right at two successive times so a
+47:38
+b c d moves to this like a prime B Prime C Prime D Prime so we see that two
+47:43
+mutually perpendicular fluid lines like a d and a b both rotate counterclockwise
+47:48
+about the center of the element with speed Omega naught and the time period for one rotation of the particle about
+47:54
+its own Center equals the time period for one revolution about the origin right so the center of the element would
+48:01
+be like right here in the origin of course is right here right we can also see from this that the
+48:08
+deformation of these fluid elements is zero right so each fluid particle retains its location relative to the
+48:15
+other particles and so a flow that's defined like this is called solid body rotation because the fluid elements
+48:22
+behave just like a rigid rotating solid would behave right now we can look at
+48:27
+the circulation too so we can sub in for this right integrate from zero to two Pi
+48:33
+velocity is U Theta we have R times D
+48:38
+Theta those are streamlines are in the Theta Direction none of that's a function of theta so we just integrate
+48:44
+and that's 2 pi times r u Theta and we Sub in for that
+48:50
+we have 2 pi r squared Omega naught subbing in for U Theta and
+48:55
+that shows that our circulation is equal to the vorticity two Omega naught times the area which we remember right that
+49:02
+was the relationship that we developed for the circulation okay so I think that's pretty cool too that's solid body
+49:07
+rotation that's how we describe solid body rotation so let's look at another one okay so now we're going to look at what's called an irrotational Vortex
+49:14
+okay so we're going to notice here that circular streamlines don't actually have to imply that a flow has to have
+49:20
+vorticity everywhere okay so we're going to look at this irrotational Vortex which sounds kind of like an oxymoron
+49:26
+but we're going to do this by considering the flow around circular paths where the velocity Vector is
+49:32
+tangential okay and inversely proportional to the radius of the Streamline okay so that's shown in the
+49:39
+figure here so our U Theta is C over R okay so as the radius gets bigger the
+49:44
+velocity gets smaller right so we write that out here again we have only the tangential
+49:50
+component so we again can sub in see that this term again is zero when we look at the vorticity we plug this in
+49:57
+here right so that just ends up being C and we take the partial of that with respect to R so we end up with zero so
+50:04
+we end up with for vorticity is actually let's write it as like zero over R okay
+50:09
+so this shows that the vorticity is zero everywhere but I've written it like that so we can see that except at the origin
+50:16
+okay where it can't it can't be determined from this expression okay so we can however figure out the vorticity
+50:23
+at the origin by considering the circulation around a circuit that encloses the origin okay from our
+50:28
+relationship between circulation and vorticity so so we can actually look at a circuit of radius R circulation is
+50:34
+going to be same like before zero to two Pi U Theta and then we have r r d Theta
+50:42
+right and then this is again going to be 2 pi because none of that's a function of theta times C when we plug it in this
+50:48
+time right so this shows that the circulation is constant and it's independent of the radius right but
+50:53
+remember the previous case of solid body rotation our circulation was proportional to r squared but in this
+50:59
+case the circulation is completely independent of the radius so the circulation around a circuit of any
+51:04
+shape that encloses the origin is actually 2 pi C but if we think about the Stokes theorem for a second that
+51:09
+told us that the circulation was equal to the vorticity
+51:16
+flux basically so the left hand side is not zero which implies that somewhere the
+51:23
+vorticity also has to be not zero somewhere in this area and close by the Contour because the circulation is
+51:29
+independent of R we can shrink the Contour without altering the left hand side of the equation so in the limit the
+51:35
+area approaches zero so that means the vorticity at the origin has to be infinite okay so that this term here has
+51:43
+a finite non-zero limit at the origin okay so that's mathematically showing us that flow represented by this type of
+51:50
+velocity field here it's irrotational everywhere except at the origin where
+51:56
+the vorticity is infinite and we call this flow an irrotational or actually it
+52:01
+can also be known as a potential Vortex now although the circulation around a circuit that contains the origin in the
+52:07
+irritational vortex is non-zero a circuit that doesn't contain the origin is zero we can show this right let's
+52:14
+work this out so if we take our element ABCD and we do the circulation these line integrals around b c and d a a
+52:22
+right across the streamlines will be zero okay so we can actually Sub in
+52:31
+like we did before this a b one we write as negative because U and d s are
+52:38
+actually in the opposite direction right for a b and then for c d
+52:51
+we're at an additional radius outward right and we're going over this range
+52:59
+Delta Theta here shown in the figure and U Theta times r u Theta times R is a
+53:06
+constant right C so therefore this will just be U Theta times R right minus U
+53:14
+Theta times R and that is just equals zero okay there we go so a zero circulation around a b c d is actually
+53:21
+expected because of stoke's theorem right and the fact that the vorticity vanishes everywhere within a b c d okay
+53:27
+because it's irrotational everywhere right except the origin so everywhere within a b c d we have zero vorticity so
+53:35
+that all makes sense right and I think it's kind of fun to reflect on this visually like this picture kind of shows
+53:40
+what's happening and this idea of it being irrotational right so if we look at like a d has become a prime D Prime
+53:48
+so this like little bit of rotation sort of that way right and then BC as it
+53:54
+moves becomes B Prime C Prime with like a little bit of rotation that way and so then the net effect is that it hasn't
+54:02
+rotated it at all right so we're seeing that's why we're seeing this Vortex but it's actually like irrotational so we
+54:08
+look at those two we'll sort of highlight them here like that's what it becomes and that's what it started as
+54:14
+right and so it's kind of wild to think about that actually rotating around and that's how the shape changes as it
+54:20
+rotates and that's a visualization of it being an irrotational Vortex so that's pretty cool right okay so that's an
+54:25
+irrotational Vortex now we're going to move on to one more kind of Vortex here okay so this last Vortex is known as a
+54:32
+Rankin Vortex now real vortices that you might see for example when your bathtub is draining or in a huge storm like a
+54:40
+cyclone what they actually have is a core that rotates almost like a solid
+54:45
+body and then an approximately irrotational far field so visually that would be shown like in a here okay so
+54:53
+these real vortices would have velocity distribute that looks like that and we know a rotational core has to exist
+55:00
+because the tangential velocity in an irrotational Vortex has an infinite velocity jump at the origin okay so we
+55:06
+couldn't have that so you have to have this rotational core and we can idealize this type of behavior with what we call
+55:12
+the rank and Vortex so this Rankin Vortex here the vorticity is assumed to be uniform within this core R here right
+55:20
+we have this vorticity shown here and then it's zero outside the core so it's irrotational outside the core so you end
+55:27
+up with this here Rank and Vortex that we can use to sort of approximate our real vortices and
+55:34
+we've seen how to mathematically write you know these two different types of vortices here that we're combining to
+55:39
+make the Rankin Vortex okay so that will help us out in describing the behavior of real vortices right it'll give us
+55:45
+somewhat of an understanding of how they work okay so in summary what we looked at here in video number three was
+55:50
+section two which is called kinematics and so here we're describing the motion of the flow without considering the
+55:55
+forces at this point we'll do that later on so we looked at two different ways of describing fluid motion the lagrangian
+56:00
+and the eulerian descriptions we looked at how to mathematically describe a streamline and then we looked at how fluid particles can stretch or contract
+56:07
+and how do we describe that mathematically which is known as linear strain rate or our normal strain then we
+56:13
+looked at how they change shape through a change in the angles of our fluid element and describe that mathematically
+56:18
+which is known as our Shear strain rate we also looked at the rotation so how do we describe fluid particle rotation
+56:24
+which is known as vorticity we also looked at then the concept the related concept of circulation and then we
+56:29
+looked at the relative motion between two points and how we can define a principal axis to see the direction that
+56:35
+the deformation is occurring and then we close by looking at parallel Shear flows and we saw how all these descriptions of
+56:40
+the deformation and the rotation could apply to an actual flow and then we did the same thing with some Vortex flows
+56:45
+and we saw some really cool ways of describing a few different types of Vortex flows including an approximation
+56:51
+for real vortices okay so that's all for video number three thanks for watching

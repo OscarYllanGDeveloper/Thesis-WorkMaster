@@ -1,0 +1,6 @@
+new_texts = ['New text to segment.']
+sequences = tokenizer.texts_to_sequences(new_texts)
+data = pad_sequences(sequences, maxlen=100)
+
+predictions = model.predict(data)
+predicted_topic = np.argmax(predictions, axis=1)

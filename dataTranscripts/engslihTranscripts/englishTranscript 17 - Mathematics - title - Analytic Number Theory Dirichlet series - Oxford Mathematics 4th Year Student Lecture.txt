@@ -1,0 +1,921 @@
+0:02
+[Music]
+0:12
+okay hi everyone so just to recap uh in the last lecture we looked at uh
+0:18
+multiplicative functions in Du convolution and we established fa of the basic properties of multiplicative
+0:25
+functions in Du convolution the key principle behind everything being if you
+0:30
+have a multiplicative function you only need to understand Its Behavior on Prime powers to determine its Behavior
+0:36
+everywhere and this allows us to sometimes get a handle on some complicated arithmetic functions like
+0:42
+the mbus function So today we're going to look at a rather different topic we're going to
+0:47
+look at uh der
+0:56
+series um and the motivation
+1:04
+uh for today's lecture is going to come from generating
+1:17
+functions uh so you've probably seen generating functions in some other context maybe in
+1:24
+probability um but the basic idea is that uh you can
+1:34
+understand a lot um
+1:40
+about a sequence a
+1:46
+n um if you can
+1:54
+understand uh the generating function
+2:07
+which is the sum of a n x^ n so this is a
+2:13
+function of a variable X um if you can understand this for um all
+2:22
+complex values of X in a nice region maybe it's absolutely convergent in that region then you can actually recover all
+2:28
+the terms of the sequence from the uh values of the generating function um
+2:34
+specializing X just to the unit complex Circle um gives us F series uh and
+2:43
+there's lots of things like the growth rate of a determines regions of convergence and things for this
+2:49
+generating function but the basic idea is that if there's a sequence that you're interested in you
+2:56
+can package it together as a generating function and if you can get handle on the generating function then that can
+3:02
+tell you a lot about the original sequence um so if you want to adopt this
+3:09
+kind of mindset with the prime numbers a natural thing to do would be to take
+3:14
+your a to be maybe the indicator function of the primes and so you would look at the function which is the sum of
+3:22
+x the^ p summed over all primes P but and if you could understand this
+3:28
+function the of x the^ p then you'll be able to deduce lots of information about
+3:34
+the distribution of primes um so in particularly if you could understand um its uh Divergence
+3:43
+properties uh when X is close to one this would be a potential way of trying to prove the prime number
+3:49
+theorem now unfortunately this whole potential line of attack fails because
+3:55
+we have no real ways of getting a handle on the sum of X the power p
+4:06
+um um
+4:21
+uh so although properties of this function would incude lots of things about the distribution of primes uh the
+4:28
+only way we're able to prove anything about this function is to First prove a result about the distribution of primes
+4:33
+then reduce it for the generating function which is the wrong direction um and maybe morally the
+4:40
+reason is that um you need some nice structure in the generating function for
+4:46
+the generating function to be easier than the original sequence and uh the
+4:51
+primes are somehow multiplicative objects and these generating functions are very additive and so uh it doesn't
+4:57
+introduce any nice structure in the generator function however you can look at slightly different generating functions
+5:04
+and these are called der series and this turns out to be a much more profitable way of trying to understand the sequence
+5:12
+so instead um we can work with more
+5:26
+arithmetic uh generating functions
+5:34
+uh and in particular instead of looking at the sum of a n x^ n you can look at the sum of a
+5:44
+n * n^ s or n^ minus
+5:49
+s and the same basic philosophy works that if you can understand uh things
+5:57
+about this function then you can understand understand a lot about your underlying sequence uh but it turns out
+6:03
+that uh in this formulation it's more amable to uh things like
+6:09
+multiplication uh it's a slightly more arithmetic way of doing the generating function and so it turns out that we can
+6:15
+get some understanding on these sums without a prior having understanding on
+6:21
+the underlying sequence so that's the motivation for introducing these disle series um so
+6:28
+let's think about sequence of this type so maybe a first uh basic thing is that
+6:35
+we like to think of this as a function of the variable s and in particular we' like to think of it as a um complex
+6:42
+valued uh function so complex values of s and we need to know that this infinite
+6:48
+sum even makes sense as a complex function
+6:53
+so uh a basic LMA let f
+7:00
+go from the positive integers to the complex
+7:05
+numbers satisfy the size of f of n is bounded above by n the power
+7:13
+little1 so that just means that um when n is larger large enough F of n is less
+7:20
+than n the^ 1 over 100 and if N is a bit larger still then f ofn is always less
+7:26
+than n^ one over million and so on
+7:32
+then the dually series I'll call it capital F of s which is the sum n = 1 to
+7:41
+Infinity F of n/ n the S um converges
+7:52
+absolutely um to an analytic
+7:58
+function um for the real part of s being strictly
+8:06
+bigger than one and it
+8:12
+converges uniformly
+8:20
+absolutely for the real part of s being big than equal to 1 plus Delta fly
+8:28
+fixed
+8:35
+and so this is basically saying that uh we can view this as a complex fun and
+8:41
+analytic function of the variable s and this makes sense whenever the real part of s is bigger than
+8:48
+one so let's just prove this I got to it under me proof's quite
+8:56
+short um so uh if we recall what all this converging
+9:03
+absolutely means uh it just means that we want
+9:09
+the uh partial sums to converge to F of
+9:14
+s uh with a eror term where we put in absolute values always being small so in
+9:19
+particular we want to show that the sum of f of n Over N the S with absolute
+9:26
+values on the inside for n between N1 and
+9:31
+N2 we want to show that this tends to zero as N1 and N2 tend to
+9:39
+Infinity um okay so we just need to bounce this sum
+9:48
+and uh we know that F of n is bounded above by n the
+9:53
+little1 so let's think of the real part of s being at least 1 plus Delta and
+9:59
+since F of n is bound above by n the little1 uh F of n is uh certainly
+10:06
+smaller than some constant time n Delta / 2 so this is bounded above by some
+10:15
+constant times n Delta 2 that's our Bound for f of N and if the real part of
+10:23
+s so the absolute value of 1/ n the S is 1 / n to the real part of of s if the
+10:30
+real part of s is at least 1 plus Delta this is bounded by 1/ n 1 plus
+10:40
+Delta so this is since F of n is bounded above by n the
+10:49
+Delta 2
+10:55
+and and we're assuming that the real part of s is at least 1 plus
+11:02
+Delta and this is now a uh sum that we can work out we could maybe do an
+11:09
+integral comparison to say that this is bounded above by the integral between N1
+11:15
+- one and 2 of DT maybe this going to be a constant DT
+11:23
+over T 1 + Delta 2 just because uh n the
+11:30
+Delta over 2 / n 1 plus Delta is 1 over n 1 plus Delta over 2 and that's bounded
+11:38
+above by the integral between nus1 and N of 1/ T 1 plus Delta over
+11:46
+two and so then adding all of those up gives this integral so that's just the integral comparison and then this is
+11:54
+bounded above by some constant over Delta time maybe
+11:59
+N1 -1 to the Delta / 2 and the key point is that here within
+12:06
+of Delta ISM fixed small number and so as N1 tends to Infinity this is tending
+12:13
+to
+12:21
+zero um and uh this rate of convergence is uh
+12:29
+independent of what s is in this region uh so
+12:34
+therefore this means that we have uh
+12:42
+uniform absolute
+12:47
+convergence on the real part of s being equal to 1 plus Delta for any
+12:58
+fixed positive Delta and if we have this for every fixed positive Delta that
+13:03
+certainly means we have uh absolute convergence whenever the real part is strictly bigger than
+13:12
+one so this is just basic complex analysis now that uh since the partial
+13:18
+sums are analytic this means that the limit function is analytic we're
+13:25
+done okay so that works for any function F or any sequence um which doesn't grow
+13:32
+too quickly but maybe the most important example is the function which I
+13:40
+mentioned in the very first lecture which is the ran zeta
+13:56
+function um
+14:05
+so this is written as C of s and it's just what we get when we take uh the
+14:11
+function f to be identically equal to
+14:24
+one so we know that this is some complex analytic function in this
+14:31
+region um now the first so the r function will be
+14:39
+absolutely play a central role in this course and uh there are several very
+14:46
+important and special properties that the r zeta function satisfies and the
+14:51
+first one that we're going to prove today is that although initially this definition only makes sense when the
+14:58
+real part of s is is bigger than one and if the real part of s was smaller
+15:03
+then uh this series here would not be converging nicely um nevertheless we can
+15:10
+uh use analytic continuation to uh make sense for the r to function in a much
+15:16
+wider range um so
+15:25
+uh so maybe this is the first
+15:32
+keyma we're going to you we're going to prove analytic
+15:42
+continuation of Z2
+15:47
+s and so this says uh maybe for the real
+15:56
+part of s being bigger than minus 2 we have another formula for zet s zet
+16:06
+s is 1 / s - 1 + a half + s/ 12 - s * s + 1 * s + 2 *
+16:18
+the integral from 1 to Infinity of the fractional part of t - 3 * the
+16:25
+fractional part of T ^2+ 2 * the fractional part of T
+16:32
+cubed all over 12 t^ s + 3
+16:43
+DT um where here the fra T in Kelly
+16:50
+brackets is the fractional part of T so it's T minus the largest integer Which
+16:56
+is less than equal to T
+17:02
+okay so um just to recap what analytic continuation and things means uh we have
+17:10
+this one definition that makes sense in this region and this is a completely
+17:15
+separate definition but this definition uh converges in this region and it
+17:22
+matches exactly that definition when the real part of s is bigger than one uh
+17:29
+we have to be careful that this has a simple poll at s equals 1 uh but this
+17:38
+is is similar to
+17:44
+um uh the
+17:52
+continuation of the sum of z the^
+17:57
+n by the
+18:03
+expression uh 1/ 1 - Z so this power series only
+18:11
+converges when the absolute value of Zed is less than one but when it is less than one it is
+18:19
+exactly equal to 1 over 1 - Ed maybe I should start at zero
+18:25
+um uh but this expression actually makes in the entire complex plane with a simple pole at zal
+18:32
+1 and so here we have the same sort of situation we have a serious expansion
+18:37
+that makes sense in one region and then we have another definition that makes sense in a wider
+18:44
+region and so let's prove this analytic continuation and then we can have a
+18:51
+little bit of a think about what it means and the key to the proof will just be to use partial
+18:57
+summation so apply partial
+19:08
+summation with a n being equal to one and F ofn
+19:16
+being or maybe F of T being T the minus
+19:22
+s um so here a of t which is the sum of a
+19:30
+of n for n up to T will just
+19:35
+be the largest integer less and equal to
+19:42
+T um so what does that give we have the sum from n = 1 to Infinity of 1 / n
+19:51
+s uh well we would get uh one term which
+19:57
+is uh uh well we can use our LMA that we
+20:04
+had when we were proving partial summation which would have minus s * the
+20:09
+integral from 1 to Infinity of a of T which is the FL function of T um
+20:18
+times uh there'll be the derivative of s which is - s * t s - 1 T the S +
+20:26
+1 DT and so we'll get this from our partial simulation
+20:32
+LMA there's uh no one term or infinite term
+20:39
+because uh a of one is equal to zero and a of t f of T tends to zero when the
+20:48
+real part of s is bigger than one so we're
+20:55
+temporarily imagining that the real part of s is bigger than one so that this left hand side makes sense
+21:02
+but I can write the floor function of t
+21:07
+as T minus the fractional part of
+21:25
+T and we can now do this integral this is just the integral of 1/ TS and this
+21:31
+gives us an s/ S -1 minus the integral
+21:37
+from s * the integral from 1 to Infinity of the fractional part of T DT over t to
+21:44
+the S + one and the key observation here is that
+21:53
+this s over s minus one is a an IC
+21:59
+function in the entire complex plane apart from it has a simple pole at s equals
+22:05
+1 this integral here using essentially the same argument
+22:11
+here uh is converges absolutely whenever this
+22:18
+integral converges the integral is the numerator in the integral is always bounded by one and the denominator is
+22:26
+bounded by T ^ 1+ the real part of s and so this integral converges when the real
+22:32
+part of s is bigger than zero which means that this actually converts to an antic function whenever the real part of
+22:38
+s is bigger than zero and so this whole expression here not only makes sense
+22:44
+when the real part of s is bigger than one but this also makes sense when the real part of s is bigger than
+22:57
+zero
+23:11
+okay so we wanted to get this more complicated formula um which held
+23:17
+whenever the real part of s is bigger than minus 2 and to do that we're just going to do integration by
+23:27
+parts um so we see that the integral from one
+23:36
+to Infinity of the fractional part of T over t s + 1
+23:43
+DT well this is equal to um a half minus
+23:49
+s * the integral from 1 to Infinity of the functional part of T minus a half
+23:57
+over t T the S +1
+24:02
+DT and then I can use integration by parts
+24:07
+to say this is uh minus a half - s * s + 1 times the
+24:15
+integral between one and Infinity of well I'm going to get
+24:21
+a I've got a I'm differentiating differentiating 1 over T to s+ one which
+24:27
+gives me a um minus s +1 over T s+1 and
+24:34
+then I want to integrate uh the fractional part of T minus a half so that will give me
+24:41
+AG G of T DT where G of T is equal to the integral
+24:49
+between 1 and T of maybe the fractional part of U minus a half
+24:57
+du
+25:02
+but uh you may have wondered why I've taken off this one half well the point
+25:09
+is that if I look at the uh this function fractional part of U
+25:17
+-2 and I draw the graph it starts at -
+25:24
+one2 and it then has a sort of to
+25:30
+shape centered about zero and the integral over any interval
+25:36
+of length one is equal to zero so we see
+25:43
+that g of T is equal to
+25:49
+um G of t + 1 full T
+25:54
+um since the integral
+26:00
+of the fractional part of U minus a half over any
+26:07
+interval of length one is zero so the one the minus one2 is
+26:14
+taken off this main term contribution to have this property and so in
+26:21
+particular G of T is equal to G of the fractional part of t
+26:29
+uh I guess I can change the definition to the integral between Zer and T because that doesn't change anything and
+26:36
+then this would be equal to the integral from not to the fractional part of T
+26:43
+of uus a half
+26:48
+du since the fractional part of U is just going to be equal to U whenever U's between 0 and
+26:55
+one and then this will be equal to the fractional part of t^2
+27:01
+minus the fractional part of T all over
+27:11
+2 so I can substitute that in and I get that we get that this
+27:16
+is our overall integral is 12 minus s *
+27:23
+s + 1 * the integral from 1 to Infinity of the fraction part of t^ 2 minus the
+27:30
+fractional part of T all over 2 / 2 to the S + 2
+27:37
+DT and the nice thing here is that this now makes sense as a uh complex analytic
+27:44
+function whenever the real part of s is bigger than minus one so before we started off only making
+27:50
+sense when the real part of s is bigger than one then we did a partial summation and it made sense when the real part of
+27:55
+s is Big than zero now it's making sense when everything real part of s is bigger than minus one and we can keep on going
+28:02
+uh you can do this as many steps as you want but maybe I'll just do it one more step to get the statement of the
+28:10
+LMA so
+28:16
+um apply integration by parts
+28:26
+again so again again you want to take off uh the main
+28:33
+term here and I think that's 1 16 and you get that
+28:39
+this is equal to 12+ s over 12 - s * s + 1 * s + 2 the
+28:50
+integral from 1 to Infinity of the fractional part of T minus 3 time
+28:58
+the fractional part of T ^2+ 2 * the fractional part of T cubed all over 12 t
+29:07
+to the S + 3
+29:18
+DT
+29:27
+um so
+29:34
+um yeah that doesn't matter at all because it's a null set this really
+29:40
+doesn't affect anything um at all uh yeah and also when we apply an
+29:47
+integration by parts we don't we're only integrating this G function we're never
+29:53
+differentiating it um so in fact you know G only needs to be continuous or
+30:03
+something yeah are there any other questions about
+30:12
+this okay so later on in the course we'll um prove analytic continuation in
+30:18
+a rather different way uh it's uh the two different ways of proof analytic
+30:24
+continuation are each useful and each provide their own insights into the
+30:30
+properties of the ran Z function uh but the thing that I'd maybe like to uh
+30:36
+emphasize is that this is a special
+30:56
+property um so if I took
+31:04
+a uh generic function f or sequence uh a n instead of just the function one uh
+31:12
+then I wouldn't have analytic continuation in this way to the entire complex plane so this is something uh
+31:18
+this is uh exploiting the fact that the integers are rigid and somewhat
+31:26
+algebraic under addition is what's going on under here and this is a special
+31:31
+property that's special to the Rema function so other dly series do have
+31:37
+analytic continuation but when you have an analytic continuation that means that you're exploiting some sort of uh
+31:43
+special properties of the sequence and certainly analytic continuation to the entire complex plane
+31:49
+is exploiting a certain rigidity of the integers under
+31:56
+addition so although the that the ran zeta function initially made sense
+32:01
+whenever the real part is bigger than one holds for completely arbitrary D series that uh where the coefficients
+32:07
+don't grow too quickly uh we're now using something sort of more important
+32:12
+about uh the integers in this context
+32:20
+okay um so this analytic continuation allows us to define the function Z verse
+32:27
+in a wider region and we can just immediately then see a few properties of
+32:35
+this so one cery is that if we're
+32:41
+thinking about a the r zeta function evaluated at a
+32:47
+real point if the real point is between Z and one
+32:53
+then Z of X will be negative whereas if X is bigger than
+33:02
+one then Z of X will be
+33:07
+positive and the proof of this is essentially
+33:13
+immediate um that uh z s is equal to s/ S -1 minus s
+33:23
+* the integral from 1 to Infinity of the fractional part of t over t to the s+1
+33:31
+DT from the previous
+33:37
+proof and here then both terms are negative if s is a real number between
+33:44
+zero and
+33:56
+one uh similarly when X is bigger than one uh
+34:04
+you can just use the standard definition of the Reed function because the real part is bigger than
+34:13
+one and this is just the sum of positive terms and so it's always going to give you some value which is bigger than
+34:26
+one um another quity is that we can understand something about some special
+34:32
+values of the r function uh so in particular the value of the zeta
+34:39
+function at minus1 is equal to -12th
+34:45
+so uh you may have heard um about the story of we're managing writing to Hardy
+34:53
+and amongst uh uh managing uh various letters that he sent he uh
+35:01
+wrote the somewhat Fantastical formula that 1 + 2 + 3 + 4 and so on is equal to
+35:12
+- 12th um and obviously using standard mathematics
+35:20
+this doesn't make sense this is a obviously Divergent series um but uh
+35:26
+what the manager was trying to say was precisely the fact that the rean ca
+35:32
+function evaluated at minus1 is equal to -12th so the minus one 12th is here and
+35:39
+the 1+ 2+ 3+ 4 would be what you would get if you substitute minus one into the
+35:45
+standard definition that only makes sense when the real part of s is bigger than one uh you'd have the sum over 1 / n
+35:53
+the^ minus one which is just the sum of N so this
+36:01
+is ranagen Divergent
+36:10
+sum okay but the proof of this is also basically just immediate we can
+36:17
+substitute um minus one into uh maybe
+36:23
+our expression here
+36:30
+uh so we can
+36:38
+substitute into the expression of
+36:48
+our so when we substitute s is equal to
+36:54
+minus1 it's certainly bigger than min-2 so we can use this formula uh the minus
+37:00
+one will kill off this Factor here so this whole integral term disappears and we'll just get -2 + 12 + -1
+37:10
+over2 so Zeta of -1 is equal to - 12 +
+37:17
+12 + - 12th + 0 which is equal to -
+37:26
+12th um so one very useful thing about this
+37:33
+expression uh that we'll make use of in the course is that uh not only does it
+37:38
+give a natural extension to the definition of the M zeta function it also quite quickly gives some reasonable
+37:46
+bounds on the growth of the zeta function um in this wider
+37:51
+region and uh the size of of uh generating
+37:59
+functions is always a very important thing to control if you want to understand the underlying sequence so I will record this as a
+38:09
+Lama another useful consequence of our analytic continuation and this is the
+38:17
+growth of Z of s so for the real part of s being bigger
+38:26
+than minus uh 29 over
+38:33
+10 I want 29
+38:40
+10 that looks like a
+38:46
+typo let me just I think I've got a typo in my notes
+38:55
+apologies uh yeah - 19 / 10 so we're in
+39:01
+the region where that formula makes sense because the real part of s is bigger than
+39:06
+-2 and S -1 being biger than equal to
+39:14
+1 we have that the size of Z of s is bounded above
+39:22
+by 1 plus the size of s cubed and so in particular it's having polinomial type
+39:28
+growth um if we're thinking of s as being having real part maybe of size
+39:36
+betweenus 1.9 and 1.9 but potentially having a very large imaginary
+39:45
+part and uh the proof of this is again pretty immediate from this
+39:53
+Lemma uh we just want to bound the size of z s so we can bound the size of each
+39:59
+term so we have 1 over s + 1 but if 1 /
+40:06
+s minus one but if s- one is bigger than one that's bounded above by Big O of
+40:11
+one2 is bounded above by Big O of one uh the absolute the size of s over2
+40:21
+is bounded by the size of s and the
+40:28
+uh integral is absolutely convergent and so is bounded by bigger of one and so we
+40:34
+just have this product s * s + 1 * s + 2 which is bounded above
+40:41
+by 1 + S cubed and this in turn is bounded of by
+40:50
+1 + S cubed um all of these you if
+40:56
+the absolute value of s is bigger than 10 then this is uh bounded but this is
+41:02
+bigger of s cubed whereas if the absolute value of s is less than 10
+41:08
+that's certainly bigger of one so we get a 1 plus s Cub
+41:24
+here uh uh yes in this region that
+41:30
+essentially this is uh the continuous analog of exactly what we did here we
+41:37
+just need to show that uh the tales of the integral converge uh absolutely the
+41:44
+numerator is always of size bigger of one and when the real part of s is say
+41:52
+bigger than uh -2 plus Delta uh this
+41:58
+is bounded if I'm looking at the integral between capital n and infinity this will be bounded in exactly the same
+42:04
+way here as 1 over n the^ Delta and so 10 to zero as we look at the
+42:10
+Tails um so yeah by exactly the same argument there this integral is um
+42:17
+uniformly convergent and therefore imp analytic for the real part of as minus
+42:26
+2 is
+42:31
+sorry uh there isn't a reason that we stopped at two uh we could keep on going further and further in fact there's a
+42:38
+question on the exercise sheet uh precisely about this um the formul
+42:43
+actually this is a slightly messy way of proven analytic continuation and so there's going to be a much neater way of
+42:49
+proven full analytic continuation later on in the course um however I wanted to
+42:55
+go this far both so that we got uh suitable growth estimates that will be
+43:01
+useful later on in the course and it's easier to prove these growth estimates using this estimate but we only need
+43:06
+them in a restricted re region going up to minus two um and also I wanted to show this REM managing uh Divergent
+43:14
+series estimate uh which requires us to go slightly Beyond minus one so uh it's
+43:21
+many with further applications in mind that I went as far as minus two um but
+43:27
+we could go further and we could keep on doing this and we get more and more messy formula but they would uh look
+43:33
+precisely of this shape given some uh serious expansion in terms of s with a
+43:39
+bigger and bigger product here and some polinomial in the fractional part of T in the numerator and then uh the
+43:46
+denominator of this integral will be something like t^ S Plus
+43:54
+K was there another question no okay great
+44:01
+um Okay so we've shown that the rean ca function even if we evaluate it at um
+44:08
+points with potentially very large imaginary part can't be too big it only
+44:13
+has this polinomial growth which I mentioned will be a useful input later
+44:19
+on um [Applause] maybe uh for the last few bits of the Le
+44:27
+I just want to um prove a couple of other estimates now
+44:35
+about the Reta function so maybe another LMA we can look at the derivative of the
+44:42
+r function so for the real part of s
+44:48
+bigger than one we have that the derivative of the V
+44:55
+function is = to minus the sum from n = 1 to Infinity
+45:04
+of log n Over N the S so this is maybe exactly what you would expect that we
+45:12
+know that in this region the zeta function is given by 1 over n to the S and if I differentiate one the sum of 1
+45:18
+over n the S and if I differentiate 1 over n the S with respect to S I get minus log n Over N the S but I have to
+45:25
+be a bit careful about the order convergence
+45:31
+um so I have to be a little bit careful with the proof um so let the real part of s be
+45:41
+equal to 1+ Delta um by
+45:47
+the maximum modulus
+45:55
+principle we have that the largest value for
+46:02
+Zed of size itus 1/ Delta / 2
+46:07
+of 1/ Z *
+46:13
+1/ n^ S Plus Z - 1 over n^ of s is equal
+46:21
+to uh the this supremum is occurs on the
+46:27
+boundary of the dis this is just because uh 1 / Z * 1/ n^ S Plus Z and 1 / Z * 1/
+46:37
+n^ s are both analytic functions of
+46:51
+Z and now since we have that Z is of size Delta over 2 I can give an upper bound
+46:58
+of this is quite easily 1 / Z is bounded by 2 over
+47:05
+Delta and 1/ n^ s+
+47:11
+Z is bounded by 1/ n^ 1 + Delta / 2 since the real part
+47:19
+of s is uh 1 plus Delta and similarly 1/ n the^ s is
+47:26
+bounded above by certainly 1 over n^ 1 plus
+47:41
+Delta and the key Point here that since the exponent on N is bigger than one this is now absolutely
+47:47
+summable and
+47:53
+so uh Z primed of s which is equal to
+47:58
+the Limit as Z TS to zero of Z of s + z
+48:05
+minus Z of s over
+48:11
+Zed is equal to the Limit as Z tends to
+48:18
+zero the limit as n TS to Infinity of
+48:23
+the sum the partial sums from Little n = 1 to capital N of 1/ Z
+48:31
+* 1/ n s + z - one over
+48:39
+NS but since uh this is absolutely summable uh
+48:45
+we can swap the order of the
+48:55
+limits
+49:16
+and therefore we get that this is the limit as n tends to Infinity the limit
+49:22
+is z TS to zero of some n = 1 to n of 1
+49:30
+/ z 1/ n s plus Z - 1/ n s and then this is
+49:38
+just our termwise differentiation
+49:55
+answer so we needed to be careful that we couldn't that we could justify this
+50:00
+swap in the order of limits and all that meant was that we had to make sure that when we were looking at uh the tals with
+50:08
+very large values of n uh they had a bounding contribution that was bounded just in terms of capital n and that
+50:14
+follows from this estimate
+50:23
+[Applause] here um okay on I'm almost out of
+50:29
+time we've proven one of the Key properties of the Z function uh there's maybe one final Lemma that will
+50:40
+prove useful for later on in the course which is an approximate
+50:51
+formula for C of s and this says that
+51:00
+um C2 of s is equal to the sum from n =
+51:05
+1 to n of 1/ n s + n^ 1 - s over s - one plus
+51:15
+Big O of s n minus real part of s uh
+51:25
+maybe uh for for the real part of s maybe I'll start off
+51:33
+with big
+51:40
+one so the proof of this well we have that Z of s is equal to the sum n = 1 to
+51:49
+n of 1 over n s plus the sum from n = n
+51:54
++1 to Infinity of 1 over n the
+51:59
+S and then uh
+52:05
+so maybe I'll be a little bit more careful I want the conclusion to hold full values of rule part of s bigger
+52:12
+than zero but I'm going to first of all work with real prod of s biger than
+52:25
+one so I can do exactly the same partial summation argument as I did to prove
+52:32
+analytic continuation but rather than starting at uh one I can start at
+52:38
+capital N plus one for any choice of capital n and what I
+52:44
+get is essentially exactly the same thing where I replace my T's by T minus
+52:50
+n's in the denominator
+53:15
+so by partial summation again um I get that uh the sums of 1/ n the S
+53:25
+is equal to to Capital a of T times the derivative of f of T the derivative of f
+53:33
+of T is - s * t to the - s -1 and when
+53:39
+I'm just looking at the sequence that starts at n plus 1 instead of having the floor function of T I'll have the floor
+53:45
+function of T minus n but again I can separate out the main
+53:51
+term and this uh Big O one part of the integral
+54:00
+the integral of tus n/ t s + one between
+54:06
+uh n and infinity just gives a n 1 - s
+54:11
+over s - one we can just calculate that integral and then I get an integral
+54:18
+between n and Infinity of well the fractional part of T minus n is equal to
+54:23
+the fractional part of t for any integer n
+54:31
+and then this inal this integral now certainly makes sense whenever the real part of s is
+54:37
+bigger than
+54:44
+zero so this is an alternative analytic continuation of the room zeta function
+54:49
+where we now have this integer parameter capital N that we can choose
+54:55
+and we see that the integral from s of s
+55:01
+* uh the integral from capital N to Infinity of the fractional part of T
+55:06
+over t^ s +1 DT is then bounded above by the absolute
+55:14
+value of s times the integral from n to Infinity of DT over t^ 1
+55:24
++ the real part of s whenever the real part of s is bigger than zero which in
+55:30
+turn is bounded by S * n the
+55:36
+minus real part of s
+55:42
+which gives us precisely the approximate formula that we had here so this is again using our partial
+55:51
+summation argument that we use to prove analytic continuation to get this approximate formula
+55:57
+um which is valid in our wider region and this turns out to be very useful
+56:02
+that we can even when the full series diverges and doesn't make sense we can
+56:08
+still uh approximate the zeta function pretty well by the uh partial sums of
+56:15
+the original series okay I think I'm out of time so I I'll maybe stop here thanks a lot for
+56:25
+listening
+56:37
+for
+

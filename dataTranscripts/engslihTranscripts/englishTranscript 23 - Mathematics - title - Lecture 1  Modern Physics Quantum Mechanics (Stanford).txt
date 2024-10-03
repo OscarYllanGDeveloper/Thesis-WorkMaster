@@ -1,0 +1,2026 @@
+0:07
+this program is brought to you by stanford university please visit us at stanford.edu
+0:15
+i just want to do one thing actually before we start the uh the material of the class a whole bunch
+0:22
+of people a lot of people particularly people from europe who actually follow these things on the internet seem
+0:28
+very puzzled they send me email even some of my friends in europe who are physicists who are following it
+0:34
+uh are very curious about what's going on here they don't see you people they only see me and they know that i'm teaching a
+0:42
+class in this or that special uh special topic
+0:47
+in classical mechanics or whatever and they can sense that there's something a little bit different about it
+0:53
+they can sense that it's not a standard undergraduate or graduate course in
+1:00
+these subjects and they ask me what is this what is this about or who are these people you're teaching
+1:05
+to they can tell it and most of them don't know what continuing education means
+1:12
+they didn't know what it meant and so they asked me i thought i would tell them over the uh
+1:19
+over the internet what this class is it's continuing education which means
+1:25
+education for people not from stanford people not oh they can be from stanford some of the
+1:32
+people probably are either employed by stanford maybe were students at stanford
+1:39
+but um almost everybody in this class is a little bit too old to be an
+1:44
+undergraduate student even a little bit too old to be a graduate student they're people from the
+1:51
+community from palo alto from mountain view from uh who lives further than mountain view
+1:58
+okay what's the furthest there you come for this where foster city okay so that's 20
+2:05
+miles away so people from within a certain radius i don't know whatever the radius is
+2:11
+are allowed to come and take courses at stanford they pay a bit of money for it and a professor teaches them now this is
+2:18
+not it is most definitely not your standard freshman physics
+2:24
+there's another guy on the internet who teaches freshman physics i'm told he does it very well that's not
+2:30
+what this is this is the real mccoy theoretical physics at the full scale level
+2:38
+we use equations we not only use equations we sometimes use hard equations but we
+2:44
+tend to try to use the simplest equations that will do the job
+2:52
+basically we try to keep it minimal uh just out of curiosity i i more or
+2:59
+less know the answer just by looking but what the age distribution of people here is by comparing is there anybody
+3:07
+here under 40 yeah there's uh there's maybe one
+3:12
+handful of people under 40 incidentally for those who can't see the audience there's probably
+3:18
+about 100 people in the room i'm not sure it's a it's a small theater uh
+3:23
+with a lot of seats it's uh a lecture theater more or less filled up
+3:30
+and um maybe four or five or three or four people were under 40.
+3:37
+let's see let's go to the other end how many people here are over 70
+3:42
+a good deal more maybe uh 10 or 12. anybody over 80 i got a couple of people over 80.
+3:49
+anybody over 90 this time oh there have been people over 90 they're having people over 90 in this
+3:56
+class so you see the age distribution is such that basically people
+4:02
+want to get to the basic ideas fast they don't have a hell of a lot of time
+4:11
+they want to get there fast so i try to tell them in some
+4:18
+minimal way what the basic things you really have to know in order to get on to the next thing
+4:24
+sometimes the basic things that you need to know are a little more difficult a little more elaborate
+4:30
+we do them anyway we do them as efficiently and as straightforwardly and with the minimal amount of stuff
+4:36
+uh to get them right to get them really right not metaphor not the not the analogy but equations
+4:44
+when necessary what else can i say about this class
+4:52
+i guess it has various names quantum mechanics the physics 25. i'm inclined to call it
+4:58
+quantum mechanics for old people including myself
+5:11
+anyway the first course in the series let me just uh say what the outline of the whole
+5:18
+course of courses is these series of courses will consist of
+5:23
+about six ten lecture series
+5:28
+the first of which was in classical mechanics the classical mechanics is the basic
+5:34
+basis of all classical physics classical means before quantum mechanics anything
+5:41
+that doesn't involve quantum mechanics or which ignores quantum mechanics or
+5:47
+which is in a range of parameters where quantum mechanics can be replaced
+5:54
+by basic classical logic that's called classical physics
+6:00
+so the first class was classical mechanics which is in some sense the basis for all
+6:06
+of physics the motion of objects the energy of objects the momentum of objects
+6:12
+what the characteristic behavior of systems is as they evolve with time
+6:19
+and so forth we discussed that last quarter and anybody who is thinking of following
+6:25
+these classes should begin with that the next class which is already on the internet
+6:33
+was called i believe quantum entanglement now this is also a class on quantum
+6:39
+mechanics and it will be self-contained but i would strongly advise anybody
+6:44
+who's following to go to course number two was it called
+6:50
+quantum entanglement does anybody remember i think it was called quantum entanglement it is also on the internet
+6:55
+it was the first one that was on the internet and uh to get that under your belt first
+7:02
+before attempting to do the full-scale quantum mechanics that we're going to do here although what i'm going to do is pretty
+7:09
+self-contained i'm going to start with this evening
+7:15
+with some basic thoughts about the deep differences in the logic
+7:24
+of classical mechanics and quantum mechanics or classical maybe even mechanics is too
+7:32
+strong a word classical physics and quantum mecha and quantum physics
+7:38
+there are some very queer phenomena in quantum physics that don't exist in classical physics
+7:44
+now one of them is the fact that quantum mechanics is based on statistical
+7:51
+thinking randomness a certain degree of um not imprecision that's not the
+7:57
+right word a certain degree of uh non-deterministic or indeterministic
+8:04
+behavior unpredictability that's the word i'm looking for unpredictability
+8:09
+but it's a special kind of unpredictability einstein famously said god does not play
+8:16
+dice niels bohr told him einstein don't tell god what to do
+8:24
+but in fact in a sense god i don't know if there's a god when i i use the word god in the same uh
+8:30
+sense that physicists always use it meaning uh the laws of physics or something like
+8:35
+that the laws of physics don't play dice at least not in the standard sense
+8:40
+let me imagine for you a theory that's based on a bit of statistics which is not the way quantum mechanics
+8:48
+works and then i'll illustrate it for you by showing you some of the differences
+8:53
+imagine that there was a element of randomness in newton's law
+9:01
+whatever which law f equals m a together with the law of um of gravity all right so
+9:08
+f equals m8 together with the law of gravity tells us how objects move let us say how the moon
+9:15
+moves around the earth and it predicts with infinite precision if you could work out the equations with infinite
+9:21
+precision and if you could account for every detail of the earth and the moon and all
+9:28
+the material that's in between and so forth it would predict with enormous detail
+9:37
+deterministically the motion of the moon which means if you know where the moon starts and you know how the moon is moving in
+9:43
+the beginning then you can predict forever after exactly how the moon moves around the earth
+9:48
+that's the deterministic classical mechanics now let me imagine a modification and
+9:54
+the modification involves a little bit of randomness for example okay so let's imagine
+10:02
+god sitting on his throne throwing dice every tenth of a second god throws the
+10:08
+dye and if he gets snake eyes what he does is he gives the moon a little extra push
+10:15
+in one direction if he gets a seven he pushes the moon
+10:20
+a little bit in the other direction a degree of randomness based on the random throwing of dyson
+10:28
+really random a really random number generator uh being used to put a little bit of
+10:35
+fluctuation into the motion of the moon that sounds like it introduces the kind
+10:42
+of uncertainty the kind of thing that one talks about in quantum mechanics uncertainty
+10:49
+um non-predictability unpredictability
+10:55
+but it is not anything like the randomness and unpredictability of quantum mechanics the randomness and
+11:02
+unpredictability of quantum mechanics is exceedingly special exceedingly special and quite different
+11:09
+and it's that that we want to get our head around and learn and understand the difference between these things
+11:16
+by the time this class is finished but also we want to learn how to use quantum mechanics a little bit to calculate some
+11:22
+things let's notice one thing about this
+11:28
+law which includes a little bit of randomness the throwing of dice in order to uh to
+11:33
+either kick the moon a little bit or inhibit the moon's motion a little bit one of the things that would do
+11:41
+is to add a little bit of energy or subtract a little bit of energy from the motion of the moon
+11:46
+randomly if you randomly give the moon a knock this way and then a kick that way and a bunk that way
+11:53
+and keep doing it over and over again each time you do it this on the average it may not change the
+12:00
+energy but each little increment is randomly going to either increase the energy or
+12:06
+decrease the energy of the moon and if you do that randomly eventually
+12:11
+that will build up to a statistical randomness in the energy in other words energy would not be
+12:18
+exactly conserved in a world in which the laws of motion
+12:23
+included a little bit of classical randomness i call it classical
+12:29
+randomness to distinguish it from quantum randomness
+12:34
+in quantum mechanics you prepare a system the same way that you might prepare the
+12:41
+moon in an initial situation you let it go for a while and then you look at it
+12:46
+and indeed you discover at the end of it that what you measure is a little bit
+12:53
+unpredictable but you also find that energy is exactly
+12:59
+conserved no hint no remnant at all
+13:04
+of energy being knocked this way and not that way if you start it with a given energy with
+13:10
+a given precise energy and you let it evolve for a while and you measure the energy later
+13:16
+the energy is exactly the same as you started with so there's something funny about this
+13:21
+randomness it seems to affect some things and not other things and doesn't work the way you might expect uh
+13:28
+randomness and classical physics to work let me give you two oh i think three other examples of
+13:35
+the oddness of this randomness the first comes from an experiment which
+13:42
+to my mind shows the weirdness of quantum mechanics in the easiest
+13:47
+and most straightforward least difficult way much easier for my money than bell's
+13:52
+inequalities and all that sort of stuff it's called a two-slit experiment all of you know about it or most of you know
+13:58
+about it if not you learn about it right now but it is extremely odd when compared
+14:03
+with classical uh randomness right so classical randomness just being this
+14:10
+idea that every now and then you give the system a little knock the two-slit experiment involves a
+14:15
+source of particles those particles could be photons they could be electrons
+14:20
+they could be neutrons they could be bowling balls except the effect for bowling balls is
+14:26
+so minute that you'd never be able to measure it so when we speak about particles we
+14:31
+think about things which are very light and because they're light the quantum effects associated with them
+14:37
+are significant and measurable all right so we have a source of some kind it could be a laser
+14:42
+shooting out photons but imagine the photons are coming through one at a time very small number of them
+14:50
+uh quanta of light one at a time one at a time one every five minutes if you like i
+14:56
+don't know just to go to some extreme situation these are the photons coming out of the photon gun
+15:03
+and the photons pass through a obstacle with a little hole in it all
+15:10
+right this is a two dimensional diagram of a three-dimensional situation this
+15:15
+blue object over here is intended to be a disc with a tiny hole in it
+15:23
+so the photons can go through and they come out the other side of the
+15:29
+hole and when they come out the other side of the hole they eventually get to a screen over here
+15:34
+that screen records the photon by a flash a flash of light at the
+15:40
+screen not the flash of the original photons but another flash of energy appears at a
+15:47
+point on the screen and records or it could be just the blackening of a photographic
+15:53
+a photographic plate something that records the position of the photon
+15:58
+when it goes through here now first let's think classically uh
+16:04
+but classically with a bit of randomness the bit of randomness that we can
+16:09
+imagine is that when the photon goes through here
+16:14
+a little random kick might influence the photon and either kick it upwards or downwards
+16:22
+in fact by a random amount what would we expect then well if there was no randomness then the
+16:28
+photons would go straight through and illuminate a single point be completely deterministic the photons
+16:35
+would always arrive at exactly the same point if the hole was small enough and if the beam of photons was narrow
+16:42
+enough but now we can imagine a random kick what does the random kick do
+16:48
+well it changes the direction of the photon of the photon not the whole photon beam but one photon at a time
+16:55
+it might kick the first photon up a little bit the second photon down and so forth and so on eventually
+17:02
+what you will see is a blob of illumination
+17:09
+on the screen over here on the average the photon might go straight ahead
+17:14
+so the blob might be most intense at the center it might be highly improbable
+17:21
+to knock the photon through uh 60 or 70 degrees so the signal would
+17:27
+fade as you moved away from the center you would see a blob with a maximum
+17:33
+intensity near the center and thinning out as you move far away
+17:38
+and you might describe it by a probability function the probability function being the
+17:44
+probability that the photon arrives in different places okay now we go oh now we do the same
+17:51
+thing in real quantum mechanics in other words in the real world we see essentially the same thing the
+17:58
+photons go through the hole with no ability to control the situation
+18:05
+we find out that the photons again create a blob like this but now we're going to do something a
+18:11
+little different and i think everybody here more or less more or less everybody knows what i'm going to do
+18:18
+i'm going to open a second hole okay but let's think about what
+18:24
+classical randomness would do classical randomness would simply mean
+18:29
+that we and we'll also imagine that this beam of photons
+18:35
+is at its origin a little bit uncertain and a little bit random so
+18:41
+that some photons begin a little bit upward some photons a little bit downward
+18:47
+some photons go through the upper hole some photons go through the lower hole
+18:54
+if a photon goes through the upper hole it may or may not get a random kick and get knocked off of course if it goes
+19:01
+through the lower hole it also gets a random kick now we're imagining the photons come
+19:06
+through one at a time we could even imagine a
+19:13
+okay i do that all the time
+19:20
+where was i yes the photons get a kick we're imagining that the photons come
+19:26
+through one at a time very sparsely and so what one
+19:31
+photon does doesn't influence a later photon because the later photon comes through
+19:37
+so much later that whatever gave the first photon a kick has already finished happening and
+19:42
+it's waiting for the next uh throw of the dice in fact the next photon may come through a hundred throws
+19:48
+of the dice later and so we expect the next photon uh to be
+19:54
+random statistically independent of the first photon under those circumstances what we would
+20:01
+expect well let's uh let's let's decide what we would expect supposing only one hole is open
+20:07
+if only one hole was open then we would see a blob of illumination like that
+20:13
+with a profile it might look something like that supposing we closed up the first blob the first hole and
+20:21
+opened the second hole close the first one open the second one all right so first
+20:27
+we begin with just one hole then we close the first hole and open the second hole
+20:33
+what would you expect to see what you would expect to see under those circumstances is a different blob slightly displaced
+20:40
+from the first one the blue blob wouldn't be there because we closed
+20:45
+the first hole the green blob would be there because we opened the second hole now
+20:52
+what happens if we open both holes what happens if you open both holes in classical mechanics
+20:59
+is the probability for a photon to get to the screen at any given point
+21:04
+is the sum of the probabilities for it to get there by either root
+21:10
+the photon photon can either go through the upper root or it can go through the lower route if
+21:16
+both holes are open the probability to get to this point over here let's call it the green point
+21:23
+over here the probability to get over there is the probability to go through the upper hole and arrive at the green point
+21:30
+plus the probability to get to go through the lower hole and arrive at the green point so the
+21:36
+result is in classical physics you would always see the signal over here the profile
+21:44
+over here just being the sum of the two probability distributions and it would look i wish i had another color
+21:51
+they never leave me enough colors all right uh we would see something which would look like
+21:58
+just a higher i don't know it would be much bigger than that
+22:07
+it would look like that and in particular if there was any point over here
+22:12
+such that the photon could arrive either from one hole or from the other hole or
+22:19
+both then we would find illumination at that point for sure by opening both holes
+22:27
+that's what classical logic let's let's call it that's right name classical logic
+22:32
+that's what classical logic classical statistics classical probability would dictate
+22:37
+for a series of particles coming through here one at a time
+22:43
+when they come through one at a time they make blip blip blip blip but the average probability of the
+22:48
+distribution of blips would be a distribution which would be the sum of the two distributions
+22:56
+what happens if you really do this experiment you find what's called an interference pattern
+23:04
+the interference pattern looks like this
+23:10
+well let's see let me get it right
+23:19
+in particular well first of all what is this figure this figure is a probability
+23:26
+distribution and it tells you the horizontal axis here tells you what the probability of a
+23:32
+photon getting to a particular point at a particular height here but in particular
+23:38
+it says that there are no photons which arrive at that point there are no photons which arrive at
+23:44
+that point there are no photons which arrive at that point this is odd if you opened only one hole
+23:51
+then you would find a probability distribution which wasn't zero in other words you would find
+23:57
+illumination at that point you open the other hole you still find illumination at that
+24:03
+point you open both holes and all of a sudden no photon gets to that point even though
+24:11
+they're coming in coming through once every 20 minutes or once every 20 years
+24:18
+and therefore how can they know about each other nevertheless if you open both holes
+24:25
+there will be places where no photons can get to despite the fact that photons arrived at those points
+24:31
+when only one hole was open that is um you might be able to sit down and
+24:40
+work up some in some interesting but rather elaborate mechanism to make this happen you could
+24:48
+imagine elaborate complicated mechanisms where somehow the this
+24:56
+this screen here some degrees of freedom inside the screen remember how many photons went through
+25:02
+and they remember what they're supposed to do but it would be a rather elaborate mechanism
+25:08
+just for this one purpose this phenomenon of interference of destructive
+25:14
+interference this is called destructive interference that the probabilities cancel instead of
+25:20
+adding at certain points that's a very generic property
+25:25
+in quantum mechanics and so it requires a kind of explanation which is not some
+25:32
+detailed mechanical complicated explanation it requires a a broad
+25:40
+new idea about how statistics works and how about how the logic
+25:45
+of um of quantum mechanics works so that's the first really weird thing
+25:52
+that happens in quantum mechanics now let me give you another example if
+25:57
+you remember in the last course we talked a little bit about reversibility we talked about the laws of physics in particular
+26:04
+we talked about the laws of physics for discrete systems for example uh we discussed the possible
+26:10
+laws of physics deterministic laws of physics for a coin
+26:15
+which can either be heads or tails now of course flipping the coin
+26:21
+that introduces a level of of uncertainty a level of
+26:29
+statistics probability into things i want to think about the deterministic laws the truly deterministic laws
+26:36
+are the ones that whatever the coin is doing it will tell you what the coin is doing
+26:42
+next so when we discussed this last quarter we talked about two possible laws of
+26:48
+physics the first was that if you find heads in the next instant when you look at it
+26:54
+after an instant of time you'll find heads again if tails then you find tails again then
+27:00
+your laws of physics just permit two possible um evolutions heads heads heads heads
+27:06
+heads heads heads or tails tails tails tails tails and the other possible laws of physics or law of physics
+27:12
+was that when you see a head in the next instant microsecond or whatever your unit of
+27:18
+time is you will see the opposite tails then the two possible laws of physics are the two possible not
+27:25
+laws of physics the two possible evolutions one of them begins with heads it goes heads tails heads tails heads tails
+27:32
+and the other one begins with tails and goes tails heads tails heads tails heads whether you know it or not those two different things were different they
+27:38
+began one with heads one with tails uh that was that was the basic
+27:44
+idea of a deterministic law of physics now you can have of course more complicated
+27:50
+systems in this just two state systems we imagine for example a six state
+27:55
+system a six state system was a die a die that can be one two three four five six but let's just take a simpler
+28:01
+thing let's take a coin with three sides if you can't imagine a coin with three
+28:07
+sides then you'll have to do this using abstract mathematics okay a coin with three sides has heads
+28:14
+tails and whatsoever else feet heads tails and feet all right heads
+28:21
+tails and feet all right and there are two all right
+28:27
+let's let's consider a simple law of physics a simple law of physics could tell you
+28:32
+that whenever you have heads it goes to tails whenever you have tails it goes to feet whenever you have feet it goes to heads
+28:38
+again and then wherever you start you just cycle around endlessly forever and ever now there's a certain
+28:45
+sense in which this is revers in which this is what does it mean to say it's deterministic
+28:51
+what does it mean to say information is not lost in this process what it means
+28:58
+is that no matter how long the system evolves
+29:04
+let's suppose you started with heads and you let it go a million units of time
+29:11
+it will just go around and around and cycle if at the end of that you reverse the law
+29:17
+of physics now reversing the law of physics just means having it go in the opposite direction
+29:24
+if you could somehow press a button or turn a knob which had the effect of
+29:31
+reversing the law of physics in other words changing the direction of every arrow
+29:38
+and think about actually if you could really do this by pressing a button change the law of physics then if you
+29:46
+allowed the system to evolve for any length of time at the end of
+29:52
+that time reverse it and let it evolve for the same length of time again
+29:58
+guess what it magically comes back to the same original configuration
+30:05
+that's what it means to say that physics is reversible or that's what it means to say that information is never lost
+30:12
+in physics that no matter how long you keep going
+30:17
+if you reversed if you could find a way to reverse the laws of physics and run them backward for the same exact
+30:25
+length of time you'll come back to the starting configuration now to do that
+30:30
+you might not even need to know the laws of physics you might need to know very little the
+30:36
+only thing you would need to know is how to reverse the law you need you needn't even know what the
+30:41
+law is whatever the law is if you can find a button to push
+30:46
+that reverses it then you can test the determinism of physics by simply starting some place letting it
+30:54
+evolve for a long period of time and then letting it evolve with the reverse law of physics
+31:00
+if you come back to the same place every time then your law physics is deterministic
+31:06
+now what about a little bit of classical probability a little bit of deity playing dice
+31:12
+so let's suppose with some very very small probability
+31:18
+the deity does something different that's not prescribed by the laws of
+31:23
+physics for example in some random way where the probability
+31:29
+of one in a million the law might say don't move instead of
+31:34
+moving the way the diagram says stay still if you allowed the system to evolve for
+31:42
+a short period of time then and then run it backward
+31:50
+it will go back to the same point but if you allow it to run long enough that there's a significant statistical
+31:56
+probability for a fluctuation for something to happen which is not deterministic
+32:03
+in other words if it was one in a million that you stand still but you let the system run for 10
+32:09
+million units of time then guess what no chance or not no
+32:14
+chance you have a chance that you'll come back to the same point but you'll also have an equal chance that you'll come back to any other
+32:20
+points in other words this test will fail it'll fail
+32:26
+uh one third of the time you will come back to the same point two-thirds of the time you will come
+32:32
+back to two different points so a little bit of classical
+32:38
+randomness destroys the um
+32:46
+what i called last quarter the conservation of probability no the conservation of information
+32:53
+information gets lost what about quantum mechanics is information lost well there is an
+33:00
+element of statistical things in quantum mechanics when a electron
+33:06
+goes through a hole like this it has a probability for getting kicked
+33:11
+up let's just take the case let's simplify now this is the one slit experiment
+33:16
+we don't even need the two-slit experiment let's start with the one-slit experiment
+33:21
+the electron goes to the slit it's aimed toward the slit sometimes it
+33:28
+more or less goes straight through sometimes it gets kicked up a little bit sometimes it gets kicked down a little
+33:34
+bit and you might think that this is more or less like throwing dice
+33:39
+in fact if you look for the electron afterwards if you look for the electron out here
+33:44
+after you've given it time to pass through at the moment now let's just send one
+33:49
+electron through one electron if we send one electron through
+33:57
+it may get kicked up it may go straight through or may get kicked down
+34:02
+if we do the same experiment repeatedly which is of course is the same thing as sending many electrons through but if we
+34:07
+do the same experiment repeatedly we'll find some go up some go down some but now let's ask the following
+34:16
+question supposing after a period of time we send an electron through
+34:22
+one electron after a certain period of time
+34:27
+having given it enough time to get to the other side but not but let's remove the screen over
+34:32
+here let's remove the screen send the electron through it goes through comes out someplace else
+34:41
+but we don't look at it we don't we don't bother detecting where the electron is instead
+34:48
+we just reverse the law of physics we do what we did over here reverse the
+34:55
+direction of time if you like can you really do this can you really is there really a button that
+35:01
+you can push is there really something that you can do to a system that will reverse
+35:06
+the motion yes in many systems there is in many systems we actually know how to
+35:13
+manipulate the system how to change magnetic fields how to do things to a system of electrons
+35:19
+so as to run it backward so let's take it as a as a given that after a certain amount
+35:25
+of time somebody can press the button that reverses the law of physics that reverses the direction of time so
+35:33
+to speak and runs the system backward for the same length of time what happens
+35:41
+does that electron we're not going to look at it but do we later after after the end of
+35:50
+the experiment we allow it to evolve for a time t and then we allow it to evolve backward for
+35:56
+another time t 2t altogether do we find the electron moving backward
+36:03
+along the original trajectory or do we find the probability the
+36:08
+fluctuations compounding and that after we turn it around there's
+36:14
+even worse fluctuation particle comes through gets knocked up
+36:20
+we run it backward it either gets knocked down and locked up which is it does it does it
+36:28
+reverse precisely along the original trajectory every single time
+36:33
+or does the statistical fluctuation the imprecision the the unpredictability
+36:42
+in one direction add to the unpredictability in going backward and make it even more unpredictable
+36:50
+afterwards than it was to begin with the answer is very curious
+36:59
+the answer is that if we don't look at the system in the intermediate stage after it's
+37:04
+gone through the hole over here don't look at it means don't interfere with the electron in any way
+37:12
+take that screen away that might have converted that electron into a little pulse of light
+37:19
+just remove any influence on the electron over here completely do not look at it do not
+37:25
+interfere with it do not do anything to disturb it but just run the law of physics backward
+37:31
+then we will exactly every single time detect the electron running back along
+37:38
+the reverse trajectory on the other side over here in particular we'll find the electrons
+37:44
+just going right back into the gun what if somebody does look at the
+37:50
+electron when it goes through to the side over here for example supposing somebody sets up
+37:55
+an electron detector which detects where the electron is and then lets it go
+38:02
+having reversed the law of physics we look at it and then reverse the law of physics now
+38:08
+in this case over here the case where we're talking about classical coins
+38:13
+looking at a thing doesn't disturb it very much if i have a coin
+38:20
+where's my coin i've lost my coin
+38:26
+it's okay it's only a chilean peso i lost my chilean peso
+38:33
+i think it was actually a hundred pesos okay now here's my chilean peso
+38:40
+i put it down and i put it down heads don't look at it now i look at it it would be rather
+38:46
+amazing if just the process of looking at it was capable of flipping it from heads to tails
+38:52
+now of course if i look at it with an intense enough uh high frequency light beam a beam of
+38:59
+very very energetic photons sure enough an energetic photon could uh could hit
+39:04
+the coin knock it into the air and spin it over that's true but you could but in classical physics
+39:10
+you can look at an object and determine its state determine the heads or tailsness of it
+39:16
+with an arbitrarily gentle interaction and so by looking at a system in
+39:22
+classical mechanics and looking at it with a very very gentle apparatus or very
+39:28
+gentle photon or whatever you like it does not entail disturbing the system
+39:33
+so if you look at it after you allowed it to go a million times and then reverse the law it will have no
+39:41
+effect no detrimental effect on the experiment and you will come back to the same
+39:46
+uh to the same point that you started with all right so just looking at the system
+39:52
+in between has no effect no does not necessarily have an effect on it
+39:58
+even though whoever looks at it can determine after a million units of time
+40:06
+where the system is here looking at it has no effect on what happens after you run it
+40:11
+backward exactly the opposite in quantum mechanics if you detect the object if you do
+40:17
+anything to detect the object electron in this case and then run the
+40:23
+law of physics backward what you'll find out is that the
+40:29
+probabilistic character of it gets compounded
+40:34
+so the fluctuation that's centered up here when you run it backward and you now
+40:39
+know that it came out up here and you run it backward it's likely to come out down here
+40:44
+or up here and it will disturb the system in such a way that the test of reversibility will fail
+40:53
+so this is curious that that whatever quantum logic is
+40:59
+the questions of the kind we're asking are deeply dependent on a ridiculous
+41:06
+question did somebody look at the system during the course of its evolution and
+41:12
+as i said of course looking at a system can disturb it but in classical physics we can look at
+41:18
+a system without disturbing it we can look at a system detect the system measure the system
+41:24
+as gently as we like arbitrarily gently and have arbitrarily small effect on it so that
+41:30
+running it backwards will be exactly as if we didn't look at it not so in quantum mechanics determining
+41:36
+the state of a system is never a small thing to do to the system
+41:41
+and this is an example it completely destroys the uh the experiment the two-slit
+41:48
+experiment has also a similar uh a uh
+41:55
+a similar story that goes with it
+42:02
+the story that i told you a moment ago about the interference pattern and the
+42:07
+destructive interference is only true if nobody records
+42:13
+which way the electron went through now when i say no body i don't mean a human being necessarily i
+42:19
+mean that nothing in the environment of the experiment records and remembers which way the
+42:26
+electron went through in other words after the experiment there is nothing in the environment of
+42:32
+this experiment which has recorded which way the electron went through nothing in here only no this hasn't this
+42:40
+also hasn't recorded where the electron went through if nothing records where the electron goes through
+42:45
+then there's an interference pattern but if you were to put a little demon over
+42:52
+there a real physical demon a real physical demon could be another electron it could be some some gas in the
+42:59
+apparatus some gas molecules in the apparatus whatever it is in such a way
+43:07
+that something records which way the electron went through
+43:12
+something remembers it afterwards perhaps a molecule over here gets disturbed
+43:19
+gets excited if the electron goes through the upper hole gets excited and changes the character
+43:27
+of that molecule if it goes through the lower hole it changes the character of a different molecule
+43:32
+so looking afterwards after the electron went through you can tell which hole the electron went through
+43:38
+then the interference pattern is destroyed and the answer is exactly the same as
+43:44
+the classical answer namely the probabilities add
+43:51
+just exactly as in classical physics so again there's no way
+43:58
+to record whether the electron went through the upper hole or the lower hole without seriously
+44:04
+disturbing the experiment without so seriously disturbing the experiment that you drastically can
+44:11
+change the conclusion that's a quantum that's roughly speaking the general
+44:18
+character of quantum mechanics that you cannot do measurements on
+44:24
+systems without disturbing them and disturbing them can change completely the character of a yuck
+44:30
+question
+44:43
+yeah that's a very very good question that's an excellent outstanding question uh
+44:50
+i wish i knew the answer no i know the answer um yeah i will uh the answer has to do
+44:58
+with the probability distribution for the position of the uh of the um of the
+45:04
+let's call this the detector let's call this the detector okay now if the detector
+45:11
+is very well localized in space as it would be if it were a heavy massive classical detector then
+45:19
+by the uncertainty principle which we haven't talked about yet if we're going to let me skip ahead
+45:26
+and imagine that we have talked about the uncertainty principle that's a sophisticated question so i suspect you
+45:33
+you've thought about it a little bit if the position of this detector the up down position of this detector delta x
+45:40
+is very very small that means that the uncertainty in the momentum of the detector is large
+45:48
+okay that means if i were to plot the probability distribution of the
+45:53
+momentum of the detector let's plot the probability distribution of the momentum of the
+45:59
+detector it's rather broad because for a heavy detector its
+46:06
+location is so well defined all right now the electron comes through
+46:12
+and kicks the plate kicks this thing a little bit it gives it a small kick and what does
+46:17
+it do it shifts this probability distribution a small amount
+46:24
+but unless the probability distribution has been shifted by something approximately equal to its
+46:31
+width then you can't tell afterwards whether it got a kick or not
+46:36
+right you have to be in order to be able to be certain that it got a kick you'll have to kick it by an amount
+46:42
+large by comparison with the uncertainty so it's the uncertainty principle that comes in and rests you
+46:48
+rescue rescues you or rescues me and makes sure that the interference
+46:54
+pattern is not destroyed the uncertainty principle itself so
+46:59
+let's go to the uncertainty principle since it's been raised since i raised it
+47:07
+the uncertainty principle there's another factor in quantum mechanics which is
+47:14
+extremely different than physic than classical physics conceptually very different i know we
+47:20
+haven't talked about the what the uncertainty principle is yet but let's uh let's discuss it anyway
+47:27
+let's jump ahead my main motivation now is to explain the strangeness of
+47:35
+not to explain the strangeness of quantum mechanics but the points and fingers at the strangeness of quantum mechanics
+47:42
+so that you see that it really is fundamentally logically different than classical
+47:47
+mechanics logically different whole logic of quantum mechanics is different
+47:53
+okay it's easy to imagine a bit of uncertainty in classical
+47:59
+physics as i said the uh the coin throwing or the dice throwing deity
+48:04
+who sticks his finger into the system and gives it a push this way i push that way and so forth and that way things after a short period
+48:12
+of time become uncertain and it's easy to imagine that that uncertainty can affect both position
+48:20
+and momentum and if you wait a little while both the position and the momentum may be uncertain in
+48:28
+fact if you wait a little bit or more than a tiny fraction of a second for a for a particle
+48:33
+you might discover that inevitably both the position and the momentum get jostled about and
+48:40
+so that there's a good deal or certain amount of uncertainty and position and uncertainty and momentum
+48:47
+but you would be unlikely to say that that uncertainty and position and momentum
+48:53
+is um what's the word i'm looking for uh well first of all that's fundamental
+49:01
+in any sense you would say it was a result of hitting the system randomly but i think most of us would agree that
+49:07
+under those circumstances it was a bit of laziness that didn't allow us
+49:12
+to watch the particle carefully enough to see what exactly the momentum was and the position was
+49:18
+we always imagine in that kind of classical context an example of that classical context
+49:25
+would be the random walk of a brownian moving particle right so
+49:30
+if we if we watch a whole bunch of particles a whole bunch of particles might form a cloud and that cloud might spread
+49:38
+and perhaps even the velocity of the cloud or the uh the cloud describing the velocities might also
+49:44
+spread but every one of those particles if we cared to we could look at with better
+49:51
+precision better and better precision we could look at it gently as gently as
+49:57
+we liked in classical physics and determine both its velocity and its
+50:02
+position simultaneously certainly that would be true of a
+50:07
+classical brownian motion particle that was being knocked around by uh by
+50:13
+ordinary collisions with uh some gas or something like that in principle
+50:18
+we could just get ourselves a better microscope better better accuracy
+50:24
+better precision better resolving power and do it very gently so as not to
+50:30
+disturb the system when we measure the position we don't want to jostle the momentum when we measure the momentum we
+50:36
+don't want to do something funny to the position and we just measure it gently enough so
+50:41
+that we measure both the position and the momentum that would be expected to be true for a
+50:46
+brownian particle so the uncertainty in position and momentum is something which in a certain
+50:52
+sense is due to our own laziness and not spending enough money and buying a good enough detector and so forth
+50:59
+to to be able to detect both the position and the velocity at the same time
+51:06
+on the other hand in quantum mechanics there's a really fundamental
+51:11
+obstruction a logical obstruction a deep obstruction to knowing that ever
+51:18
+being able to measure both the position and the velocity of a particle
+51:23
+i'm going to work it out for you and show you how it works i'm going to show you how heisenberg first thought about
+51:29
+it well he first thought about it entirely
+51:35
+through abstract mathematics for us that's going to come later but then when
+51:41
+questioned by boar what are you talking about that you can't measure the position and the velocity
+51:46
+simultaneously your mathematics is a is a crock of bologna don't tell me that
+51:52
+x times p is not equal to p times x come on it's like saying 3 times 5 is not 5 times 3
+51:58
+did i write it right yeah not equal to don't tell me such nonsense stories give
+52:03
+me some physics and so heisenberg cooked up his experiment to show
+52:09
+uh to illustrate the fact it's not show but illustrate the fact that there was a good deep uh consistent reason why it's
+52:18
+impossible to ever ever under any circumstances simultaneously determine the position
+52:24
+and the momentum of an object so let's go through that a little bit it has a similar character to some of
+52:30
+the other illustrations that i've given here
+52:39
+what heisenberg and bohr and einstein and all those people knew around 1926
+52:47
+was the property of photons in fact whenever they thought about measuring the properties of a particle
+52:53
+they were always thinking roughly speaking of looking at it under a microscope detecting it by bombarding it with
+52:59
+photons now it doesn't matter whether they were photons or not it's just that they were thinking about microscopes and they were thinking in a language
+53:06
+where you optically look at things it doesn't have to be optical but this is what they were thinking
+53:12
+so heisenberg imagined putting his particle under a microscope and detecting its position and its
+53:18
+velocity and seeing what he could learn okay the measurement
+53:26
+involved interacting with the particle with a photon a photon would be the
+53:32
+thing which would be used to determine the position of momentum in other words
+53:37
+looking at it really meant hitting it with some light letting the light scatter off and then
+53:42
+focusing the light waves focusing the light waves in order to see exactly where the particle was just as you would do it
+53:49
+for a billiard ball or for anything else focus the light on your retina focus the light on some screen and reconstruct the
+53:56
+position of the particle that was what they were thinking about
+54:02
+okay now here's what einstein and the broglie and others have taught them about photons first of all
+54:11
+einstein had told them that the energy of a photon is equal to planck's constant
+54:18
+times the frequency of the light describing the photon
+54:24
+this is equivalent to planck's other constant h bar
+54:31
+times the angular frequency where f stands for the frequency of a wave number of cycles per second measured in
+54:38
+hertz okay usually a frequency of a light wave is a lot of hertz how many hertz
+54:46
+how many 10 to the 15th for ordinary light that's just a number 10 to the 15th hertz
+54:52
+omega is the same as the frequency except multiply by two pi
+55:00
+it's the angular frequency instead of the instead of the number of cycles per
+55:06
+second all right and h bar is just h divided by 2 pi
+55:11
+so these are the same expressions i'll use this one over here for the moment energy is equal to h times frequency
+55:18
+that's something that was known by einstein now
+55:24
+here's another fact about a beam of light beams of light have not only energy but
+55:29
+they also have momentum you can take a beam of light and shine it on something and it will warm it it
+55:35
+will heat it that tells you it has energy but you can also take a beam of light
+55:40
+and you can shine it at that door and if the beam of light has sufficient intensity it'll just push the
+55:46
+door open in other words the beam of light has momentum uh so that when it when the door absorbs
+55:52
+the beam of light the door gets a kick just as if uh just as if you threw a
+55:58
+ball at the door and the door colliding with the wall it has momentum okay now what is the
+56:06
+relationship between the energy of a beam of light and momentum i'll just tell you what it is this is
+56:13
+this is classical maxwell theory of why uh if a beam of light
+56:19
+moving in a particular direction assume it's moving in a particular direction has energy e
+56:26
+then it also has momentum and the relationship is that the energy
+56:34
+is the speed of light times the momentum incidentally let's just check the units
+56:40
+of that equation in another way compare that with newton's uh
+56:48
+theory of momentum and energy for an ordinary particle the energy is p squared over 2m
+56:58
+that's non-relativistic the momentum b squared over 2m
+57:07
+which is equal to p times p over m and an extra one over two
+57:16
+one-half momentum times momentum divided by velocity now what's momentum divided
+57:21
+by velocity sorry momentum divided by mass velocity
+57:27
+so this is equal to one-half momentum times velocity
+57:34
+well it's almost the same for a photon there's a it's not the same because we
+57:39
+have to use the theory of relativity for a cosine but the correction from the theory of relativity is not so
+57:46
+uh so enormous this is one-half the velocity of the particle times its momentum this is just equal to the
+57:53
+velocity of the particle times the momentum so for highly relativistic particles the
+57:58
+formula is very similar except the half goes away among other things
+58:03
+this argument tells you that the units are right energy is velocity time to a minimum
+58:11
+let me just solve that momentum is energy divided by the speed
+58:17
+of light we can now plug in and find that the momentum of a photon
+58:23
+or momentum of any little piece of light let's do a single photon now the energy of the photon is h times f
+58:30
+uh so the momentum is h times the frequency divided by the
+58:35
+speed of light now if you have a wave that's moving with the speed of light
+58:43
+you have a way of moving with the speed of light it's moving down and it has a certain frequency and a
+58:50
+velocity there's a connection between the frequency
+58:55
+and the uh between the frequency and the wavelength
+59:01
+think about it for uh for a moment here's a wavelength
+59:06
+let's call the wavelength lambda lambda is a standard uh there's a standard notation for the
+59:11
+wavelength of light the wavelength of anything
+59:18
+how far does the wave move in one cycle
+59:24
+the answer is lambda that's what lambda is it's the distance that the wave moves in one cycle if you stand there with
+59:32
+your nose watching that light ray and it's moving past you all right it moves past you one wavelength per
+59:40
+cycle one wavelength per unit per cycle how long does a cycle
+59:48
+take how long does one cycle take what's the period that goes with one cycle
+59:54
+the inverse of the uh of the frequency so the time that it takes the time that
+1:00:00
+it takes to move distance lambda is one over the frequency so let's just
+1:00:06
+write that down time to go one cycle is equal to one over the frequency
+1:00:12
+the distance that it goes in that same time is just lambda so what's the velocity of the wave the
+1:00:18
+velocity of the wave is the distance that it goes divided by the time that it travels
+1:00:24
+distance all the time is velocity c is equal to lambda divided by t which
+1:00:32
+means lambda times the frequency so this is a general formula relating
+1:00:38
+velocity lambda and frequency and let's see let's plug it into here now
+1:00:45
+let's get rid of the frequency the frequency is c divided by lambda
+1:00:52
+so frequency is c
+1:00:59
+divided by lambda and then there's another c down here and we get the broglie's
+1:01:07
+equation that the momentum is planck's constant divided by the wavelength the smaller
+1:01:14
+the wavelength the larger the momentum if you want a beam of particles with very high
+1:01:21
+momentum give it a small wavelength or to say it the opposite way if you want a
+1:01:27
+very short wavelength particle it's at the cost of having that particle have a large momentum
+1:01:34
+momentum and wavelength are inverse to each other
+1:01:39
+so now let's let's go back to once the measure wants to get a roughly
+1:01:46
+speaking he wants to get a photograph of the electron where the electron is uh not fuzzy
+1:01:53
+on scales larger than delta x just wants to take a photograph of the
+1:01:58
+electron oh it doesn't have to be an electron it could be a golf ball doesn't matter
+1:02:04
+what it is once they get a photograph of it and wants the photograph to be non-fuzzy
+1:02:10
+on a certain scale delta x well every photographer knows that or anybody who
+1:02:17
+understands anything about waves and images and so forth knows that to form an image which is
+1:02:22
+precise or non-fuzzy the size delta x you have
+1:02:28
+to use wavelengths that are shorter than delta x if you're trying to make an image of a
+1:02:34
+golf ball with a radio wave a radio wave of let's say 10 meters
+1:02:39
+the golf ball will look fuzzy on the scale of 10 meters if you're trying to do it with a
+1:02:45
+wavelength of a tenth of a tenth of a golf ball a tenth of a centimeter the golf ball
+1:02:51
+will look pretty good so the rule is that lambda
+1:02:58
+the wavelength of the light must be less than delta x if you want to
+1:03:03
+get an image with precision delta x now i erased an equation the equation that i erased is that the
+1:03:10
+momentum is equal to planck's constant divided by lambda
+1:03:17
+so now heisenberg was caught in a bind if he wants to measure the position
+1:03:24
+to a high accuracy delta x he's got to use a um he's got to use
+1:03:31
+a high momentum electron that's gonna use a short wavelength electron if he wants delta x to be smaller than a
+1:03:38
+centimeter then he's got to be using a wavelength smaller than a centimeter
+1:03:43
+but if he's using the wavelength smaller than a centimeter that means the momentum of the photon
+1:03:48
+has to be larger than h over one centimeter so the smaller delta x the larger
+1:03:58
+the momentum of the photon that he has to use to make the image the shorter the wavelength of the photon
+1:04:04
+that he has to use to make the image if lambda is small then p is going to be large
+1:04:10
+well now what does that mean that means that we're going to wind up bombarding
+1:04:16
+this object with a high momentum photon the high momentum photon
+1:04:23
+may make a very good image of the position but then it's going to collide with this and knock it off in some random
+1:04:29
+direction knock it off in a random direction with a momentum
+1:04:35
+uncertain uncertain momentum of order of magnitude of this momentum here
+1:04:42
+this particle will come in and just like the photon hitting the slit
+1:04:47
+it will get knocked in some random direction and so the conclusion will be that
+1:04:52
+immediately after you try to measure the position immediately afterwards the momentum
+1:05:00
+has become very uncertain it has been kicked hard having been kicked hard if you measure
+1:05:06
+its momentum afterwards it will have nothing to do with the momentum beforehand
+1:05:14
+so you cannot determine both the position and the momentum at the same time
+1:05:20
+measuring the position necessarily imparts a random momentum a kick a
+1:05:25
+random momentum kick for the particle result is
+1:05:31
+whatever the momentum is before was beforehand it won't be that afterwards
+1:05:37
+and that's another example of the fact that there's no such thing
+1:05:44
+as a gentle determination in quantum mechanics well you can do a
+1:05:51
+gentle determination but it will be a very imprecise determination
+1:05:56
+in classical physics incidentally oh keep in mind uh why what about classical physics why is
+1:06:02
+it different in classical physics the reason is because light doesn't come
+1:06:08
+in discrete packets in classical physics we've used the fact that
+1:06:14
+that light comes in discrete indivisible quantum discrete indivisible protons
+1:06:22
+and if we have a wavelength then there's a minimum amount of energy
+1:06:28
+that can be that can go with that minimal amount of momentum that can go with that wavelength
+1:06:34
+namely one photon you can't have less than a single photon in classical physics energy does not
+1:06:41
+come in discrete multiples of some basic unit and so you can do the same experiment
+1:06:47
+with as small an energy as you like you could it's
+1:06:54
+as though in classical physics you could subdivide that photon into arbitrarily small units of body
+1:07:01
+take just one of them with the same wavelength and form an
+1:07:06
+image with it in quantum mechanics you're always stuck by the fact that the energy of a light
+1:07:12
+wave comes in these discrete packets and that discrete packet that it
+1:07:18
+has wavelength lambda will have a momentum h over lambda and therefore give this an inevitable
+1:07:25
+kick of a mountain overlapping now that's
+1:07:31
+this is several examples of the same kind of thing that doing
+1:07:38
+experiments in quantum mechanics is different than doing experiments in classical mechanics you can always imagine
+1:07:44
+classical mechanics doing a very gentle experiment that doesn't disturb a system and then just go on from there and do a
+1:07:50
+later experiment and do a later experiment the earlier
+1:07:55
+experiments not having influenced the outcome of the later experiments
+1:08:01
+so for example you could measure the position and that will and that not affect the
+1:08:06
+outcome of a later detection of the velocity which is not true in quantum mechanics
+1:08:18
+these are a lot of examples but the examples add up to a
+1:08:24
+so a if you like a notion that the basic logic of classical mechanics is incorrect
+1:08:31
+basic underlying logic is not sufficient to understand the measurement process in quantum mechanics
+1:08:39
+um the whole setup is wrong the whole setup not just not just particular it's not just each
+1:08:45
+experiment you can go and analyze it and try to figure out what's wrong with it and try to correct for it
+1:08:50
+no the whole underlying structure of classical physics is inadequate to discuss quantum
+1:08:56
+mechanical phenomenon uh let's take a break for five minutes and then
+1:09:01
+start formulating its proper
+1:09:07
+okay uh somebody asked me about how do you measure the velocity of a particle
+1:09:14
+uh the answer is gently first of all
+1:09:20
+uh here's a simple here's a simple conceptual way to do it velocity or momentum momentum let's
+1:09:26
+suppose we know the mass of the particle so but by uh that by measuring its um velocity we
+1:09:32
+also measure its momentum a simple conceptual way to measure
+1:09:37
+velocity is to measure um location at two different times and then take the difference of location
+1:09:44
+that's how far it travels and divide by the time between measurements and that's the velocity
+1:09:50
+that's the way you would measure velocity now you have to be careful you want to measure the you want to measure the
+1:09:55
+position twice in succession but you don't want to measure the position with such with such good
+1:10:02
+with such a good determination that it gives a random kick to the velocity which is what you're trying to measure
+1:10:09
+you wouldn't want to measure the velocity by beginning the experiment with a random kick which randomizes the
+1:10:15
+velocity and sends it off in some direction very different than it was moving with
+1:10:20
+to begin with direction and velocity so your two measurements of velocity sorry of position
+1:10:28
+should be very gentle measurements that don't change the velocity very much or that don't change the momentum very
+1:10:34
+much that means that they must be done with photons
+1:10:39
+of very long wavelength if you don't want your first initial detection of the location of this
+1:10:45
+particle to to to give it a good whack
+1:10:51
+then you want to do it with a very long wavelength photon a long wavelength photon will then
+1:10:58
+tell you only that the electron is in some region of size lambda
+1:11:05
+okay so what you know then is the position of the electron x let's say plus or minus lambda
+1:11:13
+meaning to say that there's an uncertainty of magnitude lambda then you wait a really really long time
+1:11:20
+until the electron has moved a long long ways it has some velocity it started out with
+1:11:26
+some velocity you've you've changed the velocity only by a very small amount
+1:11:31
+by using a very long wavelength photon so we take the wavelength of the photon to be so long that there's been an
+1:11:38
+unappreciable change in the momentum and then at a much later time we
+1:11:43
+discover that the particle is at x plus or minus lambda maybe even plus
+1:11:49
+or minus 2 lambda plus vt
+1:11:55
+is velocity times the time between the two measurements
+1:12:01
+so true there's a little bit of sloppiness in the measurement of the positions a large sloppiness
+1:12:07
+excuse me in the measurements of the positions and that's going to lead to a sloppiness
+1:12:13
+in the distance be that the particle moves what's the sloppiness the sloppiness
+1:12:19
+the distance that the particle will move will be vt plus a sloppiness
+1:12:28
+of order lambda and we take lambda to be very big so that so that we don't disturb the
+1:12:35
+velocity very much then how do you find this is this is how far the particle moves
+1:12:41
+let's call it d distance that it moves in order to find the velocity we have to
+1:12:48
+divide the distance that it moves by the time so let's divide it by the time
+1:13:02
+this is a this is now a measurement in the sloppiness of the velocity the sloppiness of the velocity
+1:13:08
+measurement is lambda divided by t no matter how big lambda is if we wait long enough if we let t be
+1:13:16
+very very large then the sloppiness and the velocity can be made small
+1:13:22
+so the way we measure the velocity is by taking a long time to do it do very very gentle measurements of the
+1:13:28
+position so that we don't whack the velocity and in that way we can measure the
+1:13:33
+velocity with great precision however it's been at the cost of knowing
+1:13:38
+where the particle is the particle is not been determined to a
+1:13:44
+precision better than lambda the velocity has been determined to a precision of something like lambda over
+1:13:51
+t so whatever you do you'll never be able to
+1:13:56
+determine both the position and the velocity in the same experiment
+1:14:01
+to do one and not the other one or the other
+1:14:07
+kind of quantum mechanics yeah
+1:14:40
+uh let's see you wait a very long time so that uh
+1:15:05
+that's that's because you're taking this to be the uncertainty and the velocity but there's also an uncertainty from
+1:15:10
+here that has to do with the original setup let me think about it you i understand
+1:15:16
+your question let me think about it and come back to you with an answer um
+1:15:24
+yeah it's a good let me let me come back to it
+1:16:02
+yes i see i see yes you can um you can determine the position of this
+1:16:09
+wall by averaging over a long period of time with photons many many photons banging off it
+1:16:18
+uh yeah yeah
+1:16:28
+i'm uh i'm um trying to remember what i was going to talk about we'll come back to the
+1:16:34
+uncertainty principle for sure but i'm i've lost the threat of my thought
+1:16:45
+all right so i i forgot what i was going to say but let's just move on
+1:16:55
+so the fundamental logic of quantum mechanics is not the same as the fundamental logic of classical mechanics
+1:17:01
+and that shows up at the earliest possible stage namely what do you mean by the state of
+1:17:06
+a particle what do you mean by the configuration what do you mean by knowing
+1:17:14
+everything that there is to know about a system or everything that can be known about a system
+1:17:21
+in classical mechanics the space of states what we call the phase
+1:17:27
+space we had some various versions of it in one version it was just a set of points
+1:17:37
+i use the word set and i use the word set on purpose a set of points the states of a system
+1:17:44
+heads tails or one two three four five six for a die
+1:17:49
+uh in particle mechanics or mechanics more that's a little bit
+1:17:56
+less primitive than this very simple system here it's phase space the states
+1:18:01
+of the system are phase space p's and x's p's and x's
+1:18:07
+uh points in a phase space are the states of a system but again the
+1:18:12
+collection of possible states of a system form a set they form a set they form a set of
+1:18:19
+points and the basic logic of classical physics of classical phase
+1:18:24
+space is set theory sets of points describe the possible
+1:18:32
+states of a system and transitions or motions from one point of in that set to another point in that set
+1:18:40
+describe the mechanics or the dynamics of a system in phase space it's the flow
+1:18:45
+through phase space what exactly is a state a state is a
+1:18:51
+point in that set a member of the set an x and a p for particle
+1:18:59
+a point h or t for heads and tails
+1:19:07
+or a bunch of p's and x's for a general system of many particles but a point or a member of a set
+1:19:15
+now you could think of something a little more general and possibly call it a state
+1:19:22
+in which you introduce a bit of statistics a bit of a probability or a bit of uncertainty from the beginning
+1:19:29
+you might say look i my apparatuses do are not sufficient
+1:19:34
+to determine with infinite precision the position and velocity of a particle
+1:19:42
+so instead of doing that i will say the particle is somewhere in some little
+1:19:47
+region here or i might assign a probability distribution a probability distribution as a function
+1:19:53
+of x and p which might be peaked at the center here and fall off as you move away from it
+1:19:59
+and so forth a probability distribution on phase space might even be a more general version of
+1:20:06
+what you mean by the state of a system but if i told you that the notion of a
+1:20:12
+state of a system is a probability distribution i think most of you will come back and say
+1:20:18
+yeah but you know if i look more carefully at the system if i look more carefully i can always
+1:20:23
+reduce that probability distribution and i can always get as close as i like
+1:20:30
+by doing delicate experiments and again in classical physics doing experiments
+1:20:35
+which don't disturb the system terribly much doing experiments on the system which will get it to be closer and closer to a
+1:20:42
+point so when you speak about a statistical distribution you're as being a state you're not
+1:20:48
+talking about the maximum amount of knowledge that you could have about a system
+1:20:54
+you're talking about an impr a a practical limitation because of the coarseness of
+1:21:01
+your apparatuses and so forth might force you to use a probability distribution
+1:21:06
+and only talk about things to within a precision that you can measure them but you wouldn't think that that was
+1:21:13
+very fundamental and eventually you would say with sufficient accuracy in your apparatuses
+1:21:19
+that uh that the maximum you can know about a particle corresponds to a point in the phase
+1:21:25
+space and in that sense states in classical physics are points in a set
+1:21:34
+points in a set and you can know everything that's
+1:21:40
+implied by knowing a point in the set in particular in this case knowing a p
+1:21:46
+and an x in quantum mechanics states are not sets do not form sets
+1:21:54
+the natural way of manipulating states and asking questions about them is not
+1:21:59
+set theory as not state is not set theory
+1:22:07
+states are vectors
+1:22:12
+in a vector space in quantum mechanics quite a different mathematical object than a set
+1:22:19
+a vector space is mathematically extremely different than a set and in order to understand quantum
+1:22:25
+mechanics this is not some abstraction that is really um sort of unnecessary to
+1:22:31
+understanding the subject this is so central that that to not talk about it we would completely
+1:22:38
+miss the basis of the basics of quantum mechanics what in order to understand
+1:22:46
+the logic of quantum mechanics we have to understand the mathematics of vector spaces
+1:22:53
+we're just forced to it there's no way around it if i tried to do things without it i'd
+1:22:59
+be faking so let's talk about vector spaces now
+1:23:04
+the use of the term vector or these are vector spaces linear vector spaces every vector space is linear
+1:23:12
+so linear is a redundant word but they're vector spaces over the complex numbers that may mean
+1:23:19
+nothing to you right now but it will as we go along vector space the space of states the state space
+1:23:28
+space of states
+1:23:36
+is not a set but it is a vector space
+1:23:48
+now the use of the word vector can be in vectors a vector space over the complex numbers
+1:23:56
+over c c stands for the complex numbers and i'll tell you exactly what this means if you don't know what it means
+1:24:02
+don't worry because you will know okay first of all most of us are
+1:24:08
+familiar with the notion of vector from the classical notion of a pointing
+1:24:14
+of a thing pointing in a direction an ordinary three-dimensional space with a certain length what i'm talking
+1:24:22
+about is not vectors in space in that sense these are abstract vectors in abstract
+1:24:28
+vector spaces which have nothing to do with your naive concept of a vector in space
+1:24:34
+as an arrow pointing in some direction in space with a given length when i teach this i usually
+1:24:43
+make a linguistic distinction between vector spaces and pointers in space which are the
+1:24:49
+things you usually think about as vectors uh i i can never quite figure out how to
+1:24:54
+do this without getting everybody confused including myself
+1:25:00
+i will try as much as possible when i'm talking about a three-dimensional vector in space
+1:25:06
+a kind of vector that could correspond to velocity or position or momentum and that sort of thing
+1:25:12
+i'm going to use the term pointer whenever there is any ambiguity about what i'm talking
+1:25:17
+about a pointer meaning a direction an ordinary three-dimensional space together with a
+1:25:23
+length i'll use the term pointer in order to not get confused
+1:25:28
+with a completely different mathematical concept or not a different mathematical to a much more general mathematical
+1:25:34
+concept called a vector space a vector space is a space of vectors
+1:25:40
+but of course these vectors are not pointers in ordinary direction of ordinary space pointers in ordinary
+1:25:46
+space are a special case of vector spaces but not the special case we're going to be interested in
+1:25:53
+okay so let me tell you what a vector space is first of all it's a collection of mathematical objects called vectors
+1:26:01
+again i'll emphasize over and over not vectors nor just abstract objects
+1:26:08
+called vectors maybe i should change their name and not the name of uh the vectors in
+1:26:13
+three-dimensional space we could go we could call them vectors or uh or schmecters but uh
+1:26:21
+but uh one way or another we've got to uh make some distinctions all right it's
+1:26:28
+a collection of objects which we can label let's label them
+1:26:35
+we can also label sets by points and give the points labels like a b and c and so forth but
+1:26:42
+now i'm labeling vectors and to indicate that they are vectors of the right kind
+1:26:48
+namely the kind that come into quantum mechanics we're going to draw
+1:26:54
+a symbol like that this is called a ket
+1:27:02
+vector it's called a ket vector by dirac there's another kind of vector called a
+1:27:08
+bra vector and if you put them next to each other they make a bra cat or a bracket that's where the name
+1:27:15
+came from but we'll come to brackets in a little while it's half a bracket a bracket being what happens when you put a bra
+1:27:21
+next to a cat is that clear yeah okay okay so there's a collection
+1:27:27
+of objects collection of objects called vectors
+1:27:32
+okay now what does it mean to say it's a vector space over the complex numbers what it means
+1:27:41
+is that first of all you can multiply vectors by complex numbers now the ordinary vectors in ordinary space
+1:27:48
+are a vector space over the real numbers if i have a vector for example three units of length
+1:27:55
+pointing in the direction north by northwest that are 45 degrees to the to the horizontal that would define a
+1:28:02
+pointer if you like all right so ordinary three-dimensional pointers
+1:28:07
+uh have a length and a direction you can multiply them by numbers if you
+1:28:14
+multiply a certain vector this one here this sorry a certain pointer
+1:28:19
+by 2 it just gets twice as long in the same direction if you multiply it by -1 it's the same
+1:28:27
+length but pointing in the opposite direction if you multiply it by seven and a half it becomes seven and a half times as
+1:28:33
+long so you can multiply of a pointer a pointer by an ordinary real number
+1:28:42
+positive or negative mathematicians would say that pointers
+1:28:47
+form a vector space over the real numbers vectors over the real numbers meaning to say that you can multiply them by real
+1:28:54
+numbers and when you multiply them by a real number you get another pointer back
+1:29:00
+we're going to make a generalization of that idea where vectors can be multiplied by
+1:29:06
+complex numbers now eventually we'll see some examples there's nothing like an example to
+1:29:11
+to make it clear but what that means is that given any vector you can
+1:29:17
+multiply it given a you can multiply it by any complex
+1:29:22
+number let's use for complex numbers let's use the greek alphabet
+1:29:28
+so if alpha is any complex number every i assume everybody here is
+1:29:33
+familiar with complex numbers i'm going to assume that i'm not going to teach you complex
+1:29:38
+numbers here you can multiply any vector by a complex number alpha
+1:29:46
+and it's the and it's a new vector not the same vector it's another vector so the operation of
+1:29:52
+multiplying by a complex number is well defined in a complex vector space
+1:29:58
+we can call this b for example multiplying by alpha maps every vector
+1:30:04
+into another vector alpha being any complex number that's
+1:30:10
+the first property of a vector space over the complex numbers sometimes we can call it a hilbert's i
+1:30:17
+mean sometimes it's just called the hilbert space vector space is over the complex number
+1:30:23
+a hilbert space hilbert was a mathematician so that's the first property given a
+1:30:28
+vector you can multiply it by any complex number and it's a new vector second property is that if you have two
+1:30:37
+vectors any two vectors let's call them a and b you can add them and you get another
+1:30:46
+vector so adding vectors give new vectors
+1:30:53
+now first of all here's something which is really these both of these things are really
+1:31:00
+new when you go from classical mechanics to quantum mechanics in classical mechanics the notion of a
+1:31:06
+state is a point in a in a space of points in other words in a set
+1:31:12
+it doesn't make any sense to multiply uh points
+1:31:18
+in a set by a number for example let's take heads and tails what does it mean to multiply heads by
+1:31:24
+three or heads by a complex number it doesn't mean anything you just have two points heads and tails
+1:31:31
+and that's all you have uh you don't have a thing that you would call three times
+1:31:37
+heads or or minus three times heads or two plus four times i times heads so in saying that state
+1:31:45
+vector that states of a system are a vector space this is something new and radical and weird
+1:31:52
+you should not understand this at this point unless of course you've done quantum mechanics before this should not make any sense at all
+1:31:58
+but for the moment we're doing some abstract mathematics to get some definitions and then i'll show you how those definitions
+1:32:04
+uh apply so first of all you can multiply a vector an abstract vector by any
+1:32:11
+complex number and you get a new vector that's an operation that you can do
+1:32:16
+and the next operation is that you can add any two vectors now of course if you can add any two
+1:32:21
+vectors and you can also multiply them by complex numbers then you can also then you can also
+1:32:29
+multiply the first vector by a complex number the second vector by a complex number
+1:32:34
+and that gives you some new i won't call it c i'll call it c prime
+1:32:41
+so what you can do with the vector space is you can take any pair of vectors
+1:32:46
+multiply both of them by arbitrary complex numbers add them and you get a new vector so the
+1:32:53
+notion of addition is well-defined of course for ordinary pointers
+1:32:59
+the notion of addition is also defined and it's defined by the operation
+1:33:06
+of drawing the parallelogram
+1:33:13
+ordinary vectors satisfy both of these rules that you can multiply a vector by any
+1:33:20
+real number i'm sorry not complex numbers ordinary pointers as i said are vector spaces over the
+1:33:27
+real numbers and that means that you can multiply any of them
+1:33:32
+by a real number and you can add any pair of any pair of pointers to get a new
+1:33:37
+pointer so ordinary pointers in space are a special case of a vector space over the real
+1:33:43
+numbers let me give you a couple of other examples
+1:33:49
+in particular vector spaces over the complex numbers this was the reason hilbert
+1:33:56
+originally invented the notion of hilbert space to describe functions functions of x
+1:34:02
+let's say functions of one variable for simplicity that's the simplest example
+1:34:16
+take the class of functions of one variable x let's take x to be the variable but
+1:34:22
+complex functions of one variable functions psi of x
+1:34:31
+which are the sum of two terms let's call it a real part psi real of x where psi real of x
+1:34:40
+always takes on real values plus i i being the square root of minus 1
+1:34:46
+times the imaginary part of psi every complex number is a sum of a real
+1:34:53
+part plus an imaginary part and every complex function now this is a
+1:34:59
+function of only one variable it's not a function of a complex variable it's a function of an ordinary
+1:35:04
+variable but the function itself can be complex all right so this means that for every
+1:35:12
+point x there is a complex number psi of x
+1:35:18
+or equivalently two real functions now let's take any complex function
+1:35:26
+let's take any complex function like this we can multiply it by a complex number
+1:35:31
+any complex number
+1:35:36
+defines a new function you can multiply the complex number psi
+1:35:43
+plus psi real plus i psi imaginary by air complex number alpha in other words complex numbers can be
+1:35:49
+multiplied and therefore you can take any complex number and multiply it by any function
+1:35:57
+so first of all functions of x satisfy the first rule
+1:36:04
+the collection of functions the collection of functions of x a collection of complex functions of x
+1:36:10
+form a vector space that's the that's the assertion we're going to check that first of all
+1:36:16
+you can multiply any function by a complex number and you get a new function all right so it satisfies rule number
+1:36:22
+one what about rule number two you can take any pair of functions and
+1:36:28
+add them together and you get a new function so if you have two functions psi and phi let's call them
+1:36:43
+that's another function a perfectly good one
+1:36:48
+so if psi and phi are complex functions their sum is a complex function that's enough to tell you that complex
+1:36:54
+functions are a vector space over the complex numbers real functions are a vector space over
+1:37:03
+the real numbers but they're not a vector space over the complex numbers why not
+1:37:09
+because you can't multiply a real function by a complex number and get back a real function
+1:37:14
+you'll get back a complex function you don't get back a real function so complex functions form a complex
+1:37:21
+vector space and that's the that actually is this with the vector space
+1:37:26
+that that hilbert was first interested in that's an example of a hilbert space
+1:37:33
+it's an important example in quantum mechanics maybe the most important example but for now i'm just illustrating
+1:37:41
+the the abstract mathematical definitions complex functions of x form a vector
+1:37:48
+space over the complex numbers let me give you another one
+1:37:56
+it's uh very similar
+1:38:01
+let's
+1:38:15
+let's invent a thing called a column vector a column vector is just a collection of
+1:38:20
+numbers which have and we can decide how many we fix the number of numbers
+1:38:26
+uh one two three any number we like but let's fix it right and we simply arrange them in a
+1:38:33
+column let's call those numbers let's give them let's call them a 1
+1:38:40
+a 2 a 3 and a 4. this would be a vector space of
+1:38:46
+dimension 4. we could also think of vector spaces of dimension 2
+1:38:53
+a1 and a2 just pairs of numbers pairs of complex numbers here's
+1:39:00
+quadruples of complex numbers we could make quintuples of complex numbers sex tuples of complex
+1:39:07
+numbers and we could even imagine infinite columns of complex numbers or just one
+1:39:15
+complex number just one complex number one unit long a one of x all of these
+1:39:21
+each one separately not all together but each one separately four dimensions or two dimensions or three dimensions each of
+1:39:28
+these form the collection of such objects form a complex vector space
+1:39:38
+vector space over the complex numbers so let's take this particular complex vector space
+1:39:43
+here a 1 a 2 a 3 a 4 where the a's are arbitrary complex numbers
+1:39:52
+if these are arbitrary complex numbers and we display them in a column like this
+1:39:57
+then i assert that there are rules which will allow this to be a vector space so what are the rules
+1:40:03
+i'm going to invent now a rule of addition notice so far there's been no rule of
+1:40:09
+multiplication of vectors only addition of vectors so the rule for
+1:40:14
+adding two vectors here's two vectors one i'll call a the other one i'll call b b1 b2
+1:40:21
+b3 b4 just add the entries this is the
+1:40:27
+definition of adding of column vectors
+1:40:32
+a1 plus b1 a2 plus b2 a3 plus b3
+1:40:39
+a4 plus b4 obviously with this definition
+1:40:44
+if you take any two vectors and you add them you get another vector the a's and b's
+1:40:52
+are arbitrary complex numbers but each specification of four complex
+1:40:58
+numbers defines a vector there are two vectors one labeled a one
+1:41:03
+labeled b here's a third one that you can make out of it all right so i started uh for some
+1:41:10
+reason i started with the addition rule here but it's also true that we can invent the idea of
+1:41:16
+multiplication by a complex number if we want to take a vector let's call it a 1 a 2 a 3 and a 4
+1:41:24
+and multiply it by the complex number alpha we just do that by multiplying every
+1:41:30
+entry by alpha alpha a1 alpha a2
+1:41:35
+alpha a whoops alpha a3 and alpha a4
+1:41:42
+we multiply every entry by the same number that defines multiplication by a complex
+1:41:49
+number and all i've done is multiply complex numbers here
+1:41:54
+obviously given any vector in any complex number i can make another vector by multiplication not multiplication of
+1:42:01
+vectors but multiplication of numbers by vectors and given any two
+1:42:07
+vectors you can add them so the collection of objects arranged in a column this way
+1:42:15
+also form a vector space now if i were to take the collection that consists of vectors of length 2
+1:42:23
+length 3 length 4 and combine them all together that's not a vector space because i
+1:42:30
+haven't given you any rule for adding a vector with with length 2 to a vector of length 3. i haven't told
+1:42:37
+you how to do that and i don't see any obvious rule for that so it's
+1:42:43
+uh with this set of rules the collection of two-dimensional vectors three for the
+1:42:49
+whole shebang does not form a vector space but for a given length fix the length it
+1:42:56
+forms a vector space and the terminology is that it forms a vector space in this case of dimension
+1:43:02
+four now of course this has an analog
+1:43:08
+for ordinary pointers for pointers we can just think of these as the
+1:43:14
+components of the pointer along the different axes pick some axes
+1:43:19
+x y and z and pointers have components so we can also specify an ordinary
+1:43:25
+pointer by specifying a collection of components
+1:43:31
+or collection of components along different axes and that that also defines a uh
+1:43:39
+a pointer so it's natural to call these numbers the components
+1:43:45
+of a vector and we'll come back to the uniqueness of components
+1:43:53
+you can if you like think of such a column as a function of
+1:44:00
+the index variable here well let's let's get that's too abstract let's let's drop
+1:44:06
+that for the moment we'll come back to it can be thought of as a function but uh we don't need to
+1:44:18
+now of course i've told you nothing about in what possible sense what possible sense can it make to identify
+1:44:26
+vectors with states of systems we're not going to do that tonight tonight we're just going to talk about
+1:44:32
+about the abstract notion of a vector tonight and a bit of next week we'll talk about the abstract notion of a
+1:44:37
+vector and then we'll talk about how vector spaces define uh the states of a system and then go on
+1:44:45
+and work out some examples of uh of uh quantum mechanical systems described by such
+1:44:50
+vector spaces at the moment this should be sort of um mumbo jumbo
+1:44:55
+right success success what success in
+1:45:02
+in making mumbo jumbo no i think i've given you rather accurate definitions that you can
+1:45:07
+understand of what vectors are and how to manipulate them how to
+1:45:13
+how to manipulate them how to do the abstract operations with them these abstract operations are in many
+1:45:20
+ways analogous to the abstract operations that you do with set theoretic logic with boolean
+1:45:26
+logic these abstract these abstractions for
+1:45:32
+how you manipulate vector spaces are the generalizations if you like
+1:45:39
+of how boolean set theory allows you to ask uh less allows you to
+1:45:45
+combine concepts together and or all these ideas have some meaning
+1:45:50
+in uh set theory what is and and is you take two sets and you combine them and make the union of them or
+1:45:56
+you take the intersection or is it the other way it's the other way isn't it it's the other way sorry and is the intersection or is the is the
+1:46:03
+union of two sets the analogous logic in quantum mechanics
+1:46:08
+doesn't operate on sets it acts on vector spaces so it's best that we get rid that we go
+1:46:15
+through vector spaces once and for all it's the basic underlying mathematics and once we get familiar with it it
+1:46:21
+won't seem so uh so much mumbo-jumbo but at the moment we're doing abstract mathematics any other question
+1:46:28
+okay so let's continue with the abstractions
+1:46:38
+now there's a notion of every for every such
+1:46:43
+vector space well let's let's leave this here there's a notion of a dual vector space
+1:46:51
+the dual vector space is in one to one correspondence with the original vector space well let's go back a step
+1:46:57
+let's just talk about complex numbers for complex numbers
+1:47:06
+incidentally complex numbers are themselves a vector space you can multiply complex numbers by a
+1:47:12
+complex number you can add complex numbers they're just the case of one dimension one-dimensional vector
+1:47:20
+spaces over the complex numbers are just the complex numbers
+1:47:25
+now there's an operation that you can do on complex numbers which is called complex conjugation it's a very
+1:47:33
+important operation and all it is if you think about the
+1:47:39
+cartesian plane if you think about the complex plane the real part of a number being on the
+1:47:46
+horizontal axis and the imaginary part being on the vertical axis
+1:47:53
+then the number then is described by a real part
+1:48:01
+the real part is the horizontal component and the the imaginary part of the
+1:48:07
+vertical component and we will just write that this number usually called z is equal to x plus iy
+1:48:18
+the complex conjugate number is just the number reflected
+1:48:24
+about the horizontal if this is a number called z x plus i y
+1:48:31
+then x minus i y is called z star
+1:48:39
+x minus i y is the complex conjugate of x plus i y or z star is the complex conjugate
+1:48:46
+of z let's uh let's manipulate something let's let's consider the product of z times z
+1:48:52
+star z times z star what is it
+1:49:00
+it's equal to x plus iy times x minus iy
+1:49:06
+that's x squared now we get i x y and then we get minus i
+1:49:14
+x y from the cross terms they cancel and then plus y squared why did i write
+1:49:19
+plus y squared because i times minus i is plus one
+1:49:24
+i times i is minus one so i times minus i is plus 1. z star z
+1:49:32
+is x squared plus y squared what is x squared plus y squared x squared plus y squared is the
+1:49:38
+square of the length of this hypotenuse here so z star z is the square of the length
+1:49:48
+or the square of the magnitude of the number or its distance from the origin
+1:49:53
+so complex conjugation is a convenient uh operation among other things the complex
+1:50:01
+conjugate times a number is uh the mag square of the magnitude of the number
+1:50:08
+um and if you're not
+1:50:16
+most of you of course are quite familiar with complex conjugation i want you to think of it as a very very basic operation but more than that i
+1:50:24
+want you to think of it as a mapping of the numbers back into the numbers
+1:50:29
+given any number any complex number you can map it to its complex conjugates
+1:50:36
+what about vector spaces i think we should probably quit now i think it's time to quit now next time we'll go through a little more
+1:50:42
+about vector spaces vector spaces operators uh hermitian operators and
+1:50:48
+eigenvalues and then we'll begin applying it to quantum mechanical problems
+1:51:02
+the preceding program is copyrighted by stanford university please visit us at stanford.edu

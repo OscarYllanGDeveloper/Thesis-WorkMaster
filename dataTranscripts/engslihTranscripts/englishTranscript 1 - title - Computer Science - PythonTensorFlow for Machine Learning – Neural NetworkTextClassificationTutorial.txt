@@ -1,0 +1,8782 @@
+0:00
+this is my machine and for some reason
+
+0:03
+it's learning
+
+0:05
+what's up code squad if you're new here
+
+0:07
+welcome to the squad and if not welcome
+
+0:10
+back my name is kylie ying and today i'm
+
+0:13
+going to be talking about machine
+
+0:16
+learning more specifically we'll dive
+
+0:18
+into supervised learning and then we'll
+
+0:21
+learn how to use tensorflow to create a
+
+0:23
+neural net and then use a neural net for
+
+0:26
+some text classification
+
+0:28
+sound exciting let's get started
+
+0:33
+all right jumping straight into things
+
+Colab intro (importing wine dataset)
+0:35
+the first thing that we're going to do
+
+0:37
+is go to
+
+0:38
+colab.research.google.com
+
+0:43
+and it'll pull up a page like this
+
+0:45
+you're going to click new notebook this
+
+0:47
+is going to create a new notebook and
+
+0:49
+let's retitle this to free code camp
+
+0:52
+tutorial
+
+0:54
+okay it doesn't really matter you know
+
+0:56
+what you actually
+
+0:58
+rename it to as long as you have a
+
+1:00
+notebook open and
+
+1:02
+just in case you know you have some
+
+1:03
+future notebooks that's why you want to
+
+1:04
+rename all of them
+
+1:06
+so the typical libraries that i'll
+
+1:08
+import when i usually start a computer
+
+1:11
+data science project
+
+1:13
+are
+
+1:14
+numpy so
+
+1:16
+import numpy as np
+
+1:18
+pandas import pandas as pd
+
+1:22
+and then import
+
+1:24
+matplotlib
+
+1:28
+okay so because i'm going to be using
+
+1:30
+tensorflow in this video i'm also going
+
+1:32
+to import
+
+1:34
+tensorflow
+
+1:36
+as tf
+
+1:37
+and then import tensorflow
+
+1:41
+hub as hub
+
+1:43
+okay
+
+1:43
+now if you click shift enter it'll run
+
+1:46
+this cell
+
+1:47
+another thing that you can do is click
+
+1:49
+this little play button over here that
+
+1:51
+will also run the cell
+
+1:53
+so
+
+1:55
+cool
+
+1:56
+yeah if we click that that runs the cell
+
+1:58
+as well
+
+2:00
+all right so the first thing that we're
+
+2:01
+going to need to do before we can
+
+2:02
+actually do any data analysis is upload
+
+2:05
+a data file
+
+2:06
+so this little folder over here this is
+
+2:09
+where we manage our data or sorry this
+
+2:12
+is where we manage our files
+
+2:14
+and
+
+2:15
+i'm just going to drag and drop the csv
+
+2:17
+file the link is in the description
+
+2:18
+below
+
+2:20
+into here
+
+2:21
+so click ok
+
+2:23
+and you'll see that this is currently
+
+2:26
+being uploaded
+
+2:29
+sweet
+
+2:33
+might take a while because this is
+
+2:36
+a pretty big data set
+
+2:41
+we can wait until this yellow
+
+2:44
+thing goes all the way around
+
+2:46
+all right so
+
+2:48
+pause
+
+2:50
+all right sweet now wine reviews.csv has
+
+2:53
+uploaded to this folder which means that
+
+2:55
+we have access to it in this notebook
+
+2:57
+now so now what we can actually do is
+
+2:59
+import that csv file as a data frame
+
+3:02
+using pandas which is this library here
+
+3:05
+that we imported
+
+3:06
+so what i'm going to do is say df equals
+
+3:09
+pd.readcsv
+
+3:10
+so this is just a command that lets us
+
+3:12
+read a csv file
+
+3:14
+and i'm going to type in winereviews.csv
+
+3:17
+and then also i'm going to
+
+3:19
+use certain columns so if we actually
+
+3:22
+took a look at this
+
+3:26
+uh
+
+3:28
+data frame here we can call
+
+3:30
+df.head
+
+3:32
+we see that we have this like unnamed
+
+3:35
+column over here that contains a bunch
+
+3:38
+of
+
+3:39
+like indices and we don't really want
+
+3:41
+that so what i'm going to do is say use
+
+3:43
+columns
+
+3:45
+give a list of the columns that i want
+
+3:47
+so i want maybe the country
+
+3:49
+the description
+
+3:50
+[Music]
+
+3:51
+the points
+
+3:54
+the price
+
+3:57
+and you know i don't really care about
+
+3:59
+some of these things like the twitter
+
+4:01
+handle
+
+4:02
+i think the variety might be cool to
+
+4:04
+check out
+
+4:07
+maybe the winery
+
+4:10
+all right so
+
+4:11
+let's
+
+4:12
+run that and then now take another look
+
+4:15
+at the data set so now in our data set
+
+4:17
+we have the country the description the
+
+4:20
+points the price
+
+4:21
+the variety and the winery something
+
+4:24
+that i think would be really cool is to
+
+4:26
+see if we can try to guess or ballpark
+
+4:29
+you know whether something falls on the
+
+4:31
+lower end of the point spectrum or the
+
+4:33
+higher end of the point spectrum given
+
+4:35
+the description that we have here
+
+4:38
+so
+
+4:39
+the first thing that we do see also is
+
+4:40
+that we have a few none type values in
+
+4:43
+our data frame that's what this here
+
+4:45
+stands for it means there's no value
+
+4:47
+recorded there
+
+4:48
+so
+
+4:50
+let's just focus on these two columns
+
+4:52
+actually the description and the points
+
+4:54
+because i think that's what we'll try to
+
+4:57
+like align we're gonna use a description
+
+5:00
+to predict the points
+
+5:02
+something that we can do is a command
+
+5:04
+called drop nah
+
+5:06
+don't know if that's you know the right
+
+5:08
+way to say it but in my head that's what
+
+5:10
+i say
+
+5:11
+and we can say subset which means that
+
+5:13
+you know in a subset of these
+
+5:16
+columns that's where we're going to try
+
+5:18
+to drop the pr like the the nand column
+
+5:21
+so here
+
+5:22
+i'm going gonna say description
+
+5:25
+and then points
+
+5:27
+run that
+
+5:28
+okay so
+
+5:30
+don't even know if this has changed
+
+5:33
+okay i mean we still see this because we
+
+5:34
+didn't drop anything in that column
+
+5:36
+because it doesn't really matter to us
+
+5:38
+let's just quickly see let's plot like
+
+5:41
+the points column to see the
+
+5:42
+distribution of the points so we can use
+
+5:45
+matplotlib for that
+
+5:46
+so let's do plt.hist
+
+5:50
+so this is going to be a histogram which
+
+5:52
+shows the distribution of values
+
+5:54
+um because it's only a one-dimensional
+
+5:57
+variable
+
+5:58
+so
+
+5:59
+let's do df dot points which calls like
+
+6:02
+this points column
+
+6:04
+and let's just say bins equals 20.
+
+6:07
+now if we do plt.show this should
+
+6:09
+display our plot
+
+6:12
+all right i didn't include the title and
+
+6:14
+the axes because this is kind of just
+
+6:16
+for us to
+
+6:18
+quickly look at it if you were to
+
+6:21
+actually plot
+
+6:22
+you know this as
+
+6:24
+some sort if you were to if you wanted
+
+6:26
+to actually plot this for other people
+
+6:29
+to view you might want to say plt.title
+
+6:32
+is know points histogram
+
+6:36
+and the plt label
+
+6:38
+the y label so that label for the y axis
+
+6:41
+would be
+
+6:42
+you know n the number of values that lie
+
+6:45
+in each bin
+
+6:46
+and then the x label i would say
+
+6:51
+uh
+
+6:52
+it would be the point
+
+6:54
+so if we see something like this tada
+
+6:57
+there is our plot this is our
+
+6:58
+distribution of points so we see that it
+
+7:02
+seems like it's on a range from 80 to
+
+7:04
+100
+
+7:05
+which means that
+
+7:06
+let's try to classify these reviews as
+
+7:10
+below
+
+7:11
+90 and then above 90. so we're splitting
+
+7:13
+this into two different categories low
+
+7:16
+which is over here and high which is
+
+7:18
+over here
+
+7:20
+now before
+
+7:21
+we proceed with the rest of this
+
+7:23
+tutorial
+
+7:24
+we're going to learn a little bit about
+
+7:26
+machine learning because you can't
+
+7:28
+really just dive into the code without
+
+7:30
+understanding
+
+7:32
+what's going on or at least having you
+
+7:33
+know a vague sense of what's going on
+
+7:35
+which is what i'm going to try to teach
+
+7:37
+in this video so let's hop over to some
+
+7:40
+more
+
+7:41
+theoretical aspects of machine learning
+
+7:47
+so first let's talk about what is
+
+What is machine learning?
+7:49
+machine learning
+
+7:51
+well machine learning is a subdomain of
+
+7:53
+computer science that focuses on
+
+7:55
+algorithms which help a computer learn
+
+7:58
+from data without explicit programming
+
+8:01
+for example let's say i had a bunch of
+
+8:03
+sports articles and a bunch of recipes
+
+8:06
+explicit programming would be if i told
+
+8:09
+the computer hey look for these specific
+
+8:11
+words such as
+
+8:13
+goal
+
+8:13
+or player or ball
+
+8:16
+in this text and if it has any of those
+
+8:18
+words then it's a sports article
+
+8:20
+on the other hand if it has flour sugar
+
+8:23
+oil eggs then it's a recipe
+
+8:26
+that would be explicit programming but
+
+8:28
+in machine learning what the goal is i
+
+8:31
+instead provide the computer with some
+
+8:33
+sort of algorithm for the computer to be
+
+8:35
+able to decide for itself hey these are
+
+8:38
+words associated with the sports article
+
+8:40
+and these are words associated with a
+
+8:42
+recipe
+
+8:44
+sound cool
+
+8:45
+it is so stay tuned
+
+8:49
+now these days we've heard a lot of
+
+8:50
+words kind of you know being thrown out
+
+8:52
+there such as artificial intelligence
+
+8:54
+machine learning data science cloud
+
+8:58
+blockchain crypto et cetera et cetera et
+
+9:00
+cetera
+
+9:01
+now we won't talk about the cloud or
+
+9:04
+crypto or blockchain
+
+9:06
+but let's kind of talk about ai
+
+9:09
+versus ml versus data science and what
+
+9:11
+the difference between all of these is
+
+9:14
+so artificial intelligence is an area of
+
+9:17
+computer science where the goal is to
+
+9:20
+actually enable computers and machines
+
+9:22
+to perform human-like tasks and to
+
+9:24
+simulate human behavior
+
+9:27
+now machine learning is a subset of ai
+
+9:30
+that tries to solve a specific problem
+
+9:33
+and make predictions using data
+
+9:39
+now data science is a field that
+
+9:41
+actually attempts to
+
+9:43
+find patterns and draw insights from the
+
+9:45
+data and you know data scientists might
+
+9:48
+actually use some sort of machine
+
+9:49
+learning techniques while they're doing
+
+9:51
+this
+
+9:52
+and the kind of common theme is that all
+
+9:55
+of these overlap a little bit and all of
+
+9:58
+them might use machine learning
+
+10:00
+so we'll be focusing on machine learning
+
+10:04
+there are a few different types of
+
+10:05
+machine learning so the first one is
+
+10:08
+supervised learning which uses labeled
+
+10:10
+inputs
+
+10:12
+meaning that the input has a
+
+10:13
+corresponding output label to train
+
+10:16
+models and to learn outputs
+
+10:20
+so for example let's say i have these
+
+10:23
+pictures of some animals so we have a
+
+10:25
+cat a dog and a lizard
+
+10:29
+well in supervised learning we would
+
+10:31
+also have access to these labels so we
+
+10:33
+would know that this picture is
+
+10:35
+associated with a cat
+
+10:37
+this picture is associated with a dog
+
+10:40
+and this picture is associated with a
+
+10:42
+lizard
+
+10:43
+and now because we have all of these
+
+10:46
+input output pairings we can stick this
+
+10:48
+data into a model and hope that the
+
+10:50
+model is able to
+
+10:52
+then generalize to other future pictures
+
+10:55
+of cats or dogs or lizards and correctly
+
+10:58
+classify them
+
+11:01
+now there's also such thing as
+
+11:03
+unsupervised learning and in this case
+
+11:05
+it uses unlabeled data in order to learn
+
+11:08
+certain patterns that might be hiding
+
+11:10
+inside the data
+
+11:12
+so let's go back to our pictures of our
+
+11:15
+animals
+
+11:16
+and now we might have multiple pictures
+
+11:18
+of cats multiple pictures of dogs
+
+11:20
+multiple pictures of lizards
+
+11:22
+and also just a quick note that we would
+
+11:24
+also have these in supervised learning
+
+11:26
+but all of these would have
+
+11:28
+the cat label the dog label and the
+
+11:30
+lizard label associated with them
+
+11:34
+but okay now going back to supervised
+
+11:36
+learning we have all these pictures
+
+11:38
+and what our algorithm is going to want
+
+11:41
+to do it wants to learn hey these are
+
+11:44
+all something you know of group a
+
+11:46
+because they're all similar in some way
+
+11:49
+these are all group b
+
+11:51
+and these are all group c
+
+11:53
+and it basically tries to learn this
+
+11:55
+inherent structure or pattern within the
+
+11:58
+things that you know we're feeding it
+
+12:01
+finally there's reinforcement learning
+
+12:04
+so in reinforcement learning there's an
+
+12:06
+agent that's learning in an interactive
+
+12:08
+environment and it's learning based off
+
+12:11
+of rewards and penalties
+
+12:14
+so let's think about a pet
+
+12:17
+for example
+
+12:18
+and every single time our pet does
+
+12:20
+something that we want it to so for
+
+12:22
+example some sort of trick we give it a
+
+12:25
+treat
+
+12:26
+such as in this picture
+
+12:28
+now
+
+12:29
+if you know if our pet does something
+
+12:31
+that we don't want it to for example pee
+
+12:33
+on our flowers
+
+12:36
+then we might scold the pet and the pet
+
+12:38
+would then
+
+12:40
+like the pet would then start learning
+
+12:41
+okay
+
+12:42
+you know it's good when i do this trick
+
+12:44
+and it's bad when i pee on the flowers
+
+12:47
+this is kind of what reinforcement
+
+12:49
+learning is except instead of your pet
+
+12:52
+it's a computer or i guess an agent
+
+12:55
+that's being stimulated by your computer
+
+13:01
+now in this specific video we're just
+
+13:04
+going to be focusing on supervised
+
+13:06
+learning so that's using these labeled
+
+13:08
+input and output pairings in order to
+
+13:11
+make future predictions
+
+13:15
+okay so let's talk about supervised
+
+13:18
+learning
+
+13:21
+so this is kind of what our machine
+
+13:23
+learning model is we have a series of
+
+13:27
+inputs that we're feeding into some
+
+13:29
+model and then this model is generating
+
+13:32
+some sort of output or prediction
+
+13:34
+and the coolest part is that this model
+
+13:38
+we're as we as programmers are not
+
+13:40
+really telling this model any specifics
+
+13:43
+we're not explicitly programming
+
+13:45
+anything
+
+13:46
+rather this model
+
+13:48
+our computer is trying to learn patterns
+
+13:51
+amongst you know these input this input
+
+13:54
+data in order to come up with this
+
+13:57
+prediction
+
+13:59
+so
+
+Features (inputs)
+14:00
+a list of inputs such as the ones here
+
+14:04
+this is what we call a feature vector
+
+14:07
+we'll talk about that in some more
+
+14:08
+detail later
+
+14:10
+so let's quickly talk about the
+
+14:11
+different types of features or inputs
+
+14:14
+that we might be able to feed our model
+
+14:16
+so the first type is qualitative data
+
+14:18
+and this means it's categorical
+
+14:21
+which means that there are finite
+
+14:23
+numbers of categories or groups
+
+14:26
+so one common example is actually gender
+
+14:29
+and i know that this might seem a little
+
+14:31
+bit outdated but
+
+14:33
+please bear with me because i just want
+
+14:34
+to get the point of a qualitative
+
+14:37
+feature across
+
+14:39
+so here in this picture we see that
+
+14:41
+there is a girl and a boy so let's take
+
+14:44
+these two different groups first you
+
+14:45
+might notice that there's not exactly a
+
+14:48
+number associated with being a girl or
+
+14:50
+being a boy
+
+14:52
+so that's the nature of qualitative data
+
+14:54
+if it doesn't have some sort of number
+
+14:56
+associated with it it's probably
+
+14:58
+qualitative
+
+15:00
+now let's take a look over here there's
+
+15:01
+different types of flags like maybe
+
+15:04
+these represent you know your
+
+15:05
+nationality might be a qualitative
+
+15:08
+feature qualitative features don't have
+
+15:10
+to necessarily be exclusive
+
+15:12
+but they just don't have a number
+
+15:13
+associated with it and they belong in
+
+15:16
+groups so you might have us you might
+
+15:19
+have canada you might have mexico et
+
+15:22
+cetera et cetera
+
+15:23
+these two specific qualitative features
+
+15:26
+are known as
+
+15:28
+nominal data in other words they don't
+
+15:30
+have any inherent ordering in it
+
+15:34
+now our computers don't really
+
+15:36
+understand
+
+15:37
+like labels or english too well
+
+15:41
+right our computers are really really
+
+15:43
+good at understanding numbers so how in
+
+15:46
+the world do we convey this
+
+15:49
+in numbers well we use something called
+
+15:52
+one hot encoding so
+
+15:54
+suppose we have you know a
+
+15:57
+vector that represents these four
+
+15:59
+different nationalities usa india canada
+
+16:02
+and france
+
+16:04
+what we're going to do
+
+16:05
+is we're going to market with a 1 if
+
+16:08
+that category applies to you and 0 if it
+
+16:11
+doesn't
+
+16:13
+so for somebody who has us nationality
+
+16:16
+your vector might look like 1 0 0 0. for
+
+16:20
+india it might be 0 one zero zero
+
+16:22
+canada zero zero one zero and france
+
+16:25
+zero zero zero one
+
+16:27
+so that's one hot encoding it turns
+
+16:29
+these different groups into a vector
+
+16:32
+and
+
+16:33
+i guess switches on that category with a
+
+16:36
+one
+
+16:38
+if that category applies and zero if it
+
+16:41
+doesn't
+
+16:42
+now there are also other types of
+
+16:43
+qualitative features so something like
+
+16:46
+age even though a number might be
+
+16:47
+associated with it if we take different
+
+16:50
+groupings of age so for example baby
+
+16:54
+kid
+
+16:56
+gen z
+
+16:58
+young adult
+
+17:00
+boomer
+
+17:01
+etc etc
+
+17:03
+if we take these different categories
+
+17:05
+then this actually becomes a qualitative
+
+17:08
+data set because you can assign one of
+
+17:11
+these categories to somebody and it
+
+17:14
+doesn't necessarily map to
+
+17:16
+a specific number
+
+17:19
+another example of categorical data
+
+17:21
+might be a rating system of bad to good
+
+17:27
+and this is what we call ordinal data so
+
+17:29
+even though it's qualitative it has some
+
+17:31
+sort of inherent ordering to it so hence
+
+17:34
+the name ordinal data
+
+17:38
+now in order to encode this into numbers
+
+17:40
+we might just use a system like one two
+
+17:42
+three four five
+
+17:43
+quick note the reason why we use one hot
+
+17:46
+encoding if for our nationalities but we
+
+17:48
+can use one two three four five
+
+17:50
+for ordinal data
+
+17:52
+is because
+
+17:53
+let's think about things this way our
+
+17:55
+computer knows that two is closer to one
+
+17:57
+than five right and in a case like this
+
+18:00
+it makes sense because two is slightly
+
+18:03
+less worse than one whereas five is
+
+18:05
+actually really good so of course two
+
+18:07
+should be closer to one than five
+
+18:09
+but if we go back to our nationality
+
+18:11
+example it doesn't really make sense to
+
+18:14
+say you know to rate usa one india to
+
+18:18
+canada three and france four because we
+
+18:21
+could also switch around these labels
+
+18:23
+and
+
+18:24
+they would still be distinct groups and
+
+18:26
+they're just different it's not like one
+
+18:28
+of them is closer to the other than
+
+18:30
+something else
+
+18:32
+they're just different i mean i guess it
+
+18:34
+depends on the context but
+
+18:36
+if we're talking nationality they're
+
+18:37
+just different right so you can't
+
+18:39
+necessarily say two which i think was i
+
+18:43
+assigned to india is closer to one usa
+
+18:46
+than france which is four
+
+18:48
+like a computer would think that but
+
+18:51
+just thinking about it logically that
+
+18:53
+wouldn't really make sense so that's the
+
+18:55
+real difference between these two types
+
+18:57
+of qualitative data sets is how you want
+
+18:59
+to encode them for your computer
+
+19:02
+when we're talking about features we
+
+19:03
+also have quantitative features and
+
+19:06
+quantitative features are numerical
+
+19:08
+valued inputs and so this could be
+
+19:11
+discrete and it could also be continuous
+
+19:13
+so for example if i wanted to
+
+19:16
+measure the size of my desk that would
+
+19:19
+be a quantitative variable
+
+19:21
+if i wanted to
+
+19:23
+tell how hot you know what the
+
+19:25
+temperature of
+
+19:27
+this fire was that's also another
+
+19:29
+quantitative variable
+
+19:32
+another type of quantity and these two
+
+19:34
+are both continuous variables
+
+19:36
+now let's say that i'm hunting for
+
+19:39
+easter eggs and
+
+19:41
+this is how many easter eggs i collect
+
+19:43
+in my basket
+
+19:45
+it probably doesn't make too much sense
+
+19:47
+to say you know i have 7.5 but rather i
+
+19:49
+have seven that that would make sense or
+
+19:51
+eight you know somebody else might have
+
+19:53
+two which means that i won but you know
+
+19:55
+aside from that
+
+19:57
+this is something that would be a
+
+19:58
+discrete quantitative variable because
+
+20:01
+we do have it's it's not continuous
+
+20:03
+right there are discrete values integers
+
+20:06
+positive integers
+
+20:08
+that would be able to describe this data
+
+20:10
+set over here this is continuous and
+
+20:13
+over here this is discrete
+
+20:15
+those features those are the different
+
+20:17
+types of inputs that we might be able to
+
+20:19
+feed into our model
+
+20:21
+what about the different types of
+
+Outputs (predictions)
+20:23
+predictions that we can actually make
+
+20:25
+with the model
+
+20:27
+so there are a few different tasks that
+
+20:29
+you know we have in supervised learning
+
+20:32
+so there's classification which means
+
+20:34
+that we're predicting discrete classes
+
+20:38
+for example let's say we have a bunch of
+
+20:41
+pictures of food
+
+20:43
+so
+
+20:43
+you know here we have a hot dog we have
+
+20:45
+a pizza and we have an ice cream cone an
+
+20:47
+example of classification might be
+
+20:49
+okay well this gets mapped to a hot dog
+
+20:52
+label and this gets mapped to pizza and
+
+20:55
+this gets mapped to ice cream and if we
+
+20:57
+have any additional photos of one of
+
+20:58
+these we want to map them to one of
+
+21:00
+these three classes
+
+21:02
+this is known as multi-class
+
+21:04
+classification because we have a bunch
+
+21:06
+of different classes
+
+21:08
+that we're trying to map it to so hence
+
+21:10
+the name multi-class
+
+21:13
+now
+
+21:14
+what if instead of hot dog pizza and ice
+
+21:17
+cream we had another model that just
+
+21:19
+told us whether or not something was a
+
+21:20
+hot dog so this over here is a hot dog
+
+21:23
+and these over here are simply
+
+21:25
+not hot dogs
+
+21:27
+well this is known as binary
+
+21:28
+classification because there's only two
+
+21:31
+hence binary
+
+21:32
+it's ready
+
+21:34
+please god what would you say
+
+21:37
+if i told you there is an app on the
+
+21:40
+mind we're past that part just demo it
+
+21:43
+okay
+
+21:44
+let's start with a hot dog
+
+21:55
+oh
+
+22:00
+my beautiful little adriatic friend i'm
+
+22:03
+going to buy you the palapa of your life
+
+22:06
+we will have 12 posts braided palm
+
+22:08
+leaves
+
+22:09
+you'll never feel exposed again i'm
+
+22:11
+gonna be rich
+
+22:12
+you guilfoyle do pizza let's do
+
+22:14
+pizza yeah
+
+22:16
+hey zach
+
+22:23
+not hot dog
+
+22:25
+wait what the huh
+
+22:27
+that's that's it it only does hot dogs
+
+22:30
+no and a nah hot dog
+
+22:37
+now let's talk about some other examples
+
+22:39
+of classification to kind of really
+
+22:41
+drill this down for you
+
+22:43
+other types of binary classification
+
+22:45
+might be
+
+22:46
+positive or negative so if we have
+
+22:48
+restaurant reviews positive or negative
+
+22:50
+two different categories
+
+22:52
+something else might be pictures of cats
+
+22:54
+versus pictures of dogs
+
+22:56
+cool cats and dogs
+
+22:57
+and then maybe we have a bunch of emails
+
+22:59
+and we're trying to create a spam filter
+
+23:01
+one another example of binary
+
+23:03
+classification might be spam or not spam
+
+23:07
+now what about multi-class
+
+23:09
+classification
+
+23:11
+so going back to our first example of
+
+23:13
+the cats and dogs
+
+23:15
+well we also had a lizard you know you
+
+23:17
+might also have a dolphin so different
+
+23:19
+types of animals that might be something
+
+23:20
+that falls under multi-class
+
+23:22
+classification
+
+23:24
+another example might be different types
+
+23:26
+of fruits so orange apple and pear
+
+23:30
+another example might be different types
+
+23:31
+of plant species but here basically you
+
+23:34
+have different types of classes and you
+
+23:36
+have multiple of them
+
+23:37
+more than two
+
+23:40
+all right there's also
+
+23:42
+something known as regression and in
+
+23:45
+regression what we're trying to do is
+
+23:47
+predict continuous values
+
+23:49
+so one example of regression might be
+
+23:51
+you know this is the price of ethereum
+
+23:54
+and we want to predict what the price
+
+23:56
+will be at tomorrow
+
+23:57
+well there are so many different values
+
+23:59
+that we can predict for that and they
+
+24:01
+don't necessarily fall under classes
+
+24:03
+like classes just doesn't intuitively
+
+24:05
+make sense instead it's just a number
+
+24:08
+right it's a continuous number so that's
+
+24:10
+an example of regression
+
+24:12
+or it might be what is the temperature
+
+24:15
+going to be tomorrow that's another
+
+24:17
+example of regression
+
+24:19
+might be what is the value of this house
+
+24:21
+given you know how many stores it has
+
+24:23
+how many garages it has what is its zip
+
+24:25
+code et cetera et cetera
+
+24:29
+okay
+
+24:31
+so now that we've talked about our
+
+24:32
+inputs now that we talked about that
+
+24:35
+now that we've talked about our inputs
+
+24:36
+and now that we've talked about our
+
+24:37
+outputs that's pretty
+
+24:40
+that's pretty much you know machine
+
+24:41
+learning in a nutshell
+
+24:43
+except for the model so let's talk about
+
+24:46
+the model
+
+24:47
+okay so before i dive into specifics
+
+24:50
+about a model
+
+24:51
+let's briefly discuss
+
+24:53
+how do we actually make this model learn
+
+24:55
+and how can we tell whether or not
+
+24:58
+it's actually learning
+
+25:01
+we'll actually use this data set in a
+
+25:02
+real example but here let's just briefly
+
+Anatomy of a dataset
+25:05
+talk about what this represents
+
+25:08
+so this data set comes from a certain
+
+25:11
+group of people and this outcome is
+
+25:14
+whether or not they have diabetes and
+
+25:16
+now all these other numbers over here
+
+25:19
+these are metrics of you know how many
+
+25:21
+pregnancies they've had what their
+
+25:23
+glucose numbers are like what their
+
+25:24
+blood pressure is like and so on
+
+25:27
+so we can see that all of these are
+
+25:28
+actually quantitative variables you know
+
+25:30
+they might be
+
+25:32
+discrete or they might be continuous
+
+25:35
+but
+
+25:36
+they are
+
+25:37
+quantitative variables
+
+25:40
+okay so each row in this data set
+
+25:44
+represents a different sample in the
+
+25:46
+data so in other words each row
+
+25:48
+represents one person in our data set
+
+25:52
+now each column is a different feature
+
+25:54
+that we can feed into our data set and
+
+25:56
+by feature i just i literally just mean
+
+25:58
+like the different columns so this one
+
+26:00
+here is blood pressure this one here is
+
+26:02
+number of pregnancies this one here is
+
+26:05
+insulin numbers and so on
+
+26:08
+except for this one over here this one
+
+26:10
+is actually the output label that
+
+26:12
+we want our model to be able to
+
+26:13
+recognize
+
+26:17
+now these values that we actually plug
+
+26:19
+into the model again this is what we
+
+26:21
+would call our feature vector
+
+26:24
+and this this is the target for that
+
+26:27
+feature vector so this is the output
+
+26:28
+that we were trying to predict
+
+26:31
+this over here this is known as the
+
+26:34
+features matrix which we call big x and
+
+26:38
+all these outcomes together we call this
+
+26:40
+the labels or the targets vector y
+
+26:44
+let's kind of abstract this to a piece
+
+26:46
+of chocolate or a chocolate bar like
+
+26:48
+this
+
+26:50
+and you know we have all the numbers
+
+26:52
+that represent our x matrix over here
+
+26:55
+and the values our outputs y our target
+
+26:58
+sorry over here
+
+27:01
+now
+
+27:01
+each of these features so this this is
+
+27:03
+our feature vector we're plugging this
+
+27:05
+into the model the model is making some
+
+27:08
+sort of prediction
+
+27:09
+and then we're actually comparing this
+
+27:11
+to our target in our data set
+
+27:15
+and then whatever difference here we use
+
+27:17
+that for training because hey if we're
+
+27:19
+really far off we can tell our model and
+
+27:21
+be like hey can you make this closer and
+
+27:23
+if we're really close then
+
+27:25
+we tell our model hey keep doing that
+
+27:26
+that's really good
+
+27:29
+okay so this is our entire bar of
+
+27:32
+chocolate so let's say this and this bar
+
+27:34
+here represents all the data that we
+
+27:36
+have access to
+
+27:38
+do we want to feed this entire thing
+
+27:40
+into our model and use that to train our
+
+27:42
+model
+
+27:43
+i mean you might think okay the more
+
+27:44
+data the better right like if i'm on if
+
+27:48
+i'm trying to look for a restaurant i'd
+
+27:50
+rather have a thousand reviews than
+
+27:53
+10. but when we're using but when we're
+
+27:55
+building a model we don't want to use
+
+27:58
+all of our data in fact we want to split
+
+28:00
+up our data because we want some sort of
+
+28:02
+metric to see how our model will
+
+28:04
+generalize
+
+28:06
+so we split up our chocolate bar into
+
+28:08
+the training data set
+
+28:10
+the validation data set and the testing
+
+28:12
+data set
+
+28:15
+our training data set is what we're
+
+28:17
+going to feed into our model and you
+
+28:18
+know this might give us an output
+
+28:21
+we again we check it against the real
+
+28:23
+output and we
+
+28:25
+find something called the loss which
+
+28:27
+we'll talk about in a second but you can
+
+28:29
+think of the loss as a measure of how
+
+28:32
+far off we are so how far off are we put
+
+28:35
+that into a number value and then feed
+
+28:38
+that back into the model and that's
+
+28:40
+where we're making adjustments this
+
+28:42
+process is called training
+
+28:46
+now we also have this validation set
+
+28:48
+so this validation set we also feed into
+
+28:50
+the model and then we can actually
+
+28:52
+assess the loss
+
+28:54
+on this validation set because again we
+
+28:56
+have the real answer and we have this
+
+28:58
+prediction and we can see how far off we
+
+29:00
+are
+
+29:02
+but this validation set is actually used
+
+29:04
+as kind of more of a reality check
+
+29:06
+during or after the training to ensure
+
+29:08
+that our model can handle unseen data
+
+29:11
+because remember up until this point our
+
+29:13
+model is only being trained
+
+29:15
+with our training set data
+
+29:19
+okay so for example if i have a bunch of
+
+29:21
+different models
+
+29:23
+and
+
+29:24
+all of these are my validation data sets
+
+29:26
+and these are the predictions well okay
+
+29:29
+this loss over here is kind of high this
+
+29:32
+one's a little bit closer but look this
+
+29:34
+one is the lowest we want to actually
+
+29:37
+decrease the difference between our
+
+29:38
+prediction and our true target
+
+29:42
+and so another use case for the
+
+29:43
+validation data set is to actually say
+
+29:45
+okay well model c seems to perform the
+
+29:48
+best on unseen data so let's take model
+
+29:52
+c now once we've selected model c
+
+29:56
+then we can actually go back and use our
+
+29:58
+test set which again is unseen data
+
+30:01
+and we plug that into model c see how it
+
+30:04
+performs and then we can use that metric
+
+30:08
+compared to you know our our targets
+
+30:11
+as a final reported performance
+
+30:14
+this test set is used to kind of check
+
+30:16
+how generalizable the final model is
+
+Assessing performance
+30:22
+okay
+
+30:22
+so i kind of touched on you know
+
+30:25
+something called a loss function
+
+30:27
+but
+
+30:28
+what exactly does that mean and what
+
+30:30
+exactly
+
+30:31
+how do we how do we quantify how
+
+30:34
+different things are
+
+30:37
+well
+
+30:37
+this would probably give us a higher
+
+30:39
+loss
+
+30:40
+than this right like we would we would
+
+30:42
+want that too because it's a little bit
+
+30:44
+further off
+
+30:45
+and something like that should be a lot
+
+30:48
+further off which means that our loss
+
+30:49
+function
+
+30:51
+the value output from the loss function
+
+30:53
+should be a lot higher than the previous
+
+30:55
+two that we just saw
+
+30:57
+okay so there are a few different types
+
+30:59
+of loss functions so let's put our
+
+31:02
+mindset in like in terms of regression
+
+31:04
+for a second so we're trying to predict
+
+31:06
+a value that's on a continuous scale so
+
+31:09
+this might be
+
+31:10
+uh the temperature tomorrow right
+
+31:13
+now
+
+31:14
+if we have a bunch of different cities
+
+31:16
+that we're trying to predict then we
+
+31:18
+have a bunch of different points right
+
+31:20
+so this here y real this is the actual
+
+31:24
+value that we found in our data set and
+
+31:27
+why predicted this is a value that our
+
+31:29
+model has output so what we're trying to
+
+31:31
+do is we're trying to find the
+
+31:32
+difference between these two values and
+
+31:35
+then use the absolute value of that
+
+31:37
+and then add all of these up you know
+
+31:40
+for every single point in our data set
+
+31:41
+so all the different cities
+
+31:44
+in order to calculate the loss so in
+
+31:46
+other words what we're doing is we're
+
+31:47
+literally just comparing hey for every
+
+31:49
+single city how different is our
+
+31:52
+predicted value and the real value
+
+31:55
+and then sum up all of those values
+
+31:58
+so
+
+31:59
+as you can see you know this is
+
+32:01
+basically just an absolute value
+
+32:03
+function so that's what l1 loss is
+
+32:06
+now if we're really close if our
+
+32:08
+predictions are really good then you can
+
+32:10
+see how this loss becomes really small
+
+32:12
+and if our values are really far off
+
+32:14
+well that becomes pretty large right
+
+32:17
+there's also another type of loss called
+
+32:19
+l2 loss which is the same idea but
+
+32:21
+instead of using the absolute value
+
+32:22
+function we square everything
+
+32:26
+so this is also known as mean squared
+
+32:28
+error which you might have heard of
+
+32:30
+basically here instead of summing up all
+
+32:34
+the differences we actually square all
+
+32:37
+the differences and then we sum those up
+
+32:39
+so again this is what a quadratic
+
+32:41
+formula looks like so this is what the
+
+32:43
+squares would look like
+
+32:45
+and again as you can see if we're only
+
+32:48
+off by a tiny bit our loss is really
+
+32:49
+small which means that it's good and if
+
+32:51
+we're off by a lot then our loss gets
+
+32:53
+really really big really fast
+
+32:57
+okay now let's think about the
+
+32:58
+classification mindset when we're trying
+
+33:00
+to predict let's say just two different
+
+33:02
+classes so binary classification
+
+33:04
+well your output is actually a
+
+33:06
+probability value which is associated
+
+33:08
+with how likely it is to be of class a
+
+33:12
+so
+
+33:13
+if it's closer to one then class a seems
+
+33:15
+to be more likely and if it's closer to
+
+33:17
+zero then it's probably class b
+
+33:20
+so
+
+33:20
+in binary cross entropy loss what
+
+33:23
+happens is you're taking
+
+33:24
+the real value times the log of the
+
+33:27
+predicted value and then adding that
+
+33:29
+with 1 minus the real value times the
+
+33:31
+log of 1 minus the predicted value
+
+33:34
+summing that up and using a
+
+33:36
+normalization factor
+
+33:38
+you don't really have to know this too
+
+33:40
+well
+
+33:41
+this is a little bit you know more
+
+33:42
+involved mathematically but you just
+
+33:44
+need to know that loss decreases as the
+
+33:47
+performance gets better
+
+33:50
+so one of the metrics of performance
+
+33:53
+that we can talk about in
+
+33:55
+classification specifically is accuracy
+
+33:59
+so let's say that we have a bunch of
+
+34:01
+pictures here and we want to predict
+
+34:04
+their labels
+
+34:05
+so here i also have the actual values so
+
+34:07
+of course this is an apple this is
+
+34:09
+orange apple apple etc and use your
+
+34:11
+imagination think that you know these
+
+34:13
+two are slightly different from the
+
+34:14
+original
+
+34:16
+well let's say that our model is
+
+34:18
+predicting apple orange orange apple
+
+34:22
+so you know we got this right we got
+
+34:24
+this right we got this wrong and we got
+
+34:26
+this right
+
+34:27
+so the accuracy of this model is 3 out
+
+34:30
+of 4 or 75 percent
+
+34:33
+if you just think about it in english
+
+34:34
+that makes sense right like
+
+34:36
+how accurate our model is is how many
+
+34:38
+predictions it correctly classifies
+
+34:42
+up until now we've talked about what
+
+34:44
+goes into our model the features what
+
+34:46
+comes out of our model you know what
+
+34:48
+type of prediction it is whether we're
+
+34:49
+doing classification or regression but
+
+34:52
+we haven't really talked about the model
+
+34:54
+itself so let's start talking about the
+
+34:57
+model
+
+34:58
+and that brings me to
+
+35:00
+neural nets okay so the reason why i'm
+
+Neural nets
+35:04
+going to cover neural nets is because
+
+35:06
+they're very popular and they can also
+
+35:08
+be used for classification
+
+35:10
+and regression
+
+35:12
+now
+
+35:13
+something that i do have to mention
+
+35:15
+though is that neural nets have become
+
+35:17
+sometimes a little bit too popular
+
+35:20
+and they are being sometimes maybe
+
+35:22
+overused there are a lot of cases where
+
+35:25
+you don't need to use a neural net and
+
+35:27
+if you do use a neural net it's kind of
+
+35:29
+like using a sledgehammer to crack an
+
+35:31
+egg it's a little bit you know
+
+35:34
+too much
+
+35:35
+there are plenty of other models that
+
+35:37
+can also do classification and
+
+35:39
+regression and sometimes
+
+35:42
+the simpler the model the better and the
+
+35:46
+reason for that is because you don't
+
+35:49
+want something that's so good at
+
+35:50
+predicting your training data set that
+
+35:53
+you don't that you know it's it's not
+
+35:55
+good at generalizing and often the thing
+
+35:57
+with neural nets is that they are very
+
+35:59
+much a black box the people who create
+
+36:01
+the neural nets
+
+36:03
+don't really know what's going on inside
+
+36:05
+the network itself when you look at some
+
+36:07
+of these other models when you look at
+
+36:10
+other types of models in machine
+
+36:11
+learning oftentimes those might be a
+
+36:13
+little bit more
+
+36:15
+transparent than a neural net with a
+
+36:17
+neural net you just have this network
+
+36:19
+with a ton of parameters and sometimes
+
+36:21
+you can't really explain why certain
+
+36:23
+parameters are higher than others
+
+36:26
+and so you just the whole question
+
+36:28
+behind why
+
+36:30
+is a little bit
+
+36:32
+lacking sometimes
+
+36:35
+but with that being said let that be
+
+36:36
+your warning we're going to talk about
+
+36:38
+neural nets anyways because
+
+36:40
+they are a great tool for classification
+
+36:42
+and for regression
+
+36:45
+all right let's get started
+
+36:47
+so as i mentioned you know there are a
+
+36:49
+ton of different machine learning models
+
+36:51
+this one here is called the random
+
+36:53
+forest this one here could just be
+
+36:55
+classic linear regression this one is
+
+36:57
+called a support vector machine
+
+37:00
+and
+
+37:01
+these different types of models they
+
+37:04
+have their pros and cons
+
+37:06
+but we're going to be talking about
+
+37:08
+neural networks and this is kind of what
+
+37:10
+a neural net looks like actually this is
+
+37:12
+exactly what a neural net looks like
+
+37:15
+you have your inputs they go towards
+
+37:17
+some layer of neurons and then you have
+
+37:20
+some sort of output but let's take a
+
+37:23
+closer look at one of these neurons and
+
+37:26
+see exactly what's going on
+
+37:29
+okay so as i just mentioned you have all
+
+37:30
+of your inputs these are our features
+
+37:33
+remember how we talked about feature
+
+37:35
+vectors so this would be a feature
+
+37:37
+vector with n different features
+
+37:40
+now
+
+37:41
+each of these values remember because we
+
+37:44
+our computer really likes values each of
+
+37:47
+these values is multiplied by a weight
+
+37:50
+so that's the first thing that happens
+
+37:51
+you multiply your input
+
+37:53
+by some weight
+
+37:55
+and then
+
+37:56
+all of these weights go into a neuron
+
+37:59
+and this neuron basically just sums up
+
+38:02
+all these weights times the input values
+
+38:05
+and then you add a little bias to it so
+
+38:08
+this is just some number that you add in
+
+38:11
+addition to
+
+38:13
+the sum product of all of these
+
+38:16
+and then the output of the sum of all of
+
+38:18
+these plus the bias goes into an
+
+38:20
+activation function and an activation
+
+38:23
+function we'll dive into that a little
+
+38:24
+bit later but you can think of it as
+
+38:26
+just some function that will take this
+
+38:28
+output and alter it a little bit before
+
+38:32
+we pass it on
+
+38:34
+and it could be the output but this is
+
+38:36
+the output of a single neuron
+
+38:39
+over here
+
+38:41
+okay and then once you have a bunch of
+
+38:43
+these neurons all together they form a
+
+38:46
+neural network which kind of looks
+
+38:48
+something like this
+
+38:50
+this is just a cool picture that i found
+
+38:52
+on wikipedia
+
+38:55
+all right so let's take a step backwards
+
+38:57
+and talk about this activation function
+
+38:58
+because i just kind of glossed over it
+
+39:01
+and i didn't really tell you
+
+39:03
+exactly what it is
+
+39:07
+so
+
+39:08
+this is what
+
+39:10
+another this is another example of a
+
+39:11
+neural net this is what a neural net
+
+39:13
+would look like you have your inputs
+
+39:15
+okay they go into these layers and then
+
+39:18
+you have another layer and then you have
+
+39:19
+your output layer so the reason why we
+
+39:22
+have a non-linear activation function
+
+39:25
+is because if the output of all of these
+
+39:28
+are linear
+
+39:30
+then the input you know into this this
+
+39:33
+would also just be
+
+39:34
+a sum of some weights plus a bias
+
+39:38
+what we could do is essentially
+
+39:39
+propagate these weights into here and
+
+39:42
+this entire network would just be a
+
+39:44
+linear regression
+
+39:46
+i'm not going to do the math here
+
+39:48
+because
+
+39:49
+you know it involves a little bit of
+
+39:51
+some algebra
+
+39:53
+but if that's something that you're
+
+39:54
+interested in proving it would be a
+
+39:56
+really good exercise to prove that if we
+
+39:58
+don't have a non-linear activation
+
+40:00
+function then a neural network just
+
+40:02
+becomes a linear function
+
+40:05
+which which is bad like that's that's
+
+40:07
+what we're trying to avoid with the
+
+40:08
+neural net otherwise we would literally
+
+40:10
+just use a linear function
+
+40:13
+without activation functions this
+
+40:15
+becomes a linear model
+
+40:18
+okay so these are the kinds of
+
+40:20
+activation functions that i'm talking
+
+40:22
+about
+
+40:22
+there are more than these but these are
+
+40:24
+three very common ones so here this is a
+
+40:27
+sigmoid activation function so
+
+40:29
+it goes from zero to one
+
+40:33
+tange which goes from negative one to
+
+40:35
+one
+
+40:36
+and then relu which is probably one of
+
+40:37
+the most popular ones
+
+40:39
+um but basically what happens here is if
+
+40:43
+a value is greater than zero then it's
+
+40:46
+just that value and if it's less than
+
+40:48
+zero then it becomes zero
+
+40:51
+so basically what happens in your neural
+
+40:53
+net is after each neuron calculates a
+
+40:55
+value
+
+40:56
+it gets altered by one of these
+
+40:58
+functions so it basically gets projected
+
+41:01
+into a zero or one a negative one or a
+
+41:04
+one and then in this case zero or
+
+41:06
+whatever the output is
+
+41:09
+and then it goes on to the next neuron
+
+41:11
+and on and on and on until you finally
+
+41:13
+reach the output
+
+41:15
+so that's the point of an activation
+
+41:17
+function when you put it at the very end
+
+41:19
+of a neuron it makes the output of the
+
+41:21
+neuron non-linear and this actually
+
+41:25
+allows the training to happen we'll talk
+
+41:27
+about that also in a second
+
+41:29
+we've seen this picture before how we
+
+41:31
+have the training set that goes into our
+
+41:33
+model and then we calculate some loss
+
+41:36
+and then we make an adjustment
+
+41:38
+which is called training so let's talk
+
+41:40
+about this training process now
+
+41:44
+okay
+
+41:45
+so this is what our l2 loss function
+
+41:47
+looks like if you can recall from a few
+
+41:49
+minutes ago
+
+41:51
+basically it's a quadratic
+
+41:53
+function and when your real and
+
+41:55
+predicted values are further apart
+
+41:57
+then the difference becomes the diff the
+
+42:00
+square of the difference
+
+42:01
+becomes very large right and when
+
+42:03
+they're close together then you minimize
+
+42:05
+your loss and all is good in the world
+
+42:09
+okay
+
+42:10
+up here the error is really large
+
+42:13
+and we want to decrease the loss right
+
+42:16
+like the the smaller the loss the better
+
+42:19
+our model
+
+42:21
+is performing in some ways like loss is
+
+42:23
+just a metric to assess how well our
+
+42:24
+model is performing
+
+42:26
+so our goal is to get somewhere down
+
+42:29
+here
+
+42:31
+and now up here this is the part that
+
+42:33
+might involve a little bit of calculus
+
+42:35
+understanding
+
+42:36
+but because not everybody out there
+
+42:38
+knows calculus
+
+42:39
+i'm going to skip the numbers and just
+
+42:41
+use diagrams
+
+42:43
+so if we're up here this is
+
+42:46
+the opposite of the slope right like the
+
+42:49
+slope here i mean it's increasing it
+
+42:51
+would it would be positive but we want
+
+42:53
+to take
+
+42:54
+if we want to get down here we want to
+
+42:56
+go in the opposite direction as that the
+
+42:58
+higher up we go
+
+43:00
+the more steep
+
+43:02
+we want to step right because the
+
+43:03
+further away we are from our goal
+
+43:05
+whereas maybe down here we want to take
+
+43:07
+a baby step over here
+
+43:09
+because we don't want to overshoot we
+
+43:10
+don't want to you know pass this and
+
+43:12
+never be able to find it
+
+43:15
+so
+
+43:16
+we use something called gradient descent
+
+43:18
+in this case and gradient descent is
+
+43:20
+basically taking
+
+43:22
+it's measuring to some extent the slope
+
+43:25
+at a given point and it's taking a step
+
+43:28
+in the direction that will help us
+
+43:31
+this is where back propagation comes in
+
+43:33
+and back propagation is the reason why
+
+43:36
+neural nets work
+
+43:37
+so
+
+43:38
+if we take a look at this l2 loss
+
+43:41
+function
+
+43:42
+okay you might think yeah like this
+
+43:44
+depends on what our y values are right
+
+43:47
+like what is our predicted value what is
+
+43:49
+our real value okay well our real value
+
+43:51
+is staying the same our predicted value
+
+43:54
+is a function of all the weights that we
+
+43:57
+just talked about and all the like
+
+43:59
+inputs right but our inputs are also
+
+44:00
+kind of staying the same
+
+44:03
+so
+
+44:03
+as we adjust the weight values then we
+
+44:06
+are actually altering this loss function
+
+44:08
+to some extent
+
+44:10
+which means that we can calculate the
+
+44:13
+gradient the slope
+
+44:15
+of our loss function with respect to the
+
+44:18
+weights
+
+44:20
+okay
+
+44:21
+got that
+
+44:23
+so
+
+44:25
+if we're looking at the various weights
+
+44:27
+in our diagram we might calculate a
+
+44:30
+slope
+
+44:32
+that's
+
+44:33
+you know with respect to that weight
+
+44:35
+and each of them might be a slightly
+
+44:37
+different value as we can see here
+
+44:41
+so what we're going to do with gradient
+
+44:44
+descent slash back propagation is we're
+
+44:46
+actually going to set
+
+44:48
+a new weight for that parameter
+
+44:51
+and that value is going to be the old
+
+44:53
+weight plus some alpha
+
+44:56
+and we'll get back to that but just
+
+44:58
+think of this as some variable
+
+45:00
+multiplied by this value going down this
+
+45:03
+way
+
+45:05
+a quick side note if you're studying
+
+45:06
+machine learning some more this might be
+
+45:08
+a minus sign and this would be the
+
+45:11
+gradient
+
+45:12
+but
+
+45:13
+for all purposes right now
+
+45:16
+because we're using these arrows instead
+
+45:18
+it's more intuitive to just add
+
+45:21
+something in this direction
+
+45:24
+if that confused you
+
+45:26
+you can ignore it until you start
+
+45:27
+getting into the math of back
+
+45:29
+propagation
+
+45:31
+but what i'm trying to say is that
+
+45:34
+essentially calculating this gradient
+
+45:37
+with respect to one of the weights in
+
+45:39
+the neural network
+
+45:41
+allows us to take a step
+
+45:44
+in that direction in order to
+
+45:46
+create a new weight
+
+45:48
+and this value alpha here this is called
+
+45:51
+our learning rate because we don't want
+
+45:53
+to take this massive step every single
+
+45:55
+time because then we're making a huge
+
+45:57
+change to our neural network instead we
+
+46:00
+want to take baby steps and if every
+
+46:02
+single baby step is telling us to go in
+
+46:04
+one direction then okay fine we're going
+
+46:06
+that direction
+
+46:07
+but taking small steps is better than
+
+46:09
+you know overshooting and
+
+46:12
+diverging off into the land of
+
+46:14
+infinities
+
+46:16
+yeah
+
+46:17
+um
+
+46:21
+you can think of this as for example if
+
+46:23
+you were tailoring something it's better
+
+46:26
+to remove
+
+46:27
+like bits and bits of the fabric rather
+
+46:30
+than removing an entire chunk and
+
+46:32
+realizing oh my gosh i just took off way
+
+46:34
+too much
+
+46:35
+so that's what the learning rate is for
+
+46:37
+it's so that we don't you know take off
+
+46:39
+a huge chunk of the fabric instead we go
+
+46:41
+bit by bit by bit
+
+46:44
+okay
+
+46:45
+so then going back to all these other
+
+46:47
+weights
+
+46:48
+we can see how each weight in the neural
+
+46:50
+net is getting updated with respect to
+
+46:54
+what this gradient value
+
+46:57
+is telling us
+
+46:58
+so basically this is how training
+
+47:00
+happens in a neural net we calculate out
+
+47:03
+the loss okay we see there's a massive
+
+47:04
+loss we can calculate the gradient
+
+47:07
+of that loss function with respect to
+
+47:11
+each of the weight parameters in the
+
+47:13
+neural network and now this allows us to
+
+47:16
+have some direction
+
+47:18
+some measure of the direction that we
+
+47:20
+want to travel in for that weight
+
+47:22
+whether we want to increase the weight
+
+47:24
+or decrease the weight
+
+47:25
+we know based on this gradient that you
+
+47:28
+know we're finding
+
+47:30
+so that is how back propagation works
+
+47:32
+and that's exactly what's happening in
+
+47:33
+this step right here
+
+47:35
+that is our crash course on neural
+
+47:37
+networks it is not the most
+
+47:39
+comprehensive crash course out there if
+
+47:42
+you are interested in neural networks i
+
+47:44
+do recommend diving in deeper into the
+
+47:46
+mathematics of it which i'm not going to
+
+47:48
+cover in this class because not
+
+47:49
+everybody has had the mathematical
+
+47:51
+prerequisites
+
+47:53
+but
+
+47:54
+again if that's something you're
+
+47:55
+interested definitely go and check it
+
+47:57
+out let's move on to talk about how we
+
+47:59
+would actually implement this neural net
+
+48:01
+in code if we wanted to create a neural
+
+48:04
+net
+
+48:05
+so this is where machine learning
+
+48:07
+libraries come in
+
+48:09
+okay so in machine learning we often
+
+48:12
+need to implement a model
+
+48:14
+we probably always need to implement a
+
+48:16
+model
+
+48:17
+and if we want our model to be a neural
+
+48:19
+net like this
+
+48:21
+okay that's great we could go and we
+
+48:22
+could code you know each
+
+48:25
+neuron or we could code a neuron class
+
+48:27
+and we could stitch them all together
+
+48:29
+but
+
+48:31
+we don't really want to start from
+
+48:32
+scratch that would be a lot of work when
+
+48:35
+we could be using that time to fine-tune
+
+48:38
+our network itself
+
+48:40
+so instead we want to use libraries that
+
+48:42
+have already been developed and
+
+48:44
+optimized to help us train these models
+
+48:48
+so if we use a library called tensorflow
+
+Tensorflow
+48:51
+then our neural net could look something
+
+48:53
+just like this and that's a lot easier
+
+48:55
+than trying to go through and
+
+48:58
+you know develop and optimize the
+
+49:00
+network entirely from scratch ourselves
+
+49:04
+so straight from the website tensorflow
+
+49:06
+is an open source library that helps you
+
+49:08
+develop and train ml models
+
+49:12
+okay great that sounds like exactly what
+
+49:15
+we want so tensorflow is a library
+
+49:17
+that's comprised of many modules that
+
+49:19
+you know you might be able to see here
+
+49:21
+but for example we might have
+
+49:25
+this data module and here
+
+49:27
+you know we have a bunch of tools that
+
+49:29
+help us import data and keep data
+
+49:32
+consistent and usable with the models
+
+49:34
+that we will create
+
+49:36
+another great part of this api is keras
+
+49:39
+so here we actually have a bunch of the
+
+49:43
+different modules which will help us
+
+49:45
+you know create models
+
+49:49
+help us optimize them
+
+49:51
+and these are different types of
+
+49:52
+optimizers
+
+49:55
+et cetera so basically the whole point
+
+49:58
+of this is that you know we want to use
+
+50:01
+these packages we want to use these
+
+50:03
+libraries because they help us
+
+50:05
+maximize our efficiency where we can
+
+50:07
+focus on training our models and they're
+
+50:10
+also just you know really good and like
+
+50:13
+fine-tuned already so why would we want
+
+50:15
+to waste our time
+
+50:16
+to code stuff from scratch
+
+50:19
+all right so now let's move over to our
+
+50:21
+notebook and i'm going to show you guys
+
+50:23
+how to actually implement a neural net
+
+50:26
+using tensorflow just you know
+
+50:27
+straightforward
+
+50:28
+feed forward no pun intended neural
+
+50:31
+network
+
+50:32
+now that we've learned a little bit
+
+50:33
+about neural nets about tensorflow let's
+
+50:35
+try to actually implement a neural net
+
+50:38
+using tensorflow so
+
+50:40
+let me go back to this collab tab and
+
+50:43
+let's actually
+
+Colab (feedforward network using diabetes dataset)
+50:45
+create a new notebook
+
+50:48
+okay and this notebook again i'm going
+
+50:50
+to call this maybe just a feed forward
+
+50:54
+nullnet example
+
+50:57
+all right now i'm going to again use
+
+51:01
+these same imports
+
+51:04
+run this
+
+51:08
+great
+
+51:10
+it's running
+
+51:12
+okay so now the second thing that i'm
+
+51:14
+going to have to import in here
+
+51:17
+is my data set and so here i have a data
+
+51:21
+set called diabetes.csv which is also
+
+51:24
+in the description below
+
+51:27
+click ok there and that was a that was a
+
+51:29
+substantially smaller data set than the
+
+51:30
+one that we tried to import at the
+
+51:32
+beginning which don't worry we will get
+
+51:34
+back to at the very end of this video
+
+51:36
+but that's why it took significantly
+
+51:38
+shorter to upload all right so
+
+51:41
+this data set that we're using here in
+
+51:44
+diabetes.csv this is a data set that was
+
+51:46
+originally from the national institute
+
+51:49
+of diabetes and digestive and kidney
+
+51:52
+diseases
+
+51:53
+and in this data set all these patients
+
+51:56
+are females at least 21 years old
+
+51:59
+of pima indian heritage
+
+52:02
+and this data set has a bunch of
+
+52:04
+different features but the final feature
+
+52:06
+is whether or not the patient has
+
+52:09
+diabetes
+
+52:11
+okay
+
+52:12
+let's take a look at this data set
+
+52:17
+so the first thing that we can do is
+
+52:19
+once again create a data frame
+
+52:22
+so we're going to use read csv again and
+
+52:24
+here we can just say diabetes.csv
+
+52:28
+let's see what this looks like
+
+52:32
+all right so we can see that each of
+
+52:34
+these is one patient
+
+52:36
+and how many pregnancies they've had
+
+52:38
+their glucose blood pressure skin
+
+52:40
+thickness
+
+52:41
+etc a bunch of other measurements
+
+52:44
+okay so it's always a good idea to do
+
+52:46
+some sort of data visualization on
+
+52:49
+these values in order to see if any of
+
+52:52
+these you know have some sort of
+
+52:54
+correlation to the outcome and there are
+
+52:56
+many different metrics that you can run
+
+52:58
+you can try to literally find the
+
+53:00
+correlation between pregnancies and the
+
+53:02
+outcome but for this purpose i think
+
+53:04
+it's a lot easier to visualize things
+
+53:08
+in i guess a visual way
+
+53:10
+how else would you visualize things
+
+53:13
+so here what i'm going to do is i'm
+
+53:15
+going to
+
+53:16
+plot each of these as a histogram so
+
+53:19
+each value in the feature as a histogram
+
+53:22
+and then compare it
+
+53:24
+to the outcome so
+
+53:27
+let's try to do that using a for loop so
+
+53:29
+for i in range
+
+53:31
+and here i'm going to use the columns
+
+53:35
+of the data frame
+
+53:37
+um up until the very last one because
+
+53:39
+that's the outcome that's the one that
+
+53:40
+we're actually comparing against
+
+53:43
+what i'm going to do is say the label is
+
+53:45
+equal to
+
+53:46
+dataframe.columns
+
+53:49
+i and actually
+
+53:53
+let me make this screen larger for you
+
+53:55
+guys because i know that some people
+
+53:58
+yeah okay hopefully you can see this a
+
+54:00
+little bit better
+
+54:02
+so
+
+54:04
+anyways down here uh for i in this range
+
+54:09
+okay how about this this is better
+
+54:12
+okay so for each
+
+54:14
+basically this for loop here is trying
+
+54:16
+to run through all of these columns
+
+54:17
+except for the last one
+
+54:19
+and the label is basically just getting
+
+54:21
+the data frame column at that index so
+
+54:25
+to show you guys what that actually
+
+54:26
+looks like
+
+54:28
+let's run df.columns
+
+54:31
+so again this is just it's similar to
+
+54:33
+going through a list of these items
+
+54:36
+okay so the label we're you know
+
+54:38
+indexing into something in this list and
+
+54:41
+what we're going to do is
+
+54:44
+plot the histogram
+
+54:47
+so we can index into a data frame by
+
+54:49
+calling the data frame and then saying
+
+54:51
+you know where the data frame
+
+54:53
+outcome
+
+54:56
+is equal to one which means that they do
+
+54:58
+have diabetes
+
+55:00
+and then
+
+55:01
+so this basically creates another
+
+55:05
+let me show you
+
+55:09
+this basically is a data frame where all
+
+55:12
+the outcomes are equal to one
+
+55:15
+okay cool so this is our new data frame
+
+55:19
+where all the outcomes are one which
+
+55:20
+means that all these patients are
+
+55:22
+diabetes positive
+
+55:24
+and then
+
+55:25
+we're just going to index into the label
+
+55:27
+that we have right here so we're just
+
+55:29
+indexing it to the column
+
+55:31
+and
+
+55:33
+what i'm actually going to do is the
+
+55:34
+same thing now but instead of one make
+
+55:36
+this zero so now this here
+
+55:39
+let me show this to you guys again
+
+55:41
+this here is
+
+55:43
+a data frame where all the outcomes are
+
+55:45
+zero
+
+55:47
+so that means that everybody here is
+
+55:49
+um
+
+55:51
+so that means everybody here is diabetes
+
+55:53
+negative
+
+55:55
+okay perfect
+
+55:57
+well we want to tell the difference
+
+55:58
+between the two so i'm also going to
+
+56:00
+assign these colors so here let's use
+
+56:04
+blue
+
+56:06
+and red
+
+56:07
+and then of course a label so this is
+
+56:10
+no diabetes
+
+56:12
+and this up here
+
+56:14
+diabetes
+
+56:17
+all right
+
+56:20
+so plt
+
+56:22
+now let's give this a title let's just
+
+56:24
+use you know the name of the label
+
+56:27
+and then the y label
+
+56:29
+is n
+
+56:31
+and the x label
+
+56:34
+is
+
+56:35
+the label
+
+56:37
+if we call plt.legend
+
+56:40
+like this then this actually shows us
+
+56:42
+the legend including these labels
+
+56:45
+and at the very end we call plt.show in
+
+56:47
+order to see the plot
+
+56:50
+so let's run this
+
+56:53
+all right
+
+56:55
+basically for each of
+
+56:58
+the values
+
+56:59
+we are plotting
+
+57:02
+the measurements here and it's kind of
+
+57:04
+hard to see
+
+57:06
+you know diabetes versus no diabetes so
+
+57:09
+another trick that we can do here is we
+
+57:11
+can say alpha equals 0.7
+
+57:15
+if we run these again you'll see that it
+
+57:17
+makes them a little bit easier to see
+
+57:19
+behind one another
+
+57:21
+okay so something else that we might
+
+57:23
+want if we take a look at
+
+57:25
+the number of values so if we say the
+
+57:28
+length of this versus the length of
+
+57:31
+this so this is saying how many patients
+
+57:34
+are diabetes positive and how many are
+
+57:36
+diabetes negative
+
+57:38
+we see that we actually have two
+
+57:39
+different values one of them is only 268
+
+57:41
+positive patients and then 500 negative
+
+57:44
+patients
+
+57:45
+so what we actually want to do is
+
+57:47
+normalize this which means that we want
+
+57:50
+to compare these histogram distributions
+
+57:52
+to how many actual
+
+57:54
+values there are in that data set
+
+57:56
+otherwise you know you can clearly see
+
+57:58
+that
+
+58:00
+there are more no diabetes patients here
+
+58:03
+than diabetes patients and this isn't
+
+58:05
+really a fair
+
+58:06
+measurement
+
+58:08
+so i'm going to say density here equals
+
+58:11
+true and just for kicks i'm going to say
+
+58:13
+the number of bins that we're going to
+
+58:15
+use in our histogram is 15.
+
+58:17
+then here
+
+58:18
+we would say this is probability because
+
+58:20
+we're normalizing now using the density
+
+58:23
+which means basically that we're just
+
+58:25
+taking each of these values and dividing
+
+58:27
+it by how many total values there are in
+
+58:29
+the data set so instead it's a ratio
+
+58:33
+for each column rather than just a
+
+58:35
+straightforward number
+
+58:39
+okay click enter again and now here we
+
+58:41
+have
+
+58:42
+more of a visualization
+
+58:44
+so it does seem like you know people who
+
+58:47
+have diabetes might have more
+
+58:49
+pregnancies
+
+58:50
+or people you know higher glucose levels
+
+58:53
+that makes sense right
+
+58:55
+seems like maybe slightly higher blood
+
+58:58
+pressure but that's pretty inconclusive
+
+59:01
+maybe skin thickness a little bit but
+
+59:03
+also you know insulin a little bit
+
+59:04
+inconclusive it does seem like perhaps
+
+59:07
+people who have diabetes have a slightly
+
+59:10
+higher bmi
+
+59:13
+but so on so you can see that like
+
+59:15
+there's no these values aren't separable
+
+59:17
+which means that we can't really tell
+
+59:19
+based on one
+
+59:20
+value
+
+59:21
+whether or not somebody has diabetes or
+
+59:23
+not and this is where the power of
+
+59:25
+machine learning comes into play is that
+
+59:27
+we can actually learn
+
+59:28
+whether or not or predict whether or not
+
+59:30
+somebody has diabetes or not based on
+
+59:33
+all of these features all together
+
+59:36
+okay
+
+59:38
+so
+
+59:41
+now that we have this what we're going
+
+59:43
+to do is split this into our x and y
+
+59:47
+values so
+
+59:49
+recall that the x is a matrix right
+
+59:51
+so here i'm going to say it's just going
+
+59:54
+to be all the columns up until the last
+
+59:56
+value
+
+59:57
+got values
+
+59:58
+so let's run that and let's see oops
+
+1:00:05
+and what does this give us this gives us
+
+1:00:07
+now an array this is now a numpy array
+
+1:00:11
+okay and we're going to do the same
+
+1:00:13
+thing with y
+
+1:00:16
+except y is just a single column so we
+
+1:00:18
+can do this
+
+1:00:21
+and i missed the s again
+
+1:00:26
+okay so if we see why
+
+1:00:29
+it's a huge array but it's one
+
+1:00:31
+dimensional as you can see and it's just
+
+1:00:33
+all the different labels in the data set
+
+1:00:36
+so now we have our x and our y values we
+
+1:00:39
+can actually just go ahead and split
+
+1:00:41
+this up into our test and our our
+
+1:00:43
+training in our test data sets
+
+1:00:45
+so
+
+1:00:46
+something that i'm going to import is
+
+1:00:50
+from sklearn
+
+1:00:54
+so this package this function here
+
+1:00:57
+allows us to split arrays or matrices
+
+1:00:59
+into random train and test
+
+1:01:01
+subsets which you know is very useful
+
+1:01:05
+so all we have to do is plug in our
+
+1:01:08
+arrays and it should help us you know we
+
+1:01:12
+would dictate the
+
+1:01:13
+test size and the train size and then it
+
+1:01:15
+would help us split them up
+
+1:01:18
+so what i'm going to do is say x train
+
+1:01:22
+and x i'm going to call this temp
+
+1:01:25
+y train
+
+1:01:26
+and y temp
+
+1:01:28
+equal
+
+1:01:29
+oh we have to import this so actually
+
+1:01:32
+i'm going to come back up here
+
+1:01:34
+and say from sklearn.model
+
+1:01:38
+selection
+
+1:01:39
+import this
+
+1:01:42
+okay so make sure you rerun that cell
+
+1:01:44
+but now we have access to that function
+
+1:01:46
+so here train test split
+
+1:01:49
+and i'm going to pass in my x and my y
+
+1:01:52
+arrays
+
+1:01:53
+and then i'm going to say the test size
+
+1:01:57
+is equal to
+
+1:02:00
+let's use 60 of our data for training
+
+1:02:03
+and
+
+1:02:04
+20 for validation and twenty percent for
+
+1:02:07
+test so what i'm going to do first is
+
+1:02:08
+just split this up into zero point four
+
+1:02:11
+and
+
+1:02:13
+i'm just going to pass in random state
+
+1:02:15
+equals zero so this allows us to get the
+
+1:02:17
+same split every single time
+
+1:02:20
+now the reason why i want to do this
+
+1:02:21
+again but use 0.5 is now with this
+
+1:02:24
+temporary
+
+1:02:25
+data set which is technically you know
+
+1:02:28
+the test set
+
+1:02:30
+we're going to split this now into the
+
+1:02:31
+validation and the test so let's do x
+
+1:02:34
+valid
+
+1:02:36
+test
+
+1:02:40
+and instead of x and y we're going to
+
+1:02:42
+pass in the temp that we just created up
+
+1:02:45
+here so this is essentially x and y but
+
+1:02:48
+only 40 of that data set and now we're
+
+1:02:51
+breaking this down further
+
+1:02:53
+into 50 50 which is going to be our test
+
+1:02:56
+our validation and test data sets so
+
+1:02:59
+let's run this cool checks out
+
+1:03:03
+and let's build our model
+
+1:03:05
+so here i'm going to say model equals tf
+
+1:03:08
+which is tensorflow
+
+1:03:11
+keras which is part of tensorflow that
+
+1:03:13
+helps us write you know some neural nets
+
+1:03:16
+and stuff like that
+
+1:03:19
+called tf dot keras
+
+1:03:21
+so let's check that out okay tf keras so
+
+1:03:25
+basically it's this uh api
+
+1:03:28
+that allows us to easily build some
+
+1:03:31
+neural net models
+
+1:03:34
+and here we're going to call the
+
+1:03:36
+sequential
+
+1:03:38
+so let's see
+
+1:03:42
+basically it
+
+1:03:43
+groups a linear stack of layers into a
+
+1:03:46
+model which is exactly what we want
+
+1:03:49
+because our neural net is
+
+1:03:51
+uh
+
+1:03:52
+because our neural net is exactly a
+
+1:03:54
+stack of layers
+
+1:03:57
+so let's pass in some fears here
+
+1:04:01
+okay
+
+1:04:02
+i think how i'm going to architect this
+
+1:04:04
+is i'm just going to use a very simple
+
+1:04:06
+model so keras
+
+1:04:08
+dot layers dot dense
+
+1:04:10
+16 okay so basically what this actually
+
+1:04:14
+let me
+
+1:04:16
+activation equals
+
+1:04:19
+okay what this is like setting up here
+
+1:04:22
+is
+
+1:04:23
+this is a layer of dense neural nets
+
+1:04:26
+what does dense mean it just means that
+
+1:04:27
+it takes input from everything and it
+
+1:04:29
+outputs
+
+1:04:30
+a value but densely connected is just
+
+1:04:33
+you know okay it's a layer that's deeply
+
+1:04:35
+connected with its preceding layer
+
+1:04:38
+so it just means that every single
+
+1:04:40
+like neuron here
+
+1:04:42
+is receiving input from every single
+
+1:04:45
+neuron
+
+1:04:46
+that it sees from the past
+
+1:04:50
+all right going back to here
+
+1:04:52
+um this just means that this is a layer
+
+1:04:53
+of 16 neurons that are densely connected
+
+1:04:56
+so if we go back to here it means that
+
+1:04:58
+this layer here is comprised of 16
+
+1:05:01
+different neurons
+
+1:05:02
+and then our activation function is relu
+
+1:05:05
+which is one of the activation functions
+
+1:05:07
+that we saw previously
+
+1:05:09
+where
+
+1:05:10
+if x is
+
+1:05:12
+less than zero
+
+1:05:14
+then this becomes zero i guess less than
+
+1:05:17
+or equal to zero this becomes zero and
+
+1:05:19
+if x is greater than zero then
+
+1:05:22
+this becomes just x
+
+1:05:25
+okay
+
+1:05:26
+and you know i'm just going to add
+
+1:05:28
+another layer in there just for kicks
+
+1:05:30
+and then finally we're going to conclude
+
+1:05:33
+this with a
+
+1:05:34
+layer of only one node
+
+1:05:38
+but instead this layer is only going to
+
+1:05:40
+have one node and the activation here
+
+1:05:44
+is going to be sigmoid
+
+1:05:46
+and what that helps us do is this is
+
+1:05:48
+this is where the binary classification
+
+1:05:50
+comes in because sigmoid if you can
+
+1:05:52
+remember maps to zero or one so
+
+1:05:56
+the
+
+1:05:56
+the point of this activation function is
+
+1:05:59
+that it maps
+
+1:06:00
+our input to a probability of whether or
+
+1:06:03
+not you know something belongs to a
+
+1:06:05
+single class
+
+1:06:07
+so
+
+1:06:08
+this is our neural net it was really
+
+1:06:09
+that easy we can click enter
+
+1:06:12
+or shift enter and then now let's
+
+1:06:15
+compile this model so we can call
+
+1:06:17
+model.compile
+
+1:06:19
+and we're going to need a few different
+
+1:06:21
+things here so the first one is going to
+
+1:06:23
+be our optimizer
+
+1:06:26
+so you can see here that our there are a
+
+1:06:28
+bunch of different
+
+1:06:29
+optimizers that tensorflow already has
+
+1:06:33
+for us
+
+1:06:34
+now
+
+1:06:35
+which one do you choose that's kind of
+
+1:06:38
+that's that's a hard question to answer
+
+1:06:39
+because it's a question that people
+
+1:06:41
+still don't really know the answer to
+
+1:06:43
+but one of the most commonly used
+
+1:06:45
+optimizers is atom so that's where we're
+
+1:06:48
+going to start
+
+1:06:49
+so going back to our example here let's
+
+1:06:52
+do optimizer
+
+1:06:54
+and let's set this equal to
+
+1:06:59
+dot tensorflow.paris.org
+
+1:07:00
+dot
+
+1:07:01
+atom
+
+1:07:03
+and we're going to set our hyper
+
+1:07:05
+parameter called the learning rate
+
+1:07:09
+we're going to let's start off with what
+
+1:07:11
+the default is so 0.001
+
+1:07:15
+now the second thing that we have to do
+
+1:07:17
+is define our loss function so
+
+1:07:20
+our loss is equal to tf.cara's
+
+1:07:24
+dot losses so now because we're doing
+
+1:07:27
+binary classification the one that we're
+
+1:07:30
+going to use is called binary cross
+
+1:07:32
+entropy so binary
+
+1:07:34
+cross entropy like this
+
+1:07:37
+and
+
+1:07:41
+then the final thing that we're going to
+
+1:07:42
+do is add
+
+1:07:44
+a metric for accuracy
+
+1:07:47
+and the reason why we're doing that is
+
+1:07:48
+because we want to know you know how
+
+1:07:49
+many do we actually
+
+1:07:51
+get right
+
+1:07:54
+so enter
+
+1:07:56
+we now have a compiled model we have a
+
+1:07:59
+neural net that we can actually feed
+
+1:08:01
+data to and we can train
+
+1:08:04
+but before we do that let's actually see
+
+1:08:06
+how well this might perform on you know
+
+1:08:09
+our training data and our validation
+
+1:08:11
+data
+
+1:08:13
+what we're going to call is model dot
+
+1:08:15
+evaluate
+
+1:08:16
+and here let's pass in x train and y
+
+1:08:20
+train
+
+1:08:22
+and see what happens
+
+1:08:24
+okay
+
+1:08:25
+so
+
+1:08:26
+here we're getting a loss of 16 and an
+
+1:08:29
+accuracy of
+
+1:08:31
+0.35 which is around like 35 so that
+
+1:08:34
+that's pretty bad
+
+1:08:36
+what about instead of train let's do
+
+1:08:40
+validation
+
+1:08:42
+okay it's around the same a loss of 11
+
+1:08:44
+and accuracy of 35
+
+1:08:47
+all right this is because our model
+
+1:08:49
+hasn't seen our train or validation set
+
+1:08:52
+yet and that's why the accuracy is so
+
+1:08:54
+low we haven't really done any training
+
+1:08:56
+so let's see if we can fix that
+
+1:09:00
+what we're going to do is call model.fit
+
+1:09:03
+and pass in the x train and the y frame
+
+1:09:06
+values
+
+1:09:08
+pass in something called the batch size
+
+1:09:11
+and then epochs is how many times how
+
+1:09:13
+many iterations through the entire data
+
+1:09:15
+set we're going to train this
+
+1:09:18
+and pass in the validation data
+
+1:09:24
+now this validation data is just so that
+
+1:09:26
+after every single epoch we can measure
+
+1:09:28
+what the validation loss and the
+
+1:09:30
+validation accuracy is
+
+1:09:33
+so x valid y valid
+
+1:09:36
+now we can run that
+
+1:09:45
+all right so you can see that our neural
+
+1:09:47
+net is training now going back really
+
+1:09:49
+quickly to this batch size
+
+1:09:51
+batch size is just a term that refers to
+
+1:09:54
+the number of
+
+1:09:56
+like samples or training examples in
+
+1:09:58
+this case it's the number of women that
+
+1:10:01
+we have like samples from
+
+1:10:03
+that is used in every single iteration
+
+1:10:05
+so this is how many samples we see
+
+1:10:07
+before we go back and we make a weights
+
+1:10:09
+update
+
+1:10:11
+so you can see that here look our loss
+
+1:10:13
+in our training set
+
+1:10:15
+is decreasing fairly successfully
+
+1:10:17
+and our inc our accuracy
+
+1:10:20
+okay our accuracy seems to be increasing
+
+1:10:22
+great
+
+1:10:25
+now what about our validation loss okay
+
+1:10:27
+our validation loss seems to be
+
+1:10:28
+decreasing decreasing decreasing a
+
+1:10:31
+little bit of an increase at the end but
+
+1:10:32
+that's that's a good sign
+
+1:10:34
+and our validation accuracy seems to be
+
+1:10:37
+also increasing
+
+1:10:39
+well let's see if we can do better so
+
+1:10:42
+a few problems with our current data set
+
+1:10:44
+we see that look all of our values here
+
+1:10:48
+i mean our insulin our insulin range is
+
+1:10:51
+from zero all the way out to like 800
+
+1:10:54
+whereas something else might be
+
+1:10:57
+on the scale of
+
+1:10:59
+like
+
+1:11:00
+you know skin thickness is on scale of 0
+
+1:11:02
+to 100 but
+
+1:11:04
+uh
+
+1:11:05
+bmi is on the scale of 0 to like 2.5
+
+1:11:10
+the fact that our features are so
+
+1:11:12
+different in terms of their range that
+
+1:11:15
+is something that could be messing up
+
+1:11:16
+our results so instead what we're going
+
+1:11:19
+to do is we're actually going to scale
+
+1:11:21
+the results so all of them are
+
+1:11:23
+on a more standardized range
+
+1:11:26
+the first thing that i'm going to do is
+
+1:11:29
+i'm going to
+
+1:11:30
+import a package that lets us scale
+
+1:11:33
+so
+
+1:11:34
+just like how we imported this function
+
+1:11:35
+up here i'm going to
+
+1:11:38
+import from sklearn
+
+1:11:40
+pre-processing
+
+1:11:42
+i'm going to import standard scalar
+
+1:11:47
+okay let's rerun this again
+
+1:11:49
+and let's go back down to
+
+1:11:53
+down here like before we split it up
+
+1:11:55
+into the train and test sets
+
+1:11:58
+okay
+
+1:11:59
+so here let's just run this again for
+
+1:12:02
+good measure but instead of splitting it
+
+1:12:04
+up right here what i'm going to do is
+
+1:12:06
+i'm going to scale the quantities so
+
+1:12:09
+here i can define a scalar
+
+1:12:11
+and set this equal to standard scalar
+
+1:12:14
+and i'm going to say okay this scalar
+
+1:12:17
+let's fit and then transform
+
+1:12:20
+this x matrix
+
+1:12:23
+all right
+
+1:12:24
+so once we've done that our new data i'm
+
+1:12:28
+actually so let's actually see what what
+
+1:12:30
+x looks like now
+
+1:12:32
+so we can see that everything is a lot
+
+1:12:34
+closer in range it goes you know from
+
+1:12:37
+maybe around
+
+1:12:39
+like one to like negative one okay let's
+
+1:12:43
+actually see let's plot these values
+
+1:12:44
+again and see what exactly is going on
+
+1:12:48
+here so
+
+1:12:52
+here let's transform this back into a
+
+1:12:55
+data frame so what i can do is say
+
+1:12:58
+transformed
+
+1:12:59
+data frame equals
+
+1:13:02
+pandas.dataframe so this is creating a
+
+1:13:04
+data frame
+
+1:13:05
+and then
+
+1:13:07
+here okay let's let's use a placeholder
+
+1:13:09
+called data and then the columns are the
+
+1:13:12
+same as our current columns
+
+1:13:15
+now this data we're actually going to do
+
+1:13:17
+something called a horizontal stack
+
+1:13:19
+which means that we're taking our x our
+
+1:13:22
+new
+
+1:13:23
+transformed variable x
+
+1:13:26
+along with
+
+1:13:28
+this y
+
+1:13:30
+but
+
+1:13:30
+we have to do a little bit of reshaping
+
+1:13:33
+here so we're going to call
+
+1:13:34
+numpy.reshape because right now our x is
+
+1:13:37
+a two-dimensional matrix but y is only a
+
+1:13:40
+one-dimensional matrix
+
+1:13:43
+which means that let me just show you
+
+1:13:45
+real fast so x dot shape if we
+
+1:13:49
+see what this is and then compare this
+
+1:13:51
+to y dot shape
+
+1:13:53
+see this is a two dimensional variable
+
+1:13:55
+and this is only one dimensional it
+
+1:13:57
+doesn't have a one here which means that
+
+1:13:59
+it's not
+
+1:14:00
+you know a 768 by one matrix it's just
+
+1:14:03
+it's just a vector of length 768
+
+1:14:06
+and if we call
+
+1:14:08
+a horizontal stack of the two
+
+1:14:10
+there'll be um there's going to be an
+
+1:14:12
+error
+
+1:14:13
+so instead we're going to reshape this
+
+1:14:16
+and this just means okay
+
+1:14:18
+project it into something where negative
+
+1:14:20
+one means like numpy gets to decide
+
+1:14:24
+this one just means in that second
+
+1:14:26
+dimension it'll be comma one so here
+
+1:14:29
+it's going to return an object of 768
+
+1:14:32
+comma one
+
+1:14:33
+all right
+
+1:14:34
+so let's run this
+
+1:14:36
+oops here columns
+
+1:14:39
+cool
+
+1:14:40
+and then instead of data frame dot
+
+1:14:44
+columns
+
+1:14:45
+actually all of these we can leave the
+
+1:14:46
+same but here we just want to make sure
+
+1:14:48
+that we're plotting the transformed data
+
+1:14:51
+frame
+
+1:14:53
+so if we can see now
+
+1:14:55
+like most of these so what standard
+
+1:14:58
+scalar is doing is it's actually mapping
+
+1:15:00
+our values to a normal distribution and
+
+1:15:03
+trying to calculate
+
+1:15:04
+like how far off our values are from the
+
+1:15:07
+norm
+
+1:15:09
+so here
+
+1:15:10
+you know we can see that glucose levels
+
+1:15:12
+now range
+
+1:15:13
+i mean it looks like it's fairly
+
+1:15:15
+centered around zero or negative one
+
+1:15:18
+um
+
+1:15:19
+but all of these are now normalized
+
+1:15:22
+okay so we can actually delete the cell
+
+1:15:24
+now that we've visualized it we don't
+
+1:15:26
+need it
+
+1:15:27
+and what we're going to do is we are
+
+1:15:30
+going to
+
+1:15:31
+[Music]
+
+1:15:32
+uh
+
+1:15:33
+this is now our new x and we can
+
+1:15:36
+directly pass that down into here but
+
+1:15:38
+one other thing that i had mentioned
+
+1:15:41
+is remember how
+
+1:15:43
+if we take x and we say x
+
+1:15:46
+for the outcome
+
+1:15:49
+is equal to one
+
+1:15:53
+or sorry i shouldn't say x i should say
+
+1:15:55
+the data frame or the transform data
+
+1:15:57
+frame
+
+1:15:58
+doesn't matter
+
+1:16:02
+and then if i set this equal to zero
+
+1:16:05
+remember how these two
+
+1:16:08
+sorry a little typo
+
+1:16:13
+remember how these two values are so
+
+1:16:14
+different like the number of
+
+1:16:16
+non-diabetes patients is almost double
+
+1:16:19
+the number of diabetes positive patients
+
+1:16:21
+so this can sometimes also
+
+1:16:24
+lead to
+
+1:16:25
+the neural net not training so well
+
+1:16:28
+instead what we're going to do is we're
+
+1:16:30
+actually going to
+
+1:16:31
+try to get these two to be approximately
+
+1:16:34
+equal
+
+1:16:35
+and we can do that with another thing
+
+1:16:37
+called
+
+1:16:38
+random over sampler which means that
+
+1:16:40
+we're essentially trying to
+
+1:16:43
+get
+
+1:16:44
+like more random samples into that first
+
+1:16:46
+sample so that they now balance out
+
+1:16:49
+these two values balance out the lengths
+
+1:16:53
+now okay we can do this by importing
+
+1:16:56
+another package
+
+1:16:58
+so we're going to use a package called
+
+1:17:00
+imbalance learn
+
+1:17:02
+dot over sampling
+
+1:17:06
+and we're going to import random over
+
+1:17:08
+sampler
+
+1:17:09
+now watch what happens
+
+1:17:12
+oh
+
+1:17:13
+okay that did not give me an error but
+
+1:17:15
+in the past this might give you an error
+
+1:17:17
+and if it does what you're going to do
+
+1:17:19
+is just come up here and type in
+
+1:17:22
+uh an exclamation mark pip
+
+1:17:24
+install dash u
+
+1:17:27
+imbalanced
+
+1:17:30
+run that and then this if there's an
+
+1:17:32
+error here that says you know there's no
+
+1:17:34
+library then this
+
+1:17:36
+up here will solve that for you
+
+1:17:39
+and yeah you you would have to restart
+
+1:17:41
+the runtime but because
+
+1:17:43
+this worked i'm not going to do that
+
+1:17:47
+all right let's come back down here so
+
+1:17:50
+right before we're splitting it into the
+
+1:17:51
+test and train sets
+
+1:17:53
+over here let's actually
+
+1:17:55
+use this random over sampler in order to
+
+1:18:00
+get both of these
+
+1:18:01
+uh equal to one so here let's call
+
+1:18:05
+random
+
+1:18:06
+over sampler
+
+1:18:10
+and then let's split x and y
+
+1:18:14
+well i guess let's let's redo this x and
+
+1:18:17
+y definition by calling fit resample
+
+1:18:21
+and then x comma y
+
+1:18:23
+then
+
+1:18:24
+we run this cell
+
+1:18:26
+all right
+
+1:18:27
+uh we can't exactly
+
+1:18:29
+we we never like rerand
+
+1:18:32
+we can do this again
+
+1:18:36
+all right so now we see that we have 500
+
+1:18:40
+where the outcome is one and 500 where
+
+1:18:42
+the outcome is zero so this is a good
+
+1:18:44
+sign this means that now our data set is
+
+1:18:47
+balanced in terms of the outcomes
+
+1:18:49
+let's
+
+1:18:50
+rerun all of these
+
+1:18:55
+okay so it seems like our accuracy is
+
+1:18:57
+closer to 50 now
+
+1:18:59
+and let's think about like intuitively
+
+1:19:01
+why that's happening well okay let's say
+
+1:19:04
+that the first result it's just
+
+1:19:06
+predicting random numbers zero one zero
+
+1:19:07
+one zero one okay but
+
+1:19:09
+our data set
+
+1:19:11
+naturally before it had more
+
+1:19:14
+values that were
+
+1:19:16
+uh negative than positive and so
+
+1:19:19
+naturally that accuracy would be skewed
+
+1:19:21
+towards something closer to 30 percent
+
+1:19:23
+if for example it's like a one to two
+
+1:19:26
+ratio
+
+1:19:27
+because just because of the fact that we
+
+1:19:29
+didn't have very many values that
+
+1:19:32
+were equal that were diabetes positive
+
+1:19:35
+but now because we've balanced it this
+
+1:19:37
+value is much closer to 50.
+
+1:19:40
+all right
+
+1:19:41
+now let's try to train our model once
+
+1:19:43
+again
+
+1:19:46
+okay so we see that again this loss is
+
+1:19:49
+decreasing this is good and our accuracy
+
+1:19:52
+seems to be increasing which is also
+
+1:19:54
+good
+
+1:19:55
+and let's check our validation because
+
+1:19:58
+remember we need to see how this would
+
+1:20:00
+generalize to unseen data
+
+1:20:02
+our validation loss great seems to be
+
+1:20:05
+decreasing validation accuracy
+
+1:20:07
+seems to be increasing and now our
+
+1:20:09
+validation accuracy is somewhere closer
+
+1:20:11
+to
+
+1:20:12
+77
+
+1:20:14
+which is a significant improvement
+
+1:20:18
+all right now at the very very end what
+
+1:20:20
+we're going to do is we're going to
+
+1:20:22
+evaluate this model
+
+1:20:24
+on our test data set
+
+1:20:30
+and we can see that okay our loss is
+
+1:20:32
+around 0.5 but that doesn't really mean
+
+1:20:34
+anything to us
+
+1:20:35
+but our accuracy is around 77.5
+
+1:20:39
+which is pretty good because we've never
+
+1:20:41
+seen this data before
+
+1:20:43
+so that's a quick tutorial on how we
+
+1:20:45
+just used tensorflow to create a neural
+
+1:20:48
+net and then use that neural net to
+
+1:20:50
+predict whether or not the sample of
+
+1:20:53
+uh pima indian
+
+1:20:55
+descent women have diabetes or not based
+
+1:20:58
+on you know some data that we were given
+
+1:21:01
+so that's very very cool now
+
+1:21:04
+for the other tutorial that we started
+
+1:21:06
+off with we will get to that in one
+
+1:21:08
+second but first i wanted to talk about
+
+1:21:11
+some more advanced neural network
+
+1:21:13
+architectures
+
+Recurrent neural networks
+1:21:15
+let's talk about recurrent neural
+
+1:21:17
+networks
+
+1:21:19
+we've already seen the feed forward
+
+1:21:20
+neural net we've already you know done
+
+1:21:22
+an example problem with it we're very
+
+1:21:24
+familiar with it right you have your
+
+1:21:26
+inputs and then they feed into you know
+
+1:21:29
+the hidden layers and then you get your
+
+1:21:31
+outputs okay cool yeah we've got that
+
+1:21:33
+you guys have got that
+
+1:21:35
+but what if this data over here our
+
+1:21:38
+inputs
+
+1:21:39
+were some sort of series or sequence so
+
+1:21:43
+for example they might be stock prices
+
+1:21:45
+from the past 20 days or they might be
+
+1:21:47
+values that represent different words in
+
+1:21:50
+a sentence where the sentence has some
+
+1:21:52
+sort of you know
+
+1:21:54
+sequence to it or it might be
+
+1:21:57
+temperatures from the past 10 months
+
+1:22:01
+so on you you get what i mean like just
+
+1:22:04
+basically if this was some sort of
+
+1:22:06
+sequence if this data were a sequence a
+
+1:22:10
+feed-forward neural net would not do a
+
+1:22:12
+really good job at picking that up
+
+1:22:14
+why because all of these different
+
+1:22:16
+layers it evaluates each value as if
+
+1:22:19
+they were independent so even if there
+
+1:22:21
+were a series
+
+1:22:23
+it's it's a lot harder for our feed for
+
+1:22:24
+our neural net to pick up on that
+
+1:22:28
+that's where recurrent neural networks
+
+1:22:30
+come in so basically here we have our
+
+1:22:32
+data points
+
+1:22:34
+and you know this is our data point
+
+1:22:36
+taken at t0 at t1 at t2 so we're going
+
+1:22:39
+through time
+
+1:22:40
+and what we can do is we can feed these
+
+1:22:43
+into a layer of weights
+
+1:22:45
+and then these layer of weights may or
+
+1:22:47
+may not produce some sort of output
+
+1:22:50
+but basically what this is doing because
+
+1:22:52
+the
+
+1:22:54
+you know calculation at each point takes
+
+1:22:56
+into account the previous
+
+1:22:59
+calculations as we move through this
+
+1:23:01
+network we're essentially creating some
+
+1:23:04
+sort of memory with the neural net so
+
+1:23:07
+this neural net at whenever you know
+
+1:23:10
+when we feed in x2 so x at t2
+
+1:23:13
+we actually have some information that
+
+1:23:15
+we remember about x at t 0 and x at t
+
+1:23:19
+so that makes a recurrent neural net
+
+1:23:21
+very powerful
+
+1:23:23
+ta-da this part acts as a memory
+
+1:23:28
+and now instead of just straightforward
+
+1:23:29
+back prop we have to use something
+
+1:23:31
+called back propagation through time in
+
+1:23:34
+order to adjust these weights
+
+1:23:37
+okay this is our unfolded rnn
+
+1:23:40
+and this is what our folded version
+
+1:23:42
+would look like so
+
+1:23:43
+you see how you know our x at time t is
+
+1:23:46
+just fed into this neuron which outputs
+
+1:23:49
+some
+
+1:23:50
+value at time t
+
+1:23:52
+and this value kind of gets cycled into
+
+1:23:55
+the next iteration of x and so on
+
+1:23:59
+well there are a few problems right with
+
+1:24:01
+this because
+
+1:24:02
+this rnn if you if you imagine there are
+
+1:24:04
+many many time steps this might end up
+
+1:24:06
+being a really deep network
+
+1:24:09
+and then two
+
+1:24:10
+during back propagation we might be
+
+1:24:13
+seeing the same terms like the weights
+
+1:24:15
+in here
+
+1:24:16
+over and over and over because of the
+
+1:24:18
+recurrent nature of this rnn
+
+1:24:21
+now why are those problems
+
+1:24:23
+well these two kind of compound on each
+
+1:24:26
+other and you might get something called
+
+1:24:28
+exploding gradients where the model can
+
+1:24:31
+become really unstable and then
+
+1:24:32
+incapable of learning
+
+1:24:34
+because all the gradients that we're
+
+1:24:36
+using in back propagation are getting
+
+1:24:39
+bigger and bigger and bigger until
+
+1:24:40
+they've reached like infinity
+
+1:24:43
+and then
+
+1:24:44
+you know our model
+
+1:24:46
+our model updates become literally all
+
+1:24:48
+over the place and we can't really
+
+1:24:49
+control our weights and then yeah
+
+1:24:52
+not good stuff happens
+
+1:24:55
+on the other hand there's also such
+
+1:24:56
+thing as vanishing gradients so here our
+
+1:25:00
+gradients get closer and closer and
+
+1:25:02
+closer to zero and so at this point our
+
+1:25:04
+model stops updating and then it becomes
+
+1:25:07
+also incapable of learning
+
+1:25:10
+so some really smart people have studied
+
+1:25:11
+these problems and they've decided okay
+
+1:25:14
+here are some different ways that we can
+
+1:25:15
+overcome this problem
+
+1:25:17
+there are a few things that you can do
+
+1:25:18
+with the activation function but i'll
+
+1:25:20
+let you look that up on your own time
+
+1:25:23
+instead i'm going to talk about
+
+1:25:24
+different sorts of cells or neurons that
+
+1:25:27
+people have come up with in order to
+
+1:25:29
+combat this
+
+1:25:31
+so there's such thing as the great the
+
+1:25:34
+sorry the gated recurrent unit
+
+1:25:36
+and this unit as you can see so it still
+
+1:25:39
+takes x at time t as an input but here
+
+1:25:42
+just has a bunch of gates that are
+
+1:25:44
+associated with it and then it has some
+
+1:25:47
+sort of output so there's just more
+
+1:25:49
+parameters inside the neuron itself
+
+1:25:51
+rather than trying to just directly sum
+
+1:25:53
+up some weights
+
+1:25:55
+there's also the long short term memory
+
+1:25:58
+unit which looks something like this
+
+1:26:00
+it's very very similar to the unit that
+
+1:26:02
+we just saw but instead of two gates it
+
+1:26:04
+has three again i'm not going to dive
+
+1:26:07
+too deep into these things because these
+
+1:26:08
+are more advanced topics but i just
+
+1:26:10
+wanted you guys to be aware that these
+
+1:26:12
+exist and if we do use them an example
+
+1:26:15
+this is exactly what's going on it's
+
+1:26:16
+just we have a few more
+
+1:26:19
+you know bells and whistles inside of
+
+Colab (text classification networks using wine dataset)
+1:26:21
+our neuron all right so now that we've
+
+1:26:23
+touched upon some of the more
+
+1:26:24
+theoretical aspects of neural nets and
+
+1:26:27
+machine learning
+
+1:26:28
+let's walk through a different
+
+1:26:29
+tensorflow example with text
+
+1:26:30
+classification
+
+1:26:32
+and try to see if we can classify some
+
+1:26:35
+wine reviews
+
+1:26:37
+so let's get started on that let's go
+
+1:26:39
+back to our co-lab notebook where we
+
+1:26:41
+were studying the wine reviews and let's
+
+1:26:43
+continue on with that so here i have
+
+1:26:46
+that notebook open this is the code that
+
+1:26:48
+we typed at the very beginning of this
+
+1:26:51
+class
+
+1:26:52
+so here we have our wine reviews and
+
+1:26:54
+we're actually actually need to restart
+
+1:26:56
+um we need to rerun some cells
+
+1:26:59
+and we need to re-import our data so let
+
+1:27:02
+me do that over here
+
+1:27:10
+okay so we see that it's imported
+
+1:27:14
+let's rerun everything
+
+1:27:20
+all right
+
+1:27:23
+cool
+
+1:27:23
+okay this is this is our uh these are
+
+1:27:26
+our points is what we're trying to
+
+1:27:27
+classify now let's split this up into a
+
+1:27:29
+low tier and height here as we were
+
+1:27:32
+saying earlier so how we can do that is
+
+1:27:35
+if we type in
+
+1:27:37
+quality label let's say
+
+1:27:40
+so let's come up with a new label or
+
+1:27:42
+actually let's just say this is the
+
+1:27:43
+label
+
+1:27:44
+and we say this will be if df dot points
+
+1:27:48
+so basically the points column of the
+
+1:27:50
+data frame if it's greater than or equal
+
+1:27:53
+to 90.
+
+1:27:55
+let's uh
+
+1:27:57
+this basically will return a boolean so
+
+1:27:59
+either every single row
+
+1:28:01
+it will be false if it's less than 90 or
+
+1:28:04
+true if it's greater than 90. and
+
+1:28:07
+all i'm going to do at the very end here
+
+1:28:09
+is
+
+1:28:10
+forces as a type for an integer so that
+
+1:28:12
+it gets mapped to zero or one because
+
+1:28:14
+remember our computer understands
+
+1:28:16
+numbers really well
+
+1:28:19
+so here then i'm going to say that the
+
+1:28:21
+data frame i don't need all the columns
+
+1:28:23
+i know which ones i'm going to use so
+
+1:28:25
+i'm just going to say it'll be the
+
+1:28:27
+description
+
+1:28:28
+and the label
+
+1:28:30
+so remember this is the description
+
+1:28:33
+and this is the label okay and you know
+
+1:28:35
+what let me just add points in here
+
+1:28:37
+anyways
+
+1:28:40
+so now if i look at the very beginning
+
+1:28:43
+of this
+
+1:28:44
+okay so we have the points and we have
+
+1:28:46
+the label let's look at the tail
+
+1:28:48
+maybe that'll be okay so here again we
+
+1:28:51
+have the points they're equal to 90 and
+
+1:28:53
+then the label
+
+1:28:55
+all right great
+
+1:28:57
+so
+
+1:29:00
+let's now split this up into the
+
+1:29:03
+training validation and test data sets
+
+1:29:06
+so
+
+1:29:08
+i wanted to this there just to show you
+
+1:29:11
+guys that you know we were mapping this
+
+1:29:12
+the right thing but this is what we can
+
+1:29:14
+actually
+
+1:29:15
+um keep now that we have our data frame
+
+1:29:18
+i want to split this up into our
+
+1:29:19
+training validation and test data frames
+
+1:29:23
+now we did this in a slightly different
+
+1:29:24
+way before but i'm going to show you a
+
+1:29:26
+different way to do it because i want
+
+1:29:27
+you to realize that there's not just one
+
+1:29:29
+way to do it like whenever you're
+
+1:29:30
+working with a data set you want to be
+
+1:29:32
+able to be flexible
+
+1:29:34
+and split things up in different ways
+
+1:29:37
+so here i'm going to say train val test
+
+1:29:41
+i'm going to set this equal to np so
+
+1:29:43
+numpy dot split which is going to split
+
+1:29:45
+our data frame
+
+1:29:47
+and this is the data frame that we're
+
+1:29:48
+going to split and actually what i'm
+
+1:29:50
+going to do is i'm going to mix things
+
+1:29:52
+up a little bit so i'm going to say
+
+1:29:53
+sample
+
+1:29:54
+and i'm going to sample all of them
+
+1:29:56
+which is going to basically draw random
+
+1:29:58
+samples but sampling the entire data
+
+1:30:00
+frame
+
+1:30:01
+and then i'm going to pass in the
+
+1:30:03
+different
+
+1:30:04
+cuts where i actually want there to be
+
+1:30:06
+breaks in the data frame
+
+1:30:08
+so what that's going to look like is i
+
+1:30:10
+want it to be 60 for the training 20 for
+
+1:30:13
+the validation 20 for the test and
+
+1:30:16
+actually in a data frame this size you
+
+1:30:18
+could even go like 80 for training 10
+
+1:30:22
+for validation 10 for test
+
+1:30:25
+and the reason is just because there's
+
+1:30:26
+so much data that like
+
+1:30:28
+even with your validation and test sets
+
+1:30:30
+even if you're using only 10 that's
+
+1:30:32
+still enough data to kind of see how it
+
+1:30:34
+generalizes
+
+1:30:36
+so actually that's what i'm going to do
+
+1:30:39
+um so i'm going to map this to an
+
+1:30:41
+integer and i'm going to say okay so 0.8
+
+1:30:44
+will be our first cut meaning 80 will go
+
+1:30:46
+towards the train data set
+
+1:30:49
+so i'm going to say 0.8 times the length
+
+1:30:52
+of this data frame
+
+1:30:53
+and then our second cut is going to be
+
+1:30:57
+at the 90 mark which means that 10 of
+
+1:30:59
+the data set will be for the validation
+
+1:31:02
+here and 10 the remaining 10 will be for
+
+1:31:06
+test
+
+1:31:07
+so if we run that okay cool
+
+1:31:10
+and we can quickly say like you know
+
+1:31:12
+let's print the length of these
+
+1:31:18
+great so you can see still plenty of
+
+1:31:20
+samples for our validation and tests
+
+1:31:22
+data sets
+
+1:31:24
+all right so this next function i'm
+
+1:31:26
+actually going to copy from this
+
+1:31:28
+tensorflow module right here
+
+1:31:30
+all right so we're going to use this
+
+1:31:32
+we're going to slightly edit it and
+
+1:31:34
+basically what this function does is it
+
+1:31:36
+converts each training validation and
+
+1:31:38
+test set data frame into a
+
+1:31:41
+tf.data.dataset object and then it will
+
+1:31:44
+shuffle and batch the data so
+
+1:31:47
+let's copy this code and go back to ours
+
+1:31:50
+right here now i'm going to make a
+
+1:31:52
+slight difference because our data set
+
+1:31:54
+is so big i'm actually going to change
+
+1:31:56
+this to a larger batch size and then
+
+1:31:58
+down here instead of using batch size
+
+1:32:00
+i'm going to do tf.data.autotune
+
+1:32:05
+okay great so let's run this except
+
+1:32:08
+actually so
+
+1:32:10
+in this data set i believe they use
+
+1:32:12
+target to define
+
+1:32:14
+their uh target column
+
+1:32:17
+okay yeah so they use target to create
+
+1:32:19
+their target variable but for us we
+
+1:32:21
+already have a column that defines it
+
+1:32:23
+and we've called it the label so instead
+
+1:32:26
+what we're going to do is we're going to
+
+1:32:28
+change this to label
+
+1:32:30
+okay and then the next thing that we're
+
+1:32:33
+going to do
+
+1:32:34
+is instead of this part here
+
+1:32:38
+with all of this we're just going to set
+
+1:32:40
+the data frame equal to data dot
+
+1:32:42
+description
+
+1:32:44
+because that's the only part of the data
+
+1:32:45
+frame that we actually care about
+
+1:32:48
+alrighty
+
+1:32:51
+and here we can because we change that
+
+1:32:54
+we can remove this
+
+1:32:57
+and if we run that this should be able
+
+1:32:59
+to successfully create our train data
+
+1:33:02
+our validation data and our test data so
+
+1:33:05
+here i can do train data equals
+
+1:33:08
+df
+
+1:33:09
+to data set
+
+1:33:12
+and i'm going to run this on the train
+
+1:33:16
+and actually let's just copy and paste
+
+1:33:17
+this a few more times and here instead
+
+1:33:20
+of train
+
+1:33:21
+this will be valid
+
+1:33:24
+and here i will call this test and
+
+1:33:26
+actually we didn't create a valid it's
+
+1:33:29
+val
+
+1:33:30
+now run this hopefully great there are
+
+1:33:32
+no errors
+
+1:33:34
+so basically what this um function is
+
+1:33:36
+doing it's shuffling our data for us and
+
+1:33:38
+it's formatting it in a proper you know
+
+1:33:41
+format but then it's also batching it
+
+1:33:43
+into our batch size that we specified
+
+1:33:45
+and pre-fetching now this prefetch you
+
+1:33:48
+can kind of um
+
+1:33:51
+i guess
+
+1:33:52
+you can think about it as
+
+1:33:55
+just try to speed things up a little bit
+
+1:33:57
+trying to optimize things a little bit
+
+1:34:01
+so this it just reduces some friction
+
+1:34:05
+so these are our data sets now let's try
+
+1:34:07
+to take a look at like what's actually
+
+1:34:08
+in here so something that we can do is
+
+1:34:12
+called train data of zero but actually
+
+1:34:14
+this train data is now going to be like
+
+1:34:16
+a tensorflow data set so what you need
+
+1:34:19
+to do is you actually need to convert it
+
+1:34:21
+quickly so that we can see what's going
+
+1:34:23
+on
+
+1:34:25
+so you'll see that this is actually a
+
+1:34:27
+tensor
+
+1:34:29
+it's i guess it's a tuple in this case
+
+1:34:32
+but you have the tensor of all the
+
+1:34:34
+strings and then you also have the
+
+1:34:36
+corresponding labels that are associated
+
+1:34:39
+with them the zeros and ones that we
+
+1:34:41
+came up with
+
+1:34:44
+all right
+
+1:34:48
+great so let's talk about how our model
+
+1:34:51
+is now going to work one thing that we
+
+1:34:54
+imported that you might have noticed up
+
+1:34:55
+here was this tensorflow hub
+
+1:34:58
+so what tensorflow hub is
+
+1:35:00
+is tensorflow hub is a repository of
+
+1:35:03
+trained machine learning models so
+
+1:35:05
+basically these are models that are
+
+1:35:07
+ready to use um
+
+1:35:09
+they just need some fine tuning and we
+
+1:35:12
+can actually use one of these to help us
+
+1:35:14
+in our process of text classification
+
+1:35:17
+so recall that computers don't really
+
+1:35:20
+understand text that well right like
+
+1:35:22
+computers understand numbers really well
+
+1:35:25
+so
+
+1:35:26
+we actually need a way to
+
+1:35:28
+transform
+
+1:35:30
+all of these sentences like this into
+
+1:35:33
+like
+
+1:35:34
+numbers that our computer can understand
+
+1:35:36
+and that's where
+
+1:35:37
+this embedding comes into play
+
+1:35:40
+so
+
+1:35:41
+one embedding that we will actually use
+
+1:35:44
+is
+
+1:35:45
+this nnlm
+
+1:35:47
+this en english and then dimension 50.
+
+1:35:50
+so this is token based text embedding
+
+1:35:52
+trained on english google news
+
+1:35:54
+using like a seven billion
+
+1:35:56
+document corpus
+
+1:35:58
+so it's a saved model that they already
+
+1:36:00
+have for text embedding
+
+1:36:02
+and let's see how we do so
+
+1:36:05
+you can say embedding equals
+
+1:36:08
+set that and actually you know what
+
+1:36:10
+let's just label this
+
+1:36:16
+okay
+
+1:36:17
+so here is our embedding then we're
+
+1:36:19
+going to create a variable called hub
+
+1:36:21
+layer and set this equal to hub dot
+
+1:36:24
+keras layer
+
+1:36:26
+and this is uh you want to pass in the
+
+1:36:29
+embedding link
+
+1:36:31
+and the data type that we're actually
+
+1:36:32
+going to use we're going to
+
+1:36:34
+tell this that we're using strings
+
+1:36:38
+and then finally we are going to tell
+
+1:36:41
+this that you know trainable is true
+
+1:36:44
+okay cool
+
+1:36:47
+oops
+
+1:36:55
+we can actually call this hub layer
+
+1:36:57
+and we can do that by passing in
+
+1:37:00
+let's uh you know do this little hack
+
+1:37:02
+again train data
+
+1:37:04
+and
+
+1:37:06
+um
+
+1:37:08
+just say zero
+
+1:37:14
+oops okay so basically what we did we
+
+1:37:18
+need to only pass the strings
+
+1:37:21
+so basically what we've done here is
+
+1:37:23
+every single
+
+1:37:24
+uh sentence that we had in our data set
+
+1:37:26
+we're essentially projecting it into
+
+1:37:29
+a
+
+1:37:30
+length of 50
+
+1:37:32
+vector containing only numbers so that's
+
+1:37:34
+what our embedding did it basically
+
+1:37:36
+transformed our text into this vector of
+
+1:37:39
+numbers
+
+1:37:40
+that now our model can go and understand
+
+1:37:44
+so let's build our model
+
+1:37:48
+so let's again calls keras sequential so
+
+1:37:51
+previously what we did was we passed in
+
+1:37:53
+you know a list of all the different
+
+1:37:55
+layers but
+
+1:37:56
+i'm just going to show you guys another
+
+1:37:57
+way that you can build a model so here
+
+1:37:59
+you can also do model.add
+
+1:38:01
+and the first thing that we're going to
+
+1:38:02
+add is this hub layer that we
+
+1:38:05
+defined up here
+
+1:38:08
+so basically now the first
+
+1:38:10
+transformation will be this text to
+
+1:38:12
+value numerical value transformation
+
+1:38:15
+then what i'm going to do
+
+1:38:17
+is i'm going to add a layer
+
+1:38:22
+and this is just going to be a classic
+
+1:38:23
+dense layer
+
+1:38:24
+and let's use 16 neurons again
+
+1:38:30
+and we're going to use relu and i'm just
+
+1:38:32
+going to add another layer of those and
+
+1:38:34
+then finally i'm going to add
+
+1:38:42
+my uh
+
+1:38:46
+final output just like in the previous
+
+1:38:48
+neural net that we created in our feed
+
+1:38:50
+forward neural net
+
+1:38:54
+okay so now that we have our model i'm
+
+1:38:56
+going to actually compile it with the
+
+1:38:58
+same exact compilation statement as the
+
+1:39:01
+previous model the feed forward network
+
+1:39:03
+that we did so let me just paste that in
+
+1:39:05
+here
+
+1:39:07
+so i'm saying model.compile i'm using
+
+1:39:09
+atom as the optimizer again and actually
+
+1:39:12
+the slanting rate let's go back to 0.001
+
+1:39:15
+um i'd copy that from another example
+
+1:39:18
+and then for the loss we're again going
+
+1:39:21
+to use binary cross entropy and for our
+
+1:39:23
+metric we're going to add accuracy now
+
+1:39:26
+these are because we're doing binary
+
+1:39:28
+classification
+
+1:39:30
+okay so here first let's actually
+
+1:39:33
+so now that we have our model and it's
+
+1:39:36
+compiled
+
+1:39:37
+let's try to evaluate the untrained
+
+1:39:40
+model on the train data
+
+1:39:44
+and let's actually do the same thing for
+
+1:39:45
+the validation data
+
+1:39:49
+okay so it seems like our accuracy is
+
+1:39:51
+around 40 percent
+
+1:39:53
+not so great our loss may be around 0.7
+
+1:39:57
+okay so
+
+1:39:58
+let's see what will happen if we
+
+1:40:01
+do model.fit
+
+1:40:03
+so here let's pass in our trained data
+
+1:40:06
+and let's also
+
+1:40:09
+let's do uh
+
+1:40:10
+10 epochs and let's pass in our
+
+1:40:12
+validation
+
+1:40:14
+data
+
+1:40:17
+okay
+
+1:40:20
+now we're starting to train
+
+1:40:24
+okay so our accuracy is increasing it's
+
+1:40:26
+over 50 now this is a good sign and our
+
+1:40:30
+loss seems to be decreasing so this
+
+1:40:31
+means that our model is training
+
+1:40:37
+cool it's still increasing we like to
+
+1:40:40
+see it
+
+1:40:44
+and it's still going
+
+1:40:48
+okay so i'm gonna let you guys train
+
+1:40:51
+your model you can pause the video
+
+1:40:54
+really quickly but
+
+1:40:55
+i'll be back once our models are done
+
+1:40:57
+training
+
+1:41:00
+okay so our model's finished training
+
+1:41:02
+let's take a look at the results
+
+1:41:04
+so
+
+1:41:05
+here it seems like our loss is steadily
+
+1:41:09
+decreasing which is a good sign
+
+1:41:11
+and our accuracy seems to be increasing
+
+1:41:13
+almost to 90
+
+1:41:15
+okay that's also a really good sign now
+
+1:41:18
+if we go over here and look at the
+
+1:41:19
+validation loss in the accuracy our
+
+1:41:22
+validation loss okay it starts pretty
+
+1:41:24
+high and then it decreases and then it
+
+1:41:26
+seems like it starts to go back up again
+
+1:41:29
+which means that
+
+1:41:30
+seems like as training's going on the
+
+1:41:32
+validation performance is actually worse
+
+1:41:35
+and worse and if we look at the accuracy
+
+1:41:38
+okay it starts off pretty decent at 80
+
+1:41:41
+and it gets better and then it starts to
+
+1:41:43
+kind of plateau and then it dips a
+
+1:41:46
+little bit
+
+1:41:47
+okay so what's going on here
+
+1:41:50
+this is a classic example of overfitting
+
+1:41:53
+so overfitting means that the training
+
+1:41:56
+data that you do see that your model
+
+1:41:58
+sees
+
+1:41:59
+the model learns how to predict the
+
+1:42:01
+training data really well but then it
+
+1:42:02
+generalizes really poorly so what we can
+
+1:42:06
+actually do is we can plot
+
+1:42:09
+the model history so
+
+1:42:11
+if we do history.history
+
+1:42:14
+what happened
+
+1:42:16
+and we look at the accuracy
+
+1:42:20
+and then we also do the validation
+
+1:42:22
+accuracy
+
+1:42:30
+okay just some labels here
+
+1:42:35
+and what we can
+
+1:42:38
+alright and then let's just give this a
+
+1:42:40
+title
+
+1:42:45
+and then
+
+1:42:48
+labeling
+
+1:42:58
+what is going on here
+
+1:43:02
+and then at the very end we can do
+
+1:43:04
+guilty
+
+1:43:05
+so this is going to plot
+
+1:43:08
+our accuracy hopefully
+
+1:43:13
+oh i think we have to type out accuracy
+
+1:43:18
+okay so we can see that our training
+
+1:43:20
+accuracy starts here and it gets better
+
+1:43:22
+and better and better whereas our
+
+1:43:24
+validation accuracy seems to okay it
+
+1:43:27
+does well and then it kind of tapers off
+
+1:43:30
+now if we look at the loss it's a
+
+1:43:32
+different story so here
+
+1:43:41
+let's just change this plot a little bit
+
+1:43:44
+and let's look at this again okay so it
+
+1:43:46
+looks like our training loss actually
+
+1:43:48
+decreases very well
+
+1:43:50
+whereas our validation loss seems to
+
+1:43:52
+decrease and then start to go up again
+
+1:43:56
+so
+
+1:43:57
+basically our model is incapable of
+
+1:43:59
+generalizing because we've trained it so
+
+1:44:02
+much on our
+
+1:44:04
+data that we're feeding it
+
+1:44:06
+so how do we fix this
+
+1:44:09
+one way would be to add something called
+
+1:44:11
+drop out
+
+1:44:12
+and drop out just means that every once
+
+1:44:14
+in a while you select a few nodes that
+
+1:44:16
+aren't really
+
+1:44:17
+working
+
+1:44:18
+so
+
+1:44:19
+if i do this
+
+1:44:25
+i can add a few layers like this in here
+
+1:44:28
+and that should actually improve my
+
+1:44:30
+training
+
+1:44:32
+so the reason why this works is that
+
+1:44:35
+every single time the model has to
+
+1:44:36
+basically
+
+1:44:37
+go through these obstacles these dropout
+
+1:44:40
+layers where some nodes aren't working
+
+1:44:42
+and try to figure out how to work around
+
+1:44:44
+that
+
+1:44:45
+so
+
+1:44:46
+that helps it generalize a little bit
+
+1:44:48
+we're just adding a little bit of
+
+1:44:49
+randomness in there
+
+1:44:53
+all right so here let's uh you know
+
+1:44:56
+repeat our hub layer
+
+1:44:58
+compile our model
+
+1:45:01
+evaluate okay it seems like this is
+
+1:45:03
+already really high
+
+1:45:05
+but
+
+1:45:06
+that's fine it could just be the
+
+1:45:08
+opposite of what we just did
+
+1:45:11
+um
+
+1:45:14
+all right and then also another thing to
+
+1:45:16
+do is stop earlier so let's just use
+
+1:45:18
+five epochs
+
+1:45:23
+all right i'll see you guys after
+
+1:45:25
+training
+
+1:45:28
+all right so we're back let's take a
+
+1:45:30
+look at our results so our loss is
+
+1:45:32
+decreasing accuracy increasing great
+
+1:45:35
+okay so our accuracy our loss seems to
+
+1:45:38
+increase a tiny bit by the end and our
+
+1:45:40
+accuracy seems to decrease a tiny bit by
+
+1:45:42
+the end but this is probably a much
+
+1:45:44
+better generalizable model than our
+
+1:45:47
+previous one that we had trained
+
+1:45:49
+so
+
+1:45:51
+finally what we can do is we can
+
+1:45:53
+evaluate this
+
+1:45:55
+on our test data in order to get our
+
+1:45:57
+final results
+
+1:46:00
+so sweet look at that our loss seems to
+
+1:46:02
+be around 0.38 and our accuracy is
+
+1:46:06
+around 83 percent so that seems to be
+
+1:46:09
+really good
+
+1:46:10
+awesome
+
+1:46:11
+all right so up until this point we just
+
+1:46:13
+created a
+
+1:46:15
+neural network that we saw would help us
+
+1:46:17
+with text classification
+
+1:46:19
+however we did use part of the
+
+1:46:21
+tensorflow hub which you know is not a
+
+1:46:23
+bad thing but if we wanted more
+
+1:46:26
+control over
+
+1:46:28
+this model what would we have to do and
+
+1:46:30
+so i'm just going to show you guys
+
+1:46:31
+really quickly how we would recreate
+
+1:46:33
+this model using a lstm
+
+1:46:37
+here i'm going to label this section
+
+1:46:39
+lstm
+
+1:46:41
+and the first thing that we're going to
+
+1:46:43
+do is to create some sort of encoder for
+
+1:46:46
+our text because once again
+
+1:46:48
+our computer does not understand english
+
+1:46:52
+so
+
+1:46:53
+what i'm going to do is create an
+
+1:46:55
+encoder
+
+1:46:56
+and set this equal to tf.layers.txt
+
+1:47:02
+vectorization
+
+1:47:04
+and then here i'm going to say the max
+
+1:47:06
+tokens well this is going to be the
+
+1:47:08
+maximum number of words that we're going
+
+1:47:11
+to remember
+
+1:47:13
+and i'm going to set this to 2000
+
+1:47:16
+so then what i'm going to do is call
+
+1:47:18
+encoder.adapt
+
+1:47:20
+and here i'm going to pass in
+
+1:47:23
+uh our train data
+
+1:47:28
+and then actually because our train data
+
+1:47:30
+doesn't really
+
+1:47:31
+like this encoder would only need the
+
+1:47:33
+sentences
+
+1:47:34
+uh we're just going to also pass in a
+
+1:47:36
+quick little lambda function because
+
+1:47:40
+our train data is composed of the text
+
+1:47:42
+and the label but we don't really care
+
+1:47:44
+about the label we just want the text
+
+1:47:46
+so let's run this
+
+1:47:52
+okay
+
+1:47:53
+and let's check out our vocab
+
+1:47:58
+so we can call encoder.getvocabulary
+
+1:48:05
+and then let's actually uh let's take a
+
+1:48:08
+look at this let's see like the first 20
+
+1:48:10
+items
+
+1:48:12
+all right so here these are words that
+
+1:48:15
+are encoded in our encoder or part of
+
+1:48:18
+the vocabulary and this here this this
+
+1:48:20
+represents any unknown tokens
+
+1:48:24
+okay then we can create our model
+
+1:48:27
+and again it doesn't really matter which
+
+1:48:29
+way you define it but
+
+1:48:31
+this is how i'm going to define it this
+
+1:48:33
+time
+
+1:48:34
+and the first thing that we're going to
+
+1:48:36
+pass in is the encoder because this is
+
+1:48:39
+the encoder is what is going to
+
+1:48:41
+basically vectorize our text
+
+1:48:44
+and then we need to have some sort of
+
+1:48:47
+embedding for this vectorized text
+
+1:48:50
+and that we are going to call
+
+1:48:53
+keras.layer
+
+1:48:54
+dot embedding
+
+1:48:56
+so for the embedding we're going to need
+
+1:48:58
+to pass in an input dimension and i'm
+
+1:49:00
+going to set this equal to the length of
+
+1:49:02
+the encoder's vocabulary
+
+1:49:08
+and then we also need to pass in an
+
+1:49:09
+output dimension
+
+1:49:11
+so this output dimension i'm just going
+
+1:49:12
+to set equal to 32 because i think
+
+1:49:15
+that's how many lstm
+
+1:49:17
+um
+
+1:49:18
+that will be the size of our lstm
+
+1:49:21
+and then
+
+1:49:22
+i will also
+
+1:49:24
+set mask 0
+
+1:49:26
+equal to true and the reason why we use
+
+1:49:29
+this masking is so that we can handle
+
+1:49:32
+variable sequence lengths
+
+1:49:35
+okay so that's our embedding layer so
+
+1:49:37
+basically this turns these two together
+
+1:49:40
+we'll be able to turn our sentence into
+
+1:49:42
+a vector of numbers that our neural net
+
+1:49:44
+will be able to comprehend
+
+1:49:47
+then next i'm going to add in a
+
+1:49:50
+lstm layer and it's literally as easy as
+
+1:49:53
+this
+
+1:49:54
+um and we just you know how many nodes
+
+1:49:57
+there are i put the output dimensions 32
+
+1:50:00
+so that's the value that i'm going to
+
+1:50:02
+pass here
+
+1:50:04
+and then let's just add a dense layer
+
+1:50:09
+let's do a drop out layer because you
+
+1:50:11
+know we saw previously that we might be
+
+1:50:14
+prone to over training
+
+1:50:16
+and then finally we
+
+1:50:18
+result with a
+
+1:50:21
+dense
+
+1:50:22
+layer
+
+1:50:24
+sorry i totally typed these wrong drop
+
+1:50:27
+dropout and then dense one
+
+1:50:29
+i also forgot the activation so here we
+
+1:50:32
+want sigmoid because this is the output
+
+1:50:35
+and up here we want
+
+1:50:38
+really
+
+1:50:40
+okay so this is our model
+
+1:50:44
+and
+
+1:50:46
+here i missed another s
+
+1:50:53
+cool
+
+1:50:54
+all right
+
+1:50:55
+now for the compilation let's just
+
+1:50:58
+borrow this right here
+
+1:51:03
+and again we want to evaluate this
+
+1:51:09
+on our trade
+
+1:51:11
+data
+
+1:51:12
+as well as our validation data
+
+1:51:17
+just to see you know what happens
+
+1:51:19
+so let's take a look at that
+
+1:51:47
+okay so our accuracy seems to be around
+
+1:51:50
+53
+
+1:51:51
+not great our loss around 0.7
+
+1:51:55
+okay
+
+1:51:56
+so
+
+1:51:57
+now let's
+
+1:51:58
+train our model
+
+1:52:05
+let's try five to see what happens
+
+1:52:21
+well
+
+1:52:22
+i will see you guys in a bit
+
+1:52:25
+all right so now we're nearing uh the
+
+1:52:28
+end of the training
+
+1:52:31
+and let's just take a quick look at the
+
+1:52:32
+results so here our loss for our
+
+1:52:35
+training data is decreasing strictly and
+
+1:52:39
+our accuracy seems to be strictly
+
+1:52:41
+increasing
+
+1:52:43
+now let's talk about the validation law
+
+1:52:45
+so it does seem like you know we cut it
+
+1:52:47
+off early enough that this is still
+
+1:52:49
+decreasing and waivers a little bit
+
+1:52:51
+and our validation accuracy seems to be
+
+1:52:55
+i mean the overall trend seems to be
+
+1:52:57
+improving okay so we have 84 accuracy
+
+1:53:01
+here which is pretty good
+
+1:53:03
+and finally at the end of course we can
+
+1:53:06
+evaluate our model once again so here
+
+1:53:09
+it's called model.evaluate and use our
+
+1:53:11
+test data to see what happens
+
+1:53:17
+all right cool so we get an accuracy on
+
+1:53:19
+our test data of 84
+
+1:53:22
+which is pretty sweet
+
+1:53:25
+that is the end of the jupiter notebook
+
+1:53:27
+tutorial
+
+1:53:29
+and
+
+1:53:30
+thank you guys you know for being here
+
+1:53:31
+for following along with this
+
+1:53:33
+and now you've learned how to
+
+1:53:36
+i mean not only implement a feed forward
+
+1:53:38
+neural network with numerical data but
+
+1:53:41
+you've also learned to use tensorflow
+
+1:53:44
+with text classification and trying to
+
+1:53:46
+figure out whether or not a wine review
+
+1:53:48
+based on the review itself
+
+1:53:50
+is maybe you know lower tier or higher
+
+1:53:53
+tier which
+
+1:53:54
+is awesome
+
+1:53:56
+i hope you guys enjoyed this tutorial
+
+1:53:58
+and you know give this video a thumbs up
+
+1:54:01
+if you liked it leave a comment and
+
+1:54:03
+don't forget to subscribe to free code
+
+1:54:05
+camp and kylie
+
+1:54:07
+all right see you guys next time

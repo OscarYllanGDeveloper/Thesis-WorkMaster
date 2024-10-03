@@ -1,0 +1,1502 @@
+0:00
+[Music] uh [Music]
+0:20
+welcome to davidson my name is andy uh i have not taught this class in a while uh
+0:26
+so it's good to be back everybody is very supportive appreciative uh whoever give me the mixtape thank you i'll
+0:31
+listen to this later um so i'll give her a round of applause for a dj dj mushu
+0:39
+so mushu is the endless dj in pittsburgh so why don't you show what you can do let it ring
+0:44
+all right
+0:53
+so when you stop or yeah yeah we're
+1:02
+artist in pittsburgh so uh we're really appreciative of him being here how are things man i mean i'm good i'm just here
+1:08
+to drop some drop some dang beats but i'm surprised we're still in pittsburgh uh yes so
+1:15
+yes it is true i didn't have a rough summer uh be all right so i've taught in a while
+1:21
+uh my ex-wife a year ago still healing up do i have to
+1:26
+wear a mask uh but i'm back here dude daniel so thank you again thank you for being here um
+1:32
+okay so let's do this all right so before we get started i
+1:39
+first want to talk about uh it works
+1:46
+sorry of course all right so uh before we get started i
+1:52
+want to first to thank snowflake uh for sponsoring the class they're paying for extra tas of course development uh
+1:58
+throughout the entire semester um if you've never heard of snowflake before they are a distributed cloud data
+2:04
+overlap vectorized data warehouse and if everything i said there doesn't make sense that's okay because
+2:09
+you'll learn all these things uh throughout the semester i do all right um and so they will be
+2:14
+giving a guest lecture at the end of the semester uh they will also have uh internships available for senior
+2:19
+students and i'll post all this on piazza how to apply and talk to them and i think they're coming to campus for the
+2:25
+the career fair i think in two weeks um so we can we can make arrangements for students in this class to go talk to
+2:31
+them if you would like the other thing to bring up too about about the course uh throughout the
+2:36
+entire semester is that you understand where i'm coming from as i teach databases right and the most important
+2:41
+thing you get to understand is i really only care about two things in my entire life all right
+2:46
+the first one is my wife and my biological daughter and the second one is databases so i really don't have any
+2:52
+other hobbies it is just pathologically focused on databases and so if you ask me any question about database i might
+2:58
+be able to answer it some questions will be appropriate for the class some we do after class uh but i'm happy every time
+3:04
+i talk about databases okay so that's that's the most important thing entire semester all right so for this lecture today i'm
+3:11
+gonna focus quickly on course logistics everything is available on the syllabus website uh i'm not going to spend too
+3:17
+much time going over all the details of things but we can cover these later i want to focus more about uh jumping
+3:23
+right into the course materials but the the main thing i want to bring up first is about the waitlist uh so
+3:29
+if you've probably noticed the wait list is massive this semester i think we got to like 450 we're like in third or
+3:35
+fourth place in terms like the longest wait list in the university it's some ammo class than english and then i think
+3:40
+us um so i don't control the waitlist uh we can only take 120 students uh
+3:46
+the waitlist got so large that the ses advocates took over it and i can't control who's actually admitted anymore
+3:52
+um so the avid will put people off the waitlist and enroll them as new spots come available just to be honest though
+3:57
+at this point if you're not enrolled in the class you're very unlikely to get get in again i apologize there's nothing
+4:03
+i can do the good news is that cuddy c charlie in the back will be teaching uh
+4:08
+the dailies class in the spring semester uh so if you can't get in the semester you have an opportunity to take it in
+4:13
+the spring okay all right cool the other thing i want to talk about is the lecture rules so
+4:21
+i get very excited about databases and i end up start talking really fast so if i'm speaking too fast please interrupt
+4:27
+me tell me to slow down repeat myself or if you have a question as we're going along about the material please stop me
+4:33
+and say this doesn't make sense can you repeat it and we can clarify certain things okay um
+4:39
+i don't want you guys to interrupt me uh if you have the questions can you go to the bathroom yes we're all adults you
+4:44
+can't do that and also we're not gonna talk about blockchain this entire semester are you kidding me what
+4:50
+i'm talking about why would i talk about blockchain because it's pretty relevant i think today uh
+4:57
+we'll cover that later now no blockchain questions okay
+5:02
+all right um and the other thing is i don't want you to ask what i what i'm not gonna allow you to do is at the end
+5:07
+of the collector everybody run down to the podium and ask me the same questions about like slide four slide five so i
+5:12
+want you to interrupt me uh as we go along because if you have questions while we're talking other people probably have similar
+5:18
+questions so please like stop me and we can we can go over this okay so i'm not gonna answer any questions about
+5:24
+collection material immediately after the class okay all right so
+5:29
+this class is entirely about the design implementation of database management systems in my opinion that's the most
+5:35
+important class of software that exists in the world today and that's why there's an entire class specifically about it um so this course
+5:42
+would not be how to use a database or design an application to use a database that is taught in hinds college uh
+5:49
+you'll get exposure to sql in the first uh assignment for the first homework but beyond that we're not going to spend a
+5:54
+lot of time talking about how we do certain things at the application level right this is really about how you build the system on the inside to be able to
+6:01
+execute queries and store data okay right all the projects will be on the
+6:07
+system we've been working on in fact part of email called bus stop uh so this is an academic system that we've written in c plus uh and all the projects will
+6:15
+be entire entire this one repository so that's why we encourage you to get started project zero as soon as possible
+6:20
+uh to set up your dev environment make sure you understand simple floss enough in order to get through the class um
+6:26
+because the projects are gonna be cumulative meaning you have the the you know the second project will be built on what you built from the first one or use
+6:32
+what you got the first one so if you screw up the first project and have trouble throughout the semester so i would encourage you to start the
+6:38
+projects as soon as possible okay and then for late days we'll allow you total four late days throughout the
+6:44
+entire semester obviously if there's extenuating circumstances or you're sick you know send me an email don't email the tas and we can talk through it uh
+6:51
+but everyone will be allowed for late days for the for the projects okay
+6:56
+all right so all this material is on the course website all the discussion and announcements about the course will be
+7:01
+on piazza all your homeworks and projects you'll submit through gradescope and then the final grades
+7:07
+will be posted on canvas canvas has a bunch of other features like discussion boards and assignments and schedules ignore all
+7:14
+that use the course website and then use piazza okay
+7:19
+right for for people that are watching this video now later on that aren't enrolled in this class at cmu uh if you want to
+7:26
+take all the assignments everything will be available in gradescope uh so use that grayscape code uh there we have
+7:31
+github discussions and there's a discord channel for people outside of cmu you can use if you're a cmu student don't go
+7:36
+there don't use these things go to piazza because the tas will be there to help you right the tas are gonna be monitoring
+7:42
+these things so in exchange for people that are watching this for us giving all our material away and putting it public on
+7:49
+the on the internet i'm asking for someone here to finish my wikipedia article um i didn't write it somebody
+7:56
+wrote it a year ago and they put this line in here that i was born in the streets of baltimore so
+8:01
+[Laughter] they got this from some interview i did with a few few years ago uh so then
+8:08
+somebody put that in there and then they flagged it saying it wasn't professional so if someone wants to come and fix this
+8:13
+uh my birthday is may 20th 1981 they they also flagged that one but anyway so
+8:18
+not you guys here you yeah outside of cmu please fix this
+8:24
+all right so uh the most important for you guys here uh i don't have to say this but i have
+8:29
+to wait i shouldn't have to say this but i'm gonna say it is that do not plagiarize on your homework do not
+8:34
+plagiarize on your projects uh these are not group assignments uh you can discuss the code to get with each other discuss
+8:40
+high level ideas but you should not be sharing code with each other uh grade school has now built in plagiarism
+8:45
+detector we will use it furthermore because all the projects uh will be public there's people random
+8:51
+people on the internet also implement these things on github so all we do is do a keyword search to find 445 or bus
+8:56
+stop we download all that make a fake student put that grade scope and then see whether you're copying stuff from
+9:02
+out on the internet so please don't copy anything uh please don't have any source code please
+9:07
+don't copy from each other um if you have any questions like hey you know there's this clock replacement album i saw in boost or seo can i use that as
+9:15
+inspiration for my work if you're not sure please email me because i'd rather talk about it and figure things out now
+9:20
+rather than you do something stupid and then i gotta go to warner hall and light you up okay
+9:26
+so there's a act the senior policy of academic integrity so by having this now uh
+9:32
+memorialized in the video if you do screw up and you do plagiarize i just showed warner hall this video where you
+9:37
+saw this uh whether or not you paid attention or not but i said i'm totally in the class and then this is proof that uh you did something you shouldn't have
+9:44
+done okay all right uh beyond this class if you're
+9:49
+interested in databases as much as i am we're also having a seminar series uh starting on the september 12th where we
+9:56
+invite people outside of cmu to come talk about their database systems it's a combination of researchers but mostly
+10:01
+people from industry also everything will be on zoom and then we'll publish on youtube afterwards
+10:06
+uh and so this is the lineup we're having this semester and again this is like this is optional that's beyond what
+10:12
+we're discussing in the class but if you want to learn more about how real systems are actually implemented based on the techniques and methods and and
+10:18
+fundamentals that we're talking about this semester this will be an opportunity to to learn more there so snuffling of course is coming to give a
+10:24
+talk um but there's a there's sort of there's no theme this is a bunch of random systems that i find interesting
+10:30
+like gaia is a database built for autonomous robots so i thought finally kind of cool
+10:35
+um with splinter db that's actually being written by somebody here at tepper uh who's a he already has a phd he's at vmware and
+10:42
+he's building this database system so again this stuff is super interesting at least to me and i encourage you to come check it out okay
+10:49
+so any questions about course logistics before we get into the material
+10:54
+all right let's fire away my databases the uh the second most important thing i look
+11:00
+um so let's play a game here see can anybody name a database for me
+11:07
+he says my sequel anybody else yes the back
+11:12
+mongodb
+11:24
+okay so this would be a bit pedantic here but everything they did they all just named those are database systems
+11:32
+right that's the software that's going to manage what a database is so a database as so i'll define it is a
+11:40
+going to be a collection of data that's somehow interrelated together that's meant to model some aspect of the real
+11:46
+world like if i have a university they have a registered database keeps track of all the students what classes they're
+11:52
+enrolled in right the database is the data that represents the students of the courses that they take
+11:58
+the database system is the software that's going to manage that that database
+12:03
+i think cmu's uses oracle um we're actually switching to snowflake as well but it's
+12:08
+when you register for classes i'm pretty sure it goes through oracle um and so databases that could be the core
+12:13
+component that you're going to counter throughout your entire career whether or not you're staying in computer science whether or not you're actually a
+12:19
+developer no matter where you go in the world at the end of the day there's going to be some kind of database it could just be an excel spreadsheet uh or
+12:26
+it could be something that's you know multiple petabytes and really really big but this could be the most important thing again i think you're not going to
+12:33
+encounter in your career and what this course is going to teach you is to understand what the soft data system
+12:38
+software is doing when you store data when you write queries and run queries on it right so that's what we're really
+12:43
+trying to try to understand here so um
+12:49
+give a quick quick quick example and walk through uh what a database looks like um and then
+12:56
+sort of build a strawband system we could use the store store it and do stuff with it and then that'll segue
+13:01
+into why sort of this approach is a bad idea and why we want to talk about all the things we're talking about uh this
+13:07
+semester so let's say we want to create a simple database that's going to model a digital music store so itunes spotify bandcamp
+13:15
+whatever you want to use and we have a really simple uh model where we just have a
+13:20
+a table or a file that represents artists and then a collection of data represents the albums that they produce
+13:27
+so the only thing we really need to store this really simple database is just going to be some information about the artists and information about the
+13:32
+albums so a really simple system we could build for this would just be to store the artists and
+13:39
+albums information in two separate files uh as comma separated values so cs csbs
+13:45
+so artist.csv and albums.csv and every single line in that file is going to represent some of you know some
+13:51
+entity in our in this collection of data so we'd have one line for every artist and
+13:56
+one line uh for every album so now in our application code every single time we want to do a query and
+14:02
+look something up we just have to open the file parse it line by line and try to find the data that we're looking for
+14:08
+right so we can have a really simple example like this right an artist has named your country uh and then elements
+14:14
+is named artist and you and so in our application code if we now want to find uh answer questions like
+14:20
+what was the year that that gizzo went solo or a solo album came out uh we would just write some simple
+14:26
+python code like this that would just go line by line parse the csv look to see whether the first field equals gizza if
+14:34
+yes then print out the year after casting into an integer right this is technically
+14:40
+this you know this is the database this is not really a dna system but this is a way to interact with the database
+14:46
+this is a good idea a bad idea back all right i already said it was really bad so why
+14:53
+who said bad
+15:00
+this querying is linear time we're not being very yet in terms of performance but yes he's absolutely right it's linear time meaning like
+15:07
+what if giza is the last line and i gotta scan through the whole thing to find it right so my simple example i
+15:12
+have three rows but again always think in larger scales what if i have a billion drinks or 100 billion rows but i
+15:17
+want to scan through every single line try to find what i'm looking for yes
+15:32
+but you're getting answered what if there's multiple jesus how do we know we have the right jesus of jesus
+15:53
+at large scale yes
+16:02
+right so his statement is uh if the file is too large to store in memory then at some point you have you already have to go to desk
+16:07
+uh that's a better way of saying what he said yes that's another issue but that's how it says
+16:15
+that's getting the performance things which are important which we'll cover i'm just more concerned about like some basic uh like is this safe or the right
+16:22
+thing to do yes well i was gonna say that you know the columns aren't unbelievable
+16:28
+which is in the best organization right so she says that the columns aren't labeled it's just about the csvs
+16:34
+so in my my application from here i literally hardcoded zero like i want the zero offset to the array
+16:41
+right so if you know it's the the metadata about what the data
+16:48
+actually looks like is embedded in the application code one more yes we have our states which is a really inefficient
+16:54
+representation of the data right so he has the if the part everything aligned every single time around this query which is very inefficient yes
+17:00
+right last one yes in addition to being inefficient parsing in your code might be extremely unsafe in the form of the
+17:06
+data this often might be better if the management system already had some type of format so no parts required so you
+17:12
+couldn't inject evil data but history is that
+17:17
+parsing the csv could be dangerous because someone puts in a malformed character uh and then somehow you can do
+17:23
+current objection uh by a friend like kind of doing something malicious here yes i have thought that's a good one i
+17:29
+thought about that uh i don't know whether the csv libraries have problems like that big problem
+17:35
+if you're just saying who knows how to cars sure yes yes okay so i think we all we all hit the uh
+17:43
+the sort of main points but i'm gonna go through a couple others here right so uh sort of related to what she said
+17:50
+before about what if there's multiple jesus uh so how do we ensure that the
+17:55
+the if jizz has multiple albums and in our albums table we're just storing the name gizza how do we know it's the righteous
+18:02
+right or what is once lowercase and once uppercase how do we make sure all that's consistent um
+18:08
+what happens if someone goes and overwrites the year in our file with a random string like an email address
+18:15
+like if these are just files on disk i can open up vi and write whatever i want to it and now my application code is an
+18:20
+expected integer and it's going to see an email address that's going to freak out
+18:25
+and then more importantly what happens in the case where i have multiple albums or sorry multiple artists in my own
+18:30
+right the way i sort of design my database right here i can't easily do that right because there's a sort of one hour
+18:36
+one album has one artist and then what happens now if i delete
+18:42
+the artist how do i make sure i also delete all the albums right these are two separate files the file system
+18:47
+doesn't know anything that they're that they're connected how they're connected so if i if i delete gizmo
+18:52
+how do i make sure i delete all his his albums i have to go write application code to go do that
+18:58
+all right so now in terms of implementation how do you find a particular file our particular record we talked about doing linear scan right
+19:05
+this example here again it's just looking like my line trying to find what you're looking for when you're done you bounce out
+19:11
+but now what happens if i have a application that wants to use the same database right now say this is written in python
+19:16
+code but i have a new application i want to use the same files but i'm going to write it in rust now my bus code i got to write the
+19:23
+basically the same logic do how to parse parse the file and jump to what offset to find the data that i'm looking for that sucks
+19:31
+then what if i have two threads at the same time but i also want to write to the file concurrently
+19:36
+i can do file system blocking to take care of that but again if i have a billion records in my file do i want to take a lock on
+19:43
+that that that entire file just to update one thing right it would make me more efficient i could have more fine
+19:48
+grain locking and the last one that nobody actually brought up is durability so how to make
+19:55
+sure that the data is safe if there's there's a problem occurrence if there's a crash or something
+20:00
+right so if i'm updating a record uh in this file and then my program crashes
+20:06
+what should happen should i come back and see the original version should i see the completed version or should i show
+20:11
+you a partial version what should you know what do i expect to see uh and what would be correct in terms of
+20:16
+uh the database semantics and then one that nobody brought up uh
+20:21
+comes up sometimes in different years you know what if i uh this database is too big to store on a single machine
+20:28
+and now i want to either replicate it for high availability or i'm going to split across multiple databases and multiple multiple machines so i can run
+20:34
+things in more parallel how do i make sure all these things are consistent right so we've covered a lot of things uh you
+20:41
+know pretty quickly but why this my toy example here is problematic uh and this is essentially the
+20:46
+motivation of why you want to use a database management system right so a statement system is going to be a piece of software
+20:53
+that's going to expose an api to your application code that allows you to store and analyze and
+20:59
+manipulate data in a database right the reason why we don't want to have to
+21:05
+manage this this the sort of big reason why we don't want to manage this this database in our application code is that
+21:11
+it's a huge waste of time right if you're going off to like a startup and trying to build a new web app or new
+21:16
+software as a service do you really want to be spending your time making sure your files are all the data in your
+21:22
+files is stored safely and correctly right you know no one's going to care that oh if you crash uh if your program crashes
+21:28
+you come back all your data is safe like that's not a that's not a services that's not a
+21:34
+distinguishing feature to sell your product versus another product like that sort of assumed it's table sticks assume that you're not gonna lose data
+21:40
+so why are you gonna spend time in your application writing you're reinventing the wheel to make sure your files are safe we just rely on a data management
+21:47
+system to do it for you right dms systems are widely tested and deployed uh
+21:54
+you know they're gonna do much better job doing all the things we talked about here then you you know some random
+21:59
+javascript or banging this out for the first time right so you always want to be using it you almost always want to be using a
+22:04
+database in a system but you talk about the caveats why i don't think you want to um and so a general purpose database system
+22:11
+it's gonna allow you to uh define what the database looks like create the database put data in it query
+22:17
+it update it do all the administration that you want to do uh programmatically
+22:23
+according to some datum data model and so a data model is going to be the
+22:30
+sorry the data model is going to be a way we define or a high level of abstraction
+22:35
+for the concepts that would be storing in our database right so relational model is the key one we'll
+22:42
+talk about in the next slide but it's gonna be a way to say how you define what your data looks like the shape of
+22:47
+it right not necessarily maybe what the attributes are like is it integers is it floating point numbers but really like
+22:53
+what's the what's the what does it for entity in this database look like
+22:58
+and the schema is going to be the way we we tell the computer or tell the database system what we want this database to look like according to this
+23:04
+data so uh these are listed data models right here uh
+23:10
+the the top one here glacial one this is what most database systems when you think about pretty much all the ones
+23:16
+that we listed here for the already listed beginning except for neo4j and mongodb these be relational databases
+23:22
+right and this is what this course will be about because again in my opinion this is the most important one
+23:28
+there's another category of systems to use these two different data models you might have heard the term nosql
+23:33
+uh typically when people say new sibo they typically need the document or object model uh but it kind of loosely covers all
+23:40
+these things as you can imagine the term no sql is not a scientific term so this is not like
+23:45
+it's a loose categorization you can also have a data model that finds the data based on arrays matrices
+23:51
+or vectors this is typically used machine learning and typically used also in like like satellite imagery or
+23:56
+medical image imagery um and there's a bunch of these guys here at the bottom that are
+24:02
+uh what i'll call like old man old person uh data models uh these go back
+24:08
+to like some of them like the 1960s early 1970s these are all obsolete uh and rare if you go out in the real world
+24:14
+and you're working at a company that has these things i advise you not to work there um but
+24:20
+when i say that like a lot of the banks still use ims which is uh ibm built in the 1960s so i mean
+24:28
+these things still exist it's just no startup is saying i want to use a hierarchical data model or i want to use ims right
+24:34
+uh most most of the time you'll be using a population data all right so uh
+24:40
+for this class we're gonna focus entirely on uh the relational data model but i'll briefly talk about the docker
+24:45
+data model and the key values stuff will come up throughout the semester so okay with blockchain
+24:52
+and web 3 which i think is pretty relevant why is that up here
+24:58
+your question is
+25:04
+your question is why isn't blockchain listed here yes uh well blockchain is not a data model
+25:09
+right blockchain is a is an implementation right so you could have like a data model on top of it but
+25:16
+it's it's it's not it's not data
+25:26
+you know it's people are using it for weathering it's literally the future black is okay
+25:33
+blockchain is the system you would have like it's based on a distributed ledger you store things in it the mechanism is
+25:39
+the distributed ledger but like something has to interpret what the bytes are you're storing and watching right blockchain is better than this
+25:46
+and i'm i'm just i'm i'm i don't think you know what you've helped me out i thought that literally it was relevant
+25:52
+it's not okay we're not the blockchain
+25:57
+and you know sorry you waste all your guys time but this is crazy i think you need to get with it okay all right
+26:04
+all right
+26:19
+is
+26:27
+all right
+26:33
+blockchain um
+26:41
+blockchain is basically a distributed ledger right there's there are blockchain databases sometimes
+26:47
+you can store documents in them sometimes relational databases sometimes the key value stores uh but it's sort of
+26:52
+a an implementation of of the system itself you still need something on top of it to like as i said said to the guy
+26:58
+like interpret the bytes uh so you can have a relational blockchain database you can have a key value sort of blocking database uh
+27:05
+in my opinion uh my opinion the only good use for the blockchain
+27:11
+uh is bitcoin everything else is all a scam and a waste of time we can talk about it later on but like there is no i can't think of
+27:18
+any reason why you need a byzantine fault tolerant distributed ledger for most applications okay
+27:24
+so we'll leave it back we'll cover this later all right so let's go back to the 1960s
+27:32
+and talk about some of the early databases that were out there so the the i mean back in 1960s like you know
+27:39
+computers were brand new it's obviously very big very expensive very slow uh but then people realized that they didn't
+27:45
+want to write the applications the way i showed it before where like you it's hard coded in the application how to interpret data on files they started
+27:52
+building these general purpose systems so the earlier ones are the earliest one is ids uh it's actually built i think by
+27:59
+ge um an imf was built by ibm to manage the
+28:04
+apollo moon mission like to manage all the parts to build the rockets and these things are based on something called codicil which you've never heard of it
+28:11
+that's fine you ever heard of cobalt it's crap from that right and so
+28:16
+back in the day with the way these systems work there's a tight coupling between what the database looked like logically
+28:23
+and the physical implementation of it or the physical manifestation of it on disk
+28:28
+right so what i mean by this is in the case of like ims in the early versions you had to say ahead of time did you
+28:34
+want to store a collection of data they weren't tables so you think about like a table do you want to store this as a
+28:40
+hash table you want to sort it as a tree structure and based on what choice you made then that exposed a different api to you to
+28:46
+do tree stuff versus hash stuff right so now the problem is if you change your mind later on and say well i
+28:52
+actually want to do range commands so i don't want to use a hash table use a tree not only did you have to dump the data back out and load it back in as a
+28:59
+different data structure then you had to go change all your application code to now reflect the change in the api right
+29:05
+so this was a huge problem but of course back then computers were super expensive humans were relatively cheap so we just
+29:13
+kind of threw more humans programmers that you know had the problem so there's this guy who was a
+29:18
+mathematician who just finished his phd at university pennsylvania and he started working ibm research in new york
+29:24
+and he saw all these like ibm database developers you know repeating a rematch wheel over and over again by having to
+29:31
+to uh re-implement their database code every single time there was you know there was a change like if they added a
+29:36
+new column in the table that could make more tables when i added a new column a new attribute i had to go
+29:41
+make major changes to my application clip so you saw all these people doing the same thing making the same changes
+29:46
+over and over again and not speaking of shape but he realized that there was a better way of doing this so he proposed
+29:52
+the relational model in 1969 as a sort of mathematical abstraction to how you
+29:58
+would represent a database and interact with the database um to the first paper came out in the tech report in 1969 um but then the
+30:06
+follow-up work
+30:12
+communications of the ecm in 1970 and so this paper was was the things that he talked about this
+30:18
+seemed obvious to us now but you gotta understand back then this is very very radical
+30:23
+right in the same way like the c compiler from the unix guys that was the radical idea that you can take high-level language and compile it down
+30:30
+into machine code and that'll be better than humans writing assembly like these are very um controversial ideas at the
+30:36
+time of course now you know the relational model persevered you've never heard of codicil you've never heard of ims
+30:43
+or definitely never heard of ids so all the ideas that all this the people were like hey this
+30:49
+this is stupid our way is better they all lost at tedcod1 right so the relational model defines an
+30:55
+abstraction layer for how we want to replace represent relations to avoid this maintenance overhead uh of the the
+31:02
+ted cobb scene back in the day and there's sort of three key tenets of this the first is that we're gonna store the
+31:08
+database simple data structures ie relations i'll explain what relation is in a second
+31:14
+and then the the next key idea is that the physical storage of the the database
+31:19
+is left up to the implementation so no longer do you have to define i want to start my data as a tree or
+31:24
+manage a hash table or columns or a row store uh you just say here's my relation here's my attributes and the database
+31:30
+system can try to make the best decision of how it actually wants to store it and again this this was radical back in
+31:36
+the day and then the other key idea is that instead of writing sort of procedural code either cobalt fortran or c code to
+31:44
+make direct calls to the the database api instead you're going to use a high level
+31:50
+language to tell video system what you wanted to do for you and then the data business and we'll figure out the best way to do that
+31:57
+now you know this is a relational model purist you could say these are the key things we'll see this if you've got the
+32:02
+semester these things get violated the the relational model is you know it has
+32:09
+as really defined and nobody actually follows this exactly uh and some of the nosql systems borrow
+32:14
+ideas from relational inflational databases solutions borrow ideas for those no sql guys so this is not like
+32:20
+set stone but at a high level these are the key things so ted codd won the touring award for
+32:25
+this in 1991 uh and he died i think in early 2000's
+32:31
+the other guy that invented the coda so he won the touring award in 72 because you know before they knew that he was
+32:36
+wrong uh he's dead too okay so relational mode's gonna have three parts we're gonna have the structure to
+32:42
+this definition of what the database relations and their attributes look like uh we'll have the integrity constraints we define what data is allowed to be
+32:49
+stored uh in the database and then we'll have a manipulation api that allows us to read
+32:55
+data and write data and and produce run queries and produce answers
+33:01
+all right so let's use a really simple example let's go back to our spotify uh application
+33:07
+uh so we're gonna have a the definition of relation is going to be it's an unordered set that's going to attain
+33:12
+relationship attributes that represent entities in in the real world
+33:18
+right so term relation sometimes you think it means the relation between tables it really means the relation of
+33:23
+the attributes now throughout the semester i'm going to use the word table and relation interchangeably um
+33:30
+you know for all our purposes it doesn't actually matter like there is not a distinction
+33:35
+and then within a within the relation you can have a tuple and that's going to be a manifestation of a
+33:42
+bunch of attribute values that are collected together as you know representing an entity
+33:48
+again i will use the term tuple row record interchangeably they essentially mean the same thing for our purposes of
+33:55
+this class so in the original relational model the values within a tuple had to be
+34:01
+scalar or atomic meaning a single integer a single float signal date string whatever
+34:07
+um in in modern systems this gets violated right you could have arrays of integers
+34:12
+as an attribute you could have you could have json as as a as a value but again the original
+34:18
+laser model said you couldn't do this and then uh our good friend null is going to show up again uh and every
+34:24
+attribute could could potentially also be null for its value you can define constraints to say you can't be null
+34:30
+but mathematically it's always allowed so just the term to say if you have any
+34:35
+relation you just need a table with n columns all right so now the way we're going to
+34:41
+identify unique tuples is through what is called the primary key so the primary key is going to be some
+34:46
+set of attributes one or more that a lot of you say here's how to identify an exact record or exact tool
+34:52
+that i want right so in the case of the artist table i could have i could use the name for the
+34:59
+primary key so i know if i
+35:05
+the problem of course this this example here is that there could be other knock-off groups right other wu-tang plans
+35:12
+uh and so in this example here using the name probably is not a good example of what to use for a primary key
+35:19
+but if there is only one clan but there's other artists that have the same names so what we can do is we can introduce
+35:25
+like an artificial uh
+35:31
+introduce an artificial column like an id field that will be some unique number some unique uuid that we assign every single
+35:38
+record um right so in this case here we add this thing this number here just represents
+35:43
+the id and that we make that the primary key and then you can see the the underline and the name of the
+35:50
+columns the underline represents the primary key so a lot of data systems have ways to automatically generate these
+35:56
+ids uh they're called sequences and the sql standard uh if you're using my sql they call it all increment fields and this
+36:03
+will be a recurring theme throughout the entire semester there's the sql standard uh but nobody actually follows that
+36:09
+exactly postgres and oracle actually do a pretty good job my sequel is the worst offender uh so they like to do things
+36:15
+differently for whatever reason uh they're getting better at it um sequel light also does this as well um
+36:21
+but anyway so i'll try to make it clear like if i show sql saying is this you know is this sequel compatible with postgraduate oracle or is it my sequel
+36:29
+so angela also too some dating systems will require you to have a primary key other systems if you don't find a
+36:35
+primary key they'll make one for you and it's going to be hidden underneath the covers um like a row id for example
+36:42
+all right so the next thing we also have are foreign keys and this will allow us to uh define how
+36:50
+data from one relation is related to another relation right look at mapping so let's say i
+36:55
+have my artist and albums you see i introduced the artificial id column
+37:01
+um so i could have a a foreign key to say you know what what artist applies to
+37:07
+what app right but in this example here for this mixtape here this this sort of record 22
+37:14
+right there's multiple artists so i can't just put the artist id in there because you know it won't work now you
+37:21
+can't put an array we'll ignore that for now um but i need a way to have this mapping
+37:27
+back from a you know from one artist sorry for one album to to multiple artists
+37:32
+so to do this i create like a cross reference table where now i have foreign keys from the
+37:39
+like that so i have foreign keys from the artist's id to the artist table from id to the allen key
+37:45
+so the foreign keys are going to allow us to define different cardinality relationships for t different relations like one to one one to many many many to
+37:51
+many and so forth and we're just using these ids to figure out how to traverse and find the data that
+37:58
+matches up that we want
+38:04
+his question is is it better than an array um
+38:11
+so
+38:18
+some databases would not let you will not support uh array integers so there's that issue
+38:24
+other systems i i don't know whether you can say when you define this table
+38:29
+uh so we go back here uh
+38:35
+so if you go back here if i define like this artist's attribute some sets will not let you you have to
+38:41
+declare that this is a foreign key to this table here and some of them won't let you do that right
+38:46
+um the other thing yeah so there's that and then if you're defining it
+38:53
+would you prefer to use this structure
+38:59
+the the correct way in the relational racial data form is to do
+39:04
+a separate table like this uh i don't know the answer
+39:10
+i don't know whether it would be i don't know in what case it would be
+39:16
+better um so one issue could definitely be if you
+39:22
+want to ensure that that one artist can only appear on an album exactly once once in a while
+39:29
+then the array name would you may not be able to force that to be arrayed whereas in this case here if i
+39:36
+make the primary key for this crosstalk table the artist's id and id
+39:42
+will prevent me from inserting the same artist's id almighty pair at the same time or twice so there's more stuff
+39:49
+yeah you didn't want the yeah
+39:59
+so his question is do david doesn't support very like attributes like like a string the answer is yes we will cover
+40:04
+that in two or three more lectures now we actually want to store this yes for simplicity we can ignore how the
+40:10
+bytes are actually being stored updates yes like a quick follow-up to the other
+40:15
+question so how are you in this database like if you are not using arrays like put multiple artists under a single
+40:21
+album it's so you have this cross-reference statement right so you would have you defined a separate table here
+40:27
+and it has two adjectives artist id and now might be and you say the artist id is a foreign key to the artist's id
+40:34
+field and then the you have the uh the outline is the foreign key to this and so now anytime i insert a record to this
+40:41
+table the database that will actually go look say oh trying to sort it transfer uh
+40:46
+id 333 does that actually exist if no then it won't let you store it so this
+40:53
+ensures that you can't have an album you can't have a rfid id pair that points to nothing
+41:02
+other questions yes you manually insert a row into this cross reference table
+41:08
+this question can i mainly sort of write the question absolutely yes it's just another row yeah i can write an insert
+41:14
+sigma put right into it yes now we can talk about orms next semester or
+41:20
+next next class like there's a class of software called object relational mappers where you write like
+41:26
+python code or simple system like object oriented code and underneath the covers they'll generate the sql statements for you so in that case they will generate
+41:34
+the insert statements that populate this thing but again it's just another another another run or sorry it's
+41:41
+another table you can manipulate it like any other team it's not it's not considered special
+41:49
+all right cool all right so we know how to define tables uh we know
+41:55
+what's new about front here the primary keys let's talk about actually how do you put data into the database and actually run queries right so the the
+42:02
+dml data manipulation language is this the way we're going to interact with the database after we defined our schema
+42:09
+so there's two approaches we have a procedural method uh writing a sort of high level code that
+42:16
+defines exactly the strategy we want the data system to take in order to uh perform different operations so maybe
+42:22
+not as low levels the python code i showed before but still like we're defining exactly the steps we want the
+42:28
+database to take in a specific order for this one base our uh the language to be based on
+42:35
+set sets of bags which i'll explain what that is in a second um and then the other approach is a sort of non-procedure or declarative method
+42:42
+where rather than telling the data system what exactly algorithm we want to use or steps we want to take to produce some
+42:48
+answer we just tell what the answer we want uh and it's up for the database system to figure out how to actually go ahead
+42:54
+and do that for us right so the we're going to focus on the first
+42:59
+method here uh through relational algebra and then for uh next class we'll talk about the declared approach
+43:07
+again from the mathematical model of the relation model the mathematical uh lens of the relational model
+43:12
+the procedural method of relational algebra will cover now uh this declarative approach is done
+43:18
+through relational calculus i'm not going to teach that because 99 you don't need it uh if you're
+43:25
+actually working on the internals of a database system even then you probably still don't need relational calculus you already need if
+43:30
+you're working on the optimizer which is super hard we'll cover that later um but for for the second one you just think of
+43:36
+this as sql right sql is is that the code of language that you use to interact with
+43:41
+okay all right so let's go through relational algorithm and then this will end up being the building blocks for
+43:47
+how we write our query execution engine to run queries around single statements right
+43:53
+so the 10 com proposed seven fundamental operators uh listed here right these are
+43:59
+the fundamental methods or ways we interact with the database to manipulate tuples in a relation
+44:04
+and so all of this this algebra to be based on uh based on sets it's an unordered uh unordered list of
+44:11
+data uh where you could have repeating values the truth is actually based on bags uh
+44:17
+actually sets sets do not have repeats bags do um so it is actually based on
+44:24
+in real estate very bags but in relational algebra use sex and we'll cover this when we talk about sql next
+44:29
+class so um every operator is going to take one as
+44:34
+input one or two relations and the output is always going to be one relation the idea is you can daisy chain
+44:40
+these operators together to produce some some higher level uh to answer the higher level question you have about the
+44:45
+query okay so go through these one by one quickly so the first is the select operator uh
+44:53
+so the idea here is that we want to take a to generate a subset of tuples from from a given input relation
+44:59
+and we're going to find this using some first order predicate logic to specify what tubals have to what conditions the
+45:05
+tuples have to satisfy in order to be used in our output relation so in the original paper they've talked
+45:11
+to this as the restrict uh operator but in in the textbook it's gonna refer to it as select
+45:16
+and the idea here is we can have multiple predicates defined in our filtering operation to do you know do
+45:21
+more complex things and get the data we actually want so let's say we have a simple table here uh r it has two attributes a id bid
+45:30
+so we could have a select operator that does find all the uh find all the tuples
+45:36
+where a id equals a2 right and the output of this would be again the filter results
+45:43
+i combine multiple predicates together with conjunctions and disjunctions right this is just boolean logic you've taken
+45:48
+before uh so i can say finding all the two both word aid equals two and b i d a greater than one or two and it produces
+45:56
+the output relation so the the the analog to in sql is just the where
+46:02
+clause in fact i'd probably even use the term where describing how it works right so in the ceo's theme you'll put
+46:08
+your warehouse exactly in front of it where a id equals two and the id is greater
+46:17
+the next is projection uh so this one is going to be to remove certain sorry questions
+46:40
+is how complex we're going to make the predicates and your example with like where aid is greater like are you trying to say what
+46:47
+is can you do like where aid is greater than all other aids in my relationship
+46:53
+or let's say another column itself right like if there are two number of columns
+46:58
+where aid is greater than bi that's all right so that was easy so yes you can say we're a so
+47:03
+this is any kind of you know boolean logic that we have here okay so you could say where aid is great
+47:22
+in a real system uh
+47:28
+in real estate you could have these there's examples i've seen where they have people have uh in the real world
+47:34
+single statements where the string itself like the actual text of the string now the results they produce the text itself is massive like 10 megabytes
+47:40
+they think of a 10 megabyte text file because they have these giant in statements so
+47:46
+like think of like is something in an array so they just pick up like a giant
+47:51
+dashboard you click you feel good based on every single state for every single country so every single day you click on
+47:56
+the check box would be nothing but something else you can make these arbitrarily complex if you want right in interval system
+48:03
+we'll talk about query optimize in a second and its job is to figure out how to reduce it down to those you know the
+48:08
+the most basic form of one motion yes is the for the predicates limited by
+48:14
+the fact they have to be proven true or false by a single tuple or can they be intra-tubal
+48:20
+relationships like aid is the largest when david which i thought he was asking before is
+48:27
+is the predict do the predicates here have to be in the context of the scope
+48:39
+you can have if you have nested queries you could have things like um in your example if i need to be super
+48:46
+work the aid is the greatest aid of all all the tables you can't do thirds like that
+48:51
+so things like calving or snowflake qualified also count as this not just where uh so we haven't caused advent
+48:59
+causes or qualify clauses uh for simplicity no but the answer is yes
+49:06
+and the way you would have to represent relational models you would do joints
+49:11
+you would do like the but having calls is basically the hash is just another is the same
+49:18
+thing right because the havoc is is to filter after you've introduced the result right so you you do a select and then
+49:24
+followed by another slide that's happened the the
+49:30
+sort of comparing something in another relation the way you would do that relational model is you do do the first query as
+49:37
+producer relation and then do a join against uh whatever the base table you're trying to do
+49:42
+so
+49:53
+this is this is a formula equation the question is is the is this equation
+49:59
+limited to a single relation the answer is no we'll see joins in a second question yeah on the overview slide we said
+50:05
+there's procedural and declarative yes the sequel is like a declarative of
+50:10
+query language but now we discuss the procedural languages and we have see throughout the slide so all right so
+50:15
+yeah so statement is i said that there's procedural and then the non-procedural declared languages
+50:21
+but in my examples here i'm also showing sql i'm trying to teach you guys the relation algebra which is the
+50:27
+the the procedural approach i'm throwing in sql because i assume everyone knows sql just
+50:32
+for you guys to map what relation algebra to the sql states that's all i'm trying to do here yes
+50:38
+thank you for playing okay let's keep going
+50:44
+all right so projection this allows us to remove certain attributes that we don't want from our relation as the in our
+50:51
+output and we actually can reorder them uh and we can actually manipulate them again this will be in the context of a
+50:57
+of the the input relation looking at a single two boy at a time
+51:03
+yeah i have the same same example here uh two attributes i can have a projection
+51:09
+operator a lowercase pi where i say vid is minus 100 and then
+51:16
+so i flip the order of the of the attributes and i'm subtracted by the bid
+51:21
+value uh by a by a hundred right and again the analog to sql would be
+51:27
+just what comes after the select operator right you do it you manipulate any way you
+51:33
+want yes so all column compute functions also follow this cap like in the string
+51:38
+you're padding the space or whatever yes category so the statement is the question is do all
+51:45
+string functions that manipulate strings or other built-in sql functions where they fall under this these projections
+51:51
+everything but when doing applications everything but what is an aggregation yes which we'll cover next yes
+51:57
+yes
+52:05
+is the projection sorted or unique in any way no again this we're entirely based on sets here
+52:10
+so it's on order uh there could be duplicate actually accepts can't have duplicates
+52:16
+relational doesn't have duplicates sequel does allow duplicates we'll come into that class so it's entirely basic
+52:21
+so unordered all right cool
+52:28
+all right so now we start bringing in multiple uh relations together so the first one's gonna be the union operator
+52:33
+and this is just gonna be the basic unit operator from set theory right uh you're gonna take the the two
+52:39
+relations and you're gonna combine all the results and put them together now in the original relational model you have
+52:45
+to have the two relations you're trying to unit together to have the exact same attributes right so in this case here they both
+52:52
+have aid and bid so if i take the union of them i just put the first relation at the top the
+52:58
+second relationship the bot again it's an order it's not guaranteed to be like that but for simplicity we just say it is
+53:05
+right so in sql there's a union all operator
+53:11
+and this again this this is between in sql they allow duplicates in relational algebra they do not so in sql if you
+53:18
+want to allow duplicates you have to union all uh by default with union you get it
+53:24
+sorry remove students right
+53:30
+we can also do intersection again this is just set theory so we can take the uh we generate a new relation uh taking two
+53:37
+inputs where the output relation only has the tuples that appear in the first one uh but not the second
+53:43
+right and so in this case here it would be just a ie with a3 and one of three and then there's an intersect command in our
+53:50
+keyword or operator in sql we can do difference uh again so this is
+53:56
+taking all the tuples that appear the first relation but not in the second one yes sorry mr martin was the is the
+54:02
+relation one the all or the not uh that's the question is oh that's back here
+54:08
+the question is in the relational model uh the glacial
+54:13
+model is union there's if you remove the all it'll it'll remove duplicates so that's the
+54:19
+that's the uh sort of yeah
+54:29
+[Music]
+54:36
+uh organization both place algorithm duplicates okay
+54:42
+uh i think they'll remove that yes for something we'll take that we'll talk
+54:48
+about that next class yes yes
+55:02
+[Music] when they also appear in the outputs um
+55:09
+i think in relation algebra yes it intersects i don't know we can pop up we can pop up progress um
+55:15
+see what happens
+55:20
+okay uh we have difference again that's another question oh sorry yes
+55:33
+her question is are duplicates allow the not a lot of the tuba level or the attribute level at the tuple level
+55:38
+right so i can't have like you know a3 103 multiple times
+55:44
+uh if you want to don't if you if you don't want to allow duplicates at the attribute level you can either define
+55:50
+them as a primary key or we'll see next class you can define them as you have a unique constraint say
+55:56
+within one column one attribute there could be only one value of you know
+56:14
+in essence you need so there's no duplicates in either of them if you do the intersection will everything in the intersection appear exactly twice on the
+56:21
+relation so if everything you need like r and everything's unique in s
+56:27
+uh there's no there's no matches at all no no like like there's no duplicates in
+56:33
+r or s but there are elements in r that appear in us do all of those elements in the
+56:39
+intersection appear exactly once or exactly twice i think relation model would appear once
+56:46
+okay but if one of them has duplicates units uh we do duplicates within in itself yes if
+56:54
+r has duplicates but s and s has if those multiple duplicates in r match
+57:00
+with something in this do the multiple things from r up here or just the one thing from s here i think that one thing
+57:05
+appears okay and if both of them have to be two notes correct we
+57:16
+i think it's very aggressive we're going to give a bit so it applies
+57:22
+all right cool um
+57:34
+so the question is for union intersection and uh and difference do they have to have the
+57:40
+same attributes yes
+57:46
+that that that is the again in uh in sql i think it's the same thing as
+57:51
+one yes okay
+57:58
+so we have the accept except keyword does the same thing for this right all right so now we can start talking about
+58:07
+it's the set stuff you can do it it's not that common in your applications but
+58:12
+now we're starting with joins and that'll that those are very very common
+58:17
+so before we get the joints we have to talk about the product operator so the product operator also called the cartesian product is basically going to
+58:23
+generate a new output relation that has a um all possible combinations of tuples on
+58:31
+the first first relation and all possible tuples on the circulation right it's just sort of matching them together
+58:37
+and producing a giant answer like this right and so in this case here we're adding uh
+58:43
+this this dot identifier and the attribute name to specify where the
+58:50
+the where the atom came from is that r is a permits again just think of like two you know
+58:56
+two nested for loops where for every single tuple in the first relation i'm going to mash it together with every
+59:01
+single tuple in the second produce that as the output right so this seems kind of useless right why
+59:07
+would you ever actually want to do this uh it does show up in testing and through other experimental analysis of
+59:13
+techniques where you don't you have a bunch of inputs you can try all possible combinations to throw it into your application and see
+59:19
+what breaks right so this this does get one but more importantly it is the building block of how we're
+59:25
+gonna actually do joints which are which are probably the most useful operator here so in sql there's a cross uh operator or
+59:33
+command take your cross-joint rns alternatively if you just put rns in
+59:38
+there without a where clause without a one clause again the database will just pass these all messages guys again yes is that also
+59:45
+the same as any other kind of joy meditation is always true uh the same this is the same word any
+59:51
+kind of joint with the relation it's always true uh yeah i think if you put like where true
+59:57
+i think it could be the same thing or
+1:00:07
+okay other questions all right so the joint operator is allows it now i'm
+1:00:14
+going to do matching between two poles on two relations i say two you can't have multiple joints
+1:00:20
+or multi-way joints we have multiple more than two uh relations we can ignore that for now um let's just say we have
+1:00:27
+two so now in our uh in our joint operator we're going to match together
+1:00:32
+the the tuples uh where the values are values are exactly the same
+1:00:38
+so again the original relational model the the two relations have to have the exact same schema as you're just looking
+1:00:45
+to see you're looking you're matching the attributes based on the name right so there's a id in the first one with the
+1:00:51
+ada and the second you assume that those the same again this is not defining with foreign keys or primary keys and so
+1:00:57
+forth it's sort of a simplistic version of this right so to you just look for
+1:01:03
+for for every tubal look at every aid pid match it up with a id did value
+1:01:14
+right so now this always comes up like hey isn't this just the same thing as intersection
+1:01:19
+um that's because this is removing the it's different because this is removing the the
+1:01:25
+the duplicate attributes so you can sort of think of this as the example i showed before we had all the columns from the
+1:01:32
+the first relation matched together with the columns for the second relation um but the original racial model doesn't
+1:01:38
+specify this in sql you actually can specify exactly what columns you want to get out so we can ignore that
+1:01:44
+so in sql there's a command called natural join uh i don't advise using this because
+1:01:51
+this is gonna do what i said where they try to look to see finding all the columns that have the exact same name
+1:01:56
+and then do the joint based on that um it's a bad idea because like now if you have the schemas don't match anymore
+1:02:03
+it doesn't doesn't work um you can also use the using clause where you just say try to match uh
+1:02:09
+match the two tables like to do a join based on these individual columns that's a little bit better than using the natural join because now you actually
+1:02:15
+specify columns um reapplications you typically wouldn't use this right
+1:02:21
+yes
+1:02:31
+the difference is that sorry in intersection you have to have the exact same schema and join you don't oh
+1:02:39
+because it's just smacks it matches the the the attributes that have the same names right so if i had if
+1:02:45
+i had like an s i had a cid when i did the joint it would ignore it because because the first relationship
+1:02:51
+didn't have ci oh so it's like a more yeah yeah expensive it's like a more flexible intersection yes
+1:03:05
+the question is would cid be a result uh actually i don't know
+1:03:13
+it doesn't matter doesn't matter because if you don't need it you just do a projection afterwards and then remove it
+1:03:23
+okay all right so again these are the basic seven operators uh and
+1:03:29
+for the 1970s you can get pretty far with these in uh in modern systems you need a lot
+1:03:35
+more a bunch of things that we're not we're not going to talk about obviously renaming columns is always useful uh we talk about aggregations we
+1:03:41
+need to talk about sorting which is you obviously need sorting and a lot of applications division is less rare
+1:03:47
+uh so there's a bunch of other stuff you would you would need there's an extension to the relational model that have come out since since
+1:03:54
+then yes
+1:04:03
+so his question is uh since the name of the columnist matter in her relational model again this isn't
+1:04:12
+you wouldn't actually implement a relational algebra engine exactly as we've described here right so
+1:04:18
+the the rename the rename operator is sort of like an extension to projection you can say like
+1:04:24
+my one example i have b id minus 100 i could then rename that video back to b
+1:04:29
+id and then i could do the joints whatever i wanted yes mostly
+1:04:34
+what does division do i don't think about it it's it used to be in the old class the
+1:04:41
+the one of the homeworks was like uh i don't know offhand right now in the
+1:04:47
+old class one of these public assignments was like oh show that you can do division with other basic relational operators and like it was a
+1:04:54
+waste of time you don't need it yeah other questions
+1:05:01
+all right so this is now going to segue into uh what we'll talk about next class but
+1:05:07
+the again the relational algebra is still the high level steps of what how we want the data system to
+1:05:14
+compute by query right the order of these operators actually matter and if you're actually building a system that
+1:05:19
+would implement this you would sort of follow for the inside of the parentheses and work your way out
+1:05:24
+right but the performance can make a huge difference uh depending on how you do some of these
+1:05:30
+operators you want to be able to reorder them so in my example here say i'm doing uh a joint rns
+1:05:37
+and i can either do the joint first followed by the projection or
+1:05:42
+the filter to only match the tuples or eid equals 102 or i could do the
+1:05:48
+uh the the filter on b on s for b i equals one two that do the joint
+1:05:55
+right this could have pretty big performance differences right like always thinking extremes if i have
+1:06:00
+a billion two plus an r and billion two plus x but only one tuple where b id equals 102
+1:06:06
+do i want to do the one billion to one billion join or or scan the table or do a lookup five one two but it does that
+1:06:13
+we're one or two equals or d id equals one or two then do the right glacial algebra really doesn't
+1:06:19
+give you that flexibility uh you know if you implement exactly as it's defined
+1:06:25
+so in a database system today they're going to be allowed to reorder these different operators to produce the
+1:06:30
+most efficient or most competitive computationally efficient uh execution strategy for your different
+1:06:36
+queries right and these these operators propose will work these are two these are equivalent but the order uh could make a
+1:06:43
+big difference so yes question if you were to write
+1:06:49
+sequel for this would you still do like a select first and then to join or would you leave it up to a database so this
+1:06:54
+question is if you were writing this sql would you still want to specify to do the joint first followed by the filter
+1:07:02
+uh you i was saying i was not saying you can't
+1:07:08
+do that you shouldn't do that and sql the uh
+1:07:15
+there is a way with nested queries you could do exactly as you're proposing uh a
+1:07:20
+a data system has a good optimizer could recognize oh i know what you're trying to do and reorder it to rewrite it to
+1:07:26
+put it back the way it should be so you prefer to like have a database like ultimately always yeah so
+1:07:33
+95 of the cases uh you want the data system to
+1:07:39
+reorder this report now there are cases where it gets things get wrong uh and i could talk about those
+1:07:45
+it depends on the sophistication of the query optimizer depends on the last time you collected statistics depends what
+1:07:51
+your data looks like there's so many different caveats um but in general you want to just write
+1:07:56
+the sequel the way that you at the human thing is the right way to write it see what the query optimizer does with it and then
+1:08:02
+you can go back and tweak it if necessary and a way to tweak it could be rewriting
+1:08:08
+the sequel itself some systems allow you to provide hints and say hey you're doing this these operators in the wrong
+1:08:13
+order do it this order or like you're doing so scan take this index extend there's a bunch of ways to to force the
+1:08:19
+data system to do the right thing for you that's not a single standard every dataset does something different
+1:08:24
+prospects famously doesn't support hints although there's exceptions to do this in sql server you can dump out the query
+1:08:30
+plan as an xml change it in hand and load it back in but there's all sorts of things you could do yes i thought since sql is like a
+1:08:37
+non-decorative deck which it's really up to the english management system to
+1:08:42
+figure out how to receive you said sql is a non-declarative
+1:08:48
+it is declared yes so declaration this is the answer i want figure out how
+1:08:54
+to do it right so and his statement was like
+1:09:00
+his question was could you write sigo in a certain way that uh you could specify the different orders
+1:09:07
+and my answer is yes but the database has a good query optimizer which will explain the query
+1:09:12
+is semester um the query can look at that and say oh i know what you're really
+1:09:18
+trying to do and you're doing it the wrong way here's a better way to run the queer you want to run
+1:09:23
+in theory you should always be able to do that in practice not always because it's part
+1:09:29
+yes which comes out first relational algebra or sql this question is what comes out first relationship adversity
+1:09:36
+was defined in 1969 by cod uh but he's a mathematician he doesn't actually but the answer is relation
+1:09:41
+algebra but he never he did not propose a programming language for his original paper
+1:09:47
+uh in um in 1972 cod then came out with his own program language called alpha
+1:09:54
+no one ever used it uh ibm build a query language based on relational model called square no one could use that
+1:10:00
+because you couldn't type it like it was like still kind of math you couldn't you had to type it vertically
+1:10:05
+someone types like that and then they came up with sql and then the
+1:10:11
+the um the guy that also professor berkeley uh my storybreaker
+1:10:16
+who's also my pc advisor the guy they've been postgres a bunch of things um he came up with his own language called quell
+1:10:22
+because basically he taught cognitive defined here's the programming language everyone came up their own and then uh
+1:10:28
+the ibm guys after they threw away square they came up with sequel which is supposed to be a play on words of quell
+1:10:34
+so it's the sequel to sequel to square or t right but then ibm got sued because
+1:10:40
+because somebody else had the use of the name siebel that's why i got renamed sql yes
+1:10:47
+we'll get we'll cover the next class sorry i get very excited so let me tell you slow down uh there's a
+1:10:53
+lot of things i want to discuss okay um so again we still want to be able to say
+1:10:58
+in a high level way probably what the distance repeat this right this is what the query language would look like right
+1:11:04
+hey retrieve me the retributive to the relation verbs if i join the tube with rns where d id equals one of two
+1:11:11
+right that's written in english and natural language but we can define this in sql and the data could interpret this
+1:11:16
+and figure out what's the best way to execute right so
+1:11:21
+this will be the segway for which becomes the next class again the relational model is independent of any actual query language implementation but
+1:11:28
+for all intents and purposes sequel is the de facto standard uh every five years every so often
+1:11:34
+somebody shows up on hacker news and says i have a better version of sql and it never works it never fails right uh
+1:11:39
+seagull is here before you're born single be here when you die okay now even though ibm invested in the 1970s
+1:11:46
+it's not a dead language right there's there's new versions it gets extended all the time so as new ideas come along
+1:11:52
+uh like json called the law and now you can do json and siegel that's the sequel standard so it's adapted and evolved
+1:11:58
+over time and it looks a lot different than it did back back in the 1970s um now the challenge is going to be
+1:12:04
+you say you know sql but like there's the sql standard but nobody follows it right i said mysql is a big offender but
+1:12:12
+every single database system has their own you know proprietary extensions that deviate from the sql standard then they
+1:12:19
+sit on the standard body and they go say hey i have new functions that my system has let's get the sql standard and then
+1:12:24
+oracle says that they got something different it looks slightly different so then they bicker over like what should the actual language say and then they
+1:12:30
+end up with something in the standard that nobody actually ends up using right so basic select insert update sleep
+1:12:36
+deletes and selects all that's at the standard but it's when you start doing the more sophisticated things the more complex things that's what nobody
+1:12:43
+follows it um again it's my opinion uh postgres and oracle probably are the
+1:12:48
+best to the ones that follow the state are the best right so again just using our example at
+1:12:55
+the very beginning instead of writing this procedural language like this we just say hey select star from artists
+1:13:00
+where name equals gizm and the json we'll figure out how to actually to go figure out the best way to run the square
+1:13:06
+right because you know somebody brought up a four if it's in a giant file added to a linear scan
+1:13:12
+right that's going to suck a billion records so i can go to index we'll talk about what indexes are super
+1:13:19
+positive but you know know where my query did i say go go use this index to find my thing
+1:13:24
+that i want in in log n time right you know i don't have to know about
+1:13:29
+indexes in my query language the data system will the database system will figure that out for me
+1:13:35
+question yes okay so uh so basically the second the all the database will actually do that
+1:13:42
+so the question is if you have a b street index
+1:13:48
+right but like this the sequel doesn't know anything about index
+1:13:54
+right i said this this is the answer that i want and the dave's going to decide do i want to use an index or not
+1:14:01
+and you could have a hashtag index right that could be 01 essentially right
+1:14:06
+i don't but but if i it's query my application i have two records in the very beginning
+1:14:12
+so i don't need to end it but now go up to a billion records and then i go now create that index to speed up this query
+1:14:19
+i don't have to go change my application code because they're independent of each other
+1:14:25
+that's that that's the genius idea it seems obvious now but back then that was a big deal
+1:14:32
+okay so i think we have like 10 minutes quickly and i just want to show you uh since class ends when
+1:14:39
+four minutes four minutes all right let's ban quickly through just talk about the docker data model uh just so you guys see this once uh we're not
+1:14:46
+really going to cover too much the rest of the semester so the factory data model sometimes called the object model
+1:14:52
+uh xml databases json databases all of these are the same thing right and these are the bunch of sort of the leading
+1:14:58
+ones is probably the most famous one of all these uh but it's not the first object databases go back to like the
+1:15:03
+1980s all right so basically the idea here is that instead of having separate relations the way we have a simulation
+1:15:10
+model they're going to try to match things together and embed objects or embed data within each other right
+1:15:16
+so before if i had this the three tables or pre-relations part of the artist album and album if i want to say find me
+1:15:23
+or find me all the albums that this this artist is on i got to do a three-way joint between
+1:15:28
+uh these tables right so the data model guys say oh that sucks
+1:15:34
+that's slow that's not how you write your application code what you really want to do is just define your application code
+1:15:41
+based on objects like an object or programming and then i'm going to store the data for
+1:15:46
+a single record in a giant json file or yaml or xml okay they're all they're
+1:15:52
+all equipped right and so what you're basically doing is you're embedding the
+1:15:58
+the the the two relations you're sort of embedding the the dependent relation or
+1:16:04
+the album is the child of harness uh your bank that side excited this
+1:16:10
+so now if i say go give me all genders albums i go do a look up to find the record where name equals jizza and as
+1:16:16
+part of the the payload i get back in my json document i'm going to have all my albums
+1:16:22
+right so not the new joins i just let's go want better go find what i need is this a good idea a bad idea given
+1:16:29
+what we talked about today yes what if you want to go from albums he says what if you want to go to
+1:16:34
+aftermarket absolutely yes how would you do that drop it out double back up
+1:16:41
+yes do uh that database system that use this model uh just abstract the thing
+1:16:46
+and then you could do the query back in an efficient way or this question is do
+1:16:51
+do document databases abstract this away so you could just do the right thing uh
+1:16:58
+not really uh like like bees is never used to be the first five minutes is
+1:17:03
+beautiful like you you open up the terminal you start sticking json in it it stores fantastic right
+1:17:09
+when like it doesn't enforce schemas and force types you can put whatever you wanted
+1:17:14
+right uh so i mean the application code could abstract it
+1:17:20
+but yeah the data system doesn't
+1:17:25
+so from a relational model's perspective this is a bad idea right because as he sort of said like
+1:17:31
+what if i want to actually want to store forgiveness out what are all the artists i'm going to store in right
+1:17:37
+or we talked about how an app could have multiple artists that means now for gizmo friendly
+1:17:42
+elements on his albums i gotta have repeated records uh with duplicated data and then now
+1:17:47
+let's say there's a typo when i put in the album and i gotta go change the outfit now i gotta make sure for every single artist that's on the out i have
+1:17:54
+to go update the update the record right so i don't know this entirely
+1:18:00
+uh in my perspective uh the relational model is the right way almost always the right way to model
+1:18:07
+your database um there are some cases where you do want to sort json uh because it's just it's
+1:18:13
+easier if you get up and running pretty quickly but again you can do that in the context of a relationship if you could have an attribute type be a json field
+1:18:21
+postgresql will do this for you okay all right so forever time database of
+1:18:27
+ubiquitous this class is important relational model is the building blocks for we'll talk about the rest of the semester uh and then next class will be
+1:18:33
+about sql okay all right guys [Music]
+1:18:43
+[Music]
+1:19:02
+[Music]
+1:19:20
+and [Music]
+1:19:28
+found a if you label me a fake i'm like a cobra and i'm down with the super snakes
+1:19:34
+[Music] you

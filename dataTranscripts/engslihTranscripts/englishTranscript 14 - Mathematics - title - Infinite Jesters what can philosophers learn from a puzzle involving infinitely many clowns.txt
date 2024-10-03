@@ -1,0 +1,818 @@
+0:02
+[Music]
+0:21
+okay thank you all uh for being here so what we want to do today is introduce
+0:27
+two puzzles one is really going to be a war up for the main puzzle um these
+0:34
+puzzles are going to involve infinitely many clowns and each of them is going to
+0:39
+consist of a short mathematical argument which leads to some really surprising
+0:46
+conclusions okay so the math Behind these puzzles is going to be pretty straightforward I'm going to explain it
+0:52
+all in today's lecture but it turns out that thinking about what's going on in
+0:57
+these puzzles is quite philosophical interesting okay so let's start with our
+1:04
+warm-up puzzle so in our warm-up puzzle we have infinitely many
+1:10
+clowns and these clowns don't have unlimited Powers but they do have one
+1:16
+very special talent their very special talent is they can walk into a room and
+1:22
+they can put some balloons in that room really really quickly as quickly as you
+1:28
+want okay so um now we have our room uh
+1:34
+between and I'll tell you what goes on in this room between uh noon and 100 p.m. okay so at 100 p.m. uh clown number
+1:42
+one comes into the room but before that at 12:30 clown number two comes into the
+1:50
+room uh before that at 12:15 clown number three comes into the room before
+1:57
+that at 12 and uh 7 and 1/2 minutes
+2:03
+um um clown number four comes into the room and so on okay so just a few things
+2:11
+to note about this setting all infinitely many clowns come into the
+2:16
+room between noon and 1 p.m. and one slightly confusing uh feature of the
+2:23
+setup is the Clowns with the smaller numbers are going to come in later right so if you think about it for each clown
+2:31
+all the Clowns with larger numbers than it are going to arrive before and this
+2:37
+also means that when each clown comes in there have already been infinitely many
+2:42
+clowns that have come into the room okay now each of these clowns has a
+2:50
+plan and their plans all look the same uh so each clown says to themselves as
+2:57
+following uh when I come in into the room if there are no balloons in this
+3:03
+room when I come in then I'm going to put some balloons in the room and I'm going to do it quickly enough so the
+3:09
+balloons are already there by the time the next clown arrives okay otherwise if
+3:16
+there are already balloons in the room the clown doesn't put any balloon they just go home and do
+3:23
+nothing okay uh one side thing to note all
+3:29
+balloons featuring in our talk today are really really good quality balloons they're not going to pop or disappear at
+3:37
+any point um during our puzzles okay so sometimes we make plans
+3:45
+but we don't manage to follow through with them so I once planned to run a
+3:51
+half marathon but sadly I couldn't really find the time to train and I was
+3:58
+also a bit lazy and I never followed through with my plan okay but in this
+4:05
+case it looks like for these clowns these plans are pretty easy to carry out
+4:10
+right each of them just comes in at a certain time they just check if there are balloons if there aren't they put some if there already are they do
+4:18
+nothing um so it looks pretty easy so let's suppose that all of our clowns
+4:23
+have indeed um followed through with their plans
+4:32
+okay so I want to make uh two claims about our situation the first claim is that at
+4:41
+every single point at every single time between 12 and one there must be
+4:48
+balloons in this rout okay why is that
+4:55
+um um let's suppose by contradiction that there is is sometime where there
+5:01
+aren't any balloons in the room just suppose that's uh 12:30 okay so suppose this purple time
+5:09
+12:30 is a time where there are no balloons in the room and now let's think what happens in
+5:16
+the previous time of the series 12:15 indicated in green here okay so one
+5:23
+option is at 12:15 there already are balloons in this room okay
+5:30
+but if at 12:15 there already are balloons in this room remember I said these balloons are very resilient so if
+5:37
+at 12:15 there are balloons they're still going to stick around until 12:30
+5:43
+which contradicts our assumption that at this purple time there are no balloons
+5:48
+okay so there can't be balloons in the room at 1215 but now let's think what happens
+5:56
+when the clown of the green time in this case clown number three walks into the room at 12:15 right clown
+6:03
+number three remember his plan his plan is uh check if there are no balloons in
+6:09
+the room we've just shown there are no balloons in the room so according to the plan clown number three puts some
+6:15
+balloons in the room and puts them so they're there in time for 12:30 okay but
+6:21
+this again contradicts our assumption that there were no balloons in the room
+6:26
+at 12:30 okay so we've reached a contradiction either way so this shows
+6:34
+that there must be balloons in the room at 12:30 but of course 12:30 was just an
+6:39
+arbitrary time the same argument would work whichever time uh you choose so
+6:45
+this shows that at every time between 12 and 1 there're going to be balloons in
+6:51
+the room okay here's the second claim the
+6:56
+second claim is none of the clowns put those balloons in the room right none of
+7:01
+the clowns put any balloons in the room between 12 and 1 why is that well let's
+7:08
+just pick any arbitrary clown say clown number three coming in at 12:15 so again
+7:14
+remember the Clown's plans clown number three comes into the room checks if
+7:20
+there are balloons in the room well we know there are balloons in the room at every single time between 12 and 1 so
+7:27
+they going to be balloons in the room at 12 15 so according to the plan clown
+7:32
+number three isn't going to put in any balloons and again clown number three was just a completely arbitrary Choice
+7:39
+the same is going to be true of every single clown okay so if you step back a
+7:45
+bit you'll notice that these two claims seem to show something pretty weird
+7:51
+right we have these clowns all they've done is form these pretty simple plans
+7:56
+to come into the room check if there are balloons put them there if there aren't
+8:01
+any balloons and they carry out these simple plans and by doing that they have
+8:08
+somehow managed to ensure that there will be balloons in this room without any of them having put them there okay
+8:15
+that's pretty weird okay if you think this is weird wait till you get to our second
+8:24
+puzzle okay so here's our second puzzle in this puzzle we still have the same uh
+8:30
+set of infinitely many clowns they still come into the room at exactly the same
+8:35
+times but this time they have a slightly different uh plan okay so here's how their plans look
+8:43
+each clown says to themselves I'm going to come into the room and if first
+8:50
+there's no ice cream Mountain outside the room at noon and second no clown
+8:57
+that came earlier has put some balloon bons in the room then I'm going to put
+9:02
+some balloons in the room okay Al otherwise if they're either is an ice
+9:08
+cream Mountain there or some previous clown has put balloons in the room then
+9:13
+they won't put any balloons they won't do anything maybe this room is fun enough as it is they don't need to uh
+9:20
+bother with it okay so again these plans don't seem
+9:27
+particularly hard to follow for these clamps come into the room check these two
+9:32
+conditions if they apply they put some balloons otherwise they do nothing so again let's suppose they've all
+9:39
+succeeded in carrying out their plan okay I claim that this time it
+9:46
+follows that there must be an ice cream Mountain outside the room at noon okay
+9:53
+so the argument here is just a littleit a little bit tricky trickier but uh
+10:01
+let's go through it okay so let's suppose by contradiction that there is
+10:07
+no ice cream Mountain outside the room at noon um so we have two options right
+10:15
+either no clown has put any balloons between noon and one or some clown has
+10:22
+put in uh some balloons so I'm going to consider each of these options and show
+10:28
+that either way we reach a contradiction so first suppose that no clown ever puts
+10:34
+any balloons in the room okay so now think what happens when
+10:40
+for example clown number three comes in at 125 right and again remember the
+10:47
+plans of these clowns so this clown comes in uh she's going to check if there's no ice cream Mountain we're good
+10:54
+we're assuming there is no ice cream mountain and then she's going to check if no clown that came earlier has put
+11:01
+balloons in the room well if no clown ever puts balloons in the room then this means no clown that came before 12:15
+11:09
+puts balloons in the room so both of the conditions are satisfied so our clown is
+11:14
+going to put balloons in the room okay but this just contradicted our assumption that no clown ever puts
+11:21
+balloons in the room okay so this assumption has led to a contradiction so
+11:26
+we can rule it out what had the other option suppose that some clown uh does put uh balloons
+11:36
+in the room okay so let's suppose for example it's clown number uh two at uh
+11:44
+12:30 okay so one thing to note is we know the plans of these clowns we know
+11:50
+the only situation this clown would have put balloons in the room is first if there's no ice cream Mountain good
+11:56
+that's what we're assuming and second if they're the first to put in balloons right no clown that came in earlier has
+12:04
+put in any balloons okay so let's assume that's satisfied as well but now let's
+12:11
+think what happened at 12:15 when clown number three came in when clown number
+12:18
+three came in clown number three first checked there's no ice cream Mountain indeed there's no ice cream mountain and
+12:25
+then they checked if no clown that came earlier has put in any balloons right if
+12:31
+no one before 12:30 has put in any balloons then it's also true that no one
+12:37
+that came before 12:15 has put in any balloons okay so according to the plan
+12:43
+clown number three is going to put some balloons okay but that contradicts what
+12:48
+we said about clown number two being the very first to put in balloons okay so
+12:54
+this um option leads to a contradiction as well
+12:59
+okay so let's this was all uh a little complicated but let's summarize we
+13:05
+supposed that there's no icecream Mountain outside the room at noon and we showed that either way we reach a
+13:12
+contradiction okay so this means our assumption was wrong and there must be
+13:18
+an ice cream Mountain outside the room at noon but now think how weird this
+13:26
+conclusion seems to be right we we have again these clowns forming these simple plans about putting or not putting
+13:34
+balloons in the room and just by making and following through with these plans
+13:39
+they've managed to ensure the existence of something completely unrelated to
+13:45
+their powers of putting in balloons and in fact they've managed to ensure that it's going to be there before any of
+13:51
+them have even arrived into this room and to make things even a bit
+13:57
+weirder if you think about how our proof went you'll realize nothing in the proof
+14:04
+depended on the clause in their plan really being about ice cream mountains
+14:09
+right so we could easily amend their plan so that we replace the clause about ice cream mountains with a clause saying
+14:17
+that there is World Peace at noon and now it looks like just by forming these plans about balloons and following
+14:23
+through with them the clowns have managed to ensure there's World Peace at noon and to make things worse we can
+14:31
+even replace it with the condition that 2 + 2 equal 5 and now it looks like the
+14:37
+clowns have managed to ensure that 2 + 2 equals 5 okay so something seems to have
+14:45
+gone uh very wrong here okay so what has gone wrong the
+14:52
+argument was a little bit complicated maybe we made a mistake in the reasoning
+14:58
+I'm going to suggest that's not what went wrong the logic and Mathematics of our argument was perfectly uh impeccable
+15:07
+okay but this is where it's the philosophers turn to chip in and what
+15:12
+I'm going to claim is that when we understand what's really going on in these cases we'll first realize that
+15:20
+actually these conclusions are not quite as weird as they initially seem and that
+15:26
+realizing why they're not so weird is going to lead to some pretty important
+15:31
+philosophical observation so here's the first thing I think we should observe about this
+15:38
+puzzle okay so suppose indeed uh the clowns have managed to carry out their
+15:45
+plans a as we've assumed and we've just proved this entails there must be an ice
+15:50
+cream Mountain outside the room at noon I think part of the reason that this seems so puzzling is that we're assuming
+15:58
+that in this case it means that the clowns have somehow made it the case or
+16:03
+caused the ice cream Mountain to appear there okay but our proof didn't show any
+16:10
+such thing right a proof only showed that the fact that the clown succeed
+16:15
+entails that there is an ice cream Mountain there it doesn't show that the clowns have caused it to be there okay
+16:23
+and we can see the distinction between the two with a really simple example so
+16:29
+suppose I make a plan to kick a ball across a field at noon and suppose I
+16:35
+manag to carry out my plan from the fact that I succeeded we
+16:41
+can infer that there was a ball there and there was a field there okay but me
+16:47
+forming this plan or carrying out this plan didn't in any way cause the ball or
+16:53
+the field to be there okay the ball and the field were merely necessary
+16:58
+condition for My Success similarly I want to claim with
+17:05
+the Clown's case when the clowns succeed that entails that there must be an ice
+17:11
+cream mountain in the room at noon okay and when there is no ice cream Mountain
+17:18
+the clowns have no hope of succeeding okay but this doesn't show that when
+17:23
+they do succeed they have somehow caused this background condition to hold okay
+17:30
+so this lesson that we've just learned turns out to be very relevant to a
+17:36
+discussion of a problem that's much more important than an obscure puzzle about infinitely many uh clowns so some of you
+17:45
+may have heard about the problem of Free Will and the worry that determinism entails that we can't act freely okay
+17:53
+and philosophers have tried to think really hard about this problem really carefully and try to figure out is it
+18:01
+really true that determinism conflicts with free action okay and what I want to
+18:07
+talk about briefly is one very influential argument called the consequence argument that attempts to
+18:14
+show that there really is a conflict there really is a tension between
+18:19
+determinism and free action so to set things up um suppose at a certain time T
+18:27
+say May 1st 2024 uh I perform some action I raise my
+18:33
+my arm okay here's what determinism says on at least one standard understanding
+18:40
+of the view let s be the state of the entire universe a long time ago say
+18:48
+three billion years before I was born okay let L be all the laws of
+18:55
+physics and I really mean all the laws of physics not just the ones that our colleagues in the physics department
+19:01
+have already discovered but all the true laws that are there to be discovered um
+19:08
+what determinism says that the conjunction of the state of the universe at this early time and the laws of
+19:15
+physics together entail everything that happens in the universe throughout history including the fact that I raise
+19:23
+my arm atti so now supposed determinism is true
+19:28
+and ask yourself if it's true could I have acted any differently at T could I
+19:35
+have not raised my arm at T okay so the consequence argument
+19:43
+attempts to answer this with a no if determinism is true I could not have uh
+19:49
+failed to raise my arm at T and here's why the thought is this look if
+19:56
+determinism tells us that the conjunction of SNL entailed that I raise my arm then if there's some situation
+20:04
+some possibility where I don't raise my arm at T that means that's a situation
+20:09
+where the conjunction of SN L are false okay so this means that if I
+20:16
+manage to act differently if I manage to not raise my arms I've somehow managed
+20:21
+to make it the case that the conjunction of SNL is false okay but it doesn't look
+20:28
+like I have any such Powers right I can't control what happened in the
+20:33
+universe three billion years before I was born and sadly I also cannot control
+20:39
+what the laws of physics are like so it really looks like this is something I can't do uh so the argument concludes
+20:46
+this shows that I really could not have acted any differently which on a certain
+20:52
+understanding might make you think that my action wasn't free Okay so this is a very compelling
+21:00
+argument uh but I'm going to suggest that our discussion of the clown puzzle
+21:05
+should tell you there's a crucial flaw in this argument so to know the crucial flaw I
+21:12
+want you to focus on this premise that if I manage to act differently then I
+21:17
+manage to make S Plus L false okay and I want to remind you of
+21:24
+the lesson we learned from the clowns okay so what's let's be clear what
+21:30
+determinism tells us is that if I don't raise my arm at T that inails that the
+21:37
+conjunction of S Plus L is false but that does not mean that in that
+21:42
+possibility where I don't raise my arm I have somehow caused it or made it the
+21:48
+case that s+ L is false okay so again
+21:53
+remember actions can have necessary conditions uh for the success in order
+22:00
+to kick the ball there has to be a ball there in order for the clowns to carry out their plans there has to be an ice
+22:07
+cream mountain and in order for me to raise my to not raise my arm at T it has
+22:13
+to be the case that the conjunction of S and L is false but it doesn't mean that
+22:19
+when it is false I have somehow made it the case that it's false okay there is a
+22:26
+lot more to say about the problem of Free Will and there might well be other
+22:32
+Arguments for thinking that Free Will and determinism are
+22:37
+incompatible um but this argument at least uh is very problematic so our
+22:45
+discussion so far focused on the case where things go well for the clowns right there was an ice cream Mountain
+22:51
+outside the room and that meant they were able to carry out their plans but I
+22:56
+now want to focus on the other case right the case where there was no ice cream Mountain outside the room at noon
+23:04
+okay so we know from our proof that this means that the clowns did not all
+23:10
+succeed in carrying out their plans okay at least some of them uh must have
+23:19
+failed but this raises a really puzzling question the question is uh what exactly
+23:28
+is preventing them from succeeding right remember these plans are really easy to carry out each of them comes into the
+23:35
+room checks if there's no ice cream Mountain checks if someone else has put in balloons otherwise they put uh some
+23:42
+balloons in right what like they're coming into the room they're trying to
+23:47
+carry out the plan what is is there some special you know magical forest that
+23:53
+they're trying to put their balloons and it's preventing them uh or maybe there is a sort of Officer of the logic police
+24:01
+rushing in uh to stop them from carrying out their
+24:06
+plans okay and just to see how puzzling this is I do want to note that this
+24:12
+contrasts with my analogy of the case of planning to kick the ball okay so
+24:18
+similarly we know that if I plan to kick the a ball and there's no ball there I'm G to fail but in that case it's very
+24:25
+easy to explain why I'm going to fail right what's stopping me for kicking a ball there's no ball there very easy to
+24:33
+understand right in this case it's hard to understand what's making these clowns
+24:39
+fail okay so to better understand what's going on here I want to focus on a
+24:46
+slightly uh simpler case so this case will only have two
+24:51
+clowns um and here's the plan of clown number one clown number one plans to
+24:58
+ensure that at noon there are exactly three balloons in the room here's what clown number two plans
+25:06
+uh clown number two plans to ensure that there are exactly two balloons in the
+25:11
+room at noon okay now I want you to put your hand up if you think they're both
+25:17
+going to succeed in their plan they're both going to manage to follow through okay I want you to put your hand
+25:24
+up if you think at least one of them is going to fail in the their plan okay good so you're all right uh we
+25:33
+know that at least one of them is definitely going to fail in the plan but
+25:38
+here's the following question which of these clowns is going to fail in this
+25:44
+plan so put your hand up if you think it's clown number one that's going to fail okay put your hand up if you think
+25:52
+it's clown number two that's going to fail okay
+26:00
+uh okay put your hand out if you think it's complicated or we're not sure or
+26:06
+okay good so the answer is we can't
+26:11
+really tell right there aren't enough uh fact in the description of the case
+26:16
+right we know that at least one of them is going to fail but we don't know which one and we also don't know why and there
+26:22
+are lots of different ways for this story to unfold right um
+26:28
+maybe they both come into the room at the same time really determined to carry
+26:34
+out their plans and they're having a sort of wrestling match to see which one wins over and clown number one is
+26:41
+stronger and manages to carry out their plans or maybe as they were rushing to
+26:47
+the room towards the room at noon a green monster came and abducted clown number one so they never made it to the
+26:55
+room okay but there also some very undramatic ways they can fail right they
+27:01
+can both arrive to the room at noon and clown number one suddenly remembered
+27:06
+that she's really hungry and decided to go off and buy a pizza or maybe they
+27:13
+both arrived to the room at noon but clown number two was really tired and fell asleep before they had a chance to
+27:21
+carry out their plans okay there can be many many many ways this story could go
+27:27
+the only thing we know from the logic of the situation is that there's one way
+27:32
+this story is not going to go They're not going to both succeed in their plan
+27:38
+so back to our ice cream Mountain I want to suggest that exactly the same thing
+27:45
+is true of our clowns right we know from the logic of the situation that if
+27:51
+there's no ice cream Mountain okay at least some of the clowns are going to
+27:56
+fail but there are many many different reasons they might fail right some of them are dramatic like a monster abducts
+28:04
+clown number 452 just before they come into the room
+28:09
+uh but there are also some very boring things that can happen right clown number
+28:15
+7,3 might get hungry and go buy pizza or fall asleep before they manage to carry
+28:22
+out their plans again here too there are many different ways for this story to un
+28:28
+fold the only thing we know from the logic of the case that did not happen is
+28:33
+that they did not all manage to carry out their plans in this case too it
+28:40
+turns out this lesson namely that there are many different ways for the Clans to
+28:45
+fail turns out really important for another very interesting philosophical
+28:50
+puzzle this time concerning uh time travel so this is called the grandfather
+28:57
+Paradox and it go like this okay so consider this guy Tim uh Tim is a young
+29:04
+man in 2020 here is Tim 20 years uh earlier being born so he's a baby and his mom is
+29:12
+holding him um here is Tim's mom being born so
+29:17
+now Tim's mom is the baby and the guy holding her is Tim's maternal
+29:23
+grandfather uh and here is Tim's grandfather uh a few years before before
+29:28
+Tim's mom as a Young Man a few years before Tim's mom uh is born okay so back
+29:34
+to 2020 here's Tim in 2020 he's thinking about his maternal
+29:39
+grandfather and Tim really really hates his grandfather he hates him so much
+29:46
+that he decides to take a very extreme measure okay so the extreme measure is
+29:51
+he builds a time machine uh he takes a gun with him uh and he travels back in
+29:59
+time all the way back to 1975 where he plans to kill
+30:05
+grandfather okay so suppose he's practiced he has his gun he's a really good chart he's practiced this he
+30:12
+travels back in time and manages to kill grandfather well now we have a problem
+30:18
+because if Tim killed grandfather in 1975 then uh Tim's Mother wasn't born in
+30:27
+1980 and Tim wasn't born in 2000 and so Tim isn't around in 2020 to
+30:35
+form all this plan about building a time machine so in fact he never built a time machine and traveled back in time so no
+30:43
+one traveled back in time and killed grandfather Okay so we've reached a
+30:53
+contradiction okay so the conclusion is we can just tell from the logic of the
+30:58
+situation that there's no way that Tim Tim succeeded in traveling back in time
+31:04
+and killing grandfather but here is the puzzle why didn't he succeed why can't Tim travel
+31:11
+back in time and kill grandfather what's stopping him okay so one very obvious
+31:17
+answer you might have at the stage is unlike the clowns plan which were very
+31:22
+simple this is quite a complicated plan right it's quite hard to build a time machine and travel back in time so one
+31:29
+thing that might be stopping him is you just can't travel back in time okay and
+31:35
+indeed many philosophers have concluded from this puzzle that what it shows is
+31:41
+that time travel is impossible okay but the logic of the situation doesn't quite
+31:46
+force that conclusion on us right it doesn't say that it's impossible to travel back in time it just says that if
+31:53
+Tim travels back in time and attempts to kill grandfather Tim is not going to
+32:01
+succeed so let's suppose Tim really did uh travel back in time again we're faced
+32:07
+with this worry why is it that he can't succeed what's going to stop him is it
+32:14
+that when he shoots grandfather there's going to be a special force stopping the bullet midair or again the sort of logic
+32:22
+police will rush off to arrest him just before um he manages to shoot
+32:30
+grandfather so remember the lesson we just had from the clown puzzle right
+32:37
+what that lesson tells us is that there are many different ways that Tim can
+32:42
+fail some of them might be as dramatic as a police woman rushing in and
+32:47
+knocking Tim over just as he's about to kill grandfather but there could be many many very boring reasons right his gun
+32:55
+gets jammed or grandfather's train is late and he just misses the shot or all
+33:02
+sorts of different mundane things can happen Okay the story can unfold in many
+33:07
+many different ways the only thing the logic of the situation tells us is there
+33:13
+is one way it's not going to unfold it will not unfold by Tim in fact killing
+33:19
+grandfather okay let's move to our uh final lesson so when people hear about this
+33:27
+clown puzzle a very common reaction is to think that this shows that there's
+33:32
+something really mysterious and spooky about Infinity okay and to be fair the
+33:39
+logic of our puzzle really did depend on there being infinitely many clowns okay so let's just quickly see why suppose we
+33:47
+had exactly the same puzzle except now we have finit many clowns say three
+33:53
+clowns okay and they make the same plans um now we're not going to be able to
+33:59
+prove that there must be an ice cream Mountain there right suppose there's no ice cream Mountain there's going to be
+34:04
+no contradiction we'll just have clown number three is going to be the first one to come in at 12:15 they're going to
+34:11
+check no ice cream Mountain good they're going to check that no clown that came earlier put any balloons there weren't
+34:17
+any clowns earlier fine they're going to put some balloons then at 12:30 clown
+34:24
+number two is going to come in they're going to see someone else has already put some balloons they're going to do nothing at one clown number one is going
+34:32
+to come in they're going to see some earlier clown has already put up some balloons they're going to do nothing and
+34:38
+that's it right no contradiction everything is fine uh we can't conclude
+34:44
+that there has to be an ice cream Mountain okay so our original puzzle really depended on us having infinitely
+34:51
+many clowns but I want to suggest that there are variants of this puzzle that
+34:58
+involve um only finitely many clowns okay so here's a variant
+35:06
+um here's a variant that involves just two clowns okay so clown
+35:14
+uh o sorry okay so we have just two clowns
+35:22
+and clown number one plans to ensure that at noon I either there is an ice
+35:28
+cream Mountain outside the room or there are exactly three balloons in the room
+35:34
+okay meanwhile clown number two plans to ensure that either there's an ice cream
+35:39
+mountain in the room at noon or there are exactly two balloons in the room at
+35:44
+noon okay and it follows from the fact if both these clowns succeed in carrying
+35:52
+out the their plans right it's going to follow that there must be an ice cream Mountain outside the room at noon why is
+35:59
+that well suppose there's no ice cream Mountain well the only way the first
+36:04
+clown succeed can succeed in their plan right the green Clause isn't being
+36:09
+satisfied so the only way they could succeed is via the blue Claws by ensuring there are three balloons in the
+36:16
+room at noon and for clown number two if clown number two is going to succeed
+36:21
+well the green Clause isn't satisfied so the only way for them to succeed is to ensure they're exactly two balloons in
+36:28
+the room at noon right but there can't be exactly two balloons and also exactly
+36:34
+three balloons in the room so that's a contradiction so there must be an ice cream Mountain outside the room and okay
+36:42
+so if you think about it this simple puzzle essentially has the same logic of
+36:48
+our puzzle with infinitely many clowns right what's really going on in the puzzle with infinitely many clowns is
+36:55
+that the clowns start out with plans that are basically inconsistent
+37:01
+with each other um unless right we just have this sort of Escape Clause where if
+37:07
+there is an ice cream Mountain uh there that's uh
+37:13
+fine okay so you might say well hang on this was a little bit uh too easy right
+37:22
+because in my puzzle with the two clowns uh the two clowns are trying to ensure
+37:28
+that incompatible things happen in the room at the very same time right so we
+37:34
+understand what's going to go wrong there right so if there's no ice cream Mountain there things are going to be incompatible and we know what's going to
+37:40
+go wrong right they both come at noon one of them is trying to make sure there are two balloons one of them is trying
+37:46
+to make sure they're three balloons both these things can't happen at noon
+37:52
+okay isn't what's puzzling about the original puzzle is that these clowns
+37:58
+come into the room at different times right they're not clashing with each other each of them is entering the rooms
+38:04
+and trying to put some balloons at a different time okay so I want to say two things
+38:11
+about that one is remember our previous lesson from the previous lesson we know
+38:17
+that some of the reasons that clowns can fail is not just because another clown is sort of jostling them at the same
+38:25
+time right there are many many reason they can fail that might have nothing to do uh with the other clowns uh but I
+38:34
+also want to say uh this in addition that we can also have variants of the
+38:39
+puzzle that have finitely many clowns and these clowns are going to try to do
+38:44
+things at different times okay so let's quickly see a version of that so this
+38:50
+version two will have only two clowns uh so clown number one comes in at sorry
+38:56
+clown number two comes in at noon and clown number one comes in at one and
+39:03
+here are their plants clown number one plans to put balloons in the room if and
+39:08
+only if clown number two puts balloons in the room and clown number two plans
+39:15
+to put balloons in the room if and only if clown number one does not put balloons in the room okay so if you
+39:23
+think about it they cannot both succeed in their plans right so B basically clown one wants them to do the same
+39:30
+thing either for both of them to put balloons or for both of them to refrain from putting balloons and clown number
+39:36
+two wants them to do different things so these plans are incompatible they can't
+39:42
+both succeed and in this case the plans are just uh inconsistent but you can by
+39:48
+now see how to construct a variant of this where instead we tweak their plant
+39:53
+so there's an escape Clause with an ice cream Mountain and then they could succeed but that would entail that there
+40:01
+is an ice cream mountain in the room okay so we seem to have a variance of the puzzle where the finally many clowns
+40:07
+they come in at different times and we're still going to ensure there's an ice cream mountain in the
+40:13
+room okay you might think this still isn't quite as good as our puzzle with
+40:19
+infinitely many clowns right um so here's one thing that was weird about
+40:24
+the original puzzle in the original puzzle every clown when they walked into the
+40:29
+room their plan only depended on conditions that already happened in the past right they only needed to check
+40:37
+whether there was an ice cream Mountain there earlier and whether earlier clowns have put balloons but in this case we
+40:44
+have one clown clown number two that makes a plan that depends on something
+40:49
+that's going to happen in the future right it depends on what clown number one is going to do in the future so you
+40:55
+might think this is a bit dodgy maybe the only way for clown number two to carry out this plan is to consult a
+41:02
+fortune teller I'm going to let you in on a little secret it's not just Infinity
+41:09
+that's not that special it's also fortune tellers that are actually not that special uh so in fact all of you
+41:19
+have fantastic abilities uh to uh tell
+41:25
+some things that are going to happen in the future and we make plans all the time dependent
+41:32
+on future events okay so some days I am
+41:38
+trying to decide whether to cook dinner or not but my partner left a message on
+41:43
+the fridge saying that he will cook dinner tonight so I know based on this
+41:48
+future event that he will cook dinner tonight I decide not to cook dinner um
+41:55
+earlier in the day okay and I just checked and noticed the future event
+42:02
+tomorrow it will be Friday and I will be teaching a class so based on these
+42:08
+future events I'm now going to prepare my class for tomorrow okay so we make
+42:16
+plans in this way all the time and exactly the same thing might be true of these clowns right so clown number two
+42:24
+might have a lot of very mundane way to determine what clown number one is going
+42:29
+to do okay maybe clown one which is a very trustworthy clown left a note on
+42:35
+the fridge promising they're going to put balloons on the fridge at one or
+42:41
+maybe clown number two has just found out that uh clown number one has
+42:48
+recently developed a severe allergy to balloons so they're sure when clown number one is going to come in at one
+42:54
+they're not going to put in any B okay so I think this puzzle is actually
+43:01
+not that different from our puzzle about infinitely many clowns okay so the
+43:08
+conclusion is that the original puzz wasn't really essentially about
+43:14
+Infinity I do think Infinity played a role in the puzzle but I think it played
+43:19
+a psychological role it played a role in why we found it so puzzling and the
+43:25
+reason we found it so puzzling is that when we have just two clowns it's very
+43:31
+easy for us to see that their plans are inconsistent with each other or maybe inconsistent unless there's an ice cream
+43:38
+Mountain but we're not that good at reasoning about Infinity when we have infinitely many clowns it takes us more
+43:45
+work to figure out what's going on and we don't immediately see that their plans are just inconsistent with each
+43:53
+other okay so this bring me to brings me to the end uh of our lecture we're going
+43:59
+to uh take a few questions but before I do so I'm going to add one more slide
+44:05
+that has a few reading suggestions of some of the academic literature on these
+44:10
+topics in case any of you want to chase that up um okay I'll finish
+44:19
+[Applause]
+44:26
+here for

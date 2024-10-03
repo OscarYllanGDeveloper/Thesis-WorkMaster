@@ -1,0 +1,1326 @@
+Introduction
+0:00
+a little bit more link with large
+0:01
+language models has never been easier
+0:03
+with the rise of llama 2 open source
+0:05
+llms are starting to become more and
+0:08
+more competitive they are nearing the
+0:10
+performance of jet GPT in this tutorial
+0:13
+we will be using llama2 for topic
+0:15
+modeling where we go from thousands of
+0:17
+documents to just a few interpretable
+0:20
+topics
+0:21
+we will be using per topic a highly
+0:24
+modular topic modeling framework on top
+0:27
+of which we can use llama to to derive
+0:30
+topics to natural language so without
+0:33
+further Ado let's just get into it
+How does BERTopic work?
+0:36
+what we have here is a Google collab
+0:39
+notebook and The Notebook
+0:42
+shows all of the code that we will be
+0:45
+going through in this tutorial you will
+0:47
+find the link of it in the description
+0:49
+let's start at the beginning what is
+0:51
+birth topic
+0:53
+Albert topic is a topic modeling
+0:55
+framework that allows us to go from
+0:57
+documents to just a few interpretable
+1:01
+topics and they are generally
+1:02
+represented through keywords the
+1:05
+approach that we're typically using in
+1:07
+word topic is that we cluster the
+1:09
+documents into semantically similar
+1:11
+clusters of documents when we have those
+1:15
+clusters we assume that each of those
+1:17
+cluster contains a single topic of which
+1:20
+we extract a number of keywords to try
+1:23
+to represent it so if you have a topic
+1:26
+about cars you can have the keywords car
+1:28
+cars Ford Etc
+1:30
+and that by itself is very interesting
+1:32
+and extremely helpful to understand what
+1:35
+the topic is about but you still have to
+1:38
+interpret it yourself right I mean if
+1:40
+you have the words car cars Ford you
+1:42
+have to think about what the topic means
+1:45
+and that thinking about we want to
+1:47
+prevent
+1:48
+entirely of course but we want to make
+1:50
+it easier to interpret those and that's
+1:52
+where llama2 comes in so when we have
+1:57
+those weighted words generated through
+2:00
+CTF IDF we basically give them to llama2
+2:03
+along with some representative documents
+2:06
+and ask glamor to okay can you create a
+2:10
+very interpretable label for this topic
+2:12
+so instead of the word car cars Fort
+2:16
+it might be this topic is about electric
+2:18
+vehicles for example
+2:20
+so there are many ways that we can
+2:23
+represent the topic but llama2 makes the
+2:26
+interpretation of such a topic much much
+2:28
+easier
+2:29
+we have this notebook and to run all of
+2:32
+this we will need to make sure that you
+2:34
+have a GPU
+2:36
+typically you can choose a T4 inside of
+2:38
+Google colab pro but if you go to CPU
+2:41
+route and this will all become very
+2:43
+difficult
+Installing Dependencies
+2:45
+we will start by installing a few
+2:47
+packages of course per topic for the
+2:49
+topic modeling we will install data sets
+2:53
+to make sure that we can load in the
+2:54
+data that we're interested in and then a
+2:56
+few packages that make sure that we can
+2:59
+run llama2 more easily on the GPU that
+3:02
+we have because there's large language
+3:04
+models well it's in the name they're
+3:06
+quite large and we want to make sure
+3:08
+they can fit into the virtual Ram of our
+3:11
+GPU
+3:13
+but as always let's just start at the
+Data
+3:15
+beginning of the data that we have so
+3:17
+I've already loaded in most of the
+3:18
+things that we're going to do I've also
+3:20
+already trained the model we're skipping
+3:22
+over a lot of boring training stuff
+3:26
+um but the data that we have are archive
+3:28
+papers and more specifically the
+3:31
+abstract of those papers and those
+3:33
+abstracts are perfect introduction into
+3:36
+topic modeling in general because they
+3:39
+contain
+3:40
+nicely written text they are very short
+3:43
+which generally helps with embedding
+3:45
+models and they
+3:47
+contain all of the information that
+3:49
+you're interested about
+3:50
+we extract the abstracts and the titles
+3:53
+from the data set that we have
+3:56
+give you an ID
+3:58
+what we have here is the abstract of the
+4:00
+well-known paper attention is all you
+4:02
+need
+4:04
+you can see it's well roughly the size
+4:06
+of a paragraph and most embedding models
+4:09
+I think are able to capture this very
+4:12
+nicely so that should be okay
+4:16
+we have quite a few abstracts let me
+4:18
+quickly see how many we have
+4:23
+over a hundred thousand abstracts and
+4:26
+with a hundred thousand documents of
+4:29
+course we're not going to go through
+4:30
+them all individually topic modeling is
+4:32
+an excellent technique where we can look
+4:35
+into those abstracts and see what kind
+4:37
+of topics we can derive before we can go
+Llama 2
+4:40
+to Lama 2 and load it in we actually
+4:43
+need to accept its license
+4:46
+and make sure that we're logged in into
+4:48
+hogging phase so it knows that we've
+4:50
+accepted it so if you go to hugging face
+4:52
+itself and go to your settings and
+4:54
+access tokens you can find the token
+4:57
+here you can copy it go back to the
+4:59
+notebook
+5:01
+simply log in
+5:04
+my token is valid which is great it
+5:07
+means we can use lamba 2 and then we can
+5:09
+continue using the model
+5:13
+now comes the interesting part loading
+5:15
+in llama2 and basically playing around
+5:17
+with it for a little bit before we go
+5:19
+into the topic modeling
+5:21
+so there are a number of models that we
+5:23
+can choose from we have here the 13
+5:25
+billion parameter variant I believe
+5:27
+there's a 7 billion and 60 billion and
+5:30
+at some point maybe a 40 billion
+5:32
+a parameter model
+5:34
+there's some choices to be made here
+5:38
+and I am specifically choosing now to go
+5:41
+with the 13 billion model and the reason
+5:43
+for that it is that it's a nice balance
+5:45
+between on the one hand speed inference
+5:49
+of the model and also accuracy so as you
+5:52
+might expect a larger model will be more
+5:55
+accurate but it also require way more
+5:57
+compute power necessary to run the model
+6:00
+at a nice base so personally 13 billion
+6:04
+is a nice balance between inference and
+6:08
+speed
+6:09
+accuracy and speed but it all depends on
+6:12
+your use case now we're using this model
+6:14
+which should be sufficient for the data
+6:16
+that we have
+6:18
+now that's step one the second step of
+Optimization & Quantization
+6:20
+this loading in llama is optimization
+6:24
+and that's really necessary because oh
+6:27
+it's a large language model and it
+6:29
+really is very large and very difficult
+6:31
+to run without doing some extra steps
+6:35
+one of those steps is quantization or
+6:38
+essentially say okay those 13 billion
+6:40
+parameters they are saved generally in a
+6:43
+32-bit preparation
+6:46
+but if we
+6:47
+compress the 32-bit representation into
+6:50
+something smaller and it will also mean
+6:52
+that the resulting model will be smaller
+6:55
+we'll lose some accuracy
+6:57
+but ending on the quantization method
+7:00
+that you use it shouldn't be that much
+7:04
+what we're using here is a 4-bit
+7:06
+quantization where we go from 32-bit to
+7:10
+orbit which is quite a big leap in
+7:12
+difference
+7:14
+but the performance generally should be
+7:17
+okay
+7:18
+for this type of model
+7:20
+we're using bits and bytes for that
+7:22
+which is a special configuration special
+7:24
+library that we can use to do this kind
+7:27
+of efficient loading in of models
+7:30
+of the number of parameters here so we
+7:32
+loaded in the four bits obviously
+7:35
+we normalize
+7:37
+um
+7:39
+the type of bits is what the paper
+7:41
+generally uses and also shows very nice
+7:44
+performance there's a small trick that
+7:46
+they use
+7:47
+even not small it's very interesting
+7:49
+where they use a second quantization
+7:51
+after the first and by doing it again in
+7:55
+a way it further reduces the necessary
+7:57
+bits that you will need in order to run
+7:59
+your model which again becomes more
+8:01
+efficient but they've also shown it
+8:03
+doesn't reduce the importance
+8:06
+accuracy so to say of those models that
+8:09
+much
+8:10
+and we say okay we want to have of
+8:12
+course A B float 16 during inference
+8:14
+which
+8:15
+generally use for these kind of models
+8:19
+then we load in the actual model we have
+8:23
+a tokenizer and the model in itself and
+8:26
+the tokenizer is used to go from text to
+8:29
+individual tokens so let's say the words
+8:32
+telephone might consist of the token
+8:37
+Stella and phone
+8:38
+or the word configuration of config and
+8:42
+duration
+8:43
+and these kind of tokens are necessary
+8:45
+for the model to have some generalized
+8:48
+performance because when it notices a
+8:50
+word it hasn't seen before it can still
+8:52
+uses those individual tokens to kind of
+8:55
+derive what its meaning is supposed to
+8:57
+be
+8:58
+we have the tokenizer that we load in
+9:00
+and then we have the model in itself or
+9:03
+we if it's a configuration that we
+9:06
+created before so the four bit
+9:09
+representation
+9:10
+in order to properly load the model and
+9:13
+I've already done these steps because
+9:15
+they might take a while you need to load
+9:17
+in a model things like that but it loads
+9:19
+fine in a T4 instance
+9:23
+this is of course where it becomes more
+9:25
+interesting because we're slowly
+9:26
+approaching the prompt engineering
+9:28
+but before we do that we use a
+9:30
+Transformers pipeline that's a hugging
+9:33
+phase pipeline that makes it much easier
+9:35
+to run all of these prompts and it's
+9:37
+also the pipeline that we're going to be
+9:39
+using in bird topic later on
+9:42
+setting the number of tokens it can
+9:44
+generate we give it a penalty for how
+9:47
+much it's uh repeats certain phrases we
+9:51
+don't want to repeat stuff and we set
+9:53
+the temperature low and the temperature
+9:55
+basically shows you how let's say
+9:57
+creative the model is by lowering the
+10:00
+temperature it's not that creative which
+10:02
+we actually need for this specific
+10:05
+instance
+10:07
+because you know we're creating topics
+10:10
+and the more creative it comes in
+10:13
+representing the topics the less
+10:15
+accurate it will actually be so we want
+10:18
+to lower the temperature as much as
+10:19
+possible
+10:22
+now for the fun part from the
+Prompt Engineering
+10:24
+engineering so let's see how all of this
+10:26
+worked I already created this prompt but
+10:28
+let's run it again could you explain to
+10:30
+me how 4-bit quantization works as is I
+10:34
+as if I am Phi which is the e-live 5
+10:37
+representations or the Eli 5 question
+10:39
+that you often see in tutorials explain
+10:42
+it like I'm 5.
+10:44
+and as you can see it actually takes a
+10:47
+while to generate the response and
+10:49
+that's what happens with these kind of
+10:50
+models they are quite large you need
+10:52
+very big gpus to make sure they run in
+10:55
+seconds or even in milliseconds which is
+10:59
+also why you will see in open AI is that
+11:02
+you don't immediately see the output but
+11:04
+tokens generated one after the other
+11:09
+so it has given us the output a
+11:12
+generated text and it tries to explain
+11:14
+four bit quantization with a big box of
+11:17
+crayons and I'm not going through all of
+11:19
+this right now but it's very interesting
+11:22
+to read how it tries to explain it using
+11:25
+just colors I'm basically saying okay we
+11:28
+can represent something by using two
+11:30
+colors instead of itself so you can
+11:32
+represent orange with red and yellow so
+11:35
+you don't need orange
+11:37
+thereby reducing the amount of crayons
+11:39
+that you need
+11:41
+super fun to read
+11:43
+llama 2 has a specific template that you
+11:45
+need to follow for the specific prompt
+11:47
+engineering looks like follows what you
+11:50
+have here is a system prompt that's what
+11:52
+you start with it's how you guide the
+11:55
+model into making sure to understand
+11:57
+what it's
+11:58
+well it's uses or we should model or
+12:01
+what kind of assistant it should be it's
+12:04
+describing its personality in a way
+12:08
+then you have your user prompt
+12:11
+where we essentially ask it question and
+12:13
+then you have an answer and it has
+12:15
+certain tags that it was trained on to
+12:18
+make sure it differentiates between okay
+12:20
+this is a system prompt this is user
+12:22
+prompt this is an answer etc etc we need
+12:25
+to make sure that we follow this
+12:27
+template for Pronto engineering as you
+12:30
+can see we didn't do it here that's
+12:32
+because we just asked it the question
+12:34
+and didn't do any advanced engineering
+12:37
+here
+12:38
+now that we have this template let's go
+12:40
+a little bit deeper into how we're going
+12:43
+to use it for topic modeling
+12:45
+we have here the system prompt so like I
+12:47
+mentioned that's basically describing
+12:49
+who llama2 is and in this case lamma 2
+12:53
+is a helpful respectful and honest
+12:56
+assistant for labeling topics
+12:58
+kept it simple on purpose just for this
+13:01
+tutorial but we can also extend it to
+13:03
+make sure it gives short answers to make
+13:06
+sure it doesn't say anything weird or
+13:11
+you know how creative it can be how
+13:14
+repetitive it can be can everything you
+13:18
+want into system prompt it will take up
+13:20
+some of the token spaces token limits
+13:23
+but for now just as one sentence should
+13:26
+be should suffice into creating the
+13:28
+topics that we're interested in
+13:31
+then we're going to the user prompt and
+13:35
+normally we would just ask the question
+13:36
+like we did before right but this is a
+13:39
+more advanced example and when you're
+13:41
+approaching Advanced examples
+13:43
+um what you want to give it is an output
+13:46
+of okay this is how
+13:48
+what I want to see as a result this is
+13:51
+how you should work so essentially what
+13:54
+we want to do is we want to create an
+13:56
+example prompt
+13:58
+a prompt that basically shows comma 2 if
+14:01
+you do this like exactly like it is
+14:04
+shown here then you're doing a good job
+14:06
+this is called few shot learning where
+14:08
+you give it to the example of what it
+14:10
+should output in this case I have said
+14:13
+okay I have a topic that contains a
+14:15
+number of documents and these are about
+14:18
+meets and their impacts on the
+14:21
+environment
+14:22
+then I say okay this topic is described
+14:25
+by the following keyword so we have meat
+14:27
+beef missions
+14:29
+processed stuff like that then based on
+14:32
+the information on the topic above
+14:35
+create a short label
+14:36
+and the label I think should be
+14:38
+environmental impacts of eating meat
+14:41
+this is the example that we're gonna
+14:43
+give llama to so it will become much
+14:46
+more accurate when it wants to create or
+14:49
+when it creates label step interested in
+14:52
+that we're working for
+14:54
+this is a very awesome technique for now
+14:58
+taking a large language model to the
+15:00
+next step
+15:02
+and then we have our main prompt which
+15:04
+is exactly what we did above but this
+15:07
+time without specific documents and
+15:09
+without specific keywords
+15:13
+because what we can do here is we can
+15:15
+use this tag to put any documents that
+15:18
+we want in there for specific topics
+15:21
+so instead of doing the example that we
+15:23
+did before we create a sort of a
+15:26
+template that we use each time we ask it
+15:29
+for a label for a specific prompt
+15:33
+oh
+15:34
+label for a specific topic of course
+15:38
+so we have the documents that it should
+15:40
+get it should a number of keywords that
+15:42
+we give it after topic modeling CTF IDF
+15:45
+and then again based on the information
+15:47
+about the topic above please create a
+15:49
+short table of this topic and then we
+15:52
+will output as a label what we're
+15:54
+interested in
+15:57
+then we combine that all into
+16:00
+prompt template so to say so where where
+16:02
+we have a system prompt who is Amato we
+16:06
+have an example prompt this is what the
+16:08
+output should look like and then we have
+16:10
+the main prompt which is essentially our
+16:12
+question please create a short label of
+16:15
+the topic
+BERTopic - Preparing the sub-models
+16:17
+what we're doing here
+16:19
+is we sharing our embeddings
+16:22
+her topic does that uh under the hood
+16:25
+but we want to do it a little bit more
+16:27
+explicit we want to create the
+16:30
+embeddings for our abstracts because we
+16:32
+can then more easily use them later on
+16:34
+instead of having to recalculate them
+16:36
+every single time
+16:38
+and I'm using here a model that's
+16:41
+well at least that's new with the
+16:43
+release of this video and it's really
+16:46
+high on top of the let's say the
+16:48
+embedding leaderboard
+16:50
+using sentence Transformers which is an
+16:52
+amazing framework for loading in a bunch
+16:54
+of embedding models this model really
+16:57
+works very well and it was also just fun
+17:00
+using a new state-of-the-art model 8-ish
+17:03
+yard
+17:06
+after we've created embedding for each
+17:08
+of those models we will Define a few sub
+17:10
+models and those are sub models will be
+17:13
+used within bird topic and
+17:16
+well
+17:18
+they will be used automatically of
+17:20
+course but here we Define a few things
+17:22
+that we're a little bit more interested
+17:23
+in so umap has a tendency to
+17:26
+consistently generate new answers if you
+17:30
+run it over and over and over
+17:31
+uh that's not necessarily a problem but
+17:34
+if you want to reproduce your results we
+17:36
+need to set a random state
+17:39
+we also Define the clustering model that
+17:42
+we're going to be using hdb scan we're
+17:44
+increasing minimum cluster size by
+17:47
+increasing it we will get fewer topics
+17:50
+or clusters that are generated
+17:52
+that's something we really want to do
+17:54
+because hdb scan has a tendency to
+17:57
+generate many micro clusters which can
+18:00
+be very interesting
+18:01
+for the purposes
+18:03
+tutorial let's just keep
+18:05
+just just a few hundred of them
+18:09
+after that we pre-reduced the embeddings
+18:12
+for visualization purposes what does
+18:14
+this mean
+18:15
+s that we go from embeddings which are I
+18:19
+think 700 something in size
+18:22
+just two dimension
+18:24
+those two dimensions are important
+18:26
+because
+18:27
+I can try as much as I want but I cannot
+18:30
+visualize 700 dimensions and visualize
+18:33
+sudo and with two it gives us a
+18:37
+proxy or what the embedding structure
+18:41
+looks like and that makes it helpful for
+18:43
+us to visualize then resulting topics
+18:46
+their labels the documents that we can
+18:48
+find in them etc etc that's what we did
+18:51
+here
+18:54
+are we going to something a little bit
+18:55
+more interesting the representation
+18:57
+models but we're using llama2 to
+18:59
+represent topics that we have
+19:02
+we're also using efidf Create keywords
+19:05
+also representation
+19:08
+here we're doing a few more
+19:09
+representations on top of that
+19:12
+specifically keyboards which is a
+19:15
+keyword inspired
+19:17
+representation a maximum marginal
+19:20
+relevance
+19:21
+which produces the or increases the
+19:26
+diversity of the resulting keywords
+19:28
+because if we have a topic that has the
+19:31
+words car and cars you know that's
+19:33
+that's redundant right either remove car
+19:36
+or cars that's what maximum relevance
+19:38
+does us
+19:40
+what we get we get a bunch of
+19:43
+representations and I'm doing this here
+19:46
+to show you the difference between
+19:48
+llama2 keyboard MMR CTF IDF so the
+19:52
+keyword based representation
+19:55
+and we can go through them in depth but
+19:57
+there's a lot of documentation in the in
+20:00
+the topic
+20:01
+official documentation page
+20:04
+he show you what representations would
+20:07
+look like
+BERTopic - Training + Output
+20:09
+now we go into training I've already
+20:11
+done this it takes after embedding the
+20:14
+models 15 to 20 minutes
+20:18
+and we pass bird topic a number of
+20:20
+things so the embedding model that we
+20:22
+used to go from abstracts to embeddings
+20:25
+we use the umap model to do
+20:27
+dimensionality reduction of the
+20:30
+embeddings
+20:32
+the hdb scan model to Cluster the
+20:34
+reduced embeddings and then our set of
+20:37
+representation models
+20:40
+to generate all those different outputs
+20:42
+the great thing about that is that it
+20:44
+doesn't just generate one output it
+20:47
+generates multiple
+20:49
+tremendously helpful when comparing
+20:51
+topics when seeing what a label should
+20:55
+be
+20:55
+etc etc because a topic is more than
+20:58
+just one perspective of keywords can be
+21:02
+a label it can be a summary it can be a
+21:04
+poem for all I care it really doesn't
+21:07
+matter it's up to you what you think a
+21:10
+topic should represent of what the thing
+21:12
+is that should be should represent the
+21:15
+topic
+21:16
+after training we now have our topic
+21:18
+model and this is where we can a little
+21:20
+bit more of interactive coding when we
+21:23
+run
+21:24
+topicmodel.getinfo we will see a data
+21:27
+frame and in this data frame you will
+21:29
+have a number of representations of
+21:31
+specific topics
+21:32
+the keyboard the llama
+21:35
+maximum marginal relevance
+21:37
+representative talks there's a lot of
+21:38
+things happening here
+21:40
+so instead of you know a lot of text a
+21:43
+lot of things let's just go into a few
+21:45
+specific topics
+21:47
+and I've chosen one here
+21:51
+what we do is when we run get topic on
+21:54
+the topic model for a very specific
+21:57
+topic so zero here it will shows us
+22:00
+the representations that we can extract
+22:03
+let's see what happens if we take review
+22:05
+take a look at the main topic
+22:09
+but this is generated with CTF IDF and
+22:12
+topic zero then has the keywords policy
+22:14
+reinforcement RL agent learning Etc and
+22:18
+that's clearly about reinforcement right
+22:21
+but it also has words like to and in
+22:23
+which doesn't really tell you much about
+22:26
+about the topic let's see how MMR
+22:31
+has done it doesn't change the
+22:34
+representation that much because it
+22:35
+reduces the or increases the diversity
+22:38
+and to and in
+22:40
+he'll die first in a way they're just
+22:42
+not that accurate
+22:44
+stats oh
+22:46
+let's see what keyboard does
+22:48
+and keyboard does a much more
+22:51
+interesting representation already
+22:53
+enforcement learning robots Dynamic
+22:57
+algorithms Model Behavior these words
+23:01
+are much more interesting compared to
+23:04
+the words we had before because they
+23:05
+were upwards in there
+23:08
+this already describes much better
+23:12
+but there's still keywords right there's
+23:14
+still keywords that we have to interpret
+23:16
+can be difficult because now I have to
+23:19
+manually assign hundreds of topics that
+23:22
+we created really does not make sense oh
+23:25
+let's see what amatu has created for us
+23:28
+and it has created a very interesting
+23:31
+label instead of those keyword the label
+23:34
+here is deep reinforcement learning
+23:36
+challenges
+23:38
+now we already saw that it wasn't about
+23:40
+reinforcement learning but now it has
+23:42
+created a label for us to interpret look
+23:45
+at
+23:46
+few
+23:48
+which also makes communication much much
+23:51
+easier because if you're going to
+23:52
+communicate keywords to stakeholders
+23:55
+they are going to ask but each and every
+23:57
+single keyword means what those values
+24:00
+will exactly mean and those are
+24:03
+important questions
+24:05
+but for domain expert maybe not all that
+24:08
+relevant
+24:09
+but to have a llama2 representation
+24:12
+instead that you can show next
+24:15
+communication much much easier
+24:17
+we can continue exploring topics as we
+24:19
+go so topic 2 audio visuals speech
+24:22
+separation and recognition those are the
+24:25
+kind of labels that you would expect
+24:27
+when you do topic modeling right
+24:30
+keyword based is important but having
+24:33
+this additional perspective if you
+24:37
+as I mentioned A New Perspective
+24:40
+I've receive preserving Federated
+24:42
+learning
+24:44
+something I'm working on quite
+24:46
+frequently nowadays but decentralized
+24:48
+distributed differential it's indeed
+24:51
+about
+24:52
+privacy preserving Federated learning
+24:56
+and using all of this
+24:58
+we can explore these topics and we could
+25:01
+go in depth in what all of this means
+25:05
+next
+25:07
+we run this piece of code and what this
+25:09
+is doing it essentially assigns the
+25:12
+lamba 2 labels have created
+25:15
+to the topics
+25:17
+and this is important because as a
+25:19
+default the labels will be created based
+25:22
+on the keywords and now what we want of
+25:25
+course is the llama2 labels in action
+Visualization
+25:28
+so the last step in this pipeline is to
+25:31
+visualize the documents what we can do
+25:33
+is we can run visualized documents with
+25:35
+the reduced embeddings that we have
+25:39
+we can use the lamba 2 labels to
+25:41
+visualize them
+25:44
+who highlight them and to even see which
+25:47
+documents can be found in these topics
+25:50
+here we have one about multi-agent
+25:52
+reinforcement learning which obviously
+25:54
+is about deep reinforcement learning
+25:56
+challenges you can continue doing this
+25:59
+and exploring the interesting topics
+26:02
+do adversarial robustness and deep
+26:05
+learning audio visual speech separation
+26:08
+and recognition
+26:09
+if we go over this we see in the text to
+26:12
+speech we see a lot of speech like
+26:15
+topics or at least documents that appear
+26:17
+here
+26:19
+this allows us
+26:20
+to go in that with topic modeling using
+26:24
+lamba 2 using these kind of techniques
+26:27
+allows us ectopic modeling much more
+26:29
+easier much more intuitive with these
+26:32
+kind of labels still requires relatively
+26:36
+large deep views but in the future this
+26:38
+will become easier and easier as we go
+26:41
+forward
+26:43
+this was bertopic together with llama2
+26:45
+and illumination that I think works
+26:48
+relatively well
+26:50
+if you enjoyed it if you like this video
+26:52
+please leave a like or give some
+26:56
+feedback
+26:57
+make sure I do the best that I can but
+27:00
+this is a first for me so any feedback
+27:02
+definitely appreciate it if you dislike
+27:05
+the video just dislike it also
+27:07
+communicate for me but I'm doing well
+27:09
+and what I'm doing
+27:11
+correctly hopefully the videos will get
+27:14
+much better in the future
+27:16
+thank you for watching and to the next
+27:18
+tutorial
